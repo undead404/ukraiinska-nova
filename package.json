@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "@atproto/api": "0.16.7",
+    "axios": "~1.11.0",
+    "dotenv": "~17.2.2",
+    "node-telegram-bot-api": "0.66.0",
+    "spotify-web-api-node": "~5.0.2"
+  },
+  "description": "Scraper for new music releases using Spotify API",
+  "devDependencies": {
+    "@eslint/js": "^9.35.0",
+    "@types/node": "22",
+    "@types/node-telegram-bot-api": "0.64.10",
+    "@types/spotify-web-api-node": "~5.0.2",
+    "@typescript-eslint/eslint-plugin": "^8.42.0",
+    "@typescript-eslint/parser": "^8.42.0",
+    "eslint": "^9.35.0",
+    "eslint-config-prettier": "^10.1.8",
+    "prettier": "^3.6.2",
+    "tsx": "^4.20.5",
+    "typescript": "^5.9.2",
+    "typescript-eslint": "^8.42.0"
+  },
+  "main": "dist/index.js",
+  "name": "spotify-release-scraper",
+  "scripts": {
+    "build": "tsc",
+    "dev": "node --import tsx/esm src/index.ts",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "start": "node dist/index.js",
+    "watch": "tsc -w"
+  },
+  "type": "module",
+  "version": "1.0.0"
+}
