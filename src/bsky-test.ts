@@ -1,14 +1,11 @@
-import { config } from "dotenv";
-import { BlueskyService } from "./services/bluesky";
-
-// Завантажуємо змінні середовища
-config();
+import { BlueskyService } from './services/bluesky';
+import environment from './environment';
 
 async function main() {
   const bluesky = new BlueskyService({
-    service: "https://bsky.social",
-    identifier: process.env.BLUESKY_IDENTIFIER!, // або email
-    password: process.env.BLUESKY_PASSWORD!, // використовуйте App Password, не основний пароль!
+    service: 'https://bsky.social',
+    identifier: environment.BLUESKY_IDENTIFIER, // або email
+    password: environment.BLUESKY_PASSWORD, // використовуйте App Password, не основний пароль!
   });
 
   try {
@@ -17,7 +14,7 @@ async function main() {
 
     // Короткий текст
     const shortText =
-      "Привіт, світ! 🌍 Це тестовий пост з українським текстом.";
+      'Привіт, світ! 🌍 Це тестовий пост з українським текстом.';
     await bluesky.publishText(shortText);
 
     // Довгий текст для треду
@@ -40,7 +37,7 @@ async function main() {
 
     await bluesky.publishText(longText.trim());
   } catch (error) {
-    console.error("Помилка:", error);
+    console.error('Помилка:', error);
   }
 }
 

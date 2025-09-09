@@ -201,9 +201,14 @@ export class TelegramService {
   async sendToChannel(
     text: string,
     options: ParseModeOptions & { delay?: number } = {},
+    image?: { imageUrl: string; altText: string },
   ): Promise<SendResult> {
     if (!this.config.channelId) {
       throw new Error('ID каналу не налаштовано в конфігурації');
+    }
+
+    if (image) {
+      return this.sendPhoto(this.config.channelId, image.imageUrl, text);
     }
 
     return this.sendText(this.config.channelId, text, options);

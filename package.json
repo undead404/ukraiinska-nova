@@ -4,11 +4,13 @@
     "axios": "~1.11.0",
     "dotenv": "~17.2.2",
     "node-telegram-bot-api": "0.66.0",
-    "spotify-web-api-node": "~5.0.2"
+    "spotify-web-api-node": "~5.0.2",
+    "valibot": "~1.1.0"
   },
   "description": "Scraper for new music releases using Spotify API",
   "devDependencies": {
     "@eslint/js": "^9.35.0",
+    "@total-typescript/ts-reset": "0.6.1",
     "@types/node": "22",
     "@types/node-telegram-bot-api": "0.64.10",
     "@types/spotify-web-api-node": "~5.0.2",

@@ -5,7 +5,6 @@ import type {
   ArtistSearchResult,
   ScrapingOptions,
 } from '../types/index.js';
-import joinArtists from '../helpers/join-artists.js';
 
 export class SpotifyService {
   private spotifyApi: SpotifyWebApi;
@@ -144,7 +143,7 @@ export class SpotifyService {
             const albumDetails = await this.spotifyApi.getAlbum(album.id);
 
             const release: MusicRelease = {
-              artist: joinArtists(albumDetails.body.artists.map((a) => a.name)),
+              artists: albumDetails.body.artists.map((a) => a.name),
               title: album.name,
               releaseDate,
               type: album.album_type as 'album' | 'single' | 'compilation',

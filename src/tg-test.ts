@@ -1,13 +1,10 @@
+import environment from './environment';
 import { TelegramService } from './services/telegram';
-import { config } from 'dotenv';
-
-// Завантажуємо змінні середовища
-config();
 
 // Приклад використання
 async function main() {
   const telegram = new TelegramService({
-    token: process.env.TELEGRAM_BOT_TOKEN!,
+    token: environment.TELEGRAM_BOT_TOKEN,
     channelId: '@ukraiinskanova', // або ID чату
   });
 

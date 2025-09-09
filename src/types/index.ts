@@ -4,10 +4,11 @@ export interface SpotifyConfig {
 }
 
 export interface MusicRelease {
-  artist: string;
+  artists: string[];
   title: string;
   releaseDate: string;
-  type: "album" | "single" | "compilation";
+  tags?: string[];
+  type: 'album' | 'single' | 'compilation';
   totalTracks: number;
   url: string;
   imageUrl?: string;

@@ -1,49 +1,32 @@
-import * as dotenv from 'dotenv';
-import { SpotifyService } from './services/spotify.js';
-import { ReleaseScraper } from './services/scraper.js';
-import { ScrapingOptions } from './types/index.js';
-import { readFile } from 'fs/promises';
-import { BlueskyService } from './services/bluesky.js';
+import environment from './environment.js';
+import hashtagify from './helpers/hashtagify.js';
+import joinArtists from './helpers/join-artists.js';
 import translateAlbumType from './helpers/translate-album-type.js';
+import readFileArtists from './read-artists.js';
+import { BlueskyService } from './services/bluesky.js';
+import { getReleaseTags } from './services/lastfm.js';
+import { ReleaseScraper } from './services/scraper.js';
+import { SpotifyService } from './services/spotify.js';
 import { TelegramService } from './services/telegram.js';
-
-// Завантажуємо змінні середовища
-dotenv.config();
+import { ScrapingOptions } from './types/index.js';
 
 async function main(): Promise<void> {
   try {
     // Конфігурація Spotify API
     const spotifyConfig = {
-      clientId: process.env.SPOTIFY_CLIENT_ID || '',
-      clientSecret: process.env.SPOTIFY_CLIENT_SECRET || '',
+      clientId: environment.SPOTIFY_CLIENT_ID,
+      clientSecret: environment.SPOTIFY_CLIENT_SECRET,
     };
 
-    if (!spotifyConfig.clientId || !spotifyConfig.clientSecret) {
-      throw new Error(
-        'Відсутні SPOTIFY_CLIENT_ID або SPOTIFY_CLIENT_SECRET у .env файлі',
-      );
-    }
     // Зчитати шлях до файлу з артистами з командного рядка або використовувати за замовчуванням
     const artistsFilePath =
       process.argv[2] && process.argv[2].trim() !== ''
         ? process.argv[2]
         : './artists.txt';
 
-    // Список артистів
-    const artists = await readFile(artistsFilePath, 'utf-8').then((data) =>
-      data
-        // Окремі артисти на різних рядках
-        .split('\n')
-        // Видаляємо зайві пробільні символи
-        .map((line) => line.trim())
-        // Видаляємо порожні рядки
-        .filter((line) => line.length > 0)
-        // Видаляємо дублікати
-        .filter((line, index, self) => self.indexOf(line) === index),
-    );
-
+    const artists = await readFileArtists(artistsFilePath);
     if (artists.length === 0) {
-      throw new Error('Файл artists.txt порожній або не містить жодних назв');
+      throw new Error('Список артистів порожній. Додайте артистів у файл.');
     }
 
     // Налаштування періоду (літо 2025)
@@ -90,36 +73,45 @@ async function main(): Promise<void> {
       `archive/releases_${options.startDate}.csv`,
     );
 
-    const summaryLines =
+    for (const release of releases) {
+      release.tags = await getReleaseTags(release);
+    }
+
+    const posts: Array<{
+      imageUrl?: string;
+      links?: Array<{ title: string; url: string }>;
+      text: string;
+    }> =
       releases.length === 0
         ? [
-            '🚀 Сьогодні нових релізів немає! 🚀',
-            'Залишайтеся з нами, поки продовжуючи слухати класику! 🎵🇺🇦',
+            {
+              text: `🚀 Сьогодні нових релізів немає! 🚀\nЗалишайтеся з нами, поки продовжуючи слухати класику! 🎵🇺🇦`,
+            },
           ]
-        : [
-            `Всі нові релізи за ${options.startDate}, всього ${releases.length}💿, або ${releases.reduce((result, item) => result + item.totalTracks, 0)}🎵`,
-            '',
-            ...releases.map(
-              (r) =>
-                `- ${r.artist} — ${r.title} (${translateAlbumType(r.type)})`,
-            ),
-            '',
-            'Далі буде більше! 🚀',
-          ];
-
-    const summaryText = summaryLines.join('\n');
+        : releases.map((release) => ({
+            imageUrl: release.imageUrl,
+            links: [
+              {
+                title: 'SPOTIFY',
+                url: release.url,
+              },
+            ],
+            text: `🎤 ${joinArtists(release.artists)}\n💿 ${release.title} (${translateAlbumType(
+              release.type,
+            )})\n\n${release.tags?.map((tag) => `#${hashtagify(tag)}`).join(' ')}`,
+          }));
     // Публікація у Bluesky
 
     const bluesky = new BlueskyService({
       service: 'https://bsky.social',
-      identifier: process.env.BLUESKY_IDENTIFIER!, // або email
-      password: process.env.BLUESKY_PASSWORD!, // використовуйте App Password, не основний пароль!
+      identifier: environment.BLUESKY_IDENTIFIER, // або email
+      password: environment.BLUESKY_PASSWORD, // використовуйте App Password, не основний пароль!
     });
 
     await bluesky.login();
 
     const telegram = new TelegramService({
-      token: process.env.TELEGRAM_BOT_TOKEN!,
+      token: environment.TELEGRAM_BOT_TOKEN || '',
       channelId: '@ukraiinskanova', // або ID чату
     });
 
@@ -127,15 +119,51 @@ async function main(): Promise<void> {
     console.log(`🤖 Бот: @${botInfo.username}`);
 
     console.log('\n📝 Підготовка до публікації у Bluesky і Telegram:');
-    console.log(summaryText);
+    console.log(posts);
 
-    if (!process.env.DEBUG) {
+    if (!environment.DEBUG) {
       console.log('\n🚀 Публікація у Bluesky і Telegram...');
 
-      await Promise.all([
-        bluesky.publishText(summaryText),
-        telegram.sendToChannel(summaryText),
-      ]);
+      let rootPost: { uri: string; cid: string } | undefined = undefined;
+      let previousPost: { uri: string; cid: string } | undefined = undefined;
+
+      for (const post of posts) {
+        const { posts: publishedPosts } = await bluesky.publishText(
+          post.text +
+            // add links if any
+            (post.links && post.links.length > 0
+              ? '\n' +
+                post.links
+                  .map((link) => `${link.title}: ${link.url}`)
+                  .join('\n')
+              : ''),
+          rootPost && previousPost
+            ? { root: rootPost, parent: previousPost }
+            : undefined,
+          post.imageUrl
+            ? { imageUrl: post.imageUrl, altText: 'Обкладинка релізу' }
+            : undefined,
+        );
+        previousPost = publishedPosts.at(-1);
+        if (!rootPost) {
+          rootPost = previousPost;
+        }
+
+        // Повідомлення в Telegram
+        await telegram.sendToChannel(
+          post.text +
+            (post.links && post.links.length > 0
+              ? '\n' +
+                post.links
+                  .map((link) => `${link.title}: ${link.url}`)
+                  .join('\n')
+              : ''),
+          {},
+          post.imageUrl
+            ? { imageUrl: post.imageUrl, altText: 'Обкладинка релізу' }
+            : undefined,
+        );
+      }
     }
 
     console.log('\n✅ Обробка завершена!');

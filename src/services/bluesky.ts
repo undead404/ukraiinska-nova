@@ -1,4 +1,7 @@
-import { AtpAgent, BlobRef } from "@atproto/api";
+import { AtpAgent, RichText } from '@atproto/api';
+
+import getTextLength from '../helpers/get-text-length.js';
+import splitTextForThread from '../helpers/split-text.js';
 
 interface BlueskyConfig {
   service: string;
@@ -25,7 +28,7 @@ export class BlueskyService {
   constructor(config: BlueskyConfig) {
     this.config = config;
     this.agent = new AtpAgent({
-      service: config.service || "https://bsky.social",
+      service: config.service || 'https://bsky.social',
     });
   }
 
@@ -39,68 +42,11 @@ export class BlueskyService {
         password: this.config.password,
       });
       this.isAuthenticated = true;
-      console.log("✅ Успішно авторизовано в Bluesky");
+      console.log('✅ Успішно авторизовано в Bluesky');
     } catch (error) {
-      console.error("❌ Помилка авторизації:", error);
-      throw new Error("Не вдалося авторизуватися в Bluesky");
+      console.error('❌ Помилка авторизації:', error);
+      throw new Error('Не вдалося авторизуватися в Bluesky');
     }
-  }
-
-  /**
-   * Підрахунок довжини тексту з урахуванням Unicode символів
-   */
-  private getTextLength(text: string): number {
-    // Використовуємо Array.from для коректного підрахунку Unicode символів
-    return Array.from(text).length;
-  }
-
-  /**
-   * Розбиття тексту на частини для треду з урахуванням Unicode
-   */
-  private splitTextForThread(text: string): string[] {
-    const parts: string[] = [];
-    const textArray = Array.from(text);
-
-    let currentPart = "";
-    let i = 0;
-
-    while (i < textArray.length) {
-      const char = textArray[i];
-      const testPart = currentPart + char;
-
-      if (this.getTextLength(testPart) <= this.MAX_POST_LENGTH) {
-        currentPart = testPart;
-        i++;
-      } else {
-        if (currentPart) {
-          // Шукаємо останній пробіл або розділовий знак для розриву
-          //   const lastSpaceIndex = currentPart.lastIndexOf(" ");
-          const lastNewlineIndex = currentPart.lastIndexOf("\n");
-          //   const breakIndex = Math.max(lastSpaceIndex, lastNewlineIndex);
-          const breakIndex = lastNewlineIndex;
-
-          if (breakIndex > 0 && breakIndex > currentPart.length - 50) {
-            // Розриваємо по пробілу/новому рядку
-            parts.push(currentPart.substring(0, breakIndex).trim());
-            currentPart = currentPart.substring(breakIndex + 1) + char;
-          } else {
-            // Розриваємо примусово
-            parts.push(currentPart.trim());
-            currentPart = char;
-          }
-        } else {
-          // Якщо навіть один символ не поміщається (не повинно трапитися)
-          currentPart = char;
-        }
-        i++;
-      }
-    }
-
-    if (currentPart.trim()) {
-      parts.push(currentPart.trim());
-    }
-
-    return parts.filter((part) => part.length > 0);
   }
 
   /**
@@ -111,15 +57,39 @@ export class BlueskyService {
     reply?: {
       root: { uri: string; cid: string };
       parent: { uri: string; cid: string };
-    }
+    },
+    image?: { imageUrl: string; altText: string },
+    tags?: string[],
   ): Promise<{ uri: string; cid: string }> {
     if (!this.isAuthenticated) {
-      throw new Error("Потрібно спочатку авторизуватися");
+      throw new Error('Потрібно спочатку авторизуватися');
     }
+
+    const imageBlob = image
+      ? await this.agent.uploadBlob(await (await fetch(image.imageUrl)).blob())
+      : undefined;
+
+    const richText = new RichText({ text });
+
+    await richText.detectFacets(this.agent);
 
     try {
       const response = await this.agent.post({
-        text: text,
+        // add image to the post
+        embed:
+          image && imageBlob
+            ? {
+                $type: 'app.bsky.embed.images',
+                images: [
+                  {
+                    image: imageBlob.data.blob,
+                    alt: image.altText,
+                  },
+                ],
+              }
+            : undefined,
+        facets: richText.facets,
+        text: richText.text,
         reply: reply,
         createdAt: new Date().toISOString(),
       });
@@ -129,7 +99,7 @@ export class BlueskyService {
         cid: response.cid,
       };
     } catch (error) {
-      console.error("❌ Помилка публікації поста:", error);
+      console.error('❌ Помилка публікації поста:', error);
       throw error;
     }
   }
@@ -138,41 +108,49 @@ export class BlueskyService {
    * Публікація тексту (автоматично створює тред якщо потрібно)
    */
   async publishText(
-    text: string
+    text: string,
+    previous?: {
+      root: { uri: string; cid: string };
+      parent: { uri: string; cid: string };
+    },
+    image?: { imageUrl: string; altText: string },
+    tags?: string[],
   ): Promise<{ success: boolean; posts: Array<{ uri: string; cid: string }> }> {
     if (!this.isAuthenticated) {
       await this.login();
     }
 
-    const textLength = this.getTextLength(text);
+    const textLength = getTextLength(text);
     const posts: Array<{ uri: string; cid: string }> = [];
 
     try {
       if (textLength <= this.MAX_POST_LENGTH) {
         // Простий пост
-        console.log("📝 Публікуємо звичайний пост...");
-        const post = await this.createPost(text);
+        console.log('📝 Публікуємо звичайний пост...');
+        const post = await this.createPost(text, previous, image, tags);
         posts.push(post);
-        console.log("✅ Пост опубліковано!");
+        console.log('✅ Пост опубліковано!');
       } else {
         // Створюємо тред
-        console.log("🧵 Створюємо тред з кількох постів...");
-        const textParts = this.splitTextForThread(text);
+        console.log('🧵 Створюємо тред з кількох постів...');
+        const textParts = splitTextForThread(text, this.MAX_POST_LENGTH);
         console.log(`📊 Розбито на ${textParts.length} частин`);
 
-        let rootPost: { uri: string; cid: string } | null = null;
-        let parentPost: { uri: string; cid: string } | null = null;
+        let rootPost: { uri: string; cid: string } | null =
+          previous?.root ?? null;
+        let parentPost: { uri: string; cid: string } | null =
+          previous?.parent ?? null;
 
         for (let i = 0; i < textParts.length; i++) {
           const partText = textParts[i];
           const isFirst = i === 0;
 
           console.log(
-            `📤 Публікуємо частину ${i + 1}/${textParts.length} (${this.getTextLength(partText)} символів)`
+            `📤 Публікуємо частину ${i + 1}/${textParts.length} (${getTextLength(partText)} символів)`,
           );
 
           const reply =
-            !isFirst && rootPost && parentPost
+            rootPost && parentPost
               ? {
                   root: rootPost,
                   parent: parentPost,
@@ -193,12 +171,12 @@ export class BlueskyService {
           }
         }
 
-        console.log("✅ Тред опубліковано!");
+        console.log('✅ Тред опубліковано!');
       }
 
       return { success: true, posts };
     } catch (error) {
-      console.error("❌ Помилка публікації:", error);
+      console.error('❌ Помилка публікації:', error);
       return { success: false, posts };
     }
   }
@@ -217,7 +195,7 @@ export class BlueskyService {
       });
       return response.data;
     } catch (error) {
-      console.error("❌ Помилка отримання профілю:", error);
+      console.error('❌ Помилка отримання профілю:', error);
       throw error;
     }
   }
