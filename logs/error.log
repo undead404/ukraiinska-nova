@@ -1,0 +1,810 @@
+Помилка отримання релізів для !alarm: WebapiError: [object Object]
+    at _toError (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:47:10)
+    at /Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:71:25
+    at Request.callback (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:905:3)
+    at IncomingMessage.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:1127:20)
+    at Stream.emit (node:events:518:28)
+    at Unzip.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/unzip.js:53:12)
+    at Unzip.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  body: {},
+  headers: {
+    'cache-control': 'private, max-age=0',
+    'retry-after': '4779',
+    'access-control-allow-origin': '*',
+    'access-control-allow-headers': 'Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token',
+    'access-control-allow-methods': 'GET, POST, OPTIONS, PUT, DELETE, PATCH',
+    'access-control-allow-credentials': 'true',
+    'access-control-max-age': '604800',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000',
+    'x-content-type-options': 'nosniff',
+    'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000, h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+    date: 'Wed, 10 Sep 2025 05:15:37 GMT',
+    server: 'envoy',
+    via: 'HTTP/2 edgeproxy, 1.1 google',
+    connection: 'close',
+    'transfer-encoding': 'chunked'
+  },
+  statusCode: 429
+}
+Помилка отримання релізів для 0%Mercury: WebapiError: [object Object]
+    at _toError (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:47:10)
+    at /Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:71:25
+    at Request.callback (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:905:3)
+    at IncomingMessage.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:1127:20)
+    at Stream.emit (node:events:518:28)
+    at Unzip.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/unzip.js:53:12)
+    at Unzip.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  body: {},
+  headers: {
+    'cache-control': 'private, max-age=0',
+    'retry-after': '4778',
+    'access-control-allow-origin': '*',
+    'access-control-allow-headers': 'Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token',
+    'access-control-allow-methods': 'GET, POST, OPTIONS, PUT, DELETE, PATCH',
+    'access-control-allow-credentials': 'true',
+    'access-control-max-age': '604800',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000',
+    'x-content-type-options': 'nosniff',
+    'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000, h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+    date: 'Wed, 10 Sep 2025 05:15:38 GMT',
+    server: 'envoy',
+    via: 'HTTP/2 edgeproxy, 1.1 google',
+    connection: 'close',
+    'transfer-encoding': 'chunked'
+  },
+  statusCode: 429
+}
+Помилка отримання релізів для 100лиця: WebapiError: [object Object]
+    at _toError (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:47:10)
+    at /Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:71:25
+    at Request.callback (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:905:3)
+    at IncomingMessage.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:1127:20)
+    at Stream.emit (node:events:518:28)
+    at Unzip.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/unzip.js:53:12)
+    at Unzip.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  body: {},
+  headers: {
+    'cache-control': 'private, max-age=0',
+    'retry-after': '4777',
+    'access-control-allow-origin': '*',
+    'access-control-allow-headers': 'Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token',
+    'access-control-allow-methods': 'GET, POST, OPTIONS, PUT, DELETE, PATCH',
+    'access-control-allow-credentials': 'true',
+    'access-control-max-age': '604800',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000',
+    'x-content-type-options': 'nosniff',
+    'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000, h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+    date: 'Wed, 10 Sep 2025 05:15:39 GMT',
+    server: 'envoy',
+    via: 'HTTP/2 edgeproxy, 1.1 google',
+    connection: 'close',
+    'transfer-encoding': 'chunked'
+  },
+  statusCode: 429
+}
+Помилка отримання релізів для 1310M: WebapiError: [object Object]
+    at _toError (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:47:10)
+    at /Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:71:25
+    at Request.callback (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:905:3)
+    at IncomingMessage.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:1127:20)
+    at Stream.emit (node:events:518:28)
+    at Unzip.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/unzip.js:53:12)
+    at Unzip.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  body: {},
+  headers: {
+    'cache-control': 'private, max-age=0',
+    'retry-after': '4776',
+    'access-control-allow-origin': '*',
+    'access-control-allow-headers': 'Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token',
+    'access-control-allow-methods': 'GET, POST, OPTIONS, PUT, DELETE, PATCH',
+    'access-control-allow-credentials': 'true',
+    'access-control-max-age': '604800',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000',
+    'x-content-type-options': 'nosniff',
+    'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000, h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+    date: 'Wed, 10 Sep 2025 05:15:40 GMT',
+    server: 'envoy',
+    via: 'HTTP/2 edgeproxy, 1.1 google',
+    connection: 'close',
+    'transfer-encoding': 'chunked'
+  },
+  statusCode: 429
+}
+Помилка отримання релізів для 19.99: WebapiError: [object Object]
+    at _toError (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:47:10)
+    at /Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:71:25
+    at Request.callback (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:905:3)
+    at IncomingMessage.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:1127:20)
+    at Stream.emit (node:events:518:28)
+    at Unzip.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/unzip.js:53:12)
+    at Unzip.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  body: {},
+  headers: {
+    'cache-control': 'private, max-age=0',
+    'retry-after': '4775',
+    'access-control-allow-origin': '*',
+    'access-control-allow-headers': 'Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token',
+    'access-control-allow-methods': 'GET, POST, OPTIONS, PUT, DELETE, PATCH',
+    'access-control-allow-credentials': 'true',
+    'access-control-max-age': '604800',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000',
+    'x-content-type-options': 'nosniff',
+    'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000, h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+    date: 'Wed, 10 Sep 2025 05:15:41 GMT',
+    server: 'envoy',
+    via: 'HTTP/2 edgeproxy, 1.1 google',
+    connection: 'close',
+    'transfer-encoding': 'chunked'
+  },
+  statusCode: 429
+}
+Помилка отримання релізів для 1914: WebapiError: [object Object]
+    at _toError (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:47:10)
+    at /Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:71:25
+    at Request.callback (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:905:3)
+    at IncomingMessage.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:1127:20)
+    at Stream.emit (node:events:518:28)
+    at Unzip.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/unzip.js:53:12)
+    at Unzip.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  body: {},
+  headers: {
+    'cache-control': 'private, max-age=0',
+    'retry-after': '4774',
+    'access-control-allow-origin': '*',
+    'access-control-allow-headers': 'Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token',
+    'access-control-allow-methods': 'GET, POST, OPTIONS, PUT, DELETE, PATCH',
+    'access-control-allow-credentials': 'true',
+    'access-control-max-age': '604800',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000',
+    'x-content-type-options': 'nosniff',
+    'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000, h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+    date: 'Wed, 10 Sep 2025 05:15:42 GMT',
+    server: 'envoy',
+    via: 'HTTP/2 edgeproxy, 1.1 google',
+    connection: 'close',
+    'transfer-encoding': 'chunked'
+  },
+  statusCode: 429
+}
+Помилка отримання релізів для 5 vymir: WebapiError: [object Object]
+    at _toError (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:47:10)
+    at /Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:71:25
+    at Request.callback (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:905:3)
+    at IncomingMessage.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:1127:20)
+    at Stream.emit (node:events:518:28)
+    at Unzip.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/unzip.js:53:12)
+    at Unzip.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  body: {},
+  headers: {
+    'cache-control': 'private, max-age=0',
+    'retry-after': '4773',
+    'access-control-allow-origin': '*',
+    'access-control-allow-headers': 'Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token',
+    'access-control-allow-methods': 'GET, POST, OPTIONS, PUT, DELETE, PATCH',
+    'access-control-allow-credentials': 'true',
+    'access-control-max-age': '604800',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000',
+    'x-content-type-options': 'nosniff',
+    'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000, h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+    date: 'Wed, 10 Sep 2025 05:15:43 GMT',
+    server: 'envoy',
+    via: 'HTTP/2 edgeproxy, 1.1 google',
+    connection: 'close',
+    'transfer-encoding': 'chunked'
+  },
+  statusCode: 429
+}
+Помилка отримання релізів для 6ATbK0: WebapiError: [object Object]
+    at _toError (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:47:10)
+    at /Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:71:25
+    at Request.callback (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:905:3)
+    at IncomingMessage.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:1127:20)
+    at Stream.emit (node:events:518:28)
+    at Unzip.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/unzip.js:53:12)
+    at Unzip.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  body: {},
+  headers: {
+    'cache-control': 'private, max-age=0',
+    'retry-after': '4772',
+    'access-control-allow-origin': '*',
+    'access-control-allow-headers': 'Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token',
+    'access-control-allow-methods': 'GET, POST, OPTIONS, PUT, DELETE, PATCH',
+    'access-control-allow-credentials': 'true',
+    'access-control-max-age': '604800',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000',
+    'x-content-type-options': 'nosniff',
+    'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000, h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+    date: 'Wed, 10 Sep 2025 05:15:44 GMT',
+    server: 'envoy',
+    via: 'HTTP/2 edgeproxy, 1.1 google',
+    connection: 'close',
+    'transfer-encoding': 'chunked'
+  },
+  statusCode: 429
+}
+Помилка отримання релізів для 811: WebapiError: [object Object]
+    at _toError (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:47:10)
+    at /Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:71:25
+    at Request.callback (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:905:3)
+    at IncomingMessage.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:1127:20)
+    at Stream.emit (node:events:518:28)
+    at Unzip.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/unzip.js:53:12)
+    at Unzip.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  body: {},
+  headers: {
+    'cache-control': 'private, max-age=0',
+    'retry-after': '4771',
+    'access-control-allow-origin': '*',
+    'access-control-allow-headers': 'Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token',
+    'access-control-allow-methods': 'GET, POST, OPTIONS, PUT, DELETE, PATCH',
+    'access-control-allow-credentials': 'true',
+    'access-control-max-age': '604800',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000',
+    'x-content-type-options': 'nosniff',
+    'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000, h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+    date: 'Wed, 10 Sep 2025 05:15:45 GMT',
+    server: 'envoy',
+    via: 'HTTP/2 edgeproxy, 1.1 google',
+    connection: 'close',
+    'transfer-encoding': 'chunked'
+  },
+  statusCode: 429
+}
+Помилка отримання релізів для Абздольц: WebapiError: [object Object]
+    at _toError (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:47:10)
+    at /Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:71:25
+    at Request.callback (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:905:3)
+    at IncomingMessage.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:1127:20)
+    at Stream.emit (node:events:518:28)
+    at Unzip.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/unzip.js:53:12)
+    at Unzip.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  body: {},
+  headers: {
+    'cache-control': 'private, max-age=0',
+    'retry-after': '4770',
+    'access-control-allow-origin': '*',
+    'access-control-allow-headers': 'Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token',
+    'access-control-allow-methods': 'GET, POST, OPTIONS, PUT, DELETE, PATCH',
+    'access-control-allow-credentials': 'true',
+    'access-control-max-age': '604800',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000',
+    'x-content-type-options': 'nosniff',
+    'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000, h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+    date: 'Wed, 10 Sep 2025 05:15:45 GMT',
+    server: 'envoy',
+    via: 'HTTP/2 edgeproxy, 1.1 google',
+    connection: 'close',
+    'transfer-encoding': 'chunked'
+  },
+  statusCode: 429
+}
+Помилка отримання релізів для айхейтпежо206: WebapiError: [object Object]
+    at _toError (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:47:10)
+    at /Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:71:25
+    at Request.callback (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:905:3)
+    at IncomingMessage.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:1127:20)
+    at Stream.emit (node:events:518:28)
+    at Unzip.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/unzip.js:53:12)
+    at Unzip.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  body: {},
+  headers: {
+    'cache-control': 'private, max-age=0',
+    'retry-after': '4769',
+    'access-control-allow-origin': '*',
+    'access-control-allow-headers': 'Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token',
+    'access-control-allow-methods': 'GET, POST, OPTIONS, PUT, DELETE, PATCH',
+    'access-control-allow-credentials': 'true',
+    'access-control-max-age': '604800',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000',
+    'x-content-type-options': 'nosniff',
+    'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000, h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+    date: 'Wed, 10 Sep 2025 05:15:46 GMT',
+    server: 'envoy',
+    via: 'HTTP/2 edgeproxy, 1.1 google',
+    connection: 'close',
+    'transfer-encoding': 'chunked'
+  },
+  statusCode: 429
+}
+Помилка отримання релізів для Аква Віта: WebapiError: [object Object]
+    at _toError (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:47:10)
+    at /Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:71:25
+    at Request.callback (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:905:3)
+    at IncomingMessage.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:1127:20)
+    at Stream.emit (node:events:518:28)
+    at Unzip.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/unzip.js:53:12)
+    at Unzip.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  body: {},
+  headers: {
+    'cache-control': 'private, max-age=0',
+    'retry-after': '4768',
+    'access-control-allow-origin': '*',
+    'access-control-allow-headers': 'Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token',
+    'access-control-allow-methods': 'GET, POST, OPTIONS, PUT, DELETE, PATCH',
+    'access-control-allow-credentials': 'true',
+    'access-control-max-age': '604800',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000',
+    'x-content-type-options': 'nosniff',
+    'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000, h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+    date: 'Wed, 10 Sep 2025 05:15:47 GMT',
+    server: 'envoy',
+    via: 'HTTP/2 edgeproxy, 1.1 google',
+    connection: 'close',
+    'transfer-encoding': 'chunked'
+  },
+  statusCode: 429
+}
+Помилка отримання релізів для Альфатер: WebapiError: [object Object]
+    at _toError (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:47:10)
+    at /Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:71:25
+    at Request.callback (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:905:3)
+    at IncomingMessage.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:1127:20)
+    at Stream.emit (node:events:518:28)
+    at Unzip.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/unzip.js:53:12)
+    at Unzip.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  body: {},
+  headers: {
+    'cache-control': 'private, max-age=0',
+    'retry-after': '4767',
+    'access-control-allow-origin': '*',
+    'access-control-allow-headers': 'Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token',
+    'access-control-allow-methods': 'GET, POST, OPTIONS, PUT, DELETE, PATCH',
+    'access-control-allow-credentials': 'true',
+    'access-control-max-age': '604800',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000',
+    'x-content-type-options': 'nosniff',
+    'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000, h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+    date: 'Wed, 10 Sep 2025 05:15:48 GMT',
+    server: 'envoy',
+    via: 'HTTP/2 edgeproxy, 1.1 google',
+    connection: 'close',
+    'transfer-encoding': 'chunked'
+  },
+  statusCode: 429
+}
+Помилка отримання релізів для АНГАР 18: WebapiError: [object Object]
+    at _toError (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:47:10)
+    at /Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:71:25
+    at Request.callback (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:905:3)
+    at IncomingMessage.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:1127:20)
+    at Stream.emit (node:events:518:28)
+    at Unzip.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/unzip.js:53:12)
+    at Unzip.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  body: {},
+  headers: {
+    'cache-control': 'private, max-age=0',
+    'retry-after': '4766',
+    'access-control-allow-origin': '*',
+    'access-control-allow-headers': 'Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token',
+    'access-control-allow-methods': 'GET, POST, OPTIONS, PUT, DELETE, PATCH',
+    'access-control-allow-credentials': 'true',
+    'access-control-max-age': '604800',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000',
+    'x-content-type-options': 'nosniff',
+    'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000, h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+    date: 'Wed, 10 Sep 2025 05:15:49 GMT',
+    server: 'envoy',
+    via: 'HTTP/2 edgeproxy, 1.1 google',
+    connection: 'close',
+    'transfer-encoding': 'chunked'
+  },
+  statusCode: 429
+}
+Помилка отримання релізів для Андерсон: WebapiError: [object Object]
+    at _toError (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:47:10)
+    at /Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:71:25
+    at Request.callback (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:905:3)
+    at IncomingMessage.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:1127:20)
+    at Stream.emit (node:events:518:28)
+    at Unzip.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/unzip.js:53:12)
+    at Unzip.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  body: {},
+  headers: {
+    'cache-control': 'private, max-age=0',
+    'retry-after': '4765',
+    'access-control-allow-origin': '*',
+    'access-control-allow-headers': 'Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token',
+    'access-control-allow-methods': 'GET, POST, OPTIONS, PUT, DELETE, PATCH',
+    'access-control-allow-credentials': 'true',
+    'access-control-max-age': '604800',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000',
+    'x-content-type-options': 'nosniff',
+    'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000, h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+    date: 'Wed, 10 Sep 2025 05:15:50 GMT',
+    server: 'envoy',
+    via: 'HTTP/2 edgeproxy, 1.1 google',
+    connection: 'close',
+    'transfer-encoding': 'chunked'
+  },
+  statusCode: 429
+}
+Помилка отримання релізів для АННА: WebapiError: [object Object]
+    at _toError (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:47:10)
+    at /Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:71:25
+    at Request.callback (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:905:3)
+    at IncomingMessage.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:1127:20)
+    at Stream.emit (node:events:518:28)
+    at Unzip.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/unzip.js:53:12)
+    at Unzip.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  body: {},
+  headers: {
+    'cache-control': 'private, max-age=0',
+    'retry-after': '4764',
+    'access-control-allow-origin': '*',
+    'access-control-allow-headers': 'Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token',
+    'access-control-allow-methods': 'GET, POST, OPTIONS, PUT, DELETE, PATCH',
+    'access-control-allow-credentials': 'true',
+    'access-control-max-age': '604800',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000',
+    'x-content-type-options': 'nosniff',
+    'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000, h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+    date: 'Wed, 10 Sep 2025 05:15:51 GMT',
+    server: 'envoy',
+    via: 'HTTP/2 edgeproxy, 1.1 google',
+    connection: 'close',
+    'transfer-encoding': 'chunked'
+  },
+  statusCode: 429
+}
+Помилка отримання релізів для АНТАЙТЛД: WebapiError: [object Object]
+    at _toError (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:47:10)
+    at /Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:71:25
+    at Request.callback (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:905:3)
+    at IncomingMessage.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:1127:20)
+    at Stream.emit (node:events:518:28)
+    at Unzip.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/unzip.js:53:12)
+    at Unzip.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  body: {},
+  headers: {
+    'cache-control': 'private, max-age=0',
+    'retry-after': '4764',
+    'access-control-allow-origin': '*',
+    'access-control-allow-headers': 'Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token',
+    'access-control-allow-methods': 'GET, POST, OPTIONS, PUT, DELETE, PATCH',
+    'access-control-allow-credentials': 'true',
+    'access-control-max-age': '604800',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000',
+    'x-content-type-options': 'nosniff',
+    'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000, h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+    date: 'Wed, 10 Sep 2025 05:15:52 GMT',
+    server: 'envoy',
+    via: 'HTTP/2 edgeproxy, 1.1 google',
+    connection: 'close',
+    'transfer-encoding': 'chunked'
+  },
+  statusCode: 429
+}
+Помилка отримання релізів для АНТИТІЛА: WebapiError: [object Object]
+    at _toError (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:47:10)
+    at /Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:71:25
+    at Request.callback (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:905:3)
+    at IncomingMessage.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:1127:20)
+    at Stream.emit (node:events:518:28)
+    at Unzip.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/unzip.js:53:12)
+    at Unzip.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  body: {},
+  headers: {
+    'cache-control': 'private, max-age=0',
+    'retry-after': '4763',
+    'access-control-allow-origin': '*',
+    'access-control-allow-headers': 'Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token',
+    'access-control-allow-methods': 'GET, POST, OPTIONS, PUT, DELETE, PATCH',
+    'access-control-allow-credentials': 'true',
+    'access-control-max-age': '604800',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000',
+    'x-content-type-options': 'nosniff',
+    'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000, h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+    date: 'Wed, 10 Sep 2025 05:15:53 GMT',
+    server: 'envoy',
+    via: 'HTTP/2 edgeproxy, 1.1 google',
+    connection: 'close',
+    'transfer-encoding': 'chunked'
+  },
+  statusCode: 429
+}
+Помилка отримання релізів для Апатія: WebapiError: [object Object]
+    at _toError (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:47:10)
+    at /Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:71:25
+    at Request.callback (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:905:3)
+    at IncomingMessage.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:1127:20)
+    at Stream.emit (node:events:518:28)
+    at Unzip.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/unzip.js:53:12)
+    at Unzip.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  body: {},
+  headers: {
+    'cache-control': 'private, max-age=0',
+    'retry-after': '4762',
+    'access-control-allow-origin': '*',
+    'access-control-allow-headers': 'Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token',
+    'access-control-allow-methods': 'GET, POST, OPTIONS, PUT, DELETE, PATCH',
+    'access-control-allow-credentials': 'true',
+    'access-control-max-age': '604800',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000',
+    'x-content-type-options': 'nosniff',
+    'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000, h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+    date: 'Wed, 10 Sep 2025 05:15:54 GMT',
+    server: 'envoy',
+    via: 'HTTP/2 edgeproxy, 1.1 google',
+    connection: 'close',
+    'transfer-encoding': 'chunked'
+  },
+  statusCode: 429
+}
+Помилка отримання релізів для аппекс: WebapiError: [object Object]
+    at _toError (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:47:10)
+    at /Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:71:25
+    at Request.callback (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:905:3)
+    at IncomingMessage.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:1127:20)
+    at Stream.emit (node:events:518:28)
+    at Unzip.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/unzip.js:53:12)
+    at Unzip.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  body: {},
+  headers: {
+    'cache-control': 'private, max-age=0',
+    'retry-after': '4761',
+    'access-control-allow-origin': '*',
+    'access-control-allow-headers': 'Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token',
+    'access-control-allow-methods': 'GET, POST, OPTIONS, PUT, DELETE, PATCH',
+    'access-control-allow-credentials': 'true',
+    'access-control-max-age': '604800',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000',
+    'x-content-type-options': 'nosniff',
+    'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000, h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+    date: 'Wed, 10 Sep 2025 05:15:55 GMT',
+    server: 'envoy',
+    via: 'HTTP/2 edgeproxy, 1.1 google',
+    connection: 'close',
+    'transfer-encoding': 'chunked'
+  },
+  statusCode: 429
+}
+Помилка отримання релізів для Арахнофобія: WebapiError: [object Object]
+    at _toError (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:47:10)
+    at /Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:71:25
+    at Request.callback (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:905:3)
+    at IncomingMessage.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:1127:20)
+    at Stream.emit (node:events:518:28)
+    at Unzip.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/unzip.js:53:12)
+    at Unzip.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  body: {},
+  headers: {
+    'cache-control': 'private, max-age=0',
+    'retry-after': '4760',
+    'access-control-allow-origin': '*',
+    'access-control-allow-headers': 'Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token',
+    'access-control-allow-methods': 'GET, POST, OPTIONS, PUT, DELETE, PATCH',
+    'access-control-allow-credentials': 'true',
+    'access-control-max-age': '604800',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000',
+    'x-content-type-options': 'nosniff',
+    'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000, h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+    date: 'Wed, 10 Sep 2025 05:15:56 GMT',
+    server: 'envoy',
+    via: 'HTTP/2 edgeproxy, 1.1 google',
+    connection: 'close',
+    'transfer-encoding': 'chunked'
+  },
+  statusCode: 429
+}
+  ❌ Помилка обробки Арсен Мірзоян: Error:   ❌ Артист не знайдений: Арсен Мірзоян
+    at ReleaseScraper.scrapeReleases (file:///Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/dist/services/scraper.js:25:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async main (file:///Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/dist/index.js:39:37)
+Помилка отримання релізів для артилерія: WebapiError: [object Object]
+    at _toError (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:47:10)
+    at /Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:71:25
+    at Request.callback (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:905:3)
+    at IncomingMessage.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:1127:20)
+    at Stream.emit (node:events:518:28)
+    at Unzip.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/unzip.js:53:12)
+    at Unzip.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  body: {},
+  headers: {
+    'cache-control': 'private, max-age=0',
+    'retry-after': '4758',
+    'access-control-allow-origin': '*',
+    'access-control-allow-headers': 'Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token',
+    'access-control-allow-methods': 'GET, POST, OPTIONS, PUT, DELETE, PATCH',
+    'access-control-allow-credentials': 'true',
+    'access-control-max-age': '604800',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000',
+    'x-content-type-options': 'nosniff',
+    'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000, h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+    date: 'Wed, 10 Sep 2025 05:15:57 GMT',
+    server: 'envoy',
+    via: 'HTTP/2 edgeproxy, 1.1 google',
+    connection: 'close',
+    'transfer-encoding': 'chunked'
+  },
+  statusCode: 429
+}
+Помилка отримання релізів для АСАФАТОV: WebapiError: [object Object]
+    at _toError (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:47:10)
+    at /Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:71:25
+    at Request.callback (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:905:3)
+    at IncomingMessage.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:1127:20)
+    at Stream.emit (node:events:518:28)
+    at Unzip.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/unzip.js:53:12)
+    at Unzip.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  body: {},
+  headers: {
+    'cache-control': 'private, max-age=0',
+    'retry-after': '4758',
+    'access-control-allow-origin': '*',
+    'access-control-allow-headers': 'Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token',
+    'access-control-allow-methods': 'GET, POST, OPTIONS, PUT, DELETE, PATCH',
+    'access-control-allow-credentials': 'true',
+    'access-control-max-age': '604800',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000',
+    'x-content-type-options': 'nosniff',
+    'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000, h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+    date: 'Wed, 10 Sep 2025 05:15:58 GMT',
+    server: 'envoy',
+    via: 'HTTP/2 edgeproxy, 1.1 google',
+    connection: 'close',
+    'transfer-encoding': 'chunked'
+  },
+  statusCode: 429
+}
+Помилка отримання релізів для Бажана: WebapiError: [object Object]
+    at _toError (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:47:10)
+    at /Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:71:25
+    at Request.callback (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:905:3)
+    at IncomingMessage.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:1127:20)
+    at Stream.emit (node:events:518:28)
+    at Unzip.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/unzip.js:53:12)
+    at Unzip.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  body: {},
+  headers: {
+    'cache-control': 'private, max-age=0',
+    'retry-after': '4757',
+    'access-control-allow-origin': '*',
+    'access-control-allow-headers': 'Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token',
+    'access-control-allow-methods': 'GET, POST, OPTIONS, PUT, DELETE, PATCH',
+    'access-control-allow-credentials': 'true',
+    'access-control-max-age': '604800',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000',
+    'x-content-type-options': 'nosniff',
+    'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000, h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+    date: 'Wed, 10 Sep 2025 05:15:59 GMT',
+    server: 'envoy',
+    via: 'HTTP/2 edgeproxy, 1.1 google',
+    connection: 'close',
+    'transfer-encoding': 'chunked'
+  },
+  statusCode: 429
+}
+Помилка отримання релізів для Баbай: WebapiError: [object Object]
+    at _toError (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:47:10)
+    at /Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:71:25
+    at Request.callback (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:905:3)
+    at IncomingMessage.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:1127:20)
+    at Stream.emit (node:events:518:28)
+    at Unzip.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/unzip.js:53:12)
+    at Unzip.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  body: {},
+  headers: {
+    'cache-control': 'private, max-age=0',
+    'retry-after': '4756',
+    'access-control-allow-origin': '*',
+    'access-control-allow-headers': 'Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token',
+    'access-control-allow-methods': 'GET, POST, OPTIONS, PUT, DELETE, PATCH',
+    'access-control-allow-credentials': 'true',
+    'access-control-max-age': '604800',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000',
+    'x-content-type-options': 'nosniff',
+    'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000, h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+    date: 'Wed, 10 Sep 2025 05:16:00 GMT',
+    server: 'envoy',
+    via: 'HTTP/2 edgeproxy, 1.1 google',
+    connection: 'close',
+    'transfer-encoding': 'chunked'
+  },
+  statusCode: 429
+}
+Помилка отримання релізів для БЕЗ ОБМЕЖЕНЬ: WebapiError: [object Object]
+    at _toError (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:47:10)
+    at /Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/spotify-web-api-node@5.0.2/node_modules/spotify-web-api-node/src/http-manager.js:71:25
+    at Request.callback (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:905:3)
+    at IncomingMessage.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/index.js:1127:20)
+    at Stream.emit (node:events:518:28)
+    at Unzip.<anonymous> (/Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/node_modules/.pnpm/superagent@6.1.0/node_modules/superagent/lib/node/unzip.js:53:12)
+    at Unzip.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  body: {},
+  headers: {
+    'cache-control': 'private, max-age=0',
+    'retry-after': '4755',
+    'access-control-allow-origin': '*',
+    'access-control-allow-headers': 'Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version, X-Cloud-Trace-Context, client-token, content-access-token',
+    'access-control-allow-methods': 'GET, POST, OPTIONS, PUT, DELETE, PATCH',
+    'access-control-allow-credentials': 'true',
+    'access-control-max-age': '604800',
+    'content-encoding': 'gzip',
+    'strict-transport-security': 'max-age=31536000',
+    'x-content-type-options': 'nosniff',
+    'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000, h3=":443"; ma=2592000,h3-29=":443"; ma=2592000',
+    date: 'Wed, 10 Sep 2025 05:16:01 GMT',
+    server: 'envoy',
+    via: 'HTTP/2 edgeproxy, 1.1 google',
+    connection: 'close',
+    'transfer-encoding': 'chunked'
+  },
+  statusCode: 429
+}

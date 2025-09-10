@@ -1,10 +1,20 @@
 import SpotifyWebApi from 'spotify-web-api-node';
+
+import delay from '../helpers/delay.js';
+import isDateInRange from '../helpers/is-date-in-range.js';
 import type {
   SpotifyConfig,
   MusicRelease,
   ArtistSearchResult,
   ScrapingOptions,
 } from '../types/index.js';
+import normalizeDate from '../helpers/normalize-date.js';
+
+import { readFromFileCache, writeToFileCache } from './file-cache.js';
+
+const HOUR = 3600000;
+const DAY = 24 * HOUR;
+const MONTH = 30 * DAY;
 
 export class SpotifyService {
   private spotifyApi: SpotifyWebApi;
@@ -46,6 +56,12 @@ export class SpotifyService {
    * Шукає артиста за ім'ям
    */
   async searchArtist(artistName: string): Promise<ArtistSearchResult | null> {
+    const getCachedValue = await readFromFileCache(
+      `spotify-artist-${artistName}`,
+    );
+    if (getCachedValue) {
+      return getCachedValue as ArtistSearchResult;
+    }
     await this.getAccessToken();
 
     try {
@@ -62,6 +78,11 @@ export class SpotifyService {
         );
 
       if (exactMatch) {
+        await writeToFileCache(
+          `spotify-artist-${artistName}`,
+          exactMatch,
+          Date.now() + MONTH,
+        );
         return {
           id: exactMatch.id,
           name: exactMatch.name,
@@ -89,7 +110,7 @@ export class SpotifyService {
       return null;
     } catch (error) {
       console.error(`Помилка пошуку артиста ${artistName}:`, error);
-      return null;
+      throw error;
     }
   }
 
@@ -117,16 +138,32 @@ export class SpotifyService {
         if (options.includeAppears) {
           albumTypes.push('appears_on');
         }
+        let items: SpotifyApi.AlbumObjectSimplified[] = [];
 
-        const albums = await this.spotifyApi.getArtistAlbums(artistId, {
+        // const cachedAlbums = await readFromFileCache<
+        //   SpotifyApi.AlbumObjectSimplified[]
+        // >(
+        //   `spotify-artist-albums-${artistId}-${options.country || 'US'}-${limit}-${offset}`,
+        // );
+
+        // if (cachedAlbums) {
+        // items = cachedAlbums;
+        // } else {
+        const response = await this.spotifyApi.getArtistAlbums(artistId, {
           country: options.country || 'US',
           limit,
           offset,
         });
+        items = response.body.items;
 
-        const items = albums.body.items.filter((album) =>
-          albumTypes.includes(album.album_type),
+        await writeToFileCache(
+          `spotify-artist-albums-${artistId}-${options.country || 'US'}-${limit}-${offset}`,
+          items,
+          Date.now() + HOUR,
         );
+        // }
+
+        items = items.filter((album) => albumTypes.includes(album.album_type));
 
         if (items.length === 0) {
           hasMore = false;
@@ -134,31 +171,46 @@ export class SpotifyService {
         }
 
         for (const album of items) {
-          const releaseDate = this.normalizeDate(album.release_date);
+          const releaseDate = normalizeDate(album.release_date);
 
-          if (
-            this.isDateInRange(releaseDate, options.startDate, options.endDate)
-          ) {
+          if (isDateInRange(releaseDate, options.startDate, options.endDate)) {
             // Отримуємо детальну інформацію про альбом
-            const albumDetails = await this.spotifyApi.getAlbum(album.id);
+
+            let albumDetails: SpotifyApi.AlbumObjectFull | null = null;
+
+            const cachedAlbumsDetails =
+              await readFromFileCache<SpotifyApi.AlbumObjectFull>(
+                `spotify-album-details-${album.id}`,
+              );
+
+            if (cachedAlbumsDetails) {
+              albumDetails = cachedAlbumsDetails;
+            } else {
+              albumDetails = (await this.spotifyApi.getAlbum(album.id)).body;
+              await writeToFileCache(
+                `spotify-album-details-${album.id}`,
+                albumDetails,
+                Date.now() + DAY,
+              );
+            }
 
             const release: MusicRelease = {
-              artists: albumDetails.body.artists.map((a) => a.name),
+              artists: albumDetails.artists.map((a) => a.name),
               title: album.name,
               releaseDate,
               type: album.album_type as 'album' | 'single' | 'compilation',
-              totalTracks: albumDetails.body.total_tracks,
+              totalTracks: albumDetails.total_tracks,
               url: album.external_urls.spotify,
               imageUrl: album.images?.[0]?.url,
-              genres: albumDetails.body.genres || [],
-              popularity: albumDetails.body.popularity,
+              genres: albumDetails.genres || [],
+              popularity: albumDetails.popularity,
               markets: album.available_markets || [],
             };
 
             releases.push(release);
 
             // Невелика затримка для уникнення rate limiting
-            await this.delay(100);
+            await delay(200);
           }
         }
 
@@ -171,39 +223,10 @@ export class SpotifyService {
       }
     } catch (error) {
       console.error(`Помилка отримання релізів для ${artistName}:`, error);
+      throw error;
     }
 
     return releases;
-  }
-
-  /**
-   * Нормалізує дату до формату YYYY-MM-DD
-   */
-  private normalizeDate(date: string): string {
-    if (date.length === 4) {
-      return `${date}-01-01`;
-    } else if (date.length === 7) {
-      return `${date}-01`;
-    }
-    return date;
-  }
-
-  /**
-   * Перевіряє, чи знаходиться дата у вказаному діапазоні
-   */
-  private isDateInRange(
-    date: string,
-    startDate: string,
-    endDate: string,
-  ): boolean {
-    return date >= startDate && date <= endDate;
-  }
-
-  /**
-   * Затримка виконання
-   */
-  private delay(ms: number): Promise<void> {
-    return new Promise((resolve) => setTimeout(resolve, ms));
   }
 
   /**
@@ -220,7 +243,7 @@ export class SpotifyService {
       return topTracks.body.tracks;
     } catch (error) {
       console.error('Помилка отримання топ треків:', error);
-      return [];
+      throw error;
     }
   }
 }

@@ -1,5 +1,6 @@
 import * as fs from 'fs/promises';
 
+import deduplicateReleases from '../helpers/deduplicate-releases.js';
 import delay from '../helpers/delay.js';
 import escapeCsvField from '../helpers/escape-csv-field.js';
 import getCountByProperty from '../helpers/get-count-by-property.js';
@@ -68,11 +69,14 @@ export class ReleaseScraper {
       } catch (error) {
         console.error(`  ❌ Помилка обробки ${artistName}:`, error);
         artistsStats[artistName] = 0;
+        // throw error;
       }
     }
 
+    const deduplicatedReleases = deduplicateReleases(allReleases);
+
     // Сортуємо за датою релізу
-    const sortedReleases = allReleases.sort((a, b) => {
+    const sortedReleases = deduplicatedReleases.sort((a, b) => {
       const timeDifference =
         new Date(a.releaseDate).getTime() - new Date(b.releaseDate).getTime();
       if (timeDifference === 0) {
