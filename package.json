@@ -27,6 +27,7 @@
   "name": "spotify-release-scraper",
   "scripts": {
     "build": "tsc",
+    "collect-artist-ids": "node --import tsx/esm src/collect-artist-ids.ts",
     "dev": "node --import tsx/esm src/index.ts",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",

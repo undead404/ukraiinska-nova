@@ -56,5 +56,5 @@ export async function getReleaseTags(release: {
     .filter((tag) => !IGNORED_TAGS.includes(tag.name))
     .slice(0, MAX_TAGS_NUMBER);
   // return only tag names
-  return limitedTags.map((tag) => tag.name);
+  return limitedTags.filter((tag) => tag.count >= 50).map((tag) => tag.name);
 }

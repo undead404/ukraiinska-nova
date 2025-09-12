@@ -4,6 +4,7 @@ export interface SpotifyConfig {
 }
 
 export interface MusicRelease {
+  artistsPopularity: number;
   artists: string[];
   title: string;
   releaseDate: string;

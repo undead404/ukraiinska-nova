@@ -808,3 +808,43 @@
   },
   statusCode: 429
 }
+  ❌ Помилка обробки Арсен Мірзоян: Error:   ❌ Артист не знайдений: Арсен Мірзоян
+    at ReleaseScraper.scrapeReleases (file:///Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/dist/services/scraper.js:26:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async main (file:///Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/dist/index.js:39:37)
+  ❌ Помилка обробки гурт [O]: Error:   ❌ Артист не знайдений: гурт [O]
+    at ReleaseScraper.scrapeReleases (file:///Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/dist/services/scraper.js:26:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async main (file:///Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/dist/index.js:39:37)
+  ❌ Помилка обробки Саша Чемеров: Error:   ❌ Артист не знайдений: Саша Чемеров
+    at ReleaseScraper.scrapeReleases (file:///Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/dist/services/scraper.js:26:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async main (file:///Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/dist/index.js:39:37)
+  ❌ Помилка обробки AL.ko_kc: Error:   ❌ Артист не знайдений: AL.ko_kc
+    at ReleaseScraper.scrapeReleases (file:///Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/dist/services/scraper.js:26:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async main (file:///Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/dist/index.js:39:37)
+  ❌ Помилка обробки KLP 521 42 inc.: Error:   ❌ Артист не знайдений: KLP 521 42 inc.
+    at ReleaseScraper.scrapeReleases (file:///Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/dist/services/scraper.js:26:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async main (file:///Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/dist/index.js:39:37)
+  ❌ Помилка обробки Арсен Мірзоян: Error:   ❌ Артист не знайдений: Арсен Мірзоян
+    at ReleaseScraper.scrapeReleases (file:///Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/dist/services/scraper.js:26:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async main (file:///Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/dist/index.js:39:37)
+  ❌ Помилка обробки гурт [O]: Error:   ❌ Артист не знайдений: гурт [O]
+    at ReleaseScraper.scrapeReleases (file:///Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/dist/services/scraper.js:26:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async main (file:///Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/dist/index.js:39:37)
+  ❌ Помилка обробки Саша Чемеров: Error:   ❌ Артист не знайдений: Саша Чемеров
+    at ReleaseScraper.scrapeReleases (file:///Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/dist/services/scraper.js:26:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async main (file:///Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/dist/index.js:39:37)
+  ❌ Помилка обробки AL.ko_kc: Error:   ❌ Артист не знайдений: AL.ko_kc
+    at ReleaseScraper.scrapeReleases (file:///Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/dist/services/scraper.js:26:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async main (file:///Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/dist/index.js:39:37)
+  ❌ Помилка обробки KLP 521 42 inc.: Error:   ❌ Артист не знайдений: KLP 521 42 inc.
+    at ReleaseScraper.scrapeReleases (file:///Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/dist/services/scraper.js:26:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async main (file:///Users/Vitalii_Perehonchuk/Projects/new-releases-scraper/dist/index.js:39:37)

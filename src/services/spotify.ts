@@ -194,8 +194,16 @@ export class SpotifyService {
               );
             }
 
+            let artistsPopularity = 0;
+
+            for (const artist of albumDetails.artists) {
+              const popularity = await this.getArtistPopularity(artist.id);
+              artistsPopularity = Math.max(artistsPopularity, popularity);
+            }
+
             const release: MusicRelease = {
               artists: albumDetails.artists.map((a) => a.name),
+              artistsPopularity,
               title: album.name,
               releaseDate,
               type: album.album_type as 'album' | 'single' | 'compilation',
@@ -245,5 +253,35 @@ export class SpotifyService {
       console.error('Помилка отримання топ треків:', error);
       throw error;
     }
+  }
+
+  async getArtist(artistId: string): Promise<SpotifyApi.ArtistObjectFull> {
+    await this.getAccessToken();
+
+    try {
+      const artist = await this.spotifyApi.getArtist(artistId);
+      return artist.body;
+    } catch (error) {
+      console.error('Помилка отримання інформації про артиста:', error);
+      throw error;
+    }
+  }
+
+  async getArtistPopularity(artistId: string): Promise<number> {
+    const cachedPopularity = await readFromFileCache<number>(
+      `spotify-artist-popularity-${artistId}`,
+    );
+    if (cachedPopularity !== null) {
+      return cachedPopularity;
+    }
+
+    const artist = await this.getArtist(artistId);
+    const popularity = artist.popularity;
+    await writeToFileCache(
+      `spotify-artist-popularity-${artistId}`,
+      popularity,
+      Date.now() + DAY,
+    );
+    return popularity;
   }
 }

@@ -2,7 +2,7 @@ import environment from './environment.js';
 import hashtagify from './helpers/hashtagify.js';
 import joinArtists from './helpers/join-artists.js';
 import translateAlbumType from './helpers/translate-album-type.js';
-import readFileArtists from './read-artists.js';
+import readFileArtistIds from './read-artist-ids.js';
 import { BlueskyService } from './services/bluesky.js';
 import { getReleaseTags } from './services/lastfm.js';
 import { ReleaseScraper } from './services/scraper.js';
@@ -22,9 +22,9 @@ async function main(): Promise<void> {
     const artistsFilePath =
       process.argv[2] && process.argv[2].trim() !== ''
         ? process.argv[2]
-        : './artists.txt';
+        : './artist-ids.csv';
 
-    const artists = await readFileArtists(artistsFilePath);
+    const artists = await readFileArtistIds(artistsFilePath);
     if (artists.length === 0) {
       throw new Error('Список артистів порожній. Додайте артистів у файл.');
     }

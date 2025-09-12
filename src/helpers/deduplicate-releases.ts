@@ -7,13 +7,17 @@ function calculateReleaseIdentity(release: MusicRelease): string {
 export default function deduplicateReleases(
   releases: MusicRelease[],
 ): MusicRelease[] {
-  const seen = new Set<string>();
-  return releases.filter((release) => {
+  const seenReleases = new Map<string, MusicRelease>();
+  releases.forEach((release) => {
     const identity = calculateReleaseIdentity(release);
-    if (seen.has(identity)) {
-      return false;
+    const previousRelease = seenReleases.get(identity);
+    if (
+      !previousRelease ||
+      // Якщо вже бачили цей реліз, порівнюємо популярність артиста
+      previousRelease.artistsPopularity < release.artistsPopularity
+    ) {
+      seenReleases.set(identity, release);
     }
-    seen.add(identity);
-    return true;
   });
+  return Array.from(seenReleases.values());
 }

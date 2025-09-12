@@ -24,7 +24,7 @@ export class ReleaseScraper {
    * Збирає релізи для списку артистів
    */
   async scrapeReleases(
-    artists: string[],
+    artists: { id: string; name: string }[],
     options: ScrapingOptions,
   ): Promise<{ releases: MusicRelease[]; stats: ScrapingStats }> {
     const startTime = Date.now();
@@ -33,42 +33,33 @@ export class ReleaseScraper {
 
     console.log('🎵 Початок збору релізів');
     console.log(`📅 Період: ${options.startDate} - ${options.endDate}`);
-    console.log(`👥 Артисти: ${artists.join(', ')}`);
+    console.log(
+      `👥 Артисти: ${artists.map((artist) => artist.name).join(', ')}`,
+    );
     console.log('-'.repeat(60));
 
     for (let i = 0; i < artists.length; i++) {
-      const artistName = artists[i];
-      console.log(`\n[${i + 1}/${artists.length}] 🎤 Обробка: ${artistName}`);
+      const { id, name } = artists[i];
+      console.log(`\n[${i + 1}/${artists.length}] 🎤 Обробка: ${name} ${id}`);
 
       try {
-        // Знаходимо артиста
-        const artist = await this.spotifyService.searchArtist(artistName);
-
-        if (!artist) {
-          throw new Error(`  ❌ Артист не знайдений: ${artistName}`);
-        }
-
-        console.log(
-          `  ✅ Знайдено: ${artist.name} (популярність: ${artist.popularity})`,
-        );
-
         // Отримуємо релізи
         const releases = await this.spotifyService.getArtistReleases(
-          artist.id,
-          artist.name,
+          id,
+          name,
           options,
         );
 
         allReleases.push(...releases);
-        artistsStats[artist.name] = releases.length;
+        artistsStats[name] = releases.length;
 
         console.log(`  📀 Знайдено релізів: ${releases.length}`);
 
         // Затримка між артистами
         await delay(500);
       } catch (error) {
-        console.error(`  ❌ Помилка обробки ${artistName}:`, error);
-        artistsStats[artistName] = 0;
+        console.error(`  ❌ Помилка обробки ${name}:`, error);
+        artistsStats[name] = 0;
         // throw error;
       }
     }
@@ -80,10 +71,8 @@ export class ReleaseScraper {
       const timeDifference =
         new Date(a.releaseDate).getTime() - new Date(b.releaseDate).getTime();
       if (timeDifference === 0) {
-        return (
-          a.title.localeCompare(b.title, 'uk') ||
-          joinArtists(a.artists).localeCompare(joinArtists(b.artists), 'uk')
-        );
+        // Якщо дати однакові, сортуємо за популярністю артиста (спадання)
+        return (b.artistsPopularity || 0) - (a.artistsPopularity || 0);
       }
       return timeDifference;
     });
