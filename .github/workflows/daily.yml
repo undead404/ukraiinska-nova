@@ -1,0 +1,58 @@
+name: Daily Build and Start
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # Runs every day at 6:00 AM UTC
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  build-and-start:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'pnpm'
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10 # Use your preferred pnpm version
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Build project
+        run: pnpm build
+
+      - name: Restore API response cache
+        uses: actions/cache@v4
+        id: api-cache
+        with:
+          path: cache
+          key: ${{ runner.os }}-api-cache
+          restore-keys: |
+            ${{ runner.os }}-api-cache
+
+      - name: Start project using built dist
+        run: pnpm start
+        env:
+          # Pass environment variables again for the start step if needed
+          BLUESKY_IDENTIFIER: ${{ secrets.BLUESKY_IDENTIFIER }}
+          BLUESKY_PASSWORD: ${{ secrets.BLUESKY_PASSWORD }}
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+          LASTFM_API_SECRET: ${{ secrets.LASTFM_API_SECRET }}
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+
+      - name: Save updated cache
+        if: always()
+        uses: actions/cache@v4
+        with:
+          path: cache
+          key: ${{ runner.os }}-api-cache
