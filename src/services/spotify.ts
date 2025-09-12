@@ -140,28 +140,12 @@ export class SpotifyService {
         }
         let items: SpotifyApi.AlbumObjectSimplified[] = [];
 
-        // const cachedAlbums = await readFromFileCache<
-        //   SpotifyApi.AlbumObjectSimplified[]
-        // >(
-        //   `spotify-artist-albums-${artistId}-${options.country || 'US'}-${limit}-${offset}`,
-        // );
-
-        // if (cachedAlbums) {
-        // items = cachedAlbums;
-        // } else {
         const response = await this.spotifyApi.getArtistAlbums(artistId, {
           country: options.country || 'US',
           limit,
           offset,
         });
         items = response.body.items;
-
-        await writeToFileCache(
-          `spotify-artist-albums-${artistId}-${options.country || 'US'}-${limit}-${offset}`,
-          items,
-          Date.now() + HOUR,
-        );
-        // }
 
         items = items.filter((album) => albumTypes.includes(album.album_type));
 
@@ -280,7 +264,7 @@ export class SpotifyService {
     await writeToFileCache(
       `spotify-artist-popularity-${artistId}`,
       popularity,
-      Date.now() + DAY,
+      Date.now() + MONTH,
     );
     return popularity;
   }
