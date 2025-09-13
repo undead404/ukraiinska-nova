@@ -3,3 +3,4 @@ dist
 .env
 cache/*.json
 logs/*.log
+docs/_site

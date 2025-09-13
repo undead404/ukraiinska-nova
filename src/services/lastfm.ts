@@ -3,6 +3,7 @@ import {
   maxValue,
   minLength,
   minValue,
+  nonEmpty,
   number,
   object,
   pipe,
@@ -15,6 +16,11 @@ import fetchWithSchema from '../helpers/fetch-with-schema.js';
 const MAX_TAGS_NUMBER = 8;
 
 const IGNORED_TAGS = ['Ukrainian', 'Ukraine'];
+
+const errorResponseSchema = object({
+  error: number(),
+  message: pipe(string(), nonEmpty()),
+});
 
 const toptagsResponseSchema = object({
   toptags: object({
@@ -36,6 +42,7 @@ export async function getReleaseTags(release: {
     const artistDetails = await fetchWithSchema(
       `https://ws.audioscrobbler.com/2.0/?method=artist.gettoptags&artist=${encodeURIComponent(artist)}&api_key=${environment.LASTFM_API_KEY}&format=json`,
       toptagsResponseSchema,
+      errorResponseSchema,
     );
     tags.push(...artistDetails.toptags.tag);
   }
