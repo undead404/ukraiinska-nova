@@ -140,12 +140,25 @@ export class SpotifyService {
         }
         let items: SpotifyApi.AlbumObjectSimplified[] = [];
 
-        const response = await this.spotifyApi.getArtistAlbums(artistId, {
-          country: options.country || 'US',
-          limit,
-          offset,
-        });
-        items = response.body.items;
+        const cachedArtistAlbums = await readFromFileCache<
+          SpotifyApi.AlbumObjectSimplified[]
+        >(`spotify-artist-releases-${artistId}`);
+        if (cachedArtistAlbums) {
+          items = cachedArtistAlbums;
+        } else {
+          const response = await this.spotifyApi.getArtistAlbums(artistId, {
+            country: options.country || 'UA',
+            limit,
+            offset,
+          });
+          items = response.body.items;
+
+          await writeToFileCache(
+            `spotify-artist-releases-${artistId}`,
+            items,
+            Date.now() + HOUR,
+          );
+        }
 
         items = items.filter((album) => albumTypes.includes(album.album_type));
 
@@ -194,9 +207,9 @@ export class SpotifyService {
               totalTracks: albumDetails.total_tracks,
               url: album.external_urls.spotify,
               imageUrl: album.images?.[0]?.url,
-              genres: albumDetails.genres || [],
+              // genres: albumDetails.genres || [],
               popularity: albumDetails.popularity,
-              markets: album.available_markets || [],
+              // markets: album.available_markets || [],
             };
 
             releases.push(release);
@@ -224,7 +237,7 @@ export class SpotifyService {
   /**
    * Отримує топ треки артиста (бонусна функція)
    */
-  async getArtistTopTracks(artistId: string, country = 'US'): Promise<any[]> {
+  async getArtistTopTracks(artistId: string, country = 'UA'): Promise<any[]> {
     await this.getAccessToken();
 
     try {

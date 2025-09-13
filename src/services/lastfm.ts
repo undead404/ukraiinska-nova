@@ -10,7 +10,6 @@ import {
   string,
 } from 'valibot';
 
-import environment from '../environment.js';
 import fetchWithSchema from '../helpers/fetch-with-schema.js';
 
 const MAX_TAGS_NUMBER = 8;
@@ -33,16 +32,19 @@ const toptagsResponseSchema = object({
   }),
 });
 
-export async function getReleaseTags(release: {
-  title: string;
-  artists: string[];
-}) {
+export async function getReleaseTags(
+  apiKey: string,
+  release: {
+    title: string;
+    artists: string[];
+  },
+) {
   const tags = [];
   for (const artist of release.artists) {
     console.log(artist);
     try {
       const artistDetails = await fetchWithSchema(
-        `https://ws.audioscrobbler.com/2.0/?method=artist.gettoptags&artist=${encodeURIComponent(artist)}&api_key=${environment.LASTFM_API_KEY}&format=json`,
+        `https://ws.audioscrobbler.com/2.0/?method=artist.gettoptags&artist=${encodeURIComponent(artist)}&api_key=${apiKey}&format=json`,
         toptagsResponseSchema,
         errorResponseSchema,
       );

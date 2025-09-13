@@ -6,9 +6,7 @@ on:
   workflow_dispatch: # Allows manual triggering
 
 jobs:
-  build-and-start:
-    permissions:
-      contents: write
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -32,6 +30,41 @@ jobs:
       - name: Build project
         run: pnpm build
 
+      - name: Upload dist artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: dist
+          path: dist
+
+  retrieve-releases:
+    needs:
+      - build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10
+          run_install: false
+
+      - name: Set up Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'pnpm'
+
+      - name: Install dependencies
+        run: pnpm install --prod
+
+      - name: Download dist artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: dist
+          path: dist
+
       - name: Restore API response cache
         uses: actions/cache@v4
         id: api-cache
@@ -41,18 +74,63 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-api-cache
 
-      - name: Start project using built dist
-        run: pnpm start
+      - name: Run
+        run: pnpm retrieve-releases
         env:
-          # Pass environment variables again for the start step if needed
-          BLUESKY_IDENTIFIER: ${{ vars.BLUESKY_IDENTIFIER }}
-          BLUESKY_PASSWORD: ${{ secrets.BLUESKY_PASSWORD }}
-          DEBUG: ${{ vars.DEBUG }}
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
-          LASTFM_API_SECRET: ${{ secrets.LASTFM_API_SECRET }}
           SPOTIFY_CLIENT_ID: ${{ vars.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+
+      - name: Upload releases artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: spotify_releases
+          path: spotify_releases.json
+
+      - name: Save updated cache
+        if: always()
+        uses: actions/cache@v4
+        with:
+          path: cache
+          key: ${{ runner.os }}-api-cache
+
+  create-post:
+    needs:
+      - build
+      - retrieve-releases
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10
+          run_install: false
+
+      - name: Set up Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'pnpm'
+
+      - name: Install dependencies
+        run: pnpm install --prod
+
+      - name: Download dist artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: dist
+          path: dist
+
+      - name: Download releases artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: spotify_releases
+          path: spotify_releases.json
 
       - name: Create a Github Pages post
         run: pnpm create-post
@@ -72,9 +150,85 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Save updated cache
-        if: always()
-        uses: actions/cache@v4
+  post-to-bluesky:
+    needs:
+      - build
+      - retrieve-releases
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
         with:
-          path: cache
-          key: ${{ runner.os }}-api-cache
+          version: 10
+          run_install: false
+
+      - name: Set up Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'pnpm'
+
+      - name: Install dependencies
+        run: pnpm install --prod
+
+      - name: Download dist artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: dist
+          path: dist
+
+      - name: Download releases artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: spotify_releases
+          path: spotify_releases.json
+
+      - name: Post to Bluesky
+        run: pnpm post-to-bluesky
+        env:
+          BLUESKY_IDENTIFIER: ${{ vars.BLUESKY_IDENTIFIER }}
+          BLUESKY_PASSWORD: ${{ secrets.BLUESKY_PASSWORD }}
+
+  post-to-telegram:
+    needs:
+      - build
+      - retrieve-releases
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10
+          run_install: false
+
+      - name: Set up Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'pnpm'
+
+      - name: Install dependencies
+        run: pnpm install --prod
+
+      - name: Download dist artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: dist
+          path: dist
+
+      - name: Download releases artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: spotify_releases
+          path: spotify_releases.json
+
+      - name: Post to Telegram
+        run: pnpm post-to-telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}

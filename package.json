@@ -30,11 +30,13 @@
   "scripts": {
     "build": "tsc",
     "collect-artist-ids": "node --import tsx/esm src/collect-artist-ids.ts",
+    "create-post": "node dist/create-post.js",
     "dev": "node --import tsx/esm src/index.ts",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
+    "post-to-bluesky": "node dist/post-to-bluesky.js",
+    "post-to-telegram": "node dist/post-to-telegram.js",
     "start": "node dist/index.js",
-    "create-post": "node --import tsx/esm src/create-post.ts",
     "watch": "tsc -w"
   },
   "type": "module",

@@ -68,7 +68,7 @@ async function main(): Promise<void> {
     scraper.printStats(stats);
 
     for (const release of releases) {
-      release.tags = await getReleaseTags(release);
+      release.tags = await getReleaseTags(environment.LASTFM_API_KEY, release);
     }
     // Зберігаємо у файли
     await scraper.saveToFile(releases);

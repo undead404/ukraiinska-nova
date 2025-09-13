@@ -5,6 +5,7 @@ import Mustache from 'mustache';
 
 import joinArtists from './helpers/join-artists.js';
 import translateAlbumType from './helpers/translate-album-type.js';
+import translatePopularity from './helpers/translate-popularity.js';
 import type { MusicRelease } from './types';
 
 const postTemplate = (
@@ -33,12 +34,14 @@ function getTags(releases: MusicRelease[]) {
 export default async function savePost(date: string, releases: MusicRelease[]) {
   const prettyDate = new Date(date).toLocaleDateString('uk-UA');
   const targetFilename = join(...POST_FOLDER, `${date}-releases.md`);
+
   const post = Mustache.render(postTemplate, {
     prettyDate: prettyDate,
     rawDate: date,
     releases: releases.map((release) => ({
       ...release,
       artists: joinArtists(release.artists),
+      popularity: translatePopularity(release.artistsPopularity),
       tags: release.tags,
       type: translateAlbumType(release.type),
     })),
