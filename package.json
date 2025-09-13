@@ -34,7 +34,7 @@
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
     "start": "node dist/index.js",
-    "test-post": "node --import tsx/esm src/test-post.ts",
+    "create-post": "node --import tsx/esm src/create-post.ts",
     "watch": "tsc -w"
   },
   "type": "module",

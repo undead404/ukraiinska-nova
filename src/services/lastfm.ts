@@ -15,7 +15,7 @@ import fetchWithSchema from '../helpers/fetch-with-schema.js';
 
 const MAX_TAGS_NUMBER = 8;
 
-const IGNORED_TAGS = ['Ukrainian', 'Ukraine'];
+const IGNORED_TAGS = ['Ukrainian', 'Ukraine', 'cringecore', 'Jerk', 'Russia'];
 
 const errorResponseSchema = object({
   error: number(),
@@ -39,12 +39,17 @@ export async function getReleaseTags(release: {
 }) {
   const tags = [];
   for (const artist of release.artists) {
-    const artistDetails = await fetchWithSchema(
-      `https://ws.audioscrobbler.com/2.0/?method=artist.gettoptags&artist=${encodeURIComponent(artist)}&api_key=${environment.LASTFM_API_KEY}&format=json`,
-      toptagsResponseSchema,
-      errorResponseSchema,
-    );
-    tags.push(...artistDetails.toptags.tag);
+    console.log(artist);
+    try {
+      const artistDetails = await fetchWithSchema(
+        `https://ws.audioscrobbler.com/2.0/?method=artist.gettoptags&artist=${encodeURIComponent(artist)}&api_key=${environment.LASTFM_API_KEY}&format=json`,
+        toptagsResponseSchema,
+        errorResponseSchema,
+      );
+      tags.push(...artistDetails.toptags.tag);
+    } catch (error) {
+      console.error(error);
+    }
   }
   // sort tags by count, descending
   tags.sort((a, b) => b.count - a.count);

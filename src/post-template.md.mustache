@@ -12,20 +12,18 @@ title: Релізи за {{ prettyDate }}
   <header>
     <h1>Релізи за <time datetime="{{ rawDate }}">{{ prettyDate }}</time></h1>
     <p class="summary">Українська музика, випущена в цей день</p>
-    {{#tags}}
       <ul class="tags">
-        {{#.}}
+        {{#tags}}
           <li>{{.}}</li>
-        {{/.}}
+        {{/tags}}
       </ul>
-    {{/tags}}
   </header>
   <section class="releases">
     {{#releases}}
     <article class="release">
       <header>
         <h2>
-          <a href="{{{ url }}}" rel="external">{{ title }}</a>
+          <a href="{{{ url }}}" rel="external">{{ artists }} - {{ title }}</a>
         </h2>
       </header>
       <figure>
@@ -33,16 +31,20 @@ title: Релізи за {{ prettyDate }}
         <figcaption>{{ artists }} — {{ title }}</figcaption>
       </figure>
       <ul>
+        <li><strong>Назва:</strong> {{ title }}</li>
         <li><strong>Виконавці:</strong> {{ artists }}</li>
         <li><strong>Тип:</strong> {{ type }}</li>
         <li><strong>Всього стежин:</strong> {{ totalTracks }}</li>
-        <li><strong>Теги:</strong>
-          <ul class="tags">
-            {{#tags}}
-              <li>{{.}}</li>
-            {{/tags}}
-          </ul>
-        </li>
+        {{#tags.length}}
+            <li><strong>Теги:</strong>
+            <ul class="tags">
+                {{#tags}}
+                <li class="tag">{{.}}</li>
+                {{/tags}}
+            </ul>
+            </li>
+        {{/tags.length}}
+        <li><strong>Слухати:</strong> <a href="{{{ url }}}" target="_blank">{{ url }}</a></li>
       </ul>
     </article>
     {{/releases}}

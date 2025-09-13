@@ -28,13 +28,17 @@ figure {
   margin-bottom: 1em;
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
+  align-items: center;
 }
 figure img {
   border-radius: 8px;
+  margin: 0 auto;
   max-width: 200px;
   box-shadow: 0 4px 16px #0002;
   margin-bottom: 0.5em;
+}
+figure figcaption {
+  display: none;
 }
 header {
   background: linear-gradient(90deg, #e7f1fd 0%, #d1eaff 100%);

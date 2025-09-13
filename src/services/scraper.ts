@@ -141,7 +141,7 @@ export class ReleaseScraper {
           release.type,
           release.totalTracks.toString(),
           (release.popularity || 0).toString(),
-          escapeCsvField(release.genres.join('; ')),
+          escapeCsvField(release.tags?.join('; ') || ''),
           release.url,
         ];
         csvRows.push(row.join(','));
@@ -174,8 +174,8 @@ export class ReleaseScraper {
         console.log(`⭐ Популярність: ${release.popularity}/100`);
       }
 
-      if (release.genres.length > 0) {
-        console.log(`🏷️  Жанри: ${release.genres.join(', ')}`);
+      if (release.tags?.length) {
+        console.log(`🏷️  Теги: ${release.tags.join(', ')}`);
       }
 
       console.log(`🔗 ${release.url}`);

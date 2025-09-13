@@ -32,14 +32,14 @@ function getTags(releases: MusicRelease[]) {
 
 export default async function savePost(date: string, releases: MusicRelease[]) {
   const prettyDate = new Date(date).toLocaleDateString('uk-UA');
-  const targetFilename = join(...POST_FOLDER, `${date}.md`);
+  const targetFilename = join(...POST_FOLDER, `${date}-releases.md`);
   const post = Mustache.render(postTemplate, {
     prettyDate: prettyDate,
     rawDate: date,
     releases: releases.map((release) => ({
       ...release,
       artists: joinArtists(release.artists),
-      tags: release.tags?.join(', '),
+      tags: release.tags,
       type: translateAlbumType(release.type),
     })),
     tags: getTags(releases),

@@ -13,9 +13,9 @@ export interface MusicRelease {
   totalTracks: number;
   url: string;
   imageUrl?: string;
-  genres: string[];
+  // genres: string[];
   popularity?: number;
-  markets: string[];
+  // markets: string[];
 }
 
 export interface ArtistSearchResult {

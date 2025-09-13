@@ -54,6 +54,9 @@ jobs:
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
 
+      - name: Create a Github Pages post
+        run: pnpm create-post
+
       - name: Configure Git
         run: |
           git config --global user.name "github-actions[bot]"

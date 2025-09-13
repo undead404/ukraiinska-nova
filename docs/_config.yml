@@ -1,0 +1,8 @@
+title: 'Українська нова'
+description: 'Автоматична щоденна стрічка української музики'
+author: undead404
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
