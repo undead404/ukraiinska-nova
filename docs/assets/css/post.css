@@ -1,0 +1,58 @@
+/* assets/css/releases.css */
+
+main {
+  max-width: 700px;
+  margin: 2rem auto;
+  font-family: system-ui, sans-serif;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 16px 0 #0001;
+  padding: 2rem;
+}
+header h1 {
+  font-size: 2em;
+  margin-bottom: 0.2em;
+  font-weight: 700;
+}
+.tags,
+.release .tags {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0;
+  gap: 0.5em;
+}
+.tags li {
+  background: #eef;
+  color: #225;
+  border-radius: 7px;
+  padding: 0.2em 0.7em;
+  font-size: 0.95em;
+}
+.release {
+  margin-bottom: 2.5em;
+  padding-bottom: 2em;
+  border-bottom: 1px solid #eee;
+}
+.release h2 a {
+  color: #0b3;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+.release h2 a:hover {
+  color: #095;
+  text-decoration: underline;
+}
+figure {
+  margin: 0;
+  margin-bottom: 1em;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+figure img {
+  border-radius: 8px;
+  max-width: 200px;
+  box-shadow: 0 4px 16px #0002;
+  margin-bottom: 0.5em;
+}

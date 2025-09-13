@@ -3,6 +3,11 @@
   <head>
     <meta charset="UTF-8">
     <title>{{ page.title }}</title>
+    {% if page.css %}
+        <link rel="stylesheet" href="{{ page.css | relative_url }}">
+    {% else %}
+        <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+    {% endif %}
   </head>
   <body>
     <header>

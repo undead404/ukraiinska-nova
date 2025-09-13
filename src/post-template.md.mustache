@@ -1,5 +1,6 @@
 ---
 author: undead404
+css: '/assets/css/post.css'
 date: {{ rawDate }}
 layout: default
 summary: "Українська музика, випущена в цей день – {{ prettyDate }}"
@@ -7,17 +8,43 @@ tags: [{{ tags }}]
 title: Релізи за {{ prettyDate }}
 ---
 
----
-{{#releases}}
-
-## [{{ title }}]({{{ url }}})
-
-![Обкладинка {{ title }}]({{{ imageUrl }}})
-
-- **Виконавці:** {{ artists }}
-- **Тип:** {{ type }}
-- **Всього стежин:** {{ totalTracks }}
-- **Теги:** {{ tags }}
-
----
-{{/releases}}
+<main>
+  <header>
+    <h1>Релізи за <time datetime="{{ rawDate }}">{{ prettyDate }}</time></h1>
+    <p class="summary">Українська музика, випущена в цей день</p>
+    {{#tags}}
+      <ul class="tags">
+        {{#.}}
+          <li>{{.}}</li>
+        {{/.}}
+      </ul>
+    {{/tags}}
+  </header>
+  <section class="releases">
+    {{#releases}}
+    <article class="release">
+      <header>
+        <h2>
+          <a href="{{{ url }}}" rel="external">{{ title }}</a>
+        </h2>
+      </header>
+      <figure>
+        <img src="{{{ imageUrl }}}" alt="Обкладинка {{ title }}">
+        <figcaption>{{ artists }} — {{ title }}</figcaption>
+      </figure>
+      <ul>
+        <li><strong>Виконавці:</strong> {{ artists }}</li>
+        <li><strong>Тип:</strong> {{ type }}</li>
+        <li><strong>Всього стежин:</strong> {{ totalTracks }}</li>
+        <li><strong>Теги:</strong>
+          <ul class="tags">
+            {{#tags}}
+              <li>{{.}}</li>
+            {{/tags}}
+          </ul>
+        </li>
+      </ul>
+    </article>
+    {{/releases}}
+  </section>
+</main>
