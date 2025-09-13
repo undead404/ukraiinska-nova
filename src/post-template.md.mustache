@@ -1,0 +1,23 @@
+---
+author: undead404
+date: {{ rawDate }}
+layout: default
+summary: "Українська музика, випущена в цей день – {{ prettyDate }}"
+tags: [{{ tags }}]
+title: Релізи за {{ prettyDate }}
+---
+
+---
+{{#releases}}
+
+## [{{ title }}]({{{ url }}})
+
+![Обкладинка {{ title }}]({{{ imageUrl }}})
+
+- **Виконавці:** {{ artists }}
+- **Тип:** {{ type }}
+- **Всього стежин:** {{ totalTracks }}
+- **Теги:** {{ tags }}
+
+---
+{{/releases}}

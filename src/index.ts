@@ -3,6 +3,7 @@ import hashtagify from './helpers/hashtagify.js';
 import joinArtists from './helpers/join-artists.js';
 import translateAlbumType from './helpers/translate-album-type.js';
 import readFileArtistIds from './read-artist-ids.js';
+import savePost from './save-post.js';
 import { BlueskyService } from './services/bluesky.js';
 import { getReleaseTags } from './services/lastfm.js';
 import { ReleaseScraper } from './services/scraper.js';
@@ -66,6 +67,9 @@ async function main(): Promise<void> {
     scraper.printReleases(releases);
     scraper.printStats(stats);
 
+    for (const release of releases) {
+      release.tags = await getReleaseTags(release);
+    }
     // Зберігаємо у файли
     await scraper.saveToFile(releases);
     await scraper.saveToCsv(
@@ -73,9 +77,7 @@ async function main(): Promise<void> {
       `archive/releases_${options.startDate}.csv`,
     );
 
-    for (const release of releases) {
-      release.tags = await getReleaseTags(release);
-    }
+    await savePost(targetDateStr, releases);
 
     const posts: Array<{
       imageUrl?: string;
