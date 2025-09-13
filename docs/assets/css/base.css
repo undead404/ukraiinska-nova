@@ -23,11 +23,6 @@ main {
   box-shadow: 0 2px 16px 0 #0001;
   padding: 2rem;
 }
-header h1 {
-  font-size: 2em;
-  margin-bottom: 0.2em;
-  font-weight: 700;
-}
 figure {
   margin: 0;
   margin-bottom: 1em;
@@ -40,4 +35,51 @@ figure img {
   max-width: 200px;
   box-shadow: 0 4px 16px #0002;
   margin-bottom: 0.5em;
+}
+header {
+  background: linear-gradient(90deg, #e7f1fd 0%, #d1eaff 100%);
+  border-radius: 16px 16px 0 0;
+  padding: 2rem 1rem 1.5rem 1rem;
+  text-align: center;
+  box-shadow: 0 4px 16px #0001;
+  margin-bottom: 2rem;
+}
+
+header h1 {
+  margin: 0 0 0.5em 0;
+  font-size: 2.4rem;
+  font-weight: 800;
+  color: #215fa6;
+  letter-spacing: -1px;
+  text-shadow: 0 2px 8px #acd6ff44;
+}
+
+header p {
+  margin: 0 auto;
+  color: #325774;
+  font-size: 1.15rem;
+  max-width: 38em;
+}
+
+footer {
+  background: linear-gradient(90deg, #d1eaff 0%, #e7f1fd 100%);
+  border-radius: 0 0 16px 16px;
+  margin-top: 3rem;
+  padding: 1.2rem 1rem;
+  text-align: center;
+  font-size: 1rem;
+  color: #49718d;
+  box-shadow: 0 -2px 8px #0001;
+  border-top: 1px solid #dce6f3;
+}
+
+footer a {
+  color: #215fa6;
+  text-decoration: underline dotted;
+  transition: color 0.2s;
+}
+footer a:hover,
+footer a:focus {
+  color: #17457a;
+  text-decoration: underline solid;
 }

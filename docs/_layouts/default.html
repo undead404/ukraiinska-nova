@@ -1,26 +1,27 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="uk-UA">
   <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8" />
     <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="{{ '/assets/css/base.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/base.css' | relative_url }}" />
     {% if page.css %}
-        <link rel="stylesheet" href="{{ page.css | relative_url }}">
+    <link rel="stylesheet" href="{{ page.css | relative_url }}" />
     {% else %}
-        <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" />
     {% endif %}
   </head>
   <body>
-    <header>
-      <h1><a href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
-    </header>
-
-    <main>
-      {{ content }}
-    </main>
+    {{ content }}
 
     <footer>
       <p>&copy; {{ site.time | date: "%Y" }}</p>
+      <p>
+        Слідкуйте за стрічкою релізів на
+        <a href="https://t.me/ukraiinskanova">Telegram</a> або
+        <a href="https://bsky.app/profile/ukraiinska-nova.bsky.social"
+          >Bluesky</a
+        >.
+      </p>
     </footer>
   </body>
 </html>
