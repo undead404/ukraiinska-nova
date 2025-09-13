@@ -1,0 +1,43 @@
+:root {
+  --accent: #2d72d9;
+  --accent-bg: #e7f1fd;
+  --border: #dce6f3;
+  --card-bg: #fff;
+  --radius: 12px;
+  --shadow: 0 4px 24px #0001;
+  --font: system-ui, 'Segoe UI', sans-serif;
+}
+
+body {
+  font-family: var(--font);
+  background: var(--accent-bg);
+  margin: 0;
+  color: #222;
+}
+main {
+  max-width: 700px;
+  margin: 2rem auto;
+  font-family: system-ui, sans-serif;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 16px 0 #0001;
+  padding: 2rem;
+}
+header h1 {
+  font-size: 2em;
+  margin-bottom: 0.2em;
+  font-weight: 700;
+}
+figure {
+  margin: 0;
+  margin-bottom: 1em;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+figure img {
+  border-radius: 8px;
+  max-width: 200px;
+  box-shadow: 0 4px 16px #0002;
+  margin-bottom: 0.5em;
+}

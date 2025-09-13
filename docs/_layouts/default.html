@@ -3,6 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/base.css' | relative_url }}">
     {% if page.css %}
         <link rel="stylesheet" href="{{ page.css | relative_url }}">
     {% else %}

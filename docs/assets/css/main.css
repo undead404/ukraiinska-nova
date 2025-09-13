@@ -1,20 +1,3 @@
-:root {
-  --accent: #2d72d9;
-  --accent-bg: #e7f1fd;
-  --border: #dce6f3;
-  --card-bg: #fff;
-  --radius: 12px;
-  --shadow: 0 4px 24px #0001;
-  --font: system-ui, 'Segoe UI', sans-serif;
-}
-
-body {
-  font-family: var(--font);
-  background: var(--accent-bg);
-  margin: 0;
-  color: #222;
-}
-
 .main-content {
   max-width: 700px;
   margin: 2rem auto 4rem auto;
