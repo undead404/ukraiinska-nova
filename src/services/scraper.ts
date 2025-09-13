@@ -60,7 +60,7 @@ export class ReleaseScraper {
       } catch (error) {
         console.error(`  ❌ Помилка обробки ${name}:`, error);
         artistsStats[name] = 0;
-        // throw error;
+        throw error;
       }
     }
 
