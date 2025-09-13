@@ -1,14 +1,19 @@
 export default function translateAlbumType(type: string): string {
   switch (type) {
-    case 'album':
+    case 'album': {
       return 'альбом';
-    case 'single':
+    }
+    case 'single': {
       return 'окремок';
-    case 'compilation':
+    }
+    case 'compilation': {
       return 'збірка';
-    case 'appears_on':
+    }
+    case 'appears_on': {
       return 'співучасть';
-    default:
+    }
+    default: {
       return type;
+    }
   }
 }

@@ -1,5 +1,8 @@
 import TelegramBot from 'node-telegram-bot-api';
 
+import getTextLength from '../helpers/get-text-length';
+import splitTextForMessages from '../helpers/split-text-for-messages';
+
 interface TelegramConfig {
   token: string;
   channelId?: string; // ID каналу або чату (опціонально)
@@ -14,92 +17,19 @@ interface SendResult {
 interface ParseModeOptions {
   parse_mode?: 'HTML' | 'Markdown' | 'MarkdownV2';
 }
+// Telegram має ліміт 4096 символів на повідомлення
+const MAX_MESSAGE_LENGTH = 4096;
+
+// Ліміт для підписів під медіа
+const MAX_CAPTION_LENGTH = 1024;
 
 export class TelegramService {
   private bot: TelegramBot;
   private config: TelegramConfig;
 
-  // Telegram має ліміт 4096 символів на повідомлення
-  private readonly MAX_MESSAGE_LENGTH = 4096;
-
-  // Ліміт для підписів під медіа
-  private readonly MAX_CAPTION_LENGTH = 1024;
-
   constructor(config: TelegramConfig) {
     this.config = config;
     this.bot = new TelegramBot(config.token, { polling: false });
-  }
-
-  /**
-   * Підрахунок довжини тексту з урахуванням Unicode символів
-   */
-  private getTextLength(text: string): number {
-    return Array.from(text).length;
-  }
-
-  /**
-   * Розбиття тексту на частини з урахуванням Unicode
-   */
-  private splitTextForMessages(
-    text: string,
-    maxLength: number = this.MAX_MESSAGE_LENGTH,
-  ): string[] {
-    const parts: string[] = [];
-    const textArray = Array.from(text);
-
-    let currentPart = '';
-    let i = 0;
-
-    while (i < textArray.length) {
-      const char = textArray[i];
-      const testPart = currentPart + char;
-
-      if (this.getTextLength(testPart) <= maxLength) {
-        currentPart = testPart;
-        i++;
-      } else {
-        if (currentPart) {
-          // Шукаємо найкраще місце для розриву
-          const breakPoints = ['\n\n', '\n', '. ', '! ', '? ', '; ', ', ', ' '];
-          let bestBreakIndex = -1;
-          let bestBreakLength = 0;
-
-          for (const breakPoint of breakPoints) {
-            const lastIndex = currentPart.lastIndexOf(breakPoint);
-            if (
-              lastIndex > bestBreakIndex &&
-              lastIndex > currentPart.length - 100
-            ) {
-              bestBreakIndex = lastIndex;
-              bestBreakLength = breakPoint.length;
-              break; // Використовуємо перший знайдений (найкращий)
-            }
-          }
-
-          if (bestBreakIndex > 0) {
-            // Розриваємо по знайденому розділовому символу
-            parts.push(
-              currentPart.substring(0, bestBreakIndex + bestBreakLength).trim(),
-            );
-            currentPart =
-              currentPart.substring(bestBreakIndex + bestBreakLength) + char;
-          } else {
-            // Розриваємо примусово
-            parts.push(currentPart.trim());
-            currentPart = char;
-          }
-        } else {
-          currentPart = char;
-        }
-        i++;
-      }
-    }
-
-    if (currentPart.trim()) {
-      parts.push(currentPart.trim());
-    }
-
-    return parts.filter((part) => part.length > 0);
   }
 
   /**
@@ -135,55 +65,23 @@ export class TelegramService {
     const delay = options.delay || 500; // Затримка між повідомленнями в мс
 
     try {
-      const textLength = this.getTextLength(text);
+      const textLength = getTextLength(text);
 
-      if (textLength <= this.MAX_MESSAGE_LENGTH) {
-        // Просте повідомлення
+      if (textLength <= MAX_MESSAGE_LENGTH) {
         console.log('📝 Відправляємо звичайне повідомлення...');
         const message = await this.sendSingleMessage(chatId, text, options);
         messages.push(message);
         console.log('✅ Повідомлення відправлено!');
       } else {
-        // Розбиваємо на кілька повідомлень
-        console.log('📨 Розбиваємо на кілька повідомлень...');
-        const textParts = this.splitTextForMessages(text);
-        console.log(`📊 Розбито на ${textParts.length} частин`);
-
-        for (let i = 0; i < textParts.length; i++) {
-          const partText = textParts[i];
-          const isFirst = i === 0;
-          const isLast = i === textParts.length - 1;
-
-          // Додаємо індикатори частин якщо більше одного повідомлення
-          let finalText = partText;
-          if (textParts.length > 1) {
-            if (isFirst) {
-              finalText = `${partText}\n\n<i>📎 Продовження нижче... (1/${textParts.length})</i>`;
-            } else if (isLast) {
-              finalText = `<i>📎 Продовження (${i + 1}/${textParts.length})</i>\n\n${partText}`;
-            } else {
-              finalText = `<i>📎 Продовження (${i + 1}/${textParts.length})</i>\n\n${partText}\n\n<i>📎 Продовження нижче...</i>`;
-            }
-          }
-
-          console.log(
-            `📤 Відправляємо частину ${i + 1}/${textParts.length} (${this.getTextLength(partText)} символів)`,
-          );
-
-          const message = await this.sendSingleMessage(
-            chatId,
-            finalText,
-            options,
-          );
-          messages.push(message);
-
-          // Затримка між повідомленнями (крім останнього)
-          if (i < textParts.length - 1) {
-            await new Promise((resolve) => setTimeout(resolve, delay));
-          }
-        }
-
-        console.log('✅ Всі повідомлення відправлено!');
+        const textParts = splitTextForMessages(text, MAX_MESSAGE_LENGTH);
+        console.log(`📨 Розбиваємо на ${textParts.length} частин`);
+        await this.sendMultipleMessages(
+          chatId,
+          textParts,
+          options,
+          delay,
+          messages,
+        );
       }
 
       return { success: true, messages };
@@ -193,6 +91,44 @@ export class TelegramService {
       console.error('❌ Помилка відправки:', error);
       return { success: false, messages, error: errorMessage };
     }
+  }
+
+  private async sendMultipleMessages(
+    chatId: string | number,
+    textParts: string[],
+    options: ParseModeOptions,
+    delay: number,
+    messages: TelegramBot.Message[],
+  ): Promise<void> {
+    for (let index = 0; index < textParts.length; index++) {
+      const partText = textParts[index];
+      const isFirst = index === 0;
+      const isLast = index === textParts.length - 1;
+
+      let finalText = partText;
+      if (textParts.length > 1) {
+        if (isFirst) {
+          finalText = `${partText}\n\n<i>📎 Продовження нижче... (1/${textParts.length})</i>`;
+        } else if (isLast) {
+          finalText = `<i>📎 Продовження (${index + 1}/${textParts.length})</i>\n\n${partText}`;
+        } else {
+          finalText = `<i>📎 Продовження (${index + 1}/${textParts.length})</i>\n\n${partText}\n\n<i>📎 Продовження нижче...</i>`;
+        }
+      }
+
+      console.log(
+        `📤 Відправляємо частину ${index + 1}/${textParts.length} (${getTextLength(partText)} символів)`,
+      );
+
+      const message = await this.sendSingleMessage(chatId, finalText, options);
+      messages.push(message);
+
+      if (index < textParts.length - 1) {
+        await new Promise((resolve) => setTimeout(resolve, delay));
+      }
+    }
+
+    console.log('✅ Всі повідомлення відправлено!');
   }
 
   /**
@@ -226,7 +162,7 @@ export class TelegramService {
     const messages: TelegramBot.Message[] = [];
 
     try {
-      if (!caption || this.getTextLength(caption) <= this.MAX_CAPTION_LENGTH) {
+      if (!caption || getTextLength(caption) <= MAX_CAPTION_LENGTH) {
         // Звичайне фото з підписом
         const message = await this.bot.sendPhoto(chatId, photo, {
           caption: caption,
@@ -289,9 +225,9 @@ export class TelegramService {
    */
   static formatHTML(text: string): string {
     return text
-      .replace(/&/g, '&amp;')
-      .replace(/</g, '&lt;')
-      .replace(/>/g, '&gt;');
+      .replaceAll('&', '&amp;')
+      .replaceAll('<', '&lt;')
+      .replaceAll('>', '&gt;');
   }
 
   /**

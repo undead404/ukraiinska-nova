@@ -1,21 +1,10 @@
-import * as dotenv from 'dotenv';
-import { nonEmpty, object, parse, pipe, string } from 'valibot';
+import { getReleaseTags } from '../../services/lastfm.js';
+import { ReleaseScraper } from '../../services/scraper.js';
+import { SpotifyService } from '../../services/spotify.js';
+import type { ScrapingOptions } from '../../types/index.js';
 
+import environment from './environment.js';
 import readFileArtistIds from './read-artist-ids.js';
-import { getReleaseTags } from './services/lastfm.js';
-import { ReleaseScraper } from './services/scraper.js';
-import { SpotifyService } from './services/spotify.js';
-import { ScrapingOptions } from './types/index.js';
-
-dotenv.config();
-
-const environmentSchema = object({
-  LASTFM_API_KEY: pipe(string(), nonEmpty()),
-  SPOTIFY_CLIENT_ID: pipe(string(), nonEmpty()),
-  SPOTIFY_CLIENT_SECRET: pipe(string(), nonEmpty()),
-});
-
-const environment = parse(environmentSchema, process.env);
 
 async function main(): Promise<void> {
   try {
@@ -47,13 +36,13 @@ async function main(): Promise<void> {
     // Вчорашня дата
     const targetDate = new Date();
     targetDate.setDate(targetDate.getDate() - 1);
-    const targetDateStr = targetDate.toISOString().split('T')[0];
+    const targetDateString = targetDate.toISOString().split('T')[0];
 
-    console.log(`📅 Цільова дата: ${targetDateStr}`);
+    console.log(`📅 Цільова дата: ${targetDateString}`);
 
     const options: ScrapingOptions = {
-      startDate: targetDateStr,
-      endDate: targetDateStr,
+      startDate: targetDateString,
+      endDate: targetDateString,
       includeCompilations: false,
       includeAppears: true,
       country: 'UA',
@@ -94,4 +83,4 @@ async function main(): Promise<void> {
   }
 }
 
-void main();
+await main();

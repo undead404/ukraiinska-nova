@@ -11,10 +11,9 @@ import {
 } from 'valibot';
 
 import fetchWithSchema from '../helpers/fetch-with-schema.js';
+import isTagBlacklisted from '../helpers/is-tag-blacklisted.js';
 
 const MAX_TAGS_NUMBER = 8;
-
-const IGNORED_TAGS = ['Ukrainian', 'Ukraine', 'cringecore', 'Jerk', 'Russia'];
 
 const errorResponseSchema = object({
   error: number(),
@@ -56,18 +55,15 @@ export async function getReleaseTags(
   // sort tags by count, descending
   tags.sort((a, b) => b.count - a.count);
   // remove duplicates
-  const uniqueTags = tags.reduce(
-    (acc, tag) => {
-      if (!acc.find((t) => t.name === tag.name)) {
-        acc.push(tag);
-      }
-      return acc;
-    },
-    [] as { name: string; count: number }[],
-  );
+  const uniqueTags: { name: string; count: number }[] = [];
+  for (const tag of tags) {
+    if (!uniqueTags.some((t) => t.name === tag.name)) {
+      uniqueTags.push(tag);
+    }
+  }
   // take only MAX_TAGS_NUMBER tags
   const limitedTags = uniqueTags
-    .filter((tag) => !IGNORED_TAGS.includes(tag.name))
+    .filter((tag) => !isTagBlacklisted(tag.name.toLowerCase()))
     .slice(0, MAX_TAGS_NUMBER);
   // return only tag names
   return limitedTags.filter((tag) => tag.count >= 50).map((tag) => tag.name);

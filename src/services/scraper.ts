@@ -1,4 +1,4 @@
-import * as fs from 'fs/promises';
+import * as fs from 'node:fs/promises';
 
 import deduplicateReleases from '../helpers/deduplicate-releases.js';
 import delay from '../helpers/delay.js';
@@ -11,7 +11,7 @@ import type {
   ScrapingStats,
 } from '../types/index.js';
 
-import { SpotifyService } from './spotify.js';
+import type { SpotifyService } from './spotify.js';
 
 export class ReleaseScraper {
   private spotifyService: SpotifyService;
@@ -38,9 +38,11 @@ export class ReleaseScraper {
     );
     console.log('-'.repeat(60));
 
-    for (let i = 0; i < artists.length; i++) {
-      const { id, name } = artists[i];
-      console.log(`\n[${i + 1}/${artists.length}] 🎤 Обробка: ${name} ${id}`);
+    for (let index = 0; index < artists.length; index++) {
+      const { id, name } = artists[index];
+      console.log(
+        `\n[${index + 1}/${artists.length}] 🎤 Обробка: ${name} ${id}`,
+      );
 
       try {
         // Отримуємо релізи
@@ -67,7 +69,7 @@ export class ReleaseScraper {
     const deduplicatedReleases = deduplicateReleases(allReleases);
 
     // Сортуємо за датою релізу
-    const sortedReleases = deduplicatedReleases.sort((a, b) => {
+    deduplicatedReleases.sort((a, b) => {
       const timeDifference =
         new Date(a.releaseDate).getTime() - new Date(b.releaseDate).getTime();
       if (timeDifference === 0) {
@@ -79,20 +81,20 @@ export class ReleaseScraper {
 
     // Генеруємо статистику
     const stats: ScrapingStats = {
-      totalReleases: sortedReleases.length,
-      bySource: { Spotify: sortedReleases.length },
-      byType: getCountByProperty(sortedReleases, 'type'),
+      totalReleases: deduplicatedReleases.length,
+      bySource: { Spotify: deduplicatedReleases.length },
+      byType: getCountByProperty(deduplicatedReleases, 'type'),
       byArtist: artistsStats,
       processingTime: Date.now() - startTime,
     };
 
     console.log('\n' + '='.repeat(60));
-    console.log(`🎯 Всього знайдено релізів: ${sortedReleases.length}`);
+    console.log(`🎯 Всього знайдено релізів: ${deduplicatedReleases.length}`);
     console.log(
       `⏱️  Час обробки: ${(stats.processingTime / 1000).toFixed(1)}с`,
     );
 
-    return { releases: sortedReleases, stats };
+    return { releases: deduplicatedReleases, stats };
   }
 
   /**
@@ -103,8 +105,8 @@ export class ReleaseScraper {
     filename = 'spotify_releases.json',
   ): Promise<void> {
     try {
-      const jsonData = JSON.stringify(releases, null, 2);
-      await fs.writeFile(filename, jsonData, 'utf-8');
+      const jsonData = JSON.stringify(releases, undefined, 2);
+      await fs.writeFile(filename, jsonData, 'utf8');
       console.log(`💾 Релізи збережено у файл: ${filename}`);
     } catch (error) {
       console.error('Помилка збереження файлу:', error);
@@ -147,7 +149,7 @@ export class ReleaseScraper {
         csvRows.push(row.join(','));
       }
 
-      await fs.writeFile(filename, csvRows.join('\n'), 'utf-8');
+      await fs.writeFile(filename, csvRows.join('\n'), 'utf8');
       console.log(`📊 CSV файл збережено: ${filename}`);
     } catch (error) {
       console.error('Помилка збереження CSV:', error);
@@ -197,19 +199,19 @@ export class ReleaseScraper {
     );
 
     console.log('\nПо типах:');
-    Object.entries(stats.byType).forEach(([type, count]) => {
+    for (const [type, count] of Object.entries(stats.byType)) {
       console.log(
         `📀 ${type.charAt(0).toUpperCase() + type.slice(1)}: ${count}`,
       );
-    });
+    }
 
     console.log('\nПо артистах:');
-    const sortedArtists = Object.entries(stats.byArtist)
-      .sort(([, a], [, b]) => b - a)
-      .slice(0, 10);
+    let sortedArtists = Object.entries(stats.byArtist);
+    sortedArtists.sort(([, a], [, b]) => b - a);
+    sortedArtists = sortedArtists.filter(([, count]) => count > 0).slice(0, 10);
 
-    sortedArtists.forEach(([artist, count]) => {
+    for (const [artist, count] of sortedArtists) {
       console.log(`🎤 ${artist}: ${count} релізів`);
-    });
+    }
   }
 }

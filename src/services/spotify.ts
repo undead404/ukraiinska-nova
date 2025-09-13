@@ -1,24 +1,23 @@
 import SpotifyWebApi from 'spotify-web-api-node';
 
 import delay from '../helpers/delay.js';
-import isDateInRange from '../helpers/is-date-in-range.js';
+import filterAlbums from '../helpers/filter-albums.js';
 import type {
-  SpotifyConfig,
-  MusicRelease,
   ArtistSearchResult,
+  MusicRelease,
   ScrapingOptions,
+  SpotifyConfig,
 } from '../types/index.js';
-import normalizeDate from '../helpers/normalize-date.js';
 
 import { readFromFileCache, writeToFileCache } from './file-cache.js';
 
-const HOUR = 3600000;
+const HOUR = 3_600_000;
 const DAY = 24 * HOUR;
 const MONTH = 30 * DAY;
 
 export class SpotifyService {
   private spotifyApi: SpotifyWebApi;
-  private accessToken: string | null = null;
+  private accessToken: string | undefined = undefined;
   private tokenExpirationTime: number = 0;
 
   constructor(config: SpotifyConfig) {
@@ -41,7 +40,7 @@ export class SpotifyService {
     try {
       const data = await this.spotifyApi.clientCredentialsGrant();
       this.accessToken = data.body.access_token;
-      this.tokenExpirationTime = now + data.body.expires_in * 1000 - 60000; // -1 хвилина для безпеки
+      this.tokenExpirationTime = now + data.body.expires_in * 1000 - 60_000; // -1 хвилина для безпеки
 
       this.spotifyApi.setAccessToken(this.accessToken);
 
@@ -55,7 +54,9 @@ export class SpotifyService {
   /**
    * Шукає артиста за ім'ям
    */
-  async searchArtist(artistName: string): Promise<ArtistSearchResult | null> {
+  async searchArtist(
+    artistName: string,
+  ): Promise<ArtistSearchResult | undefined> {
     const getCachedValue = await readFromFileCache(
       `spotify-artist-${artistName}`,
     );
@@ -93,25 +94,66 @@ export class SpotifyService {
 
       // Якщо точного збігу немає, повертаємо найпопулярнішого
       if (artists.length > 0) {
-        const mostPopular = artists.reduce((prev, current) =>
-          prev.popularity > current.popularity ? prev : current,
-        );
-        //     return {
-        //       id: mostPopular.id,
-        //       name: mostPopular.name,
-        //       popularity: mostPopular.popularity,
-        //       followers: mostPopular.followers.total,
-        //     };
+        let mostPopular: SpotifyApi.ArtistObjectFull | undefined = undefined;
+        for (const artist of artists) {
+          if (!mostPopular || artist.popularity > mostPopular.popularity) {
+            mostPopular = artist;
+          }
+        }
         console.log(
-          `Можливо, малося на увазі: ${mostPopular.name} (популярність: ${mostPopular.popularity})`,
+          `Можливо, малося на увазі: ${mostPopular!.name} (популярність: ${mostPopular!.popularity})`,
         );
       }
 
-      return null;
+      return undefined;
     } catch (error) {
       console.error(`Помилка пошуку артиста ${artistName}:`, error);
       throw error;
     }
+  }
+
+  private async getAlbumDetails(
+    album: SpotifyApi.AlbumObjectSimplified,
+  ): Promise<MusicRelease> {
+    let albumDetails: SpotifyApi.AlbumObjectFull | undefined = undefined;
+
+    const cachedAlbumsDetails =
+      await readFromFileCache<SpotifyApi.AlbumObjectFull>(
+        `spotify-album-details-${album.id}`,
+      );
+
+    if (cachedAlbumsDetails) {
+      albumDetails = cachedAlbumsDetails;
+    } else {
+      const albumResponse = await this.spotifyApi.getAlbum(album.id);
+      albumDetails = albumResponse.body;
+      await writeToFileCache(
+        `spotify-album-details-${album.id}`,
+        albumDetails,
+        Date.now() + DAY,
+      );
+    }
+
+    let artistsPopularity = 0;
+
+    for (const artist of albumDetails.artists) {
+      const popularity = await this.getArtistPopularity(artist.id);
+      artistsPopularity = Math.max(artistsPopularity, popularity);
+    }
+
+    return {
+      artists: albumDetails.artists.map((a) => a.name),
+      artistsPopularity,
+      title: album.name,
+      releaseDate: albumDetails.release_date,
+      type: album.album_type as 'album' | 'single' | 'compilation',
+      totalTracks: albumDetails.total_tracks,
+      url: album.external_urls.spotify,
+      imageUrl: album.images?.[0]?.url,
+      // genres: albumDetails.genres || [],
+      popularity: albumDetails.popularity,
+      // markets: album.available_markets || [],
+    };
   }
 
   /**
@@ -131,13 +173,6 @@ export class SpotifyService {
 
     try {
       while (hasMore) {
-        const albumTypes = ['album', 'single'];
-        if (options.includeCompilations) {
-          albumTypes.push('compilation');
-        }
-        if (options.includeAppears) {
-          albumTypes.push('appears_on');
-        }
         let items: SpotifyApi.AlbumObjectSimplified[] = [];
 
         const cachedArtistAlbums = await readFromFileCache<
@@ -160,63 +195,19 @@ export class SpotifyService {
           );
         }
 
-        items = items.filter((album) => albumTypes.includes(album.album_type));
-
         if (items.length === 0) {
+          // eslint-disable-next-line sonarjs/no-dead-store
           hasMore = false;
           break;
         }
+        items = filterAlbums(items, options);
 
         for (const album of items) {
-          const releaseDate = normalizeDate(album.release_date);
+          const release = await this.getAlbumDetails(album);
+          releases.push(release);
 
-          if (isDateInRange(releaseDate, options.startDate, options.endDate)) {
-            // Отримуємо детальну інформацію про альбом
-
-            let albumDetails: SpotifyApi.AlbumObjectFull | null = null;
-
-            const cachedAlbumsDetails =
-              await readFromFileCache<SpotifyApi.AlbumObjectFull>(
-                `spotify-album-details-${album.id}`,
-              );
-
-            if (cachedAlbumsDetails) {
-              albumDetails = cachedAlbumsDetails;
-            } else {
-              albumDetails = (await this.spotifyApi.getAlbum(album.id)).body;
-              await writeToFileCache(
-                `spotify-album-details-${album.id}`,
-                albumDetails,
-                Date.now() + DAY,
-              );
-            }
-
-            let artistsPopularity = 0;
-
-            for (const artist of albumDetails.artists) {
-              const popularity = await this.getArtistPopularity(artist.id);
-              artistsPopularity = Math.max(artistsPopularity, popularity);
-            }
-
-            const release: MusicRelease = {
-              artists: albumDetails.artists.map((a) => a.name),
-              artistsPopularity,
-              title: album.name,
-              releaseDate,
-              type: album.album_type as 'album' | 'single' | 'compilation',
-              totalTracks: albumDetails.total_tracks,
-              url: album.external_urls.spotify,
-              imageUrl: album.images?.[0]?.url,
-              // genres: albumDetails.genres || [],
-              popularity: albumDetails.popularity,
-              // markets: album.available_markets || [],
-            };
-
-            releases.push(release);
-
-            // Невелика затримка для уникнення rate limiting
-            await delay(200);
-          }
+          // Невелика затримка для уникнення rate limiting
+          await delay(200);
         }
 
         offset += limit;
@@ -232,24 +223,6 @@ export class SpotifyService {
     }
 
     return releases;
-  }
-
-  /**
-   * Отримує топ треки артиста (бонусна функція)
-   */
-  async getArtistTopTracks(artistId: string, country = 'UA'): Promise<any[]> {
-    await this.getAccessToken();
-
-    try {
-      const topTracks = await this.spotifyApi.getArtistTopTracks(
-        artistId,
-        country,
-      );
-      return topTracks.body.tracks;
-    } catch (error) {
-      console.error('Помилка отримання топ треків:', error);
-      throw error;
-    }
   }
 
   async getArtist(artistId: string): Promise<SpotifyApi.ArtistObjectFull> {
@@ -268,7 +241,7 @@ export class SpotifyService {
     const cachedPopularity = await readFromFileCache<number>(
       `spotify-artist-popularity-${artistId}`,
     );
-    if (cachedPopularity !== null) {
+    if (cachedPopularity !== undefined) {
       return cachedPopularity;
     }
 

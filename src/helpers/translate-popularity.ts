@@ -20,7 +20,7 @@ export default function translatePopularity(popularity: number) {
   if (popularity > 1.6875) {
     return 'Спроба';
   }
-  if (popularity > 0.84375) {
+  if (popularity > 0.843_75) {
     return 'Новачок';
   }
   return 'Таємниця';

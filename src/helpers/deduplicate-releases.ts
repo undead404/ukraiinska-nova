@@ -8,7 +8,7 @@ export default function deduplicateReleases(
   releases: MusicRelease[],
 ): MusicRelease[] {
   const seenReleases = new Map<string, MusicRelease>();
-  releases.forEach((release) => {
+  for (const release of releases) {
     const identity = calculateReleaseIdentity(release);
     const previousRelease = seenReleases.get(identity);
     if (
@@ -18,6 +18,6 @@ export default function deduplicateReleases(
     ) {
       seenReleases.set(identity, release);
     }
-  });
-  return Array.from(seenReleases.values());
+  }
+  return [...seenReleases.values()];
 }

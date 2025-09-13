@@ -8,30 +8,29 @@ export default function splitTextForThread(
   maxPostLength: number,
 ): string[] {
   const parts: string[] = [];
-  const textArray = Array.from(text);
+  const textArray = [...text];
 
   let currentPart = '';
-  let i = 0;
+  let index = 0;
 
-  while (i < textArray.length) {
-    const char = textArray[i];
+  while (index < textArray.length) {
+    const char = textArray[index];
     const testPart = currentPart + char;
 
     if (getTextLength(testPart) <= maxPostLength) {
       currentPart = testPart;
-      i++;
+      index++;
     } else {
       if (currentPart) {
         // Шукаємо останній пробіл або розділовий знак для розриву
         //   const lastSpaceIndex = currentPart.lastIndexOf(" ");
         const lastNewlineIndex = currentPart.lastIndexOf('\n');
-        //   const breakIndex = Math.max(lastSpaceIndex, lastNewlineIndex);
         const breakIndex = lastNewlineIndex;
 
         if (breakIndex > 0 && breakIndex > currentPart.length - 50) {
           // Розриваємо по пробілу/новому рядку
-          parts.push(currentPart.substring(0, breakIndex).trim());
-          currentPart = currentPart.substring(breakIndex + 1) + char;
+          parts.push(currentPart.slice(0, Math.max(0, breakIndex)).trim());
+          currentPart = currentPart.slice(Math.max(0, breakIndex + 1)) + char;
         } else {
           // Розриваємо примусово
           parts.push(currentPart.trim());
@@ -41,7 +40,7 @@ export default function splitTextForThread(
         // Якщо навіть один символ не поміщається (не повинно трапитися)
         currentPart = char;
       }
-      i++;
+      index++;
     }
   }
 

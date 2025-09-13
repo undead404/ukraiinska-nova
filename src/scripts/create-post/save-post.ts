@@ -1,18 +1,18 @@
-import { readFile, writeFile } from 'fs/promises';
-import { join } from 'path';
+import { readFile, writeFile } from 'node:fs/promises';
+import path from 'node:path';
 
 import Mustache from 'mustache';
 
-import joinArtists from './helpers/join-artists.js';
-import translateAlbumType from './helpers/translate-album-type.js';
-import translatePopularity from './helpers/translate-popularity.js';
-import type { MusicRelease } from './types';
+import joinArtists from '../../helpers/join-artists.js';
+import translateAlbumType from '../../helpers/translate-album-type.js';
+import translatePopularity from '../../helpers/translate-popularity.js';
+import type { MusicRelease } from '../../types/index.js';
 
-const postTemplate = (
-  await readFile('./src/post-template.md.mustache')
-).toString();
+const postTemplate = await readFile('./src/post-template.md.mustache');
 
-Mustache.parse(postTemplate);
+const postTemplateCode = postTemplate.toString();
+
+Mustache.parse(postTemplateCode);
 
 const POST_FOLDER = ['docs', '_posts'];
 
@@ -24,7 +24,7 @@ function getTags(releases: MusicRelease[]) {
     }
   }
 
-  const tagPairs = Array.from(countTags.entries());
+  const tagPairs = [...countTags.entries()];
 
   tagPairs.sort(([, a], [, b]) => b - a);
 
@@ -33,9 +33,9 @@ function getTags(releases: MusicRelease[]) {
 
 export default async function savePost(date: string, releases: MusicRelease[]) {
   const prettyDate = new Date(date).toLocaleDateString('uk-UA');
-  const targetFilename = join(...POST_FOLDER, `${date}-releases.md`);
+  const targetFilename = path.join(...POST_FOLDER, `${date}-releases.md`);
 
-  const post = Mustache.render(postTemplate, {
+  const post = Mustache.render(postTemplateCode, {
     prettyDate: prettyDate,
     rawDate: date,
     releases: releases.map((release) => ({

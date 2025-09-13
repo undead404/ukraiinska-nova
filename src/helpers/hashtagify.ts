@@ -8,8 +8,11 @@
  * hashtagify('black metal') // 'black_metal'
  */
 export default function hashtagify(text: string): string {
-  return text
-    .toLowerCase()
-    .replace(/[\s-]+/g, '_')
-    .replace(/[^\w]/g, '');
+  return (
+    '#' +
+    text
+      .toLowerCase()
+      .replaceAll(/[\s-]+/g, '_')
+      .replaceAll(/[^\w]/g, '')
+  );
 }

@@ -1,4 +1,4 @@
-import { readFile } from 'fs/promises';
+import { readFile } from 'node:fs/promises';
 
 import {
   array,
@@ -43,9 +43,7 @@ export default async function openTodayReleases(): Promise<{
   const data = await readFile('spotify_releases.json');
 
   const parsedData = parse(array(postSchema), JSON.parse(data.toString()));
-  const dates = Array.from(
-    new Set(parsedData.map((release) => release.releaseDate)),
-  );
+  const dates = [...new Set(parsedData.map((release) => release.releaseDate))];
 
   if (dates.length > 1) {
     throw new Error(`Many dates: ${dates}`);

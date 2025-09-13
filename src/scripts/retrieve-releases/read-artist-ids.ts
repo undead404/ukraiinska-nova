@@ -1,9 +1,9 @@
-import { readFile } from 'fs/promises';
+import { readFile } from 'node:fs/promises';
 
 export default async function readFileArtistIds(
   filePath: string,
 ): Promise<{ name: string; id: string }[]> {
-  const data = await readFile(filePath, 'utf-8');
+  const data = await readFile(filePath, 'utf8');
   // Список артистів з їх Spotify ID
   return (
     data
@@ -17,7 +17,7 @@ export default async function readFileArtistIds(
       // Розділяємо на ім'я та ID
       .map((line) => {
         // Враховуємо, що назва артиста може містити кому, і тоді вона в подвійних лапках
-        const match = line.match(/^"(.+)",(.*)$/);
+        const match = new RegExp(/^"(.+)",(.*)$/).exec(line);
         let name: string;
         let id: string;
         if (match) {

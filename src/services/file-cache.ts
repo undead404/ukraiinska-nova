@@ -1,4 +1,4 @@
-import { mkdir, readFile, stat, writeFile } from 'fs/promises';
+import { mkdir, readFile, stat, writeFile } from 'node:fs/promises';
 
 import normalizeFilename from '../helpers/normalize-filename.js';
 
@@ -14,17 +14,19 @@ if (!(await stat(CACHE_FOLDER).catch(() => false))) {
   await mkdir(CACHE_FOLDER);
 }
 
-export async function readFromFileCache<T>(key: string): Promise<T | null> {
+export async function readFromFileCache<T>(
+  key: string,
+): Promise<T | undefined> {
   const filePath = `${CACHE_FOLDER}/${normalizeFilename(key)}.json`;
   if (!(await stat(filePath).catch(() => false))) {
-    return null;
+    return undefined;
   }
 
-  const { data, endDate } = await readFile(filePath, 'utf-8').then(
+  const { data, endDate } = await readFile(filePath, 'utf8').then(
     (content) => JSON.parse(content) as CacheEntry<T>,
   );
   if (endDate < Date.now()) {
-    return null;
+    return undefined;
   }
   return data as T;
 }
@@ -38,7 +40,7 @@ export async function writeToFileCache<T>(
 
   await writeFile(
     filePath,
-    JSON.stringify({ data, endDate }, null, 2),
-    'utf-8',
+    JSON.stringify({ data, endDate }, undefined, 2),
+    'utf8',
   );
 }

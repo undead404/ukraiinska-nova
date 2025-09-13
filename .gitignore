@@ -4,3 +4,4 @@ dist
 cache/*.json
 logs/*.log
 docs/_site
+.DS_Store

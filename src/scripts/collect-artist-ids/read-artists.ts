@@ -1,10 +1,10 @@
-import { readFile } from 'fs/promises';
+import { readFile } from 'node:fs/promises';
 
 export default async function readFileArtists(
   filePath: string,
 ): Promise<string[]> {
   // Список артистів
-  const artists = await readFile(filePath, 'utf-8').then((data) =>
+  const artists = await readFile(filePath, 'utf8').then((data) =>
     data
       // Окремі артисти на різних рядках
       .split('\n')

@@ -1,8 +1,6 @@
-import * as dotenv from 'dotenv';
+import openTodayReleases from '../../open-today-releases.js';
 
 import savePost from './save-post.js';
-import openTodayReleases from './open-today-releases.js';
-dotenv.config();
 
 const { date, releases } = await openTodayReleases();
 
