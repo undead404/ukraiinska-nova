@@ -130,7 +130,6 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: spotify_releases
-          path: spotify_releases.json
 
       - name: Create a Github Pages post
         run: pnpm create-post
@@ -184,7 +183,6 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: spotify_releases
-          path: spotify_releases.json
 
       - name: Post to Bluesky
         run: pnpm post-to-bluesky
@@ -226,7 +224,6 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: spotify_releases
-          path: spotify_releases.json
 
       - name: Post to Telegram
         run: pnpm post-to-telegram
