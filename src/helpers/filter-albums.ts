@@ -1,7 +1,7 @@
 import type { ScrapingOptions } from '../types';
 
-import isDateInRange from './is-date-in-range';
-import normalizeDate from './normalize-date';
+import isDateInRange from './is-date-in-range.js';
+import normalizeDate from './normalize-date.js';
 
 export default function filterAlbums(
   albums: SpotifyApi.AlbumObjectSimplified[],
