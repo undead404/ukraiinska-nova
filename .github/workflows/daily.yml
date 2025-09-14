@@ -141,8 +141,8 @@ jobs:
 
       - name: Add changes
         run: |
-          git add _docs
-          git diff --cached --quiet || git commit -m "chore: auto-commit _docs folder"
+          git add docs
+          git diff --cached --quiet || git commit -m "chore: auto-commit docs folder"
 
       - name: Push changes
         uses: ad-m/github-push-action@v1.0.0

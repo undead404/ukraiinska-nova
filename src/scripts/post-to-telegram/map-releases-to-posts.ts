@@ -1,8 +1,8 @@
-import hashtagify from '../../helpers/hashtagify';
-import joinArtists from '../../helpers/join-artists';
-import translateAlbumType from '../../helpers/translate-album-type';
-import translatePopularity from '../../helpers/translate-popularity';
-import type { MusicRelease } from '../../types';
+import hashtagify from '../../helpers/hashtagify.js';
+import joinArtists from '../../helpers/join-artists.js';
+import translateAlbumType from '../../helpers/translate-album-type.js';
+import translatePopularity from '../../helpers/translate-popularity.js';
+import type { MusicRelease } from '../../types/index.js';
 
 export default function mapReleasesToPosts(releases: MusicRelease[]) {
   const posts: Array<{

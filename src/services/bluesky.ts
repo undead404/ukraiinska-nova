@@ -3,8 +3,8 @@ import {
   type ComAtprotoRepoUploadBlob,
   RichText,
 } from '@atproto/api';
-import delay from 'src/helpers/delay.js';
 
+import delay from '../helpers/delay.js';
 import getTextLength from '../helpers/get-text-length.js';
 import splitTextForThread from '../helpers/split-text.js';
 

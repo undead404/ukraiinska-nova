@@ -1,7 +1,7 @@
 import TelegramBot from 'node-telegram-bot-api';
 
-import getTextLength from '../helpers/get-text-length';
-import splitTextForMessages from '../helpers/split-text-for-messages';
+import getTextLength from '../helpers/get-text-length.js';
+import splitTextForMessages from '../helpers/split-text-for-messages.js';
 
 interface TelegramConfig {
   token: string;
