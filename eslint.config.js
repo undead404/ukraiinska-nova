@@ -16,7 +16,7 @@ export default defineConfig(
   eslintPluginUnicorn.configs.recommended,
   eslintPluginPrettierRecommended,
   {
-    files: ['**/*.ts'],
+    files: ['src/**/*.ts'],
     languageOptions: {
       ecmaVersion: 2022,
       sourceType: 'module',
@@ -70,11 +70,21 @@ export default defineConfig(
     },
   },
   {
-    files: ['**/*.test.ts'],
+    files: ['src/**/*.test.ts'],
     plugins: { vitest },
     rules: {
       ...vitest.configs.recommended.rules,
       '@typescript-eslint/no-explicit-any': 'off',
+    },
+  },
+  {
+    files: ['./*.config.ts'],
+    languageOptions: {
+      ecmaVersion: 2022,
+      sourceType: 'module',
+      parserOptions: {
+        project: './config.tsconfig.json', // <-- type-aware linting
+      },
     },
   },
   {
