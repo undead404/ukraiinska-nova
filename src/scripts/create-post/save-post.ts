@@ -51,6 +51,7 @@ export default async function savePost(date: string, releases: MusicRelease[]) {
   const targetFilename = path.join(...POST_FOLDER, `${date}-releases.md`);
 
   const post = Mustache.render(postTemplateCode, {
+    imageUrl: releases.find((release) => release.imageUrl)?.imageUrl,
     prettyDate: prettyDate,
     rawDate: date,
     releases: releases.map((release) => ({

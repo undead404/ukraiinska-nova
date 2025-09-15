@@ -2,6 +2,7 @@
 author: undead404
 css: '/assets/css/post.css'
 date: {{ rawDate }}
+{% if imageUrl %}imageUrl: {{ imageUrl }}{% endif %}
 layout: default
 summary: "Українська музика, випущена в цей день – {{ prettyDate }}. {{ shortArtistsList }}"
 tags: [{{ tags }}]

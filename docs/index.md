@@ -20,6 +20,9 @@ title: 'Українська нова'
             <time datetime="{{ post.date | date_to_xmlschema }}">
               {{ post.date | date: "%B %d, %Y" }}
             </time>
+            {% if post.imageUrl %}
+              <img alt="" src="{{ post.imageUrl }}" />
+            {% endif %}
             {% if post.summary %}
               <div class="summary">{{ post.summary }}</div>
             {% endif %}
