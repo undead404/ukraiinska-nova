@@ -31,6 +31,21 @@ function getTags(releases: MusicRelease[]) {
   return tagPairs.map(([tag]) => tag);
 }
 
+const MAX_SHORT_ARTISTS_LIST_LENGTH = 5;
+
+function getShortArtistsList(releases: MusicRelease[]) {
+  const artists: string[] = [];
+  for (const release of releases) {
+    for (const artist of release.artists) {
+      artists.push(artist);
+      if (artists.length >= MAX_SHORT_ARTISTS_LIST_LENGTH) {
+        return artists;
+      }
+    }
+  }
+  return artists;
+}
+
 export default async function savePost(date: string, releases: MusicRelease[]) {
   const prettyDate = new Date(date).toLocaleDateString('uk-UA');
   const targetFilename = path.join(...POST_FOLDER, `${date}-releases.md`);
@@ -45,6 +60,7 @@ export default async function savePost(date: string, releases: MusicRelease[]) {
       tags: release.tags,
       type: translateAlbumType(release.type),
     })),
+    shortArtistsList: joinArtists([...getShortArtistsList(releases), 'інші']),
     tags: getTags(releases),
   });
   await writeFile(targetFilename, post);

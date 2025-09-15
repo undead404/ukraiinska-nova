@@ -1,5 +1,5 @@
-import findBestBreakPoint from './find-best-break-point';
-import getTextLength from './get-text-length';
+import findBestBreakPoint from './find-best-break-point.js';
+import getTextLength from './get-text-length.js';
 
 export default function splitTextForMessages(
   text: string,

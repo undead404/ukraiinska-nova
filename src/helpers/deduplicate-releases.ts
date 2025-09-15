@@ -1,4 +1,4 @@
-import type { MusicRelease } from '../types';
+import type { MusicRelease } from '../types/index.js';
 
 function calculateReleaseIdentity(release: MusicRelease): string {
   return `${release.artists.join(',').toLowerCase()}|${release.title.toLowerCase()}|${release.type}|${release.releaseDate}`;

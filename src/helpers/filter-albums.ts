@@ -1,4 +1,4 @@
-import type { ScrapingOptions } from '../types';
+import type { ScrapingOptions } from '../types/index.js';
 
 import isDateInRange from './is-date-in-range.js';
 import normalizeDate from './normalize-date.js';
