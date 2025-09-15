@@ -19,12 +19,12 @@
 }
 
 .release-list {
-  list-style: decimal inside;
+  list-style: none;
   padding-left: 0;
   margin: 0;
 }
 
-.release-list li {
+.release-list > li {
   margin-bottom: 2.2rem;
 }
 
@@ -76,4 +76,19 @@
   border-left: 4px solid var(--accent);
   padding: 0.5em 1em;
   border-radius: 7px;
+}
+.tags,
+.tags {
+  display: inline-flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0;
+  gap: 0.5em;
+}
+.tags li {
+  background: #eef;
+  color: #225;
+  border-radius: 7px;
+  padding: 0.2em 0.7em;
+  font-size: 0.95em;
 }

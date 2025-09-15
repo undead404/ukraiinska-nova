@@ -23,6 +23,15 @@ title: 'Українська нова'
             {% if post.summary %}
               <div class="summary">{{ post.summary }}</div>
             {% endif %}
+            {% unless post.tags == empty %}
+              <ul class="tags">
+                {% for tag in post.tags %}
+                  <li class="tag">
+                    {{ tag }}
+                  </li>
+                {% endfor %}
+              </ul>
+            {% endunless %}
           </article>
         </li>
       {% endfor %}

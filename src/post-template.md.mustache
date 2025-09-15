@@ -8,7 +8,7 @@ tags: [{{ tags }}]
 title: Релізи за {{ prettyDate }}
 ---
 
-<main>
+<main class="main-content">
   <header>
     <h1>Релізи за <time datetime="{{ rawDate }}">{{ prettyDate }}</time></h1>
     <p class="summary">Українська музика, випущена в цей день</p>
@@ -23,7 +23,7 @@ title: Релізи за {{ prettyDate }}
     <article class="release">
       <header>
         <h2>
-          <a href="{{{ url }}}" rel="external">{{ artists }} - {{ title }}</a>
+          {{ artists }} - {{ title }}
         </h2>
       </header>
       <figure>

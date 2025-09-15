@@ -39,11 +39,11 @@ function getShortArtistsList(releases: MusicRelease[]) {
     for (const artist of release.artists) {
       artists.push(artist);
       if (artists.length >= MAX_SHORT_ARTISTS_LIST_LENGTH) {
-        return artists;
+        return joinArtists(artists);
       }
     }
   }
-  return artists;
+  return artists.join(', ') + ' та інші';
 }
 
 export default async function savePost(date: string, releases: MusicRelease[]) {
@@ -60,7 +60,7 @@ export default async function savePost(date: string, releases: MusicRelease[]) {
       tags: release.tags,
       type: translateAlbumType(release.type),
     })),
-    shortArtistsList: joinArtists([...getShortArtistsList(releases), 'інші']),
+    shortArtistsList: getShortArtistsList(releases),
     tags: getTags(releases),
   });
   await writeFile(targetFilename, post);
