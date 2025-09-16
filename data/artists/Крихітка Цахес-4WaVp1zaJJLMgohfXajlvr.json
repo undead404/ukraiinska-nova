@@ -1,0 +1,38 @@
+[
+  {
+    "artists": [
+      "Крихітка Цахес"
+    ],
+    "artistsPopularity": 27,
+    "title": "На Першому Місці",
+    "releaseDate": "2005-06-06",
+    "type": "album",
+    "totalTracks": 15,
+    "url": "https://open.spotify.com/album/0pIhrR7eucAzEsDoamm7OT",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ae5dfcfea5e8d1fde23428f8",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:09.159Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Крихітка Цахес"
+    ],
+    "artistsPopularity": 27,
+    "title": "Лисиця",
+    "releaseDate": "2003-11-12",
+    "type": "single",
+    "totalTracks": 2,
+    "url": "https://open.spotify.com/album/1nn0AOfD6B0v7lLlOZ1EyX",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735509b844d8a5ae596522cabe",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:09.159Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]

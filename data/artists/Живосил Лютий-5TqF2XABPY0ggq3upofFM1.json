@@ -1,0 +1,38 @@
+[
+  {
+    "artists": [
+      "Живосил Лютий"
+    ],
+    "artistsPopularity": 0,
+    "title": "На війні…",
+    "releaseDate": "2023-04-14",
+    "type": "album",
+    "totalTracks": 15,
+    "url": "https://open.spotify.com/album/4O5SP9N9SydJogCTkj0nee",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d9b6bc256888770531b6d775",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:02.151Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Живосил Лютий"
+    ],
+    "artistsPopularity": 0,
+    "title": "Віра. Легенда. Звитяга. (Акустична версія)",
+    "releaseDate": "2023-04-12",
+    "type": "album",
+    "totalTracks": 14,
+    "url": "https://open.spotify.com/album/1gHS8yxdjOdHanGhCImlbx",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735b185e20bd92081c243927c6",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:02.151Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]
