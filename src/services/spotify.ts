@@ -165,6 +165,7 @@ export class SpotifyService {
     options: ScrapingOptions,
   ): Promise<MusicRelease[]> {
     await this.getAccessToken();
+    console.log('getArtistReleases', artistName, artistId);
 
     const releases: MusicRelease[] = [];
     let offset = 0;
@@ -174,26 +175,12 @@ export class SpotifyService {
     try {
       while (hasMore) {
         let items: SpotifyApi.AlbumObjectSimplified[] = [];
-
-        const cachedArtistAlbums = await readFromFileCache<
-          SpotifyApi.AlbumObjectSimplified[]
-        >(`spotify-artist-releases-${artistId}`);
-        if (cachedArtistAlbums) {
-          items = cachedArtistAlbums;
-        } else {
-          const response = await this.spotifyApi.getArtistAlbums(artistId, {
-            country: options.country || 'UA',
-            limit,
-            offset,
-          });
-          items = response.body.items;
-
-          await writeToFileCache(
-            `spotify-artist-releases-${artistId}`,
-            items,
-            Date.now() + HOUR,
-          );
-        }
+        const response = await this.spotifyApi.getArtistAlbums(artistId, {
+          country: options.country || 'UA',
+          limit,
+          offset,
+        });
+        items = response.body.items;
 
         if (items.length === 0) {
           // eslint-disable-next-line sonarjs/no-dead-store

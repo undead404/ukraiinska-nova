@@ -3,14 +3,15 @@ import type { EnhancedMusicRelease } from '../types/index.js';
 
 import type { MusicRelease } from './schemata.js';
 
-export default async function* enhanceReleases(
+export default function enhanceReleases(
   lastfmApiKey: string,
   releases: MusicRelease[],
-): AsyncGenerator<EnhancedMusicRelease, void, unknown> {
-  for (const release of releases) {
-    yield {
+): Promise<EnhancedMusicRelease[]> {
+  console.log('enhanceReleases');
+  return Promise.all(
+    releases.map(async (release) => ({
       ...release,
       tags: await getReleaseTags(lastfmApiKey, release),
-    };
-  }
+    })),
+  );
 }

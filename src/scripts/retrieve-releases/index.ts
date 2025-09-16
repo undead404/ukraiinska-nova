@@ -1,6 +1,5 @@
 import enhanceReleases from '../../common/enhance-releases.js';
 import type { MusicRelease } from '../../common/schemata.js';
-import convertAsyncGeneratorToArray from '../../helpers/convert-async-generator-to-array.js';
 import { SpotifyService } from '../../services/spotify.js';
 import type { ScrapingOptions } from '../../types/index.js';
 
@@ -9,6 +8,7 @@ import environment from './environment.js';
 import mergeOldAndNewReleases from './merge-old-and-new-releases.js';
 import openSavedReleases from './open-saved-releases.js';
 import postToBluesky from './post-to-bluesky.js';
+import postToTelegram from './post-to-telegram.js';
 import readFileArtistIds from './read-artist-ids.js';
 import saveReleases from './save-releases.js';
 
@@ -49,8 +49,13 @@ async function main(): Promise<void> {
 
     const allNewReleases: MusicRelease[] = [];
 
+    console.log(
+      `Цільові артисти: ${targetArtists.map((artist) => artist.name)}`,
+    );
+
+    const tasksForLater: (() => Promise<void>)[] = [];
+
     for (const artist of targetArtists) {
-      console.log(`Отримання релізів: ${artist.name} (${artist.id})`);
       const oldReleases = await openSavedReleases(artist.id, artist.name);
       const releases = await spotifyService.getArtistReleases(
         artist.id,
@@ -59,7 +64,9 @@ async function main(): Promise<void> {
       );
       const { new: newReleases, merged: mergedReleases } =
         mergeOldAndNewReleases(oldReleases, releases);
-      await saveReleases(artist.id, artist.name, mergedReleases);
+      tasksForLater.push(() =>
+        saveReleases(artist.id, artist.name, mergedReleases),
+      );
 
       if (oldReleases.length > 0) {
         // otherwise, the artist itself is newly found
@@ -67,13 +74,22 @@ async function main(): Promise<void> {
       }
     }
 
-    const enhancedReleases = await convertAsyncGeneratorToArray(
-      enhanceReleases(environment.LASTFM_API_KEY, allNewReleases),
+    const enhancedReleases = await enhanceReleases(
+      environment.LASTFM_API_KEY,
+      allNewReleases,
     );
 
-    await postToBluesky(enhancedReleases);
+    console.log(`Знайдено ${enhancedReleases.length} нових релізів`);
+
+    if (enhancedReleases.length > 0) {
+      await postToBluesky(enhancedReleases);
+      await postToTelegram(enhancedReleases);
+    }
+
+    await Promise.all(tasksForLater.map((task) => task()));
 
     console.log('\n✅ Обробка завершена!');
+    process.exit(0);
   } catch (error) {
     console.error('❌ Помилка виконання скрипта:', error);
     process.exit(1);

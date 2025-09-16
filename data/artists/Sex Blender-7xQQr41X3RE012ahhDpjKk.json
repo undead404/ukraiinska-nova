@@ -1,0 +1,114 @@
+[
+  {
+    "artists": ["Sex Blender"],
+    "artistsPopularity": 2,
+    "title": "Naїve Core",
+    "releaseDate": "2024-09-07",
+    "type": "album",
+    "totalTracks": 7,
+    "url": "https://open.spotify.com/album/53HGY8hzHkP3C0KThWU8Ql",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732c924426c151afd78d50fd3c",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:53:29.041Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Sex Blender"],
+    "artistsPopularity": 2,
+    "title": "Live",
+    "releaseDate": "2022-08-28",
+    "type": "album",
+    "totalTracks": 6,
+    "url": "https://open.spotify.com/album/0Z5kDtJ6FA4zdTyu1CdzGI",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27387519f83bac0f13d036d2943",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:53:29.041Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Sex Blender"],
+    "artistsPopularity": 2,
+    "title": "Studio Session I",
+    "releaseDate": "2021-05-04",
+    "type": "album",
+    "totalTracks": 9,
+    "url": "https://open.spotify.com/album/1o0WFBplXZKDkrUb8aRj1E",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27368f1a3722e970f4809dcc36d",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:53:29.041Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Sex Blender"],
+    "artistsPopularity": 2,
+    "title": "The Second Coming",
+    "releaseDate": "2020-08-14",
+    "type": "album",
+    "totalTracks": 6,
+    "url": "https://open.spotify.com/album/1iUOw395TUWySgaDNs3XOW",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737aad4019a0eca876786cd969",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:53:29.041Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Sex Blender"],
+    "artistsPopularity": 2,
+    "title": "Hormonizer",
+    "releaseDate": "2018-11-02",
+    "type": "album",
+    "totalTracks": 4,
+    "url": "https://open.spotify.com/album/3HGkykdDpGqiifheJQewB3",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735691d62366b927642d00fb21",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:53:29.041Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Sex Blender"],
+    "artistsPopularity": 2,
+    "title": "Na​ї​ve Core",
+    "releaseDate": "2024-08-13",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/1b6VY0DNozbK7tnj4iJ0SW",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27338b3d7db0258936dd929c832",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:53:29.041Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Sex Blender"],
+    "artistsPopularity": 2,
+    "title": "Mojohead",
+    "releaseDate": "2024-05-24",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/4dfvguTmYG8R0wRlUjGh6I",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733b90967fa0e48c79383afbc2",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:53:29.041Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]

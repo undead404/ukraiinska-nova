@@ -21,11 +21,12 @@ export default async function openSavedReleases(
   artistId: string,
   artistName: string,
 ): Promise<MusicReleaseRecord[]> {
+  console.log(`openSavedReleases ${artistName} (${artistId})`);
   const filename = normalizeFilename(`${artistName}-${artistId}.json`);
   const filePath = path.join(...RELEASES_DATA_FOLDER, filename);
   try {
     const data = await readFile(filePath);
-    const releases = parse(artistsReleasesSchema, data);
+    const releases = parse(artistsReleasesSchema, JSON.parse(data.toString()));
     return releases;
   } catch (error) {
     if (isFileNotFoundError(error)) {

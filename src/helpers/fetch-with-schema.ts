@@ -5,8 +5,11 @@ export default async function fetchWithSchema<T, E extends { message: string }>(
   schema: BaseSchema<unknown, T, BaseIssue<unknown>>,
   errorSchema: BaseSchema<unknown, E, BaseIssue<unknown>>,
 ): Promise<T> {
+  console.log('fetchWithSchema', url);
   try {
-    const response = await fetch(url);
+    const response = await fetch(url, {
+      signal: AbortSignal.timeout(5000),
+    });
     if (!response.ok) {
       throw new Error('Network response was not ok');
     }

@@ -1,0 +1,50 @@
+[
+  {
+    "artists": ["Бунтарка"],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730d295e0331a49050fe946851",
+    "releaseDate": "2021-03-08",
+    "title": "На Мольберті",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6F6WeWuv6JkPm9hAjAjEXz",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:01:31.127Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Бунтарка"],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e4d3b65d01f01bdae2fd1c27",
+    "releaseDate": "2021-01-13",
+    "title": "Доля",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3F5WmeHYIR1GN64zzgqV5F",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:01:31.127Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Бунтарка"],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735a8c12fb37edeb0aa7ab0c31",
+    "releaseDate": "2020-09-15",
+    "title": "Ритми",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1RtE29QcLJUQ7a4lQ4Mfvl",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:01:31.127Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]

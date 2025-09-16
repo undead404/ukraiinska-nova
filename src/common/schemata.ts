@@ -2,7 +2,6 @@ import type { InferInput } from 'valibot';
 import {
   array,
   custom,
-  isoDate,
   maxValue,
   minLength,
   minValue,
@@ -17,7 +16,7 @@ import {
 
 export const dateSchema = pipe(
   string(),
-  minLength(10),
+  minLength(4),
   custom(
     (input) => !Number.isNaN(new Date(`${input}`).getTime()),
     'This string is not an ISO date',
@@ -43,7 +42,7 @@ export const enhancedReleaseSchema = object({
 });
 
 const appearanceLogEntrySchema = object({
-  time: pipe(string(), isoDate()),
+  time: string(),
   type: picklist(['FOUND', 'LOST']),
 });
 

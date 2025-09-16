@@ -7,8 +7,9 @@ import savePost from './save-post.js';
 
 const releases = await convertAsyncGeneratorToArray(getTodayReleases());
 
-const enhancedReleases = await convertAsyncGeneratorToArray(
-  enhanceReleases(environment.LASTFM_API_KEY, releases),
+const enhancedReleases = await enhanceReleases(
+  environment.LASTFM_API_KEY,
+  releases,
 );
 
 const today = new Date().toISOString().slice(0, 10);

@@ -1,0 +1,18 @@
+[
+  {
+    "artists": ["La-Mansh"],
+    "artistsPopularity": 13,
+    "title": "Знову Сонце",
+    "releaseDate": "2023-10-01",
+    "type": "single",
+    "totalTracks": 5,
+    "url": "https://open.spotify.com/album/5UK6AZbbJRWaToAVFrOrjB",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273551db95446f9777d8ce43b91",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:52:39.667Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]

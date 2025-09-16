@@ -11,7 +11,6 @@ const telegram = new TelegramService({
 
 const botInfo = await telegram.getBotInfo();
 console.log(`🤖 Бот: @${botInfo.username}`);
-console.log('\n🚀 Публікація у Telegram...');
 
 export default async function postToTelegram(releases: EnhancedMusicRelease[]) {
   const posts = mapReleasesToPosts(releases);

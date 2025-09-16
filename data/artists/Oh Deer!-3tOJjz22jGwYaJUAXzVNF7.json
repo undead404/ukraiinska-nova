@@ -1,0 +1,66 @@
+[
+  {
+    "artists": ["Oh Deer!"],
+    "artistsPopularity": 8,
+    "title": "Альманах (2009 — 2017)",
+    "releaseDate": "2020-03-13",
+    "type": "album",
+    "totalTracks": 20,
+    "url": "https://open.spotify.com/album/7fOssSxYhmOxA2FRh4514Z",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ec9236b41c47ee678056a472",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:53:14.319Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Oh Deer!"],
+    "artistsPopularity": 8,
+    "title": "Як перестати хвилюватися і полюбити війну",
+    "releaseDate": "2017-10-04",
+    "type": "album",
+    "totalTracks": 9,
+    "url": "https://open.spotify.com/album/5M73yTdRW1LfT7c2R5D5Di",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737bf7f4a3036a3c899d4e1bc0",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:53:14.319Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Oh Deer!"],
+    "artistsPopularity": 8,
+    "title": "Сім сестер",
+    "releaseDate": "2015-08-08",
+    "type": "album",
+    "totalTracks": 7,
+    "url": "https://open.spotify.com/album/7pT6SdnCY6CjPSGu8S4heE",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fcd695839795eb56d2008519",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:53:14.319Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Oh Deer!"],
+    "artistsPopularity": 8,
+    "title": "Oh, Deer!",
+    "releaseDate": "2011-04-01",
+    "type": "single",
+    "totalTracks": 6,
+    "url": "https://open.spotify.com/album/3gYWt5hJc3GAbO5rCwUSJ5",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739815c7857d96911c7dd3daad",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:53:14.319Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]

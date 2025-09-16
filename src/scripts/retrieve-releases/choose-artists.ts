@@ -14,12 +14,9 @@ export function getGroupNumber(
   return hashInt % numberGroups;
 }
 
-export default function* chooseArtists<T extends { id: string }>(artists: T[]) {
+export default function chooseArtists<T extends { id: string }>(
+  artists: T[],
+): T[] {
   const currentHour = new Date().getUTCHours();
-  for (const artist of artists) {
-    const groupNumber = getGroupNumber(artist.id);
-    if (groupNumber === currentHour) {
-      yield artist;
-    }
-  }
+  return artists.filter((artist) => getGroupNumber(artist.id) === currentHour);
 }

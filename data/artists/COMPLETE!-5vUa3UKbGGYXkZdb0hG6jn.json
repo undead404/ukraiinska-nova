@@ -1,0 +1,130 @@
+[
+  {
+    "artists": ["COMPLETE!"],
+    "artistsPopularity": 0,
+    "title": "Disappointment & Hope",
+    "releaseDate": "2020-01-20",
+    "type": "album",
+    "totalTracks": 9,
+    "url": "https://open.spotify.com/album/0zo3iPo7fOngOPi68nA7JF",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273820ce7f218cc504a44603be3",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:51:00.645Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["COMPLETE!"],
+    "artistsPopularity": 0,
+    "title": "Дивний",
+    "releaseDate": "2024-07-12",
+    "type": "single",
+    "totalTracks": 4,
+    "url": "https://open.spotify.com/album/2ojJtugaas22v7JZcIXoQR",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f0d419367de0ae84c0e9b691",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:51:00.645Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["COMPLETE!"],
+    "artistsPopularity": 0,
+    "title": "Victim",
+    "releaseDate": "2024-06-28",
+    "type": "single",
+    "totalTracks": 2,
+    "url": "https://open.spotify.com/album/4ujtMOtrFS3pGz7AtHKoYD",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27386c5988d98cdbe83ccf8c5a1",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:51:00.645Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["COMPLETE!"],
+    "artistsPopularity": 0,
+    "title": "Вже час",
+    "releaseDate": "2024-06-07",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/3w3xjvl4UY4wf797APhYeU",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f001b785a370aba7328f9b2d",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:51:00.645Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["COMPLETE!"],
+    "artistsPopularity": 0,
+    "title": "Final Act",
+    "releaseDate": "2022-03-24",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/13aoucZVqdwOauoh4tMYqI",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f84678e2ceac7e90fbc38f22",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:51:00.645Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["COMPLETE!"],
+    "artistsPopularity": 0,
+    "title": "Chore",
+    "releaseDate": "2021-06-03",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/6nLw5RHragwIQe6tyBGIwP",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273af728a6acf821cd4f90226fa",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:51:00.645Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["COMPLETE!"],
+    "artistsPopularity": 0,
+    "title": "On The Edge",
+    "releaseDate": "2018-10-03",
+    "type": "single",
+    "totalTracks": 5,
+    "url": "https://open.spotify.com/album/4GAxESHsdfhzbc2EYq8vNu",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e04ba2de7382c6e209ba988d",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:51:00.645Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["COMPLETE!"],
+    "artistsPopularity": 0,
+    "title": "Completed",
+    "releaseDate": "2017-11-19",
+    "type": "single",
+    "totalTracks": 4,
+    "url": "https://open.spotify.com/album/0wExnJlj7hdrYyq4EBSF43",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d91410a59f82df5f83b5dfbb",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:51:00.645Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]
