@@ -3,10 +3,11 @@ import path from 'node:path';
 
 import Mustache from 'mustache';
 
+import type { MusicRelease } from '../../common/schemata.js';
 import joinArtists from '../../helpers/join-artists.js';
 import translateAlbumType from '../../helpers/translate-album-type.js';
 import translatePopularity from '../../helpers/translate-popularity.js';
-import type { MusicRelease } from '../../types/index.js';
+import type { EnhancedMusicRelease } from '../../types/index.js';
 
 const postTemplate = await readFile('./src/post-template.md.mustache');
 
@@ -16,7 +17,7 @@ Mustache.parse(postTemplateCode);
 
 const POST_FOLDER = ['docs', '_posts'];
 
-function getTags(releases: MusicRelease[]) {
+function getTags(releases: EnhancedMusicRelease[]) {
   const countTags = new Map<string, number>();
   for (const release of releases) {
     for (const tag of release.tags || []) {
@@ -46,7 +47,10 @@ function getShortArtistsList(releases: MusicRelease[]) {
   return artists.join(', ') + ' та інші';
 }
 
-export default async function savePost(date: string, releases: MusicRelease[]) {
+export default async function savePost(
+  date: string,
+  releases: EnhancedMusicRelease[],
+) {
   const prettyDate = new Date(date).toLocaleDateString('uk-UA');
   const targetFilename = path.join(...POST_FOLDER, `${date}-releases.md`);
 

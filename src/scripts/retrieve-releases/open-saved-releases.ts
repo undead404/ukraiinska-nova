@@ -1,0 +1,36 @@
+import { readFile } from 'node:fs/promises';
+import path from 'node:path';
+
+import { array, parse } from 'valibot';
+
+import type { MusicReleaseRecord } from '../../common/schemata.js';
+import { releaseRecordSchema } from '../../common/schemata.js';
+import { RELEASES_DATA_FOLDER } from '../../constants.js';
+import normalizeFilename from '../../helpers/normalize-filename.js';
+
+const artistsReleasesSchema = array(releaseRecordSchema);
+
+function isFileNotFoundError(error: unknown): boolean {
+  if (typeof error !== 'object' || !error || !('code' in error)) {
+    return false;
+  }
+  return error.code === 'ENOENT';
+}
+
+export default async function openSavedReleases(
+  artistId: string,
+  artistName: string,
+): Promise<MusicReleaseRecord[]> {
+  const filename = normalizeFilename(`${artistName}-${artistId}.json`);
+  const filePath = path.join(...RELEASES_DATA_FOLDER, filename);
+  try {
+    const data = await readFile(filePath);
+    const releases = parse(artistsReleasesSchema, data);
+    return releases;
+  } catch (error) {
+    if (isFileNotFoundError(error)) {
+      console.error(error);
+      return [];
+    } else throw error;
+  }
+}

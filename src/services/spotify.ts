@@ -1,10 +1,10 @@
 import SpotifyWebApi from 'spotify-web-api-node';
 
+import type { MusicRelease } from '../common/schemata.js';
 import delay from '../helpers/delay.js';
 import filterAlbums from '../helpers/filter-albums.js';
 import type {
   ArtistSearchResult,
-  MusicRelease,
   ScrapingOptions,
   SpotifyConfig,
 } from '../types/index.js';
@@ -151,7 +151,7 @@ export class SpotifyService {
       url: album.external_urls.spotify,
       imageUrl: album.images?.[0]?.url,
       // genres: albumDetails.genres || [],
-      popularity: albumDetails.popularity,
+      // popularity: albumDetails.popularity,
       // markets: album.available_markets || [],
     };
   }

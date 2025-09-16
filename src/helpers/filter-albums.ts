@@ -14,10 +14,14 @@ export default function filterAlbums(
   if (options.includeAppears) {
     albumTypes.push('appears_on');
   }
-  return albums
-    .filter((album) => albumTypes.includes(album.album_type))
-    .filter((album) => {
+  const albumsInRequestedTypes = albums.filter((album) =>
+    albumTypes.includes(album.album_type),
+  );
+  if (options.startDate && options.endDate) {
+    return albumsInRequestedTypes.filter((album) => {
       const releaseDate = normalizeDate(album.release_date);
-      return isDateInRange(releaseDate, options.startDate, options.endDate);
+      return isDateInRange(releaseDate, options.startDate!, options.endDate!);
     });
+  }
+  return albumsInRequestedTypes;
 }

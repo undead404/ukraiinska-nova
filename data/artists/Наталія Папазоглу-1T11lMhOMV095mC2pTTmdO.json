@@ -1,0 +1,66 @@
+[
+  {
+    "artists": ["Наталія Папазоглу"],
+    "artistsPopularity": 3,
+    "title": "Не ворог",
+    "releaseDate": "2017-12-06",
+    "type": "single",
+    "totalTracks": 6,
+    "url": "https://open.spotify.com/album/3qPLfWAkJlyHOSbZZFqjit",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aee493113ea8bece2e6a53fa",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:15.146Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Наталія Папазоглу"],
+    "artistsPopularity": 3,
+    "title": "Добрий ранок, Україно",
+    "releaseDate": "2017-11-17",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/0KlHRmMX7GKK0yajfETAKO",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27310bb61f74190b9525c193fe6",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:15.146Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Наталія Папазоглу"],
+    "artistsPopularity": 3,
+    "title": "Утікай",
+    "releaseDate": "2017-02-19",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/1UPFFx1Spt3F6DBSf8kZ8z",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736ab99c43916808dd619a82c8",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:15.146Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Біла Вежа", "K.VV.T.", "FDR"],
+    "artistsPopularity": 10,
+    "title": "Відбитки (FDR & K.VV.T. Remix)",
+    "releaseDate": "2017-12-04",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/5hiStm6FFzh9daVKnUMmMv",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731390aaa1559c7273e8c6cf54",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:15.146Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]

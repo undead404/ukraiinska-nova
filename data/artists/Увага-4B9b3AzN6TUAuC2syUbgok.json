@@ -1,0 +1,114 @@
+[
+  {
+    "artists": ["Увага"],
+    "artistsPopularity": 7,
+    "title": "Сум'яття",
+    "releaseDate": "2024-01-05",
+    "type": "album",
+    "totalTracks": 8,
+    "url": "https://open.spotify.com/album/1pTKYsNsEz7tDJgtq1mKPI",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738ba8c33478cc77c8ecec9e6e",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:29.135Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Увага"],
+    "artistsPopularity": 7,
+    "title": "Пʼятнадцять плюс три",
+    "releaseDate": "2025-05-23",
+    "type": "single",
+    "totalTracks": 3,
+    "url": "https://open.spotify.com/album/11TcRYLIjWNdDCACiOK4qn",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f9b14f505bb469740a5e9f6b",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:29.135Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Увага"],
+    "artistsPopularity": 7,
+    "title": "Чотири",
+    "releaseDate": "2023-02-25",
+    "type": "single",
+    "totalTracks": 4,
+    "url": "https://open.spotify.com/album/41Wn0r8SfbMuIeW6TriXGX",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b9738151a1f6d2e2143ac22e",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:29.135Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Увага"],
+    "artistsPopularity": 7,
+    "title": "Емоційний розлад",
+    "releaseDate": "2021-10-21",
+    "type": "single",
+    "totalTracks": 6,
+    "url": "https://open.spotify.com/album/36YGcKCu2J5cse7ZjBrYWm",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736ad09f1f13f601870556ca5c",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:29.135Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Увага"],
+    "artistsPopularity": 7,
+    "title": "Чмо",
+    "releaseDate": "2021-01-22",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/7EbbRHYB6h25eyUK88QkkR",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f81436743211f029da28b537",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:29.135Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Увага"],
+    "artistsPopularity": 7,
+    "title": "Сволота",
+    "releaseDate": "2020-08-05",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/4qxKyQFqFprDPXNN1CPrXX",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273021c5a15f3bc05ffcecea693",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:29.135Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Увага"],
+    "artistsPopularity": 7,
+    "title": "Очевидно",
+    "releaseDate": "2020-08-05",
+    "type": "single",
+    "totalTracks": 6,
+    "url": "https://open.spotify.com/album/4SsUGpVGtdd3nNPzMIxXq2",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273058d2894c2152d53d4e59ce8",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:29.135Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]

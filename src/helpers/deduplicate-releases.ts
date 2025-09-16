@@ -1,8 +1,6 @@
-import type { MusicRelease } from '../types/index.js';
+import type { MusicRelease } from '../common/schemata.js';
 
-function calculateReleaseIdentity(release: MusicRelease): string {
-  return `${release.artists.join(',').toLowerCase()}|${release.title.toLowerCase()}|${release.type}|${release.releaseDate}`;
-}
+import calculateReleaseIdentity from './calculate-release-identity.js';
 
 export default function deduplicateReleases(
   releases: MusicRelease[],

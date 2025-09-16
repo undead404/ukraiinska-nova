@@ -2,9 +2,9 @@ import hashtagify from '../../helpers/hashtagify.js';
 import joinArtists from '../../helpers/join-artists.js';
 import translateAlbumType from '../../helpers/translate-album-type.js';
 import translatePopularity from '../../helpers/translate-popularity.js';
-import type { MusicRelease } from '../../types/index.js';
+import type { EnhancedMusicRelease } from '../../types/index.js';
 
-export default function mapReleasesToPosts(releases: MusicRelease[]) {
+export default function mapReleasesToPosts(releases: EnhancedMusicRelease[]) {
   const posts: Array<{
     imageUrl?: string;
     links?: Array<{ title: string; url: string }>;

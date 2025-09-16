@@ -1,0 +1,98 @@
+[
+  {
+    "artists": ["afterphase project"],
+    "artistsPopularity": 0,
+    "title": "Gift of Chaos",
+    "releaseDate": "2025-02-22",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/0cYOogGppiQAFQPlvAZTvZ",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737ddc584f3d5652ba5338eeb9",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:38.611Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["afterphase project"],
+    "artistsPopularity": 0,
+    "title": "The Harbinger",
+    "releaseDate": "2023-12-24",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/2ewlB9wAtdm0IdhsIFG7Le",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732ac73c33f47b9711bd29b1c5",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:38.611Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["afterphase project"],
+    "artistsPopularity": 0,
+    "title": "Пристрасний ідол",
+    "releaseDate": "2022-05-10",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/1X2uAWucTw1S16iL0MDBIm",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b33610349cb3d68939af1599",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:38.611Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["afterphase project"],
+    "artistsPopularity": 0,
+    "title": "15:51",
+    "releaseDate": "2020-05-11",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/2pWpQn4aSG7aN1PfsTleLL",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27324c960770adb8c8ded51f3a3",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:38.611Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["afterphase project"],
+    "artistsPopularity": 0,
+    "title": "Disobey",
+    "releaseDate": "2020-01-01",
+    "type": "single",
+    "totalTracks": 6,
+    "url": "https://open.spotify.com/album/2v2o9PZKXYIX1Tw0kSs77y",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730986a015abd7e392a1434e30",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:38.611Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["afterphase project"],
+    "artistsPopularity": 0,
+    "title": "0.1",
+    "releaseDate": "2019-06-06",
+    "type": "single",
+    "totalTracks": 5,
+    "url": "https://open.spotify.com/album/7oxAsd2bYd2EvbpnJYlfHi",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734c8ca186e42a4beecf35f3c6",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:38.611Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]

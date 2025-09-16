@@ -1,10 +1,16 @@
-import { getReleaseTags } from '../../services/lastfm.js';
-import { ReleaseScraper } from '../../services/scraper.js';
+import enhanceReleases from '../../common/enhance-releases.js';
+import type { MusicRelease } from '../../common/schemata.js';
+import convertAsyncGeneratorToArray from '../../helpers/convert-async-generator-to-array.js';
 import { SpotifyService } from '../../services/spotify.js';
 import type { ScrapingOptions } from '../../types/index.js';
 
+import chooseArtists from './choose-artists.js';
 import environment from './environment.js';
+import mergeOldAndNewReleases from './merge-old-and-new-releases.js';
+import openSavedReleases from './open-saved-releases.js';
+import postToBluesky from './post-to-bluesky.js';
 import readFileArtistIds from './read-artist-ids.js';
+import saveReleases from './save-releases.js';
 
 async function main(): Promise<void> {
   try {
@@ -25,24 +31,11 @@ async function main(): Promise<void> {
       throw new Error('Список артистів порожній. Додайте артистів у файл.');
     }
 
-    // Налаштування періоду (літо 2025)
-    // const endDate = new Date(2025, 7, 31).toISOString().split("T")[0];
-    // const endDate = "2025-09-06";
-    // const startDate = new Date();
-    // startDate.setFullYear(2025, 5, 1); // Встановлюємо початок літа 2025
-    // const startDateStr = startDate.toISOString().split("T")[0];
-    // const startDateStr = "2025-09-06";
-
-    // Вчорашня дата
-    const targetDate = new Date();
-    targetDate.setDate(targetDate.getDate() - 1);
-    const targetDateString = targetDate.toISOString().split('T')[0];
-
-    console.log(`📅 Цільова дата: ${targetDateString}`);
+    const targetArtists = chooseArtists(artists);
 
     const options: ScrapingOptions = {
-      startDate: targetDateString,
-      endDate: targetDateString,
+      // startDate: targetDateString,
+      // endDate: targetDateString,
       includeCompilations: false,
       includeAppears: true,
       country: 'UA',
@@ -53,28 +46,32 @@ async function main(): Promise<void> {
     console.log('='.repeat(50));
 
     const spotifyService = new SpotifyService(spotifyConfig);
-    const scraper = new ReleaseScraper(spotifyService);
 
-    // Збираємо релізи
-    const { releases, stats } = await scraper.scrapeReleases(artists, options);
+    const allNewReleases: MusicRelease[] = [];
 
-    // Виводимо результати
-    scraper.printReleases(releases);
-    scraper.printStats(stats);
+    for (const artist of targetArtists) {
+      console.log(`Отримання релізів: ${artist.name} (${artist.id})`);
+      const oldReleases = await openSavedReleases(artist.id, artist.name);
+      const releases = await spotifyService.getArtistReleases(
+        artist.id,
+        artist.name,
+        options,
+      );
+      const { new: newReleases, merged: mergedReleases } =
+        mergeOldAndNewReleases(oldReleases, releases);
+      await saveReleases(artist.id, artist.name, mergedReleases);
 
-    for (const release of releases) {
-      release.tags = await getReleaseTags(environment.LASTFM_API_KEY, release);
+      if (oldReleases.length > 0) {
+        // otherwise, the artist itself is newly found
+        allNewReleases.push(...newReleases);
+      }
     }
-    // Зберігаємо у файли
-    await scraper.saveToFile(releases);
-    await scraper.saveToFile(
-      releases,
-      `archive/releases_${options.startDate}.json`,
+
+    const enhancedReleases = await convertAsyncGeneratorToArray(
+      enhanceReleases(environment.LASTFM_API_KEY, allNewReleases),
     );
-    await scraper.saveToCsv(
-      releases,
-      `archive/releases_${options.startDate}.csv`,
-    );
+
+    await postToBluesky(enhancedReleases);
 
     console.log('\n✅ Обробка завершена!');
   } catch (error) {

@@ -1,8 +1,8 @@
-name: Daily Build and Start
+name: Hourly Build and Start
 
 on:
   schedule:
-    - cron: '13 6 * * *' # Runs every day at 6:13 AM UTC
+    - cron: '13 * * * *' # Runs every day at 6:13 AM UTC
   workflow_dispatch: # Allows manual triggering
 
 jobs:
@@ -77,15 +77,27 @@ jobs:
       - name: Run
         run: pnpm retrieve-releases
         env:
+          BLUESKY_IDENTIFIER: ${{ vars.BLUESKY_IDENTIFIER }}
+          BLUESKY_PASSWORD: ${{ secrets.BLUESKY_PASSWORD }}
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
           SPOTIFY_CLIENT_ID: ${{ vars.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
 
-      - name: Upload releases artifact
-        uses: actions/upload-artifact@v4
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Add changes
+        run: |
+          git add data
+          git diff --cached --quiet || git commit -m "chore: auto-commit docs folder"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@v1.0.0
         with:
-          name: spotify_releases
-          path: spotify_releases.json
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Save updated cache
         if: always()
@@ -126,11 +138,6 @@ jobs:
           name: dist
           path: dist
 
-      - name: Download releases artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: spotify_releases
-
       - name: Create a Github Pages post
         run: pnpm create-post
 
@@ -148,84 +155,3 @@ jobs:
         uses: ad-m/github-push-action@v1.0.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-
-  post-to-bluesky:
-    needs:
-      - build
-      - retrieve-releases
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Install pnpm
-        uses: pnpm/action-setup@v4
-        with:
-          version: 10
-          run_install: false
-
-      - name: Set up Node.js 22
-        uses: actions/setup-node@v4
-        with:
-          node-version: 22
-          cache: 'pnpm'
-
-      - name: Install dependencies
-        run: pnpm install --ignore-scripts --prod
-
-      - name: Download dist artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: dist
-          path: dist
-
-      - name: Download releases artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: spotify_releases
-
-      - name: Post to Bluesky
-        run: pnpm post-to-bluesky
-        env:
-          BLUESKY_IDENTIFIER: ${{ vars.BLUESKY_IDENTIFIER }}
-          BLUESKY_PASSWORD: ${{ secrets.BLUESKY_PASSWORD }}
-
-  post-to-telegram:
-    needs:
-      - build
-      - retrieve-releases
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Install pnpm
-        uses: pnpm/action-setup@v4
-        with:
-          version: 10
-          run_install: false
-
-      - name: Set up Node.js 22
-        uses: actions/setup-node@v4
-        with:
-          node-version: 22
-          cache: 'pnpm'
-
-      - name: Install dependencies
-        run: pnpm install --ignore-scripts --prod
-
-      - name: Download dist artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: dist
-          path: dist
-
-      - name: Download releases artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: spotify_releases
-
-      - name: Post to Telegram
-        run: pnpm post-to-telegram
-        env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}

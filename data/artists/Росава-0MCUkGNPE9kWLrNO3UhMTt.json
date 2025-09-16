@@ -1,0 +1,82 @@
+[
+  {
+    "artists": ["Росава"],
+    "artistsPopularity": 24,
+    "title": "Радість",
+    "releaseDate": "2015-01-20",
+    "type": "album",
+    "totalTracks": 20,
+    "url": "https://open.spotify.com/album/7Fk3WPz0mWmCAiB5mwO7Mi",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736a7332a18b3365049859516b",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:19.620Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Росава"],
+    "artistsPopularity": 24,
+    "title": "Тепер І Потім",
+    "releaseDate": "2013-10-18",
+    "type": "album",
+    "totalTracks": 12,
+    "url": "https://open.spotify.com/album/0IsNSdN2AJlNneCCHRmqi5",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab6bb4236472792ad204a799",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:19.620Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Росава"],
+    "artistsPopularity": 24,
+    "title": "Просто неба",
+    "releaseDate": "2013-10-18",
+    "type": "album",
+    "totalTracks": 18,
+    "url": "https://open.spotify.com/album/70UH79Cbpse6WAvELk59X9",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737bfdac15352c91e30e381add",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:19.620Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Росава"],
+    "artistsPopularity": 24,
+    "title": "Колисанки",
+    "releaseDate": "2013-10-18",
+    "type": "album",
+    "totalTracks": 19,
+    "url": "https://open.spotify.com/album/5h9HOTKFjfHZOu9eb0vyU9",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734989ccf497944079ba69e838",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:19.620Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["DILJA"],
+    "artistsPopularity": 12,
+    "title": "НЕДІЛЯ",
+    "releaseDate": "2004",
+    "type": "album",
+    "totalTracks": 13,
+    "url": "https://open.spotify.com/album/2CuQbiKggRndO6kmxfeBVj",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b085f5ab6bc72b903cf76ad9",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:19.620Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]

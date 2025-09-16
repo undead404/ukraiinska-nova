@@ -1,21 +1,12 @@
+import type { MusicRelease } from '../common/schemata';
+
 export interface SpotifyConfig {
   clientId: string;
   clientSecret: string;
 }
 
-export interface MusicRelease {
-  artistsPopularity: number;
-  artists: string[];
-  title: string;
-  releaseDate: string;
-  tags?: string[];
-  type: 'album' | 'single' | 'compilation';
-  totalTracks: number;
-  url: string;
-  imageUrl?: string;
-  // genres: string[];
-  popularity?: number;
-  // markets: string[];
+export interface EnhancedMusicRelease extends MusicRelease {
+  tags: string[];
 }
 
 export interface ArtistSearchResult {
@@ -26,8 +17,8 @@ export interface ArtistSearchResult {
 }
 
 export interface ScrapingOptions {
-  startDate: string;
-  endDate: string;
+  startDate?: string;
+  endDate?: string;
   includeCompilations?: boolean;
   includeAppears?: boolean;
   country?: string;
