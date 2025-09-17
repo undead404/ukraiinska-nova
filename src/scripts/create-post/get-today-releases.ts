@@ -13,9 +13,7 @@ export default async function* getTodayReleases(): AsyncGenerator<MusicRelease> 
   const artistFiles = await getJsonFiles(path.join(...RELEASES_DATA_FOLDER));
   const today = new Date().toDateString();
   for (const artistFileName of artistFiles) {
-    const data = await readFile(
-      path.join(...RELEASES_DATA_FOLDER, artistFileName),
-    );
+    const data = await readFile(artistFileName);
     const releases = parse(array(releaseRecordSchema), data);
     for (const release of releases) {
       const releaseAppearanceTime = getReleaseAppearanceTime(release);
