@@ -140,6 +140,8 @@ jobs:
 
       - name: Create a Github Pages post
         run: pnpm create-post
+        env:
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
 
       - name: Configure Git
         run: |
