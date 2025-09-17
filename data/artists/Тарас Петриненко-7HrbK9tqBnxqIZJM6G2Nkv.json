@@ -1,0 +1,50 @@
+[
+  {
+    "artists": ["Тарас Петриненко"],
+    "artistsPopularity": 23,
+    "title": "Краще",
+    "releaseDate": "2016-10-14",
+    "type": "album",
+    "totalTracks": 29,
+    "url": "https://open.spotify.com/album/4ujnIU9Qk32BQG9Qvn2cNE",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273843ef5a38a38fdcbd5ed4318",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:53.418Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Олександр Положинський", "Тарас Петриненко"],
+    "artistsPopularity": 23,
+    "title": "Час",
+    "releaseDate": "2024-09-12",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/2Y2pz9BwOUod8nTE1JunDy",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d5af6e5d9e7ca0de48bf76d2",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:53.418Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Олександр Положинський"],
+    "artistsPopularity": 19,
+    "title": "ЗСУВ",
+    "releaseDate": "2025-05-15",
+    "type": "album",
+    "totalTracks": 18,
+    "url": "https://open.spotify.com/album/2kU1We8fMu07jgOXqaXQvV",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273612a7b2b722e253332d8237a",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:53.418Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]

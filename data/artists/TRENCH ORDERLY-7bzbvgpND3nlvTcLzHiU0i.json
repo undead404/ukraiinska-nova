@@ -1,0 +1,98 @@
+[
+  {
+    "artists": ["TRENCH ORDERLY"],
+    "artistsPopularity": 26,
+    "title": "ТРОшки тяжче ніж гадалось...",
+    "releaseDate": "2025-09-16",
+    "type": "album",
+    "totalTracks": 11,
+    "url": "https://open.spotify.com/album/6NrFlf1SSOU6zvmhyZNC0R",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273740192ac8e6640341bf600cf",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:09.809Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["TRENCH ORDERLY"],
+    "artistsPopularity": 26,
+    "title": "В армії другий та останній раз...",
+    "releaseDate": "2025-08-22",
+    "type": "album",
+    "totalTracks": 12,
+    "url": "https://open.spotify.com/album/062a55MCwRMgudxvkbb3Tq",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dda7e9b28f87f2cc3dd1fd7a",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:09.809Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["TRENCH ORDERLY"],
+    "artistsPopularity": 26,
+    "title": "Та пішло воно все... В армію!",
+    "releaseDate": "2025-07-09",
+    "type": "album",
+    "totalTracks": 11,
+    "url": "https://open.spotify.com/album/41RDSifKOCnFZngcUXzNRY",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731e1b789493609e8ed074438b",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:09.809Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["TRENCH ORDERLY"],
+    "artistsPopularity": 26,
+    "title": "Необмежено - придатний",
+    "releaseDate": "2025-07-07",
+    "type": "album",
+    "totalTracks": 10,
+    "url": "https://open.spotify.com/album/5X8zMxVIGQfoAUJUXyDjAV",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738e04ea9ce113dd174ae96df8",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:09.809Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["TRENCH ORDERLY"],
+    "artistsPopularity": 26,
+    "title": "Недостатня русофобія",
+    "releaseDate": "2025-09-06",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/6llUNTdpKPJZaBX3F6e8BM",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735b91fccfb2af5964b325c0a5",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:09.809Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["TRENCH ORDERLY"],
+    "artistsPopularity": 26,
+    "title": "Необмежено-придатний",
+    "releaseDate": "2025-06-29",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/0Om7MCVE5LVFO4dhmldFCT",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f6012d3ea59a3bf8cd02788b",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:09.809Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]

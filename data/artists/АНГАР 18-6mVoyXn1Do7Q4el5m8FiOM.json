@@ -1,0 +1,82 @@
+[
+  {
+    "artists": ["АНГАР 18"],
+    "artistsPopularity": 0,
+    "title": "Когда спящий проснётся",
+    "releaseDate": "2013-08-10",
+    "type": "album",
+    "totalTracks": 14,
+    "url": "https://open.spotify.com/album/2XLFeOafSMlUPEkD4vDYsa",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735f85edff43c6cea1af8759d0",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:29.412Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["АНГАР 18"],
+    "artistsPopularity": 0,
+    "title": "Только Я",
+    "releaseDate": "2010-08-10",
+    "type": "album",
+    "totalTracks": 13,
+    "url": "https://open.spotify.com/album/7lhBoeuxTAY2YUILS5UEVM",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c0ce255f4f88f12eab356b5c",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:29.412Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["АНГАР 18", "Hellfire Sox"],
+    "artistsPopularity": 0,
+    "title": "The Mess",
+    "releaseDate": "2012-09-01",
+    "type": "single",
+    "totalTracks": 4,
+    "url": "https://open.spotify.com/album/1cM1CgkpVBEqUsQ5ACcIBJ",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27316c475b46678576d0e2f4de7",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:29.412Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["АНГАР 18"],
+    "artistsPopularity": 0,
+    "title": "Кукла Вуду",
+    "releaseDate": "2009-11-03",
+    "type": "single",
+    "totalTracks": 5,
+    "url": "https://open.spotify.com/album/3XKIIQDCbs485dCJn43xeL",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730c95a847f5c8bb4eed3d2ac8",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:29.412Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["АНГАР 18"],
+    "artistsPopularity": 0,
+    "title": "Невидимый фронт",
+    "releaseDate": "2007-10-12",
+    "type": "single",
+    "totalTracks": 4,
+    "url": "https://open.spotify.com/album/2uHf0GrzTrvaSj9a5h3mKL",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735e7a3e6cd51e0c9ea7cc8377",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:29.412Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]

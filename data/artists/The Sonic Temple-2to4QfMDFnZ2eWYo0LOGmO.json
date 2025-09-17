@@ -1,0 +1,98 @@
+[
+  {
+    "artists": ["The Sonic Temple", "fimamaru"],
+    "artistsPopularity": 14,
+    "title": "Життя на смак",
+    "releaseDate": "2025-07-11",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/7EsmEGu9wpMp392Z6Vx3ah",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b7bbf05663eb054fb84ea121",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:02.498Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["The Sonic Temple"],
+    "artistsPopularity": 6,
+    "title": "Спи",
+    "releaseDate": "2024-11-08",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/2JVRHSCwrjWEA2ylN1vUal",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ec252cb37d575dd624e10e3f",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:02.498Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["The Sonic Temple"],
+    "artistsPopularity": 6,
+    "title": "Once",
+    "releaseDate": "2024-09-13",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/5kIO4am7oBfY0VYTzI5gyj",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27358adb6c991630657b83a2a9f",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:02.498Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["The Sonic Temple"],
+    "artistsPopularity": 6,
+    "title": "Не Дивись (radio edit)",
+    "releaseDate": "2024-07-26",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/7yNMzWzxgzS39R9stZGR4j",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27350441fd84031a245fd39ae9c",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:02.498Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["The Sonic Temple"],
+    "artistsPopularity": 6,
+    "title": "No Relief",
+    "releaseDate": "2024-03-01",
+    "type": "single",
+    "totalTracks": 5,
+    "url": "https://open.spotify.com/album/3xykRTbCP8gNh9UCA9YGi3",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730a59d6858be522c1295b50f1",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:02.498Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["The Sonic Temple"],
+    "artistsPopularity": 6,
+    "title": "I.O.",
+    "releaseDate": "2024-01-26",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/6z4J4c9vkk2FzKsPqBPAl5",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27302aa40943cb69efaf76d0a96",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:02.498Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]

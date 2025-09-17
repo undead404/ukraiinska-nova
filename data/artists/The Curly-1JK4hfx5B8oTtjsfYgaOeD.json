@@ -1,0 +1,418 @@
+[
+  {
+    "artists": ["To Eternity", "The Curly"],
+    "artistsPopularity": 33,
+    "title": "Теорія Любові",
+    "releaseDate": "2023-08-25",
+    "type": "album",
+    "totalTracks": 13,
+    "url": "https://open.spotify.com/album/6S4FaMlI4t7fHkDBClFXlO",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739f4e790bd80ebc07e4b73668",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:00.596Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["The Curly"],
+    "artistsPopularity": 31,
+    "title": "TV",
+    "releaseDate": "2025-09-05",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/0C7ONMoxtbn9bJmEQlx1vw",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733b70bcdc781cd71675245e0d",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:00.596Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["The Curly"],
+    "artistsPopularity": 31,
+    "title": "PRESSURE",
+    "releaseDate": "2025-08-15",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/6QhT4S6YQIsy08tU63yDGn",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f59b865edfe85cb015dfe909",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:00.596Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["The Curly"],
+    "artistsPopularity": 31,
+    "title": "ще раз",
+    "releaseDate": "2025-03-14",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/1GFALNcmoybCFtcDCxv0MF",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e4d83446d8c4108f68c144fe",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:00.596Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["The Curly"],
+    "artistsPopularity": 31,
+    "title": "мовчиш",
+    "releaseDate": "2025-02-28",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/0NF4wh9AFRGnxsBSzITI2s",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273258efe6c2411fa80fe93cfee",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:00.596Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["The Curly"],
+    "artistsPopularity": 31,
+    "title": "2021",
+    "releaseDate": "2025-01-31",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/2wx9xH5juaWs3hgImduklB",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731ca565ead49ff837fd2fceab",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:00.596Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["The Curly"],
+    "artistsPopularity": 31,
+    "title": "mafia",
+    "releaseDate": "2024-12-20",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/2S7KugySi40sSRnGGjWgX4",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273483eedeef9798b0e6d08f931",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:00.596Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["The Curly"],
+    "artistsPopularity": 31,
+    "title": "la puta",
+    "releaseDate": "2024-11-15",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/3IDcvx5t8DNHDgEI2aNM0y",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733081330d549ba81c95040242",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:00.596Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["The Curly"],
+    "artistsPopularity": 31,
+    "title": "мама Насті",
+    "releaseDate": "2024-09-27",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/6RACan68LaWmTYwKXNJhUR",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739a03a3bff99ae1aef437cec1",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:00.596Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["The Curly", "Один День Потому"],
+    "artistsPopularity": 31,
+    "title": "Плавить",
+    "releaseDate": "2024-07-26",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/7FCqkcOYrUSaSMVmMAdsfX",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273966686d37e3760254ded5875",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:00.596Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["нестор", "The Curly"],
+    "artistsPopularity": 31,
+    "title": "звукам",
+    "releaseDate": "2024-05-10",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/33EeK2jR8W43mZfn1OFrgy",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ebaaa6d6ea47b18f3b5b3b4b",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:00.596Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["The Curly", "Marcel Garçon"],
+    "artistsPopularity": 31,
+    "title": "Тобі личить",
+    "releaseDate": "2024-04-17",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/1K7hquf9EXIgo7oanM7Tso",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a0fc697d750453d1ec5fb652",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:00.596Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["The Curly", "Marcel Garçon"],
+    "artistsPopularity": 31,
+    "title": "Це про любов",
+    "releaseDate": "2024-02-28",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/4VzcHHfXg7IezyXB8CZxiR",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27337011211a7ce826ea6f59c31",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:00.596Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["The Curly", "нестор", "Marcel Garçon"],
+    "artistsPopularity": 31,
+    "title": "Імунітет",
+    "releaseDate": "2023-11-24",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/4duf68U9gpmj7XT10Rhr34",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735f46b4666e69381728a2b701",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:00.596Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["To Eternity", "The Curly", "Liia"],
+    "artistsPopularity": 33,
+    "title": "Імпровізація",
+    "releaseDate": "2023-07-21",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/1HGGGN11JtDhthdAUC9IrX",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273330e88fc0d38b1ce462f6b5a",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:00.596Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["To Eternity", "The Curly"],
+    "artistsPopularity": 33,
+    "title": "Дивак",
+    "releaseDate": "2023-06-30",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/4T6IMrVCieH7orrhP42kXz",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273324b9e770a58cbf96e5809f2",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:00.596Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["The Curly", "SemiSweet"],
+    "artistsPopularity": 31,
+    "title": "ХУМУС",
+    "releaseDate": "2023-05-26",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/1CgNV6nObLSJ6eFNYA0SzB",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c13589c5b9d02ed4d586386a",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:00.596Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["The Curly"],
+    "artistsPopularity": 31,
+    "title": "Сумнівна терапія",
+    "releaseDate": "2023-03-17",
+    "type": "single",
+    "totalTracks": 6,
+    "url": "https://open.spotify.com/album/5q7pNNIv9cDzXfb2E0Te1p",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735eb83c89cd77ed0a7d77bc6b",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:00.596Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["The Curly"],
+    "artistsPopularity": 31,
+    "title": "Зима",
+    "releaseDate": "2023-01-13",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/2tEU4gqyhq2HJOr3IqSbFA",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273280aa369102a2fa5dda6c991",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:00.596Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["The Curly"],
+    "artistsPopularity": 31,
+    "title": "Ритми",
+    "releaseDate": "2022-11-04",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/0cwGEqXFhQ76CR9HtfJx0a",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273910a3e22f2fd5e3f86a02fd3",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:00.596Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["The Curly"],
+    "artistsPopularity": 31,
+    "title": "Чорнобрива",
+    "releaseDate": "2022-09-30",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/7AFpLT3VUA3IGbDW9gckKw",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737bee1df8bd48f300f6cad0e3",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:00.596Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["The Curly"],
+    "artistsPopularity": 31,
+    "title": "Я забувся",
+    "releaseDate": "2022-09-02",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/4RiRcHx1s1GuubpYbOsoIv",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738defbe0865a9a947f27b558d",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:00.596Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["OTOY"],
+    "artistsPopularity": 44,
+    "title": "Недовготривалі відносини",
+    "releaseDate": "2023-05-25",
+    "type": "album",
+    "totalTracks": 9,
+    "url": "https://open.spotify.com/album/1Y74eDClvLKpzJgVSbovLS",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27383ec1f0f31bfcee0e915c5d9",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:00.596Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["NANA SOLIS"],
+    "artistsPopularity": 18,
+    "title": "URBAN",
+    "releaseDate": "2024-09-13",
+    "type": "album",
+    "totalTracks": 12,
+    "url": "https://open.spotify.com/album/0MkeoJQtVhvyiBQFdPA5X6",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738a077155969bb78b559c8e50",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:00.596Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["BADWOR7H"],
+    "artistsPopularity": 31,
+    "title": "Я тебе знаю, а мені 26",
+    "releaseDate": "2023-07-14",
+    "type": "single",
+    "totalTracks": 2,
+    "url": "https://open.spotify.com/album/2QUbJmJamB0aMgJsEwMWJ0",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739291c101c40d66d847e96351",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:00.596Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["OTOY"],
+    "artistsPopularity": 44,
+    "title": "Жарптиця",
+    "releaseDate": "2023-04-27",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/5wue27q4OnQBJuDTneTqFH",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b89bec8b72611a14d82d1300",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:00.596Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]

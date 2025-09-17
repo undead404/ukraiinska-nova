@@ -1,0 +1,130 @@
+[
+  {
+    "artists": ["Chur"],
+    "artistsPopularity": 15,
+    "title": "Four-faced",
+    "releaseDate": "2019-10-04",
+    "type": "album",
+    "totalTracks": 11,
+    "url": "https://open.spotify.com/album/6utzVJv5PTYfc82VQHsj75",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b6d633ad53e96a4b095ee264",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:20:10.535Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Chur"],
+    "artistsPopularity": 15,
+    "title": "Лихо",
+    "releaseDate": "2009-03-24",
+    "type": "album",
+    "totalTracks": 10,
+    "url": "https://open.spotify.com/album/6uSscJMuFhePdFrnGSN2FF",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27371bd93eb374ba57cdc71e075",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:20:10.535Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Chur", "Oprich"],
+    "artistsPopularity": 15,
+    "title": "‚Ä¶From the Ghostly Fog‚Ä¶ / The Fireflower",
+    "releaseDate": "2008-10-03",
+    "type": "album",
+    "totalTracks": 8,
+    "url": "https://open.spotify.com/album/7ykHhj9To87hGsdkBuyKJe",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d4c7cfd2bffa0a0aed3cb5ed",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:20:10.535Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Chur"],
+    "artistsPopularity": 15,
+    "title": "Брате вітре",
+    "releaseDate": "2006-03-24",
+    "type": "album",
+    "totalTracks": 11,
+    "url": "https://open.spotify.com/album/1qa6WbdinL0Xr3t5u8YvdR",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730bc9e030cdb3806ddf17e668",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:20:10.535Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Chur"],
+    "artistsPopularity": 15,
+    "title": "Black Knight",
+    "releaseDate": "2020-03-27",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/1HKw4yq75jOvj7ETnuhrbI",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733519bf4fbb7d7ff5db887079",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:20:10.535Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Chur"],
+    "artistsPopularity": 15,
+    "title": "Revival",
+    "releaseDate": "2017-04-25",
+    "type": "single",
+    "totalTracks": 5,
+    "url": "https://open.spotify.com/album/2UTCsd9QBYpL2JhLsS4ye1",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27312ad9675ff74bc75d876e4e4",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:20:10.535Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Chur"],
+    "artistsPopularity": 15,
+    "title": "Oldman",
+    "releaseDate": "2017-04-25",
+    "type": "single",
+    "totalTracks": 6,
+    "url": "https://open.spotify.com/album/1qAO92soaFRY2rKYQ8XH54",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735561ceadfb65e092e9017653",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:20:10.535Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Heather Wasteland"],
+    "artistsPopularity": 0,
+    "title": "Tre Sverd",
+    "releaseDate": "2019-05-31",
+    "type": "single",
+    "totalTracks": 4,
+    "url": "https://open.spotify.com/album/6BREv52mTmW4s9UwLUvMRe",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e9b5494d70782d96931b0f7b",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:20:10.535Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]

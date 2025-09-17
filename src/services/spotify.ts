@@ -1,8 +1,10 @@
 import SpotifyWebApi from 'spotify-web-api-node';
 
 import type { MusicRelease } from '../common/schemata.js';
+import chunkify from '../helpers/chunkify.js';
 import delay from '../helpers/delay.js';
 import filterAlbums from '../helpers/filter-albums.js';
+import mapSpotifyAlbumDetailsToMusicRelease from '../helpers/map-spotify-album-details-to-music-release.js';
 import type {
   ArtistSearchResult,
   ScrapingOptions,
@@ -112,48 +114,30 @@ export class SpotifyService {
     }
   }
 
-  private async getAlbumDetails(
-    album: SpotifyApi.AlbumObjectSimplified,
-  ): Promise<MusicRelease> {
-    let albumDetails: SpotifyApi.AlbumObjectFull | undefined = undefined;
+  private async getAlbumsDetails(
+    albums: SpotifyApi.AlbumObjectSimplified[],
+  ): Promise<MusicRelease[]> {
+    const albumsChunks = chunkify(albums, 20);
+    const releases: MusicRelease[] = [];
+    for (const albumsChunk of albumsChunks) {
+      await delay(500);
+      const albumResponse = await this.spotifyApi.getAlbums(
+        albumsChunk.map(({ id }) => id),
+      );
+      const albumsDetails = albumResponse.body.albums;
 
-    const cachedAlbumsDetails =
-      await readFromFileCache<SpotifyApi.AlbumObjectFull>(
-        `spotify-album-details-${album.id}`,
+      const chunkReleases = albumsDetails.map((albumDetails) =>
+        mapSpotifyAlbumDetailsToMusicRelease(albumDetails),
       );
 
-    if (cachedAlbumsDetails) {
-      albumDetails = cachedAlbumsDetails;
-    } else {
-      const albumResponse = await this.spotifyApi.getAlbum(album.id);
-      albumDetails = albumResponse.body;
-      await writeToFileCache(
-        `spotify-album-details-${album.id}`,
-        albumDetails,
-        Date.now() + DAY,
-      );
+      for (const [index, release] of chunkReleases.entries()) {
+        const artistsIds = albumsDetails[index].artists.map(({ id }) => id);
+        release.artistsPopularity = await this.getArtistsPopularity(artistsIds);
+      }
+      releases.push(...chunkReleases);
     }
 
-    let artistsPopularity = 0;
-
-    for (const artist of albumDetails.artists) {
-      const popularity = await this.getArtistPopularity(artist.id);
-      artistsPopularity = Math.max(artistsPopularity, popularity);
-    }
-
-    return {
-      artists: albumDetails.artists.map((a) => a.name),
-      artistsPopularity,
-      title: album.name,
-      releaseDate: albumDetails.release_date,
-      type: album.album_type as 'album' | 'single' | 'compilation',
-      totalTracks: albumDetails.total_tracks,
-      url: album.external_urls.spotify,
-      imageUrl: album.images?.[0]?.url,
-      // genres: albumDetails.genres || [],
-      // popularity: albumDetails.popularity,
-      // markets: album.available_markets || [],
-    };
+    return releases;
   }
 
   /**
@@ -189,13 +173,7 @@ export class SpotifyService {
         }
         items = filterAlbums(items, options);
 
-        for (const album of items) {
-          const release = await this.getAlbumDetails(album);
-          releases.push(release);
-
-          // Невелика затримка для уникнення rate limiting
-          await delay(200);
-        }
+        releases.push(...(await this.getAlbumsDetails(items)));
 
         offset += limit;
 
@@ -224,21 +202,22 @@ export class SpotifyService {
     }
   }
 
-  async getArtistPopularity(artistId: string): Promise<number> {
-    const cachedPopularity = await readFromFileCache<number>(
-      `spotify-artist-popularity-${artistId}`,
-    );
-    if (cachedPopularity !== undefined) {
-      return cachedPopularity;
-    }
+  private async getArtists(
+    artistsIds: string[],
+  ): Promise<SpotifyApi.ArtistObjectFull[]> {
+    await this.getAccessToken();
 
-    const artist = await this.getArtist(artistId);
-    const popularity = artist.popularity;
-    await writeToFileCache(
-      `spotify-artist-popularity-${artistId}`,
-      popularity,
-      Date.now() + MONTH,
-    );
-    return popularity;
+    try {
+      const artist = await this.spotifyApi.getArtists(artistsIds);
+      return artist.body.artists;
+    } catch (error) {
+      console.error('Помилка отримання інформації про артиста:', error);
+      throw error;
+    }
+  }
+
+  private async getArtistsPopularity(artistsIds: string[]): Promise<number> {
+    const artists = await this.getArtists(artistsIds);
+    return Math.max(...artists.map(({ popularity }) => popularity));
   }
 }

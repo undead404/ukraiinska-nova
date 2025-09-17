@@ -1,0 +1,114 @@
+[
+  {
+    "artists": ["No Time For Swing", "Boris Lugovik", "Yevhen Puhachov"],
+    "artistsPopularity": 12,
+    "title": "Breakdown",
+    "releaseDate": "2025-04-04",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/7ooq0JCFYTVDwLRZTpjFRy",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27336552e8757f11aa573aa6137",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:27.312Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["No Time For Swing", "Boris Lugovik", "Yevhen Puhachov"],
+    "artistsPopularity": 12,
+    "title": "Bastard",
+    "releaseDate": "2025-04-04",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/71u2czCKxyxHoUyxterKaZ",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27351811c71f5a533f9b5df75ef",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:27.312Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Yevhen Puhachov", "Anton Kramer"],
+    "artistsPopularity": 14,
+    "title": "Sashenka",
+    "releaseDate": "2024-07-19",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/2o8avHs68cJzI3BlJ0CxzE",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ba09965705d483fcda49aa7e",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:27.312Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Yevhen Puhachov"],
+    "artistsPopularity": 12,
+    "title": "Tension",
+    "releaseDate": "2024-06-14",
+    "type": "single",
+    "totalTracks": 2,
+    "url": "https://open.spotify.com/album/3etPIMiG8eL0LlK79udGAx",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738634fbdaf3140b84cea4d2b5",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:27.312Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ЩукаРиба", "Bunht"],
+    "artistsPopularity": 20,
+    "title": "Веснянки",
+    "releaseDate": "2024-05-31",
+    "type": "single",
+    "totalTracks": 2,
+    "url": "https://open.spotify.com/album/3ef4Fvv8pnjs0JKkifuwV2",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27309f51e03e5f126517a9e773b",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:27.312Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ЩукаРиба", "Bunht"],
+    "artistsPopularity": 20,
+    "title": "Що й святоє…",
+    "releaseDate": "2024-01-05",
+    "type": "single",
+    "totalTracks": 5,
+    "url": "https://open.spotify.com/album/7n6Gydmu6oRst0IOsjx5lA",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d903cf00f10c8317667e19f4",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:27.312Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["No Time For Swing"],
+    "artistsPopularity": 0,
+    "title": "NTFS, Vol.1",
+    "releaseDate": "2025-04-04",
+    "type": "single",
+    "totalTracks": 5,
+    "url": "https://open.spotify.com/album/2846oqfMLO6Dgfwz5Q7cgN",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273907056aa17ee52ec295dce4b",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:27.312Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]

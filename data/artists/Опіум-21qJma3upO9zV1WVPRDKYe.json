@@ -1,0 +1,82 @@
+[
+  {
+    "artists": ["Опіум"],
+    "artistsPopularity": 0,
+    "title": "Почуття і медалі",
+    "releaseDate": "2014-05-09",
+    "type": "album",
+    "totalTracks": 13,
+    "url": "https://open.spotify.com/album/0fmLPoLvobXiFJPimV9D1S",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27346eb1715bcddcdd7faf5443f",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:41.271Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Опіум"],
+    "artistsPopularity": 0,
+    "title": "Молися на мене",
+    "releaseDate": "2009-04-21",
+    "type": "album",
+    "totalTracks": 10,
+    "url": "https://open.spotify.com/album/4roteJ3VTqBHgxIbcHNhye",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273af035d76b7cf05a19ec3bb48",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:41.271Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Опіум"],
+    "artistsPopularity": 0,
+    "title": "Осіння",
+    "releaseDate": "2017-10-10",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/7k345eDmwCE278FdzMEWeK",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d09dea60da708cbcbe13546d",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:41.271Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Опіум"],
+    "artistsPopularity": 0,
+    "title": "Плеєр",
+    "releaseDate": "2016-10-05",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/0r6A3BeBKvcJluJfvzj3NI",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732f9ea718ed6ae903bfdbb3d3",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:41.271Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Опіум"],
+    "artistsPopularity": 0,
+    "title": "Ласкаво просимо в клуб",
+    "releaseDate": "2016-03-29",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/41uiGTYg1Jwr29cJXjUAOG",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cda5476c4fc235e7d3bccbe5",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:41.271Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]

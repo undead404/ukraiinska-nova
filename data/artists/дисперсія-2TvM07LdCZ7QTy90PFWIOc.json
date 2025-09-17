@@ -1,0 +1,114 @@
+[
+  {
+    "artists": ["дисперсія"],
+    "artistsPopularity": 1,
+    "title": "добраніч, пунпуне",
+    "releaseDate": "2025-02-07",
+    "type": "album",
+    "totalTracks": 10,
+    "url": "https://open.spotify.com/album/1fD6MOqhZyLimn4CfntdgM",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f3f7b8c275acc05c7fc8ca59",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:31.260Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["дисперсія"],
+    "artistsPopularity": 1,
+    "title": "елеонор",
+    "releaseDate": "2024-08-22",
+    "type": "single",
+    "totalTracks": 4,
+    "url": "https://open.spotify.com/album/4HOQRFVBhpFIaGPLKGphmT",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27333aad025e3adcbde6f60de6e",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:31.260Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["дисперсія"],
+    "artistsPopularity": 1,
+    "title": "оскільки нічого не має сенсу, його створю сам я",
+    "releaseDate": "2024-03-31",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/3Ko5YowS7TKPwPVqYRXwCk",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731175c0b2d3cf62daaa8ec9a2",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:31.260Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["дисперсія"],
+    "artistsPopularity": 1,
+    "title": "мурахи",
+    "releaseDate": "2023-10-07",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/2XWw13VrtAhImjUYaaisky",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d0bc08263e9b09d994ad2da0",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:31.260Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["дисперсія"],
+    "artistsPopularity": 1,
+    "title": "сподіваюсь, мені це здалось",
+    "releaseDate": "2023-05-25",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/5D9A9L5DkBMTop4LNQpaXM",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bb65e948cb8f3fac5dafd8c9",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:31.260Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["дисперсія"],
+    "artistsPopularity": 1,
+    "title": "секс тривога алкоголь",
+    "releaseDate": "2022-02-21",
+    "type": "single",
+    "totalTracks": 6,
+    "url": "https://open.spotify.com/album/068210EJWue06qSLhvobOU",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a72b16fd787e474f1f18da27",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:31.260Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["дисперсія"],
+    "artistsPopularity": 1,
+    "title": "screamo sessions 2021",
+    "releaseDate": "2021-11-12",
+    "type": "single",
+    "totalTracks": 3,
+    "url": "https://open.spotify.com/album/53VgjekF7kQkot7bTjg0fO",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733ab364abd12d6c3b5e1b8c28",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:31.260Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]

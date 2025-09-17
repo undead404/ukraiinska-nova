@@ -1,0 +1,146 @@
+[
+  {
+    "artists": ["Октавіан Серпень"],
+    "artistsPopularity": 14,
+    "title": "Це не сон, а щось зовсім інше",
+    "releaseDate": "2023-08-08",
+    "type": "album",
+    "totalTracks": 8,
+    "url": "https://open.spotify.com/album/4PZNu4ekty1URAGa1ZCBGG",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e97ed0be9de53403b79daabe",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:39.646Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Октавіан Серпень"],
+    "artistsPopularity": 14,
+    "title": "Ідеал",
+    "releaseDate": "2025-04-04",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/7pKarmQkclkx4aYiiXPFRe",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731454be26d5b24e7c4a654eab",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:39.646Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Октавіан Серпень"],
+    "artistsPopularity": 14,
+    "title": "Сомалі",
+    "releaseDate": "2024-11-28",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/0lJ5ekfmP9HYp262eOjZ9S",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27361b5483f5c66136f151bccc3",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:39.646Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Октавіан Серпень"],
+    "artistsPopularity": 14,
+    "title": "Завод залізобетонних конструкцій",
+    "releaseDate": "2024-08-08",
+    "type": "single",
+    "totalTracks": 4,
+    "url": "https://open.spotify.com/album/140KaFNON5NdCmGjy8JbKj",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ed4ba4dd9cfa69cdaecdad1d",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:39.646Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Октавіан Серпень"],
+    "artistsPopularity": 14,
+    "title": "Хуртовина",
+    "releaseDate": "2023-02-23",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/6I5cUMTr6K9ynBPIb0K8GO",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dc6d6dea592be7ac292c2534",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:39.646Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Октавіан Серпень"],
+    "artistsPopularity": 14,
+    "title": "В один день з тобою",
+    "releaseDate": "2022-11-14",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/5HUAWhqES9IwgEBksqDl7l",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732e715a125c2855db935abe2e",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:39.646Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Октавіан Серпень"],
+    "artistsPopularity": 14,
+    "title": "Павук",
+    "releaseDate": "2022-07-20",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/4QRv7CvVvj91P5RaxKlnRg",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738218a2b23931ee514459956b",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:39.646Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Октавіан Серпень"],
+    "artistsPopularity": 14,
+    "title": "На добраніч",
+    "releaseDate": "2022-04-29",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/1KHJNYLzsdbKsskWg4X5y4",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730a6583397ad1a9dbb01e6990",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:39.646Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Октавіан Серпень"],
+    "artistsPopularity": 14,
+    "title": "Кров",
+    "releaseDate": "2022-04-02",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/0c8TE66woEQYexNNhgDwRd",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737a643fc5fa046259fcdedee8",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:39.646Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]
