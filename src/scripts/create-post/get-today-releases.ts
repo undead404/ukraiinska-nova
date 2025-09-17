@@ -9,15 +9,27 @@ import { RELEASES_DATA_FOLDER } from '../../constants.js';
 import getJsonFiles from '../../helpers/get-json-files.js';
 import getReleaseAppearanceTime from '../../helpers/get-release-appearance-time.js';
 
+import getEarliestReleaseAppearanceTime from './get-earliest-release-appearance-time.js';
+
 export default async function* getTodayReleases(): AsyncGenerator<MusicRelease> {
   const artistFiles = await getJsonFiles(path.join(...RELEASES_DATA_FOLDER));
   const today = new Date().toDateString();
   for (const artistFileName of artistFiles) {
     const data = await readFile(artistFileName);
-    const releases = parse(array(releaseRecordSchema), data);
+    const releases = parse(
+      array(releaseRecordSchema),
+      JSON.parse(data.toString()),
+    );
+    const earliestReleaseAppearanceTime =
+      getEarliestReleaseAppearanceTime(releases);
     for (const release of releases) {
       const releaseAppearanceTime = getReleaseAppearanceTime(release);
-      if (releaseAppearanceTime?.toDateString() === today) {
+      if (
+        releaseAppearanceTime &&
+        releaseAppearanceTime.getTime() !==
+          earliestReleaseAppearanceTime!.getTime() &&
+        releaseAppearanceTime.toDateString() === today
+      ) {
         yield release;
       }
     }
