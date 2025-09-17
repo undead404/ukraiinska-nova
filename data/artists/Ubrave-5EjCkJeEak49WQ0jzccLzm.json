@@ -1,0 +1,80 @@
+[
+  {
+    "artists": [
+      "Оркестр Почесної Варти",
+      "Ubrave"
+    ],
+    "artistsPopularity": 3,
+    "title": "Сміливість (Orchestra)",
+    "releaseDate": "2023-12-29",
+    "type": "album",
+    "totalTracks": 12,
+    "url": "https://open.spotify.com/album/7qahCGu2ewfxldCyc1tqg4",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e2a45ddbd22a6a5c8d369bf8",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:24:46.403Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Ubrave",
+      "Інна Іщенко",
+      "Moisei"
+    ],
+    "artistsPopularity": 12,
+    "title": "Колискова",
+    "releaseDate": "2024-10-25",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/5jnqYRwFPpPXT7hrRXqMbh",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735ab6707e047bd5c946bcb15c",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:24:46.403Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Ubrave",
+      "PTASHKIN"
+    ],
+    "artistsPopularity": 18,
+    "title": "Невідомий Герой (Live Orchestra)",
+    "releaseDate": "2024-01-26",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/6S14sJDbdA8fvTAydwL9n4",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730373e761d5df0ef95eb6414d",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:24:46.403Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Ubrave",
+      "БЕЗ ОБМЕЖЕНЬ",
+      "YARMAK"
+    ],
+    "artistsPopularity": 53,
+    "title": "Незламність",
+    "releaseDate": "2023-12-06",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/3js3Wfst3Do96HURGz6WXg",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a7c7ed4488c1f3b649fab1d4",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:24:46.403Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]

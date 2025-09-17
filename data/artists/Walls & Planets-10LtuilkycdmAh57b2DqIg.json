@@ -1,0 +1,56 @@
+[
+  {
+    "artists": [
+      "Walls & Planets"
+    ],
+    "artistsPopularity": 1,
+    "title": "Вирок",
+    "releaseDate": "2025-04-17",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/1Ux7SJ0lHPUCHE93VuQlFF",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273112222166449a3a37f28cac3",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:24:50.645Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Walls & Planets"
+    ],
+    "artistsPopularity": 1,
+    "title": "У вогні",
+    "releaseDate": "2024-05-09",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/2MTzbEPXyJxAgWY9BQ17Wq",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733370acedc238433a07a82a86",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:24:50.645Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Walls & Planets"
+    ],
+    "artistsPopularity": 1,
+    "title": "Infinite Storm",
+    "releaseDate": "2023-10-03",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/3ccXM5PUFwI5deCdtV4HZD",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733c643168cbc42bca1dd5c0ab",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:24:50.645Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]
