@@ -1,13 +1,15 @@
 [
   {
-    "artists": ["Пророки"],
+    "artists": [
+      "Пророки"
+    ],
     "artistsPopularity": 10,
-    "title": "Вітер",
-    "releaseDate": "2025-06-14",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0H9DaqAMwCPjy1EHgxlt19",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ebf5081fe9f81a0fce59c8ff",
+    "releaseDate": "2025-06-14",
+    "title": "Вітер",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0H9DaqAMwCPjy1EHgxlt19",
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:17.230Z",
@@ -16,14 +18,16 @@
     ]
   },
   {
-    "artists": ["Пророки"],
+    "artists": [
+      "Пророки"
+    ],
     "artistsPopularity": 10,
-    "title": "Новий день (акустична версія)",
-    "releaseDate": "2025-02-17",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/69yR9JbhjnbptkMtLkidx0",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f645925bb31158b9c4d138e3",
+    "releaseDate": "2025-02-17",
+    "title": "Новий день (акустична версія)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/69yR9JbhjnbptkMtLkidx0",
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:17.230Z",
@@ -32,46 +36,53 @@
     ]
   },
   {
-    "artists": ["Третя Штурмова", "Пророки"],
+    "artists": [
+      "Третя Штурмова",
+      "Пророки"
+    ],
     "artistsPopularity": 34,
-    "title": "Новий день",
-    "releaseDate": "2024-11-15",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4tsY2108tWgkfRPjHk6V1S",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736395ea5886ac0da0f4eab23c",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T09:45:17.230Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Пророки"],
-    "artistsPopularity": 10,
-    "title": "Україна",
-    "releaseDate": "2005-08-23",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1C79Gagdkz0h8t50AWKOXr",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f5d38cf65ee54b06e8262516",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T09:45:17.230Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Третя Штурмова"],
-    "artistsPopularity": 34,
-    "title": "ЕПОХА",
     "releaseDate": "2024-11-15",
-    "type": "album",
-    "totalTracks": 8,
-    "url": "https://open.spotify.com/album/6wIsQKHqY6oxcaLHRasadP",
+    "title": "Новий день",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4tsY2108tWgkfRPjHk6V1S",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:17.230Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Пророки"
+    ],
+    "artistsPopularity": 10,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f5d38cf65ee54b06e8262516",
+    "releaseDate": "2005-08-23",
+    "title": "Україна",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1C79Gagdkz0h8t50AWKOXr",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:17.230Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Третя Штурмова"
+    ],
+    "artistsPopularity": 34,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d589244a1534d915cebb1602",
+    "releaseDate": "2024-11-15",
+    "title": "ЕПОХА",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6wIsQKHqY6oxcaLHRasadP",
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:17.230Z",
