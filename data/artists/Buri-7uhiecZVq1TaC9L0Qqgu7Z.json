@@ -1,0 +1,56 @@
+[
+  {
+    "artists": [
+      "Buri"
+    ],
+    "artistsPopularity": 2,
+    "title": "Розпач і докори",
+    "releaseDate": "2024-06-03",
+    "type": "single",
+    "totalTracks": 2,
+    "url": "https://open.spotify.com/album/6FA3b6VGv2u3RhDDO22SBc",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d9240475cb892860132d1f08",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:22:46.947Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Buri"
+    ],
+    "artistsPopularity": 2,
+    "title": "Надворі тепліше ніж в мене на душі",
+    "releaseDate": "2023-08-15",
+    "type": "single",
+    "totalTracks": 6,
+    "url": "https://open.spotify.com/album/7te9GNDK2hed3XXnWFjiz6",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732e910956b44ffb9e8f094daf",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:22:46.947Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Buri"
+    ],
+    "artistsPopularity": 2,
+    "title": "Місто Слів",
+    "releaseDate": "2023-04-27",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/37GoU7EGfWDUP3kwXrxvjL",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27396fc85eba7798f2afd765f07",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:22:46.947Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]

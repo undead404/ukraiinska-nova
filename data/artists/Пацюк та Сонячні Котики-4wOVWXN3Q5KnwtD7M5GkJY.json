@@ -1,0 +1,20 @@
+[
+  {
+    "artists": [
+      "Пацюк та Сонячні Котики"
+    ],
+    "artistsPopularity": 5,
+    "title": "Митал",
+    "releaseDate": "2023-08-11",
+    "type": "single",
+    "totalTracks": 3,
+    "url": "https://open.spotify.com/album/5KgnUkgTLUYlYJr48Munun",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734c0074c0c4b5f9b3d9732edf",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T14:24:14.189Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "artists": [
+      "Позивний Музикант",
+      "Папа Карло"
+    ],
+    "artistsPopularity": 2,
+    "title": "Грьобані цапи",
+    "releaseDate": "2022-09-16",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/6iTICJ90mrmGjEkZVBGsYm",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27368b9f88d85bc2718cd520f5f",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:22:31.240Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Папа Карло"
+    ],
+    "artistsPopularity": 2,
+    "title": "Музикант на війні",
+    "releaseDate": "2024-06-22",
+    "type": "album",
+    "totalTracks": 13,
+    "url": "https://open.spotify.com/album/1MAugxTi3Kjlpb24D9VoJe",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27370a5affbe8c102223cd4d279",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:22:31.240Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]

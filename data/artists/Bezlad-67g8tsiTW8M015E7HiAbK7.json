@@ -1,0 +1,56 @@
+[
+  {
+    "artists": [
+      "Bezlad"
+    ],
+    "artistsPopularity": 2,
+    "title": "Місто, Шо Лишило Слід",
+    "releaseDate": "2024-06-10",
+    "type": "single",
+    "totalTracks": 4,
+    "url": "https://open.spotify.com/album/46mlTCSFLsHznOnUqR6UEg",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737698a2c04d827994da6afc3f",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:22:45.763Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Bezlad"
+    ],
+    "artistsPopularity": 2,
+    "title": "Майбутнє Належить Нам",
+    "releaseDate": "2022-07-28",
+    "type": "single",
+    "totalTracks": 2,
+    "url": "https://open.spotify.com/album/7sOh3DAq58n1LqHIjVrEEe",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c9b65d1e60f0c411d7177826",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:22:45.763Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Bezlad"
+    ],
+    "artistsPopularity": 2,
+    "title": "Kharkiv Hardcore Skins",
+    "releaseDate": "2019-12-27",
+    "type": "single",
+    "totalTracks": 4,
+    "url": "https://open.spotify.com/album/0wDxkgT4S6oUjKyNB42I7K",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f1d02a2b54ac3a05c28d09c2",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:22:45.763Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]

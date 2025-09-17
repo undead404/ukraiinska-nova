@@ -1,0 +1,74 @@
+[
+  {
+    "artists": [
+      "Буйтур"
+    ],
+    "artistsPopularity": 5,
+    "title": "Der Nachkrieg",
+    "releaseDate": "2024-07-20",
+    "type": "album",
+    "totalTracks": 7,
+    "url": "https://open.spotify.com/album/7knUlAcEkCxnCedan16P3B",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273603572a5da5f855ad7548080",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:21:58.241Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Буйтур"
+    ],
+    "artistsPopularity": 5,
+    "title": "Пісня Хромленого списом",
+    "releaseDate": "2023-02-25",
+    "type": "album",
+    "totalTracks": 8,
+    "url": "https://open.spotify.com/album/2W3H4Uvz8SIF5704mqJQjY",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27331db1c715e025ac787bcb8bb",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:21:58.241Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Буйтур"
+    ],
+    "artistsPopularity": 5,
+    "title": "Die Walküren rufen!",
+    "releaseDate": "2025-04-18",
+    "type": "single",
+    "totalTracks": 5,
+    "url": "https://open.spotify.com/album/5UCSyBBCzXxYH7JxWIflrP",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aa3cf290605c5ac356bb156d",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:21:58.241Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Буйтур"
+    ],
+    "artistsPopularity": 5,
+    "title": "Скарга нищих до Бога",
+    "releaseDate": "2024-11-21",
+    "type": "single",
+    "totalTracks": 4,
+    "url": "https://open.spotify.com/album/0AALCJh960LoLe124vP9Ky",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d3264820ad50f87f077721fe",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:21:58.241Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]

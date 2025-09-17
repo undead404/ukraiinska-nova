@@ -1,0 +1,74 @@
+[
+  {
+    "artists": [
+      "Sharlayh"
+    ],
+    "artistsPopularity": 0,
+    "title": "2018",
+    "releaseDate": "2019-04-20",
+    "type": "album",
+    "totalTracks": 7,
+    "url": "https://open.spotify.com/album/418pWYAP5cXzhkhKjVISyD",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d2fcfd1f944d251eb30565c5",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T14:26:33.032Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Sharlayh"
+    ],
+    "artistsPopularity": 0,
+    "title": "Прівєт!",
+    "releaseDate": "2025-09-11",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/3Kw9oc0jFzt4hDPlRBORTe",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734423a86a3ed764e23c2bd438",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T14:26:33.032Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Sharlayh"
+    ],
+    "artistsPopularity": 0,
+    "title": "Підпис Здесь",
+    "releaseDate": "2025-09-04",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/6S6b5Jizx0e9ermcqkbwjC",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b2d6d87798819b4175d76a73",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T14:26:33.032Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Sharlayh"
+    ],
+    "artistsPopularity": 0,
+    "title": "Шлак Ш",
+    "releaseDate": "2019-02-02",
+    "type": "single",
+    "totalTracks": 3,
+    "url": "https://open.spotify.com/album/6gXgMtxtFAuI88ZVQuwqD0",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27323fbd99ad86200a2cefe1c5a",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T14:26:33.032Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]
