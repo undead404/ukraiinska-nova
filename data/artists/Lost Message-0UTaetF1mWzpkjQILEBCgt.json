@@ -1,0 +1,128 @@
+[
+  {
+    "artists": [
+      "Lost Message"
+    ],
+    "artistsPopularity": 2,
+    "title": "Сніг",
+    "releaseDate": "2023-12-22",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/7It2t8Ywp2qzJOYzJdqCFf",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730232ab5ad3e75f220df7058e",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:24:30.012Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Lost Message"
+    ],
+    "artistsPopularity": 2,
+    "title": "Палаючі дні",
+    "releaseDate": "2023-08-18",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/3tX3R1cE3PWILpprndNV0l",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27353f27a9eb5912c66cc6b52fe",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:24:30.012Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Lost Message"
+    ],
+    "artistsPopularity": 2,
+    "title": "Місто",
+    "releaseDate": "2023-06-16",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/6SWQlwhPCJM88AQ4BMSCgB",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e107c95f628018799430fe08",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:24:30.012Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Lost Message"
+    ],
+    "artistsPopularity": 2,
+    "title": "Горизонт",
+    "releaseDate": "2022-04-01",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/1GOL5VmN6hDKCoC3EAC8hr",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739926683b0e1797ee5724a997",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:24:30.012Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Lost Message"
+    ],
+    "artistsPopularity": 2,
+    "title": "Демони",
+    "releaseDate": "2021-09-24",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/3bGCqBzhS5XSt9VdUYf1d8",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730e8a2a2f1b695ef5464fa99d",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:24:30.012Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Lost Message"
+    ],
+    "artistsPopularity": 2,
+    "title": "Зупини мить, Ч. 2",
+    "releaseDate": "2020-04-10",
+    "type": "single",
+    "totalTracks": 6,
+    "url": "https://open.spotify.com/album/2Pl5luP1nX7LCQOAbnSdXG",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737d6de48c5ba51a4020fa4c7d",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:24:30.012Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Lost Message"
+    ],
+    "artistsPopularity": 2,
+    "title": "Зупини мить, Ч. 1",
+    "releaseDate": "2019-04-22",
+    "type": "single",
+    "totalTracks": 5,
+    "url": "https://open.spotify.com/album/3E5KEFdgokdxAQaWLJxvqW",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273190d40b3a0972548be02b234",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:24:30.012Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]
