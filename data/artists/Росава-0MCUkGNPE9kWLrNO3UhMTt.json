@@ -1,13 +1,15 @@
 [
   {
-    "artists": ["Росава"],
+    "artists": [
+      "Росава"
+    ],
     "artistsPopularity": 24,
-    "title": "Радість",
-    "releaseDate": "2015-01-20",
-    "type": "album",
-    "totalTracks": 20,
-    "url": "https://open.spotify.com/album/7Fk3WPz0mWmCAiB5mwO7Mi",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736a7332a18b3365049859516b",
+    "releaseDate": "2015-01-20",
+    "title": "Радість",
+    "totalTracks": 20,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7Fk3WPz0mWmCAiB5mwO7Mi",
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:19.620Z",
@@ -16,14 +18,16 @@
     ]
   },
   {
-    "artists": ["Росава"],
+    "artists": [
+      "Росава"
+    ],
     "artistsPopularity": 24,
-    "title": "Тепер І Потім",
-    "releaseDate": "2013-10-18",
-    "type": "album",
-    "totalTracks": 12,
-    "url": "https://open.spotify.com/album/0IsNSdN2AJlNneCCHRmqi5",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab6bb4236472792ad204a799",
+    "releaseDate": "2013-10-18",
+    "title": "Тепер І Потім",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0IsNSdN2AJlNneCCHRmqi5",
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:19.620Z",
@@ -32,30 +36,16 @@
     ]
   },
   {
-    "artists": ["Росава"],
+    "artists": [
+      "Росава"
+    ],
     "artistsPopularity": 24,
-    "title": "Просто неба",
-    "releaseDate": "2013-10-18",
-    "type": "album",
-    "totalTracks": 18,
-    "url": "https://open.spotify.com/album/70UH79Cbpse6WAvELk59X9",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737bfdac15352c91e30e381add",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T09:45:19.620Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Росава"],
-    "artistsPopularity": 24,
-    "title": "Колисанки",
     "releaseDate": "2013-10-18",
+    "title": "Просто неба",
+    "totalTracks": 18,
     "type": "album",
-    "totalTracks": 19,
-    "url": "https://open.spotify.com/album/5h9HOTKFjfHZOu9eb0vyU9",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734989ccf497944079ba69e838",
+    "url": "https://open.spotify.com/album/70UH79Cbpse6WAvELk59X9",
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:19.620Z",
@@ -64,14 +54,34 @@
     ]
   },
   {
-    "artists": ["DILJA"],
-    "artistsPopularity": 12,
-    "title": "НЕДІЛЯ",
-    "releaseDate": "2004",
+    "artists": [
+      "Росава"
+    ],
+    "artistsPopularity": 24,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734989ccf497944079ba69e838",
+    "releaseDate": "2013-10-18",
+    "title": "Колисанки",
+    "totalTracks": 19,
     "type": "album",
-    "totalTracks": 13,
-    "url": "https://open.spotify.com/album/2CuQbiKggRndO6kmxfeBVj",
+    "url": "https://open.spotify.com/album/5h9HOTKFjfHZOu9eb0vyU9",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:19.620Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "DILJA"
+    ],
+    "artistsPopularity": 12,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b085f5ab6bc72b903cf76ad9",
+    "releaseDate": "2004",
+    "title": "НЕДІЛЯ",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2CuQbiKggRndO6kmxfeBVj",
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:19.620Z",

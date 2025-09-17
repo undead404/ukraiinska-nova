@@ -1,13 +1,15 @@
 [
   {
-    "artists": ["Aeternus Prophet"],
+    "artists": [
+      "Aeternus Prophet"
+    ],
     "artistsPopularity": 0,
-    "title": "Ruthlessness (2022 Remaster / Bonus Track Edition)",
-    "releaseDate": "2022-03-14",
-    "type": "album",
-    "totalTracks": 11,
-    "url": "https://open.spotify.com/album/1mmq2rV7tbWxfGhPIbakdB",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273578c4fe5d8f7c16f86bd86c9",
+    "releaseDate": "2022-03-14",
+    "title": "Ruthlessness (2022 Remaster / Bonus Track Edition)",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1mmq2rV7tbWxfGhPIbakdB",
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:36.207Z",
@@ -16,17 +18,41 @@
     ]
   },
   {
-    "artists": ["Aeternus Prophet"],
+    "artists": [
+      "Aeternus Prophet"
+    ],
     "artistsPopularity": 0,
-    "title": "Exclusion of Non-Dominated Material",
-    "releaseDate": "2016-06-10",
-    "type": "album",
-    "totalTracks": 10,
-    "url": "https://open.spotify.com/album/4NfJyZLwDrCGd71nLvPwn0",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c51a7f7f86f9fdc27b92d9f8",
+    "releaseDate": "2016-06-10",
+    "title": "Exclusion of Non-Dominated Material",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4NfJyZLwDrCGd71nLvPwn0",
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:36.207Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2025-09-17T09:23:18.618Z",
+        "type": "LOST"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Aeternus Prophet"
+    ],
+    "artistsPopularity": 0,
+    "title": "Exclusion Of Non-Dominated Material",
+    "releaseDate": "2016-06-24",
+    "type": "album",
+    "totalTracks": 10,
+    "url": "https://open.spotify.com/album/36BxkHBRXpfChPLaKYNTLm",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f2efdac9e1142b79c1e86536",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T09:23:18.618Z",
         "type": "FOUND"
       }
     ]

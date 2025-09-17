@@ -1,13 +1,15 @@
 [
   {
-    "artists": ["Три кроки в ніч"],
+    "artists": [
+      "Три кроки в ніч"
+    ],
     "artistsPopularity": 0,
-    "title": "10. Наживо (Live)",
-    "releaseDate": "2023-08-10",
-    "type": "album",
-    "totalTracks": 11,
-    "url": "https://open.spotify.com/album/6OKXQ8mItgIweq2bIhUI3N",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bf1be20905f311dcdb9e9d05",
+    "releaseDate": "2023-08-10",
+    "title": "10. Наживо (Live)",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6OKXQ8mItgIweq2bIhUI3N",
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:26.247Z",
@@ -16,30 +18,34 @@
     ]
   },
   {
-    "artists": ["Три кроки в ніч"],
+    "artists": [
+      "Три кроки в ніч"
+    ],
     "artistsPopularity": 0,
-    "title": "річка V. Дорога на Буркут",
-    "releaseDate": "2022-02-06",
-    "type": "album",
-    "totalTracks": 6,
-    "url": "https://open.spotify.com/album/4QUp1MbgjXZUU8JnWsmwmG",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27356e4222b65ebbf0d9b06463e",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T09:45:26.247Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Три кроки в ніч"],
-    "artistsPopularity": 0,
-    "title": "Ковдронька",
-    "releaseDate": "2015-05-19",
+    "releaseDate": "2022-02-06",
+    "title": "річка V. Дорога на Буркут",
+    "totalTracks": 6,
     "type": "album",
-    "totalTracks": 12,
-    "url": "https://open.spotify.com/album/1BUu2fR8onIMg2Pl4tj3qP",
+    "url": "https://open.spotify.com/album/4QUp1MbgjXZUU8JnWsmwmG",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:26.247Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Три кроки в ніч"
+    ],
+    "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ade5cca1c5b545352f2c1aae",
+    "releaseDate": "2015-05-19",
+    "title": "Ковдронька",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1BUu2fR8onIMg2Pl4tj3qP",
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:26.247Z",
@@ -48,14 +54,16 @@
     ]
   },
   {
-    "artists": ["Три кроки в ніч"],
+    "artists": [
+      "Три кроки в ніч"
+    ],
     "artistsPopularity": 0,
-    "title": "Цей корабель (Live Version)",
-    "releaseDate": "2024-10-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1Ush2NmfEUd6IXs1cYHq27",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b204405b4339ca5733c658ca",
+    "releaseDate": "2024-10-24",
+    "title": "Цей корабель (Live Version)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1Ush2NmfEUd6IXs1cYHq27",
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:26.247Z",
@@ -64,30 +72,34 @@
     ]
   },
   {
-    "artists": ["Три кроки в ніч"],
+    "artists": [
+      "Три кроки в ніч"
+    ],
     "artistsPopularity": 0,
-    "title": "Голоси",
-    "releaseDate": "2024-02-19",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6r72oNH9cWLhLWHsCHjPDf",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735ce61ee2110d850bcd532a60",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T09:45:26.247Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Три кроки в ніч"],
-    "artistsPopularity": 0,
-    "title": "І от",
-    "releaseDate": "2023-04-22",
-    "type": "single",
+    "releaseDate": "2024-02-19",
+    "title": "Голоси",
     "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4KeGE6HRY3oqXngko8ViPU",
+    "type": "single",
+    "url": "https://open.spotify.com/album/6r72oNH9cWLhLWHsCHjPDf",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:26.247Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Три кроки в ніч"
+    ],
+    "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27325f1cf9d59af42e5226e8d21",
+    "releaseDate": "2023-04-22",
+    "title": "І от",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4KeGE6HRY3oqXngko8ViPU",
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:26.247Z",
@@ -96,14 +108,16 @@
     ]
   },
   {
-    "artists": ["Три кроки в ніч"],
+    "artists": [
+      "Три кроки в ніч"
+    ],
     "artistsPopularity": 0,
-    "title": "Іти. Повертатись",
-    "releaseDate": "2022-12-17",
-    "type": "single",
-    "totalTracks": 5,
-    "url": "https://open.spotify.com/album/6sNHXvrpclpJ88hKL8lmRf",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27355b4a1239c056116a35d244a",
+    "releaseDate": "2022-12-17",
+    "title": "Іти. Повертатись",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6sNHXvrpclpJ88hKL8lmRf",
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:26.247Z",
@@ -112,14 +126,16 @@
     ]
   },
   {
-    "artists": ["Три кроки в ніч"],
+    "artists": [
+      "Три кроки в ніч"
+    ],
     "artistsPopularity": 0,
-    "title": "Висока вода",
-    "releaseDate": "2019-06-15",
-    "type": "single",
-    "totalTracks": 4,
-    "url": "https://open.spotify.com/album/5VOBBUKU3Vcgy38kecb8JC",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732d80e5e4a4e2bb1467448b2a",
+    "releaseDate": "2019-06-15",
+    "title": "Висока вода",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5VOBBUKU3Vcgy38kecb8JC",
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:26.247Z",

@@ -1,13 +1,15 @@
 [
   {
-    "artists": ["настрій не дуже"],
+    "artists": [
+      "настрій не дуже"
+    ],
     "artistsPopularity": 10,
-    "title": "Той самий день",
-    "releaseDate": "2022-12-29",
-    "type": "album",
-    "totalTracks": 7,
-    "url": "https://open.spotify.com/album/0r5vb6JgL7b3qMygSk8a2a",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27309c9a2d57ea5956a67f28cd5",
+    "releaseDate": "2022-12-29",
+    "title": "Той самий день",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0r5vb6JgL7b3qMygSk8a2a",
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:13.029Z",
@@ -16,14 +18,16 @@
     ]
   },
   {
-    "artists": ["настрій не дуже"],
+    "artists": [
+      "настрій не дуже"
+    ],
     "artistsPopularity": 10,
-    "title": "Троянди",
-    "releaseDate": "2024-04-10",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4iNdDlg5bYzvQ1jGGccFEu",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27355c1ba6516131a39ad562e01",
+    "releaseDate": "2024-04-10",
+    "title": "Троянди",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4iNdDlg5bYzvQ1jGGccFEu",
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:13.029Z",
@@ -32,14 +36,16 @@
     ]
   },
   {
-    "artists": ["настрій не дуже"],
+    "artists": [
+      "настрій не дуже"
+    ],
     "artistsPopularity": 10,
-    "title": "Квіти",
-    "releaseDate": "2024-02-14",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1NE1DVPtcPJjwcQf268Ms5",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733d26cd46e47f3e72993a34f8",
+    "releaseDate": "2024-02-14",
+    "title": "Квіти",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1NE1DVPtcPJjwcQf268Ms5",
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:13.029Z",
@@ -48,14 +54,16 @@
     ]
   },
   {
-    "artists": ["настрій не дуже"],
+    "artists": [
+      "настрій не дуже"
+    ],
     "artistsPopularity": 10,
-    "title": "Бачу тебе уві сні",
-    "releaseDate": "2024-01-12",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5Yo45hB4p8FXqZClCf2LNT",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c7f538214df62d174c5cbfef",
+    "releaseDate": "2024-01-12",
+    "title": "Бачу тебе уві сні",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5Yo45hB4p8FXqZClCf2LNT",
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:13.029Z",
@@ -64,14 +72,16 @@
     ]
   },
   {
-    "artists": ["настрій не дуже"],
+    "artists": [
+      "настрій не дуже"
+    ],
     "artistsPopularity": 10,
-    "title": "Розкажи",
-    "releaseDate": "2023-11-10",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4qfwvahtdn2UzatrPxhXFD",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ba57f5f0e9d05c0634a50f06",
+    "releaseDate": "2023-11-10",
+    "title": "Розкажи",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4qfwvahtdn2UzatrPxhXFD",
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:13.029Z",
@@ -80,14 +90,16 @@
     ]
   },
   {
-    "artists": ["настрій не дуже"],
+    "artists": [
+      "настрій не дуже"
+    ],
     "artistsPopularity": 10,
-    "title": "Руки тремтять",
-    "releaseDate": "2023-09-22",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/31FEdrjjPwBEXjqobdDLnf",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b770dac612eacded95e6b4a8",
+    "releaseDate": "2023-09-22",
+    "title": "Руки тремтять",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/31FEdrjjPwBEXjqobdDLnf",
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:13.029Z",
@@ -96,14 +108,16 @@
     ]
   },
   {
-    "artists": ["настрій не дуже"],
+    "artists": [
+      "настрій не дуже"
+    ],
     "artistsPopularity": 10,
-    "title": "Не грай зі мною",
-    "releaseDate": "2023-07-28",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2BgMhivapmLvaIAnGLVDGn",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733563b9479aafb1ca183cfa7a",
+    "releaseDate": "2023-07-28",
+    "title": "Не грай зі мною",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2BgMhivapmLvaIAnGLVDGn",
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:13.029Z",
@@ -112,14 +126,17 @@
     ]
   },
   {
-    "artists": ["настрій не дуже", "kovalevskyyy"],
+    "artists": [
+      "настрій не дуже",
+      "kovalevskyyy"
+    ],
     "artistsPopularity": 10,
-    "title": "Уламками",
-    "releaseDate": "2023-06-23",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2vT1QKXioW4pMP11DdXgEv",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735852e53244b0398a076665ef",
+    "releaseDate": "2023-06-23",
+    "title": "Уламками",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2vT1QKXioW4pMP11DdXgEv",
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:13.029Z",
@@ -128,14 +145,17 @@
     ]
   },
   {
-    "artists": ["поживна цінність", "настрій не дуже"],
+    "artists": [
+      "поживна цінність",
+      "настрій не дуже"
+    ],
     "artistsPopularity": 17,
-    "title": "запамʼятай",
-    "releaseDate": "2023-05-23",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5ytCzDjdS1X3BMN6rkY4z8",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732e556aa56c16ce8231b931f2",
+    "releaseDate": "2023-05-23",
+    "title": "запамʼятай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5ytCzDjdS1X3BMN6rkY4z8",
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:13.029Z",
@@ -144,30 +164,34 @@
     ]
   },
   {
-    "artists": ["настрій не дуже"],
+    "artists": [
+      "настрій не дуже"
+    ],
     "artistsPopularity": 10,
-    "title": "Смішно не буде",
-    "releaseDate": "2023-03-21",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6WSqfgrONhIk4etopCmuxw",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eb96ae6766c4e8077fbfacd2",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T09:45:13.029Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["настрій не дуже"],
-    "artistsPopularity": 10,
-    "title": "Лихорадка",
-    "releaseDate": "2023-01-31",
-    "type": "single",
+    "releaseDate": "2023-03-21",
+    "title": "Смішно не буде",
     "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3I3LY9MFxqLKVtozBdzAx8",
+    "type": "single",
+    "url": "https://open.spotify.com/album/6WSqfgrONhIk4etopCmuxw",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:13.029Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "настрій не дуже"
+    ],
+    "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732b71b0be4ed36f24a3dede9e",
+    "releaseDate": "2023-01-31",
+    "title": "Лихорадка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3I3LY9MFxqLKVtozBdzAx8",
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:13.029Z",
@@ -176,14 +200,16 @@
     ]
   },
   {
-    "artists": ["настрій не дуже"],
+    "artists": [
+      "настрій не дуже"
+    ],
     "artistsPopularity": 10,
-    "title": "Звуки сварки",
-    "releaseDate": "2022-08-08",
-    "type": "single",
-    "totalTracks": 5,
-    "url": "https://open.spotify.com/album/6ANVqx3DcC0cZu5UTxAOVX",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dbe3a403e0c62fd693d09ac9",
+    "releaseDate": "2022-08-08",
+    "title": "Звуки сварки",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6ANVqx3DcC0cZu5UTxAOVX",
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:13.029Z",
@@ -192,14 +218,16 @@
     ]
   },
   {
-    "artists": ["настрій не дуже"],
+    "artists": [
+      "настрій не дуже"
+    ],
     "artistsPopularity": 10,
-    "title": "Трупное лето",
-    "releaseDate": "2022-07-02",
-    "type": "single",
-    "totalTracks": 5,
-    "url": "https://open.spotify.com/album/4YdjUUiPt1Bx0m357NjmMa",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738d208a5913335b5307c45cc2",
+    "releaseDate": "2022-07-02",
+    "title": "Трупное лето",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4YdjUUiPt1Bx0m357NjmMa",
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:13.029Z",

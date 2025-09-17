@@ -1,29 +1,33 @@
 [
   {
-    "artists": ["Drop The Roof"],
+    "artists": [
+      "Drop The Roof"
+    ],
     "artistsPopularity": 10,
-    "title": "Не Чекай. Частина 2",
-    "releaseDate": "2021-07-30",
-    "type": "album",
-    "totalTracks": 8,
-    "url": "https://open.spotify.com/album/3yMVSBg69P9agzXafLM2g0",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27397f2c89af1e82e2c5b7e690d",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T09:45:57.633Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Drop The Roof"],
-    "artistsPopularity": 10,
-    "title": "Не Чекай. Частина 1",
-    "releaseDate": "2021-07-09",
+    "releaseDate": "2021-07-30",
+    "title": "Не Чекай. Частина 2",
+    "totalTracks": 8,
     "type": "album",
-    "totalTracks": 7,
-    "url": "https://open.spotify.com/album/1rQyQ8o1CchyHUgF4ZAAtK",
+    "url": "https://open.spotify.com/album/3yMVSBg69P9agzXafLM2g0",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:57.633Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Drop The Roof"
+    ],
+    "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27398038e0a0707b059e9cff054",
+    "releaseDate": "2021-07-09",
+    "title": "Не Чекай. Частина 1",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1rQyQ8o1CchyHUgF4ZAAtK",
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:57.633Z",
@@ -32,14 +36,16 @@
     ]
   },
   {
-    "artists": ["Drop The Roof"],
+    "artists": [
+      "Drop The Roof"
+    ],
     "artistsPopularity": 10,
-    "title": "До зірок",
-    "releaseDate": "2023-10-07",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/54zQ2lbbeeeLYQcvWVRVu8",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730f0a8f59f44b5001cf7932f7",
+    "releaseDate": "2023-10-07",
+    "title": "До зірок",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/54zQ2lbbeeeLYQcvWVRVu8",
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:57.633Z",
@@ -48,14 +54,16 @@
     ]
   },
   {
-    "artists": ["Drop The Roof"],
+    "artists": [
+      "Drop The Roof"
+    ],
     "artistsPopularity": 10,
-    "title": "Воно",
-    "releaseDate": "2023-02-28",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/43HAEV9JMgnbCJIzJNw0AG",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b5177effdbf23ff47f07870e",
+    "releaseDate": "2023-02-28",
+    "title": "Воно",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/43HAEV9JMgnbCJIzJNw0AG",
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:57.633Z",
@@ -64,14 +72,16 @@
     ]
   },
   {
-    "artists": ["Drop The Roof"],
+    "artists": [
+      "Drop The Roof"
+    ],
     "artistsPopularity": 10,
-    "title": "Ціна свободи",
-    "releaseDate": "2022-06-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6QTK6RnWygBW41eHhIZk3m",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732ad1f37e37dc62a93e657e58",
+    "releaseDate": "2022-06-24",
+    "title": "Ціна свободи",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6QTK6RnWygBW41eHhIZk3m",
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:57.633Z",
@@ -80,14 +90,16 @@
     ]
   },
   {
-    "artists": ["Drop The Roof"],
+    "artists": [
+      "Drop The Roof"
+    ],
     "artistsPopularity": 10,
-    "title": "Русский военный корабль",
-    "releaseDate": "2022-04-29",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5AX4cAshzuzCLzcDUr9FEh",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730a57ef1f70340badcf9a9498",
+    "releaseDate": "2022-04-29",
+    "title": "Русский военный корабль",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5AX4cAshzuzCLzcDUr9FEh",
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:57.633Z",
@@ -96,14 +108,16 @@
     ]
   },
   {
-    "artists": ["Drop The Roof"],
+    "artists": [
+      "Drop The Roof"
+    ],
     "artistsPopularity": 10,
-    "title": "Вибір",
-    "releaseDate": "2021-07-02",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0BAcpsHtyYDVqloHEzM14E",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734dfb54ad29e46a9f32ea6f0d",
+    "releaseDate": "2021-07-02",
+    "title": "Вибір",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0BAcpsHtyYDVqloHEzM14E",
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:57.633Z",
@@ -112,14 +126,16 @@
     ]
   },
   {
-    "artists": ["Drop The Roof"],
+    "artists": [
+      "Drop The Roof"
+    ],
     "artistsPopularity": 10,
-    "title": "Reborn.Hope",
-    "releaseDate": "2020-08-15",
-    "type": "single",
-    "totalTracks": 3,
-    "url": "https://open.spotify.com/album/54GfLsa4efefBywMQNP0Wr",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27320e74d726442078f9c0e30f4",
+    "releaseDate": "2020-08-15",
+    "title": "Reborn.Hope",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/54GfLsa4efefBywMQNP0Wr",
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:57.633Z",
@@ -128,14 +144,16 @@
     ]
   },
   {
-    "artists": ["Drop The Roof"],
+    "artists": [
+      "Drop The Roof"
+    ],
     "artistsPopularity": 10,
-    "title": "Falling. Plastic World",
-    "releaseDate": "2020-01-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0Rtgw6lxsEvoKYwpFlptjy",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273641c3ef5c2e2465008951d34",
+    "releaseDate": "2020-01-24",
+    "title": "Falling. Plastic World",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0Rtgw6lxsEvoKYwpFlptjy",
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:57.633Z",
@@ -144,14 +162,16 @@
     ]
   },
   {
-    "artists": ["Drop The Roof"],
+    "artists": [
+      "Drop The Roof"
+    ],
     "artistsPopularity": 10,
-    "title": "Острiв",
-    "releaseDate": "2020-01-03",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6nXSU1jG8ArpwcqBd7J8FK",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f28de1ce2047eb56c6a2c02",
+    "releaseDate": "2020-01-03",
+    "title": "Острiв",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6nXSU1jG8ArpwcqBd7J8FK",
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:57.633Z",
