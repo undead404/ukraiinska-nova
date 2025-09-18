@@ -1,8 +1,7 @@
 import { mkdir, readFile, stat, writeFile } from 'node:fs/promises';
 
-import stringifyWithSort from 'src/helpers/stringify-with-sort.js';
-
 import normalizeFilename from '../helpers/normalize-filename.js';
+import stringifyWithSort from '../helpers/stringify-with-sort.js';
 
 const CACHE_FOLDER = './cache';
 
