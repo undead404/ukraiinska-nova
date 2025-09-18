@@ -68,6 +68,7 @@ export class SpotifyService {
     await this.getAccessToken();
 
     try {
+      await delay(500);
       const searchResult = await this.spotifyApi.searchArtists(artistName, {
         limit: 10,
       });
@@ -159,6 +160,7 @@ export class SpotifyService {
     try {
       while (hasMore) {
         let items: SpotifyApi.AlbumObjectSimplified[] = [];
+        await delay(500);
         const response = await this.spotifyApi.getArtistAlbums(artistId, {
           country: options.country || 'UA',
           limit,
@@ -190,24 +192,13 @@ export class SpotifyService {
     return releases;
   }
 
-  async getArtist(artistId: string): Promise<SpotifyApi.ArtistObjectFull> {
-    await this.getAccessToken();
-
-    try {
-      const artist = await this.spotifyApi.getArtist(artistId);
-      return artist.body;
-    } catch (error) {
-      console.error('Помилка отримання інформації про артиста:', error);
-      throw error;
-    }
-  }
-
   private async getArtists(
     artistsIds: string[],
   ): Promise<SpotifyApi.ArtistObjectFull[]> {
     await this.getAccessToken();
 
     try {
+      await delay(500);
       const artist = await this.spotifyApi.getArtists(artistsIds);
       return artist.body.artists;
     } catch (error) {
