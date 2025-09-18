@@ -1,5 +1,7 @@
 import { mkdir, readFile, stat, writeFile } from 'node:fs/promises';
 
+import stringifyWithSort from 'src/helpers/stringify-with-sort.js';
+
 import normalizeFilename from '../helpers/normalize-filename.js';
 
 const CACHE_FOLDER = './cache';
@@ -40,7 +42,7 @@ export async function writeToFileCache<T>(
 
   await writeFile(
     filePath,
-    JSON.stringify({ data, endDate }, undefined, 2),
+    stringifyWithSort({ data, endDate }, { space: 2 }),
     'utf8',
   );
 }

@@ -75,6 +75,11 @@ export default defineConfig(
     rules: {
       ...vitest.configs.recommended.rules,
       '@typescript-eslint/no-explicit-any': 'off',
+      // eslint-disable-next-line sonarjs/no-hardcoded-passwords
+      'sonarjs/no-hardcoded-passwords': 'off',
+      'unicorn/consistent-function-scoping': 'off',
+      'unicorn/no-null': 'off',
+      'unicorn/no-useless-undefined': 'off',
     },
   },
   {
