@@ -1,0 +1,74 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:26:13.651Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Viter"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731946db851f7e2b11cdf488bb",
+    "releaseDate": "2016-03-01",
+    "title": "V!",
+    "totalTracks": 40,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0BsoTn9FgOEF4eYX9XziMo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:26:13.651Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Viter"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735d0094c728c3eca51a9f064d",
+    "releaseDate": "2013-07-15",
+    "title": "Vesna",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3qloI8h73pnPGwCumnmDxg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:26:13.651Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Viter"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27389311212bda0e738c4b5e6a5",
+    "releaseDate": "2012-07-26",
+    "title": "Springtime",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/185lHZY0cN3e9cumQyVNEK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:26:13.651Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Viter"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735c1761d0dff81aee6b0c8fdb",
+    "releaseDate": "2010-08-20",
+    "title": "Dzherelo",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1AY1DeynK0ucRsQTDWU7N5"
+  }
+]

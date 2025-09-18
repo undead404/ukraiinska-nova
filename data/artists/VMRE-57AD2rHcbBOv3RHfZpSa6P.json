@@ -1,0 +1,74 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:26:26.279Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VMRE"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27372c4de34c6ecb5ae12b9dac1",
+    "releaseDate": "2024-03-08",
+    "title": "СИСТЕМИ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2ZTkPD3MY52LHZeujF7wC6"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:26:26.279Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VMRE"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ead22bdda82bf0113ea2ba99",
+    "releaseDate": "2023-12-22",
+    "title": "DOA",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6H2WbzyTRxP4IJn0Zjc9ge"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:26:26.279Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VMRE"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c749e87d35a2d16e134d0e22",
+    "releaseDate": "2023-12-01",
+    "title": "MIA",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/45ehXoyGzfis1BjptC5ZiB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:26:26.279Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VMRE"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d078aea05448c1bc0e0b46c4",
+    "releaseDate": "2023-09-30",
+    "title": "DON'T BLINK",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7KjlSwRCSXdxIIfQVCsOWS"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:22:30.454Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Забавка"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730a226ad1685f00a5ede043ce",
+    "releaseDate": "2023-08-23",
+    "title": "Коріння",
+    "totalTracks": 16,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4HRgFLnxhnp01Tj1qb4DuZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:22:30.454Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Забавка"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a36dbfb4bee3daf71d663aa0",
+    "releaseDate": "2022-03-23",
+    "title": "Колискові",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5vVY2c1rn8BWPipnIOlX2a"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:22:30.454Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Забавка",
+      "eatyou"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27302b8bdde3e1fb2784e3bd359",
+    "releaseDate": "2024-08-15",
+    "title": "Віночок (eatyou remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6Q1pH8ttfoSCOHJ5FytfiG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:22:30.454Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Забавка"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d561b7fd4f7dff8ee76cd364",
+    "releaseDate": "2024-07-19",
+    "title": "Дівчина-вода",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2wWOYghWeTXspNZ7n7gr6y"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:22:30.454Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Забавка"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ecdb636a88c2c50361b8966d",
+    "releaseDate": "2022-04-27",
+    "title": "Віночок",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1u6CXCdyKaW5Gysn5EiQeP"
+  }
+]

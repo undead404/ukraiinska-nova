@@ -1,0 +1,74 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:26:03.605Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "sho4k"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ff9414c57c98a4ce6705d668",
+    "releaseDate": "2025-08-08",
+    "title": "плинність",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6rdVPgdUW1UmlQ6Fwdu7fU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:26:03.605Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "sho4k"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c66db471cab89e3b053bc7ff",
+    "releaseDate": "2024-02-16",
+    "title": "небосхил",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/51Xlk89xx2WvgcDw1s2oRn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:26:03.605Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "sho4k"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a243cf45df6d29c956238eec",
+    "releaseDate": "2023-01-30",
+    "title": "втома",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/40P8h8SuaJRVuznlG49uPl"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:26:03.605Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "sho4k"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27303fcda182e494a042e27c459",
+    "releaseDate": "2025-08-01",
+    "title": "river flow",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6WfcULp4no5ut5xM3ZbDj6"
+  }
+]

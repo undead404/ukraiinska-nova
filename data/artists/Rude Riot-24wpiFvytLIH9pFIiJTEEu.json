@@ -1,0 +1,56 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:26:01.702Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Rude Riot"
+    ],
+    "artistsPopularity": 13,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27383803b7bc19e310349a66267",
+    "releaseDate": "2017-06-20",
+    "title": "Dishonor",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/29StPq69DyQRwRiuL4u6UY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:26:01.702Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Rude Riot"
+    ],
+    "artistsPopularity": 13,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739529c3a869272b80336331bd",
+    "releaseDate": "2012-07-16",
+    "title": "Voice of Glory",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1vY0HLHyEv7MCbX8P5SztH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:26:01.702Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Rude Riot"
+    ],
+    "artistsPopularity": 13,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27360f90d7655ead62bd0545f36",
+    "releaseDate": "2020-12-29",
+    "title": "Полiцейське Свавiлля",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6i5sGDe9iMPxyCraL8ixxB"
+  }
+]
