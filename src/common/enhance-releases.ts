@@ -7,7 +7,6 @@ export default function enhanceReleases(
   lastfmApiKey: string,
   releases: MusicRelease[],
 ): Promise<EnhancedMusicRelease[]> {
-  console.log('enhanceReleases');
   return Promise.all(
     releases.map(async (release) => ({
       ...release,

@@ -1,143 +1,125 @@
 [
   {
-    "artists": [
-      "CrossChains"
-    ],
+    "artists": ["CrossChains"],
     "artistsPopularity": 8,
-    "title": "Deathgrip",
-    "releaseDate": "2024-02-23",
-    "type": "album",
-    "totalTracks": 11,
-    "url": "https://open.spotify.com/album/38bmyU6yweI7i4eGoVzyOd",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739380dad6e64762221c527963",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:13.398Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "Garmata Syndicate",
-      "CrossChains"
-    ],
-    "artistsPopularity": 10,
-    "title": "Ікла",
-    "releaseDate": "2025-07-18",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6wPLY1CPN6OFnAXd2ejoXJ",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273efa78586160d4881f8630c79",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:13.398Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "CrossChains",
-      "Гоня"
-    ],
-    "artistsPopularity": 34,
-    "title": "Внутрішній ворог",
-    "releaseDate": "2025-03-06",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1HhB8lcPhOceqMsWhXrPjf",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730dc8926b4662f809610c1563",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:13.398Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "CrossChains"
-    ],
-    "artistsPopularity": 8,
-    "title": "Get Over feat. Denis Stoff",
-    "releaseDate": "2023-12-01",
-    "type": "single",
-    "totalTracks": 3,
-    "url": "https://open.spotify.com/album/5OxfVvq3XWtoZa29rufQP8",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733085e5fcdb7acc1eaad2ba84",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:13.398Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "CrossChains"
-    ],
-    "artistsPopularity": 8,
-    "title": "Velych (Reimagined)",
-    "releaseDate": "2023-02-24",
-    "type": "single",
-    "totalTracks": 2,
-    "url": "https://open.spotify.com/album/2GlQtd0uHVd4bYH2ACs73a",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732e69a30d4b44ec33865df41d",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:13.398Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "CrossChains"
-    ],
-    "artistsPopularity": 8,
-    "title": "Velych",
-    "releaseDate": "2022-07-29",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2gD8o3e7q3eUBf1cHVbM9p",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dbf6bdeed937ab10b8463c3e",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:13.398Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "CrossChains"
-    ],
-    "artistsPopularity": 8,
-    "title": "Immrtl",
-    "releaseDate": "2020-12-06",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/30C2rdcdnUkQKlQzn5p3PC",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273de6bc3e3917982edf6dff0da",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:13.398Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "CrossChains"
-    ],
-    "artistsPopularity": 8,
+    "releaseDate": "2024-02-23",
     "title": "Deathgrip",
-    "releaseDate": "2020-10-22",
-    "type": "single",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/38bmyU6yweI7i4eGoVzyOd",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:13.398Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Garmata Syndicate", "CrossChains"],
+    "artistsPopularity": 10,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273efa78586160d4881f8630c79",
+    "releaseDate": "2025-07-18",
+    "title": "Ікла",
     "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1WcIUCUFAsQTMM77AObXW3",
+    "type": "single",
+    "url": "https://open.spotify.com/album/6wPLY1CPN6OFnAXd2ejoXJ",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:13.398Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["CrossChains", "Гоня"],
+    "artistsPopularity": 34,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730dc8926b4662f809610c1563",
+    "releaseDate": "2025-03-06",
+    "title": "Внутрішній ворог",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1HhB8lcPhOceqMsWhXrPjf",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:13.398Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["CrossChains"],
+    "artistsPopularity": 8,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733085e5fcdb7acc1eaad2ba84",
+    "releaseDate": "2023-12-01",
+    "title": "Get Over feat. Denis Stoff",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5OxfVvq3XWtoZa29rufQP8",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:13.398Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["CrossChains"],
+    "artistsPopularity": 8,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732e69a30d4b44ec33865df41d",
+    "releaseDate": "2023-02-24",
+    "title": "Velych (Reimagined)",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2GlQtd0uHVd4bYH2ACs73a",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:13.398Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["CrossChains"],
+    "artistsPopularity": 8,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dbf6bdeed937ab10b8463c3e",
+    "releaseDate": "2022-07-29",
+    "title": "Velych",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2gD8o3e7q3eUBf1cHVbM9p",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:13.398Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["CrossChains"],
+    "artistsPopularity": 8,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273de6bc3e3917982edf6dff0da",
+    "releaseDate": "2020-12-06",
+    "title": "Immrtl",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/30C2rdcdnUkQKlQzn5p3PC",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:13.398Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["CrossChains"],
+    "artistsPopularity": 8,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730861bbc487ab74fbd231ca8d",
+    "releaseDate": "2020-10-22",
+    "title": "Deathgrip",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1WcIUCUFAsQTMM77AObXW3",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:13.398Z",

@@ -1,16 +1,13 @@
 [
   {
-    "artists": [
-      "KOZAK SIROMAHA",
-      "Gordiy Starukh"
-    ],
+    "artists": ["KOZAK SIROMAHA", "Gordiy Starukh"],
     "artistsPopularity": 44,
-    "title": "Vytynanka",
-    "releaseDate": "2024-08-22",
-    "type": "album",
-    "totalTracks": 10,
-    "url": "https://open.spotify.com/album/5ssZ3g2BGS8HUS5Ravf4wu",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273df5b8e73428808ed5a398ee7",
+    "releaseDate": "2024-08-22",
+    "title": "Vytynanka",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5ssZ3g2BGS8HUS5Ravf4wu",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:28.512Z",
@@ -19,17 +16,14 @@
     ]
   },
   {
-    "artists": [
-      "KOZAK SIROMAHA",
-      "SIROMAG"
-    ],
+    "artists": ["KOZAK SIROMAHA", "SIROMAG"],
     "artistsPopularity": 44,
-    "title": "Нормально",
-    "releaseDate": "2025-08-27",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3aUP6QoTa0us1U1z4j47PM",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273695906c8beaaf66849e9bbab",
+    "releaseDate": "2025-08-27",
+    "title": "Нормально",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3aUP6QoTa0us1U1z4j47PM",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:28.512Z",
@@ -38,17 +32,14 @@
     ]
   },
   {
-    "artists": [
-      "SUROV",
-      "KOZAK SIROMAHA"
-    ],
+    "artists": ["SUROV", "KOZAK SIROMAHA"],
     "artistsPopularity": 44,
-    "title": "Останній аргумент",
-    "releaseDate": "2025-07-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2iwAoMT1W5vj9eXVEbgBsU",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a9f72798eccce1471c2da3e0",
+    "releaseDate": "2025-07-24",
+    "title": "Останній аргумент",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2iwAoMT1W5vj9eXVEbgBsU",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:28.512Z",
@@ -57,16 +48,14 @@
     ]
   },
   {
-    "artists": [
-      "KOZAK SIROMAHA"
-    ],
+    "artists": ["KOZAK SIROMAHA"],
     "artistsPopularity": 44,
-    "title": "Моя люба",
-    "releaseDate": "2025-07-10",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1EcIypDlG92I17mZjgh2ha",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ad50153222db8820d2f3c515",
+    "releaseDate": "2025-07-10",
+    "title": "Моя люба",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1EcIypDlG92I17mZjgh2ha",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:28.512Z",
@@ -75,16 +64,14 @@
     ]
   },
   {
-    "artists": [
-      "KOZAK SIROMAHA"
-    ],
+    "artists": ["KOZAK SIROMAHA"],
     "artistsPopularity": 44,
-    "title": "Зі Сталі",
-    "releaseDate": "2025-06-12",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5w96yauLgfLS8AwqG92kMr",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c5ad66456a25aef811acab76",
+    "releaseDate": "2025-06-12",
+    "title": "Зі Сталі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5w96yauLgfLS8AwqG92kMr",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:28.512Z",
@@ -93,16 +80,14 @@
     ]
   },
   {
-    "artists": [
-      "KOZAK SIROMAHA"
-    ],
+    "artists": ["KOZAK SIROMAHA"],
     "artistsPopularity": 44,
-    "title": "Вірний друг",
-    "releaseDate": "2025-04-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5fSVQQWXuJU3jobKns1n0D",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735abf9c5ad4a2035672899277",
+    "releaseDate": "2025-04-24",
+    "title": "Вірний друг",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5fSVQQWXuJU3jobKns1n0D",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:28.512Z",
@@ -111,16 +96,14 @@
     ]
   },
   {
-    "artists": [
-      "KOZAK SIROMAHA"
-    ],
+    "artists": ["KOZAK SIROMAHA"],
     "artistsPopularity": 44,
-    "title": "Колесо",
-    "releaseDate": "2025-02-27",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2PVBAfwF13LMjDTyGjyTtn",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ec15013503d1e556b689ae26",
+    "releaseDate": "2025-02-27",
+    "title": "Колесо",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2PVBAfwF13LMjDTyGjyTtn",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:28.512Z",
@@ -129,16 +112,14 @@
     ]
   },
   {
-    "artists": [
-      "KOZAK SIROMAHA"
-    ],
+    "artists": ["KOZAK SIROMAHA"],
     "artistsPopularity": 44,
-    "title": "Заживем",
-    "releaseDate": "2025-01-30",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0plDUYw4hYz0bJKbX16beJ",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731a62b25ae0386aad5d9ced06",
+    "releaseDate": "2025-01-30",
+    "title": "Заживем",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0plDUYw4hYz0bJKbX16beJ",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:28.512Z",
@@ -147,16 +128,14 @@
     ]
   },
   {
-    "artists": [
-      "KOZAK SIROMAHA"
-    ],
+    "artists": ["KOZAK SIROMAHA"],
     "artistsPopularity": 44,
-    "title": "Свято і намисто",
-    "releaseDate": "2024-12-12",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/27QtdKkqoUXI2HAiIKOafI",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27346e9f4786b41f2040a0d3978",
+    "releaseDate": "2024-12-12",
+    "title": "Свято і намисто",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/27QtdKkqoUXI2HAiIKOafI",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:28.512Z",
@@ -165,17 +144,14 @@
     ]
   },
   {
-    "artists": [
-      "KOZAK SIROMAHA",
-      "SUROV"
-    ],
+    "artists": ["KOZAK SIROMAHA", "SUROV"],
     "artistsPopularity": 44,
-    "title": "Ворогам на зло",
-    "releaseDate": "2024-11-28",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2DmzIbjxfBZC2K8h66p4ya",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730d3e0cd9f08ec43f2fe7af7f",
+    "releaseDate": "2024-11-28",
+    "title": "Ворогам на зло",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2DmzIbjxfBZC2K8h66p4ya",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:28.512Z",
@@ -184,17 +160,14 @@
     ]
   },
   {
-    "artists": [
-      "KOZAK SIROMAHA",
-      "Дім Звукозапису"
-    ],
+    "artists": ["KOZAK SIROMAHA", "Дім Звукозапису"],
     "artistsPopularity": 44,
-    "title": "Осідлаю кониченька \"Дім Звукозапису\"",
-    "releaseDate": "2024-11-21",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6UbooN5FI3cPgwDRckPiwi",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731c8466d0e863be85e35cdde2",
+    "releaseDate": "2024-11-21",
+    "title": "Осідлаю кониченька \"Дім Звукозапису\"",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6UbooN5FI3cPgwDRckPiwi",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:28.512Z",
@@ -203,17 +176,14 @@
     ]
   },
   {
-    "artists": [
-      "KOZAK SIROMAHA",
-      "Gordiy Starukh"
-    ],
+    "artists": ["KOZAK SIROMAHA", "Gordiy Starukh"],
     "artistsPopularity": 44,
-    "title": "Balada",
-    "releaseDate": "2024-09-26",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/04bkwjk8lcaEQccRw7N5Nr",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736cc8587675f4e94a754deff4",
+    "releaseDate": "2024-09-26",
+    "title": "Balada",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/04bkwjk8lcaEQccRw7N5Nr",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:28.512Z",
@@ -222,16 +192,14 @@
     ]
   },
   {
-    "artists": [
-      "KOZAK SIROMAHA"
-    ],
+    "artists": ["KOZAK SIROMAHA"],
     "artistsPopularity": 44,
-    "title": "Зоряно",
-    "releaseDate": "2024-08-01",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2fY5aBYXXH5EpB6eVrKOpE",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735ebb457c09805596197b8607",
+    "releaseDate": "2024-08-01",
+    "title": "Зоряно",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2fY5aBYXXH5EpB6eVrKOpE",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:28.512Z",
@@ -240,17 +208,14 @@
     ]
   },
   {
-    "artists": [
-      "KOZAK SIROMAHA",
-      "Trimbeater"
-    ],
+    "artists": ["KOZAK SIROMAHA", "Trimbeater"],
     "artistsPopularity": 44,
-    "title": "Останній Маяк (Trimbeater rmx)",
-    "releaseDate": "2024-07-19",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7siXQ5eJgyX7b1crO6Sx7z",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731376b6f10aebb131be3fde95",
+    "releaseDate": "2024-07-19",
+    "title": "Останній Маяк (Trimbeater rmx)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7siXQ5eJgyX7b1crO6Sx7z",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:28.512Z",
@@ -259,16 +224,14 @@
     ]
   },
   {
-    "artists": [
-      "KOZAK SIROMAHA"
-    ],
+    "artists": ["KOZAK SIROMAHA"],
     "artistsPopularity": 44,
-    "title": "Дороги",
-    "releaseDate": "2024-06-20",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7pdo9EpdCjeVRemnphIYGw",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dc94c3fc48b5dddf591e7d4b",
+    "releaseDate": "2024-06-20",
+    "title": "Дороги",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7pdo9EpdCjeVRemnphIYGw",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:28.512Z",
@@ -277,17 +240,14 @@
     ]
   },
   {
-    "artists": [
-      "KOZAK SIROMAHA",
-      "МУЛЬТИТРЕК"
-    ],
+    "artists": ["KOZAK SIROMAHA", "МУЛЬТИТРЕК"],
     "artistsPopularity": 44,
-    "title": "Ватра",
-    "releaseDate": "2024-06-13",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5h37uFgGMFKCJwf66JKDzc",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27334f81cf50a1c09ec5fda5eec",
+    "releaseDate": "2024-06-13",
+    "title": "Ватра",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5h37uFgGMFKCJwf66JKDzc",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:28.512Z",
@@ -296,16 +256,14 @@
     ]
   },
   {
-    "artists": [
-      "KOZAK SIROMAHA"
-    ],
+    "artists": ["KOZAK SIROMAHA"],
     "artistsPopularity": 44,
-    "title": "Козацька",
-    "releaseDate": "2024-05-16",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5aQoCrqsyThgGh02HVINvD",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273914adc1f1daf2de20b27ef0a",
+    "releaseDate": "2024-05-16",
+    "title": "Козацька",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5aQoCrqsyThgGh02HVINvD",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:28.512Z",
@@ -314,16 +272,14 @@
     ]
   },
   {
-    "artists": [
-      "KOZAK SIROMAHA"
-    ],
+    "artists": ["KOZAK SIROMAHA"],
     "artistsPopularity": 44,
-    "title": "Жорно",
-    "releaseDate": "2024-04-04",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3WnHazBLoGXOIpf7mghy6I",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273699bedd20028c50aa81efea1",
+    "releaseDate": "2024-04-04",
+    "title": "Жорно",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3WnHazBLoGXOIpf7mghy6I",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:28.512Z",
@@ -332,16 +288,14 @@
     ]
   },
   {
-    "artists": [
-      "KOZAK SIROMAHA"
-    ],
+    "artists": ["KOZAK SIROMAHA"],
     "artistsPopularity": 44,
-    "title": "Останній маяк",
-    "releaseDate": "2024-03-07",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2AfIF8CN0kmKcqXl7kqAra",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737ffbf6c403719eaef9cdf34c",
+    "releaseDate": "2024-03-07",
+    "title": "Останній маяк",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2AfIF8CN0kmKcqXl7kqAra",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:28.512Z",
@@ -350,16 +304,14 @@
     ]
   },
   {
-    "artists": [
-      "KOZAK SIROMAHA"
-    ],
+    "artists": ["KOZAK SIROMAHA"],
     "artistsPopularity": 44,
-    "title": "Віра",
-    "releaseDate": "2024-02-15",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1EkN3m86Eo0ivMmhu7xfED",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273158dd16fe2dbcc5c55da978f",
+    "releaseDate": "2024-02-15",
+    "title": "Віра",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1EkN3m86Eo0ivMmhu7xfED",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:28.512Z",
@@ -368,17 +320,14 @@
     ]
   },
   {
-    "artists": [
-      "KOZAK SIROMAHA",
-      "Jerry Heil"
-    ],
+    "artists": ["KOZAK SIROMAHA", "Jerry Heil"],
     "artistsPopularity": 58,
-    "title": "Зірка",
-    "releaseDate": "2023-12-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/74OLDHO6XJXi3H4M9LGfPc",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733459f202a5c44cabb74afcd8",
+    "releaseDate": "2023-12-24",
+    "title": "Зірка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/74OLDHO6XJXi3H4M9LGfPc",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:28.512Z",
@@ -387,16 +336,14 @@
     ]
   },
   {
-    "artists": [
-      "KOZAK SIROMAHA"
-    ],
+    "artists": ["KOZAK SIROMAHA"],
     "artistsPopularity": 44,
-    "title": "Світ різнокольоровий",
-    "releaseDate": "2023-12-21",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7Hc8u7c5ozuNP9FcqViTIb",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f61098ab64c221d6edf77542",
+    "releaseDate": "2023-12-21",
+    "title": "Світ різнокольоровий",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7Hc8u7c5ozuNP9FcqViTIb",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:28.512Z",
@@ -405,17 +352,14 @@
     ]
   },
   {
-    "artists": [
-      "KOZAK SIROMAHA",
-      "KALUSH"
-    ],
+    "artists": ["KOZAK SIROMAHA", "KALUSH"],
     "artistsPopularity": 51,
-    "title": "Сіромаха",
-    "releaseDate": "2023-11-16",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0lhW5FdxAaWhCY8RWCwQHt",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d03b7c1001ea3c37aba32224",
+    "releaseDate": "2023-11-16",
+    "title": "Сіромаха",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0lhW5FdxAaWhCY8RWCwQHt",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:28.512Z",
@@ -424,16 +368,14 @@
     ]
   },
   {
-    "artists": [
-      "KOZAK SIROMAHA"
-    ],
+    "artists": ["KOZAK SIROMAHA"],
     "artistsPopularity": 44,
-    "title": "Вистоїмо",
-    "releaseDate": "2023-10-05",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3ZtL0PivpcsSQyHHX0lbdB",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730d367b0b8e7b4606fd7b5ecc",
+    "releaseDate": "2023-10-05",
+    "title": "Вистоїмо",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3ZtL0PivpcsSQyHHX0lbdB",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:28.512Z",
@@ -442,16 +384,14 @@
     ]
   },
   {
-    "artists": [
-      "KOZAK SIROMAHA"
-    ],
+    "artists": ["KOZAK SIROMAHA"],
     "artistsPopularity": 44,
-    "title": "За високими горами",
-    "releaseDate": "2023-07-27",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2TJGBYYCeWdaPI0ROYfUYm",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27351144bf78d4bf4332478586f",
+    "releaseDate": "2023-07-27",
+    "title": "За високими горами",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2TJGBYYCeWdaPI0ROYfUYm",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:28.512Z",
@@ -460,16 +400,14 @@
     ]
   },
   {
-    "artists": [
-      "KOZAK SIROMAHA"
-    ],
+    "artists": ["KOZAK SIROMAHA"],
     "artistsPopularity": 44,
-    "title": "Ворога поборемо",
-    "releaseDate": "2023-04-27",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4YIWVRB0CJe1HZU6xRjchr",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735881fa9ef78e644dc0f69e89",
+    "releaseDate": "2023-04-27",
+    "title": "Ворога поборемо",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4YIWVRB0CJe1HZU6xRjchr",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:28.512Z",
@@ -478,16 +416,14 @@
     ]
   },
   {
-    "artists": [
-      "KOZAK SIROMAHA"
-    ],
+    "artists": ["KOZAK SIROMAHA"],
     "artistsPopularity": 44,
-    "title": "Ну ж бо",
-    "releaseDate": "2023-03-02",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6BjdJPbOv3xGfl444dehmc",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738f4b6cb45baf64909c581028",
+    "releaseDate": "2023-03-02",
+    "title": "Ну ж бо",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6BjdJPbOv3xGfl444dehmc",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:28.512Z",
@@ -496,16 +432,14 @@
     ]
   },
   {
-    "artists": [
-      "KOZAK SIROMAHA"
-    ],
+    "artists": ["KOZAK SIROMAHA"],
     "artistsPopularity": 44,
-    "title": "Засвіт встали козаченьки",
-    "releaseDate": "2023-02-02",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2tjN45WKO5qC4YDrrIuJiT",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f69052b1377e2aa210e7487e",
+    "releaseDate": "2023-02-02",
+    "title": "Засвіт встали козаченьки",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2tjN45WKO5qC4YDrrIuJiT",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:28.512Z",
@@ -514,16 +448,14 @@
     ]
   },
   {
-    "artists": [
-      "KOZAK SIROMAHA"
-    ],
+    "artists": ["KOZAK SIROMAHA"],
     "artistsPopularity": 44,
-    "title": "Гуляли",
-    "releaseDate": "2022-12-21",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0muzrgi2i6zjOYu7yUwpWS",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273646bfc4a2f1d1e57aaae3446",
+    "releaseDate": "2022-12-21",
+    "title": "Гуляли",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0muzrgi2i6zjOYu7yUwpWS",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:28.512Z",
@@ -532,18 +464,14 @@
     ]
   },
   {
-    "artists": [
-      "Kalush Orchestra",
-      "KALUSH",
-      "KOZAK SIROMAHA"
-    ],
+    "artists": ["Kalush Orchestra", "KALUSH", "KOZAK SIROMAHA"],
     "artistsPopularity": 51,
-    "title": "Нумо Козаки (Kalush Orchestra feat. KOZAK SIROMAHA)",
-    "releaseDate": "2022-12-02",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2hCnGqnaDbB1IlqIDSopnF",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d01833e4f3bd92962122e71c",
+    "releaseDate": "2022-12-02",
+    "title": "Нумо Козаки (Kalush Orchestra feat. KOZAK SIROMAHA)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2hCnGqnaDbB1IlqIDSopnF",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:28.512Z",

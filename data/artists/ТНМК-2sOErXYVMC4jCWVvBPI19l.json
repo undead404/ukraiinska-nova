@@ -1,15 +1,13 @@
 [
   {
-    "artists": [
-      "ТНМК"
-    ],
+    "artists": ["ТНМК"],
     "artistsPopularity": 40,
-    "title": "ВАТРА black",
-    "releaseDate": "2024-07-26",
-    "type": "album",
-    "totalTracks": 22,
-    "url": "https://open.spotify.com/album/4ub3dpb1hExtTxkwF78gUB",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f63bd6931ce83ac567252d30",
+    "releaseDate": "2024-07-26",
+    "title": "ВАТРА black",
+    "totalTracks": 22,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4ub3dpb1hExtTxkwF78gUB",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:01.093Z",
@@ -18,903 +16,62 @@
     ]
   },
   {
-    "artists": [
-      "Fahot",
-      "ТНМК"
-    ],
+    "artists": ["Fahot", "ТНМК"],
     "artistsPopularity": 40,
-    "title": "Godmode",
-    "releaseDate": "2023-05-12",
-    "type": "album",
-    "totalTracks": 9,
-    "url": "https://open.spotify.com/album/4oO3VvgTLwfz7OOdet3MpA",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ff59b031dca64bcec7bdef2e",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "ТНМК"
-    ],
-    "artistsPopularity": 40,
-    "title": "ВАТРА red",
-    "releaseDate": "2021-12-03",
-    "type": "album",
-    "totalTracks": 20,
-    "url": "https://open.spotify.com/album/2DOOIdeGbBRnReBViUaaDH",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d9d6e2eb0bb3d9ca5958b31f",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "ТНМК"
-    ],
-    "artistsPopularity": 40,
-    "title": "7",
-    "releaseDate": "2018-11-23",
-    "type": "album",
-    "totalTracks": 7,
-    "url": "https://open.spotify.com/album/29XeLbzGSGDXyBTfz8DTRo",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736b78fcad9a83d63a932533b0",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "ТНМК",
-      "оркестр Слобожанський"
-    ],
-    "artistsPopularity": 40,
-    "title": "Симфо хiп-хоп",
-    "releaseDate": "2015-02-14",
-    "type": "album",
-    "totalTracks": 17,
-    "url": "https://open.spotify.com/album/3y0vjqXRzZyzeVwFvUmfAo",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737ead91085aa6a825e7d3058d",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "ТНМК"
-    ],
-    "artistsPopularity": 40,
-    "title": "Дзеркало",
-    "releaseDate": "2014-11-14",
-    "type": "album",
-    "totalTracks": 25,
-    "url": "https://open.spotify.com/album/0MoWTEs9XexLQwRLCBlzqO",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739013922a719b1ae30f631df9",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "ТНМК"
-    ],
-    "artistsPopularity": 40,
-    "title": "С.П.А.М.",
-    "releaseDate": "2010-12-07",
-    "type": "album",
-    "totalTracks": 29,
-    "url": "https://open.spotify.com/album/3MCf6I6FvydBsEOxJOK0F3",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d7132f031ff23dd144cf2d53",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "ТНМК"
-    ],
-    "artistsPopularity": 40,
-    "title": "Сила",
-    "releaseDate": "2005-12-07",
-    "type": "album",
-    "totalTracks": 21,
-    "url": "https://open.spotify.com/album/0Wdj7bx2UqX6f9H7AtP4wI",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27381f76e6bd12d2a79386bc12f",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "ТНМК",
-      "Схід Side"
-    ],
-    "artistsPopularity": 40,
-    "title": "Jazzy (Live)",
-    "releaseDate": "2004-09-18",
-    "type": "album",
-    "totalTracks": 13,
-    "url": "https://open.spotify.com/album/0C9ZWUqYN5zgfadtxrSwtH",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273af69d00e5737663b199a0642",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "ТНМК"
-    ],
-    "artistsPopularity": 40,
-    "title": "Пожежi мiста Вавiлон",
-    "releaseDate": "2004",
-    "type": "album",
-    "totalTracks": 23,
-    "url": "https://open.spotify.com/album/1B8PCXMP8ARUzPVtk9m84J",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c13b3f07b57b831dfc3d4332",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "ТНМК"
-    ],
-    "artistsPopularity": 40,
-    "title": "НєФормат",
-    "releaseDate": "2001-12-01",
-    "type": "album",
-    "totalTracks": 33,
-    "url": "https://open.spotify.com/album/0WWJKrWN5yqJF8FYRn5COn",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735caa32f1f88df78b4dd59b5b",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "ТНМК"
-    ],
-    "artistsPopularity": 40,
-    "title": "Зроби менi xiп-xоп",
-    "releaseDate": "1998-12-01",
-    "type": "album",
-    "totalTracks": 25,
-    "url": "https://open.spotify.com/album/0EpUBDdhepUr5vOh3rm3B9",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273179486a68106fd00c9605cde",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "ТНМК",
-      "Krechet"
-    ],
-    "artistsPopularity": 40,
-    "title": "Аплодуй",
-    "releaseDate": "2025-07-10",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4LNsL1SEC7XVptBXCT2qjs",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273834416a7216aa6915641d148",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "Fahot",
-      "ТНМК"
-    ],
-    "artistsPopularity": 40,
-    "title": "Гроші",
-    "releaseDate": "2025-03-05",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/64pATTXKALcRPejmswrTM2",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736fd2f348f565f7536b291906",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "PROBASS ∆ HARDI",
-      "ТНМК"
-    ],
-    "artistsPopularity": 40,
-    "title": "Хто не падає - той не встає",
-    "releaseDate": "2024-12-12",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/73bmiJ4R49a1gKKFmeUGwU",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c9ef7554309d27ad3e535a36",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "MONATIK",
-      "ТНМК",
-      "OTOY"
-    ],
-    "artistsPopularity": 54,
-    "title": "Спешл",
-    "releaseDate": "2024-04-29",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1Sd5lhWYsMkl9mSEqWUYkw",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27384756fbdcd1bd9a7a62da561",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "Fahot",
-      "ТНМК"
-    ],
-    "artistsPopularity": 40,
-    "title": "Honor",
-    "releaseDate": "2024-03-27",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1BPpwthgHQXRElcB8HKmqc",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b10f0193efc092afde3f2b0a",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "ТНМК"
-    ],
-    "artistsPopularity": 40,
-    "title": "Разом Сильніші",
-    "releaseDate": "2024-03-15",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3F7HA4YJbjYIsA9D5qF9iW",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734f46e72603d343000debc8db",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "ТНМК",
-      "Pianoboy"
-    ],
-    "artistsPopularity": 40,
-    "title": "Легенди",
-    "releaseDate": "2024-03-07",
-    "type": "single",
-    "totalTracks": 2,
-    "url": "https://open.spotify.com/album/7Hj7rxf0p0dmxSesjCu8pq",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b0be4945ca0434558b5c24d6",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "ТНМК",
-      "Jalsomino"
-    ],
-    "artistsPopularity": 40,
-    "title": "Знайди мене (Jalsomino mix)",
-    "releaseDate": "2024-02-02",
-    "type": "single",
-    "totalTracks": 2,
-    "url": "https://open.spotify.com/album/1ujvrcAwoMRsuVHplCgQlS",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734e628219cc9c8e56e7a0f965",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "ТНМК"
-    ],
-    "artistsPopularity": 40,
-    "title": "Знайди мене",
-    "releaseDate": "2023-12-08",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0tyNy0Qg6RCo2vFzSECqo7",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733012b5c42b66c1abbe1fe777",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "ТНМК"
-    ],
-    "artistsPopularity": 40,
-    "title": "Вдома",
-    "releaseDate": "2023-11-03",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6P5q21f24n37mwzPNl9kqH",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c67cb91cf949607a04c13b09",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "ТНМК",
-      "YARMAK",
-      "Jalsomino"
-    ],
-    "artistsPopularity": 53,
-    "title": "++ (Jalsomino Mix)",
-    "releaseDate": "2023-10-27",
-    "type": "single",
-    "totalTracks": 2,
-    "url": "https://open.spotify.com/album/57K63HIQ9Qwt7Gjt6U4J0r",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c04eeff7a2f291f3792954d7",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "ТНМК",
-      "YARMAK"
-    ],
-    "artistsPopularity": 53,
-    "title": "++",
-    "releaseDate": "2023-08-18",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1frapG8j9klPIZvmmHTRI3",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f48ba19d1bd59f4c2c11530",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "ТНМК"
-    ],
-    "artistsPopularity": 40,
-    "title": "Дивись, куди ідеш",
-    "releaseDate": "2023-01-13",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1nxhJt4wOBWm6J8fMZwCof",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27389561231ff55e340455c2947",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "Fahot",
-      "ТНМК"
-    ],
-    "artistsPopularity": 40,
-    "title": "Моя зброя",
-    "releaseDate": "2022-10-14",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/46Vt50Vjs6BZGPNalHjBRf",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273426546f4eac5f29d47325934",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "ТНМК",
-      "Світлана Ройз"
-    ],
-    "artistsPopularity": 40,
-    "title": "Крокуй до укриття",
-    "releaseDate": "2022-10-07",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0lao7iLwCaugr5hYF2kE5v",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f1a24d7445661ab24c1ca31",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "ТНМК"
-    ],
-    "artistsPopularity": 40,
-    "title": "Берег наш",
-    "releaseDate": "2022-09-02",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1if9qGC8Dw2Y2wXjO8ahIt",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab6e6db1a3c98a24d8182766",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "Fahot",
-      "ТНМК"
-    ],
-    "artistsPopularity": 40,
-    "title": "MANTRA",
-    "releaseDate": "2022-08-19",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6vV3HPwpNidQU2NfXYAzTk",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273da07f1af8c7ebba5ffff9930",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "ТНМК"
-    ],
-    "artistsPopularity": 40,
-    "title": "Історія України за 5 хвилин",
-    "releaseDate": "2022-04-01",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3136eahQLLg6TnuCNRqKLV",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27339c6067fa7917fc6972ef40e",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "ТНМК",
-      "Kozak System"
-    ],
-    "artistsPopularity": 41,
-    "title": "Мамо",
-    "releaseDate": "2022-03-18",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5fPAfbWhN8kp3z7kcUB5gV",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737f1a070c3b4340abd4841c31",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "ТНМК"
-    ],
-    "artistsPopularity": 40,
-    "title": "Доми",
-    "releaseDate": "2022-02-25",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/08WurRUBmCjAoSj3Nk02Hq",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f884c26ab8715bfde15bfde8",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "ТНМК"
-    ],
-    "artistsPopularity": 40,
-    "title": "Кольорова (із к/ф \"Я, \"Побєда\" і Берлін\")",
-    "releaseDate": "2022-02-18",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1VCaSN60aP1N9wuwAmRmL8",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a311c7e1338c03c48d636e18",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "ТНМК"
-    ],
-    "artistsPopularity": 40,
-    "title": "Пірати",
-    "releaseDate": "2022-01-21",
-    "type": "single",
-    "totalTracks": 3,
-    "url": "https://open.spotify.com/album/7BTRjsdHqL0mmfhDNUKt0F",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273750124ad507cf923d42e1d7d",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "ТНМК",
-      "Luckie Joe"
-    ],
-    "artistsPopularity": 40,
-    "title": "ПМ’ТЙ (Luckie Joe Remix)",
-    "releaseDate": "2021-10-29",
-    "type": "single",
-    "totalTracks": 2,
-    "url": "https://open.spotify.com/album/3v1MpYpEx313xUiraNegb8",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736f214ade35ce810958221f6c",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "ТНМК"
-    ],
-    "artistsPopularity": 40,
-    "title": "ПМ'ТЙ",
-    "releaseDate": "2021-10-08",
-    "type": "single",
-    "totalTracks": 3,
-    "url": "https://open.spotify.com/album/2yIk3NigJ4F5ydWujuO6Gc",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730fb135151b1f8ebf28cc1821",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "ТНМК"
-    ],
-    "artistsPopularity": 40,
-    "title": "Весну (Radio Edit)",
-    "releaseDate": "2021-03-12",
-    "type": "single",
-    "totalTracks": 4,
-    "url": "https://open.spotify.com/album/5NP0UugIKsw2VUcafIh53V",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a3b642c08158d8b4fa98a992",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "ТНМК"
-    ],
-    "artistsPopularity": 40,
-    "title": "Весну",
-    "releaseDate": "2021-03-05",
-    "type": "single",
-    "totalTracks": 4,
-    "url": "https://open.spotify.com/album/1Frn4nHvLw94niXTJacKtg",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a609ce33a20a9f1207590fe5",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "ТНМК"
-    ],
-    "artistsPopularity": 40,
-    "title": "Контакт (Remixes)",
-    "releaseDate": "2021-02-26",
-    "type": "single",
+    "releaseDate": "2023-05-12",
+    "title": "Godmode",
     "totalTracks": 9,
-    "url": "https://open.spotify.com/album/70PtrSiCEcSXKCs7u0qEQj",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bff69b4a1253325f263dcc9f",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "ТНМК",
-      "Alex Fleev"
-    ],
-    "artistsPopularity": 40,
-    "title": "Хороший рік / Поганий рік (Alex Fleev Remix)",
-    "releaseDate": "2021-01-22",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5K4DNB810qYP9fFUyK2j6r",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734c4b431dcb5c0b8cdbc067a2",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "ТНМК",
-      "Luckie Joe"
-    ],
-    "artistsPopularity": 40,
-    "title": "Хороший рік / Поганий рік (Luckie Joe Remix)",
-    "releaseDate": "2021-01-04",
-    "type": "single",
-    "totalTracks": 2,
-    "url": "https://open.spotify.com/album/44v5pbBDxbIKQYMobFZ98L",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a59ad7237484882c6d494497",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "ТНМК",
-      "Bakun"
-    ],
-    "artistsPopularity": 40,
-    "title": "Хороший рік / Поганий рік (Bakun Remix)",
-    "releaseDate": "2020-12-24",
-    "type": "single",
-    "totalTracks": 2,
-    "url": "https://open.spotify.com/album/1JaR98QDr0ZlbbPBncYYSe",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731fe37e7ccca5bfd7b35fca34",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "ТНМК"
-    ],
-    "artistsPopularity": 40,
-    "title": "Хороший рік / Поганий рік",
-    "releaseDate": "2020-12-11",
-    "type": "single",
-    "totalTracks": 3,
-    "url": "https://open.spotify.com/album/5KkSZ6jLpmZGq06ersRMTn",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ca96ef30ce31e94f9eb38149",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "ТНМК"
-    ],
-    "artistsPopularity": 40,
-    "title": "Контакт",
-    "releaseDate": "2020-09-11",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0RB86Mr0rfW2eFPINpJTIy",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735f4a96e9d04b1f378ca240a7",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "Ya Tatko",
-      "ТНМК"
-    ],
-    "artistsPopularity": 40,
-    "title": "Zroby Meni Hip Hop (Remix)",
-    "releaseDate": "2020-06-25",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/67VRa6mf9ch3HCk4irOzOq",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732688d1f29eb474e8613f6ac4",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "ТНМК"
-    ],
-    "artistsPopularity": 40,
-    "title": "Прокачай",
-    "releaseDate": "2019-10-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2EIjxN1bH2u7iEIeE5PGsy",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ba57d6ead9f40a5bee77c06c",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "ТНМК"
-    ],
-    "artistsPopularity": 40,
-    "title": "Великі Вуйки",
-    "releaseDate": "2019-10-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1gW3FSL1XdBifZFkLxuCEL",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734481b8386ce35139351f0bac",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "ТНМК"
-    ],
-    "artistsPopularity": 40,
-    "title": "Ми смішили Бога",
-    "releaseDate": "2019-06-14",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4ECjoVYvDcMO4OIqIM8jbQ",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732415021a9508e4bb3b44edb4",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "Artem Pivovarov"
-    ],
-    "artistsPopularity": 52,
-    "title": "Твої Вірші, Мої Ноти PT.2",
-    "releaseDate": "2024-11-29",
     "type": "album",
+    "url": "https://open.spotify.com/album/4oO3VvgTLwfz7OOdet3MpA",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ТНМК"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d9d6e2eb0bb3d9ca5958b31f",
+    "releaseDate": "2021-12-03",
+    "title": "ВАТРА red",
+    "totalTracks": 20,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2DOOIdeGbBRnReBViUaaDH",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ТНМК"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736b78fcad9a83d63a932533b0",
+    "releaseDate": "2018-11-23",
+    "title": "7",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/29XeLbzGSGDXyBTfz8DTRo",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ТНМК", "оркестр Слобожанський"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737ead91085aa6a825e7d3058d",
+    "releaseDate": "2015-02-14",
+    "title": "Симфо хiп-хоп",
     "totalTracks": 17,
-    "url": "https://open.spotify.com/album/4NYbJJwI4ylj4DLOTuhD1E",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273da8ca6a4ac932845282b0aac",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "Mgzavrebi"
-    ],
-    "artistsPopularity": 42,
-    "title": "Second Album",
-    "releaseDate": "2011-12-17",
     "type": "album",
-    "totalTracks": 15,
-    "url": "https://open.spotify.com/album/7Gr15fqnPGd3ZaJTtS3THL",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27329745bdf122d6700cb3f155d",
+    "url": "https://open.spotify.com/album/3y0vjqXRzZyzeVwFvUmfAo",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:01.093Z",
@@ -923,34 +80,750 @@
     ]
   },
   {
-    "artists": [
-      "VSE.SVIT"
-    ],
-    "artistsPopularity": 1,
-    "title": "#1",
-    "releaseDate": "2016-07-27",
-    "type": "single",
-    "totalTracks": 3,
-    "url": "https://open.spotify.com/album/4gamrIPahSURDcneSpYfOy",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27317059db185c1247d731a4a1b",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:01.093Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "Диджей Ларин"
-    ],
-    "artistsPopularity": 0,
-    "title": "Jazz-Hop",
-    "releaseDate": "2016-04-30",
+    "artists": ["ТНМК"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739013922a719b1ae30f631df9",
+    "releaseDate": "2014-11-14",
+    "title": "Дзеркало",
+    "totalTracks": 25,
     "type": "album",
+    "url": "https://open.spotify.com/album/0MoWTEs9XexLQwRLCBlzqO",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ТНМК"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d7132f031ff23dd144cf2d53",
+    "releaseDate": "2010-12-07",
+    "title": "С.П.А.М.",
+    "totalTracks": 29,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3MCf6I6FvydBsEOxJOK0F3",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ТНМК"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27381f76e6bd12d2a79386bc12f",
+    "releaseDate": "2005-12-07",
+    "title": "Сила",
     "totalTracks": 21,
-    "url": "https://open.spotify.com/album/6p7mnuoM9E8an425rjZNOm",
+    "type": "album",
+    "url": "https://open.spotify.com/album/0Wdj7bx2UqX6f9H7AtP4wI",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ТНМК", "Схід Side"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273af69d00e5737663b199a0642",
+    "releaseDate": "2004-09-18",
+    "title": "Jazzy (Live)",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0C9ZWUqYN5zgfadtxrSwtH",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ТНМК"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c13b3f07b57b831dfc3d4332",
+    "releaseDate": "2004",
+    "title": "Пожежi мiста Вавiлон",
+    "totalTracks": 23,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1B8PCXMP8ARUzPVtk9m84J",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ТНМК"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735caa32f1f88df78b4dd59b5b",
+    "releaseDate": "2001-12-01",
+    "title": "НєФормат",
+    "totalTracks": 33,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0WWJKrWN5yqJF8FYRn5COn",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ТНМК"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273179486a68106fd00c9605cde",
+    "releaseDate": "1998-12-01",
+    "title": "Зроби менi xiп-xоп",
+    "totalTracks": 25,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0EpUBDdhepUr5vOh3rm3B9",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ТНМК", "Krechet"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273834416a7216aa6915641d148",
+    "releaseDate": "2025-07-10",
+    "title": "Аплодуй",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4LNsL1SEC7XVptBXCT2qjs",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Fahot", "ТНМК"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736fd2f348f565f7536b291906",
+    "releaseDate": "2025-03-05",
+    "title": "Гроші",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/64pATTXKALcRPejmswrTM2",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["PROBASS ∆ HARDI", "ТНМК"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c9ef7554309d27ad3e535a36",
+    "releaseDate": "2024-12-12",
+    "title": "Хто не падає - той не встає",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/73bmiJ4R49a1gKKFmeUGwU",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["MONATIK", "ТНМК", "OTOY"],
+    "artistsPopularity": 54,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27384756fbdcd1bd9a7a62da561",
+    "releaseDate": "2024-04-29",
+    "title": "Спешл",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1Sd5lhWYsMkl9mSEqWUYkw",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Fahot", "ТНМК"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b10f0193efc092afde3f2b0a",
+    "releaseDate": "2024-03-27",
+    "title": "Honor",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1BPpwthgHQXRElcB8HKmqc",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ТНМК"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734f46e72603d343000debc8db",
+    "releaseDate": "2024-03-15",
+    "title": "Разом Сильніші",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3F7HA4YJbjYIsA9D5qF9iW",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ТНМК", "Pianoboy"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b0be4945ca0434558b5c24d6",
+    "releaseDate": "2024-03-07",
+    "title": "Легенди",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7Hj7rxf0p0dmxSesjCu8pq",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ТНМК", "Jalsomino"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734e628219cc9c8e56e7a0f965",
+    "releaseDate": "2024-02-02",
+    "title": "Знайди мене (Jalsomino mix)",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1ujvrcAwoMRsuVHplCgQlS",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ТНМК"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733012b5c42b66c1abbe1fe777",
+    "releaseDate": "2023-12-08",
+    "title": "Знайди мене",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0tyNy0Qg6RCo2vFzSECqo7",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ТНМК"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c67cb91cf949607a04c13b09",
+    "releaseDate": "2023-11-03",
+    "title": "Вдома",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6P5q21f24n37mwzPNl9kqH",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ТНМК", "YARMAK", "Jalsomino"],
+    "artistsPopularity": 53,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c04eeff7a2f291f3792954d7",
+    "releaseDate": "2023-10-27",
+    "title": "++ (Jalsomino Mix)",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/57K63HIQ9Qwt7Gjt6U4J0r",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ТНМК", "YARMAK"],
+    "artistsPopularity": 53,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f48ba19d1bd59f4c2c11530",
+    "releaseDate": "2023-08-18",
+    "title": "++",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1frapG8j9klPIZvmmHTRI3",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ТНМК"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27389561231ff55e340455c2947",
+    "releaseDate": "2023-01-13",
+    "title": "Дивись, куди ідеш",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1nxhJt4wOBWm6J8fMZwCof",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Fahot", "ТНМК"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273426546f4eac5f29d47325934",
+    "releaseDate": "2022-10-14",
+    "title": "Моя зброя",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/46Vt50Vjs6BZGPNalHjBRf",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ТНМК", "Світлана Ройз"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f1a24d7445661ab24c1ca31",
+    "releaseDate": "2022-10-07",
+    "title": "Крокуй до укриття",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0lao7iLwCaugr5hYF2kE5v",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ТНМК"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab6e6db1a3c98a24d8182766",
+    "releaseDate": "2022-09-02",
+    "title": "Берег наш",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1if9qGC8Dw2Y2wXjO8ahIt",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Fahot", "ТНМК"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273da07f1af8c7ebba5ffff9930",
+    "releaseDate": "2022-08-19",
+    "title": "MANTRA",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6vV3HPwpNidQU2NfXYAzTk",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ТНМК"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27339c6067fa7917fc6972ef40e",
+    "releaseDate": "2022-04-01",
+    "title": "Історія України за 5 хвилин",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3136eahQLLg6TnuCNRqKLV",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ТНМК", "Kozak System"],
+    "artistsPopularity": 41,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737f1a070c3b4340abd4841c31",
+    "releaseDate": "2022-03-18",
+    "title": "Мамо",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5fPAfbWhN8kp3z7kcUB5gV",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ТНМК"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f884c26ab8715bfde15bfde8",
+    "releaseDate": "2022-02-25",
+    "title": "Доми",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/08WurRUBmCjAoSj3Nk02Hq",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ТНМК"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a311c7e1338c03c48d636e18",
+    "releaseDate": "2022-02-18",
+    "title": "Кольорова (із к/ф \"Я, \"Побєда\" і Берлін\")",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1VCaSN60aP1N9wuwAmRmL8",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ТНМК"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273750124ad507cf923d42e1d7d",
+    "releaseDate": "2022-01-21",
+    "title": "Пірати",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7BTRjsdHqL0mmfhDNUKt0F",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ТНМК", "Luckie Joe"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736f214ade35ce810958221f6c",
+    "releaseDate": "2021-10-29",
+    "title": "ПМ’ТЙ (Luckie Joe Remix)",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3v1MpYpEx313xUiraNegb8",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ТНМК"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730fb135151b1f8ebf28cc1821",
+    "releaseDate": "2021-10-08",
+    "title": "ПМ'ТЙ",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2yIk3NigJ4F5ydWujuO6Gc",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ТНМК"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a3b642c08158d8b4fa98a992",
+    "releaseDate": "2021-03-12",
+    "title": "Весну (Radio Edit)",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5NP0UugIKsw2VUcafIh53V",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ТНМК"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a609ce33a20a9f1207590fe5",
+    "releaseDate": "2021-03-05",
+    "title": "Весну",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1Frn4nHvLw94niXTJacKtg",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ТНМК"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bff69b4a1253325f263dcc9f",
+    "releaseDate": "2021-02-26",
+    "title": "Контакт (Remixes)",
+    "totalTracks": 9,
+    "type": "single",
+    "url": "https://open.spotify.com/album/70PtrSiCEcSXKCs7u0qEQj",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ТНМК", "Alex Fleev"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734c4b431dcb5c0b8cdbc067a2",
+    "releaseDate": "2021-01-22",
+    "title": "Хороший рік / Поганий рік (Alex Fleev Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5K4DNB810qYP9fFUyK2j6r",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ТНМК", "Luckie Joe"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a59ad7237484882c6d494497",
+    "releaseDate": "2021-01-04",
+    "title": "Хороший рік / Поганий рік (Luckie Joe Remix)",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/44v5pbBDxbIKQYMobFZ98L",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ТНМК", "Bakun"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731fe37e7ccca5bfd7b35fca34",
+    "releaseDate": "2020-12-24",
+    "title": "Хороший рік / Поганий рік (Bakun Remix)",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1JaR98QDr0ZlbbPBncYYSe",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ТНМК"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ca96ef30ce31e94f9eb38149",
+    "releaseDate": "2020-12-11",
+    "title": "Хороший рік / Поганий рік",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5KkSZ6jLpmZGq06ersRMTn",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ТНМК"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735f4a96e9d04b1f378ca240a7",
+    "releaseDate": "2020-09-11",
+    "title": "Контакт",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0RB86Mr0rfW2eFPINpJTIy",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Ya Tatko", "ТНМК"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732688d1f29eb474e8613f6ac4",
+    "releaseDate": "2020-06-25",
+    "title": "Zroby Meni Hip Hop (Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/67VRa6mf9ch3HCk4irOzOq",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ТНМК"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ba57d6ead9f40a5bee77c06c",
+    "releaseDate": "2019-10-24",
+    "title": "Прокачай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2EIjxN1bH2u7iEIeE5PGsy",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ТНМК"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734481b8386ce35139351f0bac",
+    "releaseDate": "2019-10-24",
+    "title": "Великі Вуйки",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1gW3FSL1XdBifZFkLxuCEL",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["ТНМК"],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732415021a9508e4bb3b44edb4",
+    "releaseDate": "2019-06-14",
+    "title": "Ми смішили Бога",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4ECjoVYvDcMO4OIqIM8jbQ",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Artem Pivovarov"],
+    "artistsPopularity": 52,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273da8ca6a4ac932845282b0aac",
+    "releaseDate": "2024-11-29",
+    "title": "Твої Вірші, Мої Ноти PT.2",
+    "totalTracks": 17,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4NYbJJwI4ylj4DLOTuhD1E",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Mgzavrebi"],
+    "artistsPopularity": 42,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27329745bdf122d6700cb3f155d",
+    "releaseDate": "2011-12-17",
+    "title": "Second Album",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7Gr15fqnPGd3ZaJTtS3THL",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["VSE.SVIT"],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27317059db185c1247d731a4a1b",
+    "releaseDate": "2016-07-27",
+    "title": "#1",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4gamrIPahSURDcneSpYfOy",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:01.093Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Диджей Ларин"],
+    "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dfafdca6646f3456ed047389",
+    "releaseDate": "2016-04-30",
+    "title": "Jazz-Hop",
+    "totalTracks": 21,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6p7mnuoM9E8an425rjZNOm",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:01.093Z",

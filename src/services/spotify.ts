@@ -40,6 +40,7 @@ export class SpotifyService {
     }
 
     try {
+      console.log('this.spotifyApi.clientCredentialsGrant()');
       const data = await this.spotifyApi.clientCredentialsGrant();
       this.accessToken = data.body.access_token;
       this.tokenExpirationTime = now + data.body.expires_in * 1000 - 60_000; // -1 хвилина для безпеки
@@ -69,6 +70,9 @@ export class SpotifyService {
 
     try {
       await delay(500);
+      console.log(`this.spotifyApi.searchArtists("${artistName}", {
+        limit: 10,
+      })`);
       const searchResult = await this.spotifyApi.searchArtists(artistName, {
         limit: 10,
       });
@@ -122,6 +126,9 @@ export class SpotifyService {
     const releases: MusicRelease[] = [];
     for (const albumsChunk of albumsChunks) {
       await delay(500);
+      console.log(`this.spotifyApi.getAlbums(
+        ${albumsChunk.map(({ id }) => `"${id}"`)},
+      )`);
       const albumResponse = await this.spotifyApi.getAlbums(
         albumsChunk.map(({ id }) => id),
       );
@@ -150,7 +157,6 @@ export class SpotifyService {
     options: ScrapingOptions,
   ): Promise<MusicRelease[]> {
     await this.getAccessToken();
-    console.log('getArtistReleases', artistName, artistId);
 
     const releases: MusicRelease[] = [];
     let offset = 0;
@@ -161,6 +167,11 @@ export class SpotifyService {
       while (hasMore) {
         let items: SpotifyApi.AlbumObjectSimplified[] = [];
         await delay(500);
+        console.log(`this.spotifyApi.getArtistAlbums("${artistId}", {
+          country: "${options.country || 'UA'}",
+          limit: ${limit},
+          offset: ${offset},
+        })`);
         const response = await this.spotifyApi.getArtistAlbums(artistId, {
           country: options.country || 'UA',
           limit,
@@ -192,23 +203,36 @@ export class SpotifyService {
     return releases;
   }
 
-  private async getArtists(
-    artistsIds: string[],
-  ): Promise<SpotifyApi.ArtistObjectFull[]> {
+  private async getArtist(
+    artistId: string,
+  ): Promise<SpotifyApi.ArtistObjectFull> {
     await this.getAccessToken();
 
     try {
       await delay(500);
-      const artist = await this.spotifyApi.getArtists(artistsIds);
-      return artist.body.artists;
+      console.log(`this.spotifyApi.getArtist("${artistId}")`);
+      const artist = await this.spotifyApi.getArtist(artistId);
+      return artist.body;
     } catch (error) {
       console.error('Помилка отримання інформації про артиста:', error);
       throw error;
     }
   }
 
+  private ARTISTS_POPULARITY_CACHE = new Map<string, number>();
+
   private async getArtistsPopularity(artistsIds: string[]): Promise<number> {
-    const artists = await this.getArtists(artistsIds);
-    return Math.max(...artists.map(({ popularity }) => popularity));
+    const popularities = await Promise.all(
+      artistsIds.map(async (artistId) => {
+        const cacheValue = this.ARTISTS_POPULARITY_CACHE.get(artistId);
+        if (cacheValue) {
+          return cacheValue;
+        }
+        const artist = await this.getArtist(artistId);
+        this.ARTISTS_POPULARITY_CACHE.set(artistId, artist.popularity);
+        return artist.popularity;
+      }),
+    );
+    return Math.max(...popularities);
   }
 }

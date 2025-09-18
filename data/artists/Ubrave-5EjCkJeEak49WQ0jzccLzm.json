@@ -1,16 +1,13 @@
 [
   {
-    "artists": [
-      "Оркестр Почесної Варти",
-      "Ubrave"
-    ],
+    "artists": ["Оркестр Почесної Варти", "Ubrave"],
     "artistsPopularity": 3,
-    "title": "Сміливість (Orchestra)",
-    "releaseDate": "2023-12-29",
-    "type": "album",
-    "totalTracks": 12,
-    "url": "https://open.spotify.com/album/7qahCGu2ewfxldCyc1tqg4",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e2a45ddbd22a6a5c8d369bf8",
+    "releaseDate": "2023-12-29",
+    "title": "Сміливість (Orchestra)",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7qahCGu2ewfxldCyc1tqg4",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:46.403Z",
@@ -19,18 +16,14 @@
     ]
   },
   {
-    "artists": [
-      "Ubrave",
-      "Інна Іщенко",
-      "Moisei"
-    ],
+    "artists": ["Ubrave", "Інна Іщенко", "Moisei"],
     "artistsPopularity": 12,
-    "title": "Колискова",
-    "releaseDate": "2024-10-25",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5jnqYRwFPpPXT7hrRXqMbh",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735ab6707e047bd5c946bcb15c",
+    "releaseDate": "2024-10-25",
+    "title": "Колискова",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5jnqYRwFPpPXT7hrRXqMbh",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:46.403Z",
@@ -39,17 +32,14 @@
     ]
   },
   {
-    "artists": [
-      "Ubrave",
-      "PTASHKIN"
-    ],
+    "artists": ["Ubrave", "PTASHKIN"],
     "artistsPopularity": 18,
-    "title": "Невідомий Герой (Live Orchestra)",
-    "releaseDate": "2024-01-26",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6S14sJDbdA8fvTAydwL9n4",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730373e761d5df0ef95eb6414d",
+    "releaseDate": "2024-01-26",
+    "title": "Невідомий Герой (Live Orchestra)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6S14sJDbdA8fvTAydwL9n4",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:46.403Z",
@@ -58,18 +48,14 @@
     ]
   },
   {
-    "artists": [
-      "Ubrave",
-      "БЕЗ ОБМЕЖЕНЬ",
-      "YARMAK"
-    ],
+    "artists": ["Ubrave", "БЕЗ ОБМЕЖЕНЬ", "YARMAK"],
     "artistsPopularity": 53,
-    "title": "Незламність",
-    "releaseDate": "2023-12-06",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3js3Wfst3Do96HURGz6WXg",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a7c7ed4488c1f3b649fab1d4",
+    "releaseDate": "2023-12-06",
+    "title": "Незламність",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3js3Wfst3Do96HURGz6WXg",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:46.403Z",

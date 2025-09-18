@@ -10,7 +10,6 @@ export default function getEarliestReleaseAppearanceTime(
       throw new Error('empty appearanceLog');
     }
     const releaseAppearanceTime = new Date(releaseAppearance.time);
-    console.log(release.title, releaseAppearanceTime);
     if (
       releaseAppearanceTime &&
       (!earliestReleaseAppearanceTime ||

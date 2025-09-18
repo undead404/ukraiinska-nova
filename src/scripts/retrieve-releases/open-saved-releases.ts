@@ -21,7 +21,7 @@ export default async function openSavedReleases(
   artistId: string,
   artistName: string,
 ): Promise<MusicReleaseRecord[]> {
-  console.log(`openSavedReleases ${artistName} (${artistId})`);
+  console.log(`openSavedReleases("${artistId}", "${artistName}")`);
   const filename = normalizeFilename(`${artistName}-${artistId}.json`);
   const filePath = path.join(...RELEASES_DATA_FOLDER, filename);
   try {

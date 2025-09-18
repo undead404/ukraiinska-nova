@@ -1,16 +1,13 @@
 [
   {
-    "artists": [
-      "Nockonsep",
-      "lumosback"
-    ],
+    "artists": ["Nockonsep", "lumosback"],
     "artistsPopularity": 8,
-    "title": "Потвора",
-    "releaseDate": "2024-11-22",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2qvmd9agDvySgNCpirpYMn",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a2c49221c65069c91db5f2e6",
+    "releaseDate": "2024-11-22",
+    "title": "Потвора",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2qvmd9agDvySgNCpirpYMn",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:35.723Z",
@@ -19,17 +16,14 @@
     ]
   },
   {
-    "artists": [
-      "Nockonsep",
-      "lumosback"
-    ],
+    "artists": ["Nockonsep", "lumosback"],
     "artistsPopularity": 8,
-    "title": "Yolo",
-    "releaseDate": "2024-02-23",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7LU88LhUxiTDJBvYuBh1wo",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f26f8623647153750f73a79",
+    "releaseDate": "2024-02-23",
+    "title": "Yolo",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7LU88LhUxiTDJBvYuBh1wo",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:35.723Z",
@@ -38,200 +32,174 @@
     ]
   },
   {
-    "artists": [
-      "Nockonsep"
-    ],
+    "artists": ["Nockonsep"],
     "artistsPopularity": 5,
-    "title": "20:49",
-    "releaseDate": "2023-12-29",
-    "type": "single",
-    "totalTracks": 2,
-    "url": "https://open.spotify.com/album/5mD4pfNcX2U2cL73MtAQvH",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273365a1e8bea5f4c2b758e606e",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:24:35.723Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "Nockonsep"
-    ],
-    "artistsPopularity": 5,
-    "title": "Чутки",
-    "releaseDate": "2023-09-22",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2YO8kbGG1m3JywLGLM1Jbl",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d4527547c3ece7b85041e97e",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:24:35.723Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "Nockonsep"
-    ],
-    "artistsPopularity": 5,
-    "title": "Back (To The) Grounds",
-    "releaseDate": "2023-07-28",
-    "type": "single",
-    "totalTracks": 5,
-    "url": "https://open.spotify.com/album/1pyo2ize87LV1AXagiV4KE",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27341b2d86006f17ab3460cda7a",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:24:35.723Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "Nockonsep"
-    ],
-    "artistsPopularity": 5,
-    "title": "Sin",
-    "releaseDate": "2023-06-23",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6bf0wedwKRiNMSd3MwSK4T",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27349a4c2f7ec1ee1a92bbb9d96",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:24:35.723Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "Nockonsep"
-    ],
-    "artistsPopularity": 5,
-    "title": "Прошу вибачення",
-    "releaseDate": "2023-04-08",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2tZX58YaGknGpqCTKZJq8Q",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a22e3b14228ca3600bda2311",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:24:35.723Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "lumosback",
-      "Nockonsep"
-    ],
-    "artistsPopularity": 8,
-    "title": "Незнайомі",
-    "releaseDate": "2023-03-17",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/17SVAlsz7J1YRt09qEoacO",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a40eba0e1da2ce8552079b5c",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:24:35.723Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "Лінь Бути Людьми",
-      "Nockonsep"
-    ],
-    "artistsPopularity": 5,
-    "title": "Київська Традиція",
-    "releaseDate": "2023-02-15",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7lZbeJxIBRbcDuAptTqhtZ",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736743b8d8938ae1d1f7862e34",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:24:35.723Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "Nockonsep",
-      "AMPLIFIER"
-    ],
-    "artistsPopularity": 5,
-    "title": "Керосин",
-    "releaseDate": "2023-01-20",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/43b4kvH74SUfiAsGeyLj1m",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737332289581a3fbe8ecaf19f8",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:24:35.723Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "Nockonsep"
-    ],
-    "artistsPopularity": 5,
-    "title": "Smbdls",
-    "releaseDate": "2022-12-30",
-    "type": "single",
-    "totalTracks": 4,
-    "url": "https://open.spotify.com/album/1cKXOKrtiqQOojNiG0O1td",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e62a112ed1cbefc1acc28c15",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:24:35.723Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "Nockonsep",
-      "EasyLover"
-    ],
-    "artistsPopularity": 14,
-    "title": "Якого біса?",
-    "releaseDate": "2022-12-09",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3Y4gXDxr1oLpxhiFeAeDCU",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737f630a9b3a4cd9b0a438239d",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:24:35.723Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "Nockonsep"
-    ],
-    "artistsPopularity": 5,
-    "title": "Вірний",
-    "releaseDate": "2022-11-28",
-    "type": "single",
+    "releaseDate": "2023-12-29",
+    "title": "20:49",
     "totalTracks": 2,
-    "url": "https://open.spotify.com/album/0wjS5JSmtCqitQrh7Xrhjh",
+    "type": "single",
+    "url": "https://open.spotify.com/album/5mD4pfNcX2U2cL73MtAQvH",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:24:35.723Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Nockonsep"],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d4527547c3ece7b85041e97e",
+    "releaseDate": "2023-09-22",
+    "title": "Чутки",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2YO8kbGG1m3JywLGLM1Jbl",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:24:35.723Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Nockonsep"],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27341b2d86006f17ab3460cda7a",
+    "releaseDate": "2023-07-28",
+    "title": "Back (To The) Grounds",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1pyo2ize87LV1AXagiV4KE",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:24:35.723Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Nockonsep"],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27349a4c2f7ec1ee1a92bbb9d96",
+    "releaseDate": "2023-06-23",
+    "title": "Sin",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6bf0wedwKRiNMSd3MwSK4T",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:24:35.723Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Nockonsep"],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a22e3b14228ca3600bda2311",
+    "releaseDate": "2023-04-08",
+    "title": "Прошу вибачення",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2tZX58YaGknGpqCTKZJq8Q",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:24:35.723Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["lumosback", "Nockonsep"],
+    "artistsPopularity": 8,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a40eba0e1da2ce8552079b5c",
+    "releaseDate": "2023-03-17",
+    "title": "Незнайомі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/17SVAlsz7J1YRt09qEoacO",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:24:35.723Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Лінь Бути Людьми", "Nockonsep"],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736743b8d8938ae1d1f7862e34",
+    "releaseDate": "2023-02-15",
+    "title": "Київська Традиція",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7lZbeJxIBRbcDuAptTqhtZ",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:24:35.723Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Nockonsep", "AMPLIFIER"],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737332289581a3fbe8ecaf19f8",
+    "releaseDate": "2023-01-20",
+    "title": "Керосин",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/43b4kvH74SUfiAsGeyLj1m",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:24:35.723Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Nockonsep"],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e62a112ed1cbefc1acc28c15",
+    "releaseDate": "2022-12-30",
+    "title": "Smbdls",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1cKXOKrtiqQOojNiG0O1td",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:24:35.723Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Nockonsep", "EasyLover"],
+    "artistsPopularity": 14,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737f630a9b3a4cd9b0a438239d",
+    "releaseDate": "2022-12-09",
+    "title": "Якого біса?",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3Y4gXDxr1oLpxhiFeAeDCU",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:24:35.723Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Nockonsep"],
+    "artistsPopularity": 5,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27349fe60b11692d8c6a4f97d9d",
+    "releaseDate": "2022-11-28",
+    "title": "Вірний",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0wjS5JSmtCqitQrh7Xrhjh",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:35.723Z",
@@ -240,17 +208,14 @@
     ]
   },
   {
-    "artists": [
-      "Nockonsep",
-      "Sad Novelist"
-    ],
+    "artists": ["Nockonsep", "Sad Novelist"],
     "artistsPopularity": 37,
-    "title": "Привід",
-    "releaseDate": "2022-10-14",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7mOViCSv39VQ9mZaoHY4AD",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730af67a4bd3ca28a40dd87d6b",
+    "releaseDate": "2022-10-14",
+    "title": "Привід",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7mOViCSv39VQ9mZaoHY4AD",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:35.723Z",
@@ -259,16 +224,14 @@
     ]
   },
   {
-    "artists": [
-      "Nockonsep"
-    ],
+    "artists": ["Nockonsep"],
     "artistsPopularity": 5,
-    "title": "PC Freestyle",
-    "releaseDate": "2022-09-09",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7h2Io8a6BjRMHXvOkC90Dc",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27383f79cb59d7612bdbfeb0636",
+    "releaseDate": "2022-09-09",
+    "title": "PC Freestyle",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7h2Io8a6BjRMHXvOkC90Dc",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:35.723Z",
@@ -277,17 +240,14 @@
     ]
   },
   {
-    "artists": [
-      "Nockonsep",
-      "drimandr"
-    ],
+    "artists": ["Nockonsep", "drimandr"],
     "artistsPopularity": 23,
-    "title": "Світанок",
-    "releaseDate": "2022-08-12",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0G4Te1Dm3VyI72XhnlIIgT",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c80b5c334c0b198962753eac",
+    "releaseDate": "2022-08-12",
+    "title": "Світанок",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0G4Te1Dm3VyI72XhnlIIgT",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:35.723Z",
@@ -296,16 +256,14 @@
     ]
   },
   {
-    "artists": [
-      "Nockonsep"
-    ],
+    "artists": ["Nockonsep"],
     "artistsPopularity": 5,
-    "title": "Професор",
-    "releaseDate": "2022-07-22",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2Qs0glz1rv02RIiEHepkn1",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c06dc1b7e36eb17930a2f79c",
+    "releaseDate": "2022-07-22",
+    "title": "Професор",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2Qs0glz1rv02RIiEHepkn1",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:35.723Z",
@@ -314,17 +272,14 @@
     ]
   },
   {
-    "artists": [
-      "Nockonsep",
-      "Sleepy Andy"
-    ],
+    "artists": ["Nockonsep", "Sleepy Andy"],
     "artistsPopularity": 16,
-    "title": "Reality Check",
-    "releaseDate": "2022-06-10",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0cpiZSFYYmKgU8u1myPots",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27356a3981e600646459b65f825",
+    "releaseDate": "2022-06-10",
+    "title": "Reality Check",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0cpiZSFYYmKgU8u1myPots",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:35.723Z",
@@ -333,18 +288,14 @@
     ]
   },
   {
-    "artists": [
-      "Nockonsep",
-      "AMPLIFIER",
-      "Echteliebe"
-    ],
+    "artists": ["Nockonsep", "AMPLIFIER", "Echteliebe"],
     "artistsPopularity": 17,
-    "title": "Дихання",
-    "releaseDate": "2022-05-12",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/79zZFri5CfCPMOOolbFEof",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735fb1b98c2aeaa1ad4ee266de",
+    "releaseDate": "2022-05-12",
+    "title": "Дихання",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/79zZFri5CfCPMOOolbFEof",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:35.723Z",
@@ -353,18 +304,14 @@
     ]
   },
   {
-    "artists": [
-      "Nockonsep",
-      "AMPLIFIER",
-      "Echteliebe"
-    ],
+    "artists": ["Nockonsep", "AMPLIFIER", "Echteliebe"],
     "artistsPopularity": 17,
-    "title": "Постріл",
-    "releaseDate": "2022-02-01",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6R4jvB8WZVbR8wy3fVjRhv",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27355f66bad1e568f0640ad2450",
+    "releaseDate": "2022-02-01",
+    "title": "Постріл",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6R4jvB8WZVbR8wy3fVjRhv",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:35.723Z",
@@ -373,16 +320,14 @@
     ]
   },
   {
-    "artists": [
-      "Nockonsep"
-    ],
+    "artists": ["Nockonsep"],
     "artistsPopularity": 5,
-    "title": "C.i.s.u.m",
-    "releaseDate": "2021-07-11",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5zlLFNVPRkrGj1AgvZhlO0",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731fd2b326b113495989645a13",
+    "releaseDate": "2021-07-11",
+    "title": "C.i.s.u.m",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5zlLFNVPRkrGj1AgvZhlO0",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:35.723Z",
@@ -391,16 +336,14 @@
     ]
   },
   {
-    "artists": [
-      "талан"
-    ],
+    "artists": ["талан"],
     "artistsPopularity": 0,
-    "title": "Апокаліпсис сьогодні",
-    "releaseDate": "2020-10-03",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7JIBMH4zlEf2Oz2mxok8BR",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739d58aecb170834658c598bc0",
+    "releaseDate": "2020-10-03",
+    "title": "Апокаліпсис сьогодні",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7JIBMH4zlEf2Oz2mxok8BR",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:35.723Z",
