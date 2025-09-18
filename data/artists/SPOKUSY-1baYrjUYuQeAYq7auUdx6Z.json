@@ -1,13 +1,15 @@
 [
   {
-    "artists": ["SPOKUSY"],
+    "artists": [
+      "SPOKUSY"
+    ],
     "artistsPopularity": 12,
-    "title": "Хеппі Час",
-    "releaseDate": "2025-07-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0RSw8CfnFwiGrfF67MX4bT",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734f0bbe030dfe7f363709eede",
+    "releaseDate": "2025-07-24",
+    "title": "Хеппі Час",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0RSw8CfnFwiGrfF67MX4bT",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:36.997Z",
@@ -16,14 +18,16 @@
     ]
   },
   {
-    "artists": ["SPOKUSY"],
+    "artists": [
+      "SPOKUSY"
+    ],
     "artistsPopularity": 12,
-    "title": "Атракціон",
-    "releaseDate": "2025-04-03",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0QZENchDSHJJacznMGhlNF",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bf40ee87d5b12df1dfae4c21",
+    "releaseDate": "2025-04-03",
+    "title": "Атракціон",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0QZENchDSHJJacznMGhlNF",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:36.997Z",
@@ -32,14 +36,16 @@
     ]
   },
   {
-    "artists": ["SPOKUSY"],
+    "artists": [
+      "SPOKUSY"
+    ],
     "artistsPopularity": 12,
-    "title": "СЛОУМО",
-    "releaseDate": "2025-01-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2DcwKZjQEfsPKItVMI1hrv",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27312b31e6fe2e97374713822f8",
+    "releaseDate": "2025-01-24",
+    "title": "СЛОУМО",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2DcwKZjQEfsPKItVMI1hrv",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:36.997Z",
@@ -48,14 +54,16 @@
     ]
   },
   {
-    "artists": ["SPOKUSY"],
+    "artists": [
+      "SPOKUSY"
+    ],
     "artistsPopularity": 12,
-    "title": "Душевні рани",
-    "releaseDate": "2024-09-13",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7d5EHcXtvNaEy3JYqly9Zj",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ad344cfac0e10d05e7253a62",
+    "releaseDate": "2024-09-13",
+    "title": "Душевні рани",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7d5EHcXtvNaEy3JYqly9Zj",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:36.997Z",
@@ -64,14 +72,16 @@
     ]
   },
   {
-    "artists": ["SPOKUSY"],
+    "artists": [
+      "SPOKUSY"
+    ],
     "artistsPopularity": 12,
-    "title": "Меланхолія",
-    "releaseDate": "2024-06-20",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/28Ts3dpWdSpUtZvST917PH",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e2954bd085966add3c6bb71c",
+    "releaseDate": "2024-06-20",
+    "title": "Меланхолія",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/28Ts3dpWdSpUtZvST917PH",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:36.997Z",
@@ -80,14 +90,16 @@
     ]
   },
   {
-    "artists": ["SPOKUSY"],
+    "artists": [
+      "SPOKUSY"
+    ],
     "artistsPopularity": 12,
-    "title": "Пепероні",
-    "releaseDate": "2024-05-01",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3h76oFOcX9nz46GrtOLYvH",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273500ddde2bfd40feae2277f0b",
+    "releaseDate": "2024-05-01",
+    "title": "Пепероні",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3h76oFOcX9nz46GrtOLYvH",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:36.997Z",
@@ -96,14 +108,16 @@
     ]
   },
   {
-    "artists": ["SPOKUSY"],
+    "artists": [
+      "SPOKUSY"
+    ],
     "artistsPopularity": 12,
-    "title": "Живу в моменті",
-    "releaseDate": "2024-02-15",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2tn55bPH7QAWBPmz0HEKdf",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e25d0e9b6fe148ccd52335ec",
+    "releaseDate": "2024-02-15",
+    "title": "Живу в моменті",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2tn55bPH7QAWBPmz0HEKdf",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:36.997Z",
@@ -112,14 +126,17 @@
     ]
   },
   {
-    "artists": ["SPOKUSY", "Shkoda"],
+    "artists": [
+      "SPOKUSY",
+      "Shkoda"
+    ],
     "artistsPopularity": 12,
-    "title": "Повернуться (Shkoda Remix)",
-    "releaseDate": "2024-01-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4h9GymxBHUWZSbq1lzDbsL",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732df65a8ba26bf7b1b59ce2bb",
+    "releaseDate": "2024-01-24",
+    "title": "Повернуться (Shkoda Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4h9GymxBHUWZSbq1lzDbsL",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:36.997Z",
@@ -128,14 +145,16 @@
     ]
   },
   {
-    "artists": ["SPOKUSY"],
+    "artists": [
+      "SPOKUSY"
+    ],
     "artistsPopularity": 12,
-    "title": "внутрішній конфлікт",
-    "releaseDate": "2023-10-06",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4qZxeraA5azyHCi7DOgnRB",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27359acf47118bd8320864beb43",
+    "releaseDate": "2023-10-06",
+    "title": "внутрішній конфлікт",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4qZxeraA5azyHCi7DOgnRB",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:36.997Z",
@@ -144,14 +163,16 @@
     ]
   },
   {
-    "artists": ["SPOKUSY"],
+    "artists": [
+      "SPOKUSY"
+    ],
     "artistsPopularity": 12,
-    "title": "Дивно-самотній",
-    "releaseDate": "2023-08-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/78MbhuAcLtLqcVvGjU2vab",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731acfda3b1212a7bcbbd27cf6",
+    "releaseDate": "2023-08-24",
+    "title": "Дивно-самотній",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/78MbhuAcLtLqcVvGjU2vab",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:36.997Z",
@@ -160,14 +181,16 @@
     ]
   },
   {
-    "artists": ["SPOKUSY"],
+    "artists": [
+      "SPOKUSY"
+    ],
     "artistsPopularity": 12,
-    "title": "Манекен",
-    "releaseDate": "2023-05-19",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2ZOHE3533apEAak5e5iXUW",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d4b2d096b9b1490976ea3ae8",
+    "releaseDate": "2023-05-19",
+    "title": "Манекен",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2ZOHE3533apEAak5e5iXUW",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:36.997Z",
@@ -176,14 +199,16 @@
     ]
   },
   {
-    "artists": ["SPOKUSY"],
+    "artists": [
+      "SPOKUSY"
+    ],
     "artistsPopularity": 12,
-    "title": "Світло зникає",
-    "releaseDate": "2023-02-25",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1QRbbzUP0qHzQv45rt3VCt",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a88cbd3d80e22af53f09fd0f",
+    "releaseDate": "2023-02-25",
+    "title": "Світло зникає",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1QRbbzUP0qHzQv45rt3VCt",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:36.997Z",
@@ -192,14 +217,16 @@
     ]
   },
   {
-    "artists": ["SPOKUSY"],
+    "artists": [
+      "SPOKUSY"
+    ],
     "artistsPopularity": 12,
-    "title": "Спокуси циркові",
-    "releaseDate": "2022-10-25",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3V3pUu7TJnIblKtdlQNUim",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27349eed2da677fbb2a7839ee17",
+    "releaseDate": "2022-10-25",
+    "title": "Спокуси циркові",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3V3pUu7TJnIblKtdlQNUim",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:36.997Z",
@@ -208,14 +235,16 @@
     ]
   },
   {
-    "artists": ["SPOKUSY"],
+    "artists": [
+      "SPOKUSY"
+    ],
     "artistsPopularity": 12,
-    "title": "Повернуться люди",
-    "releaseDate": "2022-08-18",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2fts2Q7Ltvo7k1koiwgdfr",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273babb573c4225cbd9a951873f",
+    "releaseDate": "2022-08-18",
+    "title": "Повернуться люди",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2fts2Q7Ltvo7k1koiwgdfr",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:36.997Z",
@@ -224,14 +253,16 @@
     ]
   },
   {
-    "artists": ["SPOKUSY"],
+    "artists": [
+      "SPOKUSY"
+    ],
     "artistsPopularity": 12,
-    "title": "ОРДЛО",
-    "releaseDate": "2022-06-03",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7DQna3s26DQKV0FfQsJDup",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735797c872b3aaa75a1b0d3b00",
+    "releaseDate": "2022-06-03",
+    "title": "ОРДЛО",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7DQna3s26DQKV0FfQsJDup",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:36.997Z",

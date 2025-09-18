@@ -1,13 +1,16 @@
 [
   {
-    "artists": ["Bria Blessing", "Shockolad"],
+    "artists": [
+      "Bria Blessing",
+      "Shockolad"
+    ],
     "artistsPopularity": 8,
-    "title": "Ivasyuk",
-    "releaseDate": "2018-10-10",
-    "type": "album",
-    "totalTracks": 10,
-    "url": "https://open.spotify.com/album/2hMPXGzxnsaedJYJQ4snau",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b1df6db24e5a450fff1ff83b",
+    "releaseDate": "2018-10-10",
+    "title": "Ivasyuk",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2hMPXGzxnsaedJYJQ4snau",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:18.750Z",
@@ -16,30 +19,35 @@
     ]
   },
   {
-    "artists": ["Shockolad", "Ewa Novel"],
+    "artists": [
+      "Shockolad",
+      "Ewa Novel"
+    ],
     "artistsPopularity": 7,
-    "title": "Nova",
-    "releaseDate": "2016-11-01",
-    "type": "album",
-    "totalTracks": 7,
-    "url": "https://open.spotify.com/album/4H1PTYOJBfRlEfe1WmzoLU",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27323a7269fb421ece0bfe34976",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:21:18.750Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Shockolad"],
-    "artistsPopularity": 4,
-    "title": "World",
-    "releaseDate": "2012-11-10",
-    "type": "album",
+    "releaseDate": "2016-11-01",
+    "title": "Nova",
     "totalTracks": 7,
-    "url": "https://open.spotify.com/album/5wCkihn1w6ugG06HzBK1bN",
+    "type": "album",
+    "url": "https://open.spotify.com/album/4H1PTYOJBfRlEfe1WmzoLU",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:21:18.750Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Shockolad"
+    ],
+    "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730e563d61cbff8f89e4813b07",
+    "releaseDate": "2012-11-10",
+    "title": "World",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5wCkihn1w6ugG06HzBK1bN",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:18.750Z",
@@ -48,14 +56,16 @@
     ]
   },
   {
-    "artists": ["Shockolad"],
+    "artists": [
+      "Shockolad"
+    ],
     "artistsPopularity": 4,
-    "title": "Щедрий вечір з добрим jazzoм",
-    "releaseDate": "2010-11-10",
-    "type": "album",
-    "totalTracks": 9,
-    "url": "https://open.spotify.com/album/0oAXMlIywi0Yfpza5QbJoW",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e8a3352f6eaf3a5e103a9a66",
+    "releaseDate": "2010-11-10",
+    "title": "Щедрий вечір з добрим jazzoм",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0oAXMlIywi0Yfpza5QbJoW",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:18.750Z",
@@ -64,30 +74,16 @@
     ]
   },
   {
-    "artists": ["Shockolad"],
+    "artists": [
+      "Shockolad"
+    ],
     "artistsPopularity": 4,
-    "title": "Pokosy",
-    "releaseDate": "2009-05-01",
-    "type": "album",
-    "totalTracks": 11,
-    "url": "https://open.spotify.com/album/3SbMXPLtN3a5ADx21xi05j",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273858eb5a297f9b973773d739b",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:21:18.750Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Shockolad"],
-    "artistsPopularity": 4,
-    "title": "Number One",
-    "releaseDate": "2008-06-12",
+    "releaseDate": "2009-05-01",
+    "title": "Pokosy",
+    "totalTracks": 11,
     "type": "album",
-    "totalTracks": 4,
-    "url": "https://open.spotify.com/album/3DCeUOf3UJIy3wFDnvuCtT",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d49cd5aa017cc84f091c65c0",
+    "url": "https://open.spotify.com/album/3SbMXPLtN3a5ADx21xi05j",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:18.750Z",
@@ -96,14 +92,34 @@
     ]
   },
   {
-    "artists": ["Shockolad"],
+    "artists": [
+      "Shockolad"
+    ],
     "artistsPopularity": 4,
-    "title": "Бог ся рождає",
-    "releaseDate": "2022-01-06",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6LpnujXtfvVupZjiHkmnFG",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d49cd5aa017cc84f091c65c0",
+    "releaseDate": "2008-06-12",
+    "title": "Number One",
+    "totalTracks": 4,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3DCeUOf3UJIy3wFDnvuCtT",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:21:18.750Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Shockolad"
+    ],
+    "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730edcf18ace8d4a7a5e021571",
+    "releaseDate": "2022-01-06",
+    "title": "Бог ся рождає",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6LpnujXtfvVupZjiHkmnFG",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:18.750Z",

@@ -1,13 +1,15 @@
 [
   {
-    "artists": ["Liza Bibikova"],
+    "artists": [
+      "Liza Bibikova"
+    ],
     "artistsPopularity": 35,
-    "title": "Вдома",
-    "releaseDate": "2025-07-23",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/56zsb0BfesPZJTrYeNNAsJ",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a83401c1c2f4af0dd76bf3ca",
+    "releaseDate": "2025-07-23",
+    "title": "Вдома",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/56zsb0BfesPZJTrYeNNAsJ",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:48.834Z",
@@ -16,14 +18,17 @@
     ]
   },
   {
-    "artists": ["Liza Bibikova", "BAH.ROMA"],
+    "artists": [
+      "Liza Bibikova",
+      "BAH.ROMA"
+    ],
     "artistsPopularity": 43,
-    "title": "київ-нью-йорк",
-    "releaseDate": "2025-04-18",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1pEJUVKehVzrUPZSUFZK6F",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27330620c268852296d0d7843a6",
+    "releaseDate": "2025-04-18",
+    "title": "київ-нью-йорк",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1pEJUVKehVzrUPZSUFZK6F",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:48.834Z",
@@ -32,14 +37,16 @@
     ]
   },
   {
-    "artists": ["Liza Bibikova"],
+    "artists": [
+      "Liza Bibikova"
+    ],
     "artistsPopularity": 35,
-    "title": "можливо, стала доросліша",
-    "releaseDate": "2024-11-01",
-    "type": "single",
-    "totalTracks": 4,
-    "url": "https://open.spotify.com/album/4eaxLpxkwmz4UbpzP9yYiv",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273027976c4b5b840d346c6acd8",
+    "releaseDate": "2024-11-01",
+    "title": "можливо, стала доросліша",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4eaxLpxkwmz4UbpzP9yYiv",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:48.834Z",
@@ -48,14 +55,17 @@
     ]
   },
   {
-    "artists": ["Liza Bibikova", "saymory"],
+    "artists": [
+      "Liza Bibikova",
+      "saymory"
+    ],
     "artistsPopularity": 35,
-    "title": "Чому я кохаю тебе завжди?",
-    "releaseDate": "2024-08-02",
-    "type": "single",
-    "totalTracks": 2,
-    "url": "https://open.spotify.com/album/79ob1PLWHKi3NaiFTzELeB",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733f148b90b9345e9165d01318",
+    "releaseDate": "2024-08-02",
+    "title": "Чому я кохаю тебе завжди?",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/79ob1PLWHKi3NaiFTzELeB",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:48.834Z",
@@ -64,14 +74,16 @@
     ]
   },
   {
-    "artists": ["Liza Bibikova"],
+    "artists": [
+      "Liza Bibikova"
+    ],
     "artistsPopularity": 35,
-    "title": "Скажи мені",
-    "releaseDate": "2024-02-19",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3gen2wuIsANLkAlBZg12Qj",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c81fab0e89e91da90260669f",
+    "releaseDate": "2024-02-19",
+    "title": "Скажи мені",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3gen2wuIsANLkAlBZg12Qj",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:48.834Z",
@@ -80,14 +92,16 @@
     ]
   },
   {
-    "artists": ["Liza Bibikova"],
+    "artists": [
+      "Liza Bibikova"
+    ],
     "artistsPopularity": 35,
-    "title": "Поряд",
-    "releaseDate": "2023-10-13",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4FaDAYJif3eUWZDoP0nHcB",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732588721165a50a837c889162",
+    "releaseDate": "2023-10-13",
+    "title": "Поряд",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4FaDAYJif3eUWZDoP0nHcB",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:48.834Z",

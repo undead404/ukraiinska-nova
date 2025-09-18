@@ -1,13 +1,15 @@
 [
   {
-    "artists": ["Інна Главацька"],
+    "artists": [
+      "Інна Главацька"
+    ],
     "artistsPopularity": 26,
-    "title": "Мій син",
-    "releaseDate": "2025-08-11",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5AqpjRIgpNznqGwL5jG5N3",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273378217d66174c70e944bce49",
+    "releaseDate": "2025-08-11",
+    "title": "Мій син",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5AqpjRIgpNznqGwL5jG5N3",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:35.882Z",
@@ -16,14 +18,16 @@
     ]
   },
   {
-    "artists": ["Інна Главацька"],
+    "artists": [
+      "Інна Главацька"
+    ],
     "artistsPopularity": 26,
-    "title": "Літній вечір",
-    "releaseDate": "2025-07-25",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6nTS9Jf3QkQfAGHLwsrov4",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739a374ed2cc6a52cbe7e2e90f",
+    "releaseDate": "2025-07-25",
+    "title": "Літній вечір",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6nTS9Jf3QkQfAGHLwsrov4",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:35.882Z",
@@ -32,14 +36,16 @@
     ]
   },
   {
-    "artists": ["Інна Главацька"],
+    "artists": [
+      "Інна Главацька"
+    ],
     "artistsPopularity": 26,
-    "title": "Ромашки",
-    "releaseDate": "2025-06-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2FyTeXArUIXcTTJi4YvcWy",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f5268522e6a55899829306a",
+    "releaseDate": "2025-06-24",
+    "title": "Ромашки",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2FyTeXArUIXcTTJi4YvcWy",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:35.882Z",
@@ -48,14 +54,16 @@
     ]
   },
   {
-    "artists": ["Інна Главацька"],
+    "artists": [
+      "Інна Главацька"
+    ],
     "artistsPopularity": 26,
-    "title": "Лілія",
-    "releaseDate": "2025-06-09",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0fjj4boci4r7V3T0exzV0g",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e8937d148ac2537193c123",
+    "releaseDate": "2025-06-09",
+    "title": "Лілія",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0fjj4boci4r7V3T0exzV0g",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:35.882Z",
@@ -64,14 +72,16 @@
     ]
   },
   {
-    "artists": ["Інна Главацька"],
+    "artists": [
+      "Інна Главацька"
+    ],
     "artistsPopularity": 26,
-    "title": "Грушка дичка",
-    "releaseDate": "2025-05-13",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3U9YFdo8GYofCJjzwBJu22",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fa6b3714eda29612d19b5479",
+    "releaseDate": "2025-05-13",
+    "title": "Грушка дичка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3U9YFdo8GYofCJjzwBJu22",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:35.882Z",
@@ -80,14 +90,16 @@
     ]
   },
   {
-    "artists": ["Інна Главацька"],
+    "artists": [
+      "Інна Главацька"
+    ],
     "artistsPopularity": 26,
-    "title": "Вишневий цвіт",
-    "releaseDate": "2025-04-28",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4ir8Hot87swX8AxRShJuqH",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c1ebeedadebc0a6091fe33ca",
+    "releaseDate": "2025-04-28",
+    "title": "Вишневий цвіт",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4ir8Hot87swX8AxRShJuqH",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:35.882Z",
@@ -96,14 +108,16 @@
     ]
   },
   {
-    "artists": ["Інна Главацька"],
+    "artists": [
+      "Інна Главацька"
+    ],
     "artistsPopularity": 26,
-    "title": "День народження",
-    "releaseDate": "2025-03-07",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1AmQpSEzNvDt9Jy4EEs7ee",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cca319bf0647e4c36da48c99",
+    "releaseDate": "2025-03-07",
+    "title": "День народження",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1AmQpSEzNvDt9Jy4EEs7ee",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:35.882Z",
@@ -112,14 +126,17 @@
     ]
   },
   {
-    "artists": ["Інна Главацька", "Electro-Geograph"],
+    "artists": [
+      "Інна Главацька",
+      "Electro-Geograph"
+    ],
     "artistsPopularity": 26,
-    "title": "Ти мої Крила (Electro-Geograph Remix)",
-    "releaseDate": "2025-03-04",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1K55xKk6OsIk4oYWm1a25Q",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273941d999f009b4654e6ccce40",
+    "releaseDate": "2025-03-04",
+    "title": "Ти мої Крила (Electro-Geograph Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1K55xKk6OsIk4oYWm1a25Q",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:35.882Z",
@@ -128,14 +145,17 @@
     ]
   },
   {
-    "artists": ["Денис Главацький", "Інна Главацька"],
+    "artists": [
+      "Денис Главацький",
+      "Інна Главацька"
+    ],
     "artistsPopularity": 26,
-    "title": "ТИ І Я",
-    "releaseDate": "2025-02-17",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3tw440nzeztWHsUjbV1Rlx",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27311ba1c641b914de3e88aeb20",
+    "releaseDate": "2025-02-17",
+    "title": "ТИ І Я",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3tw440nzeztWHsUjbV1Rlx",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:35.882Z",
@@ -144,14 +164,16 @@
     ]
   },
   {
-    "artists": ["Інна Главацька"],
+    "artists": [
+      "Інна Главацька"
+    ],
     "artistsPopularity": 26,
-    "title": "Горіла сосна",
-    "releaseDate": "2025-02-03",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2qfUnFgFeW0unEBIwWsc4F",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a3f21ebc8edbe0c098b43311",
+    "releaseDate": "2025-02-03",
+    "title": "Горіла сосна",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2qfUnFgFeW0unEBIwWsc4F",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:35.882Z",
@@ -160,14 +182,16 @@
     ]
   },
   {
-    "artists": ["Інна Главацька"],
+    "artists": [
+      "Інна Главацька"
+    ],
     "artistsPopularity": 26,
-    "title": "Зима",
-    "releaseDate": "2025-01-06",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/04r71pHVsFCFhPPg9G3sOW",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27343ad776385b5bb023f54d97e",
+    "releaseDate": "2025-01-06",
+    "title": "Зима",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/04r71pHVsFCFhPPg9G3sOW",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:35.882Z",
@@ -176,14 +200,16 @@
     ]
   },
   {
-    "artists": ["Інна Главацька"],
+    "artists": [
+      "Інна Главацька"
+    ],
     "artistsPopularity": 26,
-    "title": "Будь зі мною будь",
-    "releaseDate": "2024-08-14",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6iqhb3N4BDv083QM1Ik6Ov",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732dc71e5fca22efe707d8003c",
+    "releaseDate": "2024-08-14",
+    "title": "Будь зі мною будь",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6iqhb3N4BDv083QM1Ik6Ov",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:35.882Z",
@@ -192,14 +218,16 @@
     ]
   },
   {
-    "artists": ["Інна Главацька"],
+    "artists": [
+      "Інна Главацька"
+    ],
     "artistsPopularity": 26,
-    "title": "МІЙ БАТЬКО",
-    "releaseDate": "2024-07-02",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/44pgajvTdqxxDIGX07D26G",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273342abbadda08d981be06ea09",
+    "releaseDate": "2024-07-02",
+    "title": "МІЙ БАТЬКО",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/44pgajvTdqxxDIGX07D26G",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:35.882Z",
@@ -208,14 +236,16 @@
     ]
   },
   {
-    "artists": ["Інна Главацька"],
+    "artists": [
+      "Інна Главацька"
+    ],
     "artistsPopularity": 26,
-    "title": "Мамо",
-    "releaseDate": "2024-05-14",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3birTIzSKBKjYQQH09URMD",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b41755aa48b032c121f5b941",
+    "releaseDate": "2024-05-14",
+    "title": "Мамо",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3birTIzSKBKjYQQH09URMD",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:35.882Z",
@@ -224,14 +254,17 @@
     ]
   },
   {
-    "artists": ["Денис Главацький", "Інна Главацька"],
+    "artists": [
+      "Денис Главацький",
+      "Інна Главацька"
+    ],
     "artistsPopularity": 26,
-    "title": "Моя мамка молдованка",
-    "releaseDate": "2024-03-20",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0R6WhQjLH4uok0z1XDPgu4",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273415e693d7a18008170c615ff",
+    "releaseDate": "2024-03-20",
+    "title": "Моя мамка молдованка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0R6WhQjLH4uok0z1XDPgu4",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:35.882Z",
@@ -240,14 +273,17 @@
     ]
   },
   {
-    "artists": ["Інна Главацька", "Денис Главацький"],
+    "artists": [
+      "Інна Главацька",
+      "Денис Главацький"
+    ],
     "artistsPopularity": 26,
-    "title": "Брат і сестра",
-    "releaseDate": "2023-09-26",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6SoIAtb2Pvz8HEFKcQ9xaM",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b250b17db08f620ffc09fe53",
+    "releaseDate": "2023-09-26",
+    "title": "Брат і сестра",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6SoIAtb2Pvz8HEFKcQ9xaM",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:35.882Z",
@@ -256,14 +292,16 @@
     ]
   },
   {
-    "artists": ["Інна Главацька"],
+    "artists": [
+      "Інна Главацька"
+    ],
     "artistsPopularity": 26,
-    "title": "Мелодія душі моєї",
-    "releaseDate": "2023-09-04",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4ZNhGud37pqkL9qC8E3alz",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27302d81adaf02d1ee971e22233",
+    "releaseDate": "2023-09-04",
+    "title": "Мелодія душі моєї",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4ZNhGud37pqkL9qC8E3alz",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:35.882Z",
@@ -272,14 +310,16 @@
     ]
   },
   {
-    "artists": ["Інна Главацька"],
+    "artists": [
+      "Інна Главацька"
+    ],
     "artistsPopularity": 26,
-    "title": "Ти мої крила",
-    "releaseDate": "2023-09-01",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7jWahKjUzThIEH4KW0tuKV",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ba4a46cb247dbdcff0a56445",
+    "releaseDate": "2023-09-01",
+    "title": "Ти мої крила",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7jWahKjUzThIEH4KW0tuKV",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:35.882Z",
@@ -288,14 +328,17 @@
     ]
   },
   {
-    "artists": ["Денис Главацький", "Інна Главацька"],
+    "artists": [
+      "Денис Главацький",
+      "Інна Главацька"
+    ],
     "artistsPopularity": 26,
-    "title": "Мої батьки",
-    "releaseDate": "2023-03-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4ND25eGO4U0yGW2w1GdWKM",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27353ec3e9add3df193cead4593",
+    "releaseDate": "2023-03-24",
+    "title": "Мої батьки",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4ND25eGO4U0yGW2w1GdWKM",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:35.882Z",
@@ -304,14 +347,16 @@
     ]
   },
   {
-    "artists": ["Інна Главацька"],
+    "artists": [
+      "Інна Главацька"
+    ],
     "artistsPopularity": 26,
-    "title": "Ти мене обійми",
-    "releaseDate": "2023-01-19",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/39DPYOed9E7w5r8dyYuHVe",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731e027194ed86618e81db4c64",
+    "releaseDate": "2023-01-19",
+    "title": "Ти мене обійми",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/39DPYOed9E7w5r8dyYuHVe",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:35.882Z",
@@ -320,14 +365,16 @@
     ]
   },
   {
-    "artists": ["Інна Главацька"],
+    "artists": [
+      "Інна Главацька"
+    ],
     "artistsPopularity": 26,
-    "title": "Сльози",
-    "releaseDate": "2022-09-02",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4vCPnLvGDJEd1O4s1gEJjp",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27348f0ad3a7991bc8e9afc33cc",
+    "releaseDate": "2022-09-02",
+    "title": "Сльози",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4vCPnLvGDJEd1O4s1gEJjp",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:35.882Z",
@@ -336,14 +383,16 @@
     ]
   },
   {
-    "artists": ["Інна Главацька"],
+    "artists": [
+      "Інна Главацька"
+    ],
     "artistsPopularity": 26,
-    "title": "Ще з колиски",
-    "releaseDate": "2022-08-18",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4wHO3RWl721NCIJQLe0QMB",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737e32dde863546f6be9875cc9",
+    "releaseDate": "2022-08-18",
+    "title": "Ще з колиски",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4wHO3RWl721NCIJQLe0QMB",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:35.882Z",
@@ -352,14 +401,16 @@
     ]
   },
   {
-    "artists": ["Інна Главацька"],
+    "artists": [
+      "Інна Главацька"
+    ],
     "artistsPopularity": 26,
-    "title": "Мирна Україна",
-    "releaseDate": "2022-07-29",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5wnMPqv4ygQlEIhIuloomI",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734c05a9df7e1ced3822a673d3",
+    "releaseDate": "2022-07-29",
+    "title": "Мирна Україна",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5wnMPqv4ygQlEIhIuloomI",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:35.882Z",

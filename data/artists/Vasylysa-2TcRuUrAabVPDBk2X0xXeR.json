@@ -1,13 +1,15 @@
 [
   {
-    "artists": ["Vasylysa"],
+    "artists": [
+      "Vasylysa"
+    ],
     "artistsPopularity": 0,
-    "title": "Страх/ сором",
-    "releaseDate": "2024-07-26",
-    "type": "single",
-    "totalTracks": 2,
-    "url": "https://open.spotify.com/album/6KkJE9uFo3dVRBLKMlxDTv",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a7bf8aa3f4405c59a6fa97a9",
+    "releaseDate": "2024-07-26",
+    "title": "Страх/ сором",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6KkJE9uFo3dVRBLKMlxDTv",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:22:10.999Z",
@@ -16,14 +18,16 @@
     ]
   },
   {
-    "artists": ["Vasylysa"],
+    "artists": [
+      "Vasylysa"
+    ],
     "artistsPopularity": 0,
-    "title": "Тичина",
-    "releaseDate": "2024-04-26",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/52INcwx5P9lhnGcfOeVCnP",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273977b768c13a84ed29e1b394d",
+    "releaseDate": "2024-04-26",
+    "title": "Тичина",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/52INcwx5P9lhnGcfOeVCnP",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:22:10.999Z",

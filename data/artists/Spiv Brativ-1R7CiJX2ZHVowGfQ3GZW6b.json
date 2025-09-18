@@ -1,29 +1,33 @@
 [
   {
-    "artists": ["Spiv Brativ"],
+    "artists": [
+      "Spiv Brativ"
+    ],
     "artistsPopularity": 27,
-    "title": "Повітряна тривога",
-    "releaseDate": "2022-09-13",
-    "type": "album",
-    "totalTracks": 8,
-    "url": "https://open.spotify.com/album/3xyWbR3OYfoQfZl2ubSQSN",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733c46dcb7dbc053bed5dfb553",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:21:33.634Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Spiv Brativ"],
-    "artistsPopularity": 27,
-    "title": "Музична оборона",
-    "releaseDate": "2022-05-16",
-    "type": "album",
+    "releaseDate": "2022-09-13",
+    "title": "Повітряна тривога",
     "totalTracks": 8,
-    "url": "https://open.spotify.com/album/47J7vWwcUg8poO4BOf9zxN",
+    "type": "album",
+    "url": "https://open.spotify.com/album/3xyWbR3OYfoQfZl2ubSQSN",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:21:33.634Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Spiv Brativ"
+    ],
+    "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739008bcbc1f3babd992e90bda",
+    "releaseDate": "2022-05-16",
+    "title": "Музична оборона",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/47J7vWwcUg8poO4BOf9zxN",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:33.634Z",
@@ -32,14 +36,16 @@
     ]
   },
   {
-    "artists": ["Spiv Brativ"],
+    "artists": [
+      "Spiv Brativ"
+    ],
     "artistsPopularity": 27,
-    "title": "Лінія мажино",
-    "releaseDate": "2025-07-08",
-    "type": "single",
-    "totalTracks": 3,
-    "url": "https://open.spotify.com/album/1rrzFTecFs2DIP7RAoiyJe",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f77f67ef79ce85057cc8e545",
+    "releaseDate": "2025-07-08",
+    "title": "Лінія мажино",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1rrzFTecFs2DIP7RAoiyJe",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:33.634Z",
@@ -48,14 +54,16 @@
     ]
   },
   {
-    "artists": ["Spiv Brativ"],
+    "artists": [
+      "Spiv Brativ"
+    ],
     "artistsPopularity": 27,
-    "title": "Марафон (studio live)",
-    "releaseDate": "2025-04-08",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4yZFQ8PVHhPTCxFisrthAa",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27385ffdd3e5e9d644e094ccb2d",
+    "releaseDate": "2025-04-08",
+    "title": "Марафон (studio live)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4yZFQ8PVHhPTCxFisrthAa",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:33.634Z",
@@ -64,14 +72,16 @@
     ]
   },
   {
-    "artists": ["Spiv Brativ"],
+    "artists": [
+      "Spiv Brativ"
+    ],
     "artistsPopularity": 27,
-    "title": "Хічхайкер",
-    "releaseDate": "2025-03-14",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1g0yiVxbxs6OkzwQuMCBn3",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273da98ec1cfc2c61600f6c9e78",
+    "releaseDate": "2025-03-14",
+    "title": "Хічхайкер",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1g0yiVxbxs6OkzwQuMCBn3",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:33.634Z",
@@ -80,14 +90,16 @@
     ]
   },
   {
-    "artists": ["Spiv Brativ"],
+    "artists": [
+      "Spiv Brativ"
+    ],
     "artistsPopularity": 27,
-    "title": "Дельфін",
-    "releaseDate": "2025-01-06",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6S3bO1TYKyvSRdo0qT8zAc",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e7279e8c6b58d29f4cc50d28",
+    "releaseDate": "2025-01-06",
+    "title": "Дельфін",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6S3bO1TYKyvSRdo0qT8zAc",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:33.634Z",
@@ -96,14 +108,16 @@
     ]
   },
   {
-    "artists": ["Spiv Brativ"],
+    "artists": [
+      "Spiv Brativ"
+    ],
     "artistsPopularity": 27,
-    "title": "Відповіт",
-    "releaseDate": "2024-10-29",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1Ybh47gsVZOJawI42YtFo9",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737d0e7e3b2e0051b3326a00e4",
+    "releaseDate": "2024-10-29",
+    "title": "Відповіт",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1Ybh47gsVZOJawI42YtFo9",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:33.634Z",
@@ -112,14 +126,16 @@
     ]
   },
   {
-    "artists": ["Spiv Brativ"],
+    "artists": [
+      "Spiv Brativ"
+    ],
     "artistsPopularity": 27,
-    "title": "Останні дні літа (rock version)",
-    "releaseDate": "2024-08-25",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1Bd3IZ4rqwGC9peHnIoIWP",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e7755682c1560b9e86527b44",
+    "releaseDate": "2024-08-25",
+    "title": "Останні дні літа (rock version)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1Bd3IZ4rqwGC9peHnIoIWP",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:33.634Z",
@@ -128,286 +144,16 @@
     ]
   },
   {
-    "artists": ["Spiv Brativ"],
+    "artists": [
+      "Spiv Brativ"
+    ],
     "artistsPopularity": 27,
-    "title": "Коли ти поряд",
-    "releaseDate": "2024-07-25",
-    "type": "single",
-    "totalTracks": 3,
-    "url": "https://open.spotify.com/album/4x62NzT13m4k1vgAzJZ965",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736ada6159083b89f1495ce3ed",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:21:33.634Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Spiv Brativ"],
-    "artistsPopularity": 27,
-    "title": "Вірю в тебе",
-    "releaseDate": "2024-06-26",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/246ARbJyumGvRGg0ovvpQT",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27318e0c4b5dc71b076b654e477",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:21:33.634Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Spiv Brativ"],
-    "artistsPopularity": 27,
-    "title": "Хто я",
-    "releaseDate": "2024-05-16",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/66kCGtE4uvGUzZjzTZbe0G",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739682419137e44145d9205afe",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:21:33.634Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Spiv Brativ"],
-    "artistsPopularity": 27,
-    "title": "Жити кілька днів",
-    "releaseDate": "2024-03-28",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3AxnmIpQPocYvw4SbysXjF",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738c9076d6a759b90fb589dd63",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:21:33.634Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Spiv Brativ"],
-    "artistsPopularity": 27,
-    "title": "Недобрий ранок",
-    "releaseDate": "2024-02-29",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4Go6aowUCjedH1FLRpIV6W",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733bf54b31877f87fbb4111c10",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:21:33.634Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Spiv Brativ"],
-    "artistsPopularity": 27,
-    "title": "Жнива",
-    "releaseDate": "2023-12-01",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4mr0POHp0z5IONzdII2nsj",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27390bdc11e92697cc2217877f7",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:21:33.634Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Spiv Brativ"],
-    "artistsPopularity": 27,
-    "title": "Танці на марсі",
-    "releaseDate": "2023-10-10",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2hMLuQF0IBEgsutwwQHTM7",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e3cf56e5b9ad8b17ce55a047",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:21:33.634Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Spiv Brativ"],
-    "artistsPopularity": 27,
-    "title": "Останні дні літа",
-    "releaseDate": "2023-08-17",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1AnEqWNGG6zADfC3VEUmam",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737f752c786ff6ff4afb886a60",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:21:33.634Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Spiv Brativ"],
-    "artistsPopularity": 27,
-    "title": "Наступний хід пропускаю",
-    "releaseDate": "2023-07-23",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7Gh898k9qoh9jghE2R2DSx",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273422fa6a65ec2e1c49c733ad3",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:21:33.634Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Spiv Brativ"],
-    "artistsPopularity": 27,
-    "title": "Тиранозавр залишає сцену",
-    "releaseDate": "2023-06-29",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6lRGb4UbgbcxC1UyVT3HoP",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731d4a666e3a1e789e302bd06c",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:21:33.634Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Spiv Brativ"],
-    "artistsPopularity": 27,
-    "title": "Я маю пройти океан",
-    "releaseDate": "2023-06-23",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3ViAeKWBSWOSv1jeH8Op88",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273790e004873ec4e5921178e75",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:21:33.634Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Spiv Brativ"],
-    "artistsPopularity": 27,
-    "title": "Непохитним",
-    "releaseDate": "2023-02-20",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4hCXTi6adM8o7rQ7F45wMB",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273469c004870455f54f5637e4a",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:21:33.634Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Spiv Brativ"],
-    "artistsPopularity": 27,
-    "title": "Ти знаєш, що ти - людина",
-    "releaseDate": "2023-01-19",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4BnR6DN0ixQ5kOR3L90iCB",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731154cf4f8e738a5508378153",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:21:33.634Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Spiv Brativ"],
-    "artistsPopularity": 27,
-    "title": "Бахмут",
-    "releaseDate": "2023-01-07",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6usTqzTG5rin1wzi7Mgn51",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27315707cc7c7e192ee5f97fd26",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:21:33.634Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Spiv Brativ"],
-    "artistsPopularity": 27,
-    "title": "Важко, але варто",
-    "releaseDate": "2022-12-18",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6a9yWCxW5kA8ykuuoHm5FS",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739e52ffae2c80b757838013f4",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:21:33.634Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Spiv Brativ"],
-    "artistsPopularity": 27,
-    "title": "Як ти, херсоне?",
-    "releaseDate": "2022-11-21",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4xx4BbHOQgDsB9fnrpEPqX",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273adeb72a96bf800b82e30ac55",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:21:33.634Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Spiv Brativ"],
-    "artistsPopularity": 27,
-    "title": "Кримський міст",
-    "releaseDate": "2022-10-17",
-    "type": "single",
-    "totalTracks": 2,
-    "url": "https://open.spotify.com/album/5zQOTB5i4rx3pJBEDOLccW",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738d8e4b615f1e1609aa666926",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:21:33.634Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Spiv Brativ"],
-    "artistsPopularity": 27,
-    "title": "Зброя, а не таксі!",
-    "releaseDate": "2022-06-06",
-    "type": "single",
+    "releaseDate": "2024-07-25",
+    "title": "Коли ти поряд",
     "totalTracks": 3,
-    "url": "https://open.spotify.com/album/2lUSRdUPBLQzduDa31k1go",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c133b3343263de4e7fde462c",
+    "type": "single",
+    "url": "https://open.spotify.com/album/4x62NzT13m4k1vgAzJZ965",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:33.634Z",
@@ -416,14 +162,322 @@
     ]
   },
   {
-    "artists": ["Spiv Brativ"],
+    "artists": [
+      "Spiv Brativ"
+    ],
     "artistsPopularity": 27,
-    "title": "В городі херсоні",
-    "releaseDate": "2022-03-25",
-    "type": "single",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27318e0c4b5dc71b076b654e477",
+    "releaseDate": "2024-06-26",
+    "title": "Вірю в тебе",
     "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5ekCun2TL7FAAaa9JenqTI",
+    "type": "single",
+    "url": "https://open.spotify.com/album/246ARbJyumGvRGg0ovvpQT",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:21:33.634Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Spiv Brativ"
+    ],
+    "artistsPopularity": 27,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739682419137e44145d9205afe",
+    "releaseDate": "2024-05-16",
+    "title": "Хто я",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/66kCGtE4uvGUzZjzTZbe0G",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:21:33.634Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Spiv Brativ"
+    ],
+    "artistsPopularity": 27,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738c9076d6a759b90fb589dd63",
+    "releaseDate": "2024-03-28",
+    "title": "Жити кілька днів",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3AxnmIpQPocYvw4SbysXjF",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:21:33.634Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Spiv Brativ"
+    ],
+    "artistsPopularity": 27,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733bf54b31877f87fbb4111c10",
+    "releaseDate": "2024-02-29",
+    "title": "Недобрий ранок",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4Go6aowUCjedH1FLRpIV6W",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:21:33.634Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Spiv Brativ"
+    ],
+    "artistsPopularity": 27,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27390bdc11e92697cc2217877f7",
+    "releaseDate": "2023-12-01",
+    "title": "Жнива",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4mr0POHp0z5IONzdII2nsj",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:21:33.634Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Spiv Brativ"
+    ],
+    "artistsPopularity": 27,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e3cf56e5b9ad8b17ce55a047",
+    "releaseDate": "2023-10-10",
+    "title": "Танці на марсі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2hMLuQF0IBEgsutwwQHTM7",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:21:33.634Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Spiv Brativ"
+    ],
+    "artistsPopularity": 27,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737f752c786ff6ff4afb886a60",
+    "releaseDate": "2023-08-17",
+    "title": "Останні дні літа",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1AnEqWNGG6zADfC3VEUmam",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:21:33.634Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Spiv Brativ"
+    ],
+    "artistsPopularity": 27,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273422fa6a65ec2e1c49c733ad3",
+    "releaseDate": "2023-07-23",
+    "title": "Наступний хід пропускаю",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7Gh898k9qoh9jghE2R2DSx",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:21:33.634Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Spiv Brativ"
+    ],
+    "artistsPopularity": 27,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731d4a666e3a1e789e302bd06c",
+    "releaseDate": "2023-06-29",
+    "title": "Тиранозавр залишає сцену",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6lRGb4UbgbcxC1UyVT3HoP",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:21:33.634Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Spiv Brativ"
+    ],
+    "artistsPopularity": 27,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273790e004873ec4e5921178e75",
+    "releaseDate": "2023-06-23",
+    "title": "Я маю пройти океан",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3ViAeKWBSWOSv1jeH8Op88",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:21:33.634Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Spiv Brativ"
+    ],
+    "artistsPopularity": 27,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273469c004870455f54f5637e4a",
+    "releaseDate": "2023-02-20",
+    "title": "Непохитним",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4hCXTi6adM8o7rQ7F45wMB",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:21:33.634Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Spiv Brativ"
+    ],
+    "artistsPopularity": 27,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731154cf4f8e738a5508378153",
+    "releaseDate": "2023-01-19",
+    "title": "Ти знаєш, що ти - людина",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4BnR6DN0ixQ5kOR3L90iCB",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:21:33.634Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Spiv Brativ"
+    ],
+    "artistsPopularity": 27,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27315707cc7c7e192ee5f97fd26",
+    "releaseDate": "2023-01-07",
+    "title": "Бахмут",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6usTqzTG5rin1wzi7Mgn51",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:21:33.634Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Spiv Brativ"
+    ],
+    "artistsPopularity": 27,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739e52ffae2c80b757838013f4",
+    "releaseDate": "2022-12-18",
+    "title": "Важко, але варто",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6a9yWCxW5kA8ykuuoHm5FS",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:21:33.634Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Spiv Brativ"
+    ],
+    "artistsPopularity": 27,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273adeb72a96bf800b82e30ac55",
+    "releaseDate": "2022-11-21",
+    "title": "Як ти, херсоне?",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4xx4BbHOQgDsB9fnrpEPqX",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:21:33.634Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Spiv Brativ"
+    ],
+    "artistsPopularity": 27,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738d8e4b615f1e1609aa666926",
+    "releaseDate": "2022-10-17",
+    "title": "Кримський міст",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5zQOTB5i4rx3pJBEDOLccW",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:21:33.634Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Spiv Brativ"
+    ],
+    "artistsPopularity": 27,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c133b3343263de4e7fde462c",
+    "releaseDate": "2022-06-06",
+    "title": "Зброя, а не таксі!",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2lUSRdUPBLQzduDa31k1go",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:21:33.634Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Spiv Brativ"
+    ],
+    "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733201308e49b51646b295fbbb",
+    "releaseDate": "2022-03-25",
+    "title": "В городі херсоні",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5ekCun2TL7FAAaa9JenqTI",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:33.634Z",

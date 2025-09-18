@@ -1,29 +1,33 @@
 [
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "Клуб розбитих сердець",
-    "releaseDate": "2024-02-07",
-    "type": "album",
-    "totalTracks": 11,
-    "url": "https://open.spotify.com/album/0gMPP08V772wdCLWvo0S6d",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273656e0db0601556637f3a5982",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:21:55.214Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["TESLENKO"],
-    "artistsPopularity": 43,
-    "title": "Хімія",
-    "releaseDate": "2023-04-13",
+    "releaseDate": "2024-02-07",
+    "title": "Клуб розбитих сердець",
+    "totalTracks": 11,
     "type": "album",
-    "totalTracks": 10,
-    "url": "https://open.spotify.com/album/4iJ0XwaQjRtcvUOJs0BzaS",
+    "url": "https://open.spotify.com/album/0gMPP08V772wdCLWvo0S6d",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:21:55.214Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "TESLENKO"
+    ],
+    "artistsPopularity": 43,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736799d2018dd4db7048b5cd94",
+    "releaseDate": "2023-04-13",
+    "title": "Хімія",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4iJ0XwaQjRtcvUOJs0BzaS",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -32,14 +36,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "На тому балконі",
-    "releaseDate": "2025-08-28",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/04ppyLZC8RFjErNWyqC2V1",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bca55c1c4d9412e5a88e4c2a",
+    "releaseDate": "2025-08-28",
+    "title": "На тому балконі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/04ppyLZC8RFjErNWyqC2V1",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -48,14 +54,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "Лисиця",
-    "releaseDate": "2025-08-07",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3QyCfKjDZRYftMjwootw4D",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c15fb83129b103bcefa1f990",
+    "releaseDate": "2025-08-07",
+    "title": "Лисиця",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3QyCfKjDZRYftMjwootw4D",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -64,14 +72,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "Не чекай",
-    "releaseDate": "2025-06-26",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2CT6ed9T9SpbkAQohPlyE8",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27333e6b92def2c88cf6d7a8e44",
+    "releaseDate": "2025-06-26",
+    "title": "Не чекай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2CT6ed9T9SpbkAQohPlyE8",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -80,14 +90,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "MAM",
-    "releaseDate": "2025-05-21",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1JAk88U53jbZYJ6womqfcH",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273653fe1610764f8f9d014bbf1",
+    "releaseDate": "2025-05-21",
+    "title": "MAM",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1JAk88U53jbZYJ6womqfcH",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -96,14 +108,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "Не пробачати",
-    "releaseDate": "2025-05-01",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/70Pha53BaNm7J9ossxx0sd",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737ba2d556cc0c8c65c7247f9a",
+    "releaseDate": "2025-05-01",
+    "title": "Не пробачати",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/70Pha53BaNm7J9ossxx0sd",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -112,14 +126,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "Рінгтон",
-    "releaseDate": "2025-03-20",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4wuYiqcMWn6t3udDsPkme9",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733f1db84406131ac8292531cc",
+    "releaseDate": "2025-03-20",
+    "title": "Рінгтон",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4wuYiqcMWn6t3udDsPkme9",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -128,14 +144,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "Storm",
-    "releaseDate": "2025-02-12",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5VdXHVMXj6GI0HIAly65eg",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27319657d8057a754615351731c",
+    "releaseDate": "2025-02-12",
+    "title": "Storm",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5VdXHVMXj6GI0HIAly65eg",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -144,14 +162,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "Звичка",
-    "releaseDate": "2025-02-06",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3A1TfFI5IApsfzc68Bg5XB",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730992e643829ff4f6383f75df",
+    "releaseDate": "2025-02-06",
+    "title": "Звичка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3A1TfFI5IApsfzc68Bg5XB",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -160,14 +180,17 @@
     ]
   },
   {
-    "artists": ["TESLENKO", "BID0NCI0N"],
+    "artists": [
+      "TESLENKO",
+      "BID0NCI0N"
+    ],
     "artistsPopularity": 43,
-    "title": "Кожен раз (BID0NCI0N Remix)",
-    "releaseDate": "2024-12-26",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6G16dbiFONqTE7Dsp313QR",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aaed7ac54b56f26ba842505c",
+    "releaseDate": "2024-12-26",
+    "title": "Кожен раз (BID0NCI0N Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6G16dbiFONqTE7Dsp313QR",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -176,14 +199,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "Морози",
-    "releaseDate": "2024-12-19",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6tWyykXs8v84K51h6TaWn1",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27346561aa8b081ffbc8c96bf69",
+    "releaseDate": "2024-12-19",
+    "title": "Морози",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6tWyykXs8v84K51h6TaWn1",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -192,14 +217,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "Кожен раз",
-    "releaseDate": "2024-11-11",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1U3mXvcolGlktw2RaAXTiH",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e14953b0062d7a80c3f89875",
+    "releaseDate": "2024-11-11",
+    "title": "Кожен раз",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1U3mXvcolGlktw2RaAXTiH",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -208,14 +235,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "Коли з тобою",
-    "releaseDate": "2024-11-07",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5EGkgPtC6rmnrN4YfPIu3U",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a1fcec3e737e97b403e5ce6f",
+    "releaseDate": "2024-11-07",
+    "title": "Коли з тобою",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5EGkgPtC6rmnrN4YfPIu3U",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -224,14 +253,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "Хепі-енд",
-    "releaseDate": "2024-09-19",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/36Y00kLxjOVlToQYkMnimo",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739b80c5794ec054ee9303671e",
+    "releaseDate": "2024-09-19",
+    "title": "Хепі-енд",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/36Y00kLxjOVlToQYkMnimo",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -240,14 +271,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "Він її вуста",
-    "releaseDate": "2024-09-05",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4uPJ8gtQDbqXFzdUFagAs0",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733a049e275a9eef0a9f6ae0ef",
+    "releaseDate": "2024-09-05",
+    "title": "Він її вуста",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4uPJ8gtQDbqXFzdUFagAs0",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -256,14 +289,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "Не про нас",
-    "releaseDate": "2024-08-08",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1hSETL1CnLtqO4M46Y2osr",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cfd7f79b1c6736744b49b400",
+    "releaseDate": "2024-08-08",
+    "title": "Не про нас",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1hSETL1CnLtqO4M46Y2osr",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -272,14 +307,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "Симоненко. З любов'ю",
-    "releaseDate": "2024-07-11",
-    "type": "single",
-    "totalTracks": 6,
-    "url": "https://open.spotify.com/album/3Se85gbsF1XUjO3Vti8py9",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731a97b0b32e65523ce958501c",
+    "releaseDate": "2024-07-11",
+    "title": "Симоненко. З любов'ю",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3Se85gbsF1XUjO3Vti8py9",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -288,14 +325,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "Ти знаєш, що ти — людина",
-    "releaseDate": "2024-06-27",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2aeKzpgbUp83bOrKsB8JF4",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d9a3ae48db4d77b2587c4aa7",
+    "releaseDate": "2024-06-27",
+    "title": "Ти знаєш, що ти — людина",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2aeKzpgbUp83bOrKsB8JF4",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -304,14 +343,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "Що б ти сказав?",
-    "releaseDate": "2024-06-06",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4cJXi55LAqjo6Bpelf7Cwp",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cf265c59da5780aead3c51f3",
+    "releaseDate": "2024-06-06",
+    "title": "Що б ти сказав?",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4cJXi55LAqjo6Bpelf7Cwp",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -320,14 +361,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "Ображайся",
-    "releaseDate": "2024-05-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/65XEdcRyhsYwljpKnkOfHQ",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730030d589b0e635180ce68ee4",
+    "releaseDate": "2024-05-24",
+    "title": "Ображайся",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/65XEdcRyhsYwljpKnkOfHQ",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -336,14 +379,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "Квіти",
-    "releaseDate": "2024-05-09",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2cLh5ukb43IJxzLhmaIr2B",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273af219f2da6a0dd451eb9a8db",
+    "releaseDate": "2024-05-09",
+    "title": "Квіти",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2cLh5ukb43IJxzLhmaIr2B",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -352,14 +397,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "Наречена",
-    "releaseDate": "2024-04-26",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5D8n9U9Tk5pznVwhXtLwjh",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730a997ce767a539644794f8b6",
+    "releaseDate": "2024-04-26",
+    "title": "Наречена",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5D8n9U9Tk5pznVwhXtLwjh",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -368,14 +415,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "Колишні",
-    "releaseDate": "2024-04-11",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3moRhIyQQigiRPhlzoUyRQ",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273066fcd3a2831e3267c7ea4f5",
+    "releaseDate": "2024-04-11",
+    "title": "Колишні",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3moRhIyQQigiRPhlzoUyRQ",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -384,14 +433,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "Старі фотографії",
-    "releaseDate": "2024-03-28",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7FUAMQxZ8SpfnBf18gVTqD",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273877151784e2e413207f6093b",
+    "releaseDate": "2024-03-28",
+    "title": "Старі фотографії",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7FUAMQxZ8SpfnBf18gVTqD",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -400,14 +451,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "Нас було тільки двоє",
-    "releaseDate": "2024-03-06",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3kXrdYWMeQfzpWybmUnf4n",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273865c7dc3b33388d9028b1762",
+    "releaseDate": "2024-03-06",
+    "title": "Нас було тільки двоє",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3kXrdYWMeQfzpWybmUnf4n",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -416,14 +469,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "Маяк",
-    "releaseDate": "2024-01-31",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0zwUHggDst93OZrbIDpzN9",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730a6de993c9e127bd1fb8e881",
+    "releaseDate": "2024-01-31",
+    "title": "Маяк",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0zwUHggDst93OZrbIDpzN9",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -432,14 +487,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "Не кохай",
-    "releaseDate": "2024-01-04",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4pXYdfxYdaOyTXiV37OVZM",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734a17471f58535fbe8a18e5b3",
+    "releaseDate": "2024-01-04",
+    "title": "Не кохай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4pXYdfxYdaOyTXiV37OVZM",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -448,14 +505,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "Lights go up",
-    "releaseDate": "2023-12-14",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4mG32uQp7TV4iKzhuw2Mej",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738813537d58ec270371fe7f31",
+    "releaseDate": "2023-12-14",
+    "title": "Lights go up",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4mG32uQp7TV4iKzhuw2Mej",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -464,14 +523,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "Стріляй",
-    "releaseDate": "2023-12-07",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0KwF9AEf3XXDlW08GOBV0Y",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27349d465298c1f8d97971db84a",
+    "releaseDate": "2023-12-07",
+    "title": "Стріляй",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0KwF9AEf3XXDlW08GOBV0Y",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -480,14 +541,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "У старих дворах",
-    "releaseDate": "2023-11-02",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5TKe39uCIlLm0pUL7Z8G32",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731dfc3b3d7a246055039d5f84",
+    "releaseDate": "2023-11-02",
+    "title": "У старих дворах",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5TKe39uCIlLm0pUL7Z8G32",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -496,14 +559,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "А що коли?",
-    "releaseDate": "2023-09-07",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/37xvYI0QsJdk4mHVffEJr8",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e3a2d5e1c59b6dab325659d1",
+    "releaseDate": "2023-09-07",
+    "title": "А що коли?",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/37xvYI0QsJdk4mHVffEJr8",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -512,14 +577,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "Я помилився",
-    "releaseDate": "2023-08-03",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2QzpJPV4jyMv9KijzHyXDF",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27375db255757784c58aec81584",
+    "releaseDate": "2023-08-03",
+    "title": "Я помилився",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2QzpJPV4jyMv9KijzHyXDF",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -528,14 +595,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "ТВОЇ ОЧІ",
-    "releaseDate": "2023-07-06",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4B5scRW20jrBa7xHqprZ14",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27376dc0bbc84d248dfccd7d957",
+    "releaseDate": "2023-07-06",
+    "title": "ТВОЇ ОЧІ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4B5scRW20jrBa7xHqprZ14",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -544,14 +613,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "Пам'ятаю тебе",
-    "releaseDate": "2023-06-08",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4GQOUXRLGlE1772PyjRjdN",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fdb38ff4b4368e9c9e0b22df",
+    "releaseDate": "2023-06-08",
+    "title": "Пам'ятаю тебе",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4GQOUXRLGlE1772PyjRjdN",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -560,14 +631,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "Поцілунки під дощем",
-    "releaseDate": "2023-05-18",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3Swmt9T4BdgSNEILLgAXwo",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737ef02087fc67028802df7007",
+    "releaseDate": "2023-05-18",
+    "title": "Поцілунки під дощем",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3Swmt9T4BdgSNEILLgAXwo",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -576,14 +649,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "Чом не разом?",
-    "releaseDate": "2023-04-06",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/38HkaRKgdkJyJkX2pqE5UT",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273db56b3bb46294c433b335913",
+    "releaseDate": "2023-04-06",
+    "title": "Чом не разом?",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/38HkaRKgdkJyJkX2pqE5UT",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -592,14 +667,17 @@
     ]
   },
   {
-    "artists": ["TESLENKO", "Леся Нікітюк"],
+    "artists": [
+      "TESLENKO",
+      "Леся Нікітюк"
+    ],
     "artistsPopularity": 43,
-    "title": "До речі",
-    "releaseDate": "2023-03-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7roGmJM3MXLvkRw63WoVHG",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aed9b5da45bb4bc6ee064b9f",
+    "releaseDate": "2023-03-24",
+    "title": "До речі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7roGmJM3MXLvkRw63WoVHG",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -608,14 +686,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "Фантастично",
-    "releaseDate": "2023-03-01",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0v5xjYkTaTr3MorJw0TjFt",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fcdec1b2279cdcf10bfb380c",
+    "releaseDate": "2023-03-01",
+    "title": "Фантастично",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0v5xjYkTaTr3MorJw0TjFt",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -624,14 +704,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "Червона помада (Remixes)",
-    "releaseDate": "2023-02-16",
-    "type": "single",
-    "totalTracks": 2,
-    "url": "https://open.spotify.com/album/2O9e2wtq9GGU3v8rrRHpbG",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731ab0971a0047a4590047dc81",
+    "releaseDate": "2023-02-16",
+    "title": "Червона помада (Remixes)",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2O9e2wtq9GGU3v8rrRHpbG",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -640,14 +722,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "Червона помада",
-    "releaseDate": "2023-02-09",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7cCZQrNPyweq3S8TqjdAzx",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369580a10c9b26345c6220f85",
+    "releaseDate": "2023-02-09",
+    "title": "Червона помада",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7cCZQrNPyweq3S8TqjdAzx",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -656,14 +740,17 @@
     ]
   },
   {
-    "artists": ["TESLENKO", "SLAVA KAMINSKA"],
+    "artists": [
+      "TESLENKO",
+      "SLAVA KAMINSKA"
+    ],
     "artistsPopularity": 43,
-    "title": "Обіцяю",
-    "releaseDate": "2023-01-12",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0HV5fqm2HTfYrjroUS6EDS",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e71bf037dda8bdaac91ef280",
+    "releaseDate": "2023-01-12",
+    "title": "Обіцяю",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0HV5fqm2HTfYrjroUS6EDS",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -672,14 +759,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "Скільки би разів",
-    "releaseDate": "2022-12-15",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7ds58xF9YR1avQ5uSMbZnT",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bc496be57eb1c03b54044095",
+    "releaseDate": "2022-12-15",
+    "title": "Скільки би разів",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7ds58xF9YR1avQ5uSMbZnT",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -688,14 +777,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "Місяць",
-    "releaseDate": "2022-11-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4AgOAh3JktrTn6zpUNQ92R",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f40ea79073012f59149f0436",
+    "releaseDate": "2022-11-24",
+    "title": "Місяць",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4AgOAh3JktrTn6zpUNQ92R",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -704,14 +795,17 @@
     ]
   },
   {
-    "artists": ["TESLENKO", "West junior"],
+    "artists": [
+      "TESLENKO",
+      "West junior"
+    ],
     "artistsPopularity": 43,
-    "title": "Я розбиваюся (West Junior Remix)",
-    "releaseDate": "2022-11-18",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7zWglXqdnfZPOUkGf9jOr5",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27353de1077f25d5879bc670eb4",
+    "releaseDate": "2022-11-18",
+    "title": "Я розбиваюся (West Junior Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7zWglXqdnfZPOUkGf9jOr5",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -720,14 +814,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "Я розбиваюся",
-    "releaseDate": "2022-10-26",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7M85jHi7xbFrF9b8tq5m07",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eb9a1e75bff5ec5ae4f85d57",
+    "releaseDate": "2022-10-26",
+    "title": "Я розбиваюся",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7M85jHi7xbFrF9b8tq5m07",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -736,14 +832,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "Третій зайвий",
-    "releaseDate": "2022-09-02",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3tN0xk3zsJBZPwBqoVsDwE",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d1c1964f4fea6937ed970b2a",
+    "releaseDate": "2022-09-02",
+    "title": "Третій зайвий",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3tN0xk3zsJBZPwBqoVsDwE",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -752,14 +850,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "Як ти там",
-    "releaseDate": "2022-08-04",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3mqipaxju12FE7eVtX742s",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c732e10ba25e11a037aee375",
+    "releaseDate": "2022-08-04",
+    "title": "Як ти там",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3mqipaxju12FE7eVtX742s",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",
@@ -768,14 +868,16 @@
     ]
   },
   {
-    "artists": ["TESLENKO"],
+    "artists": [
+      "TESLENKO"
+    ],
     "artistsPopularity": 43,
-    "title": "Я повернусь",
-    "releaseDate": "2022-04-22",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0LxWZ7JQuw2tr8dO67RxV8",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bb4c3c89e295679d873690c9",
+    "releaseDate": "2022-04-22",
+    "title": "Я повернусь",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0LxWZ7JQuw2tr8dO67RxV8",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:55.214Z",

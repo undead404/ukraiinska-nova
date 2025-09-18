@@ -1,317 +1,357 @@
 [
   {
-    "artists": ["GG ГуляйГород"],
+    "artists": [
+      "GG ГуляйГород"
+    ],
     "artistsPopularity": 17,
-    "title": "ПАNЯNКА",
-    "releaseDate": "2020-12-14",
-    "type": "album",
-    "totalTracks": 10,
-    "url": "https://open.spotify.com/album/0NhCLUVrWT6BJURTZ8kokH",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f93747fbe2d3f76ef014b538",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:20:16.774Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["GG ГуляйГород"],
-    "artistsPopularity": 17,
-    "title": "Ethno Energgy",
-    "releaseDate": "2018-02-27",
-    "type": "album",
-    "totalTracks": 9,
-    "url": "https://open.spotify.com/album/3rF7S46FEofxKr4hBFTAVD",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ced070ce9cf3e7e2bd17299b",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:20:16.774Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["GG ГуляйГород"],
-    "artistsPopularity": 17,
-    "title": "GG",
-    "releaseDate": "2016-01-01",
-    "type": "album",
+    "releaseDate": "2020-12-14",
+    "title": "ПАNЯNКА",
     "totalTracks": 10,
-    "url": "https://open.spotify.com/album/5BLSVxfCMaI3iXXWkH2h5i",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e4cc911ab32c3c37add7b7da",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:20:16.774Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["GG ГуляйГород"],
-    "artistsPopularity": 17,
-    "title": "Криниця (Remix)",
-    "releaseDate": "2025-07-25",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1UReUYUIQSLem4T6RsOZVO",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736319cacfb89f004a19e8ad37",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:20:16.774Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["GG ГуляйГород"],
-    "artistsPopularity": 17,
-    "title": "Криниця",
-    "releaseDate": "2025-02-07",
-    "type": "single",
-    "totalTracks": 2,
-    "url": "https://open.spotify.com/album/6n5jQypejZ1oxreyweRdZ3",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739ee984d4bd4629de8137ca38",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:20:16.774Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["GG ГуляйГород"],
-    "artistsPopularity": 17,
-    "title": "Добрий вечір (Колядка)",
-    "releaseDate": "2024-12-12",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1ZjSvocquHSoXMyBfwChmj",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733312faa38430f7ddb1344459",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:20:16.774Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["GG ГуляйГород"],
-    "artistsPopularity": 17,
-    "title": "Милий",
-    "releaseDate": "2023-10-05",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/76BYBIfiz5d2Lq7whujnNK",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27350109bf18e3ba07f2cf2a85a",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:20:16.774Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["GG ГуляйГород"],
-    "artistsPopularity": 17,
-    "title": "Тиха-тиха",
-    "releaseDate": "2022-11-28",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5Lax9UyVIqN1pxX79qfgiY",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab9fad07229ed75e8a41a57d",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:20:16.774Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["GG ГуляйГород"],
-    "artistsPopularity": 17,
-    "title": "Сон",
-    "releaseDate": "2022-06-10",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6v5wIc63FkgPioGjjY5l5e",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f02828b4b57d28066820b8a8",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:20:16.774Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["GG ГуляйГород"],
-    "artistsPopularity": 17,
-    "title": "Ой Весна Весна",
-    "releaseDate": "2022-05-11",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6SAyTtRptLcBjl3se1gLVw",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d9bb5f8c802d038ffb97754e",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:20:16.774Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["GG ГуляйГород"],
-    "artistsPopularity": 17,
-    "title": "Рясна-Красна Remixes",
-    "releaseDate": "2022-01-14",
-    "type": "single",
-    "totalTracks": 2,
-    "url": "https://open.spotify.com/album/25KYPMgysalPxp3TagNJl8",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c212cb1dce0492623e56b2d8",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:20:16.774Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["GG ГуляйГород"],
-    "artistsPopularity": 17,
-    "title": "Горщик (Remix)",
-    "releaseDate": "2021-11-05",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/72taNejclzYIb7d4CUxLGl",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27332dc5d08bdb48349549a9003",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:20:16.774Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["GG ГуляйГород"],
-    "artistsPopularity": 17,
-    "title": "Веснянка Remixes",
-    "releaseDate": "2021-10-08",
-    "type": "single",
-    "totalTracks": 2,
-    "url": "https://open.spotify.com/album/6SnkooamDjrba1VCrhzAsq",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c7b930fb550dadcf138c0a24",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:20:16.774Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["GG ГуляйГород"],
-    "artistsPopularity": 17,
-    "title": "Веснянка",
-    "releaseDate": "2021-06-30",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1Sn9ayS3nyIKLtHuMKLzRg",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273af034a7ecb430a0545fd1772",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:20:16.774Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["GG ГуляйГород"],
-    "artistsPopularity": 17,
-    "title": "Petrivka",
-    "releaseDate": "2020-07-07",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0xmNOs41q0KHtZnd9c7MMX",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738e2cf79fd454b3d25015c2e2",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:20:16.774Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["GG ГуляйГород"],
-    "artistsPopularity": 17,
-    "title": "See U",
-    "releaseDate": "2019-08-05",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6Tv73qgtCPfpravI4Ptc05",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27348b9df45b86b701bd8c9d890",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:20:16.774Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["GG ГуляйГород"],
-    "artistsPopularity": 17,
-    "title": "Зайчик",
-    "releaseDate": "2018-10-18",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0R54M3xsh8jlAHUFv0rf8S",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d50091f2a3e2ec02e203aa9b",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:20:16.774Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["GG ГуляйГород"],
-    "artistsPopularity": 17,
-    "title": "Обруч",
-    "releaseDate": "2017-12-15",
-    "type": "single",
-    "totalTracks": 2,
-    "url": "https://open.spotify.com/album/0ReWdsvuSHne2ZN1knooVU",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bb7b3232e904774c1d17e6db",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:20:16.774Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["GG ГуляйГород"],
-    "artistsPopularity": 17,
-    "title": "Гаївка",
-    "releaseDate": "2017-10-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1WHJZRp64TDVNr2YQLLt1J",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737d4c8aebb339568073050fc1",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:20:16.774Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Joryj Kłoc"],
-    "artistsPopularity": 27,
-    "title": "folktronica",
-    "releaseDate": "2023-05-10",
     "type": "album",
-    "totalTracks": 11,
-    "url": "https://open.spotify.com/album/5DGWNWPNxh2iZfqi3nzHpL",
+    "url": "https://open.spotify.com/album/0NhCLUVrWT6BJURTZ8kokH",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:20:16.774Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "GG ГуляйГород"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ced070ce9cf3e7e2bd17299b",
+    "releaseDate": "2018-02-27",
+    "title": "Ethno Energgy",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3rF7S46FEofxKr4hBFTAVD",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:20:16.774Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "GG ГуляйГород"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e4cc911ab32c3c37add7b7da",
+    "releaseDate": "2016-01-01",
+    "title": "GG",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5BLSVxfCMaI3iXXWkH2h5i",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:20:16.774Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "GG ГуляйГород"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736319cacfb89f004a19e8ad37",
+    "releaseDate": "2025-07-25",
+    "title": "Криниця (Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1UReUYUIQSLem4T6RsOZVO",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:20:16.774Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "GG ГуляйГород"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739ee984d4bd4629de8137ca38",
+    "releaseDate": "2025-02-07",
+    "title": "Криниця",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6n5jQypejZ1oxreyweRdZ3",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:20:16.774Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "GG ГуляйГород"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733312faa38430f7ddb1344459",
+    "releaseDate": "2024-12-12",
+    "title": "Добрий вечір (Колядка)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1ZjSvocquHSoXMyBfwChmj",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:20:16.774Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "GG ГуляйГород"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27350109bf18e3ba07f2cf2a85a",
+    "releaseDate": "2023-10-05",
+    "title": "Милий",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/76BYBIfiz5d2Lq7whujnNK",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:20:16.774Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "GG ГуляйГород"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab9fad07229ed75e8a41a57d",
+    "releaseDate": "2022-11-28",
+    "title": "Тиха-тиха",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5Lax9UyVIqN1pxX79qfgiY",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:20:16.774Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "GG ГуляйГород"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f02828b4b57d28066820b8a8",
+    "releaseDate": "2022-06-10",
+    "title": "Сон",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6v5wIc63FkgPioGjjY5l5e",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:20:16.774Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "GG ГуляйГород"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d9bb5f8c802d038ffb97754e",
+    "releaseDate": "2022-05-11",
+    "title": "Ой Весна Весна",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6SAyTtRptLcBjl3se1gLVw",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:20:16.774Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "GG ГуляйГород"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c212cb1dce0492623e56b2d8",
+    "releaseDate": "2022-01-14",
+    "title": "Рясна-Красна Remixes",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/25KYPMgysalPxp3TagNJl8",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:20:16.774Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "GG ГуляйГород"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27332dc5d08bdb48349549a9003",
+    "releaseDate": "2021-11-05",
+    "title": "Горщик (Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/72taNejclzYIb7d4CUxLGl",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:20:16.774Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "GG ГуляйГород"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c7b930fb550dadcf138c0a24",
+    "releaseDate": "2021-10-08",
+    "title": "Веснянка Remixes",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6SnkooamDjrba1VCrhzAsq",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:20:16.774Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "GG ГуляйГород"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273af034a7ecb430a0545fd1772",
+    "releaseDate": "2021-06-30",
+    "title": "Веснянка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1Sn9ayS3nyIKLtHuMKLzRg",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:20:16.774Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "GG ГуляйГород"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738e2cf79fd454b3d25015c2e2",
+    "releaseDate": "2020-07-07",
+    "title": "Petrivka",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0xmNOs41q0KHtZnd9c7MMX",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:20:16.774Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "GG ГуляйГород"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27348b9df45b86b701bd8c9d890",
+    "releaseDate": "2019-08-05",
+    "title": "See U",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6Tv73qgtCPfpravI4Ptc05",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:20:16.774Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "GG ГуляйГород"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d50091f2a3e2ec02e203aa9b",
+    "releaseDate": "2018-10-18",
+    "title": "Зайчик",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0R54M3xsh8jlAHUFv0rf8S",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:20:16.774Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "GG ГуляйГород"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bb7b3232e904774c1d17e6db",
+    "releaseDate": "2017-12-15",
+    "title": "Обруч",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0ReWdsvuSHne2ZN1knooVU",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:20:16.774Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "GG ГуляйГород"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737d4c8aebb339568073050fc1",
+    "releaseDate": "2017-10-24",
+    "title": "Гаївка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1WHJZRp64TDVNr2YQLLt1J",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:20:16.774Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Joryj Kłoc"
+    ],
+    "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732dcd793c7d51972e40c0a572",
+    "releaseDate": "2023-05-10",
+    "title": "folktronica",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5DGWNWPNxh2iZfqi3nzHpL",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:16.774Z",
@@ -320,14 +360,16 @@
     ]
   },
   {
-    "artists": ["PELYUH"],
+    "artists": [
+      "PELYUH"
+    ],
     "artistsPopularity": 20,
-    "title": "Веснянка (Remix)",
-    "releaseDate": "2023-10-06",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/47Ygcj7uLFHYXwjoPWXHJ7",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a8e3e341a4e4faab2e39e05f",
+    "releaseDate": "2023-10-06",
+    "title": "Веснянка (Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/47Ygcj7uLFHYXwjoPWXHJ7",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:16.774Z",
@@ -336,14 +378,16 @@
     ]
   },
   {
-    "artists": ["Geonozis"],
+    "artists": [
+      "Geonozis"
+    ],
     "artistsPopularity": 13,
-    "title": "Ой мамо, люблю Гриця",
-    "releaseDate": "2025-05-07",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4L1Poqs73FoVeIGqpaelE7",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27358f01fee2b8f4d838f60f087",
+    "releaseDate": "2025-05-07",
+    "title": "Ой мамо, люблю Гриця",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4L1Poqs73FoVeIGqpaelE7",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:16.774Z",
@@ -352,14 +396,16 @@
     ]
   },
   {
-    "artists": ["Geonozis"],
+    "artists": [
+      "Geonozis"
+    ],
     "artistsPopularity": 13,
-    "title": "Пес патрон",
-    "releaseDate": "2022-08-09",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6UnbM9ZJMjPUSqHZM9WmvH",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734a4f70e063cb5d7208a8076d",
+    "releaseDate": "2022-08-09",
+    "title": "Пес патрон",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6UnbM9ZJMjPUSqHZM9WmvH",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:16.774Z",
@@ -368,14 +414,16 @@
     ]
   },
   {
-    "artists": ["PELYUH"],
+    "artists": [
+      "PELYUH"
+    ],
     "artistsPopularity": 20,
-    "title": "Милий (remix)",
-    "releaseDate": "2023-11-10",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6ZrqHHy5KN720oxfxmAaMs",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ff9c55616ddcd1215631aa53",
+    "releaseDate": "2023-11-10",
+    "title": "Милий (remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6ZrqHHy5KN720oxfxmAaMs",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:16.774Z",
@@ -384,14 +432,16 @@
     ]
   },
   {
-    "artists": ["Geonozis"],
+    "artists": [
+      "Geonozis"
+    ],
     "artistsPopularity": 13,
-    "title": "Ой де була, молода дівчина",
-    "releaseDate": "2025-05-30",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5tPWm9vnuMFyZwdrgnHzdw",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab9eecdb86358a140b3eff65",
+    "releaseDate": "2025-05-30",
+    "title": "Ой де була, молода дівчина",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5tPWm9vnuMFyZwdrgnHzdw",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:16.774Z",

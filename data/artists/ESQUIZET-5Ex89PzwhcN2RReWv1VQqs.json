@@ -1,13 +1,15 @@
 [
   {
-    "artists": ["ESQUIZET"],
+    "artists": [
+      "ESQUIZET"
+    ],
     "artistsPopularity": 0,
-    "title": "Trivial Trivia",
-    "releaseDate": "2019-10-02",
-    "type": "album",
-    "totalTracks": 9,
-    "url": "https://open.spotify.com/album/0fVTeFvOgidyr1No3InXuQ",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bd49d28f0d0e7e636563eb32",
+    "releaseDate": "2019-10-02",
+    "title": "Trivial Trivia",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0fVTeFvOgidyr1No3InXuQ",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:11.706Z",
@@ -16,14 +18,16 @@
     ]
   },
   {
-    "artists": ["ESQUIZET"],
+    "artists": [
+      "ESQUIZET"
+    ],
     "artistsPopularity": 0,
-    "title": "Вище",
-    "releaseDate": "2025-02-07",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3G2ZIXbs1YRKi1NbNmmegl",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737365e06841ce4e035e95cdea",
+    "releaseDate": "2025-02-07",
+    "title": "Вище",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3G2ZIXbs1YRKi1NbNmmegl",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:11.706Z",
@@ -32,14 +36,16 @@
     ]
   },
   {
-    "artists": ["ESQUIZET"],
+    "artists": [
+      "ESQUIZET"
+    ],
     "artistsPopularity": 0,
-    "title": "Ask why",
-    "releaseDate": "2015",
-    "type": "single",
-    "totalTracks": 5,
-    "url": "https://open.spotify.com/album/1Dcwr9sX27CwUSegmpYKfK",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a96bd028605afb75da4f71d7",
+    "releaseDate": "2015",
+    "title": "Ask why",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1Dcwr9sX27CwUSegmpYKfK",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:11.706Z",

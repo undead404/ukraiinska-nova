@@ -1,13 +1,15 @@
 [
   {
-    "artists": ["Pictures Inside Me"],
+    "artists": [
+      "Pictures Inside Me"
+    ],
     "artistsPopularity": 3,
-    "title": "Обречённый жить",
-    "releaseDate": "2019-06-01",
-    "type": "album",
-    "totalTracks": 11,
-    "url": "https://open.spotify.com/album/5tfZcBn5sD5L2r6lsYtQ41",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c5e83251ea9d41056d0e2866",
+    "releaseDate": "2019-06-01",
+    "title": "Обречённый жить",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5tfZcBn5sD5L2r6lsYtQ41",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:14.272Z",
@@ -16,14 +18,16 @@
     ]
   },
   {
-    "artists": ["Pictures Inside Me"],
+    "artists": [
+      "Pictures Inside Me"
+    ],
     "artistsPopularity": 3,
-    "title": "Tesla",
-    "releaseDate": "2021-06-20",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2xhD2RA83RJkfv6gjiota3",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27365695a4bbd9319de05f74904",
+    "releaseDate": "2021-06-20",
+    "title": "Tesla",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2xhD2RA83RJkfv6gjiota3",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:14.272Z",
@@ -32,14 +36,16 @@
     ]
   },
   {
-    "artists": ["Pictures Inside Me"],
+    "artists": [
+      "Pictures Inside Me"
+    ],
     "artistsPopularity": 3,
-    "title": "Тепло других небес",
-    "releaseDate": "2021-02-14",
-    "type": "single",
-    "totalTracks": 6,
-    "url": "https://open.spotify.com/album/1jo5ilR4MBkwStL3vKXZXI",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a31ebd219b0fd824dab347ff",
+    "releaseDate": "2021-02-14",
+    "title": "Тепло других небес",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1jo5ilR4MBkwStL3vKXZXI",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:14.272Z",
