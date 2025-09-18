@@ -4,84 +4,12 @@
       "Zgard"
     ],
     "artistsPopularity": 1,
-    "title": "Place of Power",
-    "releaseDate": "2021-05-21",
-    "type": "album",
-    "totalTracks": 8,
-    "url": "https://open.spotify.com/album/6u0TjpOeK5b6IuWeJ3tXXt",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736754ba20148d1f7b365dd487",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T09:24:28.925Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "Zgard"
-    ],
-    "artistsPopularity": 1,
-    "title": "Within the Swirl of Black Vigor",
-    "releaseDate": "2017-10-21",
-    "type": "album",
-    "totalTracks": 8,
-    "url": "https://open.spotify.com/album/1PNqajQiUBeDHGthx9TOUc",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a5a57ed3c52a04579566b171",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T09:24:28.925Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "Zgard"
-    ],
-    "artistsPopularity": 1,
-    "title": "Astral Glow",
-    "releaseDate": "2013",
-    "type": "album",
-    "totalTracks": 8,
-    "url": "https://open.spotify.com/album/6H52hsRy3xhbNYJOW4kJ5O",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732b47251564116eab92ff5565",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T09:24:28.925Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "Zgard"
-    ],
-    "artistsPopularity": 1,
-    "title": "Reclusion",
-    "releaseDate": "2012",
-    "type": "album",
-    "totalTracks": 8,
-    "url": "https://open.spotify.com/album/2aUP9o50O6ZeAGcYwNXn5M",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737081b9878601c3ffca5a6bcd",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T09:24:28.925Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "Zgard"
-    ],
-    "artistsPopularity": 1,
+    "releaseDate": "2021-05-21",
     "title": "Place of Power",
-    "releaseDate": "2021-05-07",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5sFloGqo09phq7fLUFJxxb",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736ff618ff9a056423235e47dd",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6u0TjpOeK5b6IuWeJ3tXXt",
     "appearanceLog": [
       {
         "time": "2025-09-17T09:24:28.925Z",
@@ -94,12 +22,84 @@
       "Zgard"
     ],
     "artistsPopularity": 1,
-    "title": "Old Ruins",
-    "releaseDate": "2021-04-23",
-    "type": "single",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a5a57ed3c52a04579566b171",
+    "releaseDate": "2017-10-21",
+    "title": "Within the Swirl of Black Vigor",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1PNqajQiUBeDHGthx9TOUc",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T09:24:28.925Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Zgard"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732b47251564116eab92ff5565",
+    "releaseDate": "2013",
+    "title": "Astral Glow",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6H52hsRy3xhbNYJOW4kJ5O",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T09:24:28.925Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Zgard"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737081b9878601c3ffca5a6bcd",
+    "releaseDate": "2012",
+    "title": "Reclusion",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2aUP9o50O6ZeAGcYwNXn5M",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T09:24:28.925Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Zgard"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736ff618ff9a056423235e47dd",
+    "releaseDate": "2021-05-07",
+    "title": "Place of Power",
     "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1Jitd0pmEyohIv5wgfg9m3",
+    "type": "single",
+    "url": "https://open.spotify.com/album/5sFloGqo09phq7fLUFJxxb",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T09:24:28.925Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Zgard"
+    ],
+    "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27346e5db6c9a8a48c099e23860",
+    "releaseDate": "2021-04-23",
+    "title": "Old Ruins",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1Jitd0pmEyohIv5wgfg9m3",
     "appearanceLog": [
       {
         "time": "2025-09-17T09:24:28.925Z",
