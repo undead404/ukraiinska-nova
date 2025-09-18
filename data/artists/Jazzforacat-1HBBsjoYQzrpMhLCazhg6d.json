@@ -4,102 +4,102 @@
       "Jazzforacat"
     ],
     "artistsPopularity": 16,
-    "title": "Важливі деталі",
-    "releaseDate": "2019-04-09",
-    "type": "album",
-    "totalTracks": 12,
-    "url": "https://open.spotify.com/album/6D6iM8x1NY1q9qvcN7F7rv",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f1bc6c0191f02e7072182a4f",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:24:05.663Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "Jazzforacat"
-    ],
-    "artistsPopularity": 16,
-    "title": "Знайду свою весну",
-    "releaseDate": "2021-04-10",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5dlJ0iYywCy5MWbfjvi5E5",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273568814605ec2119b6962fa54",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:24:05.663Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "Jazzforacat"
-    ],
-    "artistsPopularity": 16,
-    "title": "Майже єва",
-    "releaseDate": "2019-12-25",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/16xMhjwZIx5eeYJ7vArTGG",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731d545abeee1f4fa58ccb90bd",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:24:05.663Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "Jazzforacat"
-    ],
-    "artistsPopularity": 16,
-    "title": "Туман",
-    "releaseDate": "2019-12-21",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7etQzQEYipp4NwlJNn1T6g",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738bb3a327c5e65b336a42ae56",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:24:05.663Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "Jazzforacat"
-    ],
-    "artistsPopularity": 16,
-    "title": "Згораємо",
-    "releaseDate": "2019-10-10",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4EuV6jAJMyBUu433rvULy1",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fdd82fad3e37c97d24a35a2e",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:24:05.663Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "Jazzforacat"
-    ],
-    "artistsPopularity": 16,
+    "releaseDate": "2019-04-09",
     "title": "Важливі деталі",
-    "releaseDate": "2019-02-20",
-    "type": "single",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6D6iM8x1NY1q9qvcN7F7rv",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:24:05.663Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Jazzforacat"
+    ],
+    "artistsPopularity": 16,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273568814605ec2119b6962fa54",
+    "releaseDate": "2021-04-10",
+    "title": "Знайду свою весну",
     "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0KftP7ZZca3ZyvpYe1hIB5",
+    "type": "single",
+    "url": "https://open.spotify.com/album/5dlJ0iYywCy5MWbfjvi5E5",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:24:05.663Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Jazzforacat"
+    ],
+    "artistsPopularity": 16,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731d545abeee1f4fa58ccb90bd",
+    "releaseDate": "2019-12-25",
+    "title": "Майже єва",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/16xMhjwZIx5eeYJ7vArTGG",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:24:05.663Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Jazzforacat"
+    ],
+    "artistsPopularity": 16,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738bb3a327c5e65b336a42ae56",
+    "releaseDate": "2019-12-21",
+    "title": "Туман",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7etQzQEYipp4NwlJNn1T6g",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:24:05.663Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Jazzforacat"
+    ],
+    "artistsPopularity": 16,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fdd82fad3e37c97d24a35a2e",
+    "releaseDate": "2019-10-10",
+    "title": "Згораємо",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4EuV6jAJMyBUu433rvULy1",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:24:05.663Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Jazzforacat"
+    ],
+    "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273911150127da7802de99304bf",
+    "releaseDate": "2019-02-20",
+    "title": "Важливі деталі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0KftP7ZZca3ZyvpYe1hIB5",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:05.663Z",

@@ -4,12 +4,12 @@
       "Holy Blood"
     ],
     "artistsPopularity": 8,
-    "title": "The Patriot (15th Anniversary Edition) [Remastered]",
-    "releaseDate": "2023-05-12",
-    "type": "album",
-    "totalTracks": 18,
-    "url": "https://open.spotify.com/album/0tw4CfVZWsHiiIDtFcKvjq",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273596f641d5825c464ebba9638",
+    "releaseDate": "2023-05-12",
+    "title": "The Patriot (15th Anniversary Edition) [Remastered]",
+    "totalTracks": 18,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0tw4CfVZWsHiiIDtFcKvjq",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:47.241Z",
@@ -22,12 +22,12 @@
       "Holy Blood"
     ],
     "artistsPopularity": 8,
-    "title": "The Wanderer 20th Anniversary Edition",
-    "releaseDate": "2023-05-05",
-    "type": "album",
-    "totalTracks": 22,
-    "url": "https://open.spotify.com/album/44kyBy0MYM7ELnKR5gPRrx",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27346c018c61afa4fd39c4267ab",
+    "releaseDate": "2023-05-05",
+    "title": "The Wanderer 20th Anniversary Edition",
+    "totalTracks": 22,
+    "type": "album",
+    "url": "https://open.spotify.com/album/44kyBy0MYM7ELnKR5gPRrx",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:47.241Z",
@@ -40,12 +40,12 @@
       "Holy Blood"
     ],
     "artistsPopularity": 8,
-    "title": "Shining Sun (Remastered & Expanded)",
-    "releaseDate": "2021-07-03",
-    "type": "album",
-    "totalTracks": 14,
-    "url": "https://open.spotify.com/album/68katUlgCF6YnslVq2FkxH",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737978a7f97c0711ee3ca30ef5",
+    "releaseDate": "2021-07-03",
+    "title": "Shining Sun (Remastered & Expanded)",
+    "totalTracks": 14,
+    "type": "album",
+    "url": "https://open.spotify.com/album/68katUlgCF6YnslVq2FkxH",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:47.241Z",
@@ -58,12 +58,12 @@
       "Holy Blood"
     ],
     "artistsPopularity": 8,
-    "title": "Day of Vengeance (Remastered)",
-    "releaseDate": "2021-02-19",
-    "type": "album",
-    "totalTracks": 11,
-    "url": "https://open.spotify.com/album/7KQQTzZEUprCMOKekbrxwi",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b561caa5c12bd2f8ac38b5cd",
+    "releaseDate": "2021-02-19",
+    "title": "Day of Vengeance (Remastered)",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7KQQTzZEUprCMOKekbrxwi",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:47.241Z",
@@ -76,30 +76,12 @@
       "Holy Blood"
     ],
     "artistsPopularity": 8,
-    "title": "Waves Are Dancing (Remastered)",
-    "releaseDate": "2020-11-18",
-    "type": "album",
-    "totalTracks": 12,
-    "url": "https://open.spotify.com/album/7GTnv93FiyqexllkNHU6Zy",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730ff17fd4ae38759d0a56bede",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:47.241Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "Holy Blood"
-    ],
-    "artistsPopularity": 8,
-    "title": "Voice of Blood",
-    "releaseDate": "2019-02-15",
+    "releaseDate": "2020-11-18",
+    "title": "Waves Are Dancing (Remastered)",
+    "totalTracks": 12,
     "type": "album",
-    "totalTracks": 8,
-    "url": "https://open.spotify.com/album/5XIwVFsA06fLLJblN0dGyH",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732310e092795859820ba3c3b8",
+    "url": "https://open.spotify.com/album/7GTnv93FiyqexllkNHU6Zy",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:47.241Z",
@@ -112,12 +94,30 @@
       "Holy Blood"
     ],
     "artistsPopularity": 8,
-    "title": "Glory to the Heroes",
-    "releaseDate": "2017-05-10",
-    "type": "single",
-    "totalTracks": 5,
-    "url": "https://open.spotify.com/album/5pyu4mDywyHyAtSDmCr13t",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732310e092795859820ba3c3b8",
+    "releaseDate": "2019-02-15",
+    "title": "Voice of Blood",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5XIwVFsA06fLLJblN0dGyH",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:47.241Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Holy Blood"
+    ],
+    "artistsPopularity": 8,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733684e1d5cc157d651b3d43c0",
+    "releaseDate": "2017-05-10",
+    "title": "Glory to the Heroes",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5pyu4mDywyHyAtSDmCr13t",
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:47.241Z",
