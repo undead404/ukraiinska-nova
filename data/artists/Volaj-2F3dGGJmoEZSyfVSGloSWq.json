@@ -1,56 +1,56 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T14:26:53.602Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "Volaj"
     ],
     "artistsPopularity": 5,
-    "title": "Може потім буде краще?",
-    "releaseDate": "2025-08-28",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3hnZVrTiT5BZDf8VV5FxQo",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cc39068c60e523d1ba365766",
+    "releaseDate": "2025-08-28",
+    "title": "Може потім буде краще?",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3hnZVrTiT5BZDf8VV5FxQo"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T14:26:53.602Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Volaj"
     ],
     "artistsPopularity": 5,
-    "title": "Скільки ще потрібно буде часу?",
-    "releaseDate": "2024-10-25",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1s0FUuZcFq4MfFaCRvViUU",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730c5243534d8a4e0529e403a3",
+    "releaseDate": "2024-10-25",
+    "title": "Скільки ще потрібно буде часу?",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1s0FUuZcFq4MfFaCRvViUU"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T14:26:53.602Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Volaj"
     ],
     "artistsPopularity": 5,
-    "title": "Чи справді ти хоч колись відчував?",
-    "releaseDate": "2024-09-27",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6u1s7UBnyow3kYX0wDbRX8",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273787c5ff676227e3a765ea391",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T14:26:53.602Z",
-        "type": "FOUND"
-      }
-    ]
+    "releaseDate": "2024-09-27",
+    "title": "Чи справді ти хоч колись відчував?",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6u1s7UBnyow3kYX0wDbRX8"
   }
 ]
