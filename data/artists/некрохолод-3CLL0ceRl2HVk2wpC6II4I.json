@@ -1,6 +1,8 @@
 [
   {
-    "artists": ["некрохолод"],
+    "artists": [
+      "некрохолод"
+    ],
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a13fe663c140e15eddee29a3",
     "releaseDate": "2025-07-31",
@@ -16,7 +18,9 @@
     ]
   },
   {
-    "artists": ["некрохолод"],
+    "artists": [
+      "некрохолод"
+    ],
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732576beb0fe9e84d5aecb28e5",
     "releaseDate": "2025-06-18",
@@ -32,7 +36,9 @@
     ]
   },
   {
-    "artists": ["некрохолод"],
+    "artists": [
+      "некрохолод"
+    ],
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d3987b0cb616733e59fa4d82",
     "releaseDate": "2024-06-07",
@@ -48,7 +54,9 @@
     ]
   },
   {
-    "artists": ["некрохолод"],
+    "artists": [
+      "некрохолод"
+    ],
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a746591766ead43e2fd3fcfd",
     "releaseDate": "2024-03-02",
@@ -64,7 +72,9 @@
     ]
   },
   {
-    "artists": ["некрохолод"],
+    "artists": [
+      "некрохолод"
+    ],
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e466eb8e594f8d126e344165",
     "releaseDate": "2025-05-07",
@@ -80,7 +90,9 @@
     ]
   },
   {
-    "artists": ["некрохолод"],
+    "artists": [
+      "некрохолод"
+    ],
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735e04bbdf8c12a11b06536afd",
     "releaseDate": "2025-01-11",
@@ -96,7 +108,9 @@
     ]
   },
   {
-    "artists": ["некрохолод"],
+    "artists": [
+      "некрохолод"
+    ],
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273192dd2fd978f7ba18ab38947",
     "releaseDate": "2024-12-01",
@@ -112,7 +126,9 @@
     ]
   },
   {
-    "artists": ["некрохолод"],
+    "artists": [
+      "некрохолод"
+    ],
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f6ae26a4cfcf3db75b589fd0",
     "releaseDate": "2023-06-23",

@@ -1,6 +1,8 @@
 [
   {
-    "artists": ["Новимний Кудень"],
+    "artists": [
+      "Новимний Кудень"
+    ],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27349871508d055efcf46f2f79d",
     "releaseDate": "2022-08-16",

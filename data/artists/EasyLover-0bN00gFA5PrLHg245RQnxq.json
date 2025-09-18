@@ -1,13 +1,15 @@
 [
   {
-    "artists": ["EasyLover"],
+    "artists": [
+      "EasyLover"
+    ],
     "artistsPopularity": 14,
-    "title": "So High Freestyle",
-    "releaseDate": "2025-07-25",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2LHv9kcyksowuWef1vNjUs",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a28cc7a52a78f09d82dbae5d",
+    "releaseDate": "2025-07-25",
+    "title": "So High Freestyle",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2LHv9kcyksowuWef1vNjUs",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -16,14 +18,17 @@
     ]
   },
   {
-    "artists": ["yanww", "EasyLover"],
+    "artists": [
+      "yanww",
+      "EasyLover"
+    ],
     "artistsPopularity": 14,
-    "title": "Треба 2",
-    "releaseDate": "2025-06-13",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1LlIMWvwMnvCMfXROjfc50",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733501b8b4dcb0a3fe9962f80f",
+    "releaseDate": "2025-06-13",
+    "title": "Треба 2",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1LlIMWvwMnvCMfXROjfc50",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -32,14 +37,16 @@
     ]
   },
   {
-    "artists": ["EasyLover"],
+    "artists": [
+      "EasyLover"
+    ],
     "artistsPopularity": 14,
-    "title": "Stories",
-    "releaseDate": "2025-04-11",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4AbIs3qoabC38AxgRXwl2H",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e4e462755dd21aebff4c49b5",
+    "releaseDate": "2025-04-11",
+    "title": "Stories",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4AbIs3qoabC38AxgRXwl2H",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -48,14 +55,16 @@
     ]
   },
   {
-    "artists": ["EasyLover"],
+    "artists": [
+      "EasyLover"
+    ],
     "artistsPopularity": 14,
-    "title": "Контакт",
-    "releaseDate": "2025-01-10",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0ejogOfu7J06OB3uUfNXPz",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27304e1d5f2cbc35b37ecce77fd",
+    "releaseDate": "2025-01-10",
+    "title": "Контакт",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0ejogOfu7J06OB3uUfNXPz",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -64,14 +73,16 @@
     ]
   },
   {
-    "artists": ["EasyLover"],
+    "artists": [
+      "EasyLover"
+    ],
     "artistsPopularity": 14,
-    "title": "Тремор",
-    "releaseDate": "2024-04-05",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3aIVPFUAmbf5uzXQhhl0QU",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eee6531e3e6241943edad3df",
+    "releaseDate": "2024-04-05",
+    "title": "Тремор",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3aIVPFUAmbf5uzXQhhl0QU",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -80,14 +91,17 @@
     ]
   },
   {
-    "artists": ["EasyLover", "areunor"],
+    "artists": [
+      "EasyLover",
+      "areunor"
+    ],
     "artistsPopularity": 14,
-    "title": "Street Fighter",
-    "releaseDate": "2023-11-17",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/48yVjAdftRwQawBSS2Vexm",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d537e636563d6e4182f1ef7a",
+    "releaseDate": "2023-11-17",
+    "title": "Street Fighter",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/48yVjAdftRwQawBSS2Vexm",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -96,14 +110,17 @@
     ]
   },
   {
-    "artists": ["EasyLover", "Defy Def"],
+    "artists": [
+      "EasyLover",
+      "Defy Def"
+    ],
     "artistsPopularity": 14,
-    "title": "Масони",
-    "releaseDate": "2023-06-23",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0TkEnNQ3TLHpBjpaZr0s3u",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739cdccc1397b278e0b3a6e07e",
+    "releaseDate": "2023-06-23",
+    "title": "Масони",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0TkEnNQ3TLHpBjpaZr0s3u",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -112,14 +129,16 @@
     ]
   },
   {
-    "artists": ["EasyLover"],
+    "artists": [
+      "EasyLover"
+    ],
     "artistsPopularity": 14,
-    "title": "Лілії",
-    "releaseDate": "2023-05-12",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3ex2PR0tYQVywS7oU85gNC",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731637134f8fe5b77b5d8bf131",
+    "releaseDate": "2023-05-12",
+    "title": "Лілії",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3ex2PR0tYQVywS7oU85gNC",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -128,14 +147,16 @@
     ]
   },
   {
-    "artists": ["EasyLover"],
+    "artists": [
+      "EasyLover"
+    ],
     "artistsPopularity": 14,
-    "title": "Monkey Business",
-    "releaseDate": "2023-04-14",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7sSMmF7O5aMO1IvDQ0L3Zl",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273da017fd5f62b34a206a21d5a",
+    "releaseDate": "2023-04-14",
+    "title": "Monkey Business",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7sSMmF7O5aMO1IvDQ0L3Zl",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -144,14 +165,17 @@
     ]
   },
   {
-    "artists": ["LIL RUSYA", "EasyLover"],
+    "artists": [
+      "LIL RUSYA",
+      "EasyLover"
+    ],
     "artistsPopularity": 14,
-    "title": "Сенсей",
-    "releaseDate": "2023-01-20",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3WB2RXrKCGBgzfepTz9J3k",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738bd72b92c2d6a24d66ccd08b",
+    "releaseDate": "2023-01-20",
+    "title": "Сенсей",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3WB2RXrKCGBgzfepTz9J3k",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -160,14 +184,16 @@
     ]
   },
   {
-    "artists": ["EasyLover"],
+    "artists": [
+      "EasyLover"
+    ],
     "artistsPopularity": 14,
-    "title": "Аляска",
-    "releaseDate": "2022-12-30",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3Mn1CRDtEePbbfMlJ7fqjj",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e92002040aa9f2c3f6b42674",
+    "releaseDate": "2022-12-30",
+    "title": "Аляска",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3Mn1CRDtEePbbfMlJ7fqjj",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -176,14 +202,17 @@
     ]
   },
   {
-    "artists": ["Nockonsep", "EasyLover"],
+    "artists": [
+      "Nockonsep",
+      "EasyLover"
+    ],
     "artistsPopularity": 14,
-    "title": "Якого біса?",
-    "releaseDate": "2022-12-09",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3Y4gXDxr1oLpxhiFeAeDCU",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737f630a9b3a4cd9b0a438239d",
+    "releaseDate": "2022-12-09",
+    "title": "Якого біса?",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3Y4gXDxr1oLpxhiFeAeDCU",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -192,14 +221,18 @@
     ]
   },
   {
-    "artists": ["РЕНДЕР", "EasyLover", "LIL RUSYA"],
+    "artists": [
+      "РЕНДЕР",
+      "EasyLover",
+      "LIL RUSYA"
+    ],
     "artistsPopularity": 14,
-    "title": "5 кесів",
-    "releaseDate": "2022-11-29",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6eCZRMAG95PiEeSxVt2T4u",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273245a71cb2740d878d0828dc0",
+    "releaseDate": "2022-11-29",
+    "title": "5 кесів",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6eCZRMAG95PiEeSxVt2T4u",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -208,14 +241,16 @@
     ]
   },
   {
-    "artists": ["EasyLover"],
+    "artists": [
+      "EasyLover"
+    ],
     "artistsPopularity": 14,
-    "title": "1000 причин",
-    "releaseDate": "2022-11-18",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/68BEAPHNXgeO6QoIHXS5WD",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b49db0529f74dc0894b0bd33",
+    "releaseDate": "2022-11-18",
+    "title": "1000 причин",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/68BEAPHNXgeO6QoIHXS5WD",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -224,14 +259,17 @@
     ]
   },
   {
-    "artists": ["EasyLover", "Sad Novelist"],
+    "artists": [
+      "EasyLover",
+      "Sad Novelist"
+    ],
     "artistsPopularity": 37,
-    "title": "Не така",
-    "releaseDate": "2022-10-21",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3AtVpY82VhqPz3KnYZCEwE",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273008ab00ecce4e4bb65c9a11f",
+    "releaseDate": "2022-10-21",
+    "title": "Не така",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3AtVpY82VhqPz3KnYZCEwE",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -240,14 +278,18 @@
     ]
   },
   {
-    "artists": ["Sleepy Andy", "EasyLover", "drimandr"],
+    "artists": [
+      "Sleepy Andy",
+      "EasyLover",
+      "drimandr"
+    ],
     "artistsPopularity": 23,
-    "title": "Піжамна вечірка",
-    "releaseDate": "2022-09-01",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5j6Wzz5SYjQgEcjM2es2xB",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27336ad2930b8db44e37b045369",
+    "releaseDate": "2022-09-01",
+    "title": "Піжамна вечірка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5j6Wzz5SYjQgEcjM2es2xB",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -256,14 +298,17 @@
     ]
   },
   {
-    "artists": ["AveKucher", "EasyLover"],
+    "artists": [
+      "AveKucher",
+      "EasyLover"
+    ],
     "artistsPopularity": 14,
-    "title": "Рима до слова лох",
-    "releaseDate": "2022-08-26",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3VoVPH0aRMZ7tSOSbSqYNN",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731b8fbf9e3d356b0f2820125b",
+    "releaseDate": "2022-08-26",
+    "title": "Рима до слова лох",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3VoVPH0aRMZ7tSOSbSqYNN",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -272,14 +317,16 @@
     ]
   },
   {
-    "artists": ["EasyLover"],
+    "artists": [
+      "EasyLover"
+    ],
     "artistsPopularity": 14,
-    "title": "Мертвий Купідон",
-    "releaseDate": "2022-08-19",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5CfmBhPDN1xrdVi1AplXgX",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a00c7f0ed814b06be26a9bcf",
+    "releaseDate": "2022-08-19",
+    "title": "Мертвий Купідон",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5CfmBhPDN1xrdVi1AplXgX",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -288,14 +335,18 @@
     ]
   },
   {
-    "artists": ["РЕНДЕР", "EasyLover", "drimandr"],
+    "artists": [
+      "РЕНДЕР",
+      "EasyLover",
+      "drimandr"
+    ],
     "artistsPopularity": 23,
-    "title": "Під твоїм під'їздом",
-    "releaseDate": "2022-07-08",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1RdzAFYYDBJCbc8ASmzCSP",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737bdbfed19aa52c8c958380fe",
+    "releaseDate": "2022-07-08",
+    "title": "Під твоїм під'їздом",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1RdzAFYYDBJCbc8ASmzCSP",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -304,14 +355,16 @@
     ]
   },
   {
-    "artists": ["EasyLover"],
+    "artists": [
+      "EasyLover"
+    ],
     "artistsPopularity": 14,
-    "title": "Крісло",
-    "releaseDate": "2022-05-27",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4ln0HKahXDMFNCDGrpuu6O",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273abd56978d81320ca93f70372",
+    "releaseDate": "2022-05-27",
+    "title": "Крісло",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4ln0HKahXDMFNCDGrpuu6O",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -320,14 +373,16 @@
     ]
   },
   {
-    "artists": ["EasyLover"],
+    "artists": [
+      "EasyLover"
+    ],
     "artistsPopularity": 14,
-    "title": "Бензин",
-    "releaseDate": "2022-05-21",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7w2GA8P5i2aQQozUCkhEGd",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27306bb0ff7c91851c5460e2e5a",
+    "releaseDate": "2022-05-21",
+    "title": "Бензин",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7w2GA8P5i2aQQozUCkhEGd",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -336,14 +391,17 @@
     ]
   },
   {
-    "artists": ["Sleepy Andy", "EasyLover"],
+    "artists": [
+      "Sleepy Andy",
+      "EasyLover"
+    ],
     "artistsPopularity": 16,
-    "title": "Альпака",
-    "releaseDate": "2022-05-06",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0IMLZcrOgvUyNmOkeVyjG0",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ecde86179a99a9eb05855294",
+    "releaseDate": "2022-05-06",
+    "title": "Альпака",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0IMLZcrOgvUyNmOkeVyjG0",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -352,14 +410,16 @@
     ]
   },
   {
-    "artists": ["EasyLover"],
+    "artists": [
+      "EasyLover"
+    ],
     "artistsPopularity": 14,
-    "title": "Кайдани",
-    "releaseDate": "2021-12-17",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3IW7TjoMNq1xIq14Qi3js0",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f820d9eb1fa5b28cd4b8dd4",
+    "releaseDate": "2021-12-17",
+    "title": "Кайдани",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3IW7TjoMNq1xIq14Qi3js0",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -368,14 +428,16 @@
     ]
   },
   {
-    "artists": ["EasyLover"],
+    "artists": [
+      "EasyLover"
+    ],
     "artistsPopularity": 14,
-    "title": "Попелом для тебе",
-    "releaseDate": "2021-11-19",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2Raxdqn9xM5DPX07G12Dm7",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273881da7c9a4473e8ddb3a45c0",
+    "releaseDate": "2021-11-19",
+    "title": "Попелом для тебе",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2Raxdqn9xM5DPX07G12Dm7",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -384,14 +446,16 @@
     ]
   },
   {
-    "artists": ["EasyLover"],
+    "artists": [
+      "EasyLover"
+    ],
     "artistsPopularity": 14,
-    "title": "Садівник",
-    "releaseDate": "2021-09-17",
-    "type": "single",
-    "totalTracks": 3,
-    "url": "https://open.spotify.com/album/1plOPtwPz5t2J8o68wamCU",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27324230cbcfa332df9dd14e8e4",
+    "releaseDate": "2021-09-17",
+    "title": "Садівник",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1plOPtwPz5t2J8o68wamCU",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -400,14 +464,16 @@
     ]
   },
   {
-    "artists": ["EasyLover"],
+    "artists": [
+      "EasyLover"
+    ],
     "artistsPopularity": 14,
-    "title": "Крижана",
-    "releaseDate": "2021-06-25",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0ImFoMmyw4aPEFuu1vrP8x",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eb096293fe91f667695c8987",
+    "releaseDate": "2021-06-25",
+    "title": "Крижана",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0ImFoMmyw4aPEFuu1vrP8x",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -416,14 +482,17 @@
     ]
   },
   {
-    "artists": ["EasyLover", "drimandr"],
+    "artists": [
+      "EasyLover",
+      "drimandr"
+    ],
     "artistsPopularity": 23,
-    "title": "Makitra 2",
-    "releaseDate": "2021-05-05",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0T3zPlOgGgEapBv2Z4Vv5v",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b8d80fac4811a9d0324939be",
+    "releaseDate": "2021-05-05",
+    "title": "Makitra 2",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0T3zPlOgGgEapBv2Z4Vv5v",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -432,14 +501,17 @@
     ]
   },
   {
-    "artists": ["drimandr", "EasyLover"],
+    "artists": [
+      "drimandr",
+      "EasyLover"
+    ],
     "artistsPopularity": 23,
-    "title": "Н.Л.О.Ve",
-    "releaseDate": "2021-02-12",
-    "type": "single",
-    "totalTracks": 5,
-    "url": "https://open.spotify.com/album/6pOLv2SOkJwMMHWFsJPXTB",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739fdb4e8f2ed2a0f4c084b7fd",
+    "releaseDate": "2021-02-12",
+    "title": "Н.Л.О.Ve",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6pOLv2SOkJwMMHWFsJPXTB",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -448,14 +520,16 @@
     ]
   },
   {
-    "artists": ["EasyLover"],
+    "artists": [
+      "EasyLover"
+    ],
     "artistsPopularity": 14,
-    "title": "Танок Шикігамі",
-    "releaseDate": "2021-01-22",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0cKrcVWta4wUfHwcE7AMek",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27380dfcdbeffd7314ae48ed255",
+    "releaseDate": "2021-01-22",
+    "title": "Танок Шикігамі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0cKrcVWta4wUfHwcE7AMek",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -464,14 +538,17 @@
     ]
   },
   {
-    "artists": ["Sleepy Andy", "EasyLover"],
+    "artists": [
+      "Sleepy Andy",
+      "EasyLover"
+    ],
     "artistsPopularity": 16,
-    "title": "Самотній",
-    "releaseDate": "2020-12-04",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3FH6SJsIMTOtSYsknVEkm0",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273575e8b68a9a6dca9536459d2",
+    "releaseDate": "2020-12-04",
+    "title": "Самотній",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3FH6SJsIMTOtSYsknVEkm0",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -480,14 +557,17 @@
     ]
   },
   {
-    "artists": ["drimandr", "EasyLover"],
+    "artists": [
+      "drimandr",
+      "EasyLover"
+    ],
     "artistsPopularity": 23,
-    "title": "Lean'",
-    "releaseDate": "2020-10-16",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6qSg3HRGcp2gu4yErXbPYj",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738dd64c541189192e290dae24",
+    "releaseDate": "2020-10-16",
+    "title": "Lean'",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6qSg3HRGcp2gu4yErXbPYj",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -496,14 +576,16 @@
     ]
   },
   {
-    "artists": ["EasyLover"],
+    "artists": [
+      "EasyLover"
+    ],
     "artistsPopularity": 14,
-    "title": "Wine Ocean",
-    "releaseDate": "2020-10-02",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/07SQN562ijeG22snoUzy0E",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fd7208cf07b47a4881eda443",
+    "releaseDate": "2020-10-02",
+    "title": "Wine Ocean",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/07SQN562ijeG22snoUzy0E",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -512,14 +594,17 @@
     ]
   },
   {
-    "artists": ["EasyLover", "drimandr"],
+    "artists": [
+      "EasyLover",
+      "drimandr"
+    ],
     "artistsPopularity": 23,
-    "title": "Meta",
-    "releaseDate": "2020-07-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2kH787adoXPUIjrbsYqRMv",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27300634632d04b9a4c8839eccd",
+    "releaseDate": "2020-07-24",
+    "title": "Meta",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2kH787adoXPUIjrbsYqRMv",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -528,14 +613,16 @@
     ]
   },
   {
-    "artists": ["EasyLover"],
+    "artists": [
+      "EasyLover"
+    ],
     "artistsPopularity": 14,
-    "title": "Platinum",
-    "releaseDate": "2020-07-17",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5FsQPNKs7Fn9iWVn3O5Psx",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a09edb8ee048330d971b0ce8",
+    "releaseDate": "2020-07-17",
+    "title": "Platinum",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5FsQPNKs7Fn9iWVn3O5Psx",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -544,14 +631,16 @@
     ]
   },
   {
-    "artists": ["EasyLover"],
+    "artists": [
+      "EasyLover"
+    ],
     "artistsPopularity": 14,
-    "title": "Німе кіно (Акустична версія)",
-    "releaseDate": "2020-06-22",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/21biu03tvP8FnkAomjKErA",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27354be46fbe79013ebcb6a6683",
+    "releaseDate": "2020-06-22",
+    "title": "Німе кіно (Акустична версія)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/21biu03tvP8FnkAomjKErA",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -560,14 +649,16 @@
     ]
   },
   {
-    "artists": ["EasyLover"],
+    "artists": [
+      "EasyLover"
+    ],
     "artistsPopularity": 14,
-    "title": "Похоть і Журба",
-    "releaseDate": "2020-06-05",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2XR5UMJ9d9MmXnMIJN5usw",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737a3585e4efdcfa829af627f2",
+    "releaseDate": "2020-06-05",
+    "title": "Похоть і Журба",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2XR5UMJ9d9MmXnMIJN5usw",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -576,14 +667,17 @@
     ]
   },
   {
-    "artists": ["drimandr", "EasyLover"],
+    "artists": [
+      "drimandr",
+      "EasyLover"
+    ],
     "artistsPopularity": 23,
-    "title": "Makitra",
-    "releaseDate": "2020-05-20",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2cYyNKdVD3wgnZRuSWHbU2",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27332f60114c9e7a9164eb33c9d",
+    "releaseDate": "2020-05-20",
+    "title": "Makitra",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2cYyNKdVD3wgnZRuSWHbU2",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -592,14 +686,16 @@
     ]
   },
   {
-    "artists": ["EasyLover"],
+    "artists": [
+      "EasyLover"
+    ],
     "artistsPopularity": 14,
-    "title": "Lifestyle Paskuda",
-    "releaseDate": "2020-04-01",
-    "type": "single",
-    "totalTracks": 4,
-    "url": "https://open.spotify.com/album/51ZkaSxuhcZLSKM0P8kAfy",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730afd0f13aa6a7d17419853a3",
+    "releaseDate": "2020-04-01",
+    "title": "Lifestyle Paskuda",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/51ZkaSxuhcZLSKM0P8kAfy",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -608,14 +704,16 @@
     ]
   },
   {
-    "artists": ["EasyLover"],
+    "artists": [
+      "EasyLover"
+    ],
     "artistsPopularity": 14,
-    "title": "Злива",
-    "releaseDate": "2020",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5u0WF80wYP1qdUmpUQdGbo",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27329a7be95a95e7938cbc97907",
+    "releaseDate": "2020",
+    "title": "Злива",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5u0WF80wYP1qdUmpUQdGbo",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -624,14 +722,16 @@
     ]
   },
   {
-    "artists": ["EasyLover"],
+    "artists": [
+      "EasyLover"
+    ],
     "artistsPopularity": 14,
-    "title": "Dvi Pachki",
-    "releaseDate": "2019-08-01",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1nc8VHV9R4wuZ4RsuhmNw5",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27387536adfadab6021f4faa021",
+    "releaseDate": "2019-08-01",
+    "title": "Dvi Pachki",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1nc8VHV9R4wuZ4RsuhmNw5",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -640,14 +740,16 @@
     ]
   },
   {
-    "artists": ["EasyLover"],
+    "artists": [
+      "EasyLover"
+    ],
     "artistsPopularity": 14,
-    "title": "Nime Kino",
-    "releaseDate": "2019-06-22",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6G2w0mSJgRtjw48MXaWpJ4",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737b90075e9f7aada224cf7dd9",
+    "releaseDate": "2019-06-22",
+    "title": "Nime Kino",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6G2w0mSJgRtjw48MXaWpJ4",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -656,14 +758,16 @@
     ]
   },
   {
-    "artists": ["EasyLover"],
+    "artists": [
+      "EasyLover"
+    ],
     "artistsPopularity": 14,
-    "title": "Alone",
-    "releaseDate": "2019-04-19",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1b6nKcDcLOklkPEXndQSdg",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cac8fd5f2fdbb3dc130c02aa",
+    "releaseDate": "2019-04-19",
+    "title": "Alone",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1b6nKcDcLOklkPEXndQSdg",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -672,14 +776,17 @@
     ]
   },
   {
-    "artists": ["Sad Novelist", "drimandr"],
+    "artists": [
+      "Sad Novelist",
+      "drimandr"
+    ],
     "artistsPopularity": 37,
-    "title": "Подивись.",
-    "releaseDate": "2021-10-29",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6u5alOS8MuYCmLPKEJQ1bh",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731eb7ade46b7b514b8c3c6322",
+    "releaseDate": "2021-10-29",
+    "title": "Подивись.",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6u5alOS8MuYCmLPKEJQ1bh",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -688,14 +795,16 @@
     ]
   },
   {
-    "artists": ["Kayuk"],
+    "artists": [
+      "Kayuk"
+    ],
     "artistsPopularity": 12,
-    "title": "Ding Dong",
-    "releaseDate": "2024-02-23",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0tYnK9bxnAKydDzgdvJrvd",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733442bb43a2b7780cd1b1ec49",
+    "releaseDate": "2024-02-23",
+    "title": "Ding Dong",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0tYnK9bxnAKydDzgdvJrvd",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -704,14 +813,16 @@
     ]
   },
   {
-    "artists": ["примара"],
+    "artists": [
+      "примара"
+    ],
     "artistsPopularity": 19,
-    "title": "223",
-    "releaseDate": "2021-12-06",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/40YFcft9aqecWPdqMhmZa3",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732c309a16b24741a727640590",
+    "releaseDate": "2021-12-06",
+    "title": "223",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/40YFcft9aqecWPdqMhmZa3",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",
@@ -720,62 +831,70 @@
     ]
   },
   {
-    "artists": ["талан"],
+    "artists": [
+      "талан"
+    ],
     "artistsPopularity": 0,
-    "title": "Апокаліпсис сьогодні",
-    "releaseDate": "2020-10-03",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7JIBMH4zlEf2Oz2mxok8BR",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739d58aecb170834658c598bc0",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:51:44.100Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["whitelope"],
-    "artistsPopularity": 15,
-    "title": "Арктика",
-    "releaseDate": "2024-02-29",
-    "type": "album",
-    "totalTracks": 13,
-    "url": "https://open.spotify.com/album/5ch7F4HQuoH0HIoJlbeMTM",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cee67b0970d12267353a0321",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:51:44.100Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["overлауд"],
-    "artistsPopularity": 0,
-    "title": "Trap and Love",
-    "releaseDate": "2022-02-14",
-    "type": "single",
-    "totalTracks": 6,
-    "url": "https://open.spotify.com/album/6FBlOCaR60HMtIGFRiRwK7",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27314179b747191ef2e630323ab",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:51:44.100Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["whitelope"],
-    "artistsPopularity": 15,
-    "title": "Багно",
-    "releaseDate": "2023-07-07",
-    "type": "single",
+    "releaseDate": "2020-10-03",
+    "title": "Апокаліпсис сьогодні",
     "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0pwFSFHCuwc9hB121jtSeZ",
+    "type": "single",
+    "url": "https://open.spotify.com/album/7JIBMH4zlEf2Oz2mxok8BR",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:51:44.100Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "whitelope"
+    ],
+    "artistsPopularity": 15,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cee67b0970d12267353a0321",
+    "releaseDate": "2024-02-29",
+    "title": "Арктика",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5ch7F4HQuoH0HIoJlbeMTM",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:51:44.100Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "overлауд"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27314179b747191ef2e630323ab",
+    "releaseDate": "2022-02-14",
+    "title": "Trap and Love",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6FBlOCaR60HMtIGFRiRwK7",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:51:44.100Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "whitelope"
+    ],
+    "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739a87b20fc6ba3e4da849f80f",
+    "releaseDate": "2023-07-07",
+    "title": "Багно",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0pwFSFHCuwc9hB121jtSeZ",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:44.100Z",

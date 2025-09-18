@@ -1,29 +1,33 @@
 [
   {
-    "artists": ["Lely45"],
+    "artists": [
+      "Lely45"
+    ],
     "artistsPopularity": 44,
-    "title": "Невдячна глядачка",
-    "releaseDate": "2024-12-03",
-    "type": "album",
-    "totalTracks": 8,
-    "url": "https://open.spotify.com/album/6WET3pEZ3hniBwvYfBPvZ3",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733c82536b01d2eb7524265176",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:52:58.217Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Lely45"],
-    "artistsPopularity": 44,
-    "title": "Чорний лебідь",
-    "releaseDate": "2023-11-24",
-    "type": "album",
+    "releaseDate": "2024-12-03",
+    "title": "Невдячна глядачка",
     "totalTracks": 8,
-    "url": "https://open.spotify.com/album/52eVDoGR49BfRY64WG0QmQ",
+    "type": "album",
+    "url": "https://open.spotify.com/album/6WET3pEZ3hniBwvYfBPvZ3",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:52:58.217Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Lely45"
+    ],
+    "artistsPopularity": 44,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731ad26371859039a1d8335d88",
+    "releaseDate": "2023-11-24",
+    "title": "Чорний лебідь",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/52eVDoGR49BfRY64WG0QmQ",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:52:58.217Z",
@@ -32,14 +36,16 @@
     ]
   },
   {
-    "artists": ["Lely45"],
+    "artists": [
+      "Lely45"
+    ],
     "artistsPopularity": 44,
-    "title": "Всі дівчата хороші",
-    "releaseDate": "2023-05-12",
-    "type": "album",
-    "totalTracks": 10,
-    "url": "https://open.spotify.com/album/5Htf24w6tzp0rx0gQ6i2Jv",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732b40c5ee797e1534bbe408c9",
+    "releaseDate": "2023-05-12",
+    "title": "Всі дівчата хороші",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5Htf24w6tzp0rx0gQ6i2Jv",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:52:58.217Z",
@@ -48,62 +54,70 @@
     ]
   },
   {
-    "artists": ["Lely45"],
+    "artists": [
+      "Lely45"
+    ],
     "artistsPopularity": 44,
-    "title": "Артгаус",
-    "releaseDate": "2022-10-14",
-    "type": "album",
-    "totalTracks": 10,
-    "url": "https://open.spotify.com/album/4QYujhVejZSjhyLQuIn42q",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731c13d1dda81f2a6022b62429",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:52:58.217Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Lely45"],
-    "artistsPopularity": 44,
-    "title": "Труднощі перекладу",
-    "releaseDate": "2022-08-30",
-    "type": "album",
-    "totalTracks": 9,
-    "url": "https://open.spotify.com/album/09AUGqKQWttpGr4Ia3pZoz",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735bb2705177bc6f1da8d4437c",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:52:58.217Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Lely45"],
-    "artistsPopularity": 44,
-    "title": "Коли сонце сідає за схил",
-    "releaseDate": "2022-07-29",
-    "type": "album",
-    "totalTracks": 9,
-    "url": "https://open.spotify.com/album/1sw3m7n6vpWefhK0FNJjkP",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27364d017d130cedbff697edde1",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:52:58.217Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Lely45"],
-    "artistsPopularity": 44,
-    "title": "В наушниках осень",
-    "releaseDate": "2021-11-05",
-    "type": "album",
+    "releaseDate": "2022-10-14",
+    "title": "Артгаус",
     "totalTracks": 10,
-    "url": "https://open.spotify.com/album/6hEmvrqGpAqEkLao6wi1Tp",
+    "type": "album",
+    "url": "https://open.spotify.com/album/4QYujhVejZSjhyLQuIn42q",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:52:58.217Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Lely45"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735bb2705177bc6f1da8d4437c",
+    "releaseDate": "2022-08-30",
+    "title": "Труднощі перекладу",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/09AUGqKQWttpGr4Ia3pZoz",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:52:58.217Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Lely45"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27364d017d130cedbff697edde1",
+    "releaseDate": "2022-07-29",
+    "title": "Коли сонце сідає за схил",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1sw3m7n6vpWefhK0FNJjkP",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:52:58.217Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Lely45"
+    ],
+    "artistsPopularity": 44,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27351ff4102876cd8799624dfe9",
+    "releaseDate": "2021-11-05",
+    "title": "В наушниках осень",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6hEmvrqGpAqEkLao6wi1Tp",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:52:58.217Z",
@@ -112,14 +126,16 @@
     ]
   },
   {
-    "artists": ["Lely45"],
+    "artists": [
+      "Lely45"
+    ],
     "artistsPopularity": 44,
-    "title": "Девочка на воздушном шаре",
-    "releaseDate": "2021-07-02",
-    "type": "album",
-    "totalTracks": 11,
-    "url": "https://open.spotify.com/album/1VM8cuQxrUbwpgPtOL2oWL",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732f95ec10ef86067245b97d7f",
+    "releaseDate": "2021-07-02",
+    "title": "Девочка на воздушном шаре",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1VM8cuQxrUbwpgPtOL2oWL",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:52:58.217Z",
@@ -128,14 +144,16 @@
     ]
   },
   {
-    "artists": ["Lely45"],
+    "artists": [
+      "Lely45"
+    ],
     "artistsPopularity": 44,
-    "title": "Напинай вітрила",
-    "releaseDate": "2025-08-22",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3TqrkVSKKeiHKEnRz60PH0",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eaf2a1dc596b8cb9d22eacd4",
+    "releaseDate": "2025-08-22",
+    "title": "Напинай вітрила",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3TqrkVSKKeiHKEnRz60PH0",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:52:58.217Z",
@@ -144,14 +162,16 @@
     ]
   },
   {
-    "artists": ["Lely45"],
+    "artists": [
+      "Lely45"
+    ],
     "artistsPopularity": 44,
-    "title": "Я загорну тобі на пам'ять",
-    "releaseDate": "2025-06-27",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6bQXnJc5s4w260ugdoVsI7",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736c413dae08316c2e128c35e8",
+    "releaseDate": "2025-06-27",
+    "title": "Я загорну тобі на пам'ять",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6bQXnJc5s4w260ugdoVsI7",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:52:58.217Z",
@@ -160,14 +180,16 @@
     ]
   },
   {
-    "artists": ["Lely45"],
+    "artists": [
+      "Lely45"
+    ],
     "artistsPopularity": 44,
-    "title": "Поруч з тобою",
-    "releaseDate": "2025-05-07",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/47jLDzK66obnwrxZNb4Tti",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27321bc0dfa6ae9884fa0d0134c",
+    "releaseDate": "2025-05-07",
+    "title": "Поруч з тобою",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/47jLDzK66obnwrxZNb4Tti",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:52:58.217Z",
@@ -176,14 +198,16 @@
     ]
   },
   {
-    "artists": ["Lely45"],
+    "artists": [
+      "Lely45"
+    ],
     "artistsPopularity": 44,
-    "title": "Скоро (Acoustic)",
-    "releaseDate": "2025-04-09",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0EekNmMehgqszcZKqf5Xd2",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732bb8b422fa698980f92521c6",
+    "releaseDate": "2025-04-09",
+    "title": "Скоро (Acoustic)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0EekNmMehgqszcZKqf5Xd2",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:52:58.217Z",
@@ -192,14 +216,16 @@
     ]
   },
   {
-    "artists": ["Lely45"],
+    "artists": [
+      "Lely45"
+    ],
     "artistsPopularity": 44,
-    "title": "Скоро",
-    "releaseDate": "2025-04-02",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1ObESy3RE2Sf7NpXC6bg9D",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736315c9967aa4dad60cf9da2e",
+    "releaseDate": "2025-04-02",
+    "title": "Скоро",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1ObESy3RE2Sf7NpXC6bg9D",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:52:58.217Z",
@@ -208,14 +234,17 @@
     ]
   },
   {
-    "artists": ["Lely45", "Женя Галич"],
+    "artists": [
+      "Lely45",
+      "Женя Галич"
+    ],
     "artistsPopularity": 44,
-    "title": "Усе ж таки друзі",
-    "releaseDate": "2024-11-22",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/65sPjr91lVBbiW6ndwiwDD",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737d12ae2ab2fbf7eef33375da",
+    "releaseDate": "2024-11-22",
+    "title": "Усе ж таки друзі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/65sPjr91lVBbiW6ndwiwDD",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:52:58.217Z",
@@ -224,14 +253,16 @@
     ]
   },
   {
-    "artists": ["Lely45"],
+    "artists": [
+      "Lely45"
+    ],
     "artistsPopularity": 44,
-    "title": "А якщо чесно",
-    "releaseDate": "2024-10-25",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6C2eblKLTDVdytchtS2Alh",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273db90a09c695c2ff198490a9a",
+    "releaseDate": "2024-10-25",
+    "title": "А якщо чесно",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6C2eblKLTDVdytchtS2Alh",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:52:58.217Z",
@@ -240,14 +271,16 @@
     ]
   },
   {
-    "artists": ["Lely45"],
+    "artists": [
+      "Lely45"
+    ],
     "artistsPopularity": 44,
-    "title": "Кого ти вигадав?",
-    "releaseDate": "2024-09-27",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0zzcXw3obSrwf3HRjx0zYO",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e04ad20678dca3420c544dc7",
+    "releaseDate": "2024-09-27",
+    "title": "Кого ти вигадав?",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0zzcXw3obSrwf3HRjx0zYO",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:52:58.217Z",
@@ -256,14 +289,18 @@
     ]
   },
   {
-    "artists": ["Lely45", "Скрябін", "Дім Звукозапису"],
+    "artists": [
+      "Lely45",
+      "Скрябін",
+      "Дім Звукозапису"
+    ],
     "artistsPopularity": 51,
-    "title": "НАШІ \"Дім Звукозапису\"",
-    "releaseDate": "2024-06-06",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2qYybMlRh1DdZTfmSgyaTT",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733cd8c1ac6bf4d62122807b3a",
+    "releaseDate": "2024-06-06",
+    "title": "НАШІ \"Дім Звукозапису\"",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2qYybMlRh1DdZTfmSgyaTT",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:52:58.217Z",
@@ -272,14 +309,16 @@
     ]
   },
   {
-    "artists": ["Lely45"],
+    "artists": [
+      "Lely45"
+    ],
     "artistsPopularity": 44,
-    "title": "Повітря",
-    "releaseDate": "2024-05-03",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3drJuEXoluYEo2uI5048km",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27370bed6310ee551dbf0c1a884",
+    "releaseDate": "2024-05-03",
+    "title": "Повітря",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3drJuEXoluYEo2uI5048km",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:52:58.217Z",
@@ -288,14 +327,16 @@
     ]
   },
   {
-    "artists": ["Lely45"],
+    "artists": [
+      "Lely45"
+    ],
     "artistsPopularity": 44,
-    "title": "Зупиняти кров",
-    "releaseDate": "2024-03-29",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3xzpyOqDj7t8hwodw1EnXV",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c8adf4b7914ff6e28903a986",
+    "releaseDate": "2024-03-29",
+    "title": "Зупиняти кров",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3xzpyOqDj7t8hwodw1EnXV",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:52:58.217Z",
@@ -304,14 +345,17 @@
     ]
   },
   {
-    "artists": ["Lely45", "МУЛЬТИТРЕК"],
+    "artists": [
+      "Lely45",
+      "МУЛЬТИТРЕК"
+    ],
     "artistsPopularity": 44,
-    "title": "Морфін",
-    "releaseDate": "2024-03-08",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5DtsStnlK3DylzDxDn9xf6",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273acb3c7dbfba8cd54a0b387a9",
+    "releaseDate": "2024-03-08",
+    "title": "Морфін",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5DtsStnlK3DylzDxDn9xf6",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:52:58.217Z",
@@ -320,14 +364,16 @@
     ]
   },
   {
-    "artists": ["Lely45"],
+    "artists": [
+      "Lely45"
+    ],
     "artistsPopularity": 44,
-    "title": "Я сподіваюсь",
-    "releaseDate": "2024-02-02",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4F4tG7F0QmZQduDgQejL7a",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b273427ccc0c2cd340efcb09",
+    "releaseDate": "2024-02-02",
+    "title": "Я сподіваюсь",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4F4tG7F0QmZQduDgQejL7a",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:52:58.217Z",
@@ -336,14 +382,16 @@
     ]
   },
   {
-    "artists": ["Lely45"],
+    "artists": [
+      "Lely45"
+    ],
     "artistsPopularity": 44,
-    "title": "Хто ти дівчинко?",
-    "releaseDate": "2023-10-19",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5tFQPi9IevGcXX5UYAGrJK",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273df7858f446cde3dc16c2356f",
+    "releaseDate": "2023-10-19",
+    "title": "Хто ти дівчинко?",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5tFQPi9IevGcXX5UYAGrJK",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:52:58.217Z",
@@ -352,350 +400,400 @@
     ]
   },
   {
-    "artists": ["Lely45"],
+    "artists": [
+      "Lely45"
+    ],
     "artistsPopularity": 44,
-    "title": "Давай, дивись",
-    "releaseDate": "2023-09-15",
-    "type": "single",
-    "totalTracks": 2,
-    "url": "https://open.spotify.com/album/2gHqtDFDTZ7Sj85Qg8zWHv",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27387e9a204d11f948b65efc441",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:52:58.217Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Lely45"],
-    "artistsPopularity": 44,
-    "title": "На люстрі",
-    "releaseDate": "2023-07-14",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2Al98my6Zhe0IHKsfNdxXV",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273218d52269ded6dd169b5dda3",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:52:58.217Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Lely45"],
-    "artistsPopularity": 44,
-    "title": "І кожен дасть мені своє ім'я",
-    "releaseDate": "2023-05-05",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/70goN1QOwHtwKDm1YS8tey",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738e1a51774f8011abb9f2e88e",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:52:58.217Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Lely45"],
-    "artistsPopularity": 44,
-    "title": "Місто. Музика",
-    "releaseDate": "2023-04-28",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4XG0cirKxXBthRQIid82e4",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733032bea6fb9672b1a658ad98",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:52:58.217Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["SadSvit", "Lely45"],
-    "artistsPopularity": 56,
-    "title": "Автомагістралі",
-    "releaseDate": "2023-04-07",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4Z38v7Ak824Riy62zQm1EQ",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736e79e55e21b693b67bd9ffb5",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:52:58.217Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Lely45"],
-    "artistsPopularity": 44,
-    "title": "Дівчинка із Київського гетто",
-    "releaseDate": "2023-03-02",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/08K304XU10j2siRyV9z4zG",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27331c25807e52a5e1769eb920e",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:52:58.217Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Lely45"],
-    "artistsPopularity": 44,
-    "title": "Потяг на Сімферополь",
-    "releaseDate": "2023-02-14",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4gsQCKgfXWeYeGuAuZi8wY",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732658b324c3c26a719c439f44",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:52:58.217Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["DOROFEEVA", "Lely45"],
-    "artistsPopularity": 57,
-    "title": "Щедрик",
-    "releaseDate": "2022-12-26",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7gTKYLQGflEq2bktYYhEp2",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27371a2a68032444bbf21d1a1fd",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:52:58.217Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Lely45"],
-    "artistsPopularity": 44,
-    "title": "Vapaparara",
-    "releaseDate": "2022-12-22",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/07EfDAJBCl6Jmo2Sd2VAZI",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730ee15e2ea402eb4b3255b7af",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:52:58.217Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Lely45", "Мюслі UA"],
-    "artistsPopularity": 44,
-    "title": "Be Brave Like Ukraine",
-    "releaseDate": "2022-12-09",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/08DyngQAqz5R1dRldxdTNM",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733c0fe241c5b997494fba2090",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:52:58.217Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Lely45"],
-    "artistsPopularity": 44,
-    "title": "Друже",
-    "releaseDate": "2022-07-08",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2Sv93IcymUxVg13kiY5xJe",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739096da07972e99adaf71cc69",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:52:58.217Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Lely45"],
-    "artistsPopularity": 44,
-    "title": "Танцює зі смертю",
-    "releaseDate": "2022-06-10",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3OlSiHHBmrH4pSpQvxm1oX",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273437a1924c5e16d1cfc652ab2",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:52:58.217Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Artem Pivovarov", "Lely45"],
-    "artistsPopularity": 52,
-    "title": "Радісно",
-    "releaseDate": "2022-04-01",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6wfcBDmcwqRFpL2r0dsFbF",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733e3c2a3e81b805658643f340",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:52:58.217Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Lely45"],
-    "artistsPopularity": 44,
-    "title": "Моя душа",
-    "releaseDate": "2022-02-04",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3Ix8vCNgOEGY1sQt1UkKVe",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f85cedc0f8ff73807eeb159d",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:52:58.217Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Lely45"],
-    "artistsPopularity": 44,
-    "title": "Разгоняю Тьму",
-    "releaseDate": "2022-01-14",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6jywLttIIxFudOqdYO72g2",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734972853ae0e3e5c34e06cf1c",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:52:58.217Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Lely45"],
-    "artistsPopularity": 44,
-    "title": "Ты не пишешь мне письма",
-    "releaseDate": "2021-10-29",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2IFCp7ogO4cIZfirhLUYp8",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dbbb6129389182de2f469400",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:52:58.217Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Lely45"],
-    "artistsPopularity": 44,
-    "title": "Сияющие змеи",
-    "releaseDate": "2021-10-29",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5EipFa1xOZ8FXcRNSu60Gj",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27308cba586d7c1c5eeaded28d2",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:52:58.217Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Lely45"],
-    "artistsPopularity": 44,
-    "title": "Гладиолусы",
-    "releaseDate": "2021-10-01",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/01eFPBmPA1qgN076STO6eE",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273022d1aaf8cfb2b513227893a",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:52:58.217Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Lely45"],
-    "artistsPopularity": 44,
-    "title": "Злая сука",
-    "releaseDate": "2021-09-03",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4vxskV87BTp4tspo4NyRlZ",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273316be1801e2370373743f73b",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:52:58.217Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Lely45", "West junior"],
-    "artistsPopularity": 44,
-    "title": "Вернуться домой (West Junior Remix)",
-    "releaseDate": "2021-06-11",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6MSkaVxP7tTuSNwUlCL5A7",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27300b495f8193ce42b935ceb0f",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:52:58.217Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Lely45"],
-    "artistsPopularity": 44,
-    "title": "Вернуться домой",
-    "releaseDate": "2021-05-18",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4p0QXG4dej0FFc4Ex9Oh7m",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27386e847bd14dfa8ee5dcc2662",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:52:58.217Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Lely45", "West junior"],
-    "artistsPopularity": 44,
-    "title": "Восемь (West Junior Remix)",
-    "releaseDate": "2021-05-03",
-    "type": "single",
+    "releaseDate": "2023-09-15",
+    "title": "Давай, дивись",
     "totalTracks": 2,
-    "url": "https://open.spotify.com/album/6cS3jzgfS8iAO4HWtahmqU",
+    "type": "single",
+    "url": "https://open.spotify.com/album/2gHqtDFDTZ7Sj85Qg8zWHv",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:52:58.217Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Lely45"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273218d52269ded6dd169b5dda3",
+    "releaseDate": "2023-07-14",
+    "title": "На люстрі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2Al98my6Zhe0IHKsfNdxXV",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:52:58.217Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Lely45"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738e1a51774f8011abb9f2e88e",
+    "releaseDate": "2023-05-05",
+    "title": "І кожен дасть мені своє ім'я",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/70goN1QOwHtwKDm1YS8tey",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:52:58.217Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Lely45"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733032bea6fb9672b1a658ad98",
+    "releaseDate": "2023-04-28",
+    "title": "Місто. Музика",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4XG0cirKxXBthRQIid82e4",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:52:58.217Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "SadSvit",
+      "Lely45"
+    ],
+    "artistsPopularity": 56,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736e79e55e21b693b67bd9ffb5",
+    "releaseDate": "2023-04-07",
+    "title": "Автомагістралі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4Z38v7Ak824Riy62zQm1EQ",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:52:58.217Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Lely45"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27331c25807e52a5e1769eb920e",
+    "releaseDate": "2023-03-02",
+    "title": "Дівчинка із Київського гетто",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/08K304XU10j2siRyV9z4zG",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:52:58.217Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Lely45"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732658b324c3c26a719c439f44",
+    "releaseDate": "2023-02-14",
+    "title": "Потяг на Сімферополь",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4gsQCKgfXWeYeGuAuZi8wY",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:52:58.217Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "DOROFEEVA",
+      "Lely45"
+    ],
+    "artistsPopularity": 57,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27371a2a68032444bbf21d1a1fd",
+    "releaseDate": "2022-12-26",
+    "title": "Щедрик",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7gTKYLQGflEq2bktYYhEp2",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:52:58.217Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Lely45"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730ee15e2ea402eb4b3255b7af",
+    "releaseDate": "2022-12-22",
+    "title": "Vapaparara",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/07EfDAJBCl6Jmo2Sd2VAZI",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:52:58.217Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Lely45",
+      "Мюслі UA"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733c0fe241c5b997494fba2090",
+    "releaseDate": "2022-12-09",
+    "title": "Be Brave Like Ukraine",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/08DyngQAqz5R1dRldxdTNM",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:52:58.217Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Lely45"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739096da07972e99adaf71cc69",
+    "releaseDate": "2022-07-08",
+    "title": "Друже",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2Sv93IcymUxVg13kiY5xJe",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:52:58.217Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Lely45"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273437a1924c5e16d1cfc652ab2",
+    "releaseDate": "2022-06-10",
+    "title": "Танцює зі смертю",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3OlSiHHBmrH4pSpQvxm1oX",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:52:58.217Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Artem Pivovarov",
+      "Lely45"
+    ],
+    "artistsPopularity": 52,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733e3c2a3e81b805658643f340",
+    "releaseDate": "2022-04-01",
+    "title": "Радісно",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6wfcBDmcwqRFpL2r0dsFbF",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:52:58.217Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Lely45"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f85cedc0f8ff73807eeb159d",
+    "releaseDate": "2022-02-04",
+    "title": "Моя душа",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3Ix8vCNgOEGY1sQt1UkKVe",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:52:58.217Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Lely45"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734972853ae0e3e5c34e06cf1c",
+    "releaseDate": "2022-01-14",
+    "title": "Разгоняю Тьму",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6jywLttIIxFudOqdYO72g2",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:52:58.217Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Lely45"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dbbb6129389182de2f469400",
+    "releaseDate": "2021-10-29",
+    "title": "Ты не пишешь мне письма",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2IFCp7ogO4cIZfirhLUYp8",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:52:58.217Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Lely45"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27308cba586d7c1c5eeaded28d2",
+    "releaseDate": "2021-10-29",
+    "title": "Сияющие змеи",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5EipFa1xOZ8FXcRNSu60Gj",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:52:58.217Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Lely45"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273022d1aaf8cfb2b513227893a",
+    "releaseDate": "2021-10-01",
+    "title": "Гладиолусы",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/01eFPBmPA1qgN076STO6eE",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:52:58.217Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Lely45"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273316be1801e2370373743f73b",
+    "releaseDate": "2021-09-03",
+    "title": "Злая сука",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4vxskV87BTp4tspo4NyRlZ",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:52:58.217Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Lely45",
+      "West junior"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27300b495f8193ce42b935ceb0f",
+    "releaseDate": "2021-06-11",
+    "title": "Вернуться домой (West Junior Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6MSkaVxP7tTuSNwUlCL5A7",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:52:58.217Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Lely45"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27386e847bd14dfa8ee5dcc2662",
+    "releaseDate": "2021-05-18",
+    "title": "Вернуться домой",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4p0QXG4dej0FFc4Ex9Oh7m",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:52:58.217Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Lely45",
+      "West junior"
+    ],
+    "artistsPopularity": 44,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27353fdca1ed9d9aea18ab50d9b",
+    "releaseDate": "2021-05-03",
+    "title": "Восемь (West Junior Remix)",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6cS3jzgfS8iAO4HWtahmqU",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:52:58.217Z",
@@ -704,14 +802,16 @@
     ]
   },
   {
-    "artists": ["Lely45"],
+    "artists": [
+      "Lely45"
+    ],
     "artistsPopularity": 44,
-    "title": "Восемь",
-    "releaseDate": "2021-04-16",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6h59Y8UH7VJG41hRWdvfIc",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cf35217714c3719548791f48",
+    "releaseDate": "2021-04-16",
+    "title": "Восемь",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6h59Y8UH7VJG41hRWdvfIc",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:52:58.217Z",
@@ -720,30 +820,34 @@
     ]
   },
   {
-    "artists": ["Lely45"],
+    "artists": [
+      "Lely45"
+    ],
     "artistsPopularity": 44,
-    "title": "Гласными",
-    "releaseDate": "2021-03-12",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/51tjFuw45VCywVqkOIaoyc",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d0208a4865c5afe12fe0f607",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:52:58.217Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Lely45"],
-    "artistsPopularity": 44,
-    "title": "У горы",
-    "releaseDate": "2021-02-19",
-    "type": "single",
+    "releaseDate": "2021-03-12",
+    "title": "Гласными",
     "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2B71AV5smFbqbBxDFkMYth",
+    "type": "single",
+    "url": "https://open.spotify.com/album/51tjFuw45VCywVqkOIaoyc",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:52:58.217Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Lely45"
+    ],
+    "artistsPopularity": 44,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732ecb2de8b1351985c2e522f6",
+    "releaseDate": "2021-02-19",
+    "title": "У горы",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2B71AV5smFbqbBxDFkMYth",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:52:58.217Z",
@@ -752,14 +856,16 @@
     ]
   },
   {
-    "artists": ["Artem Pivovarov"],
+    "artists": [
+      "Artem Pivovarov"
+    ],
     "artistsPopularity": 52,
-    "title": "THE BEST",
-    "releaseDate": "2024-05-27",
-    "type": "album",
-    "totalTracks": 20,
-    "url": "https://open.spotify.com/album/0IYlHtB8Mvf8d445ocJFB9",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27378aed5a849ad080b2d8f0908",
+    "releaseDate": "2024-05-27",
+    "title": "THE BEST",
+    "totalTracks": 20,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0IYlHtB8Mvf8d445ocJFB9",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:52:58.217Z",
@@ -768,14 +874,16 @@
     ]
   },
   {
-    "artists": ["Artem Pivovarov"],
+    "artists": [
+      "Artem Pivovarov"
+    ],
     "artistsPopularity": 52,
-    "title": "Твої Вірші, Мої Ноти PT.1",
-    "releaseDate": "2023-03-10",
-    "type": "album",
-    "totalTracks": 17,
-    "url": "https://open.spotify.com/album/5WNjZdBlj83NeNSJF3xgrJ",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739013a25e1a64e1c4f729d166",
+    "releaseDate": "2023-03-10",
+    "title": "Твої Вірші, Мої Ноти PT.1",
+    "totalTracks": 17,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5WNjZdBlj83NeNSJF3xgrJ",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:52:58.217Z",
@@ -784,14 +892,16 @@
     ]
   },
   {
-    "artists": ["Artem Pivovarov"],
+    "artists": [
+      "Artem Pivovarov"
+    ],
     "artistsPopularity": 52,
-    "title": "The Best (UA)",
-    "releaseDate": "2022-11-04",
-    "type": "album",
-    "totalTracks": 15,
-    "url": "https://open.spotify.com/album/5mM1lTjE0J6uIqqE9TmCs9",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730fc10349032d77fa6bbb58ae",
+    "releaseDate": "2022-11-04",
+    "title": "The Best (UA)",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5mM1lTjE0J6uIqqE9TmCs9",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:52:58.217Z",

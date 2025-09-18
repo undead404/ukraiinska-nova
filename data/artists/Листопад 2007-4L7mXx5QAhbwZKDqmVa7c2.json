@@ -1,6 +1,8 @@
 [
   {
-    "artists": ["Листопад 2007"],
+    "artists": [
+      "Листопад 2007"
+    ],
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27337f19b315206563628fede65",
     "releaseDate": "2023-11-07",
@@ -16,7 +18,9 @@
     ]
   },
   {
-    "artists": ["Листопад 2007"],
+    "artists": [
+      "Листопад 2007"
+    ],
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c8c109cff549eefde2421016",
     "releaseDate": "2023-09-14",
@@ -32,7 +36,9 @@
     ]
   },
   {
-    "artists": ["Листопад 2007"],
+    "artists": [
+      "Листопад 2007"
+    ],
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d207e987bfc55c25ba6f7546",
     "releaseDate": "2023-06-30",
@@ -48,7 +54,9 @@
     ]
   },
   {
-    "artists": ["Листопад 2007"],
+    "artists": [
+      "Листопад 2007"
+    ],
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fab3c974172621afc6703ae3",
     "releaseDate": "2023-06-16",
@@ -64,7 +72,9 @@
     ]
   },
   {
-    "artists": ["Листопад 2007"],
+    "artists": [
+      "Листопад 2007"
+    ],
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b6f10bb43900e9baeb971240",
     "releaseDate": "2023-04-28",
@@ -80,7 +90,9 @@
     ]
   },
   {
-    "artists": ["Листопад 2007"],
+    "artists": [
+      "Листопад 2007"
+    ],
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736bae79ba56a9d977becdf6e7",
     "releaseDate": "2023-03-18",
@@ -96,7 +108,9 @@
     ]
   },
   {
-    "artists": ["nnolly"],
+    "artists": [
+      "nnolly"
+    ],
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d2ed72f11f0a4ed673534445",
     "releaseDate": "2023-06-16",

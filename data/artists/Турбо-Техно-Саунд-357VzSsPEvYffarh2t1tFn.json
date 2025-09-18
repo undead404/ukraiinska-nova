@@ -1,6 +1,8 @@
 [
   {
-    "artists": ["Турбо-Техно-Саунд"],
+    "artists": [
+      "Турбо-Техно-Саунд"
+    ],
     "artistsPopularity": 12,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731ee691436bc571006434ec3c",
     "releaseDate": "1997-01-01",
@@ -16,7 +18,9 @@
     ]
   },
   {
-    "artists": ["Турбо-Техно-Саунд"],
+    "artists": [
+      "Турбо-Техно-Саунд"
+    ],
     "artistsPopularity": 12,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735d7554b6259eb047a062b635",
     "releaseDate": "1996-01-01",

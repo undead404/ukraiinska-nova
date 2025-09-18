@@ -1,13 +1,15 @@
 [
   {
-    "artists": ["TVORCHI"],
+    "artists": [
+      "TVORCHI"
+    ],
     "artistsPopularity": 44,
-    "title": "Planet X",
-    "releaseDate": "2024-09-13",
-    "type": "album",
-    "totalTracks": 15,
-    "url": "https://open.spotify.com/album/2Tu1AThsw5jkqrNw1V9uQ6",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27315954ebd3b2a058fb0786ef4",
+    "releaseDate": "2024-09-13",
+    "title": "Planet X",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2Tu1AThsw5jkqrNw1V9uQ6",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:54:17.226Z",
@@ -16,14 +18,16 @@
     ]
   },
   {
-    "artists": ["TVORCHI"],
+    "artists": [
+      "TVORCHI"
+    ],
     "artistsPopularity": 44,
-    "title": "ROAD",
-    "releaseDate": "2021-09-10",
-    "type": "album",
-    "totalTracks": 10,
-    "url": "https://open.spotify.com/album/3Ekntu31ORC51hT3uFBZe4",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fb2c48afa93803f264071656",
+    "releaseDate": "2021-09-10",
+    "title": "ROAD",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3Ekntu31ORC51hT3uFBZe4",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:54:17.226Z",
@@ -32,606 +36,688 @@
     ]
   },
   {
-    "artists": ["TVORCHI"],
+    "artists": [
+      "TVORCHI"
+    ],
     "artistsPopularity": 44,
-    "title": "13 Waves",
-    "releaseDate": "2020-09-25",
-    "type": "album",
-    "totalTracks": 13,
-    "url": "https://open.spotify.com/album/57QxME0YIE3TjNAkkaBwmR",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732eaece7b307ab234aa881d3a",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:54:17.226Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["TVORCHI"],
-    "artistsPopularity": 44,
-    "title": "Disco Lights",
-    "releaseDate": "2019-02-14",
-    "type": "album",
-    "totalTracks": 9,
-    "url": "https://open.spotify.com/album/0mQdmdUpuerQJYLVDC15xR",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a88a452cd3c83915605f6bd2",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:54:17.226Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["TVORCHI"],
-    "artistsPopularity": 44,
-    "title": "The Parts",
-    "releaseDate": "2018-02-02",
-    "type": "album",
+    "releaseDate": "2020-09-25",
+    "title": "13 Waves",
     "totalTracks": 13,
-    "url": "https://open.spotify.com/album/4X3OB9JIvcSDO0haeVuema",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739493455d04124d1ec1dba247",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:54:17.226Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["TVORCHI"],
-    "artistsPopularity": 44,
-    "title": "Буває",
-    "releaseDate": "2025-09-12",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4yVER0j2LD6R27jVK7l2Kl",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b64fd8a33469ee7c966e0a2d",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:54:17.226Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["TVORCHI", "The Maneken"],
-    "artistsPopularity": 44,
-    "title": "Одіссея",
-    "releaseDate": "2025-08-14",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6Z1HGWBLIJaE5EluFv7rcd",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f3599577613e65fccd5b7cb",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:54:17.226Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["TVORCHI"],
-    "artistsPopularity": 44,
-    "title": "Надія",
-    "releaseDate": "2025-04-30",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3yeWhEBmhMGol4JnNEgbgT",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273606927ea8d2af0cc800bfe3e",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:54:17.226Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["TVORCHI"],
-    "artistsPopularity": 44,
-    "title": "Мила моя",
-    "releaseDate": "2025-03-06",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0n4s3uO21LE59oTzMCoQ3x",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cebf850364351f4a602d1b2c",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:54:17.226Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["TVORCHI", "Дім Звукозапису"],
-    "artistsPopularity": 44,
-    "title": "Щедрик, щедрик, щедрівочка \"Дім Звукозапису\"",
-    "releaseDate": "2024-12-19",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0wLZIRw7DO1Q8GMsZ7dTIr",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dfc235c4205b4fc0e9c76e0b",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:54:17.226Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["TVORCHI", "Pozdniakov"],
-    "artistsPopularity": 44,
-    "title": "Каланхое",
-    "releaseDate": "2024-10-03",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1nq5GccsxAwC7OB3dEHgxx",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736daba9301b59ed21b646526f",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:54:17.226Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["TVORCHI", "Klavdia Petrivna"],
-    "artistsPopularity": 57,
-    "title": "Орбіти",
-    "releaseDate": "2024-08-23",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2KqiogCnQ852Z3Ib3oLW0L",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aacbcb1fa9b3d532b4f5fc5c",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:54:17.226Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["TVORCHI"],
-    "artistsPopularity": 44,
-    "title": "Supernatural",
-    "releaseDate": "2024-07-05",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4hsegI90J7uMNQswyWD59Q",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735c8c265a1d824dad75495e00",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:54:17.226Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["TVORCHI"],
-    "artistsPopularity": 44,
-    "title": "Shine",
-    "releaseDate": "2024-05-31",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6j4tzwYsDqO1lzaO9n4C8a",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27351f1a9faae271b552da02287",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:54:17.226Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["TVORCHI"],
-    "artistsPopularity": 44,
-    "title": "Два озера повні сліз (із к/ф \"Я, \"Побєда\" і Берлін\")",
-    "releaseDate": "2024-03-01",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/59uYDi7qTn78LEOMOq6119",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e81a3f225663986a4281ad7f",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:54:17.226Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["TVORCHI"],
-    "artistsPopularity": 44,
-    "title": "Heart of Steel (Orchestral Version)",
-    "releaseDate": "2024-02-04",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4RsYCmbDuqS1011ewv5GQL",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736a72e7b0508e0709083bd683",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:54:17.226Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["TVORCHI"],
-    "artistsPopularity": 44,
-    "title": "Разом",
-    "releaseDate": "2023-10-19",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1PkjOm54lGWfDtFSMul61V",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273830405495e12ac37a41966ba",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:54:17.226Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["TVORCHI"],
-    "artistsPopularity": 44,
-    "title": "I Can't Stop",
-    "releaseDate": "2023-08-11",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2PWIpFE5JdIWvcimrvF9Wn",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273655c472405210ee4f8abbdf4",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:54:17.226Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["TVORCHI", "The Hardkiss"],
-    "artistsPopularity": 44,
-    "title": "Мрійники",
-    "releaseDate": "2023-06-09",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3cd57PH8C56TgHcXoJISoC",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bbe6863bd0ce22f213016907",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:54:17.226Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["TVORCHI"],
-    "artistsPopularity": 44,
-    "title": "Heart of Steel (Sped Up Version)",
-    "releaseDate": "2023-06-02",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3pq8o9kJLerdnf07ONNTkL",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27378d7c9bf8a527e3ca9f64113",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:54:17.226Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["TVORCHI"],
-    "artistsPopularity": 44,
-    "title": "Heart of Steel (Remix)",
-    "releaseDate": "2023-04-22",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/726Y9vLWHGclsUNIZoavFF",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730dcfeaf4e6d55864bf7f7547",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:54:17.226Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["TVORCHI"],
-    "artistsPopularity": 44,
-    "title": "Heart of Steel (Karaoke Version)",
-    "releaseDate": "2023-03-09",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3GnkMiB5YViuukvIkjdu4C",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b2f7ccaad89c8ab7d3e6c406",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:54:17.226Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["TVORCHI"],
-    "artistsPopularity": 44,
-    "title": "Heart of Steel (Eurovision Version)",
-    "releaseDate": "2023-03-09",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0jGnnA1n6iYtDq1fOxMfgx",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738130ea119c3bbccd28a4ca49",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:54:17.226Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["TVORCHI"],
-    "artistsPopularity": 44,
-    "title": "Hidden Code (From \"The First Code\")",
-    "releaseDate": "2023-03-03",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2aC3X73uiffb0rxzD3HEmU",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d1adf53a9ee0451488602dcf",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:54:17.226Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["TVORCHI"],
-    "artistsPopularity": 44,
-    "title": "Heart of Steel",
-    "releaseDate": "2022-12-23",
-    "type": "single",
-    "totalTracks": 4,
-    "url": "https://open.spotify.com/album/5PaAPqFMLaHX9cfQf9Jinf",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27395c726f8a058cf05a1bd9d94",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:54:17.226Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["TVORCHI"],
-    "artistsPopularity": 44,
-    "title": "Heart of Steel",
-    "releaseDate": "2022-12-09",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3rVV2fka1op1SKEEPaScin",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d12443f4babb456758fcd8fd",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:54:17.226Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["TVORCHI"],
-    "artistsPopularity": 44,
-    "title": "Вимкни телефон",
-    "releaseDate": "2022-10-28",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6UNf2wMUkXLcZOhRjqxjvW",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f321012bd2877cc3cf53b8e5",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:54:17.226Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["TVORCHI"],
-    "artistsPopularity": 44,
-    "title": "Боремося",
-    "releaseDate": "2022-05-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6HuEITW3ODt397uAtXkICm",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738457d55007eba3f2c3496695",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:54:17.226Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["TVORCHI"],
-    "artistsPopularity": 44,
-    "title": "HITS (New Year Edition)",
-    "releaseDate": "2021-12-24",
-    "type": "single",
-    "totalTracks": 5,
-    "url": "https://open.spotify.com/album/3uO6f8Jg4zhQ8TLHEeg0SO",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27394f38ccc5786c1428dc54af0",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:54:17.226Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["TVORCHI"],
-    "artistsPopularity": 44,
-    "title": "Intro Road",
-    "releaseDate": "2021-08-27",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6Z79vfe3CsxLYNDBBBHhJm",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f8b9c4b6667e7849adfeabc8",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:54:17.226Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["TVORCHI"],
-    "artistsPopularity": 44,
-    "title": "Falling",
-    "releaseDate": "2021-07-23",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2ygHEYowD88znmlwuEi2ET",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734eac89b1aa881e08c8e8d464",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:54:17.226Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["TVORCHI"],
-    "artistsPopularity": 44,
-    "title": "Віч-на-віч (Special Edition)",
-    "releaseDate": "2021-05-20",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/35tTMBMSi4Rn0Aw03RdnUy",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738db1ad581c1e8b83fb66da76",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:54:17.226Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["TVORCHI"],
-    "artistsPopularity": 44,
-    "title": "Віч-на-віч",
-    "releaseDate": "2021-02-26",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/52Zytey1sqxhDX5pHjjUCw",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b8b0df13f4ea9545cecb2d25",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:54:17.226Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["TVORCHI"],
-    "artistsPopularity": 44,
-    "title": "Мова Тіла",
-    "releaseDate": "2020-05-07",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2EPb8Y1BgO35TbB4A6vE0m",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731112604a5e530d56bd626af4",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:54:17.226Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["TVORCHI", "Wave Boi"],
-    "artistsPopularity": 44,
-    "title": "Bonfire (Remix)",
-    "releaseDate": "2020-02-02",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2YFef6uowHJaZm8gn3HpDn",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27339381ca34aa5d2546ac96392",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:54:17.226Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["TVORCHI"],
-    "artistsPopularity": 44,
-    "title": "Bonfire",
-    "releaseDate": "2020-01-31",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2NGAK6haR4zAUK9WkD2bwh",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273789c8fe8077b82b83c0583fc",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:54:17.226Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["TVORCHI"],
-    "artistsPopularity": 44,
-    "title": "#не_танцюю",
-    "releaseDate": "2019-09-09",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1HUunhwAvZQOypwieVQQdc",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732e3a6a781a1ffabd143cf2b6",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:54:17.226Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["TVORCHI"],
-    "artistsPopularity": 44,
-    "title": "You",
-    "releaseDate": "2017-09-04",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3kmAKw7LwmwhUU40hQVpmv",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27330f9b0d503f8a929e2b7c09f",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:54:17.226Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["TVORCHI"],
-    "artistsPopularity": 44,
-    "title": "Slow",
-    "releaseDate": "2017-05-30",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2DkZfx68nqqvyJYCJb5QpR",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27311507b49032c5a75af985fa0",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:54:17.226Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["ROXOLANA"],
-    "artistsPopularity": 38,
-    "title": "настрій: колядувати vol. 2",
-    "releaseDate": "2024-12-04",
     "type": "album",
-    "totalTracks": 7,
-    "url": "https://open.spotify.com/album/2ocWcwjwg0NVW4iPJj8xvg",
+    "url": "https://open.spotify.com/album/57QxME0YIE3TjNAkkaBwmR",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:17.226Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "TVORCHI"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a88a452cd3c83915605f6bd2",
+    "releaseDate": "2019-02-14",
+    "title": "Disco Lights",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0mQdmdUpuerQJYLVDC15xR",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:17.226Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "TVORCHI"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739493455d04124d1ec1dba247",
+    "releaseDate": "2018-02-02",
+    "title": "The Parts",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4X3OB9JIvcSDO0haeVuema",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:17.226Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "TVORCHI"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b64fd8a33469ee7c966e0a2d",
+    "releaseDate": "2025-09-12",
+    "title": "Буває",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4yVER0j2LD6R27jVK7l2Kl",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:17.226Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "TVORCHI",
+      "The Maneken"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f3599577613e65fccd5b7cb",
+    "releaseDate": "2025-08-14",
+    "title": "Одіссея",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6Z1HGWBLIJaE5EluFv7rcd",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:17.226Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "TVORCHI"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273606927ea8d2af0cc800bfe3e",
+    "releaseDate": "2025-04-30",
+    "title": "Надія",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3yeWhEBmhMGol4JnNEgbgT",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:17.226Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "TVORCHI"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cebf850364351f4a602d1b2c",
+    "releaseDate": "2025-03-06",
+    "title": "Мила моя",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0n4s3uO21LE59oTzMCoQ3x",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:17.226Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "TVORCHI",
+      "Дім Звукозапису"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dfc235c4205b4fc0e9c76e0b",
+    "releaseDate": "2024-12-19",
+    "title": "Щедрик, щедрик, щедрівочка \"Дім Звукозапису\"",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0wLZIRw7DO1Q8GMsZ7dTIr",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:17.226Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "TVORCHI",
+      "Pozdniakov"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736daba9301b59ed21b646526f",
+    "releaseDate": "2024-10-03",
+    "title": "Каланхое",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1nq5GccsxAwC7OB3dEHgxx",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:17.226Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "TVORCHI",
+      "Klavdia Petrivna"
+    ],
+    "artistsPopularity": 57,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aacbcb1fa9b3d532b4f5fc5c",
+    "releaseDate": "2024-08-23",
+    "title": "Орбіти",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2KqiogCnQ852Z3Ib3oLW0L",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:17.226Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "TVORCHI"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735c8c265a1d824dad75495e00",
+    "releaseDate": "2024-07-05",
+    "title": "Supernatural",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4hsegI90J7uMNQswyWD59Q",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:17.226Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "TVORCHI"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27351f1a9faae271b552da02287",
+    "releaseDate": "2024-05-31",
+    "title": "Shine",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6j4tzwYsDqO1lzaO9n4C8a",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:17.226Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "TVORCHI"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e81a3f225663986a4281ad7f",
+    "releaseDate": "2024-03-01",
+    "title": "Два озера повні сліз (із к/ф \"Я, \"Побєда\" і Берлін\")",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/59uYDi7qTn78LEOMOq6119",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:17.226Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "TVORCHI"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736a72e7b0508e0709083bd683",
+    "releaseDate": "2024-02-04",
+    "title": "Heart of Steel (Orchestral Version)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4RsYCmbDuqS1011ewv5GQL",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:17.226Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "TVORCHI"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273830405495e12ac37a41966ba",
+    "releaseDate": "2023-10-19",
+    "title": "Разом",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1PkjOm54lGWfDtFSMul61V",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:17.226Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "TVORCHI"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273655c472405210ee4f8abbdf4",
+    "releaseDate": "2023-08-11",
+    "title": "I Can't Stop",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2PWIpFE5JdIWvcimrvF9Wn",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:17.226Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "TVORCHI",
+      "The Hardkiss"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bbe6863bd0ce22f213016907",
+    "releaseDate": "2023-06-09",
+    "title": "Мрійники",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3cd57PH8C56TgHcXoJISoC",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:17.226Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "TVORCHI"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27378d7c9bf8a527e3ca9f64113",
+    "releaseDate": "2023-06-02",
+    "title": "Heart of Steel (Sped Up Version)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3pq8o9kJLerdnf07ONNTkL",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:17.226Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "TVORCHI"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730dcfeaf4e6d55864bf7f7547",
+    "releaseDate": "2023-04-22",
+    "title": "Heart of Steel (Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/726Y9vLWHGclsUNIZoavFF",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:17.226Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "TVORCHI"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b2f7ccaad89c8ab7d3e6c406",
+    "releaseDate": "2023-03-09",
+    "title": "Heart of Steel (Karaoke Version)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3GnkMiB5YViuukvIkjdu4C",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:17.226Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "TVORCHI"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738130ea119c3bbccd28a4ca49",
+    "releaseDate": "2023-03-09",
+    "title": "Heart of Steel (Eurovision Version)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0jGnnA1n6iYtDq1fOxMfgx",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:17.226Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "TVORCHI"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d1adf53a9ee0451488602dcf",
+    "releaseDate": "2023-03-03",
+    "title": "Hidden Code (From \"The First Code\")",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2aC3X73uiffb0rxzD3HEmU",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:17.226Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "TVORCHI"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27395c726f8a058cf05a1bd9d94",
+    "releaseDate": "2022-12-23",
+    "title": "Heart of Steel",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5PaAPqFMLaHX9cfQf9Jinf",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:17.226Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "TVORCHI"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d12443f4babb456758fcd8fd",
+    "releaseDate": "2022-12-09",
+    "title": "Heart of Steel",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3rVV2fka1op1SKEEPaScin",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:17.226Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "TVORCHI"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f321012bd2877cc3cf53b8e5",
+    "releaseDate": "2022-10-28",
+    "title": "Вимкни телефон",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6UNf2wMUkXLcZOhRjqxjvW",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:17.226Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "TVORCHI"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738457d55007eba3f2c3496695",
+    "releaseDate": "2022-05-24",
+    "title": "Боремося",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6HuEITW3ODt397uAtXkICm",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:17.226Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "TVORCHI"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27394f38ccc5786c1428dc54af0",
+    "releaseDate": "2021-12-24",
+    "title": "HITS (New Year Edition)",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3uO6f8Jg4zhQ8TLHEeg0SO",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:17.226Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "TVORCHI"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f8b9c4b6667e7849adfeabc8",
+    "releaseDate": "2021-08-27",
+    "title": "Intro Road",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6Z79vfe3CsxLYNDBBBHhJm",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:17.226Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "TVORCHI"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734eac89b1aa881e08c8e8d464",
+    "releaseDate": "2021-07-23",
+    "title": "Falling",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2ygHEYowD88znmlwuEi2ET",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:17.226Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "TVORCHI"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738db1ad581c1e8b83fb66da76",
+    "releaseDate": "2021-05-20",
+    "title": "Віч-на-віч (Special Edition)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/35tTMBMSi4Rn0Aw03RdnUy",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:17.226Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "TVORCHI"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b8b0df13f4ea9545cecb2d25",
+    "releaseDate": "2021-02-26",
+    "title": "Віч-на-віч",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/52Zytey1sqxhDX5pHjjUCw",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:17.226Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "TVORCHI"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731112604a5e530d56bd626af4",
+    "releaseDate": "2020-05-07",
+    "title": "Мова Тіла",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2EPb8Y1BgO35TbB4A6vE0m",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:17.226Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "TVORCHI",
+      "Wave Boi"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27339381ca34aa5d2546ac96392",
+    "releaseDate": "2020-02-02",
+    "title": "Bonfire (Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2YFef6uowHJaZm8gn3HpDn",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:17.226Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "TVORCHI"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273789c8fe8077b82b83c0583fc",
+    "releaseDate": "2020-01-31",
+    "title": "Bonfire",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2NGAK6haR4zAUK9WkD2bwh",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:17.226Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "TVORCHI"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732e3a6a781a1ffabd143cf2b6",
+    "releaseDate": "2019-09-09",
+    "title": "#не_танцюю",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1HUunhwAvZQOypwieVQQdc",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:17.226Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "TVORCHI"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27330f9b0d503f8a929e2b7c09f",
+    "releaseDate": "2017-09-04",
+    "title": "You",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3kmAKw7LwmwhUU40hQVpmv",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:17.226Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "TVORCHI"
+    ],
+    "artistsPopularity": 44,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27311507b49032c5a75af985fa0",
+    "releaseDate": "2017-05-30",
+    "title": "Slow",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2DkZfx68nqqvyJYCJb5QpR",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:17.226Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "ROXOLANA"
+    ],
+    "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734cf719a666803571c20ac536",
+    "releaseDate": "2024-12-04",
+    "title": "настрій: колядувати vol. 2",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2ocWcwjwg0NVW4iPJj8xvg",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:54:17.226Z",

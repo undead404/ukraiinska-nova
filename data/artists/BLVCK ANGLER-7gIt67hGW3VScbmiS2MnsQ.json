@@ -1,13 +1,15 @@
 [
   {
-    "artists": ["BLVCK ANGLER"],
+    "artists": [
+      "BLVCK ANGLER"
+    ],
     "artistsPopularity": 3,
-    "title": "DEATH VIBE",
-    "releaseDate": "2024-11-15",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6Syk6t4X0T07wpQkZZdfY4",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f6658b7ea5d83fd3ca1c756b",
+    "releaseDate": "2024-11-15",
+    "title": "DEATH VIBE",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6Syk6t4X0T07wpQkZZdfY4",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:50:57.307Z",
@@ -16,14 +18,16 @@
     ]
   },
   {
-    "artists": ["BLVCK ANGLER"],
+    "artists": [
+      "BLVCK ANGLER"
+    ],
     "artistsPopularity": 3,
-    "title": "STUMP",
-    "releaseDate": "2024-08-30",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4LWYCeFQHKxaE1euCWhggN",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732901bce6965898ba732ee73c",
+    "releaseDate": "2024-08-30",
+    "title": "STUMP",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4LWYCeFQHKxaE1euCWhggN",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:50:57.307Z",
@@ -32,14 +36,16 @@
     ]
   },
   {
-    "artists": ["BLVCK ANGLER"],
+    "artists": [
+      "BLVCK ANGLER"
+    ],
     "artistsPopularity": 3,
-    "title": "12 BUTCHERS (Instrumental)",
-    "releaseDate": "2023-09-29",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/20RJhWVTeLBce61TrqTXE9",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732130fe1ecd1de6bcec93a557",
+    "releaseDate": "2023-09-29",
+    "title": "12 BUTCHERS (Instrumental)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/20RJhWVTeLBce61TrqTXE9",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:50:57.307Z",
@@ -48,14 +54,16 @@
     ]
   },
   {
-    "artists": ["BLVCK ANGLER"],
+    "artists": [
+      "BLVCK ANGLER"
+    ],
     "artistsPopularity": 3,
-    "title": "12 BUTCHERS",
-    "releaseDate": "2023-08-16",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/34mHSLTv1l2SNUSTW2545u",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273604eeefc6d65606acd43c0d6",
+    "releaseDate": "2023-08-16",
+    "title": "12 BUTCHERS",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/34mHSLTv1l2SNUSTW2545u",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:50:57.307Z",
@@ -64,14 +72,16 @@
     ]
   },
   {
-    "artists": ["BLVCK ANGLER"],
+    "artists": [
+      "BLVCK ANGLER"
+    ],
     "artistsPopularity": 3,
-    "title": "SKVERNA",
-    "releaseDate": "2022-11-11",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4nieSMmXvPTZMfbPbm6N37",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735bf5b1ade5b434f83db83f5f",
+    "releaseDate": "2022-11-11",
+    "title": "SKVERNA",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4nieSMmXvPTZMfbPbm6N37",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:50:57.307Z",

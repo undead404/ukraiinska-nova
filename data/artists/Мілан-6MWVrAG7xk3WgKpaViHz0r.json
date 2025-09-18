@@ -1,6 +1,8 @@
 [
   {
-    "artists": ["Мілан"],
+    "artists": [
+      "Мілан"
+    ],
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27340dc9584ff082c9c1e87ee67",
     "releaseDate": "2023-03-01",
@@ -16,7 +18,10 @@
     ]
   },
   {
-    "artists": ["Мілан", "Panini"],
+    "artists": [
+      "Мілан",
+      "Panini"
+    ],
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d3ac598ce63aab95828f7034",
     "releaseDate": "2024-05-03",
@@ -32,7 +37,9 @@
     ]
   },
   {
-    "artists": ["Мілан"],
+    "artists": [
+      "Мілан"
+    ],
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273094e76dcc75788a018a6af0f",
     "releaseDate": "2024-04-10",
@@ -48,7 +55,10 @@
     ]
   },
   {
-    "artists": ["Мілан", "Твій зайчик пише"],
+    "artists": [
+      "Мілан",
+      "Твій зайчик пише"
+    ],
     "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734ea3609964a61b7969da06eb",
     "releaseDate": "2024-03-01",
@@ -64,7 +74,9 @@
     ]
   },
   {
-    "artists": ["Мілан"],
+    "artists": [
+      "Мілан"
+    ],
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27331be70ef007fefea4da8914f",
     "releaseDate": "2024-01-15",
@@ -80,7 +92,9 @@
     ]
   },
   {
-    "artists": ["Мілан"],
+    "artists": [
+      "Мілан"
+    ],
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735dcaf4de3c078e09fd239b92",
     "releaseDate": "2023-10-28",
@@ -96,7 +110,9 @@
     ]
   },
   {
-    "artists": ["Мілан"],
+    "artists": [
+      "Мілан"
+    ],
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739ba9986c4a93384d23d6ce15",
     "releaseDate": "2023-10-28",
@@ -112,7 +128,9 @@
     ]
   },
   {
-    "artists": ["Мілан"],
+    "artists": [
+      "Мілан"
+    ],
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ea7481d919c1fbdfab880c72",
     "releaseDate": "2023-06-16",
@@ -128,7 +146,9 @@
     ]
   },
   {
-    "artists": ["Мілан"],
+    "artists": [
+      "Мілан"
+    ],
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27374d75b76ad85e7c6c6aeae12",
     "releaseDate": "2023-05-08",
@@ -144,7 +164,9 @@
     ]
   },
   {
-    "artists": ["Польовий"],
+    "artists": [
+      "Польовий"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733d5723c749789ff4ad91391c",
     "releaseDate": "2024-04-26",
@@ -160,7 +182,9 @@
     ]
   },
   {
-    "artists": ["тимур"],
+    "artists": [
+      "тимур"
+    ],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27352365776a84979c1776a4629",
     "releaseDate": "2023-11-02",

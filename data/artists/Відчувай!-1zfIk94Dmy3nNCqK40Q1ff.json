@@ -1,6 +1,8 @@
 [
   {
-    "artists": ["Відчувай!"],
+    "artists": [
+      "Відчувай!"
+    ],
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27328f0e43034e9e5a8473bdb6d",
     "releaseDate": "2024-12-20",
@@ -16,7 +18,9 @@
     ]
   },
   {
-    "artists": ["Відчувай!"],
+    "artists": [
+      "Відчувай!"
+    ],
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273154faf0e75960cc30f67ed28",
     "releaseDate": "2025-06-06",
@@ -32,7 +36,9 @@
     ]
   },
   {
-    "artists": ["Відчувай!"],
+    "artists": [
+      "Відчувай!"
+    ],
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b440d79337985e0cc98cdb2d",
     "releaseDate": "2025-02-28",
@@ -48,7 +54,9 @@
     ]
   },
   {
-    "artists": ["Відчувай!"],
+    "artists": [
+      "Відчувай!"
+    ],
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735bcbc5291a0c4859f4f80a36",
     "releaseDate": "2024-12-13",
@@ -64,7 +72,9 @@
     ]
   },
   {
-    "artists": ["Відчувай!"],
+    "artists": [
+      "Відчувай!"
+    ],
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d600fe929eed16cef11eed51",
     "releaseDate": "2024-07-26",
@@ -80,7 +90,9 @@
     ]
   },
   {
-    "artists": ["Відчувай!"],
+    "artists": [
+      "Відчувай!"
+    ],
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b561f9086ac0d7a6372dad4c",
     "releaseDate": "2023-08-04",
@@ -96,7 +108,9 @@
     ]
   },
   {
-    "artists": ["Відчувай!"],
+    "artists": [
+      "Відчувай!"
+    ],
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732c4507bae4deaabbe912a678",
     "releaseDate": "2023-05-19",
@@ -112,7 +126,9 @@
     ]
   },
   {
-    "artists": ["Відчувай!"],
+    "artists": [
+      "Відчувай!"
+    ],
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27381928bd92426ea35d13f0004",
     "releaseDate": "2023-03-31",
@@ -128,7 +144,9 @@
     ]
   },
   {
-    "artists": ["ОТРУТА"],
+    "artists": [
+      "ОТРУТА"
+    ],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c2653fc635fb50211ccf1c7b",
     "releaseDate": "2024-01-19",

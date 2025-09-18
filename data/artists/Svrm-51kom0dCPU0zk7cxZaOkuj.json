@@ -1,29 +1,33 @@
 [
   {
-    "artists": ["Svrm"],
+    "artists": [
+      "Svrm"
+    ],
     "artistsPopularity": 26,
-    "title": "Останнє Сонце/Голод/За смертю",
-    "releaseDate": "2022-02-15",
-    "type": "album",
-    "totalTracks": 9,
-    "url": "https://open.spotify.com/album/2LByf3R0WwUWC9guMbHXiL",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b4f64144a4afacfd8b309c0f",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:53:55.732Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Svrm"],
-    "artistsPopularity": 26,
-    "title": "Rozpad",
-    "releaseDate": "2020-12-31",
+    "releaseDate": "2022-02-15",
+    "title": "Останнє Сонце/Голод/За смертю",
+    "totalTracks": 9,
     "type": "album",
-    "totalTracks": 7,
-    "url": "https://open.spotify.com/album/4xVWVTPvxKoyjeOKEHqDz6",
+    "url": "https://open.spotify.com/album/2LByf3R0WwUWC9guMbHXiL",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:53:55.732Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Svrm"
+    ],
+    "artistsPopularity": 26,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27311e1eed0997e651d585f7825",
+    "releaseDate": "2020-12-31",
+    "title": "Rozpad",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4xVWVTPvxKoyjeOKEHqDz6",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:53:55.732Z",
@@ -32,14 +36,16 @@
     ]
   },
   {
-    "artists": ["Svrm"],
+    "artists": [
+      "Svrm"
+    ],
     "artistsPopularity": 26,
-    "title": "Скорбота",
-    "releaseDate": "2025-01-31",
-    "type": "single",
-    "totalTracks": 2,
-    "url": "https://open.spotify.com/album/315nCW9BvT1XuvJ6HBwSNk",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fb3684ec7541fdb80d122236",
+    "releaseDate": "2025-01-31",
+    "title": "Скорбота",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/315nCW9BvT1XuvJ6HBwSNk",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:53:55.732Z",
@@ -48,14 +54,16 @@
     ]
   },
   {
-    "artists": ["Svrm"],
+    "artists": [
+      "Svrm"
+    ],
     "artistsPopularity": 26,
-    "title": "М​о​в​ч​а​н​н​я і с​м​е​р​т​ь",
-    "releaseDate": "2024-08-20",
-    "type": "single",
-    "totalTracks": 4,
-    "url": "https://open.spotify.com/album/4hbi1iqCynIWk96AVfOt4u",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27332269da8b4c201b4045f2981",
+    "releaseDate": "2024-08-20",
+    "title": "М​о​в​ч​а​н​н​я і с​м​е​р​т​ь",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4hbi1iqCynIWk96AVfOt4u",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:53:55.732Z",
@@ -64,158 +72,178 @@
     ]
   },
   {
-    "artists": ["Svrm"],
+    "artists": [
+      "Svrm"
+    ],
     "artistsPopularity": 26,
-    "title": "П​р​о​щ​а​н​н​я",
-    "releaseDate": "2024-05-12",
-    "type": "single",
-    "totalTracks": 5,
-    "url": "https://open.spotify.com/album/0WOeGi1M3YdWbG8Mh2odAq",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27345e8864f95a3ead9c1a4b292",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:53:55.732Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Svrm"],
-    "artistsPopularity": 26,
-    "title": "Є т​і​л​ь​к​и с​м​е​р​т​ь​, є т​і​л​ь​к​и т​ь​м​а",
-    "releaseDate": "2024-03-19",
-    "type": "single",
-    "totalTracks": 2,
-    "url": "https://open.spotify.com/album/0R98hNLfzqB8zOJo7Zh0NT",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739faa2a91552d5638c9742552",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:53:55.732Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Svrm"],
-    "artistsPopularity": 26,
-    "title": ".​.​. а с​м​е​р​т​ь в​в​і​й​ш​л​а у т​е​б​е в​ж​е д​а​в​н​о",
-    "releaseDate": "2023-06-15",
-    "type": "single",
-    "totalTracks": 2,
-    "url": "https://open.spotify.com/album/5P4U5hp9skOeVdsIjn3QJQ",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737e1f8f4520a7f58f2105c6a4",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:53:55.732Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Svrm"],
-    "artistsPopularity": 26,
-    "title": "Червів майбутня здобич",
-    "releaseDate": "2022-02-21",
-    "type": "single",
-    "totalTracks": 4,
-    "url": "https://open.spotify.com/album/1vLPDiL8M1elgmHkqLPY1K",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731022ec1547fbf0f07f85a79b",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:53:55.732Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Svrm"],
-    "artistsPopularity": 26,
-    "title": "При смерти/Зима",
-    "releaseDate": "2022-02-09",
-    "type": "single",
-    "totalTracks": 4,
-    "url": "https://open.spotify.com/album/0Ft3MHNFrPeuzQEDCUU4lE",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dc3036761c056fcf4b451420",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:53:55.732Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Svrm"],
-    "artistsPopularity": 26,
-    "title": "carceri",
-    "releaseDate": "2022-01-31",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/38xOcBqoYEXbXbbZ61YQIQ",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d6ffe40bc7911085722f60f6",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:53:55.732Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Svrm"],
-    "artistsPopularity": 26,
-    "title": "В вікно повзе осінній морок...",
-    "releaseDate": "2021-12-07",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0ufBMFxupJDRtDYkRqFyOv",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27340fdb6e23f3efb1d32079b79",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:53:55.732Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Svrm"],
-    "artistsPopularity": 26,
-    "title": "Lykhiyi Vitry Stognut Bez Upynu",
-    "releaseDate": "2020-11-26",
-    "type": "single",
-    "totalTracks": 6,
-    "url": "https://open.spotify.com/album/7w7cxhWjOBuvzmX8Bn9P6Y",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734c4b9af939699595430688ff",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:53:55.732Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Svrm"],
-    "artistsPopularity": 26,
-    "title": "Zgaryshche",
-    "releaseDate": "2020-08-18",
-    "type": "single",
-    "totalTracks": 4,
-    "url": "https://open.spotify.com/album/5rA9IKQORzTZZgabwnsJoA",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27375a9c2705c665a58af3e8192",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:53:55.732Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Svrm"],
-    "artistsPopularity": 26,
-    "title": "Zanepad",
-    "releaseDate": "2020-08-17",
-    "type": "single",
+    "releaseDate": "2024-05-12",
+    "title": "П​р​о​щ​а​н​н​я",
     "totalTracks": 5,
-    "url": "https://open.spotify.com/album/27DiHIPmm4YttIjyIWCVPl",
+    "type": "single",
+    "url": "https://open.spotify.com/album/0WOeGi1M3YdWbG8Mh2odAq",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:53:55.732Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Svrm"
+    ],
+    "artistsPopularity": 26,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739faa2a91552d5638c9742552",
+    "releaseDate": "2024-03-19",
+    "title": "Є т​і​л​ь​к​и с​м​е​р​т​ь​, є т​і​л​ь​к​и т​ь​м​а",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0R98hNLfzqB8zOJo7Zh0NT",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:53:55.732Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Svrm"
+    ],
+    "artistsPopularity": 26,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737e1f8f4520a7f58f2105c6a4",
+    "releaseDate": "2023-06-15",
+    "title": ".​.​. а с​м​е​р​т​ь в​в​і​й​ш​л​а у т​е​б​е в​ж​е д​а​в​н​о",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5P4U5hp9skOeVdsIjn3QJQ",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:53:55.732Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Svrm"
+    ],
+    "artistsPopularity": 26,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731022ec1547fbf0f07f85a79b",
+    "releaseDate": "2022-02-21",
+    "title": "Червів майбутня здобич",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1vLPDiL8M1elgmHkqLPY1K",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:53:55.732Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Svrm"
+    ],
+    "artistsPopularity": 26,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dc3036761c056fcf4b451420",
+    "releaseDate": "2022-02-09",
+    "title": "При смерти/Зима",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0Ft3MHNFrPeuzQEDCUU4lE",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:53:55.732Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Svrm"
+    ],
+    "artistsPopularity": 26,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d6ffe40bc7911085722f60f6",
+    "releaseDate": "2022-01-31",
+    "title": "carceri",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/38xOcBqoYEXbXbbZ61YQIQ",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:53:55.732Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Svrm"
+    ],
+    "artistsPopularity": 26,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27340fdb6e23f3efb1d32079b79",
+    "releaseDate": "2021-12-07",
+    "title": "В вікно повзе осінній морок...",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0ufBMFxupJDRtDYkRqFyOv",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:53:55.732Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Svrm"
+    ],
+    "artistsPopularity": 26,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734c4b9af939699595430688ff",
+    "releaseDate": "2020-11-26",
+    "title": "Lykhiyi Vitry Stognut Bez Upynu",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7w7cxhWjOBuvzmX8Bn9P6Y",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:53:55.732Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Svrm"
+    ],
+    "artistsPopularity": 26,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27375a9c2705c665a58af3e8192",
+    "releaseDate": "2020-08-18",
+    "title": "Zgaryshche",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5rA9IKQORzTZZgabwnsJoA",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:53:55.732Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": [
+      "Svrm"
+    ],
+    "artistsPopularity": 26,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733b862ff569bc16ef5ed39261",
+    "releaseDate": "2020-08-17",
+    "title": "Zanepad",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/27DiHIPmm4YttIjyIWCVPl",
     "appearanceLog": [
       {
         "time": "2025-09-16T11:53:55.732Z",

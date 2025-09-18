@@ -1,6 +1,8 @@
 [
   {
-    "artists": ["Аква Віта"],
+    "artists": [
+      "Аква Віта"
+    ],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27358c993f87b1726863336d3b6",
     "releaseDate": "2020-07-24",
@@ -16,7 +18,10 @@
     ]
   },
   {
-    "artists": ["Віктор Павлік", "Аква Віта"],
+    "artists": [
+      "Віктор Павлік",
+      "Аква Віта"
+    ],
     "artistsPopularity": 44,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739e716deac50c259ce22f253d",
     "releaseDate": "2025-02-14",
@@ -32,7 +37,9 @@
     ]
   },
   {
-    "artists": ["Аква Віта"],
+    "artists": [
+      "Аква Віта"
+    ],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eae059b02b4a4d0adc719420",
     "releaseDate": "2024-10-08",
@@ -48,7 +55,9 @@
     ]
   },
   {
-    "artists": ["Аква Віта"],
+    "artists": [
+      "Аква Віта"
+    ],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738b27a76dd780478ccbe76519",
     "releaseDate": "2024-05-01",
@@ -64,7 +73,10 @@
     ]
   },
   {
-    "artists": ["Аква Віта", "Projekt Gestalten"],
+    "artists": [
+      "Аква Віта",
+      "Projekt Gestalten"
+    ],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a6031b79ac7ce992e58ef08f",
     "releaseDate": "2024-02-09",
@@ -80,7 +92,9 @@
     ]
   },
   {
-    "artists": ["Аква Віта"],
+    "artists": [
+      "Аква Віта"
+    ],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737efe811584c900d2a4d6f72b",
     "releaseDate": "2023-12-22",
@@ -96,7 +110,9 @@
     ]
   },
   {
-    "artists": ["Аква Віта"],
+    "artists": [
+      "Аква Віта"
+    ],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d2145a70fff32fa2aa91415d",
     "releaseDate": "2023-07-07",
@@ -112,7 +128,11 @@
     ]
   },
   {
-    "artists": ["Віктор Павлік", "Аква Віта", "Alex Fleev"],
+    "artists": [
+      "Віктор Павлік",
+      "Аква Віта",
+      "Alex Fleev"
+    ],
     "artistsPopularity": 44,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27345af8a6e6a5cb2654143106e",
     "releaseDate": "2023-06-19",
@@ -128,7 +148,10 @@
     ]
   },
   {
-    "artists": ["Віктор Павлік", "Аква Віта"],
+    "artists": [
+      "Віктор Павлік",
+      "Аква Віта"
+    ],
     "artistsPopularity": 44,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27372653ba7a1ef860c7f3430fe",
     "releaseDate": "2023-05-05",
@@ -144,7 +167,9 @@
     ]
   },
   {
-    "artists": ["Аква Віта"],
+    "artists": [
+      "Аква Віта"
+    ],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27341f1c0363c39b016223b53d1",
     "releaseDate": "2022-02-18",
@@ -160,7 +185,9 @@
     ]
   },
   {
-    "artists": ["Аква Віта"],
+    "artists": [
+      "Аква Віта"
+    ],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a5f66b6b573e9af08f7295a8",
     "releaseDate": "2020-06-03",
@@ -176,7 +203,10 @@
     ]
   },
   {
-    "artists": ["The Faino", "Аква Віта"],
+    "artists": [
+      "The Faino",
+      "Аква Віта"
+    ],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273736d8fa355a368576a198609",
     "releaseDate": "2018-11-01",

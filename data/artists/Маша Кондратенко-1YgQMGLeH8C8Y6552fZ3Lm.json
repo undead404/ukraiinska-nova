@@ -1,6 +1,8 @@
 [
   {
-    "artists": ["Маша Кондратенко"],
+    "artists": [
+      "Маша Кондратенко"
+    ],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27331b622718c2bdf7baa39b7d9",
     "releaseDate": "2024-11-08",
@@ -16,7 +18,9 @@
     ]
   },
   {
-    "artists": ["Маша Кондратенко"],
+    "artists": [
+      "Маша Кондратенко"
+    ],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273793f04734eefa7d15b140038",
     "releaseDate": "2025-08-08",
@@ -32,7 +36,10 @@
     ]
   },
   {
-    "artists": ["MOLODI", "Маша Кондратенко"],
+    "artists": [
+      "MOLODI",
+      "Маша Кондратенко"
+    ],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737048debad18f5c9fd8b02ce5",
     "releaseDate": "2025-03-21",
@@ -48,7 +55,9 @@
     ]
   },
   {
-    "artists": ["Маша Кондратенко"],
+    "artists": [
+      "Маша Кондратенко"
+    ],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27391cbb95e84c41d977c98396d",
     "releaseDate": "2025-01-24",
@@ -64,7 +73,10 @@
     ]
   },
   {
-    "artists": ["Маша Кондратенко", "Iryna Bilyk"],
+    "artists": [
+      "Маша Кондратенко",
+      "Iryna Bilyk"
+    ],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b3b9f45ed5153b43c5c420a0",
     "releaseDate": "2024-12-13",
@@ -80,7 +92,9 @@
     ]
   },
   {
-    "artists": ["Маша Кондратенко"],
+    "artists": [
+      "Маша Кондратенко"
+    ],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738f0630ee8b83e67888c40622",
     "releaseDate": "2024-09-20",
@@ -96,7 +110,10 @@
     ]
   },
   {
-    "artists": ["Klavdia Petrivna", "Маша Кондратенко"],
+    "artists": [
+      "Klavdia Petrivna",
+      "Маша Кондратенко"
+    ],
     "artistsPopularity": 57,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732604818f1cac29bb1ea1e2af",
     "releaseDate": "2024-08-08",
@@ -112,7 +129,11 @@
     ]
   },
   {
-    "artists": ["Маша Кондратенко", "OSTY", "KAVA"],
+    "artists": [
+      "Маша Кондратенко",
+      "OSTY",
+      "KAVA"
+    ],
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730cbe2c1ee5ec0e9fe24ee2ad",
     "releaseDate": "2024-08-04",
@@ -128,7 +149,10 @@
     ]
   },
   {
-    "artists": ["Маша Кондратенко", "OSTY"],
+    "artists": [
+      "Маша Кондратенко",
+      "OSTY"
+    ],
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27360617c9eb5165c3838ec3278",
     "releaseDate": "2024-07-05",
@@ -144,7 +168,10 @@
     ]
   },
   {
-    "artists": ["Clonnex", "Маша Кондратенко"],
+    "artists": [
+      "Clonnex",
+      "Маша Кондратенко"
+    ],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d2805103cbbecfa25b0256cf",
     "releaseDate": "2024-05-10",
@@ -160,7 +187,10 @@
     ]
   },
   {
-    "artists": ["Маша Кондратенко", "KAVA"],
+    "artists": [
+      "Маша Кондратенко",
+      "KAVA"
+    ],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27362c886d2ba26ecdeaba1cedc",
     "releaseDate": "2024-04-19",
@@ -176,7 +206,9 @@
     ]
   },
   {
-    "artists": ["Маша Кондратенко"],
+    "artists": [
+      "Маша Кондратенко"
+    ],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b66515532d9ae1cb47508c2c",
     "releaseDate": "2024-03-22",
@@ -192,7 +224,9 @@
     ]
   },
   {
-    "artists": ["Маша Кондратенко"],
+    "artists": [
+      "Маша Кондратенко"
+    ],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bb124c57f32afbc55b9e4c9d",
     "releaseDate": "2024-02-14",
@@ -208,7 +242,9 @@
     ]
   },
   {
-    "artists": ["Маша Кондратенко"],
+    "artists": [
+      "Маша Кондратенко"
+    ],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731d54aee270684326c836b8e2",
     "releaseDate": "2023-11-17",
@@ -224,7 +260,9 @@
     ]
   },
   {
-    "artists": ["Маша Кондратенко"],
+    "artists": [
+      "Маша Кондратенко"
+    ],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738e2037cc37a54e4e9a424053",
     "releaseDate": "2023-10-27",
@@ -240,7 +278,9 @@
     ]
   },
   {
-    "artists": ["Маша Кондратенко"],
+    "artists": [
+      "Маша Кондратенко"
+    ],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738355c1473e8cdd0c79a902ba",
     "releaseDate": "2023-06-30",
@@ -256,7 +296,9 @@
     ]
   },
   {
-    "artists": ["Маша Кондратенко"],
+    "artists": [
+      "Маша Кондратенко"
+    ],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c248a665d3e780ee38867eec",
     "releaseDate": "2023-05-05",
@@ -272,7 +314,9 @@
     ]
   },
   {
-    "artists": ["Маша Кондратенко"],
+    "artists": [
+      "Маша Кондратенко"
+    ],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27348daed18ae44fbc623dc9464",
     "releaseDate": "2023-01-25",
@@ -288,7 +332,10 @@
     ]
   },
   {
-    "artists": ["Маша Кондратенко", "MASHUKOVSKY"],
+    "artists": [
+      "Маша Кондратенко",
+      "MASHUKOVSKY"
+    ],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d12a5add08f3290abc0151d0",
     "releaseDate": "2022-10-07",
@@ -304,7 +351,10 @@
     ]
   },
   {
-    "artists": ["Маша Кондратенко", "Kolaba"],
+    "artists": [
+      "Маша Кондратенко",
+      "Kolaba"
+    ],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27323d5b822b6754339b51f97ec",
     "releaseDate": "2022-09-09",
@@ -320,7 +370,10 @@
     ]
   },
   {
-    "artists": ["ENLEO", "Маша Кондратенко"],
+    "artists": [
+      "ENLEO",
+      "Маша Кондратенко"
+    ],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273696d770ca11015acc621d53b",
     "releaseDate": "2022-08-26",
@@ -336,7 +389,9 @@
     ]
   },
   {
-    "artists": ["Маша Кондратенко"],
+    "artists": [
+      "Маша Кондратенко"
+    ],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aeff17a7d55cb952255a0c0f",
     "releaseDate": "2022-07-15",
@@ -352,7 +407,9 @@
     ]
   },
   {
-    "artists": ["Маша Кондратенко"],
+    "artists": [
+      "Маша Кондратенко"
+    ],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27364d02f4db05b1e03318fdac3",
     "releaseDate": "2022-05-13",
@@ -368,7 +425,10 @@
     ]
   },
   {
-    "artists": ["Маша Кондратенко", "Averin"],
+    "artists": [
+      "Маша Кондратенко",
+      "Averin"
+    ],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27359e41da1f00f245be53c9bd8",
     "releaseDate": "2022-03-04",
@@ -384,7 +444,9 @@
     ]
   },
   {
-    "artists": ["Маша Кондратенко"],
+    "artists": [
+      "Маша Кондратенко"
+    ],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27305c968da276e878509db9982",
     "releaseDate": "2021-06-04",
@@ -400,7 +462,9 @@
     ]
   },
   {
-    "artists": ["Klavdia Petrivna"],
+    "artists": [
+      "Klavdia Petrivna"
+    ],
     "artistsPopularity": 57,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738d8ce05e4cbe40e53c91bec3",
     "releaseDate": "2024-08-13",
@@ -416,7 +480,9 @@
     ]
   },
   {
-    "artists": ["MOLODI"],
+    "artists": [
+      "MOLODI"
+    ],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733a232269b83e5931625cadc5",
     "releaseDate": "2025-04-04",
@@ -432,7 +498,9 @@
     ]
   },
   {
-    "artists": ["Clonnex"],
+    "artists": [
+      "Clonnex"
+    ],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27315f0b2e8e05b8fc67af732d1",
     "releaseDate": "2024-12-06",
@@ -448,7 +516,9 @@
     ]
   },
   {
-    "artists": ["LAUD"],
+    "artists": [
+      "LAUD"
+    ],
     "artistsPopularity": 33,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737f961ea1c85d4fe24f599cfe",
     "releaseDate": "2024-05-31",

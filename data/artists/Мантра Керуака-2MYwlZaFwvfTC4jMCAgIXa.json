@@ -1,6 +1,8 @@
 [
   {
-    "artists": ["Мантра Керуака"],
+    "artists": [
+      "Мантра Керуака"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b7e13917b9541fb197bb7878",
     "releaseDate": "2020-12-07",

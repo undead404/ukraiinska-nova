@@ -1,6 +1,8 @@
 [
   {
-    "artists": ["Монте Крісто"],
+    "artists": [
+      "Монте Крісто"
+    ],
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fa4b5e40e06b20e0e56cb59d",
     "releaseDate": "2022-10-25",
@@ -16,7 +18,9 @@
     ]
   },
   {
-    "artists": ["Монте Крісто"],
+    "artists": [
+      "Монте Крісто"
+    ],
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e2aa8a786a87bf97e7e21577",
     "releaseDate": "2024-03-18",
@@ -32,7 +36,10 @@
     ]
   },
   {
-    "artists": ["Монте Крісто", "Yarik Djan"],
+    "artists": [
+      "Монте Крісто",
+      "Yarik Djan"
+    ],
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273979749158a4e4e8809a814ef",
     "releaseDate": "2023-02-09",
@@ -48,7 +55,10 @@
     ]
   },
   {
-    "artists": ["Монте Крісто", "Yarik Djan"],
+    "artists": [
+      "Монте Крісто",
+      "Yarik Djan"
+    ],
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273691bd456bc8534b0877b0302",
     "releaseDate": "2022-11-28",
@@ -64,7 +74,10 @@
     ]
   },
   {
-    "artists": ["Монте Крісто", "Yarik Djan"],
+    "artists": [
+      "Монте Крісто",
+      "Yarik Djan"
+    ],
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739e594b6e949bdd00b508fef4",
     "releaseDate": "2022-11-28",
@@ -80,7 +93,9 @@
     ]
   },
   {
-    "artists": ["Монте Крісто"],
+    "artists": [
+      "Монте Крісто"
+    ],
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730829bc98c3c20115e3ebec61",
     "releaseDate": "2014-01-23",
