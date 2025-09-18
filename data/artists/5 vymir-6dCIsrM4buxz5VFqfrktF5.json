@@ -1,236 +1,236 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T14:23:38.019Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "5 vymir"
     ],
     "artistsPopularity": 30,
-    "title": "Містолінія",
-    "releaseDate": "2018-01-06",
-    "type": "album",
-    "totalTracks": 9,
-    "url": "https://open.spotify.com/album/44TWLhwBMZ3vw9SKm2lsQZ",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a5b79d3a7b3e755ba02c27d2",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T14:23:38.019Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "5 vymir"
-    ],
-    "artistsPopularity": 30,
-    "title": "Нові імена",
-    "releaseDate": "2017-04-12",
+    "releaseDate": "2018-01-06",
+    "title": "Містолінія",
+    "totalTracks": 9,
     "type": "album",
-    "totalTracks": 10,
-    "url": "https://open.spotify.com/album/4o6i3EOarHLpWOAuPiqT9g",
+    "url": "https://open.spotify.com/album/44TWLhwBMZ3vw9SKm2lsQZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T14:23:38.019Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "5 vymir"
+    ],
+    "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738ed5b0842b006a4cb51c78cf",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T14:23:38.019Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "5 vymir"
-    ],
-    "artistsPopularity": 30,
-    "title": "Так тихо (ремікс)",
-    "releaseDate": "2020-07-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/34rlXioSCCqXGimNPp1fV4",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f4b9e248240c55704f73bcf",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T14:23:38.019Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "5 vymir"
-    ],
-    "artistsPopularity": 30,
-    "title": "Karma",
-    "releaseDate": "2019-09-30",
-    "type": "single",
-    "totalTracks": 4,
-    "url": "https://open.spotify.com/album/5m8clRx8j5ztrINpV5dToi",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fe48024a86e150a2a14c5a9b",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T14:23:38.019Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "5 vymir"
-    ],
-    "artistsPopularity": 30,
-    "title": "Tancuu",
-    "releaseDate": "2018-06-14",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/51qoNRXqlhOnJgypr20Yim",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273847f4bb6321875c1b56bb52d",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T14:23:38.019Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "5 vymir"
-    ],
-    "artistsPopularity": 30,
-    "title": "Chuzhi",
-    "releaseDate": "2018-04-20",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0LM1JfWq6jzN8o8ZNc1QsM",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27395b4d29779467819c013650f",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T14:23:38.019Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "5 vymir"
-    ],
-    "artistsPopularity": 30,
-    "title": "Lamai",
-    "releaseDate": "2017-10-19",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4ykwGkS0HlXBUGAuoziJWo",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273193e0868a52aff204efe03c2",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T14:23:38.019Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "5 vymir"
-    ],
-    "artistsPopularity": 30,
+    "releaseDate": "2017-04-12",
     "title": "Нові імена",
-    "releaseDate": "2017-03-20",
-    "type": "single",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4o6i3EOarHLpWOAuPiqT9g"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T14:23:38.019Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "5 vymir"
+    ],
+    "artistsPopularity": 30,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f4b9e248240c55704f73bcf",
+    "releaseDate": "2020-07-24",
+    "title": "Так тихо (ремікс)",
     "totalTracks": 1,
-    "url": "https://open.spotify.com/album/65CKpJs1JnyGIqaisCFlks",
+    "type": "single",
+    "url": "https://open.spotify.com/album/34rlXioSCCqXGimNPp1fV4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T14:23:38.019Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "5 vymir"
+    ],
+    "artistsPopularity": 30,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fe48024a86e150a2a14c5a9b",
+    "releaseDate": "2019-09-30",
+    "title": "Karma",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5m8clRx8j5ztrINpV5dToi"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T14:23:38.019Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "5 vymir"
+    ],
+    "artistsPopularity": 30,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273847f4bb6321875c1b56bb52d",
+    "releaseDate": "2018-06-14",
+    "title": "Tancuu",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/51qoNRXqlhOnJgypr20Yim"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T14:23:38.019Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "5 vymir"
+    ],
+    "artistsPopularity": 30,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27395b4d29779467819c013650f",
+    "releaseDate": "2018-04-20",
+    "title": "Chuzhi",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0LM1JfWq6jzN8o8ZNc1QsM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T14:23:38.019Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "5 vymir"
+    ],
+    "artistsPopularity": 30,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273193e0868a52aff204efe03c2",
+    "releaseDate": "2017-10-19",
+    "title": "Lamai",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4ykwGkS0HlXBUGAuoziJWo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T14:23:38.019Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "5 vymir"
+    ],
+    "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733277c80c2ec3f89fba9290a1",
+    "releaseDate": "2017-03-20",
+    "title": "Нові імена",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/65CKpJs1JnyGIqaisCFlks"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T14:23:38.019Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "5 vymir"
     ],
     "artistsPopularity": 30,
-    "title": "Вічність",
-    "releaseDate": "2016-03-24",
-    "type": "single",
-    "totalTracks": 2,
-    "url": "https://open.spotify.com/album/6TEUWNLOvVaSiVFOUXh27N",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e4ffc73c08650196383dee10",
+    "releaseDate": "2016-03-24",
+    "title": "Вічність",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6TEUWNLOvVaSiVFOUXh27N"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T14:23:38.019Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "5 vymir"
     ],
     "artistsPopularity": 30,
-    "title": "Від холоду",
-    "releaseDate": "2015-12-29",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7vvWeA7L6gOVUXtkR6S4jQ",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27360032086cf6187f49ac2a170",
+    "releaseDate": "2015-12-29",
+    "title": "Від холоду",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7vvWeA7L6gOVUXtkR6S4jQ"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T14:23:38.019Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "5 vymir"
     ],
     "artistsPopularity": 30,
-    "title": "Скелі",
-    "releaseDate": "2015-11-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1hxHXz1oCSAUT5Dxx0KJkz",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273abd661162af3d8d8c9e180de",
+    "releaseDate": "2015-11-24",
+    "title": "Скелі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1hxHXz1oCSAUT5Dxx0KJkz"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T14:23:38.019Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "5 vymir"
     ],
     "artistsPopularity": 30,
-    "title": "Мало слів (2015)",
-    "releaseDate": "2015-09-29",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7EJlQXpGpTrpjdMP7SM2lq",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732e2a25aa46b65d913ac8778a",
+    "releaseDate": "2015-09-29",
+    "title": "Мало слів (2015)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7EJlQXpGpTrpjdMP7SM2lq"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T14:23:38.019Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "5 vymir"
     ],
     "artistsPopularity": 30,
-    "title": "Містолінії",
-    "releaseDate": "2015-07-26",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6MXNtgGufa7tPFQVpjF9lY",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b8bbb675ab97e83049612694",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T14:23:38.019Z",
-        "type": "FOUND"
-      }
-    ]
+    "releaseDate": "2015-07-26",
+    "title": "Містолінії",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6MXNtgGufa7tPFQVpjF9lY"
   }
 ]
