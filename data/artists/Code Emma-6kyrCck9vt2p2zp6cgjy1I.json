@@ -1,0 +1,56 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T18:26:50.380Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Code Emma"
+    ],
+    "artistsPopularity": 6,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731716ea94d89086da1e5244b0",
+    "releaseDate": "2024-01-18",
+    "title": "КОХАННЯ ВМИРАЄ ТИХО",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/22tw7kGHSEfMuxBgo5NLBN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T18:26:50.380Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Code Emma"
+    ],
+    "artistsPopularity": 6,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273475371623d8cac3c61bb0344",
+    "releaseDate": "2025-03-11",
+    "title": "Темні часи",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5YQkm8deTl2y3TnZBbO2RL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T18:26:50.380Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Code Emma"
+    ],
+    "artistsPopularity": 6,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27335a138ab97116d12264c5b65",
+    "releaseDate": "2025-01-30",
+    "title": "24.02",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6xvq4a5XzgefBzxjZ9vxLg"
+  }
+]

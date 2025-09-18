@@ -1,0 +1,56 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T18:25:51.767Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "М 44"
+    ],
+    "artistsPopularity": 12,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a032be7a46de61e724b51fe1",
+    "releaseDate": "2020-04-02",
+    "title": "Підсвідомість",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5o3le94dwiCq84iuj37nGc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T18:25:51.767Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "М 44"
+    ],
+    "artistsPopularity": 12,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bfbae685324d234116097552",
+    "releaseDate": "2019-06-06",
+    "title": "Як в останнє",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/05uQdRz68A936uX1XVvCH9"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T18:25:51.767Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Various Artists"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273db4f669c523df8af0f8ef4de",
+    "releaseDate": "2025-08-17",
+    "title": "Basketball",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/01LeYCxlKE8cFl0QcsPDgW"
+  }
+]

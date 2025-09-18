@@ -1,0 +1,74 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T18:25:43.462Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ЛІЗА ПАДЛІЗА"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b4677c478ad08404d865da28",
+    "releaseDate": "2024-12-06",
+    "title": "Міст через річку Порожнеча",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6F5NOuY1m1L4LV0OhlGB0S"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T18:25:43.462Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ЛІЗА ПАДЛІЗА"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab9ef0b692b037d6482d7949",
+    "releaseDate": "2025-08-01",
+    "title": "Вхід у свідомість",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7LwiVoNEt88zmlP8PCcnDg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T18:25:43.462Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ЛІЗА ПАДЛІЗА"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b0cd53b3cd87234cb30835fa",
+    "releaseDate": "2024-12-13",
+    "title": "Десь там десь",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/03SfnjWtos6hbnTyEKGQ0A"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T18:25:43.462Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ЛІЗА ПАДЛІЗА"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ce581587f64723c1b054c9dc",
+    "releaseDate": "2024-11-22",
+    "title": "Тут немає місця для тебе",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0HzvV7CmNU3M0uCZzTv5HH"
+  }
+]
