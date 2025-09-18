@@ -35,16 +35,16 @@ function getTags(releases: EnhancedMusicRelease[]) {
 const MAX_SHORT_ARTISTS_LIST_LENGTH = 5;
 
 function getShortArtistsList(releases: MusicRelease[]) {
-  const artists: string[] = [];
+  const artists = new Set<string>();
   for (const release of releases) {
     for (const artist of release.artists) {
-      artists.push(artist);
-      if (artists.length >= MAX_SHORT_ARTISTS_LIST_LENGTH) {
-        return joinArtists(artists);
+      artists.add(artist);
+      if (artists.size >= MAX_SHORT_ARTISTS_LIST_LENGTH) {
+        return joinArtists([...artists]);
       }
     }
   }
-  return artists.join(', ') + ' та інші';
+  return [...artists].join(', ') + ' та інші';
 }
 
 export default async function savePost(

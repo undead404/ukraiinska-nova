@@ -1,7 +1,6 @@
 import hashtagify from '../../helpers/hashtagify.js';
 import joinArtists from '../../helpers/join-artists.js';
 import translateAlbumType from '../../helpers/translate-album-type.js';
-import translatePopularity from '../../helpers/translate-popularity.js';
 import type { EnhancedMusicRelease } from '../../types/index.js';
 
 export default function mapReleasesToPosts(releases: EnhancedMusicRelease[]) {
@@ -24,7 +23,7 @@ export default function mapReleasesToPosts(releases: EnhancedMusicRelease[]) {
               url: release.url,
             },
           ],
-          text: `${translatePopularity(release.artistsPopularity)}🎤 ${joinArtists(release.artists)}\n💿 ${release.title} (${translateAlbumType(
+          text: `🎤 ${joinArtists(release.artists)}\n💿 ${release.title} (${translateAlbumType(
             release.type,
           )})\n\n${release.tags?.map((tag) => hashtagify(tag)).join(' ')}`,
         }));
