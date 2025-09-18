@@ -1,0 +1,56 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T15:26:07.005Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Johnny Zombie"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d962945d41574f0a18524519",
+    "releaseDate": "2011-06-23",
+    "title": "The Bottom Of The Infinite Reflections",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1tT7meIMAIfJLVeYcpAVXo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T15:26:07.005Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Johnny Zombie"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27398e8780fb06b7d2862a5a8f1",
+    "releaseDate": "2011-05-23",
+    "title": "If not you then who?",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6PtkYUcnm9P1Ih03yQSOxM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T15:26:07.005Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Johnny Zombie"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738da2e3c491da2baee3ab5849",
+    "releaseDate": "2011-03-03",
+    "title": "Travoiadernoe oruzhie",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4J8ucbB4eOAYyGMFTHceH0"
+  }
+]

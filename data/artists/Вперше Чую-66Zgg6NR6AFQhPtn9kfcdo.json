@@ -1,0 +1,110 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T15:23:59.579Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Вперше Чую"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733f53777f59106f2f0be1efb2",
+    "releaseDate": "2016-11-08",
+    "title": "СкаСка",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/74otNf5DRRurScuMFsPTu4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T15:23:59.579Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Вперше Чую"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734f2b2a375673a4ec14cf4d7f",
+    "releaseDate": "2016-11-08",
+    "title": "Прямоток",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5qkNy7sqfOKfcXCoqg6wbv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T15:23:59.579Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Вперше Чую"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738b7761dd9101e08415d295c4",
+    "releaseDate": "2023-10-10",
+    "title": "Повертайся",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4p6m0HLpFPM1gCa7TWBPso"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T15:23:59.579Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Вперше Чую"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27320f5e9b04cf83542d748407e",
+    "releaseDate": "2017-01-31",
+    "title": "Саме та",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1qc4sD35ut2fCT4WZd4nw3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T15:23:59.579Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Вперше Чую"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735927215c529db329350cfed3",
+    "releaseDate": "2016-11-08",
+    "title": "Від Майдану до Айдару",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1YPAf4XEJtL7lzO2A1SRnn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T15:23:59.579Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Вперше Чую"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737e1208634816e55bee057dbb",
+    "releaseDate": "2016-11-08",
+    "title": "Ізопова мова",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2enIuMUSaNX3jffPGwSz41"
+  }
+]

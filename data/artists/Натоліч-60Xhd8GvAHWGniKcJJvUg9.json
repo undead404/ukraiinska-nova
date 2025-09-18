@@ -1,0 +1,74 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T15:24:25.177Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Натоліч"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab50f52f5e593bd39fd25968",
+    "releaseDate": "2017-05-24",
+    "title": "Amon-Ra",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5wBCNJtE0QTAGfUlDmNOeo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T15:24:25.177Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Натоліч"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273014901fa2bd817cef15aef76",
+    "releaseDate": "2017-02-11",
+    "title": "Прометей",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5tdiDE8dUH5sCCPSvqU0P3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T15:24:25.177Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Натоліч"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735c30c6adf6bd6287ba138413",
+    "releaseDate": "2018-05-21",
+    "title": "Бігти разом",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0sIaeYv0w8wDwuHa4aAkFB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T15:24:25.177Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Натоліч"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ebcbf1e05a7c983fb067dad0",
+    "releaseDate": "2017-12-12",
+    "title": "Новорічна ніч",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3Eo8CxdhkF3viqtCWKLcOQ"
+  }
+]
