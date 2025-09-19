@@ -1,0 +1,38 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T19:21:33.439Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Корисні Копалини"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27368d5e4d1d497a747b4651ce4",
+    "releaseDate": "2024-04-19",
+    "title": "Маргіналізоване Мучеництво",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3sNJJSZTjK1Affw5FSCjbv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T19:21:33.439Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Корисні Копалини"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731a070b49e31163c9be554ae6",
+    "releaseDate": "2023-03-21",
+    "title": "ELP Б​Р​У​Д LIVE",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6fk7vNJQ99pciAGwXjjYY1"
+  }
+]
