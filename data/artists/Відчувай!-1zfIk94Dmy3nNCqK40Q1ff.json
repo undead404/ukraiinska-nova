@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:01:41.769Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "Відчувай!"
     ],
@@ -9,15 +15,15 @@
     "title": "Подорослішаю - напишу",
     "totalTracks": 12,
     "type": "album",
-    "url": "https://open.spotify.com/album/2uxri2VpCjikqzqSicjwBA",
+    "url": "https://open.spotify.com/album/2uxri2VpCjikqzqSicjwBA"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:41.769Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Відчувай!"
     ],
@@ -27,15 +33,15 @@
     "title": "Ти, ми і ніхто",
     "totalTracks": 3,
     "type": "single",
-    "url": "https://open.spotify.com/album/34OaFpyiLHZNS9PUgk0OhR",
+    "url": "https://open.spotify.com/album/34OaFpyiLHZNS9PUgk0OhR"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:41.769Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Відчувай!"
     ],
@@ -45,15 +51,15 @@
     "title": "Сніг",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/10kk1XNP9FffL6Loyg0WbP",
+    "url": "https://open.spotify.com/album/10kk1XNP9FffL6Loyg0WbP"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:41.769Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Відчувай!"
     ],
@@ -63,15 +69,15 @@
     "title": "Міміка",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0nqjpmTPQYMNflizXfKHYk",
+    "url": "https://open.spotify.com/album/0nqjpmTPQYMNflizXfKHYk"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:41.769Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Відчувай!"
     ],
@@ -81,15 +87,15 @@
     "title": "Контроль",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/6jzrdKfA2LxBYQ7P3oq8BD",
+    "url": "https://open.spotify.com/album/6jzrdKfA2LxBYQ7P3oq8BD"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:41.769Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Відчувай!"
     ],
@@ -99,15 +105,15 @@
     "title": "Неможливо",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4eettOWLV8Wo18EoKpsYHr",
+    "url": "https://open.spotify.com/album/4eettOWLV8Wo18EoKpsYHr"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:41.769Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Відчувай!"
     ],
@@ -117,15 +123,15 @@
     "title": "Лиш вдвох",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1mqLjidbcymPvZWzR3nKR9",
+    "url": "https://open.spotify.com/album/1mqLjidbcymPvZWzR3nKR9"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:41.769Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Відчувай!"
     ],
@@ -135,15 +141,15 @@
     "title": "Не можу існувати",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/7lCJwZ7SitwSh3dtdkIt9U",
+    "url": "https://open.spotify.com/album/7lCJwZ7SitwSh3dtdkIt9U"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:41.769Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "ОТРУТА"
     ],
@@ -153,12 +159,6 @@
     "title": "інтернет весілля",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5UzL6H3gQrAr075030mFEa",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:01:41.769Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/5UzL6H3gQrAr075030mFEa"
   }
 ]

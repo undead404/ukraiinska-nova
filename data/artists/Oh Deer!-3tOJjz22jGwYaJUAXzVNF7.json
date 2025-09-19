@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:53:14.319Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "Oh Deer!"
     ],
@@ -9,15 +15,15 @@
     "title": "Альманах (2009 — 2017)",
     "totalTracks": 20,
     "type": "album",
-    "url": "https://open.spotify.com/album/7fOssSxYhmOxA2FRh4514Z",
+    "url": "https://open.spotify.com/album/7fOssSxYhmOxA2FRh4514Z"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:53:14.319Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Oh Deer!"
     ],
@@ -27,15 +33,15 @@
     "title": "Як перестати хвилюватися і полюбити війну",
     "totalTracks": 9,
     "type": "album",
-    "url": "https://open.spotify.com/album/5M73yTdRW1LfT7c2R5D5Di",
+    "url": "https://open.spotify.com/album/5M73yTdRW1LfT7c2R5D5Di"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:53:14.319Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Oh Deer!"
     ],
@@ -45,15 +51,15 @@
     "title": "Сім сестер",
     "totalTracks": 7,
     "type": "album",
-    "url": "https://open.spotify.com/album/7pT6SdnCY6CjPSGu8S4heE",
+    "url": "https://open.spotify.com/album/7pT6SdnCY6CjPSGu8S4heE"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:53:14.319Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Oh Deer!"
     ],
@@ -63,12 +69,6 @@
     "title": "Oh, Deer!",
     "totalTracks": 6,
     "type": "single",
-    "url": "https://open.spotify.com/album/3gYWt5hJc3GAbO5rCwUSJ5",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:53:14.319Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/3gYWt5hJc3GAbO5rCwUSJ5"
   }
 ]

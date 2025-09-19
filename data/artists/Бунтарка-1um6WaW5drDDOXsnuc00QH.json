@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:01:31.127Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "Бунтарка"
     ],
@@ -9,15 +15,15 @@
     "title": "На Мольберті",
     "totalTracks": 3,
     "type": "single",
-    "url": "https://open.spotify.com/album/6F6WeWuv6JkPm9hAjAjEXz",
+    "url": "https://open.spotify.com/album/6F6WeWuv6JkPm9hAjAjEXz"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:31.127Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Бунтарка"
     ],
@@ -27,15 +33,15 @@
     "title": "Доля",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3F5WmeHYIR1GN64zzgqV5F",
+    "url": "https://open.spotify.com/album/3F5WmeHYIR1GN64zzgqV5F"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:31.127Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Бунтарка"
     ],
@@ -45,12 +51,6 @@
     "title": "Ритми",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1RtE29QcLJUQ7a4lQ4Mfvl",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:01:31.127Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/1RtE29QcLJUQ7a4lQ4Mfvl"
   }
 ]

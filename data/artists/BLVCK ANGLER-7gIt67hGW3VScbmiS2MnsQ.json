@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:50:57.307Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "BLVCK ANGLER"
     ],
@@ -9,15 +15,15 @@
     "title": "DEATH VIBE",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/6Syk6t4X0T07wpQkZZdfY4",
+    "url": "https://open.spotify.com/album/6Syk6t4X0T07wpQkZZdfY4"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:50:57.307Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "BLVCK ANGLER"
     ],
@@ -27,15 +33,15 @@
     "title": "STUMP",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4LWYCeFQHKxaE1euCWhggN",
+    "url": "https://open.spotify.com/album/4LWYCeFQHKxaE1euCWhggN"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:50:57.307Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "BLVCK ANGLER"
     ],
@@ -45,15 +51,15 @@
     "title": "12 BUTCHERS (Instrumental)",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/20RJhWVTeLBce61TrqTXE9",
+    "url": "https://open.spotify.com/album/20RJhWVTeLBce61TrqTXE9"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:50:57.307Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "BLVCK ANGLER"
     ],
@@ -63,15 +69,15 @@
     "title": "12 BUTCHERS",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/34mHSLTv1l2SNUSTW2545u",
+    "url": "https://open.spotify.com/album/34mHSLTv1l2SNUSTW2545u"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:50:57.307Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "BLVCK ANGLER"
     ],
@@ -81,12 +87,6 @@
     "title": "SKVERNA",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4nieSMmXvPTZMfbPbm6N37",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:50:57.307Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/4nieSMmXvPTZMfbPbm6N37"
   }
 ]

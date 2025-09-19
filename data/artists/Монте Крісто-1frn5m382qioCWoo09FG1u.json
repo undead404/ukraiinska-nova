@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:02:19.173Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "Монте Крісто"
     ],
@@ -9,15 +15,15 @@
     "title": "Дай мені сил",
     "totalTracks": 20,
     "type": "album",
-    "url": "https://open.spotify.com/album/2zXa2n8rcddGHwSBDkVbiU",
+    "url": "https://open.spotify.com/album/2zXa2n8rcddGHwSBDkVbiU"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:19.173Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Монте Крісто"
     ],
@@ -27,15 +33,15 @@
     "title": "Україна",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/7j5wtxiqp3PEFaRxiLAikx",
+    "url": "https://open.spotify.com/album/7j5wtxiqp3PEFaRxiLAikx"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:19.173Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Монте Крісто",
       "Yarik Djan"
@@ -46,15 +52,15 @@
     "title": "Львів (Yarik Djan Remix)",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/46seqFkPRj6lK9amW0szWF",
+    "url": "https://open.spotify.com/album/46seqFkPRj6lK9amW0szWF"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:19.173Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Монте Крісто",
       "Yarik Djan"
@@ -65,15 +71,15 @@
     "title": "Сам на самоті (Yarik Djan Remix)",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2mqVAfyMGI63fUgqSAzKVu",
+    "url": "https://open.spotify.com/album/2mqVAfyMGI63fUgqSAzKVu"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:19.173Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Монте Крісто",
       "Yarik Djan"
@@ -84,15 +90,15 @@
     "title": "Моє нестримне бажання (Yarik Djan Remix)",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/7ijHozd3CnktKmbjJ1wKtq",
+    "url": "https://open.spotify.com/album/7ijHozd3CnktKmbjJ1wKtq"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:19.173Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Монте Крісто"
     ],
@@ -102,12 +108,6 @@
     "title": "Ти намалюєш на склі весну",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2t1gD6I0JIQdfdyNMkWwFN",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:02:19.173Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/2t1gD6I0JIQdfdyNMkWwFN"
   }
 ]

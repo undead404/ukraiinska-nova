@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:53:37.539Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "State 62"
     ],
@@ -9,15 +15,15 @@
     "title": "Катуй",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5k4BS9ciQThd66f6mciCqZ",
+    "url": "https://open.spotify.com/album/5k4BS9ciQThd66f6mciCqZ"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:53:37.539Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "State 62"
     ],
@@ -27,15 +33,15 @@
     "title": "Митець",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1lKNqv7xpEgMmfMfqnZpuj",
+    "url": "https://open.spotify.com/album/1lKNqv7xpEgMmfMfqnZpuj"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:53:37.539Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "State 62"
     ],
@@ -45,15 +51,15 @@
     "title": "Потвора",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5ZPvgrF9nrh3gIbu4ruF0u",
+    "url": "https://open.spotify.com/album/5ZPvgrF9nrh3gIbu4ruF0u"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:53:37.539Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "State 62"
     ],
@@ -63,15 +69,15 @@
     "title": "Токіо",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3OhKRPbQpcQc0twYkdpt8R",
+    "url": "https://open.spotify.com/album/3OhKRPbQpcQc0twYkdpt8R"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:53:37.539Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "State 62"
     ],
@@ -81,15 +87,15 @@
     "title": "Шість",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3reutPfO1aBoyzieJBEII5",
+    "url": "https://open.spotify.com/album/3reutPfO1aBoyzieJBEII5"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:53:37.539Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "State 62"
     ],
@@ -99,15 +105,15 @@
     "title": "Вирій",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1ylNI2ttmNlyOruRpsdE8d",
+    "url": "https://open.spotify.com/album/1ylNI2ttmNlyOruRpsdE8d"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:53:37.539Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "State 62"
     ],
@@ -117,12 +123,6 @@
     "title": "В Поисках Нового Дома",
     "totalTracks": 5,
     "type": "single",
-    "url": "https://open.spotify.com/album/3JQjTiihexU3ySUrkcBaMH",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:53:37.539Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/3JQjTiihexU3ySUrkcBaMH"
   }
 ]

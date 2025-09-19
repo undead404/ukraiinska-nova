@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:01:58.862Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "Листопад 2007"
     ],
@@ -9,15 +15,15 @@
     "title": "гольфстрім",
     "totalTracks": 5,
     "type": "single",
-    "url": "https://open.spotify.com/album/1yQZDSDPdg5gb25DDIKwNd",
+    "url": "https://open.spotify.com/album/1yQZDSDPdg5gb25DDIKwNd"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:58.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Листопад 2007"
     ],
@@ -27,15 +33,15 @@
     "title": "aware punk99",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5r6l9J6OT0KVg22IWs7T7e",
+    "url": "https://open.spotify.com/album/5r6l9J6OT0KVg22IWs7T7e"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:58.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Листопад 2007"
     ],
@@ -45,15 +51,15 @@
     "title": "тільки на балконі",
     "totalTracks": 2,
     "type": "single",
-    "url": "https://open.spotify.com/album/6wVBtAxaQGX2eCDhywpBSw",
+    "url": "https://open.spotify.com/album/6wVBtAxaQGX2eCDhywpBSw"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:58.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Листопад 2007"
     ],
@@ -63,15 +69,15 @@
     "title": "дріппі парадігма",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0ZgES2Exm2oMWZPHiq4vRL",
+    "url": "https://open.spotify.com/album/0ZgES2Exm2oMWZPHiq4vRL"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:58.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Листопад 2007"
     ],
@@ -81,15 +87,15 @@
     "title": "вітя кастети",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1L9o1NHH6ZBFmDb2IkFymN",
+    "url": "https://open.spotify.com/album/1L9o1NHH6ZBFmDb2IkFymN"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:58.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Листопад 2007"
     ],
@@ -99,15 +105,15 @@
     "title": "там де нуль",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5b7bySgJevzLsqiKIS5ucU",
+    "url": "https://open.spotify.com/album/5b7bySgJevzLsqiKIS5ucU"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:58.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "nnolly"
     ],
@@ -117,12 +123,6 @@
     "title": "неможу",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4Tunvcw24VDAZUPzOYEME6",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:01:58.862Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/4Tunvcw24VDAZUPzOYEME6"
   }
 ]

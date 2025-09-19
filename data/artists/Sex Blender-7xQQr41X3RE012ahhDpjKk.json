@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:53:29.041Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "Sex Blender"
     ],
@@ -9,15 +15,15 @@
     "title": "Naїve Core",
     "totalTracks": 7,
     "type": "album",
-    "url": "https://open.spotify.com/album/53HGY8hzHkP3C0KThWU8Ql",
+    "url": "https://open.spotify.com/album/53HGY8hzHkP3C0KThWU8Ql"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:53:29.041Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Sex Blender"
     ],
@@ -27,15 +33,15 @@
     "title": "Live",
     "totalTracks": 6,
     "type": "album",
-    "url": "https://open.spotify.com/album/0Z5kDtJ6FA4zdTyu1CdzGI",
+    "url": "https://open.spotify.com/album/0Z5kDtJ6FA4zdTyu1CdzGI"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:53:29.041Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Sex Blender"
     ],
@@ -45,15 +51,15 @@
     "title": "Studio Session I",
     "totalTracks": 9,
     "type": "album",
-    "url": "https://open.spotify.com/album/1o0WFBplXZKDkrUb8aRj1E",
+    "url": "https://open.spotify.com/album/1o0WFBplXZKDkrUb8aRj1E"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:53:29.041Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Sex Blender"
     ],
@@ -63,15 +69,15 @@
     "title": "The Second Coming",
     "totalTracks": 6,
     "type": "album",
-    "url": "https://open.spotify.com/album/1iUOw395TUWySgaDNs3XOW",
+    "url": "https://open.spotify.com/album/1iUOw395TUWySgaDNs3XOW"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:53:29.041Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Sex Blender"
     ],
@@ -81,15 +87,15 @@
     "title": "Hormonizer",
     "totalTracks": 4,
     "type": "album",
-    "url": "https://open.spotify.com/album/3HGkykdDpGqiifheJQewB3",
+    "url": "https://open.spotify.com/album/3HGkykdDpGqiifheJQewB3"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:53:29.041Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Sex Blender"
     ],
@@ -99,15 +105,15 @@
     "title": "Na​ї​ve Core",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1b6VY0DNozbK7tnj4iJ0SW",
+    "url": "https://open.spotify.com/album/1b6VY0DNozbK7tnj4iJ0SW"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:53:29.041Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Sex Blender"
     ],
@@ -117,12 +123,6 @@
     "title": "Mojohead",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4dfvguTmYG8R0wRlUjGh6I",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:53:29.041Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/4dfvguTmYG8R0wRlUjGh6I"
   }
 ]

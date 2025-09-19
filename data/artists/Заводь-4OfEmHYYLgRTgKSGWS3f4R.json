@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:01:55.800Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "Заводь"
     ],
@@ -9,15 +15,15 @@
     "title": "The Opening Morn",
     "totalTracks": 6,
     "type": "album",
-    "url": "https://open.spotify.com/album/3azW7EWt1lu30rUddcUB23",
+    "url": "https://open.spotify.com/album/3azW7EWt1lu30rUddcUB23"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:55.800Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Заводь"
     ],
@@ -27,15 +33,15 @@
     "title": "Крізь Коло І П'ять Кутів",
     "totalTracks": 11,
     "type": "album",
-    "url": "https://open.spotify.com/album/2loejdgr6dlb1Mq3ST4Z1p",
+    "url": "https://open.spotify.com/album/2loejdgr6dlb1Mq3ST4Z1p"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:55.800Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Заводь"
     ],
@@ -45,15 +51,15 @@
     "title": "Ягна",
     "totalTracks": 9,
     "type": "album",
-    "url": "https://open.spotify.com/album/3pDHAvjpQENDE1m2p0qPGk",
+    "url": "https://open.spotify.com/album/3pDHAvjpQENDE1m2p0qPGk"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:55.800Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Заводь"
     ],
@@ -63,15 +69,15 @@
     "title": "Blackmantic Collection (compilation 2010-2011)",
     "totalTracks": 14,
     "type": "album",
-    "url": "https://open.spotify.com/album/4MGCOcCMx20lq0I6OJERJF",
+    "url": "https://open.spotify.com/album/4MGCOcCMx20lq0I6OJERJF"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:55.800Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Заводь"
     ],
@@ -81,15 +87,15 @@
     "title": "Березоль",
     "totalTracks": 6,
     "type": "single",
-    "url": "https://open.spotify.com/album/6VgaOMQ7zkVCEJsEo5mBC4",
+    "url": "https://open.spotify.com/album/6VgaOMQ7zkVCEJsEo5mBC4"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:55.800Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Заводь"
     ],
@@ -99,12 +105,6 @@
     "title": "Ritual",
     "totalTracks": 4,
     "type": "single",
-    "url": "https://open.spotify.com/album/0KmZgNuaReJEldy1jleaFJ",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:01:55.800Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/0KmZgNuaReJEldy1jleaFJ"
   }
 ]

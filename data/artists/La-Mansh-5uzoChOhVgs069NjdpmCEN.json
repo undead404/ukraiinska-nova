@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:52:39.667Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "La-Mansh"
     ],
@@ -9,12 +15,6 @@
     "title": "Знову Сонце",
     "totalTracks": 5,
     "type": "single",
-    "url": "https://open.spotify.com/album/5UK6AZbbJRWaToAVFrOrjB",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:52:39.667Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/5UK6AZbbJRWaToAVFrOrjB"
   }
 ]

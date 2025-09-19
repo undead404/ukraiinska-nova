@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:01:29.726Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "Андерсон"
     ],
@@ -9,15 +15,15 @@
     "title": "Життя",
     "totalTracks": 12,
     "type": "album",
-    "url": "https://open.spotify.com/album/2zwkfIw8SzqMV6scI1UUFB",
+    "url": "https://open.spotify.com/album/2zwkfIw8SzqMV6scI1UUFB"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:29.726Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Андерсон"
     ],
@@ -27,15 +33,15 @@
     "title": "Словозброя",
     "totalTracks": 12,
     "type": "album",
-    "url": "https://open.spotify.com/album/75wr5wRPHTqq3gTvLTsFiW",
+    "url": "https://open.spotify.com/album/75wr5wRPHTqq3gTvLTsFiW"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:29.726Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Андерсон"
     ],
@@ -45,15 +51,15 @@
     "title": "Ґлей",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2JKI0L5MYy02o38k2XWtnO",
+    "url": "https://open.spotify.com/album/2JKI0L5MYy02o38k2XWtnO"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:29.726Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Андерсон"
     ],
@@ -63,15 +69,15 @@
     "title": "Щем",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3VCkcF4roOLlb7cVkCpUaW",
+    "url": "https://open.spotify.com/album/3VCkcF4roOLlb7cVkCpUaW"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:29.726Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Андерсон"
     ],
@@ -81,15 +87,15 @@
     "title": "Роботи",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4NQxyCLsbIuGvHds3UNVQL",
+    "url": "https://open.spotify.com/album/4NQxyCLsbIuGvHds3UNVQL"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:29.726Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Андерсон"
     ],
@@ -99,15 +105,15 @@
     "title": "Нова українська готика",
     "totalTracks": 3,
     "type": "single",
-    "url": "https://open.spotify.com/album/1fkcvpUY1qww3FZGzhiOV4",
+    "url": "https://open.spotify.com/album/1fkcvpUY1qww3FZGzhiOV4"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:29.726Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Omega"
     ],
@@ -117,12 +123,6 @@
     "title": "старьЁ",
     "totalTracks": 8,
     "type": "album",
-    "url": "https://open.spotify.com/album/3k2vcWu4ZHXJ5m5blwSFHp",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:01:29.726Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/3k2vcWu4ZHXJ5m5blwSFHp"
   }
 ]
