@@ -1,0 +1,38 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T22:23:57.844Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Evilucifer"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27313bff3e950b6eb2a4e02b48f",
+    "releaseDate": "2025-07-07",
+    "title": "Diďko",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1ntwx3sKZr8RjjGwmKY5rD"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T22:23:57.844Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Evilucifer"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273098223a5cdad2c31a901c171",
+    "releaseDate": "2025-04-30",
+    "title": "Satanic Evilucifer",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4FbZpz3ME07jnsE9m26ib7"
+  }
+]

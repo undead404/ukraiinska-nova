@@ -1,0 +1,128 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T22:23:28.119Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Пирятин"
+    ],
+    "artistsPopularity": 30,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c76843d5e99a8123b7dea80c",
+    "releaseDate": "2020-05-29",
+    "title": "Тантра",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3bYNmNEgvmNdIWbbU6LTqg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T22:23:28.119Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Пирятин"
+    ],
+    "artistsPopularity": 30,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ca16f0fab13f29f21f0cea28",
+    "releaseDate": "2018-02-12",
+    "title": "Атентат",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/76pmRQtN85McE2z0Nobwyt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T22:23:28.119Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Пирятин"
+    ],
+    "artistsPopularity": 30,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735d31d38de83b7f73ba474bfa",
+    "releaseDate": "2021-12-21",
+    "title": "Водку не буду",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4xIu87olLWTdSsJ2uxYBUQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T22:23:28.119Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Пирятин"
+    ],
+    "artistsPopularity": 30,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c2d1061d69b6c2ff9250525c",
+    "releaseDate": "2020-09-05",
+    "title": "Чырвоная і Белая",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3WWyzSN6Cm1CW6eu6AQpCv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T22:23:28.119Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Пирятин"
+    ],
+    "artistsPopularity": 30,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c16c29dc08492c95121f3fa7",
+    "releaseDate": "2019-09-13",
+    "title": "Аватар",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/47vLSTyhfqnDZVw40KDeE5"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T22:23:28.119Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Пирятин"
+    ],
+    "artistsPopularity": 30,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737a5888987eb678ea543784c5",
+    "releaseDate": "2019-06-26",
+    "title": "Привид",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5FvHWUGZarNOb7fxMANdXR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T22:23:28.119Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Пирятин"
+    ],
+    "artistsPopularity": 30,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e29dac1b30c7efaafddda790",
+    "releaseDate": "2019-03-22",
+    "title": "Родіна",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4VMMlIp9aAjT32JAIfcmQf"
+  }
+]
