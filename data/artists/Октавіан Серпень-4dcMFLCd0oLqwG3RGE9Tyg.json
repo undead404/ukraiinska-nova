@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:39.646Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "Октавіан Серпень"
     ],
@@ -9,15 +15,15 @@
     "title": "Це не сон, а щось зовсім інше",
     "totalTracks": 8,
     "type": "album",
-    "url": "https://open.spotify.com/album/4PZNu4ekty1URAGa1ZCBGG",
+    "url": "https://open.spotify.com/album/4PZNu4ekty1URAGa1ZCBGG"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:39.646Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Октавіан Серпень"
     ],
@@ -27,15 +33,15 @@
     "title": "Ідеал",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/7pKarmQkclkx4aYiiXPFRe",
+    "url": "https://open.spotify.com/album/7pKarmQkclkx4aYiiXPFRe"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:39.646Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Октавіан Серпень"
     ],
@@ -45,15 +51,15 @@
     "title": "Сомалі",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0lJ5ekfmP9HYp262eOjZ9S",
+    "url": "https://open.spotify.com/album/0lJ5ekfmP9HYp262eOjZ9S"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:39.646Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Октавіан Серпень"
     ],
@@ -63,15 +69,15 @@
     "title": "Завод залізобетонних конструкцій",
     "totalTracks": 4,
     "type": "single",
-    "url": "https://open.spotify.com/album/140KaFNON5NdCmGjy8JbKj",
+    "url": "https://open.spotify.com/album/140KaFNON5NdCmGjy8JbKj"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:39.646Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Октавіан Серпень"
     ],
@@ -81,15 +87,15 @@
     "title": "Хуртовина",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/6I5cUMTr6K9ynBPIb0K8GO",
+    "url": "https://open.spotify.com/album/6I5cUMTr6K9ynBPIb0K8GO"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:39.646Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Октавіан Серпень"
     ],
@@ -99,15 +105,15 @@
     "title": "В один день з тобою",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5HUAWhqES9IwgEBksqDl7l",
+    "url": "https://open.spotify.com/album/5HUAWhqES9IwgEBksqDl7l"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:39.646Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Октавіан Серпень"
     ],
@@ -117,15 +123,15 @@
     "title": "Павук",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4QRv7CvVvj91P5RaxKlnRg",
+    "url": "https://open.spotify.com/album/4QRv7CvVvj91P5RaxKlnRg"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:39.646Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Октавіан Серпень"
     ],
@@ -135,15 +141,15 @@
     "title": "На добраніч",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1KHJNYLzsdbKsskWg4X5y4",
+    "url": "https://open.spotify.com/album/1KHJNYLzsdbKsskWg4X5y4"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:39.646Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Октавіан Серпень"
     ],
@@ -153,12 +159,6 @@
     "title": "Кров",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0c8TE66woEQYexNNhgDwRd",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:19:39.646Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/0c8TE66woEQYexNNhgDwRd"
   }
 ]

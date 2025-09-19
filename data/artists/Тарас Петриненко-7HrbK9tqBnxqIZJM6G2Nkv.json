@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:53.418Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "Тарас Петриненко"
     ],
@@ -9,15 +15,15 @@
     "title": "Краще",
     "totalTracks": 29,
     "type": "album",
-    "url": "https://open.spotify.com/album/4ujnIU9Qk32BQG9Qvn2cNE",
+    "url": "https://open.spotify.com/album/4ujnIU9Qk32BQG9Qvn2cNE"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:53.418Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Олександр Положинський",
       "Тарас Петриненко"
@@ -28,15 +34,15 @@
     "title": "Час",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2Y2pz9BwOUod8nTE1JunDy",
+    "url": "https://open.spotify.com/album/2Y2pz9BwOUod8nTE1JunDy"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:53.418Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Олександр Положинський"
     ],
@@ -46,12 +52,6 @@
     "title": "ЗСУВ",
     "totalTracks": 18,
     "type": "album",
-    "url": "https://open.spotify.com/album/2kU1We8fMu07jgOXqaXQvV",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:19:53.418Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/2kU1We8fMu07jgOXqaXQvV"
   }
 ]

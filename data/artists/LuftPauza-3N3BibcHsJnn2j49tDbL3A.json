@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:20:50.878Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "LuftPauza"
     ],
@@ -9,15 +15,15 @@
     "title": "Зелений блокнот",
     "totalTracks": 8,
     "type": "album",
-    "url": "https://open.spotify.com/album/5DYd8mnsVhDFOFv4zHWkhP",
+    "url": "https://open.spotify.com/album/5DYd8mnsVhDFOFv4zHWkhP"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:50.878Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "LuftPauza"
     ],
@@ -27,15 +33,15 @@
     "title": "Сніг на Квітневій Траві",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/7iqSGlvw3abVFJtpOLfWhH",
+    "url": "https://open.spotify.com/album/7iqSGlvw3abVFJtpOLfWhH"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:50.878Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "LuftPauza"
     ],
@@ -45,15 +51,15 @@
     "title": "Милі Обличчя",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3FZKvj1zWwI1phsRpaFLuG",
+    "url": "https://open.spotify.com/album/3FZKvj1zWwI1phsRpaFLuG"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:50.878Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "LuftPauza"
     ],
@@ -63,15 +69,15 @@
     "title": "Після Ночі",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1EBaTECvHekII2PRXyHSbQ",
+    "url": "https://open.spotify.com/album/1EBaTECvHekII2PRXyHSbQ"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:50.878Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "LuftPauza"
     ],
@@ -81,15 +87,15 @@
     "title": "Галерея Серйозних Облич",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0vT49r1Nfd21H7OHZDlSPg",
+    "url": "https://open.spotify.com/album/0vT49r1Nfd21H7OHZDlSPg"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:50.878Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "LuftPauza"
     ],
@@ -99,15 +105,15 @@
     "title": "Іскра",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3QqzWcaofCebHpGTauvUQD",
+    "url": "https://open.spotify.com/album/3QqzWcaofCebHpGTauvUQD"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:50.878Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "LuftPauza"
     ],
@@ -117,15 +123,15 @@
     "title": "Зніми з мене форму",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2UrotFg80u7Dn9NVlxot2Q",
+    "url": "https://open.spotify.com/album/2UrotFg80u7Dn9NVlxot2Q"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:50.878Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "LuftPauza"
     ],
@@ -135,15 +141,15 @@
     "title": "Ангелок",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/21khql2exAksNa0dl1EpjB",
+    "url": "https://open.spotify.com/album/21khql2exAksNa0dl1EpjB"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:50.878Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "LuftPauza"
     ],
@@ -153,12 +159,6 @@
     "title": "Вставай",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/7jXz9JmQwEQv4l7fDv0bnO",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:20:50.878Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/7jXz9JmQwEQv4l7fDv0bnO"
   }
 ]

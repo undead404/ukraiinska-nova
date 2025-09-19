@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:02.498Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "The Sonic Temple",
       "fimamaru"
@@ -10,15 +16,15 @@
     "title": "Життя на смак",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/7EsmEGu9wpMp392Z6Vx3ah",
+    "url": "https://open.spotify.com/album/7EsmEGu9wpMp392Z6Vx3ah"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:22:02.498Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "The Sonic Temple"
     ],
@@ -28,15 +34,15 @@
     "title": "Спи",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2JVRHSCwrjWEA2ylN1vUal",
+    "url": "https://open.spotify.com/album/2JVRHSCwrjWEA2ylN1vUal"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:22:02.498Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "The Sonic Temple"
     ],
@@ -46,15 +52,15 @@
     "title": "Once",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5kIO4am7oBfY0VYTzI5gyj",
+    "url": "https://open.spotify.com/album/5kIO4am7oBfY0VYTzI5gyj"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:22:02.498Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "The Sonic Temple"
     ],
@@ -64,15 +70,15 @@
     "title": "Не Дивись (radio edit)",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/7yNMzWzxgzS39R9stZGR4j",
+    "url": "https://open.spotify.com/album/7yNMzWzxgzS39R9stZGR4j"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:22:02.498Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "The Sonic Temple"
     ],
@@ -82,15 +88,15 @@
     "title": "No Relief",
     "totalTracks": 5,
     "type": "single",
-    "url": "https://open.spotify.com/album/3xykRTbCP8gNh9UCA9YGi3",
+    "url": "https://open.spotify.com/album/3xykRTbCP8gNh9UCA9YGi3"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:22:02.498Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "The Sonic Temple"
     ],
@@ -100,12 +106,6 @@
     "title": "I.O.",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/6z4J4c9vkk2FzKsPqBPAl5",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:22:02.498Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/6z4J4c9vkk2FzKsPqBPAl5"
   }
 ]

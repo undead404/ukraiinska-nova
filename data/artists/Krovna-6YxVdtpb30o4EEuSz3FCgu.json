@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:20:47.018Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "Krovna"
     ],
@@ -9,15 +15,15 @@
     "title": "Чиста земля (Pure Land)",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2niWhxxx4Zx5mILvm8YDBh",
+    "url": "https://open.spotify.com/album/2niWhxxx4Zx5mILvm8YDBh"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:47.018Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Krovna"
     ],
@@ -27,12 +33,6 @@
     "title": "Роду (To The Kin)",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0ddV0TfOsqBzOza4naRTVz",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:20:47.018Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/0ddV0TfOsqBzOza4naRTVz"
   }
 ]

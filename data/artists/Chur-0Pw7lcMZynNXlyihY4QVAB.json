@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:20:10.535Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "Chur"
     ],
@@ -9,15 +15,15 @@
     "title": "Four-faced",
     "totalTracks": 11,
     "type": "album",
-    "url": "https://open.spotify.com/album/6utzVJv5PTYfc82VQHsj75",
+    "url": "https://open.spotify.com/album/6utzVJv5PTYfc82VQHsj75"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:10.535Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Chur"
     ],
@@ -27,15 +33,15 @@
     "title": "Лихо",
     "totalTracks": 10,
     "type": "album",
-    "url": "https://open.spotify.com/album/6uSscJMuFhePdFrnGSN2FF",
+    "url": "https://open.spotify.com/album/6uSscJMuFhePdFrnGSN2FF"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:10.535Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Chur",
       "Oprich"
@@ -46,15 +52,15 @@
     "title": "‚Ä¶From the Ghostly Fog‚Ä¶ / The Fireflower",
     "totalTracks": 8,
     "type": "album",
-    "url": "https://open.spotify.com/album/7ykHhj9To87hGsdkBuyKJe",
+    "url": "https://open.spotify.com/album/7ykHhj9To87hGsdkBuyKJe"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:10.535Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Chur"
     ],
@@ -64,15 +70,15 @@
     "title": "Брате вітре",
     "totalTracks": 11,
     "type": "album",
-    "url": "https://open.spotify.com/album/1qa6WbdinL0Xr3t5u8YvdR",
+    "url": "https://open.spotify.com/album/1qa6WbdinL0Xr3t5u8YvdR"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:10.535Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Chur"
     ],
@@ -82,15 +88,15 @@
     "title": "Black Knight",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1HKw4yq75jOvj7ETnuhrbI",
+    "url": "https://open.spotify.com/album/1HKw4yq75jOvj7ETnuhrbI"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:10.535Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Chur"
     ],
@@ -100,15 +106,15 @@
     "title": "Revival",
     "totalTracks": 5,
     "type": "single",
-    "url": "https://open.spotify.com/album/2UTCsd9QBYpL2JhLsS4ye1",
+    "url": "https://open.spotify.com/album/2UTCsd9QBYpL2JhLsS4ye1"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:10.535Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Chur"
     ],
@@ -118,15 +124,15 @@
     "title": "Oldman",
     "totalTracks": 6,
     "type": "single",
-    "url": "https://open.spotify.com/album/1qAO92soaFRY2rKYQ8XH54",
+    "url": "https://open.spotify.com/album/1qAO92soaFRY2rKYQ8XH54"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:10.535Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Heather Wasteland"
     ],
@@ -136,12 +142,6 @@
     "title": "Tre Sverd",
     "totalTracks": 4,
     "type": "single",
-    "url": "https://open.spotify.com/album/6BREv52mTmW4s9UwLUvMRe",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:20:10.535Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/6BREv52mTmW4s9UwLUvMRe"
   }
 ]

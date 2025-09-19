@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:27.312Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "No Time For Swing",
       "Boris Lugovik",
@@ -11,15 +17,15 @@
     "title": "Breakdown",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/7ooq0JCFYTVDwLRZTpjFRy",
+    "url": "https://open.spotify.com/album/7ooq0JCFYTVDwLRZTpjFRy"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:22:27.312Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "No Time For Swing",
       "Boris Lugovik",
@@ -31,15 +37,15 @@
     "title": "Bastard",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/71u2czCKxyxHoUyxterKaZ",
+    "url": "https://open.spotify.com/album/71u2czCKxyxHoUyxterKaZ"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:22:27.312Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Yevhen Puhachov",
       "Anton Kramer"
@@ -50,15 +56,15 @@
     "title": "Sashenka",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2o8avHs68cJzI3BlJ0CxzE",
+    "url": "https://open.spotify.com/album/2o8avHs68cJzI3BlJ0CxzE"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:22:27.312Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Yevhen Puhachov"
     ],
@@ -68,15 +74,15 @@
     "title": "Tension",
     "totalTracks": 2,
     "type": "single",
-    "url": "https://open.spotify.com/album/3etPIMiG8eL0LlK79udGAx",
+    "url": "https://open.spotify.com/album/3etPIMiG8eL0LlK79udGAx"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:22:27.312Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "ЩукаРиба",
       "Bunht"
@@ -87,15 +93,15 @@
     "title": "Веснянки",
     "totalTracks": 2,
     "type": "single",
-    "url": "https://open.spotify.com/album/3ef4Fvv8pnjs0JKkifuwV2",
+    "url": "https://open.spotify.com/album/3ef4Fvv8pnjs0JKkifuwV2"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:22:27.312Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "ЩукаРиба",
       "Bunht"
@@ -106,15 +112,15 @@
     "title": "Що й святоє…",
     "totalTracks": 5,
     "type": "single",
-    "url": "https://open.spotify.com/album/7n6Gydmu6oRst0IOsjx5lA",
+    "url": "https://open.spotify.com/album/7n6Gydmu6oRst0IOsjx5lA"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:22:27.312Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "No Time For Swing"
     ],
@@ -124,12 +130,6 @@
     "title": "NTFS, Vol.1",
     "totalTracks": 5,
     "type": "single",
-    "url": "https://open.spotify.com/album/2846oqfMLO6Dgfwz5Q7cgN",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:22:27.312Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/2846oqfMLO6Dgfwz5Q7cgN"
   }
 ]

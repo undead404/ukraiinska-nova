@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:21:18.750Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "Bria Blessing",
       "Shockolad"
@@ -10,15 +16,15 @@
     "title": "Ivasyuk",
     "totalTracks": 10,
     "type": "album",
-    "url": "https://open.spotify.com/album/2hMPXGzxnsaedJYJQ4snau",
+    "url": "https://open.spotify.com/album/2hMPXGzxnsaedJYJQ4snau"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:18.750Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Shockolad",
       "Ewa Novel"
@@ -29,15 +35,15 @@
     "title": "Nova",
     "totalTracks": 7,
     "type": "album",
-    "url": "https://open.spotify.com/album/4H1PTYOJBfRlEfe1WmzoLU",
+    "url": "https://open.spotify.com/album/4H1PTYOJBfRlEfe1WmzoLU"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:18.750Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Shockolad"
     ],
@@ -47,15 +53,15 @@
     "title": "World",
     "totalTracks": 7,
     "type": "album",
-    "url": "https://open.spotify.com/album/5wCkihn1w6ugG06HzBK1bN",
+    "url": "https://open.spotify.com/album/5wCkihn1w6ugG06HzBK1bN"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:18.750Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Shockolad"
     ],
@@ -65,15 +71,15 @@
     "title": "Щедрий вечір з добрим jazzoм",
     "totalTracks": 9,
     "type": "album",
-    "url": "https://open.spotify.com/album/0oAXMlIywi0Yfpza5QbJoW",
+    "url": "https://open.spotify.com/album/0oAXMlIywi0Yfpza5QbJoW"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:18.750Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Shockolad"
     ],
@@ -83,15 +89,15 @@
     "title": "Pokosy",
     "totalTracks": 11,
     "type": "album",
-    "url": "https://open.spotify.com/album/3SbMXPLtN3a5ADx21xi05j",
+    "url": "https://open.spotify.com/album/3SbMXPLtN3a5ADx21xi05j"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:18.750Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Shockolad"
     ],
@@ -101,15 +107,15 @@
     "title": "Number One",
     "totalTracks": 4,
     "type": "album",
-    "url": "https://open.spotify.com/album/3DCeUOf3UJIy3wFDnvuCtT",
+    "url": "https://open.spotify.com/album/3DCeUOf3UJIy3wFDnvuCtT"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:18.750Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Shockolad"
     ],
@@ -119,12 +125,6 @@
     "title": "Бог ся рождає",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/6LpnujXtfvVupZjiHkmnFG",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:21:18.750Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/6LpnujXtfvVupZjiHkmnFG"
   }
 ]

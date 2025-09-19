@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:20:05.178Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "Янсен Кукансен"
     ],
@@ -9,12 +15,6 @@
     "title": "Дупаджонідепа",
     "totalTracks": 12,
     "type": "album",
-    "url": "https://open.spotify.com/album/4TPjrgqAJ4P4QtSXUhJQ5W",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:20:05.178Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/4TPjrgqAJ4P4QtSXUhJQ5W"
   }
 ]

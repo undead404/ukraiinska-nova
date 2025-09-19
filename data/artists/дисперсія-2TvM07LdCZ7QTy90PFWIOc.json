@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:31.260Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "дисперсія"
     ],
@@ -9,15 +15,15 @@
     "title": "добраніч, пунпуне",
     "totalTracks": 10,
     "type": "album",
-    "url": "https://open.spotify.com/album/1fD6MOqhZyLimn4CfntdgM",
+    "url": "https://open.spotify.com/album/1fD6MOqhZyLimn4CfntdgM"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:31.260Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "дисперсія"
     ],
@@ -27,15 +33,15 @@
     "title": "елеонор",
     "totalTracks": 4,
     "type": "single",
-    "url": "https://open.spotify.com/album/4HOQRFVBhpFIaGPLKGphmT",
+    "url": "https://open.spotify.com/album/4HOQRFVBhpFIaGPLKGphmT"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:31.260Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "дисперсія"
     ],
@@ -45,15 +51,15 @@
     "title": "оскільки нічого не має сенсу, його створю сам я",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3Ko5YowS7TKPwPVqYRXwCk",
+    "url": "https://open.spotify.com/album/3Ko5YowS7TKPwPVqYRXwCk"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:31.260Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "дисперсія"
     ],
@@ -63,15 +69,15 @@
     "title": "мурахи",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2XWw13VrtAhImjUYaaisky",
+    "url": "https://open.spotify.com/album/2XWw13VrtAhImjUYaaisky"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:31.260Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "дисперсія"
     ],
@@ -81,15 +87,15 @@
     "title": "сподіваюсь, мені це здалось",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5D9A9L5DkBMTop4LNQpaXM",
+    "url": "https://open.spotify.com/album/5D9A9L5DkBMTop4LNQpaXM"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:31.260Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "дисперсія"
     ],
@@ -99,15 +105,15 @@
     "title": "секс тривога алкоголь",
     "totalTracks": 6,
     "type": "single",
-    "url": "https://open.spotify.com/album/068210EJWue06qSLhvobOU",
+    "url": "https://open.spotify.com/album/068210EJWue06qSLhvobOU"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:31.260Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "дисперсія"
     ],
@@ -117,12 +123,6 @@
     "title": "screamo sessions 2021",
     "totalTracks": 3,
     "type": "single",
-    "url": "https://open.spotify.com/album/53VgjekF7kQkot7bTjg0fO",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:19:31.260Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/53VgjekF7kQkot7bTjg0fO"
   }
 ]

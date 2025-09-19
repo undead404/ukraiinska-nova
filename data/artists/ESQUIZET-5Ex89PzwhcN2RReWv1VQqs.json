@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:20:11.706Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "ESQUIZET"
     ],
@@ -9,15 +15,15 @@
     "title": "Trivial Trivia",
     "totalTracks": 9,
     "type": "album",
-    "url": "https://open.spotify.com/album/0fVTeFvOgidyr1No3InXuQ",
+    "url": "https://open.spotify.com/album/0fVTeFvOgidyr1No3InXuQ"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:11.706Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "ESQUIZET"
     ],
@@ -27,15 +33,15 @@
     "title": "Вище",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3G2ZIXbs1YRKi1NbNmmegl",
+    "url": "https://open.spotify.com/album/3G2ZIXbs1YRKi1NbNmmegl"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:11.706Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "ESQUIZET"
     ],
@@ -45,12 +51,6 @@
     "title": "Ask why",
     "totalTracks": 5,
     "type": "single",
-    "url": "https://open.spotify.com/album/1Dcwr9sX27CwUSegmpYKfK",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:20:11.706Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/1Dcwr9sX27CwUSegmpYKfK"
   }
 ]

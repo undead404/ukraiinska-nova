@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:21:14.272Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "Pictures Inside Me"
     ],
@@ -9,15 +15,15 @@
     "title": "Обречённый жить",
     "totalTracks": 11,
     "type": "album",
-    "url": "https://open.spotify.com/album/5tfZcBn5sD5L2r6lsYtQ41",
+    "url": "https://open.spotify.com/album/5tfZcBn5sD5L2r6lsYtQ41"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:14.272Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Pictures Inside Me"
     ],
@@ -27,15 +33,15 @@
     "title": "Tesla",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2xhD2RA83RJkfv6gjiota3",
+    "url": "https://open.spotify.com/album/2xhD2RA83RJkfv6gjiota3"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:14.272Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Pictures Inside Me"
     ],
@@ -45,12 +51,6 @@
     "title": "Тепло других небес",
     "totalTracks": 6,
     "type": "single",
-    "url": "https://open.spotify.com/album/1jo5ilR4MBkwStL3vKXZXI",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:21:14.272Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/1jo5ilR4MBkwStL3vKXZXI"
   }
 ]

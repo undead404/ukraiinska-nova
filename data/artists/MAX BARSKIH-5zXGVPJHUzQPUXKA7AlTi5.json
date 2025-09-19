@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:21:07.795Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -9,15 +15,15 @@
     "title": "Зорепад",
     "totalTracks": 10,
     "type": "album",
-    "url": "https://open.spotify.com/album/4v2JOXZdVZGoxS9ZL5Ars8",
+    "url": "https://open.spotify.com/album/4v2JOXZdVZGoxS9ZL5Ars8"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -27,15 +33,15 @@
     "title": "1990",
     "totalTracks": 12,
     "type": "album",
-    "url": "https://open.spotify.com/album/6N2i6c5FyvltiC8unT2z6X",
+    "url": "https://open.spotify.com/album/6N2i6c5FyvltiC8unT2z6X"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -45,15 +51,15 @@
     "title": "С Максом по домам (Акустика)",
     "totalTracks": 8,
     "type": "album",
-    "url": "https://open.spotify.com/album/3wfik0TteCjjCJlnGNvIXM",
+    "url": "https://open.spotify.com/album/3wfik0TteCjjCJlnGNvIXM"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -63,15 +69,19 @@
     "title": "7",
     "totalTracks": 7,
     "type": "album",
-    "url": "https://open.spotify.com/album/2RBTf3XK05Q1XKlFycp6Bk",
+    "url": "https://open.spotify.com/album/2RBTf3XK05Q1XKlFycp6Bk"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-09-18T08:29:44.865Z",
+        "type": "LOST"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -81,7 +91,9 @@
     "title": "По Фрейду",
     "totalTracks": 13,
     "type": "album",
-    "url": "https://open.spotify.com/album/1s7XeyNhJ1H3oXxtxkSR8p",
+    "url": "https://open.spotify.com/album/1s7XeyNhJ1H3oXxtxkSR8p"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
@@ -91,9 +103,7 @@
         "time": "2025-09-18T08:29:44.865Z",
         "type": "LOST"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -103,7 +113,9 @@
     "title": "Туманы",
     "totalTracks": 12,
     "type": "album",
-    "url": "https://open.spotify.com/album/79r4wR8s2Tzl8ceXX3dULe",
+    "url": "https://open.spotify.com/album/79r4wR8s2Tzl8ceXX3dULe"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
@@ -113,9 +125,7 @@
         "time": "2025-09-18T08:29:44.865Z",
         "type": "LOST"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -125,19 +135,15 @@
     "title": "Z.Dance",
     "totalTracks": 13,
     "type": "album",
-    "url": "https://open.spotify.com/album/5cRILfADC9N3k6FTQgxAGt",
+    "url": "https://open.spotify.com/album/5cRILfADC9N3k6FTQgxAGt"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
-      },
-      {
-        "time": "2025-09-18T08:29:44.865Z",
-        "type": "LOST"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -147,15 +153,15 @@
     "title": "MINE",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/7nhYrhXUe6g03iGSpsaCnw",
+    "url": "https://open.spotify.com/album/7nhYrhXUe6g03iGSpsaCnw"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -165,15 +171,15 @@
     "title": "Sound of Bloom",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/08KC8fjILD9AKQA4a5YVo3",
+    "url": "https://open.spotify.com/album/08KC8fjILD9AKQA4a5YVo3"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Chronicles of Power",
       "MAX BARSKIH"
@@ -184,15 +190,15 @@
     "title": "Khort",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4YgReunsPtNOUxDoW5Ww64",
+    "url": "https://open.spotify.com/album/4YgReunsPtNOUxDoW5Ww64"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Chronicles of Power",
       "MAX BARSKIH"
@@ -203,15 +209,15 @@
     "title": "Marena",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/7Jm7sM1r9VCWsAndcivsmc",
+    "url": "https://open.spotify.com/album/7Jm7sM1r9VCWsAndcivsmc"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -221,15 +227,15 @@
     "title": "Someone New",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/7dWmQYs2iC5U2UOF0EI5zk",
+    "url": "https://open.spotify.com/album/7dWmQYs2iC5U2UOF0EI5zk"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -239,15 +245,15 @@
     "title": "Stomach Butterflies",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3yP0f4ywFTS8Y2SJAtmIvv",
+    "url": "https://open.spotify.com/album/3yP0f4ywFTS8Y2SJAtmIvv"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -257,15 +263,15 @@
     "title": "Stomach Butterflies",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3HUXhm07xkPLfyGLetIX02",
+    "url": "https://open.spotify.com/album/3HUXhm07xkPLfyGLetIX02"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Artem Pivovarov",
       "MAX BARSKIH"
@@ -276,15 +282,15 @@
     "title": "Так ніхто не кохав",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0Ap7PsLgjDT0t1HYwi2YSf",
+    "url": "https://open.spotify.com/album/0Ap7PsLgjDT0t1HYwi2YSf"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Chronicles of Power",
       "MAX BARSKIH"
@@ -295,15 +301,15 @@
     "title": "Prayer of Power",
     "totalTracks": 2,
     "type": "single",
-    "url": "https://open.spotify.com/album/6X9twWjs3HhWRElXyb43Q3",
+    "url": "https://open.spotify.com/album/6X9twWjs3HhWRElXyb43Q3"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -313,15 +319,15 @@
     "title": "Я вже не ти",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1FM0sqeUaGU1StpMgashba",
+    "url": "https://open.spotify.com/album/1FM0sqeUaGU1StpMgashba"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH",
       "Sagan"
@@ -332,15 +338,15 @@
     "title": "Tequila Sunrise (Sagan Remix)",
     "totalTracks": 2,
     "type": "single",
-    "url": "https://open.spotify.com/album/2IH8UNIhyL7Q3IMsXHEvMV",
+    "url": "https://open.spotify.com/album/2IH8UNIhyL7Q3IMsXHEvMV"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -350,15 +356,15 @@
     "title": "Замало (Acoustic)",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0cuBeC8cN0EAv1OnmFPFIb",
+    "url": "https://open.spotify.com/album/0cuBeC8cN0EAv1OnmFPFIb"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH",
       "MYSZKOVSKI"
@@ -369,15 +375,15 @@
     "title": "В твоїх очах (Myszkovski Remix)",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5ZKIAK9uBrefnBxt3A0vq8",
+    "url": "https://open.spotify.com/album/5ZKIAK9uBrefnBxt3A0vq8"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH",
       "Skytech"
@@ -388,15 +394,15 @@
     "title": "SLAY (Skytech Remix)",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5QEXstdFOCSz1i5l6LqaaU",
+    "url": "https://open.spotify.com/album/5QEXstdFOCSz1i5l6LqaaU"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -406,15 +412,15 @@
     "title": "Замало",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3cgSue42DDdIFeyVWeV7ij",
+    "url": "https://open.spotify.com/album/3cgSue42DDdIFeyVWeV7ij"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -424,15 +430,15 @@
     "title": "В твоїх очах",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4PHqbvqdyZy7q2dneMZJE1",
+    "url": "https://open.spotify.com/album/4PHqbvqdyZy7q2dneMZJE1"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -442,15 +448,15 @@
     "title": "SLAY",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0XiMiwNl1VGv5cwXZJiJnj",
+    "url": "https://open.spotify.com/album/0XiMiwNl1VGv5cwXZJiJnj"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -460,15 +466,15 @@
     "title": "Все можливо (Різдвяна версія)",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3qNQWkb5SSFqMvAYIvgkok",
+    "url": "https://open.spotify.com/album/3qNQWkb5SSFqMvAYIvgkok"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -478,15 +484,15 @@
     "title": "Soldier (From \"The Hardest Hour\")",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3Dv1AA3CjpLCORLPyvP5S8",
+    "url": "https://open.spotify.com/album/3Dv1AA3CjpLCORLPyvP5S8"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -496,15 +502,15 @@
     "title": "Rich",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3PLcNY9CLjvlDqUsgLo4Sc",
+    "url": "https://open.spotify.com/album/3PLcNY9CLjvlDqUsgLo4Sc"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -514,15 +520,15 @@
     "title": "Не плач",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/03QVCtMb5yyPxOK0eRDqWA",
+    "url": "https://open.spotify.com/album/03QVCtMb5yyPxOK0eRDqWA"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH",
       "DOROFEEVA"
@@ -533,15 +539,15 @@
     "title": "Ритми",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/19R8nv3EBcLStCefd0dfM7",
+    "url": "https://open.spotify.com/album/19R8nv3EBcLStCefd0dfM7"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -551,15 +557,15 @@
     "title": "Береги",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2KVkuq5W9tHzk66Ayg2a2f",
+    "url": "https://open.spotify.com/album/2KVkuq5W9tHzk66Ayg2a2f"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -569,15 +575,15 @@
     "title": "Тумани",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4gCxfFRwao2tmkZMzp1eRX",
+    "url": "https://open.spotify.com/album/4gCxfFRwao2tmkZMzp1eRX"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -587,15 +593,15 @@
     "title": "Знайти себе",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/73G7GNuAe9X0fFAlaxXJzz",
+    "url": "https://open.spotify.com/album/73G7GNuAe9X0fFAlaxXJzz"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -605,15 +611,15 @@
     "title": "5 Missing Calls",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5Ete0IVlyD52KHGpzzBZ6m",
+    "url": "https://open.spotify.com/album/5Ete0IVlyD52KHGpzzBZ6m"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -623,15 +629,15 @@
     "title": "Мамо, не плач",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2uUjCFRbNSieidAe21thKR",
+    "url": "https://open.spotify.com/album/2uUjCFRbNSieidAe21thKR"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -641,15 +647,15 @@
     "title": "Before We Say Goodbye",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/20qYglno7wKSBQIm3nXGej",
+    "url": "https://open.spotify.com/album/20qYglno7wKSBQIm3nXGej"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "ETOLUBOV",
       "MAX BARSKIH"
@@ -660,15 +666,15 @@
     "title": "Римую",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1qYoqQ42yCW5urprVneJbU",
+    "url": "https://open.spotify.com/album/1qYoqQ42yCW5urprVneJbU"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -678,15 +684,15 @@
     "title": "Україна",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/6zQ7DrMpH0QjZWG5gxVIXC",
+    "url": "https://open.spotify.com/album/6zQ7DrMpH0QjZWG5gxVIXC"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -696,15 +702,15 @@
     "title": "Чекай мене",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4RCg8e12V8vhAuuMDshHMq",
+    "url": "https://open.spotify.com/album/4RCg8e12V8vhAuuMDshHMq"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -714,15 +720,15 @@
     "title": "Don't Fuck With Ukraine",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2qIEresDNQVYd4CjqNzLlq",
+    "url": "https://open.spotify.com/album/2qIEresDNQVYd4CjqNzLlq"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -732,15 +738,15 @@
     "title": "Буде весна",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4sdWEYXerWh2qrTigNJNEj",
+    "url": "https://open.spotify.com/album/4sdWEYXerWh2qrTigNJNEj"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -750,15 +756,15 @@
     "title": "Tequila Sunrise",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4Z8XMB8thBJ9MDk6XgxIbt",
+    "url": "https://open.spotify.com/album/4Z8XMB8thBJ9MDk6XgxIbt"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -768,15 +774,19 @@
     "title": "Just Fly",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/33PaWI9F8Z6P6Q82FpyCzt",
+    "url": "https://open.spotify.com/album/33PaWI9F8Z6P6Q82FpyCzt"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-09-18T08:29:44.865Z",
+        "type": "LOST"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -786,7 +796,9 @@
     "title": "Ночь-проводник (Remake)",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/7y4ubuD4G5f38La5b7YYcB",
+    "url": "https://open.spotify.com/album/7y4ubuD4G5f38La5b7YYcB"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
@@ -796,9 +808,7 @@
         "time": "2025-09-18T08:29:44.865Z",
         "type": "LOST"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -808,19 +818,15 @@
     "title": "По секрету",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0DisHjy3W89vJag9jcJ8Yv",
+    "url": "https://open.spotify.com/album/0DisHjy3W89vJag9jcJ8Yv"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
-      },
-      {
-        "time": "2025-09-18T08:29:44.865Z",
-        "type": "LOST"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH",
       "Zivert"
@@ -831,25 +837,9 @@
     "title": "Bestseller",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3xzy2Ppjk6IWCAGQf4ZEnl",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:21:07.795Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/3xzy2Ppjk6IWCAGQf4ZEnl"
   },
   {
-    "artists": [
-      "MAX BARSKIH"
-    ],
-    "artistsPopularity": 49,
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731869de3982c9f7dbc856454d",
-    "releaseDate": "2020-12-04",
-    "title": "Имена (From “La Plage”)",
-    "totalTracks": 1,
-    "type": "single",
-    "url": "https://open.spotify.com/album/5WJoq9goKBL553zyTAZ3LO",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
@@ -859,9 +849,29 @@
         "time": "2025-09-18T08:29:44.865Z",
         "type": "LOST"
       }
-    ]
+    ],
+    "artists": [
+      "MAX BARSKIH"
+    ],
+    "artistsPopularity": 49,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731869de3982c9f7dbc856454d",
+    "releaseDate": "2020-12-04",
+    "title": "Имена (From “La Plage”)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5WJoq9goKBL553zyTAZ3LO"
   },
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:21:07.795Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2025-09-18T08:29:44.865Z",
+        "type": "LOST"
+      }
+    ],
     "artists": [
       "MAX BARSKIH",
       "Alexander Popov"
@@ -872,19 +882,15 @@
     "title": "Silence (Alexander Popov Extended Remix)",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1bc4wlUzu2Csb7bKXsFhVZ",
+    "url": "https://open.spotify.com/album/1bc4wlUzu2Csb7bKXsFhVZ"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
-      },
-      {
-        "time": "2025-09-18T08:29:44.865Z",
-        "type": "LOST"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -894,15 +900,19 @@
     "title": "Silence",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3qRc7YQeE6waKdYurCnxGe",
+    "url": "https://open.spotify.com/album/3qRc7YQeE6waKdYurCnxGe"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-09-18T08:29:44.865Z",
+        "type": "LOST"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH",
       "Rodion Gordin"
@@ -913,7 +923,9 @@
     "title": "По секрету (Rodion Gordin Remix)",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3nmlF2FsB9wRww7m1iE5Ef",
+    "url": "https://open.spotify.com/album/3nmlF2FsB9wRww7m1iE5Ef"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
@@ -923,9 +935,7 @@
         "time": "2025-09-18T08:29:44.865Z",
         "type": "LOST"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -935,19 +945,15 @@
     "title": "Лей, не жалей (MB Remix)",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5YUpwbRQp8uzrXJpStiGeP",
+    "url": "https://open.spotify.com/album/5YUpwbRQp8uzrXJpStiGeP"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
-      },
-      {
-        "time": "2025-09-18T08:29:44.865Z",
-        "type": "LOST"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -957,15 +963,19 @@
     "title": "Двоє",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/55KMHcxBX2dCQkReFlUbT6",
+    "url": "https://open.spotify.com/album/55KMHcxBX2dCQkReFlUbT6"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-09-18T08:29:44.865Z",
+        "type": "LOST"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -975,19 +985,15 @@
     "title": "Небо льет дождем",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1p9vtVezlVP15b3UHhMx9W",
+    "url": "https://open.spotify.com/album/1p9vtVezlVP15b3UHhMx9W"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
-      },
-      {
-        "time": "2025-09-18T08:29:44.865Z",
-        "type": "LOST"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -997,15 +1003,15 @@
     "title": "Лей, не жалей",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/470Z1UzaFNlwqDG66NHoCQ",
+    "url": "https://open.spotify.com/album/470Z1UzaFNlwqDG66NHoCQ"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -1015,15 +1021,15 @@
     "title": "Неслучайно",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4uoctZeotf49KIsZv2uNGS",
+    "url": "https://open.spotify.com/album/4uoctZeotf49KIsZv2uNGS"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -1033,15 +1039,15 @@
     "title": "Берега",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/68ksWiLRkLXO60aUSY2t7u",
+    "url": "https://open.spotify.com/album/68ksWiLRkLXO60aUSY2t7u"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -1051,15 +1057,15 @@
     "title": "ВСПОМИНАТЬ",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/57ewscmLvKmRrUh5NLQCg9",
+    "url": "https://open.spotify.com/album/57ewscmLvKmRrUh5NLQCg9"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -1069,15 +1075,19 @@
     "title": "Полураздета",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3D94Ci7xEKjrt7j7vS2jvJ",
+    "url": "https://open.spotify.com/album/3D94Ci7xEKjrt7j7vS2jvJ"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-09-18T08:29:44.865Z",
+        "type": "LOST"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -1087,19 +1097,15 @@
     "title": "Сделай громче",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/6zan7W5lgG2gkICd46CpIf",
+    "url": "https://open.spotify.com/album/6zan7W5lgG2gkICd46CpIf"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
-      },
-      {
-        "time": "2025-09-18T08:29:44.865Z",
-        "type": "LOST"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -1109,25 +1115,9 @@
     "title": "Моя любовь",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0H7odEisyuHtUJwlKqwNBr",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:21:07.795Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/0H7odEisyuHtUJwlKqwNBr"
   },
   {
-    "artists": [
-      "MAX BARSKIH"
-    ],
-    "artistsPopularity": 49,
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cef7fa37ec49f1be98371063",
-    "releaseDate": "2017-05-10",
-    "title": "Я болею тобой",
-    "totalTracks": 1,
-    "type": "single",
-    "url": "https://open.spotify.com/album/4hCLMhUodHsoCvLnkyLjzy",
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
@@ -1137,9 +1127,29 @@
         "time": "2025-09-18T08:29:44.865Z",
         "type": "LOST"
       }
-    ]
+    ],
+    "artists": [
+      "MAX BARSKIH"
+    ],
+    "artistsPopularity": 49,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cef7fa37ec49f1be98371063",
+    "releaseDate": "2017-05-10",
+    "title": "Я болею тобой",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4hCLMhUodHsoCvLnkyLjzy"
   },
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:21:07.795Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2025-09-18T08:29:44.865Z",
+        "type": "LOST"
+      }
+    ],
     "artists": [
       "MAX BARSKIH",
       "LOBODA"
@@ -1150,7 +1160,9 @@
     "title": "Сердце бьется",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/6pW5H5ORkdo529iWV7ws1h",
+    "url": "https://open.spotify.com/album/6pW5H5ORkdo529iWV7ws1h"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
@@ -1160,9 +1172,7 @@
         "time": "2025-09-18T08:29:44.865Z",
         "type": "LOST"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -1172,7 +1182,9 @@
     "title": "Atoms",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4BBX9DtwZhaXJ8eJTkkRD9",
+    "url": "https://open.spotify.com/album/4BBX9DtwZhaXJ8eJTkkRD9"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
@@ -1182,9 +1194,7 @@
         "time": "2025-09-18T08:29:44.865Z",
         "type": "LOST"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -1194,7 +1204,9 @@
     "title": "Теряю тебя",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5pL4F0RXc92F4CSCxrpHnC",
+    "url": "https://open.spotify.com/album/5pL4F0RXc92F4CSCxrpHnC"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
@@ -1204,9 +1216,7 @@
         "time": "2025-09-18T08:29:44.865Z",
         "type": "LOST"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -1216,7 +1226,9 @@
     "title": "Глаза-убийцы",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5u1qAzJ3EkR15dvlrypNTt",
+    "url": "https://open.spotify.com/album/5u1qAzJ3EkR15dvlrypNTt"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
@@ -1226,9 +1238,7 @@
         "time": "2025-09-18T08:29:44.865Z",
         "type": "LOST"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -1238,7 +1248,9 @@
     "title": "Lost in Love",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3vzoKC57rGVBHmjvQU0hmo",
+    "url": "https://open.spotify.com/album/3vzoKC57rGVBHmjvQU0hmo"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
@@ -1248,9 +1260,7 @@
         "time": "2025-09-18T08:29:44.865Z",
         "type": "LOST"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -1260,7 +1270,9 @@
     "title": "I Wanna Run",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/7hycDixdNIGuLLnj70kEK1",
+    "url": "https://open.spotify.com/album/7hycDixdNIGuLLnj70kEK1"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
@@ -1270,9 +1282,7 @@
         "time": "2025-09-18T08:29:44.865Z",
         "type": "LOST"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -1282,7 +1292,9 @@
     "title": "Туманы",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0oJCKrLPwkOERwdBxTqtEd",
+    "url": "https://open.spotify.com/album/0oJCKrLPwkOERwdBxTqtEd"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
@@ -1292,9 +1304,7 @@
         "time": "2025-09-18T08:29:44.865Z",
         "type": "LOST"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -1304,7 +1314,9 @@
     "title": "Последний летний день",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/06u16JIYJmPKwf3ATTEICs",
+    "url": "https://open.spotify.com/album/06u16JIYJmPKwf3ATTEICs"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
@@ -1314,9 +1326,7 @@
         "time": "2025-09-18T08:29:44.865Z",
         "type": "LOST"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -1326,7 +1336,9 @@
     "title": "Займемся любовью",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5QEZ55pEBK2zusZt6uCDHb",
+    "url": "https://open.spotify.com/album/5QEZ55pEBK2zusZt6uCDHb"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
@@ -1336,9 +1348,7 @@
         "time": "2025-09-18T08:29:44.865Z",
         "type": "LOST"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -1348,7 +1358,9 @@
     "title": "Hlop, Hlop, Hlop",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2w4FWz8HsEgyzCHAqBTBdb",
+    "url": "https://open.spotify.com/album/2w4FWz8HsEgyzCHAqBTBdb"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
@@ -1358,9 +1370,7 @@
         "time": "2025-09-18T08:29:44.865Z",
         "type": "LOST"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -1370,7 +1380,9 @@
     "title": "Подруга-ночь",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5BDug7dX06wvhmyIGGlNe9",
+    "url": "https://open.spotify.com/album/5BDug7dX06wvhmyIGGlNe9"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
@@ -1380,9 +1392,7 @@
         "time": "2025-09-18T08:29:44.865Z",
         "type": "LOST"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -1392,19 +1402,15 @@
     "title": "Хочу танцевать",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4lYHbfai6eKZekR9mV6Aej",
+    "url": "https://open.spotify.com/album/4lYHbfai6eKZekR9mV6Aej"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
-      },
-      {
-        "time": "2025-09-18T08:29:44.865Z",
-        "type": "LOST"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
@@ -1414,156 +1420,150 @@
     "title": "Небо",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5wSQOAhyRDty4FgsoIOLqU",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:21:07.795Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/5wSQOAhyRDty4FgsoIOLqU"
   },
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T08:29:44.865Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
     "artistsPopularity": 49,
-    "title": "Туманы",
-    "releaseDate": "2016-10-08",
-    "type": "album",
-    "totalTracks": 12,
-    "url": "https://open.spotify.com/album/1dIQ5rVgJ9T1NO0L5FFsO4",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b25f8da5db306c91f046dfec",
-    "appearanceLog": [
-      {
-        "time": "2025-09-18T08:29:44.865Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "MAX BARSKIH"
-    ],
-    "artistsPopularity": 49,
-    "title": "По фрейду",
-    "releaseDate": "2015-09-21",
+    "releaseDate": "2016-10-08",
+    "title": "Туманы",
+    "totalTracks": 12,
     "type": "album",
-    "totalTracks": 13,
-    "url": "https://open.spotify.com/album/7DjaQWQYGqVZjewLasF8rt",
+    "url": "https://open.spotify.com/album/1dIQ5rVgJ9T1NO0L5FFsO4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T08:29:44.865Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MAX BARSKIH"
+    ],
+    "artistsPopularity": 49,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735fdaf1dbe99eb50003706ba9",
+    "releaseDate": "2015-09-21",
+    "title": "По фрейду",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7DjaQWQYGqVZjewLasF8rt"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-18T08:29:44.865Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
     "artistsPopularity": 49,
-    "title": "Имена",
-    "releaseDate": "2020-12-04",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0x3Dp6GO6Px6ZQgkGSrk2y",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737e4d71f81571cccc5dbc7aa9",
+    "releaseDate": "2020-12-04",
+    "title": "Имена",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0x3Dp6GO6Px6ZQgkGSrk2y"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-18T08:29:44.865Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
     "artistsPopularity": 49,
-    "title": "По секрету",
-    "releaseDate": "2020-05-15",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/06bhC6I4viX9LEwXXmBaZw",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27316e9eb102121fe4825c73dc5",
+    "releaseDate": "2020-05-15",
+    "title": "По секрету",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/06bhC6I4viX9LEwXXmBaZw"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-18T08:29:44.865Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
     "artistsPopularity": 49,
-    "title": "Небо льёт дождем",
-    "releaseDate": "2020-02-28",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2mnqBhrKpoGWDOr982x4p3",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d02af45cd2789b3cc46272ab",
+    "releaseDate": "2020-02-28",
+    "title": "Небо льёт дождем",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2mnqBhrKpoGWDOr982x4p3"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-18T08:29:44.865Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
     "artistsPopularity": 49,
-    "title": "Сделай громче",
-    "releaseDate": "2018-04-05",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/52F7yglxZISBnb4FThFB6L",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735045fc591afd797bd73c373a",
+    "releaseDate": "2018-04-05",
+    "title": "Сделай громче",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/52F7yglxZISBnb4FThFB6L"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-18T08:29:44.865Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
     "artistsPopularity": 49,
-    "title": "Займемся любовью",
-    "releaseDate": "2016-01-26",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3vZA9AfnEECw6HrwSZ7bjx",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735d343ce6ffbfcd00aba6ee53",
+    "releaseDate": "2016-01-26",
+    "title": "Займемся любовью",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3vZA9AfnEECw6HrwSZ7bjx"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-18T08:29:44.865Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "MAX BARSKIH"
     ],
     "artistsPopularity": 49,
-    "title": "Подруга - ночь",
-    "releaseDate": "2014-05-14",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6gZAtSTCMgLugdO2Xt3Otw",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273499b5f714bc968d165d6f7cd",
-    "appearanceLog": [
-      {
-        "time": "2025-09-18T08:29:44.865Z",
-        "type": "FOUND"
-      }
-    ]
+    "releaseDate": "2014-05-14",
+    "title": "Подруга - ночь",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6gZAtSTCMgLugdO2Xt3Otw"
   }
 ]

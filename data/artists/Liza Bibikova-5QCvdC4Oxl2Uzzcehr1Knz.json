@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:20:48.834Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "Liza Bibikova"
     ],
@@ -9,15 +15,15 @@
     "title": "Вдома",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/56zsb0BfesPZJTrYeNNAsJ",
+    "url": "https://open.spotify.com/album/56zsb0BfesPZJTrYeNNAsJ"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:48.834Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Liza Bibikova",
       "BAH.ROMA"
@@ -28,15 +34,15 @@
     "title": "київ-нью-йорк",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1pEJUVKehVzrUPZSUFZK6F",
+    "url": "https://open.spotify.com/album/1pEJUVKehVzrUPZSUFZK6F"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:48.834Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Liza Bibikova"
     ],
@@ -46,15 +52,15 @@
     "title": "можливо, стала доросліша",
     "totalTracks": 4,
     "type": "single",
-    "url": "https://open.spotify.com/album/4eaxLpxkwmz4UbpzP9yYiv",
+    "url": "https://open.spotify.com/album/4eaxLpxkwmz4UbpzP9yYiv"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:48.834Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Liza Bibikova",
       "saymory"
@@ -65,15 +71,15 @@
     "title": "Чому я кохаю тебе завжди?",
     "totalTracks": 2,
     "type": "single",
-    "url": "https://open.spotify.com/album/79ob1PLWHKi3NaiFTzELeB",
+    "url": "https://open.spotify.com/album/79ob1PLWHKi3NaiFTzELeB"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:48.834Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Liza Bibikova"
     ],
@@ -83,15 +89,15 @@
     "title": "Скажи мені",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3gen2wuIsANLkAlBZg12Qj",
+    "url": "https://open.spotify.com/album/3gen2wuIsANLkAlBZg12Qj"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:48.834Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Liza Bibikova"
     ],
@@ -101,12 +107,25 @@
     "title": "Поряд",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4FaDAYJif3eUWZDoP0nHcB",
+    "url": "https://open.spotify.com/album/4FaDAYJif3eUWZDoP0nHcB"
+  },
+  {
     "appearanceLog": [
       {
-        "time": "2025-09-17T08:20:48.834Z",
+        "time": "2025-09-19T08:26:12.877Z",
         "type": "FOUND"
       }
-    ]
+    ],
+    "artists": [
+      "Liza Bibikova",
+      "MOISHE"
+    ],
+    "artistsPopularity": 35,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730d4f7e8a37da7bdf4252df0f",
+    "releaseDate": "2025-09-19",
+    "title": "Нелюбов",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7CYPmTT27avT4QG3BhwX6f"
   }
 ]

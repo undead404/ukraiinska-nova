@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:22:09.809Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "TRENCH ORDERLY"
     ],
@@ -9,15 +15,15 @@
     "title": "ТРОшки тяжче ніж гадалось...",
     "totalTracks": 11,
     "type": "album",
-    "url": "https://open.spotify.com/album/6NrFlf1SSOU6zvmhyZNC0R",
+    "url": "https://open.spotify.com/album/6NrFlf1SSOU6zvmhyZNC0R"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:22:09.809Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TRENCH ORDERLY"
     ],
@@ -27,15 +33,15 @@
     "title": "В армії другий та останній раз...",
     "totalTracks": 12,
     "type": "album",
-    "url": "https://open.spotify.com/album/062a55MCwRMgudxvkbb3Tq",
+    "url": "https://open.spotify.com/album/062a55MCwRMgudxvkbb3Tq"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:22:09.809Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TRENCH ORDERLY"
     ],
@@ -45,15 +51,15 @@
     "title": "Та пішло воно все... В армію!",
     "totalTracks": 11,
     "type": "album",
-    "url": "https://open.spotify.com/album/41RDSifKOCnFZngcUXzNRY",
+    "url": "https://open.spotify.com/album/41RDSifKOCnFZngcUXzNRY"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:22:09.809Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TRENCH ORDERLY"
     ],
@@ -63,15 +69,15 @@
     "title": "Необмежено - придатний",
     "totalTracks": 10,
     "type": "album",
-    "url": "https://open.spotify.com/album/5X8zMxVIGQfoAUJUXyDjAV",
+    "url": "https://open.spotify.com/album/5X8zMxVIGQfoAUJUXyDjAV"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:22:09.809Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TRENCH ORDERLY"
     ],
@@ -81,15 +87,15 @@
     "title": "Недостатня русофобія",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/6llUNTdpKPJZaBX3F6e8BM",
+    "url": "https://open.spotify.com/album/6llUNTdpKPJZaBX3F6e8BM"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:22:09.809Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TRENCH ORDERLY"
     ],
@@ -99,12 +105,6 @@
     "title": "Необмежено-придатний",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0Om7MCVE5LVFO4dhmldFCT",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:22:09.809Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/0Om7MCVE5LVFO4dhmldFCT"
   }
 ]

@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:41.271Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "Опіум"
     ],
@@ -9,15 +15,15 @@
     "title": "Почуття і медалі",
     "totalTracks": 13,
     "type": "album",
-    "url": "https://open.spotify.com/album/0fmLPoLvobXiFJPimV9D1S",
+    "url": "https://open.spotify.com/album/0fmLPoLvobXiFJPimV9D1S"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:41.271Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Опіум"
     ],
@@ -27,15 +33,15 @@
     "title": "Молися на мене",
     "totalTracks": 10,
     "type": "album",
-    "url": "https://open.spotify.com/album/4roteJ3VTqBHgxIbcHNhye",
+    "url": "https://open.spotify.com/album/4roteJ3VTqBHgxIbcHNhye"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:41.271Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Опіум"
     ],
@@ -45,15 +51,15 @@
     "title": "Осіння",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/7k345eDmwCE278FdzMEWeK",
+    "url": "https://open.spotify.com/album/7k345eDmwCE278FdzMEWeK"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:41.271Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Опіум"
     ],
@@ -63,15 +69,15 @@
     "title": "Плеєр",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0r6A3BeBKvcJluJfvzj3NI",
+    "url": "https://open.spotify.com/album/0r6A3BeBKvcJluJfvzj3NI"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:41.271Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Опіум"
     ],
@@ -81,12 +87,6 @@
     "title": "Ласкаво просимо в клуб",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/41uiGTYg1Jwr29cJXjUAOG",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:19:41.271Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/41uiGTYg1Jwr29cJXjUAOG"
   }
 ]
