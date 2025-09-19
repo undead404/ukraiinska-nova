@@ -1,0 +1,38 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T12:26:06.109Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гудімов"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273758373713de673d61d13ab06",
+    "releaseDate": "2007",
+    "title": "Монополія",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2GdsXevAAAhUepYj3thHyc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T12:26:06.109Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гудімов"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273caee822a66c6f1bf6bb0cc82",
+    "releaseDate": "2005",
+    "title": "Трампліни",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3d8nFHxt9HAoXjDMz5ntcX"
+  }
+]

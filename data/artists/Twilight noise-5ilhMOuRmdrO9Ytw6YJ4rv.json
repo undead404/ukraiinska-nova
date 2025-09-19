@@ -1,0 +1,56 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T12:29:14.229Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Twilight noise"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738240b14bd47cdd4915520326",
+    "releaseDate": "2023-11-17",
+    "title": "In front of mind",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2NoA4N8x7SLvNnJinDioRm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T12:29:14.229Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Twilight noise"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273839bf7ccc8841834eba7260b",
+    "releaseDate": "2023-08-11",
+    "title": "Untitled 22/23.",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0LtfVUHhQteto14IYV7O1Q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T12:29:14.229Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Twilight noise"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732e99e06679a3c6e2c4fe3d74",
+    "releaseDate": "2022-12-30",
+    "title": "soft light sleep noise",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4FdCQ2AnjJrO7S7u5viRd1"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T12:26:58.500Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Цукрова Варта"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734ab5706e3c15eca3e68976a6",
+    "releaseDate": "2024-11-05",
+    "title": "Вампір",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0LYJ7LLF1ze2D89WuTvP2F"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T12:26:58.500Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Цукрова Варта"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ecfa135d6279ee20cd0d24ce",
+    "releaseDate": "2024-08-05",
+    "title": "Какао",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/70TGnMdbuA7bJQ4k6ZVJdo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T12:26:58.500Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Цукрова Варта"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27312325638670284664e6f5204",
+    "releaseDate": "2024-05-06",
+    "title": "Кольори літа",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/46LJGgD8Dxqcse690q8Tq3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T12:26:58.500Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Цукрова Варта"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c454f6014f8f41553c7fea70",
+    "releaseDate": "2024-02-16",
+    "title": "Русалка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1WXLPUpYjvngihGL1hWi01"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T12:28:36.638Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Made in Future"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273862f3c4f3d6d50ab99ceb0df",
+    "releaseDate": "2021-01-29",
+    "title": "Відлітаю",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6SFvNUgAaWYRlyCRpKdxYD"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T12:28:36.638Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Made in Future"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f86f43d97dafa8b99f777365",
+    "releaseDate": "2018-05-08",
+    "title": "Сильними",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2zyGFLOqqSyewj1RXP6OtI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T12:28:36.638Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Made in Future"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27359ffc4b7795dac110c5af6b8",
+    "releaseDate": "2016-10-01",
+    "title": "У масці",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4z57L2FNgHD2VQNQqahbki"
+  }
+]

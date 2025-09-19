@@ -1,0 +1,38 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T12:26:20.992Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Микола Мозговий"
+    ],
+    "artistsPopularity": 25,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27317a1335b08e13312c48d6fde",
+    "releaseDate": "2024-06-20",
+    "title": "Найкращі пісні (Live 2007)",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3vunJnGnZmiwXGW1xxWBon"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T12:26:20.992Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Микола Мозговий"
+    ],
+    "artistsPopularity": 25,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e03e7b5910af944f04f831e7",
+    "releaseDate": "2020-09-18",
+    "title": "Краще",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2iBCoWxhm9ZU2RR1jmrae9"
+  }
+]

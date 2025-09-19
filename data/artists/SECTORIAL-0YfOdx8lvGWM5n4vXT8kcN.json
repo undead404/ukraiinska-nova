@@ -1,0 +1,74 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T12:28:51.995Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SECTORIAL"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27399b094fefa580b108047febd",
+    "releaseDate": "2018-11-09",
+    "title": "VYR",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/76VkNWiAFMO1OHSjVxUhMf"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T12:28:51.995Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SECTORIAL"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733620b2447175fd7f10e03aa5",
+    "releaseDate": "2015-08-10",
+    "title": "We Are the Titan's Rising Ashes",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0SN24TZ82X2yCInhcnw8FR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T12:28:51.995Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SECTORIAL"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27318a7007fa8639d4609306ec9",
+    "releaseDate": "2012-02-29",
+    "title": "Erase and Reborn the Humanity",
+    "totalTracks": 23,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1G4OvitxSg57CwxytzgJwG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T12:28:51.995Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SECTORIAL"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273af40436bd1fb4297abba7d48",
+    "releaseDate": "2009-12-19",
+    "title": "Controlled Insane",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1UeAVbGsHCiC3dyNR9nS54"
+  }
+]

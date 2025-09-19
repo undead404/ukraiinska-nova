@@ -1,0 +1,93 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T12:29:08.994Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SvaDaRa"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dc991bb54ccb06ae71ac8a44",
+    "releaseDate": "2020-12-07",
+    "title": "Зареница",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6MBRzynmgXTEOaNjyORrpk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T12:29:08.994Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SvaDaRa"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d898c3f9c656b0facd8e6293",
+    "releaseDate": "2020-12-07",
+    "title": "Pilgrim",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1ZxAbTTlkvdITzQjItlLcr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T12:29:08.994Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SvaDaRa"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735842e51a75416280c1259571",
+    "releaseDate": "2018-12-22",
+    "title": "Орнамент",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7rYIdOSUzSPSpFqweYDSDx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T12:29:08.994Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SvaDaRa"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730044161b792fa27a0b941107",
+    "releaseDate": "2016-07-20",
+    "title": "Исток",
+    "totalTracks": 6,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1kWN0c9hyRTsKxFRTD9hjt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T12:29:08.994Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SvaDaRa",
+      "Zu_Basta"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273abca9f82901b683d0f3aa30b",
+    "releaseDate": "2024-01-31",
+    "title": "New World",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6K6Uv9iEpOSsWjq1b1dPC9"
+  }
+]
