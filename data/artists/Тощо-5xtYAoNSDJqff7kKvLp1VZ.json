@@ -1,290 +1,338 @@
 [
   {
-    "artists": ["Максим Тощо", "Тощо"],
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:04.762Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Максим Тощо",
+      "Тощо"
+    ],
     "artistsPopularity": 12,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eabec8097b0e2e82dbca5031",
     "releaseDate": "2025-05-09",
     "title": "Косметика (Делюкс)",
     "totalTracks": 14,
     "type": "album",
-    "url": "https://open.spotify.com/album/0UFLvHROZBTb7PRvOfn2Gp",
+    "url": "https://open.spotify.com/album/0UFLvHROZBTb7PRvOfn2Gp"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:04.762Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Максим Тощо", "Тощо"],
+    ],
+    "artists": [
+      "Максим Тощо",
+      "Тощо"
+    ],
     "artistsPopularity": 12,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c2dbbf66b43a0cfd7dcb934d",
     "releaseDate": "2024-09-20",
     "title": "Косметика",
     "totalTracks": 10,
     "type": "album",
-    "url": "https://open.spotify.com/album/6TxSxpC2qENB1g2vXNjeqE",
+    "url": "https://open.spotify.com/album/6TxSxpC2qENB1g2vXNjeqE"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:04.762Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["sucilna_nevdacha.exe", "Тощо"],
+    ],
+    "artists": [
+      "sucilna_nevdacha.exe",
+      "Тощо"
+    ],
     "artistsPopularity": 19,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ed41e86dd2568b4884425650",
     "releaseDate": "2023-06-16",
     "title": "Перша зірка на небі",
     "totalTracks": 8,
     "type": "album",
-    "url": "https://open.spotify.com/album/1YmqQOiIcWLp5a9wPBoO9M",
+    "url": "https://open.spotify.com/album/1YmqQOiIcWLp5a9wPBoO9M"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:04.762Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Максим Тощо", "Тощо"],
+    ],
+    "artists": [
+      "Максим Тощо",
+      "Тощо"
+    ],
     "artistsPopularity": 12,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273351f0aa29cc444bfac04962c",
     "releaseDate": "2025-04-25",
     "title": "Не Тут А Там",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/6pzET5P2zh6ySZKIgzOjZy",
+    "url": "https://open.spotify.com/album/6pzET5P2zh6ySZKIgzOjZy"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:04.762Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Максим Тощо", "Тощо"],
+    ],
+    "artists": [
+      "Максим Тощо",
+      "Тощо"
+    ],
     "artistsPopularity": 12,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736323162d824f927373b041d2",
     "releaseDate": "2024-09-13",
     "title": "Галантерея",
     "totalTracks": 3,
     "type": "single",
-    "url": "https://open.spotify.com/album/7qEG2DrqbEjSpPZrHQJGO8",
+    "url": "https://open.spotify.com/album/7qEG2DrqbEjSpPZrHQJGO8"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:04.762Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Максим Тощо", "Тощо"],
+    ],
+    "artists": [
+      "Максим Тощо",
+      "Тощо"
+    ],
     "artistsPopularity": 12,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27313e2c436d0ecf284fb055977",
     "releaseDate": "2024-08-30",
     "title": "Касабланка",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1lMlJgqMlxd7GBjv1V57Xw",
+    "url": "https://open.spotify.com/album/1lMlJgqMlxd7GBjv1V57Xw"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:04.762Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Максим Тощо", "Тощо"],
+    ],
+    "artists": [
+      "Максим Тощо",
+      "Тощо"
+    ],
     "artistsPopularity": 12,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27318db2e44cfd47427adb62fc2",
     "releaseDate": "2024-08-16",
     "title": "Біжутерія",
     "totalTracks": 3,
     "type": "single",
-    "url": "https://open.spotify.com/album/1DzP4T8Uw4YZNFmJkWFTZz",
+    "url": "https://open.spotify.com/album/1DzP4T8Uw4YZNFmJkWFTZz"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:04.762Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Максим Тощо", "Тощо"],
+    ],
+    "artists": [
+      "Максим Тощо",
+      "Тощо"
+    ],
     "artistsPopularity": 12,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734d7ddbb266deb740dc0197e4",
     "releaseDate": "2024-07-26",
     "title": "Знову Майбутнє",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4khTs3umWy1AhotfkruFxb",
+    "url": "https://open.spotify.com/album/4khTs3umWy1AhotfkruFxb"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:04.762Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["sucilna_nevdacha.exe", "Тощо"],
+    ],
+    "artists": [
+      "sucilna_nevdacha.exe",
+      "Тощо"
+    ],
     "artistsPopularity": 19,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735264c59aa23ceaab6144a09f",
     "releaseDate": "2023-06-07",
     "title": "Навпіл",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/60ksoZSuig2J5kojPLkj60",
+    "url": "https://open.spotify.com/album/60ksoZSuig2J5kojPLkj60"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:04.762Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Тощо"],
+    ],
+    "artists": [
+      "Тощо"
+    ],
     "artistsPopularity": 12,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273796f788afeb01788038ac56b",
     "releaseDate": "2023-05-05",
     "title": "лонгхорн",
     "totalTracks": 4,
     "type": "single",
-    "url": "https://open.spotify.com/album/0ke7S3T8XTHDMxDBTnSrC3",
+    "url": "https://open.spotify.com/album/0ke7S3T8XTHDMxDBTnSrC3"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:04.762Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Тощо"],
+    ],
+    "artists": [
+      "Тощо"
+    ],
     "artistsPopularity": 12,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734cbed36e5607b4e0d23ff247",
     "releaseDate": "2023-03-01",
     "title": "Екіпаж",
     "totalTracks": 3,
     "type": "single",
-    "url": "https://open.spotify.com/album/17VeBvS5dtyRrRG2yQJ6ye",
+    "url": "https://open.spotify.com/album/17VeBvS5dtyRrRG2yQJ6ye"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:04.762Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Тощо", "Re-read"],
+    ],
+    "artists": [
+      "Тощо",
+      "Re-read"
+    ],
     "artistsPopularity": 21,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736654ea79a5bf677bddbd2c87",
     "releaseDate": "2023-02-01",
     "title": "Шпигун",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/6YQsofURc3lIGe4xOlwmjr",
+    "url": "https://open.spotify.com/album/6YQsofURc3lIGe4xOlwmjr"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:04.762Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Тощо", "кицям сняться сни"],
+    ],
+    "artists": [
+      "Тощо",
+      "кицям сняться сни"
+    ],
     "artistsPopularity": 12,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bb524f819277fe96d7c46820",
     "releaseDate": "2023-01-18",
     "title": "Пірат",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/7Hmrh92UkIUgNpvHfb2Vma",
+    "url": "https://open.spotify.com/album/7Hmrh92UkIUgNpvHfb2Vma"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:04.762Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["кицям сняться сни", "Тощо"],
+    ],
+    "artists": [
+      "кицям сняться сни",
+      "Тощо"
+    ],
     "artistsPopularity": 12,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d4290cce783b132e4cf8a090",
     "releaseDate": "2022-10-14",
     "title": "Привиди (2022 Rework)",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5hn8sGNxD7jPlK2U1b0NUE",
+    "url": "https://open.spotify.com/album/5hn8sGNxD7jPlK2U1b0NUE"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:04.762Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Тощо"],
+    ],
+    "artists": [
+      "Тощо"
+    ],
     "artistsPopularity": 12,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ffa38c5b41b9a18a28f01182",
     "releaseDate": "2022-10-05",
     "title": "Проблеми цього населеного пункту",
     "totalTracks": 3,
     "type": "single",
-    "url": "https://open.spotify.com/album/1ouZCjgeaXlUarKpevQPr0",
+    "url": "https://open.spotify.com/album/1ouZCjgeaXlUarKpevQPr0"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:04.762Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Тощо"],
+    ],
+    "artists": [
+      "Тощо"
+    ],
     "artistsPopularity": 12,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27368876aa8a728ba1b8a3c1869",
     "releaseDate": "2022-03-08",
     "title": "День з домішками",
     "totalTracks": 3,
     "type": "single",
-    "url": "https://open.spotify.com/album/2XO45RLaIDMtqr2DBUeXk3",
+    "url": "https://open.spotify.com/album/2XO45RLaIDMtqr2DBUeXk3"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:04.762Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["sucilna_nevdacha.exe"],
+    ],
+    "artists": [
+      "sucilna_nevdacha.exe"
+    ],
     "artistsPopularity": 19,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732c2c6d8e869281dafb683a97",
     "releaseDate": "2025-05-09",
     "title": "крик душі",
     "totalTracks": 2,
     "type": "single",
-    "url": "https://open.spotify.com/album/0QEvIZ0jMwuNv50kGJQmKW",
+    "url": "https://open.spotify.com/album/0QEvIZ0jMwuNv50kGJQmKW"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:04.762Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["sucilna_nevdacha.exe"],
+    ],
+    "artists": [
+      "sucilna_nevdacha.exe"
+    ],
     "artistsPopularity": 19,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737b7e972516910adc77666b6a",
     "releaseDate": "2023-04-27",
     "title": "Не тримайся (2023 Rework)",
     "totalTracks": 2,
     "type": "single",
-    "url": "https://open.spotify.com/album/4bfU7oXX2xFtE0s0mVpoZn",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:04.762Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/4bfU7oXX2xFtE0s0mVpoZn"
   }
 ]

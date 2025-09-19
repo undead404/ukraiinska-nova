@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T10:59:31.600Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "Крик Душі"
     ],
@@ -9,12 +15,6 @@
     "title": "А світ так і не навчився любити",
     "totalTracks": 12,
     "type": "album",
-    "url": "https://open.spotify.com/album/73uemr6fQ8ETvMk6snVJbn",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T10:59:31.600Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/73uemr6fQ8ETvMk6snVJbn"
   }
 ]

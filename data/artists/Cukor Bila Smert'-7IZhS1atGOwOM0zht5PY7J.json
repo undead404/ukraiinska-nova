@@ -1,34 +1,38 @@
 [
   {
-    "artists": ["Cukor Bila Smert'"],
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:14.475Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Cukor Bila Smert'"
+    ],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739d78fd459a849d205f2f9656",
     "releaseDate": "2024-03-01",
     "title": "Recordings 1990-1993",
     "totalTracks": 31,
     "type": "album",
-    "url": "https://open.spotify.com/album/2HayhFWxhB4fuHp9uZSxC6",
+    "url": "https://open.spotify.com/album/2HayhFWxhB4fuHp9uZSxC6"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:14.475Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Cukor Bila Smert'"],
+    ],
+    "artists": [
+      "Cukor Bila Smert'"
+    ],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27305cbad63bf9fd2fa70f60eaf",
     "releaseDate": "2024-02-02",
     "title": "The Great Hen-Yuan’ River (Remastered, 2024)",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/6X9AT247T69ruIizTssvrP",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:14.475Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/6X9AT247T69ruIizTssvrP"
   }
 ]

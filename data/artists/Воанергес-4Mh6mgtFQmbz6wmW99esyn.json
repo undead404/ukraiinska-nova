@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T10:59:29.609Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "Воанергес"
     ],
@@ -9,15 +15,15 @@
     "title": "DRUM ПЕРЕГУДИ",
     "totalTracks": 14,
     "type": "album",
-    "url": "https://open.spotify.com/album/6bmK3egwjbOAElXignHXfP",
+    "url": "https://open.spotify.com/album/6bmK3egwjbOAElXignHXfP"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T10:59:29.609Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Воанергес"
     ],
@@ -27,15 +33,15 @@
     "title": "Цілющий Рок Древнього Києва",
     "totalTracks": 11,
     "type": "album",
-    "url": "https://open.spotify.com/album/0x5RvMQvOziFYS0uXcS8Dy",
+    "url": "https://open.spotify.com/album/0x5RvMQvOziFYS0uXcS8Dy"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T10:59:29.609Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Воанергес"
     ],
@@ -45,15 +51,15 @@
     "title": "Бугай-Boogie",
     "totalTracks": 11,
     "type": "album",
-    "url": "https://open.spotify.com/album/62MAcVqp0fbEhEaIR4Pffx",
+    "url": "https://open.spotify.com/album/62MAcVqp0fbEhEaIR4Pffx"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T10:59:29.609Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Воанергес"
     ],
@@ -63,15 +69,15 @@
     "title": "Гай \"Да\" Маки",
     "totalTracks": 12,
     "type": "album",
-    "url": "https://open.spotify.com/album/5uyYwqxyXFd2DfMj9zwWqJ",
+    "url": "https://open.spotify.com/album/5uyYwqxyXFd2DfMj9zwWqJ"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T10:59:29.609Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Воанергес"
     ],
@@ -81,12 +87,6 @@
     "title": "Злата врата",
     "totalTracks": 14,
     "type": "album",
-    "url": "https://open.spotify.com/album/36Qhi2IfCpVoz55Z35cXRu",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T10:59:29.609Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/36Qhi2IfCpVoz55Z35cXRu"
   }
 ]
