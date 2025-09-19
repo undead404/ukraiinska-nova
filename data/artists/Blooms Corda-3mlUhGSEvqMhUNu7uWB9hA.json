@@ -306,5 +306,23 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0wTQo5Qz1QqxoG1WsgZ6JA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T17:24:35.414Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Blooms Corda"
+    ],
+    "artistsPopularity": 31,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273789eb2dfaa5a4ffa98dc797c",
+    "releaseDate": "2025-09-19",
+    "title": "Старання не втратити розум",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2Ts1SsDnFVKhfEvG02z8n5"
   }
 ]

@@ -494,5 +494,24 @@
     "totalTracks": 12,
     "type": "album",
     "url": "https://open.spotify.com/album/7qahCGu2ewfxldCyc1tqg4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T17:26:28.063Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sviatoslav Vakarchuk",
+      "SHUMEI"
+    ],
+    "artistsPopularity": 50,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a8220310c7d8c5b17a8066d3",
+    "releaseDate": "2025-09-19",
+    "title": "Там, де немає людей",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0SgcRjeFwtfmhnrzW1Fn4t"
   }
 ]

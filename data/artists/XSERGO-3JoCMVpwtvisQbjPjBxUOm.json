@@ -1004,5 +1004,23 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3oenXRotcWDffAKHZkdRxv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T17:26:59.314Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "XSERGO"
+    ],
+    "artistsPopularity": 35,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d993d3fba0adb9726a4e015a",
+    "releaseDate": "2025-09-19",
+    "title": "Полуничка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0lGRJECOEXgMNuELa1LIr6"
   }
 ]
