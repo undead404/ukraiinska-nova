@@ -888,5 +888,23 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6AiCITwcKp9JlgsUzKkMtz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T18:27:33.153Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROPAN"
+    ],
+    "artistsPopularity": 29,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c2003759f3a48b9ebc6af2d8",
+    "releaseDate": "2025-09-18",
+    "title": "Небо",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/32G5GX4N2YMAwYEdHdp0Ai"
   }
 ]

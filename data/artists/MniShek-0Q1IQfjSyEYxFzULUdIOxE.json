@@ -524,5 +524,23 @@
     "totalTracks": 13,
     "type": "album",
     "url": "https://open.spotify.com/album/7yBhqVgvtPTFI403Db6sWd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T18:27:23.017Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MniShek"
+    ],
+    "artistsPopularity": 11,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b56c1671b9d10b6cc38eb3af",
+    "releaseDate": "2025-09-19",
+    "title": "Кургани",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/23wJhaZMACDgrmSAbozmHZ"
   }
 ]
