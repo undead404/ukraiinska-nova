@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T09:24:27.485Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "YAGODY"
     ],
@@ -9,15 +15,15 @@
     "title": "Ягоди",
     "totalTracks": 10,
     "type": "album",
-    "url": "https://open.spotify.com/album/3nqkYz12eDWCtS8szV6wyu",
+    "url": "https://open.spotify.com/album/3nqkYz12eDWCtS8szV6wyu"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T09:24:27.485Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "YAGODY"
     ],
@@ -27,15 +33,15 @@
     "title": "БрамаЯ",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4vWzCmF64wTX2pU4ExIbuu",
+    "url": "https://open.spotify.com/album/4vWzCmF64wTX2pU4ExIbuu"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T09:24:27.485Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "YAGODY"
     ],
@@ -45,15 +51,15 @@
     "title": "Чорноморець",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/6xxagbZHaduLYE8kNdGPtK",
+    "url": "https://open.spotify.com/album/6xxagbZHaduLYE8kNdGPtK"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T09:24:27.485Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "YAGODY"
     ],
@@ -63,15 +69,15 @@
     "title": "Tsunamia",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2NwefFE3G6KdoC20ra9lD4",
+    "url": "https://open.spotify.com/album/2NwefFE3G6KdoC20ra9lD4"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T09:24:27.485Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "YAGODY"
     ],
@@ -81,12 +87,6 @@
     "title": "Tsunamia",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/7EdGjOAEovRqZg76SUPOwE",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T09:24:27.485Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/7EdGjOAEovRqZg76SUPOwE"
   }
 ]

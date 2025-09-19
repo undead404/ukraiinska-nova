@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:17.230Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "Пророки"
     ],
@@ -9,15 +15,15 @@
     "title": "Вітер",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0H9DaqAMwCPjy1EHgxlt19",
+    "url": "https://open.spotify.com/album/0H9DaqAMwCPjy1EHgxlt19"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:17.230Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Пророки"
     ],
@@ -27,15 +33,15 @@
     "title": "Новий день (акустична версія)",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/69yR9JbhjnbptkMtLkidx0",
+    "url": "https://open.spotify.com/album/69yR9JbhjnbptkMtLkidx0"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:17.230Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Третя Штурмова",
       "Пророки"
@@ -46,15 +52,15 @@
     "title": "Новий день",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4tsY2108tWgkfRPjHk6V1S",
+    "url": "https://open.spotify.com/album/4tsY2108tWgkfRPjHk6V1S"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:17.230Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Пророки"
     ],
@@ -64,15 +70,15 @@
     "title": "Україна",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1C79Gagdkz0h8t50AWKOXr",
+    "url": "https://open.spotify.com/album/1C79Gagdkz0h8t50AWKOXr"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:17.230Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Третя Штурмова"
     ],
@@ -82,12 +88,6 @@
     "title": "ЕПОХА",
     "totalTracks": 8,
     "type": "album",
-    "url": "https://open.spotify.com/album/6wIsQKHqY6oxcaLHRasadP",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T09:45:17.230Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/6wIsQKHqY6oxcaLHRasadP"
   }
 ]

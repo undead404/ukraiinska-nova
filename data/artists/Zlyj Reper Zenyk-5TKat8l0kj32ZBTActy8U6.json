@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T09:24:29.997Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "Zlyj Reper Zenyk"
     ],
@@ -9,12 +15,6 @@
     "title": "Zалупа Rock",
     "totalTracks": 9,
     "type": "album",
-    "url": "https://open.spotify.com/album/5gK2CN36my0phKIeVQqHcf",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T09:24:29.997Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/5gK2CN36my0phKIeVQqHcf"
   }
 ]

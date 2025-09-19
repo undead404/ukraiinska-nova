@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:26.247Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "Три кроки в ніч"
     ],
@@ -9,15 +15,15 @@
     "title": "10. Наживо (Live)",
     "totalTracks": 11,
     "type": "album",
-    "url": "https://open.spotify.com/album/6OKXQ8mItgIweq2bIhUI3N",
+    "url": "https://open.spotify.com/album/6OKXQ8mItgIweq2bIhUI3N"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:26.247Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Три кроки в ніч"
     ],
@@ -27,15 +33,15 @@
     "title": "річка V. Дорога на Буркут",
     "totalTracks": 6,
     "type": "album",
-    "url": "https://open.spotify.com/album/4QUp1MbgjXZUU8JnWsmwmG",
+    "url": "https://open.spotify.com/album/4QUp1MbgjXZUU8JnWsmwmG"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:26.247Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Три кроки в ніч"
     ],
@@ -45,15 +51,15 @@
     "title": "Ковдронька",
     "totalTracks": 12,
     "type": "album",
-    "url": "https://open.spotify.com/album/1BUu2fR8onIMg2Pl4tj3qP",
+    "url": "https://open.spotify.com/album/1BUu2fR8onIMg2Pl4tj3qP"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:26.247Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Три кроки в ніч"
     ],
@@ -63,15 +69,15 @@
     "title": "Цей корабель (Live Version)",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1Ush2NmfEUd6IXs1cYHq27",
+    "url": "https://open.spotify.com/album/1Ush2NmfEUd6IXs1cYHq27"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:26.247Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Три кроки в ніч"
     ],
@@ -81,15 +87,15 @@
     "title": "Голоси",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/6r72oNH9cWLhLWHsCHjPDf",
+    "url": "https://open.spotify.com/album/6r72oNH9cWLhLWHsCHjPDf"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:26.247Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Три кроки в ніч"
     ],
@@ -99,15 +105,15 @@
     "title": "І от",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4KeGE6HRY3oqXngko8ViPU",
+    "url": "https://open.spotify.com/album/4KeGE6HRY3oqXngko8ViPU"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:26.247Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Три кроки в ніч"
     ],
@@ -117,15 +123,15 @@
     "title": "Іти. Повертатись",
     "totalTracks": 5,
     "type": "single",
-    "url": "https://open.spotify.com/album/6sNHXvrpclpJ88hKL8lmRf",
+    "url": "https://open.spotify.com/album/6sNHXvrpclpJ88hKL8lmRf"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:26.247Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Три кроки в ніч"
     ],
@@ -135,12 +141,6 @@
     "title": "Висока вода",
     "totalTracks": 4,
     "type": "single",
-    "url": "https://open.spotify.com/album/5VOBBUKU3Vcgy38kecb8JC",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T09:45:26.247Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/5VOBBUKU3Vcgy38kecb8JC"
   }
 ]

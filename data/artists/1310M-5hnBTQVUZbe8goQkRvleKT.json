@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:44:29.589Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "1310M"
     ],
@@ -9,15 +15,15 @@
     "title": "XVII",
     "totalTracks": 8,
     "type": "album",
-    "url": "https://open.spotify.com/album/0KU5pLTmCrMRBwlbnmojXG",
+    "url": "https://open.spotify.com/album/0KU5pLTmCrMRBwlbnmojXG"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:44:29.589Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "1310M"
     ],
@@ -27,15 +33,15 @@
     "title": "Нема Життя",
     "totalTracks": 7,
     "type": "album",
-    "url": "https://open.spotify.com/album/5l2cOPM4cqUA8qEfRQXSpP",
+    "url": "https://open.spotify.com/album/5l2cOPM4cqUA8qEfRQXSpP"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:44:29.589Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Vyr Muk",
       "1310M"
@@ -46,15 +52,15 @@
     "title": "Холодне Мовчання Зірок (split)",
     "totalTracks": 4,
     "type": "single",
-    "url": "https://open.spotify.com/album/6LtvXa7A3tN5v97TNRywNB",
+    "url": "https://open.spotify.com/album/6LtvXa7A3tN5v97TNRywNB"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:44:29.589Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "1310M"
     ],
@@ -64,15 +70,15 @@
     "title": "В Обіймах Вічного",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5G5MVtOth7HhL4f8oA4ArB",
+    "url": "https://open.spotify.com/album/5G5MVtOth7HhL4f8oA4ArB"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:44:29.589Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "1310M"
     ],
@@ -82,15 +88,15 @@
     "title": "Тіні",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4RnVm04INJP0nWuyQ9IKDR",
+    "url": "https://open.spotify.com/album/4RnVm04INJP0nWuyQ9IKDR"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:44:29.589Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "1310M"
     ],
@@ -100,15 +106,15 @@
     "title": "Народна Пісня",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5Hns2drZc30hSlKm5yF23l",
+    "url": "https://open.spotify.com/album/5Hns2drZc30hSlKm5yF23l"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:44:29.589Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "1310M"
     ],
@@ -118,15 +124,15 @@
     "title": "Доля/Fate",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0hMjRgTx3QoIjVT7DNEUoU",
+    "url": "https://open.spotify.com/album/0hMjRgTx3QoIjVT7DNEUoU"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:44:29.589Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "1310M"
     ],
@@ -136,12 +142,6 @@
     "title": "Нема Життя",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5vCyWhLqga5ReZcbqtavIb",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T09:44:29.589Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/5vCyWhLqga5ReZcbqtavIb"
   }
 ]

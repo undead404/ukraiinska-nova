@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:46:08.128Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "hoboth"
     ],
@@ -9,15 +15,15 @@
     "title": "1937",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3dpUwlQpdnXw8MRtmjivZP",
+    "url": "https://open.spotify.com/album/3dpUwlQpdnXw8MRtmjivZP"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:46:08.128Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "hoboth"
     ],
@@ -27,15 +33,15 @@
     "title": "Тримай себе",
     "totalTracks": 6,
     "type": "single",
-    "url": "https://open.spotify.com/album/08Nn4dTfL70MePNABZvwyf",
+    "url": "https://open.spotify.com/album/08Nn4dTfL70MePNABZvwyf"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:46:08.128Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "hoboth"
     ],
@@ -45,15 +51,15 @@
     "title": "Холодне сонце",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5OStqZ3ItZS9gYSH4s8Wcm",
+    "url": "https://open.spotify.com/album/5OStqZ3ItZS9gYSH4s8Wcm"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:46:08.128Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "hoboth"
     ],
@@ -63,15 +69,15 @@
     "title": "Непричетний",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2mslgkHDlCfxPjS0yc0GRa",
+    "url": "https://open.spotify.com/album/2mslgkHDlCfxPjS0yc0GRa"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:46:08.128Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "hoboth"
     ],
@@ -81,12 +87,6 @@
     "title": "Відкривай",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4QhxaVcAleTsMM1pFoJdpZ",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T09:46:08.128Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/4QhxaVcAleTsMM1pFoJdpZ"
   }
 ]

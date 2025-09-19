@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T09:23:51.921Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "Mercy Denied"
     ],
@@ -9,15 +15,15 @@
     "title": "Shades Of Salvation",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5YNEasHW45QFc6EdBWvBki",
+    "url": "https://open.spotify.com/album/5YNEasHW45QFc6EdBWvBki"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T09:23:51.921Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Mercy Denied"
     ],
@@ -27,15 +33,15 @@
     "title": "Палає",
     "totalTracks": 4,
     "type": "single",
-    "url": "https://open.spotify.com/album/79oWPxj5BNBpJ3eflE1Ffk",
+    "url": "https://open.spotify.com/album/79oWPxj5BNBpJ3eflE1Ffk"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T09:23:51.921Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Mercy Denied"
     ],
@@ -45,12 +51,6 @@
     "title": "Tyrannical Way",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4TPWC59NLauAa6tLXcEl94",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T09:23:51.921Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/4TPWC59NLauAa6tLXcEl94"
   }
 ]

@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T09:23:46.319Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "Latur"
     ],
@@ -9,12 +15,6 @@
     "title": "Темні справи",
     "totalTracks": 10,
     "type": "album",
-    "url": "https://open.spotify.com/album/1qOZ7pHOhOCENKowmovnS7",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T09:23:46.319Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/1qOZ7pHOhOCENKowmovnS7"
   }
 ]

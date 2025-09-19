@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:19.620Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "Росава"
     ],
@@ -9,15 +15,15 @@
     "title": "Радість",
     "totalTracks": 20,
     "type": "album",
-    "url": "https://open.spotify.com/album/7Fk3WPz0mWmCAiB5mwO7Mi",
+    "url": "https://open.spotify.com/album/7Fk3WPz0mWmCAiB5mwO7Mi"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:19.620Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Росава"
     ],
@@ -27,15 +33,15 @@
     "title": "Тепер І Потім",
     "totalTracks": 12,
     "type": "album",
-    "url": "https://open.spotify.com/album/0IsNSdN2AJlNneCCHRmqi5",
+    "url": "https://open.spotify.com/album/0IsNSdN2AJlNneCCHRmqi5"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:19.620Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Росава"
     ],
@@ -45,15 +51,15 @@
     "title": "Просто неба",
     "totalTracks": 18,
     "type": "album",
-    "url": "https://open.spotify.com/album/70UH79Cbpse6WAvELk59X9",
+    "url": "https://open.spotify.com/album/70UH79Cbpse6WAvELk59X9"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:19.620Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Росава"
     ],
@@ -63,15 +69,15 @@
     "title": "Колисанки",
     "totalTracks": 19,
     "type": "album",
-    "url": "https://open.spotify.com/album/5h9HOTKFjfHZOu9eb0vyU9",
+    "url": "https://open.spotify.com/album/5h9HOTKFjfHZOu9eb0vyU9"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:19.620Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "DILJA"
     ],
@@ -81,12 +87,6 @@
     "title": "НЕДІЛЯ",
     "totalTracks": 13,
     "type": "album",
-    "url": "https://open.spotify.com/album/2CuQbiKggRndO6kmxfeBVj",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T09:45:19.620Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/2CuQbiKggRndO6kmxfeBVj"
   }
 ]
