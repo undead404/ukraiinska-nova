@@ -1,0 +1,56 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:24:54.698Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Таліта Кум"
+    ],
+    "artistsPopularity": 8,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fd55347233e9f44108181e67",
+    "releaseDate": "2007-05-15",
+    "title": "Шоу бізнес",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6AgiqrGYKuWjTKcGf2fMzE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:24:54.698Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Таліта Кум"
+    ],
+    "artistsPopularity": 8,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27374e58c66779e000ba8680e9e",
+    "releaseDate": "2005-06-11",
+    "title": "Гаряча і гірка",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/13K4tPg8kZMgUjuAY9dbZp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:24:54.698Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Таліта Кум"
+    ],
+    "artistsPopularity": 8,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c0438d6a5c543e941050c8db",
+    "releaseDate": "2002-02-01",
+    "title": "Іноземці",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2SdztWBM2LWVqucdipQX08"
+  }
+]

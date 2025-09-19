@@ -1,0 +1,38 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:23:52.883Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Всього Найкращого"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f5d2e0325dd428b881349085",
+    "releaseDate": "2024-04-11",
+    "title": "Всього Найкращого",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3Y3WoeszM2Bws1nIltw4tH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:23:52.883Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Всього Найкращого"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27379a8e9483aa16424d97c5a45",
+    "releaseDate": "2025-02-14",
+    "title": "Останні Кроки До Щастя",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/27J3i92nsOc6kwoVa0NxnO"
+  }
+]

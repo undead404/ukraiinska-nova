@@ -1,0 +1,74 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:25:34.097Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "De Shifer"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b527759a1efac7c16180e722",
+    "releaseDate": "2005",
+    "title": "Спалахнув...",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3OkLKc6ZjCJQdqtYeMqMvy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:25:34.097Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "De Shifer"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27343bdb9ddfec1ec3dccd1e28b",
+    "releaseDate": "2001",
+    "title": "Не гони...",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/69RjPYIfpvxH3tr5j7EOeq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:25:34.097Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "De Shifer"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731313ce3614c031a74dab171a",
+    "releaseDate": "2001",
+    "title": "Terrorist",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/11VkrueB0Remm5k4S1jsuF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:25:34.097Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Seryoga"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732b5397cc70d5821f78224d67",
+    "releaseDate": "2010-10-01",
+    "title": "А на танцполе нету свободных мест: альбом ремиксов",
+    "totalTracks": 17,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0hFhpOeacOVMQSvwbzHb7D"
+  }
+]

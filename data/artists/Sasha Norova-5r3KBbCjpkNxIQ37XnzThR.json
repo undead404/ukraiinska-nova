@@ -1,0 +1,38 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:26:45.655Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sasha Norova"
+    ],
+    "artistsPopularity": 36,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27317a8c40e564599379aec5cab",
+    "releaseDate": "2025-01-24",
+    "title": "Культурне диско",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:26:45.655Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sasha Norova"
+    ],
+    "artistsPopularity": 36,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27332c96b1afac793375e518597",
+    "releaseDate": "2024-01-09",
+    "title": "Все ок",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4v8t0GQ7R5LcZTXqWILMny"
+  }
+]

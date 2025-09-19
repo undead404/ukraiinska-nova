@@ -1,0 +1,93 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:26:10.843Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Knifeman"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e30e152a53787df7d461b15b",
+    "releaseDate": "2017-12-22",
+    "title": "Özmein",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/15mMYEjWwaxm8L3lako014"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:26:10.843Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Knifeman"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739339594fd46610ea10d6b091",
+    "releaseDate": "2023-11-15",
+    "title": "Буде сильнішим біль",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7fVYO0etvrnxtF1ueBo3Yd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:26:10.843Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Knifeman"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273057b39834f1ac0406158c14c",
+    "releaseDate": "2019-08-01",
+    "title": "М м",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4vghz6AGyzOHs5bTxxVqCl"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:26:10.843Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Knifeman"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273186d7dfd7c651131665ce02c",
+    "releaseDate": "2017-11-20",
+    "title": "Self-Made Trap",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3YgkHVgBuvwCj9w5Y9iXjw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:26:10.843Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Knifeman",
+      "Shabboo Harper"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a62ecee407d528137c961507",
+    "releaseDate": "2017-06-25",
+    "title": "Nothing More",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0YYwOscykzFtNkkysqAKZE"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:26:08.243Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "INFERNO"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b39e0302ae09c94b0e6825ab",
+    "releaseDate": "2005-03-03",
+    "title": "Воскресни",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4di4Mxp2TJuTUUJKXrBvBO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:26:08.243Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "INFERNO"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734f3e249430b83a4e0556ba6f",
+    "releaseDate": "2022-03-13",
+    "title": "Голос крові",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7gncg6NPe2yaJTiPc90xmg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:26:08.243Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "INFERNO"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fb7d93f506d214bb264b286b",
+    "releaseDate": "2022-03-12",
+    "title": "Крик матери",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1wHkmjLb5mk2b1PsWnrgWA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:26:08.243Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "INFERNO"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736810b481a4cb6be173f02efa",
+    "releaseDate": "2017-08-28",
+    "title": "Вільна! (Славень української жінкі)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2wpHJGSLrv1G5jexNpSM28"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:26:08.243Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "INFERNO"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ea553027a3f462c4e38bd637",
+    "releaseDate": "1998-04-30",
+    "title": "Царица тьмы",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2NpzMSy7QJ9IGNxL21J5Ob"
+  }
+]

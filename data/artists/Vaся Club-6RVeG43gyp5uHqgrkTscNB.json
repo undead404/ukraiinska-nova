@@ -1,0 +1,74 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:27:20.685Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vaся Club"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cd9ca1607e8bcff47cb65a7c",
+    "releaseDate": "2007-11-30",
+    "title": "Руський альбом",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6a6ge2IvcPgikvLxTzR5BE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:27:20.685Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vaся Club"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f3fec9bd66fe4917a20e7305",
+    "releaseDate": "2004-08-26",
+    "title": "Конокрад",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6X7Gksnanar2pEqC3cu6bT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:27:20.685Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vaся Club"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737f050a7291a76a2fe227115f",
+    "releaseDate": "2002-03-24",
+    "title": "Хіпан",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0uWSWo75kS17LM0wwlDf22"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:27:20.685Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vaся Club"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a4e552ae29aff249cbb7bb2b",
+    "releaseDate": "2022-03-18",
+    "title": "Десь у плавнях",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/17f4FHOcFID36T3Qmsk4nx"
+  }
+]

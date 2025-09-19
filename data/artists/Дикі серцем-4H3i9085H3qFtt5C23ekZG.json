@@ -1,0 +1,110 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:24:04.389Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Дикі серцем"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27390ab42b6dfbe9b953533052c",
+    "releaseDate": "2013-07-08",
+    "title": "Без зайвих слів",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1CZ3Zn0E4dKW6haBycJBXh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:24:04.389Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Дикі серцем"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aab8ede38402094fa2bae77f",
+    "releaseDate": "2025-05-16",
+    "title": "Вона твоя",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5XVOosponINxQVbPtXSrWm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:24:04.389Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Дикі серцем"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738c75a9e03adbdc2071acdec5",
+    "releaseDate": "2024-07-02",
+    "title": "Запам’ятай цю мить",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1N62fmnk0mE3CxXdNCFxjJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:24:04.389Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Дикі серцем"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732400a06c2ca510b4b42440eb",
+    "releaseDate": "2020-05-21",
+    "title": "Найкращі миті",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0EM2D72f1yvwEAimXH2tBz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:24:04.389Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Дикі серцем"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273478a26c7ec837191b183aa39",
+    "releaseDate": "2020-04-22",
+    "title": "Живі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3vMgrJBHQHqOjMeoxsNssD"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:24:04.389Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Дикі серцем"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e4f118ec195fb1c1c42cfb6b",
+    "releaseDate": "2015-08-21",
+    "title": "Ти моя історія",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0taTkzDEru9oV0VqHZa6Kv"
+  }
+]

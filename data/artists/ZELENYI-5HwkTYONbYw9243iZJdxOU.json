@@ -1,0 +1,93 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:27:22.717Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ZELENYI",
+      "NICHKA"
+    ],
+    "artistsPopularity": 36,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ac4a1527d705a0da0cff9ed4",
+    "releaseDate": "2025-05-22",
+    "title": "Київ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5pSGw878Xq40mQx1DcVmrJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:27:22.717Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ZELENYI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273efaf36b65cc260c16c20db09",
+    "releaseDate": "2025-04-04",
+    "title": "Пунктиром",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/25P4a9tIefenYPswS5QFqQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:27:22.717Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ZELENYI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f3cb9c6113e99ed6dbbe4d1e",
+    "releaseDate": "2024-12-20",
+    "title": "Космічніпочуття",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1J3dvJpq8lLdIvSKJMkMaP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:27:22.717Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ZELENYI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273923ce574501c567a1dd3d684",
+    "releaseDate": "2024-10-04",
+    "title": "#дайзнак",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0M9UWkTE09mrteXWEbYxIu"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:27:22.717Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ZELENYI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a81508c698e25c2f41664a4c",
+    "releaseDate": "2024-07-12",
+    "title": "Аненавпаки",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1W3H7LndZZdCRgbH9j787P"
+  }
+]

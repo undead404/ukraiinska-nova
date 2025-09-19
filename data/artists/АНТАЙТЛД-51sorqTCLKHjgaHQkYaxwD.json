@@ -1,0 +1,100 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:23:43.055Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТАЙТЛД"
+    ],
+    "artistsPopularity": 7,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f0ca2e720e1b5cddb3d56581",
+    "releaseDate": "2025-03-28",
+    "title": "ІПІ",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1H52pxgIcKFrnwb3p9yWFe"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:23:43.055Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТАЙТЛД",
+      "Nekura",
+      "Garmata Syndicate"
+    ],
+    "artistsPopularity": 10,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d4653235ac254ec035a8e030",
+    "releaseDate": "2025-02-28",
+    "title": "потужна",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0It8ePmqpTOVbhYwF7iTBH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:23:43.055Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТАЙТЛД",
+      "Septa",
+      "Guerilla Noir"
+    ],
+    "artistsPopularity": 10,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735e51fd3bb2e25f4426131138",
+    "releaseDate": "2024-11-29",
+    "title": "повільна",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4xV23WHp9Dmu8o0KNh6P9e"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:23:43.055Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТАЙТЛД",
+      "The Nietzsche",
+      "Rabbit Leader"
+    ],
+    "artistsPopularity": 8,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27322c9a2c76ec3a8d2b288cfbc",
+    "releaseDate": "2024-11-01",
+    "title": "швидка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/02Ybj57QwoTJopoUy4E7lf"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:23:43.055Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "The Nietzsche",
+      "Rabbit Leader",
+      "АНТАЙТЛД"
+    ],
+    "artistsPopularity": 8,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d3df0a29444302cc6ef9b768",
+    "releaseDate": "2022-08-24",
+    "title": "War All the Time",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2BuXFL5cGuv59RhXKO260L"
+  }
+]

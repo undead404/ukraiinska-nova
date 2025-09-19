@@ -1,0 +1,74 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:24:06.514Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Кам'яний гість"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736a67fa1428d9743663d2d3bb",
+    "releaseDate": "2020-06-20",
+    "title": "Плине час",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1Njrg9KCWbTb5XAZpdrkn1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:24:06.514Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Кам'яний гість"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735350d9218b025a3a5bb4ef96",
+    "releaseDate": "2013-12-12",
+    "title": "Там, за горами",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3IlCMLLkWdTRDVVc3w3vpO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:24:06.514Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Кам'яний гість"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c50ffd832fe2e5337af87ba0",
+    "releaseDate": "2025-04-28",
+    "title": "Шансон",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/41WrzSdlM5JUvjgt4bFbzi"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:24:06.514Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Кам'яний гість"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27324d13cb5faac35e18bdf912f",
+    "releaseDate": "2021-05-19",
+    "title": "Твоя дорога",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5sBIlThtQ9CJSDub1KrwCN"
+  }
+]
