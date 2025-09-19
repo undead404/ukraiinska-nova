@@ -1,93 +1,93 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:52.696Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "doomdoze"
     ],
     "artistsPopularity": 1,
-    "title": "never knows best",
-    "releaseDate": "2023-03-31",
-    "type": "album",
-    "totalTracks": 7,
-    "url": "https://open.spotify.com/album/3N8wrARIqXDh5yGbn4LM32",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27306d2876989d1fe7e2059e809",
+    "releaseDate": "2023-03-31",
+    "title": "never knows best",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3N8wrARIqXDh5yGbn4LM32"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:52.696Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "doomdoze"
     ],
     "artistsPopularity": 1,
-    "title": "in the middle",
-    "releaseDate": "2023-03-03",
-    "type": "album",
-    "totalTracks": 10,
-    "url": "https://open.spotify.com/album/2CumEVM1VTFLqJbILetr0g",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736a449df363e3e1a1a38378f9",
+    "releaseDate": "2023-03-03",
+    "title": "in the middle",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2CumEVM1VTFLqJbILetr0g"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:52.696Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "delayed minds",
       "doomdoze"
     ],
     "artistsPopularity": 7,
-    "title": "bittersweet apocalypse",
-    "releaseDate": "2024-11-15",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5rRLrMT4CamwtDMHHY1Elk",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27336f2b837adbd903d4f282490",
+    "releaseDate": "2024-11-15",
+    "title": "bittersweet apocalypse",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5rRLrMT4CamwtDMHHY1Elk"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:52.696Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "doomdoze"
     ],
     "artistsPopularity": 1,
-    "title": "Re-vision",
-    "releaseDate": "2023-07-27",
-    "type": "single",
-    "totalTracks": 5,
-    "url": "https://open.spotify.com/album/4sglhlFaFyI4ocJFZOYsRr",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a9a1264e5e7661490628399c",
+    "releaseDate": "2023-07-27",
+    "title": "Re-vision",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4sglhlFaFyI4ocJFZOYsRr"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:52.696Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "нойз галичина"
     ],
     "artistsPopularity": 0,
-    "title": "параноя росте",
-    "releaseDate": "2024-01-19",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/15Y8bgJ39T7EUmiPsBT85e",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c451dcb21a1452fb017c701c",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:27:52.696Z",
-        "type": "FOUND"
-      }
-    ]
+    "releaseDate": "2024-01-19",
+    "title": "параноя росте",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/15Y8bgJ39T7EUmiPsBT85e"
   }
 ]

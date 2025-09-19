@@ -1,354 +1,360 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:34.323Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "Тоня Матвієнко"
     ],
     "artistsPopularity": 40,
-    "title": "ANTONINA",
-    "releaseDate": "2016-04-20",
-    "type": "album",
-    "totalTracks": 12,
-    "url": "https://open.spotify.com/album/6qcOBMEMDHzWSmPGfFcaaR",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738e0eceb0750c924a1aff0b07",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:27:34.323Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "Тоня Матвієнко"
-    ],
-    "artistsPopularity": 40,
-    "title": "Сміються, плачуть солов'ї (Studio Live)",
-    "releaseDate": "2015-03-13",
-    "type": "album",
+    "releaseDate": "2016-04-20",
+    "title": "ANTONINA",
     "totalTracks": 12,
-    "url": "https://open.spotify.com/album/47fAdpReb29IkwTxSJE8bT",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273db3155ba9662559a5e9c1f73",
+    "type": "album",
+    "url": "https://open.spotify.com/album/6qcOBMEMDHzWSmPGfFcaaR"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Тоня Матвієнко"
     ],
     "artistsPopularity": 40,
-    "title": "Блискавка",
-    "releaseDate": "2025-08-08",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7GQS2oqcMlUK6JEYtavIsd",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab85a32ab20291fbbc50da89",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273db3155ba9662559a5e9c1f73",
+    "releaseDate": "2015-03-13",
+    "title": "Сміються, плачуть солов'ї (Studio Live)",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/47fAdpReb29IkwTxSJE8bT"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
+    ],
+    "artists": [
+      "Тоня Матвієнко"
+    ],
+    "artistsPopularity": 40,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab85a32ab20291fbbc50da89",
+    "releaseDate": "2025-08-08",
+    "title": "Блискавка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7GQS2oqcMlUK6JEYtavIsd"
   },
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:34.323Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "Тоня Матвієнко",
       "The Madison"
     ],
     "artistsPopularity": 40,
-    "title": "Кульбаби (The Madison Remix)",
-    "releaseDate": "2025-05-30",
-    "type": "single",
-    "totalTracks": 2,
-    "url": "https://open.spotify.com/album/6YUf9Pl79yORfOtFRMwfAa",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273364365e6073c2a4a052eecd8",
+    "releaseDate": "2025-05-30",
+    "title": "Кульбаби (The Madison Remix)",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6YUf9Pl79yORfOtFRMwfAa"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Тоня Матвієнко",
       "Zaec"
     ],
     "artistsPopularity": 40,
-    "title": "Така як є (Zaec Remix)",
-    "releaseDate": "2025-05-23",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4bTgWJuR7I4IrTNpIBQqei",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737d469ba2220027a5b7f67fdb",
+    "releaseDate": "2025-05-23",
+    "title": "Така як є (Zaec Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4bTgWJuR7I4IrTNpIBQqei"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Тоня Матвієнко"
     ],
     "artistsPopularity": 40,
-    "title": "Ліхтарики",
-    "releaseDate": "2025-02-21",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4DCxZZkvifNqv0dlnP5lpd",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a28e5c53290cce4486ad318e",
+    "releaseDate": "2025-02-21",
+    "title": "Ліхтарики",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4DCxZZkvifNqv0dlnP5lpd"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Тоня Матвієнко",
       "The Faino"
     ],
     "artistsPopularity": 40,
-    "title": "Кульбаби (The Faino Remix)",
-    "releaseDate": "2025-01-31",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6iX6GpR97ipiO6NdkB8fDm",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a6b6367fb456b28625beaa9b",
+    "releaseDate": "2025-01-31",
+    "title": "Кульбаби (The Faino Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6iX6GpR97ipiO6NdkB8fDm"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Анжеліка Рудницька",
       "Тоня Матвієнко",
       "Arsen Mirzoyan"
     ],
     "artistsPopularity": 41,
-    "title": "СІВ СУС ВЕЧЕРЯТИ",
-    "releaseDate": "2024-12-06",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3z9poUJGj8EpsaDHYWft1O",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737601dec892be1afb28c221d5",
+    "releaseDate": "2024-12-06",
+    "title": "СІВ СУС ВЕЧЕРЯТИ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3z9poUJGj8EpsaDHYWft1O"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Тоня Матвієнко"
     ],
     "artistsPopularity": 40,
-    "title": "Така як є",
-    "releaseDate": "2024-11-01",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6i0KsM5wyzBmfCOGrzIxue",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27366ffacdb4a1116bcc783baa1",
+    "releaseDate": "2024-11-01",
+    "title": "Така як є",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6i0KsM5wyzBmfCOGrzIxue"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Тоня Матвієнко"
     ],
     "artistsPopularity": 40,
-    "title": "Чарівна скрипка",
-    "releaseDate": "2024-09-27",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0pBKACJ9bSh8anm5GViXjH",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273789640687dedbfb0cc3b0912",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:27:34.323Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "Тоня Матвієнко"
-    ],
-    "artistsPopularity": 40,
-    "title": "Ой, летіли дикі гуси",
     "releaseDate": "2024-09-27",
-    "type": "single",
+    "title": "Чарівна скрипка",
     "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1c7RqPZUxCM4gKjOzFpd9r",
+    "type": "single",
+    "url": "https://open.spotify.com/album/0pBKACJ9bSh8anm5GViXjH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:34.323Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Тоня Матвієнко"
+    ],
+    "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e84185a5ae036cf06e8e5c0d",
+    "releaseDate": "2024-09-27",
+    "title": "Ой, летіли дикі гуси",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1c7RqPZUxCM4gKjOzFpd9r"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Тоня Матвієнко"
     ],
     "artistsPopularity": 40,
-    "title": "Друг",
-    "releaseDate": "2024-05-10",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/69l3xmaNvDYisNqwrdeQkw",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f2a1f0f10ba4f5afc864f720",
+    "releaseDate": "2024-05-10",
+    "title": "Друг",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/69l3xmaNvDYisNqwrdeQkw"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Тоня Матвієнко"
     ],
     "artistsPopularity": 40,
-    "title": "Ти це я",
-    "releaseDate": "2024-03-01",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0qkOJMw81zXbIdn0mzN53f",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27345d8bb859176b68a807485b6",
+    "releaseDate": "2024-03-01",
+    "title": "Ти це я",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0qkOJMw81zXbIdn0mzN53f"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Олександр Положинський",
       "Анна Добриднєва",
       "Тоня Матвієнко"
     ],
     "artistsPopularity": 40,
-    "title": "Вогники",
-    "releaseDate": "2023-12-29",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1sjorFGhZjyHBVY8ElWaUp",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736aec40229e292c81f2dbbb9c",
+    "releaseDate": "2023-12-29",
+    "title": "Вогники",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1sjorFGhZjyHBVY8ElWaUp"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Тоня Матвієнко"
     ],
     "artistsPopularity": 40,
-    "title": "Роса",
-    "releaseDate": "2023-12-15",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/07PmeHnkMvsj3zaMLq6r4J",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735207af26d55b5c68c35e1f1c",
+    "releaseDate": "2023-12-15",
+    "title": "Роса",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/07PmeHnkMvsj3zaMLq6r4J"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Тоня Матвієнко"
     ],
     "artistsPopularity": 40,
-    "title": "Сік землі",
-    "releaseDate": "2023-10-10",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2sMUwH9Oat1XrIyY9MbHV2",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b3b346beb65f90c2e10429c4",
+    "releaseDate": "2023-10-10",
+    "title": "Сік землі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2sMUwH9Oat1XrIyY9MbHV2"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Тоня Матвієнко"
     ],
     "artistsPopularity": 40,
-    "title": "Петрівочка",
-    "releaseDate": "2023-05-19",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0BnK0xNgzFHITwM9Wu7bum",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731ce0a9c2b8e01c7e8f7e4b3d",
+    "releaseDate": "2023-05-19",
+    "title": "Петрівочка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0BnK0xNgzFHITwM9Wu7bum"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Тоня Матвієнко"
     ],
     "artistsPopularity": 40,
-    "title": "Кульбаби",
-    "releaseDate": "2022-12-09",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4E15bK5N42WiJElQc7ozM2",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ae08bc96b3a25899a1f6302d",
+    "releaseDate": "2022-12-09",
+    "title": "Кульбаби",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4E15bK5N42WiJElQc7ozM2"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Тоня Матвієнко"
     ],
     "artistsPopularity": 40,
-    "title": "Жива вода",
-    "releaseDate": "2022-08-12",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7e75na7ruabOYued2XooVC",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737d3738fbb94b34439b481654",
+    "releaseDate": "2022-08-12",
+    "title": "Жива вода",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7e75na7ruabOYued2XooVC"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Роман Скорпіон",
       "Тоня Матвієнко",
@@ -356,454 +362,448 @@
       "Sanchis"
     ],
     "artistsPopularity": 40,
-    "title": "Я нікому тебе не віддам (Geonozis & Sanchis Rmx)",
-    "releaseDate": "2021-08-11",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4JxuQjipmJH3HjntVVU5Pq",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a1af570a7d11537e45c78425",
+    "releaseDate": "2021-08-11",
+    "title": "Я нікому тебе не віддам (Geonozis & Sanchis Rmx)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4JxuQjipmJH3HjntVVU5Pq"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Тоня Матвієнко",
       "Alex Caspian"
     ],
     "artistsPopularity": 40,
-    "title": "Вітер (Alex Caspian Remix)",
-    "releaseDate": "2021-05-21",
-    "type": "single",
-    "totalTracks": 2,
-    "url": "https://open.spotify.com/album/4nDxMCFy1b4Z6TMSeCrdSc",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735f682a910862f7cda098150d",
+    "releaseDate": "2021-05-21",
+    "title": "Вітер (Alex Caspian Remix)",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4nDxMCFy1b4Z6TMSeCrdSc"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Роман Скорпіон",
       "Тоня Матвієнко"
     ],
     "artistsPopularity": 40,
-    "title": "Я нікому тебе не віддам",
-    "releaseDate": "2021-03-12",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0uFwtjq164QUzqo6P86oDq",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730e29c220ec78fd388194c56f",
+    "releaseDate": "2021-03-12",
+    "title": "Я нікому тебе не віддам",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0uFwtjq164QUzqo6P86oDq"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Тоня Матвієнко"
     ],
     "artistsPopularity": 40,
-    "title": "Вітер",
-    "releaseDate": "2020-11-05",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2U2i9t5QJokvHo3rJ41NkH",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e5f00f2016faef9a89aad4ec",
+    "releaseDate": "2020-11-05",
+    "title": "Вітер",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2U2i9t5QJokvHo3rJ41NkH"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Haydamaky",
       "Тоня Матвієнко"
     ],
     "artistsPopularity": 40,
-    "title": "Червона Калина (з к/ф \"Червоний\")",
-    "releaseDate": "2020-10-08",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6MAOMoI0RiExbY9qyauuFf",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f9b3026b6a4755cf66ab078e",
+    "releaseDate": "2020-10-08",
+    "title": "Червона Калина (з к/ф \"Червоний\")",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6MAOMoI0RiExbY9qyauuFf"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Haydamaky",
       "Тоня Матвієнко"
     ],
     "artistsPopularity": 40,
-    "title": "Чорними хмарами (З к/ф \"Червоний. Без лінії фронту\")",
-    "releaseDate": "2020-09-11",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4E4LrpswbzZTRxzBojwGZM",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f936dab9c0151e3f01f87973",
+    "releaseDate": "2020-09-11",
+    "title": "Чорними хмарами (З к/ф \"Червоний. Без лінії фронту\")",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4E4LrpswbzZTRxzBojwGZM"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Тоня Матвієнко"
     ],
     "artistsPopularity": 40,
-    "title": "Музико, грай",
-    "releaseDate": "2020-02-05",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5HX6e5B0H04mvpeAQShS8l",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273759a916bebcb8ea043b99c5b",
+    "releaseDate": "2020-02-05",
+    "title": "Музико, грай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5HX6e5B0H04mvpeAQShS8l"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Тоня Матвієнко"
     ],
     "artistsPopularity": 40,
-    "title": "Не відповідай",
-    "releaseDate": "2019-10-07",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7tCeUgYOqsbjjD4hDJ8ALa",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733d9f18e68ed7eb9e9194458e",
+    "releaseDate": "2019-10-07",
+    "title": "Не відповідай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7tCeUgYOqsbjjD4hDJ8ALa"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Тоня Матвієнко",
       "Gonivo"
     ],
     "artistsPopularity": 40,
-    "title": "Не двоє (Gonivo Remix)",
-    "releaseDate": "2019-07-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7lfGxAUbu7ihP2TxA1wSIm",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738987ee4deefc7cdcbcc74efa",
+    "releaseDate": "2019-07-24",
+    "title": "Не двоє (Gonivo Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7lfGxAUbu7ihP2TxA1wSIm"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Тоня Матвієнко"
     ],
     "artistsPopularity": 40,
-    "title": "Дитячий сміх",
-    "releaseDate": "2019-05-28",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5OCRshpPWE0HixDJiJXEJR",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736d79eb98fa3758550856faa3",
+    "releaseDate": "2019-05-28",
+    "title": "Дитячий сміх",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5OCRshpPWE0HixDJiJXEJR"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Тоня Матвієнко"
     ],
     "artistsPopularity": 40,
-    "title": "Доберман",
-    "releaseDate": "2019-04-17",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/09s8GtHsjAi6XGxfFg0t9M",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730259b3be13b2dda05d7fe42b",
+    "releaseDate": "2019-04-17",
+    "title": "Доберман",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/09s8GtHsjAi6XGxfFg0t9M"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Тоня Матвієнко"
     ],
     "artistsPopularity": 40,
-    "title": "Не двоє",
-    "releaseDate": "2019-02-06",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3PgOpi36Or02GxFUYGspUq",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736259aa3bde5ff7796618441f",
+    "releaseDate": "2019-02-06",
+    "title": "Не двоє",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3PgOpi36Or02GxFUYGspUq"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Тоня Матвієнко"
     ],
     "artistsPopularity": 40,
-    "title": "Хто я для тебе",
-    "releaseDate": "2018-06-08",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4U0rgnELkIde6xzVY88Dcm",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737c25a0d312ef1845e43f0295",
+    "releaseDate": "2018-06-08",
+    "title": "Хто я для тебе",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4U0rgnELkIde6xzVY88Dcm"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Тоня Матвієнко"
     ],
     "artistsPopularity": 40,
-    "title": "Душа",
-    "releaseDate": "2017-10-19",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/74LHeLJ6QYyxJsfPHkvIs2",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dfb223795555814c3b01fc81",
+    "releaseDate": "2017-10-19",
+    "title": "Душа",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/74LHeLJ6QYyxJsfPHkvIs2"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Тоня Матвієнко"
     ],
     "artistsPopularity": 40,
-    "title": "А може ти",
-    "releaseDate": "2016-08-16",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0NMohuRcyVQTtXeyponEsr",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739b816b4ebdaf7dc0745994e6",
+    "releaseDate": "2016-08-16",
+    "title": "А може ти",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0NMohuRcyVQTtXeyponEsr"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Тоня Матвієнко"
     ],
     "artistsPopularity": 40,
-    "title": "Мавка",
-    "releaseDate": "2016-08-15",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/48Dp7f1blqXGOBUaM1WWy1",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736c7d3e0fc3e6803284919829",
+    "releaseDate": "2016-08-15",
+    "title": "Мавка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/48Dp7f1blqXGOBUaM1WWy1"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Тоня Матвієнко"
     ],
     "artistsPopularity": 40,
-    "title": "Мої сни",
-    "releaseDate": "2016-08-09",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5qOlQiIRYPC91nFqckVnsi",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27307a7cc9c7935b8e2b5f78d1d",
+    "releaseDate": "2016-08-09",
+    "title": "Мої сни",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5qOlQiIRYPC91nFqckVnsi"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Тоня Матвієнко"
     ],
     "artistsPopularity": 40,
-    "title": "Подаруй любов",
-    "releaseDate": "2016-04-26",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/48MzvQqxU46jSy0qTk3jmU",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737e4d551cc505afe11595d929",
+    "releaseDate": "2016-04-26",
+    "title": "Подаруй любов",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/48MzvQqxU46jSy0qTk3jmU"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Тоня Матвієнко"
     ],
     "artistsPopularity": 40,
-    "title": "Tin Whistle",
-    "releaseDate": "2016-01-29",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1RwqhHj07ftXj2fXNU0uSy",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731ea2b891a50952ef1ba2240d",
+    "releaseDate": "2016-01-29",
+    "title": "Tin Whistle",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1RwqhHj07ftXj2fXNU0uSy"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Тоня Матвієнко"
     ],
     "artistsPopularity": 40,
-    "title": "Дивна квітка",
-    "releaseDate": "2015-11-20",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6zxwGhNjY0rqxlNamVmbGX",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27313105eb5c0aeee7044f25d60",
+    "releaseDate": "2015-11-20",
+    "title": "Дивна квітка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6zxwGhNjY0rqxlNamVmbGX"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Тоня Матвієнко"
     ],
     "artistsPopularity": 40,
-    "title": "Тобі",
-    "releaseDate": "2015-03-13",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2DSUTAqigpGkWsinTCkip3",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273343ef683f105dbb3ab7b1842",
+    "releaseDate": "2015-03-13",
+    "title": "Тобі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2DSUTAqigpGkWsinTCkip3"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Tartak"
     ],
     "artistsPopularity": 42,
-    "title": "АнТАРТАКтида. Частина перша",
-    "releaseDate": "2018-11-30",
-    "type": "album",
-    "totalTracks": 12,
-    "url": "https://open.spotify.com/album/305r1O2dyH5sAHqXpWA7RM",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734f493eb0dcf548edd2a4d84e",
+    "releaseDate": "2018-11-30",
+    "title": "АнТАРТАКтида. Частина перша",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/305r1O2dyH5sAHqXpWA7RM"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Arsen Mirzoyan"
     ],
     "artistsPopularity": 41,
-    "title": "Ґудзики",
-    "releaseDate": "2011-11-30",
-    "type": "album",
-    "totalTracks": 11,
-    "url": "https://open.spotify.com/album/5cKUipp2njTF4j6yrCdQm5",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c41d08801aaa229a7d200c9b",
+    "releaseDate": "2011-11-30",
+    "title": "Ґудзики",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5cKUipp2njTF4j6yrCdQm5"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Lama"
     ],
     "artistsPopularity": 37,
-    "title": "Мій милий",
-    "releaseDate": "2015-09-08",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3EKMGWS6Qo8ZhtaFwjVh8I",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27321e43848f26cc961e8f0214c",
+    "releaseDate": "2015-09-08",
+    "title": "Мій милий",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3EKMGWS6Qo8ZhtaFwjVh8I"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:34.323Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Ніна Матвієнко"
     ],
     "artistsPopularity": 23,
-    "title": "Ніна Матвієнко",
-    "releaseDate": "2016-11-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2xhm9JJRBvjRaT3OEmygZa",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ea1938a30082127cd19aa733",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:27:34.323Z",
-        "type": "FOUND"
-      }
-    ]
+    "releaseDate": "2016-11-24",
+    "title": "Ніна Матвієнко",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2xhm9JJRBvjRaT3OEmygZa"
   }
 ]

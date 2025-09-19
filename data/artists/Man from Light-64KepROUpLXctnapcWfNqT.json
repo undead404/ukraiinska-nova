@@ -1,74 +1,74 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:28:22.882Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "Man from Light"
     ],
     "artistsPopularity": 0,
-    "title": "Укрліт",
-    "releaseDate": "2021-07-21",
-    "type": "album",
-    "totalTracks": 7,
-    "url": "https://open.spotify.com/album/2tBkRQiOfLr53O5flf7M1n",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eb508de958cf8643ebe92435",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:28:22.882Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "Man from Light"
-    ],
-    "artistsPopularity": 0,
-    "title": "Switch",
-    "releaseDate": "2020-08-07",
+    "releaseDate": "2021-07-21",
+    "title": "Укрліт",
+    "totalTracks": 7,
     "type": "album",
-    "totalTracks": 10,
-    "url": "https://open.spotify.com/album/6o9aXETzEgPqUnPlQIhqbG",
+    "url": "https://open.spotify.com/album/2tBkRQiOfLr53O5flf7M1n"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:28:22.882Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Man from Light"
+    ],
+    "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ed7d0de6f64e0706c0f9d912",
+    "releaseDate": "2020-08-07",
+    "title": "Switch",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6o9aXETzEgPqUnPlQIhqbG"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:28:22.882Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Man from Light"
     ],
     "artistsPopularity": 0,
-    "title": "Зима",
-    "releaseDate": "2022-12-01",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2odYE0EKcSdtJ30XUyyKLZ",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731dfb4d4edd65a22409b74631",
+    "releaseDate": "2022-12-01",
+    "title": "Зима",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2odYE0EKcSdtJ30XUyyKLZ"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:28:22.882Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Man from Light"
     ],
     "artistsPopularity": 0,
-    "title": "Micto",
-    "releaseDate": "2021-03-12",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3LC0325v90hUNIrMdXOE2o",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737173b3d340b5e3767443bbfb",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:28:22.882Z",
-        "type": "FOUND"
-      }
-    ]
+    "releaseDate": "2021-03-12",
+    "title": "Micto",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3LC0325v90hUNIrMdXOE2o"
   }
 ]

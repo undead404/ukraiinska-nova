@@ -1,627 +1,627 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:33.769Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "Олександр Пономарьов"
     ],
     "artistsPopularity": 33,
-    "title": "Збірник пісень",
-    "releaseDate": "2016-11-08",
-    "type": "album",
-    "totalTracks": 15,
-    "url": "https://open.spotify.com/album/08jwbFamXBaKSm55g3Ofcd",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ad75526db5e4e811bab05f67",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:33.769Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "Олександр Пономарьов"
-    ],
-    "artistsPopularity": 33,
-    "title": "Найкраще",
-    "releaseDate": "2016-11-07",
-    "type": "album",
+    "releaseDate": "2016-11-08",
+    "title": "Збірник пісень",
     "totalTracks": 15,
-    "url": "https://open.spotify.com/album/7fNOFsU3kNaONFFMbXSdzn",
+    "type": "album",
+    "url": "https://open.spotify.com/album/08jwbFamXBaKSm55g3Ofcd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:33.769Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олександр Пономарьов"
+    ],
+    "artistsPopularity": 33,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b9f9d93e8034f22901bf744d",
+    "releaseDate": "2016-11-07",
+    "title": "Найкраще",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7fNOFsU3kNaONFFMbXSdzn"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:33.769Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Олександр Пономарьов"
     ],
     "artistsPopularity": 33,
-    "title": "Офіцери",
-    "releaseDate": "2024-10-04",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2MzB69G1kkghDvBUMEaSqG",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731ddf7f34841799c426b80f70",
+    "releaseDate": "2024-10-04",
+    "title": "Офіцери",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2MzB69G1kkghDvBUMEaSqG"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:33.769Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Олександр Пономарьов"
     ],
     "artistsPopularity": 33,
-    "title": "А ти просто кохай (Live Version)",
-    "releaseDate": "2024-09-11",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2U8U6kjJLCp9XarmGssCaB",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e8ae8a82daa80fc21b72a4da",
+    "releaseDate": "2024-09-11",
+    "title": "А ти просто кохай (Live Version)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2U8U6kjJLCp9XarmGssCaB"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:33.769Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Олександр Пономарьов"
     ],
     "artistsPopularity": 33,
-    "title": "Як тебе не любити, Києве мій!",
-    "releaseDate": "2024-05-26",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0TudSl2Gb9Lo2cBVnnWemC",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27325379570eb69eef91fe13881",
+    "releaseDate": "2024-05-26",
+    "title": "Як тебе не любити, Києве мій!",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0TudSl2Gb9Lo2cBVnnWemC"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:33.769Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Олександр Пономарьов",
       "Михайло Хома",
       "Тарас Тополя"
     ],
     "artistsPopularity": 33,
-    "title": "Темна нічка",
-    "releaseDate": "2024-05-03",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1etcJUwe75Sk8twBw5gL5U",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e1e76e4e7ddc967420989b93",
+    "releaseDate": "2024-05-03",
+    "title": "Темна нічка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1etcJUwe75Sk8twBw5gL5U"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:33.769Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Олександр Пономарьов",
       "Тарас Тополя",
       "ALEKSEEV"
     ],
     "artistsPopularity": 41,
-    "title": "Миліша",
-    "releaseDate": "2023-08-25",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5bD9ufBkGRPcwyULZuGigO",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aaca5d59cea43bd6f17badd5",
+    "releaseDate": "2023-08-25",
+    "title": "Миліша",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5bD9ufBkGRPcwyULZuGigO"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:33.769Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Олександр Пономарьов",
       "Михайло Хома",
       "Тарас Тополя"
     ],
     "artistsPopularity": 33,
-    "title": "На землі, в повітрі і на морі",
-    "releaseDate": "2022-08-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7IOhucm35B68Cmy4H7jkic",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27374129b56c84423316896b208",
+    "releaseDate": "2022-08-24",
+    "title": "На землі, в повітрі і на морі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7IOhucm35B68Cmy4H7jkic"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:33.769Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Олександр Пономарьов",
       "Михайло Хома",
       "Тарас Тополя"
     ],
     "artistsPopularity": 33,
-    "title": "Україна переможе!",
-    "releaseDate": "2022-04-25",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0fmvANmgFNJ8gMlubnX4Gb",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a9040e029b48d6ec8d1c4a18",
+    "releaseDate": "2022-04-25",
+    "title": "Україна переможе!",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0fmvANmgFNJ8gMlubnX4Gb"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:33.769Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Олександр Пономарьов"
     ],
     "artistsPopularity": 33,
-    "title": "Христос Народився",
-    "releaseDate": "2021-12-25",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4iiA9hs9wTQXD3q6CECt1M",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27322dcba4e00317618f77ae28d",
+    "releaseDate": "2021-12-25",
+    "title": "Христос Народився",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4iiA9hs9wTQXD3q6CECt1M"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:33.769Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Олександр Пономарьов",
       "Михайло Хома"
     ],
     "artistsPopularity": 33,
-    "title": "Пазли",
-    "releaseDate": "2021-12-03",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1zGqTmJXYXGIPhMkedByBU",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738e20a884638d52a264d2b0ff",
+    "releaseDate": "2021-12-03",
+    "title": "Пазли",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1zGqTmJXYXGIPhMkedByBU"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:33.769Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Олександр Пономарьов"
     ],
     "artistsPopularity": 33,
-    "title": "Христос воскрес",
-    "releaseDate": "2021-05-07",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/16968nSrz7L7Sa5Ad9WpOq",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27377292721e429f0a591dd3bfd",
+    "releaseDate": "2021-05-07",
+    "title": "Христос воскрес",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/16968nSrz7L7Sa5Ad9WpOq"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:33.769Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Олександр Пономарьов",
       "Artem Pivovarov",
       "ALEKSEEV"
     ],
     "artistsPopularity": 52,
-    "title": "Чому?",
-    "releaseDate": "2021-03-01",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7KV8N3tPZuRvAF6Dc1PLvE",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739ec84ab0b7e542f9d2961ef5",
+    "releaseDate": "2021-03-01",
+    "title": "Чому?",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7KV8N3tPZuRvAF6Dc1PLvE"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:33.769Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Олександр Пономарьов"
     ],
     "artistsPopularity": 33,
-    "title": "Нова радість стала",
-    "releaseDate": "2021-01-04",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6tSvAf8zCerIUAA0mlMW04",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a10fea7fe54e43533f8fa033",
+    "releaseDate": "2021-01-04",
+    "title": "Нова радість стала",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6tSvAf8zCerIUAA0mlMW04"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:33.769Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Olegg Vynnyk (Олег Винник)",
       "Олександр Пономарьов",
       "ТАЮНЕ"
     ],
     "artistsPopularity": 38,
-    "title": "Добрий вечір тобі, пане господарю",
-    "releaseDate": "2020-12-25",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6z3anecg4Qydpas2mPzCzq",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273db171fdd3dcd61d52901efc4",
+    "releaseDate": "2020-12-25",
+    "title": "Добрий вечір тобі, пане господарю",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6z3anecg4Qydpas2mPzCzq"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:33.769Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Олександр Пономарьов"
     ],
     "artistsPopularity": 33,
-    "title": "Гарна",
-    "releaseDate": "2020-07-10",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7ebdgl19QtGqb04xAfXYMj",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27392daa45ed5170556c732d417",
+    "releaseDate": "2020-07-10",
+    "title": "Гарна",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7ebdgl19QtGqb04xAfXYMj"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:33.769Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Олександр Пономарьов"
     ],
     "artistsPopularity": 33,
-    "title": "Щастя неземне",
-    "releaseDate": "2020-02-14",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0T7prUHQvRBOWECMpeqTpa",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27300d0ec70aa8ae5935775fecf",
+    "releaseDate": "2020-02-14",
+    "title": "Щастя неземне",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0T7prUHQvRBOWECMpeqTpa"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:33.769Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Олександр Пономарьов"
     ],
     "artistsPopularity": 33,
-    "title": "Закоханий",
-    "releaseDate": "2019-12-18",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/74JI8TdjhrweHDKASgshWY",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27324d431518f374a648123b750",
+    "releaseDate": "2019-12-18",
+    "title": "Закоханий",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/74JI8TdjhrweHDKASgshWY"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:33.769Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Олександр Пономарьов"
     ],
     "artistsPopularity": 33,
-    "title": "Гімн України",
-    "releaseDate": "2019-10-28",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0KWf7xnpajVB8oY7aoie9l",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c219e5d3f07529c660820de2",
+    "releaseDate": "2019-10-28",
+    "title": "Гімн України",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0KWf7xnpajVB8oY7aoie9l"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:33.769Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Олександр Пономарьов"
     ],
     "artistsPopularity": 33,
-    "title": "Серце тобі",
-    "releaseDate": "2019-08-09",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5BWvWDmXoFDJibFoQ6Bfy1",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f0f637a70212ee162b4d3988",
+    "releaseDate": "2019-08-09",
+    "title": "Серце тобі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5BWvWDmXoFDJibFoQ6Bfy1"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:33.769Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Олександр Пономарьов"
     ],
     "artistsPopularity": 33,
-    "title": "Як без тебе жити",
-    "releaseDate": "2019-04-26",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/53QgsWDjOcaOmyKXhuc4Cz",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a246f8d41605e208f20d0b4a",
+    "releaseDate": "2019-04-26",
+    "title": "Як без тебе жити",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/53QgsWDjOcaOmyKXhuc4Cz"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:33.769Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Олександр Пономарьов"
     ],
     "artistsPopularity": 33,
-    "title": "Ти така одна",
-    "releaseDate": "2019-02-27",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2BSqla5jNvtzqAUNDUIoOD",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739ae4f026c6535af6a86e2ee8",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:33.769Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "Олександр Пономарьов"
-    ],
-    "artistsPopularity": 33,
-    "title": "Львів",
     "releaseDate": "2019-02-27",
-    "type": "single",
+    "title": "Ти така одна",
     "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6RcwlzquGwq177YA3lYny2",
+    "type": "single",
+    "url": "https://open.spotify.com/album/2BSqla5jNvtzqAUNDUIoOD"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:33.769Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олександр Пономарьов"
+    ],
+    "artistsPopularity": 33,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bc05f7870aeecaa25f19da2f",
+    "releaseDate": "2019-02-27",
+    "title": "Львів",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6RcwlzquGwq177YA3lYny2"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:33.769Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Олександр Пономарьов"
     ],
     "artistsPopularity": 33,
-    "title": "Колядує Україна",
-    "releaseDate": "2018-12-26",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1MDiRGkFqujvFe2TeSXOas",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a1d61b67ccf33a814e922b65",
+    "releaseDate": "2018-12-26",
+    "title": "Колядує Україна",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1MDiRGkFqujvFe2TeSXOas"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:33.769Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Олександр Пономарьов"
     ],
     "artistsPopularity": 33,
-    "title": "Неймовірна",
-    "releaseDate": "2018-09-05",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1XWsY00iMjJiO5ILpi6b48",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273983e30111601f2118a2a8c9c",
+    "releaseDate": "2018-09-05",
+    "title": "Неймовірна",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1XWsY00iMjJiO5ILpi6b48"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:33.769Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Олександр Пономарьов"
     ],
     "artistsPopularity": 33,
-    "title": "Найкраща (Remix)",
-    "releaseDate": "2018-07-06",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4fAgtCyZu0QAYdyArPN3Rg",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730eb3c5c6f962a4c5098c37f0",
+    "releaseDate": "2018-07-06",
+    "title": "Найкраща (Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4fAgtCyZu0QAYdyArPN3Rg"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:33.769Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Олександр Пономарьов"
     ],
     "artistsPopularity": 33,
-    "title": "Море",
-    "releaseDate": "2018-05-01",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6QHYpPqNWuTfFDGkxe9IzC",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ee65b8ffe5f76aa3d95b6abd",
+    "releaseDate": "2018-05-01",
+    "title": "Море",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6QHYpPqNWuTfFDGkxe9IzC"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:33.769Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Олександр Пономарьов"
     ],
     "artistsPopularity": 33,
-    "title": "Зима",
-    "releaseDate": "2018-01-17",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/233fJKq3MEHcojHvd8rjsm",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b163876157ddeec244dc3a4f",
+    "releaseDate": "2018-01-17",
+    "title": "Зима",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/233fJKq3MEHcojHvd8rjsm"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:33.769Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Олександр Пономарьов"
     ],
     "artistsPopularity": 33,
-    "title": "Найкраща",
-    "releaseDate": "2018-01-11",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5fFn1c6vl9fHhJjhiLXmVd",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ee8db3224d10d34bb42674b4",
+    "releaseDate": "2018-01-11",
+    "title": "Найкраща",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5fFn1c6vl9fHhJjhiLXmVd"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:33.769Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Олександр Пономарьов"
     ],
     "artistsPopularity": 33,
-    "title": "Безкрайні кілометри висоти",
-    "releaseDate": "2017-03-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6s7KY7T3EGgMgrAUBUKCbP",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27341b9f77ed81e5ed1ad11b891",
+    "releaseDate": "2017-03-24",
+    "title": "Безкрайні кілометри висоти",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6s7KY7T3EGgMgrAUBUKCbP"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:33.769Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Олександр Пономарьов"
     ],
     "artistsPopularity": 33,
-    "title": "Христос народився",
-    "releaseDate": "2016-12-19",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6l8h06efyltsEJe9cHKfP5",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273470581319b8faf449f890b8f",
+    "releaseDate": "2016-12-19",
+    "title": "Христос народився",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6l8h06efyltsEJe9cHKfP5"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:33.769Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Олександр Пономарьов"
     ],
     "artistsPopularity": 33,
-    "title": "Полонений",
-    "releaseDate": "2016-12-07",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4YLy8kT5sOpbZNELFgyrr4",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273931f7201b1005b90348b55ca",
+    "releaseDate": "2016-12-07",
+    "title": "Полонений",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4YLy8kT5sOpbZNELFgyrr4"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:33.769Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Олександр Пономарьов"
     ],
     "artistsPopularity": 33,
-    "title": "Легко",
-    "releaseDate": "2016-09-09",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0KOzeqoJeleJHZHeOYLFQn",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739d8aef2fcde1f8e2a58999c1",
+    "releaseDate": "2016-09-09",
+    "title": "Легко",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0KOzeqoJeleJHZHeOYLFQn"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:33.769Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Arsen Mirzoyan"
     ],
     "artistsPopularity": 41,
-    "title": "Незручні ліжка",
-    "releaseDate": "2013-05-19",
-    "type": "album",
-    "totalTracks": 11,
-    "url": "https://open.spotify.com/album/2ho7z2i5Rgme0OlVcbjQZo",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f80eb4359b078bf5866aa59d",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:33.769Z",
-        "type": "FOUND"
-      }
-    ]
+    "releaseDate": "2013-05-19",
+    "title": "Незручні ліжка",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2ho7z2i5Rgme0OlVcbjQZo"
   }
 ]

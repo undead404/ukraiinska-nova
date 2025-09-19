@@ -1,1008 +1,1008 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:29:19.862Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "TAYANNA",
       "DILJA"
     ],
     "artistsPopularity": 35,
-    "title": "Оминай",
-    "releaseDate": "2025-02-28",
-    "type": "album",
-    "totalTracks": 7,
-    "url": "https://open.spotify.com/album/2jLiIuXkGWoht9kiSf0L1n",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f95699812421d4c0d0ebc0a7",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:29:19.862Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "TAYANNA"
-    ],
-    "artistsPopularity": 35,
-    "title": "Тримай мене",
-    "releaseDate": "2017-11-17",
-    "type": "album",
+    "releaseDate": "2025-02-28",
+    "title": "Оминай",
     "totalTracks": 7,
-    "url": "https://open.spotify.com/album/5PQphKFXYmnC6Yly9LN3Yf",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f634b7a616cc4a21485ff151",
+    "type": "album",
+    "url": "https://open.spotify.com/album/2jLiIuXkGWoht9kiSf0L1n"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA"
     ],
     "artistsPopularity": 35,
-    "title": "9 песен из жизни",
-    "releaseDate": "2016-07-06",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f634b7a616cc4a21485ff151",
+    "releaseDate": "2017-11-17",
+    "title": "Тримай мене",
+    "totalTracks": 7,
     "type": "album",
-    "totalTracks": 11,
-    "url": "https://open.spotify.com/album/6LWzOglOniGhRFonUTY7yo",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273565618bdf692f3922f071cd8",
+    "url": "https://open.spotify.com/album/5PQphKFXYmnC6Yly9LN3Yf"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
+    ],
+    "artists": [
+      "TAYANNA"
+    ],
+    "artistsPopularity": 35,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273565618bdf692f3922f071cd8",
+    "releaseDate": "2016-07-06",
+    "title": "9 песен из жизни",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6LWzOglOniGhRFonUTY7yo"
   },
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:29:19.862Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "Максим Бородін",
       "TAYANNA"
     ],
     "artistsPopularity": 49,
-    "title": "Косатка",
-    "releaseDate": "2025-08-20",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0Y0vbpMKcAWyAhChTDBQ8a",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738199a290b7954ce4e6b095d2",
+    "releaseDate": "2025-08-20",
+    "title": "Косатка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0Y0vbpMKcAWyAhChTDBQ8a"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA"
     ],
     "artistsPopularity": 35,
-    "title": "Кохала",
-    "releaseDate": "2025-06-19",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3EzKmujNFEFHkfRThdXfc4",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737bd24fcc601d63f1a9fdcf96",
+    "releaseDate": "2025-06-19",
+    "title": "Кохала",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3EzKmujNFEFHkfRThdXfc4"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA"
     ],
     "artistsPopularity": 35,
-    "title": "До води",
-    "releaseDate": "2025-04-11",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/31MM5869R659MxkLbRxIBc",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27338364b1cac59abfe9a51d7b8",
+    "releaseDate": "2025-04-11",
+    "title": "До води",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/31MM5869R659MxkLbRxIBc"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA"
     ],
     "artistsPopularity": 35,
-    "title": "Диво",
-    "releaseDate": "2024-12-06",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2uANHs5amASGYPUyutg4Sk",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739f128d679a9e19c4853da043",
+    "releaseDate": "2024-12-06",
+    "title": "Диво",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2uANHs5amASGYPUyutg4Sk"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA"
     ],
     "artistsPopularity": 35,
-    "title": "Неабищо",
-    "releaseDate": "2024-11-01",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6Cj8iNcMnOZXqKBm5e87uz",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f8c72c5782402d065350fa2",
+    "releaseDate": "2024-11-01",
+    "title": "Неабищо",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6Cj8iNcMnOZXqKBm5e87uz"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA",
       "Bulvar Lu"
     ],
     "artistsPopularity": 35,
-    "title": "Грішна кава",
-    "releaseDate": "2024-08-30",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2PEMoVVAos1eyBFuTCkZXb",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b9aa060d2159386b1735d8c2",
+    "releaseDate": "2024-08-30",
+    "title": "Грішна кава",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2PEMoVVAos1eyBFuTCkZXb"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA"
     ],
     "artistsPopularity": 35,
-    "title": "Океан",
-    "releaseDate": "2024-06-27",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2448laObOVwKkG8hh3hzjV",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273852b7ede70f1b314c42c18f9",
+    "releaseDate": "2024-06-27",
+    "title": "Океан",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2448laObOVwKkG8hh3hzjV"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA",
       "Марія Колесник"
     ],
     "artistsPopularity": 35,
-    "title": "Дорослі малі",
-    "releaseDate": "2024-05-29",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/71tab1pLByUg0zV4VcEMhz",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27375c7afb313d6628bcf073527",
+    "releaseDate": "2024-05-29",
+    "title": "Дорослі малі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/71tab1pLByUg0zV4VcEMhz"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Serge Proshe",
       "TAYANNA"
     ],
     "artistsPopularity": 35,
-    "title": "Ecstatic",
-    "releaseDate": "2024-05-17",
-    "type": "single",
-    "totalTracks": 3,
-    "url": "https://open.spotify.com/album/6by34ygDBMDOtHomPwBzda",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27323a5999a842e37da82787a68",
+    "releaseDate": "2024-05-17",
+    "title": "Ecstatic",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6by34ygDBMDOtHomPwBzda"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA"
     ],
     "artistsPopularity": 35,
-    "title": "Космос",
-    "releaseDate": "2024-04-25",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2jWNdACzt9M090F2OYkLdN",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f6c327c81280fbac7c4f754a",
+    "releaseDate": "2024-04-25",
+    "title": "Космос",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2jWNdACzt9M090F2OYkLdN"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA"
     ],
     "artistsPopularity": 35,
-    "title": "Роде Мій",
-    "releaseDate": "2023-12-15",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2tIiwrKojv63A03je9AZqz",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735cf66f38f7ff7d27dc68c218",
+    "releaseDate": "2023-12-15",
+    "title": "Роде Мій",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2tIiwrKojv63A03je9AZqz"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "БЕЗ ОБМЕЖЕНЬ",
       "TAYANNA"
     ],
     "artistsPopularity": 46,
-    "title": "А ти…",
-    "releaseDate": "2023-11-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/79vYDPXLrYZ9VRCgVFL2qV",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27335689f554d7ea6a1d5a18c2c",
+    "releaseDate": "2023-11-24",
+    "title": "А ти…",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/79vYDPXLrYZ9VRCgVFL2qV"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA"
     ],
     "artistsPopularity": 35,
-    "title": "Вітер у волоссі",
-    "releaseDate": "2023-07-28",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3lp4caRXMCmhcri1ajN6eS",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cc565cd9dbce9f77f4fc38d9",
+    "releaseDate": "2023-07-28",
+    "title": "Вітер у волоссі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3lp4caRXMCmhcri1ajN6eS"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Нікіта Кісельов",
       "TAYANNA"
     ],
     "artistsPopularity": 44,
-    "title": "Два ліхтарі",
-    "releaseDate": "2023-07-07",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0dPJT0HNrpEfU5EbI5zq9Y",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738510ae9a222d104cb3fc9f8c",
+    "releaseDate": "2023-07-07",
+    "title": "Два ліхтарі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0dPJT0HNrpEfU5EbI5zq9Y"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA"
     ],
     "artistsPopularity": 35,
-    "title": "Хлопче",
-    "releaseDate": "2023-04-06",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6ARE0kvYNXuYGJsWlLiQ9u",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b054540ff8d813ff0566dd90",
+    "releaseDate": "2023-04-06",
+    "title": "Хлопче",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6ARE0kvYNXuYGJsWlLiQ9u"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA",
       "NAVIBAND"
     ],
     "artistsPopularity": 35,
-    "title": "Біжи",
-    "releaseDate": "2023-01-27",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4LFjcLFOdUOHesId1xaI6w",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273206c26425b939d038b61684a",
+    "releaseDate": "2023-01-27",
+    "title": "Біжи",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4LFjcLFOdUOHesId1xaI6w"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA"
     ],
     "artistsPopularity": 35,
-    "title": "Кава і ти",
-    "releaseDate": "2022-12-16",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7H1OMjQo0gwFq2waGDTjB5",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a05c381fb8d78c37f2f3c44d",
+    "releaseDate": "2022-12-16",
+    "title": "Кава і ти",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7H1OMjQo0gwFq2waGDTjB5"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "VIRA",
       "TAYANNA"
     ],
     "artistsPopularity": 35,
-    "title": "Вишиванка",
-    "releaseDate": "2022-10-19",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/353zySR6xgUEXtjZxyWa8O",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ca94724bb1d13e20d9398ede",
+    "releaseDate": "2022-10-19",
+    "title": "Вишиванка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/353zySR6xgUEXtjZxyWa8O"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA"
     ],
     "artistsPopularity": 35,
-    "title": "Дороги",
-    "releaseDate": "2022-08-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0DuOI1spKKuxtROD5i8AMw",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273af2dbc6100e49229b91f052b",
+    "releaseDate": "2022-08-24",
+    "title": "Дороги",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0DuOI1spKKuxtROD5i8AMw"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA"
     ],
     "artistsPopularity": 35,
-    "title": "Гори",
-    "releaseDate": "2022-07-20",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3HTMtb9IePi8YEUX8dAkDX",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27363dc0c8abb687dab283bc5b3",
+    "releaseDate": "2022-07-20",
+    "title": "Гори",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3HTMtb9IePi8YEUX8dAkDX"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA"
     ],
     "artistsPopularity": 35,
-    "title": "Абрикоси",
-    "releaseDate": "2022-04-26",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3J24Sb761d57R4hasMJQ7P",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a8cb6b87b9705f2569946733",
+    "releaseDate": "2022-04-26",
+    "title": "Абрикоси",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3J24Sb761d57R4hasMJQ7P"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA",
       "Shnaps"
     ],
     "artistsPopularity": 35,
-    "title": "Темна вода (Shnaps Remix)",
-    "releaseDate": "2021-12-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2QoMd2eLkq4DylWottuXdF",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732a9f15830ab315a17ed4651c",
+    "releaseDate": "2021-12-24",
+    "title": "Темна вода (Shnaps Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2QoMd2eLkq4DylWottuXdF"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA"
     ],
     "artistsPopularity": 35,
-    "title": "Темна вода",
-    "releaseDate": "2021-10-08",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7BzRjAECZNiezBA5Hnhajp",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e1857a646a5e74dcbf96829e",
+    "releaseDate": "2021-10-08",
+    "title": "Темна вода",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7BzRjAECZNiezBA5Hnhajp"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA",
       "Jamala"
     ],
     "artistsPopularity": 41,
-    "title": "Моя Земля",
-    "releaseDate": "2021-08-20",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6xQQJtLpUIPErGCeICSXxR",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735476b54112612ddaeb26e02d",
+    "releaseDate": "2021-08-20",
+    "title": "Моя Земля",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6xQQJtLpUIPErGCeICSXxR"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA",
       "FIMARO"
     ],
     "artistsPopularity": 35,
-    "title": "Плачу і сміюся (FIMARO Remix)",
-    "releaseDate": "2021-03-12",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5YDfZK5IHD4LbbpidZ37k9",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e55e27af9d4c4ff2252a50cf",
+    "releaseDate": "2021-03-12",
+    "title": "Плачу і сміюся (FIMARO Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5YDfZK5IHD4LbbpidZ37k9"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA"
     ],
     "artistsPopularity": 35,
-    "title": "Жіноча сила",
-    "releaseDate": "2020-06-26",
-    "type": "single",
-    "totalTracks": 5,
-    "url": "https://open.spotify.com/album/6GiBb3tmofvelGlq67AMTb",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735cb67d42d6fb373f20918943",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:29:19.862Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": [
-      "TAYANNA"
-    ],
-    "artistsPopularity": 35,
+    "releaseDate": "2020-06-26",
     "title": "Жіноча сила",
-    "releaseDate": "2020-06-19",
+    "totalTracks": 5,
     "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6Ubej1m8AsWKRAMjcsjqMA",
+    "url": "https://open.spotify.com/album/6GiBb3tmofvelGlq67AMTb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:29:19.862Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TAYANNA"
+    ],
+    "artistsPopularity": 35,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734ade773759d96633b29f2134",
+    "releaseDate": "2020-06-19",
+    "title": "Жіноча сила",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6Ubej1m8AsWKRAMjcsjqMA"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA"
     ],
     "artistsPopularity": 35,
-    "title": "До мами",
-    "releaseDate": "2019-11-04",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0pB2hQDsRNnzUPaWeBv8Ug",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fb143291f5d0190cd755f671",
+    "releaseDate": "2019-11-04",
+    "title": "До мами",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0pB2hQDsRNnzUPaWeBv8Ug"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA"
     ],
     "artistsPopularity": 35,
-    "title": "Дельфіни",
-    "releaseDate": "2019-08-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/30ptBKneUAJnp39bY6IK2N",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734cc8f7be53fbfdc995561183",
+    "releaseDate": "2019-08-24",
+    "title": "Дельфіни",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/30ptBKneUAJnp39bY6IK2N"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA"
     ],
     "artistsPopularity": 35,
-    "title": "Мурашки",
-    "releaseDate": "2019-07-26",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6QD3FbGNwVDFxPOrwE4QT7",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738a960795e8906f91d85313de",
+    "releaseDate": "2019-07-26",
+    "title": "Мурашки",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6QD3FbGNwVDFxPOrwE4QT7"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA"
     ],
     "artistsPopularity": 35,
-    "title": "Без тебе",
-    "releaseDate": "2019-05-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6zXtlrgPq8XWsTvyXw4kv2",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273024b9b346b0390d5be310e73",
+    "releaseDate": "2019-05-24",
+    "title": "Без тебе",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6zXtlrgPq8XWsTvyXw4kv2"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA"
     ],
     "artistsPopularity": 35,
-    "title": "Леля",
-    "releaseDate": "2018-02-06",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3YN04PLXs0HJNkdskEWDFj",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27385ca2bc3fb92b97c3b8ff1cc",
+    "releaseDate": "2018-02-06",
+    "title": "Леля",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3YN04PLXs0HJNkdskEWDFj"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA"
     ],
     "artistsPopularity": 35,
-    "title": "I Love You",
-    "releaseDate": "2017-03-06",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0Ky694aAGgpd7UrKVSRCrv",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a92080037e95cb528dc5d070",
+    "releaseDate": "2017-03-06",
+    "title": "I Love You",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0Ky694aAGgpd7UrKVSRCrv"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA"
     ],
     "artistsPopularity": 35,
-    "title": "Осень",
-    "releaseDate": "2016-11-16",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0bQqv3wtgyP6RlDYSLngdb",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ec9c493ac17cce53ee0f836f",
+    "releaseDate": "2016-11-16",
+    "title": "Осень",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0bQqv3wtgyP6RlDYSLngdb"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA"
     ],
     "artistsPopularity": 35,
-    "title": "9 жизней",
-    "releaseDate": "2016-07-09",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7GdVO4Xn1DMGdvAQoVQJhx",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ec28bb8efee7b624dacca074",
+    "releaseDate": "2016-07-09",
+    "title": "9 жизней",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7GdVO4Xn1DMGdvAQoVQJhx"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA"
     ],
     "artistsPopularity": 35,
-    "title": "Да!",
-    "releaseDate": "2015-11-27",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/038IRQLVweNPnUfpC9WbXM",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ae3b68b7b621207aa7319b71",
+    "releaseDate": "2015-11-27",
+    "title": "Да!",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/038IRQLVweNPnUfpC9WbXM"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Лавика",
       "TAYANNA"
     ],
     "artistsPopularity": 35,
-    "title": "Pretty Lie",
-    "releaseDate": "2014-10-17",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0QTEHxN5q097Hf8cICuQHB",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d2d398089d1b5f8819ecd0df",
+    "releaseDate": "2014-10-17",
+    "title": "Pretty Lie",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0QTEHxN5q097Hf8cICuQHB"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Лавика",
       "TAYANNA"
     ],
     "artistsPopularity": 35,
-    "title": "Я или она",
-    "releaseDate": "2014-09-03",
-    "type": "single",
-    "totalTracks": 2,
-    "url": "https://open.spotify.com/album/2h1NUMdjv0Nom2xYOMG9sh",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273abdf23e4f12eab265d832a18",
+    "releaseDate": "2014-09-03",
+    "title": "Я или она",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2h1NUMdjv0Nom2xYOMG9sh"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA"
     ],
     "artistsPopularity": 35,
-    "title": "Только ты",
-    "releaseDate": "2014",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0LEmOiF1CmqMg8RawKcOfC",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738ac12f07ad3ffe210695031c",
+    "releaseDate": "2014",
+    "title": "Только ты",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0LEmOiF1CmqMg8RawKcOfC"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA"
     ],
     "artistsPopularity": 35,
-    "title": "Самолёты",
-    "releaseDate": "2014",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2Mf7jfSyR1bkL18o30IpNz",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27340c7aa045929c72bf32d9cac",
+    "releaseDate": "2014",
+    "title": "Самолёты",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2Mf7jfSyR1bkL18o30IpNz"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA"
     ],
     "artistsPopularity": 35,
-    "title": "Обними",
-    "releaseDate": "2014",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/64DTfSGqvQh1GSMBKdvNOJ",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273088994e1cc8c8f3d73b94366",
+    "releaseDate": "2014",
+    "title": "Обними",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/64DTfSGqvQh1GSMBKdvNOJ"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA"
     ],
     "artistsPopularity": 35,
-    "title": "Любви больше нет",
-    "releaseDate": "2014",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7AoPWH8FdUaI2zDwS8fVfP",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738d65dcf60ca47b7e590ff252",
+    "releaseDate": "2014",
+    "title": "Любви больше нет",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7AoPWH8FdUaI2zDwS8fVfP"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA"
     ],
     "artistsPopularity": 35,
-    "title": "Знаю и верю",
-    "releaseDate": "2014",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/75ARbEZUtbETTqUKX4VrCm",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736ec5c4708a0fbb35b5ed0b31",
+    "releaseDate": "2014",
+    "title": "Знаю и верю",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/75ARbEZUtbETTqUKX4VrCm"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA"
     ],
     "artistsPopularity": 35,
-    "title": "Забудь",
-    "releaseDate": "2014",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2vdgscYdWjjh7gia6GEnOM",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733de68266fcecd0a01bdde2f8",
+    "releaseDate": "2014",
+    "title": "Забудь",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2vdgscYdWjjh7gia6GEnOM"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA"
     ],
     "artistsPopularity": 35,
-    "title": "Если ты ждёшь",
-    "releaseDate": "2014",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3fyu7JmIdVk7sejPm7oh33",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fe8734f29acb79a10ae1bc44",
+    "releaseDate": "2014",
+    "title": "Если ты ждёшь",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3fyu7JmIdVk7sejPm7oh33"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA"
     ],
     "artistsPopularity": 35,
-    "title": "Дышим",
-    "releaseDate": "2014",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4ZxzAKbT2ERMJx8l15u2ag",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c9f74e8e5b5425e2043dcf10",
+    "releaseDate": "2014",
+    "title": "Дышим",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4ZxzAKbT2ERMJx8l15u2ag"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "TAYANNA"
     ],
     "artistsPopularity": 35,
-    "title": "I Am the One",
-    "releaseDate": "2014",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2s9zRQGjndpl5qXlOoBniG",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b1b3c249e5c98494bf62f867",
+    "releaseDate": "2014",
+    "title": "I Am the One",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2s9zRQGjndpl5qXlOoBniG"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "NAVIBAND"
     ],
     "artistsPopularity": 33,
-    "title": "Песні пра дом (Singles 20-23)",
-    "releaseDate": "2024-06-21",
-    "type": "album",
-    "totalTracks": 11,
-    "url": "https://open.spotify.com/album/3tZQ1ZsyMl1KSA8WThM4bN",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273480bad6fbdba822f81ab3491",
+    "releaseDate": "2024-06-21",
+    "title": "Песні пра дом (Singles 20-23)",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3tZQ1ZsyMl1KSA8WThM4bN"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Olya Polyakova",
       "DOROFEEVA",
       "Jerry Heil"
     ],
     "artistsPopularity": 58,
-    "title": "Разом до перемоги",
-    "releaseDate": "2022-04-21",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/58PWe2Emeo0hxXViqhHqES",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273413e0eb844ac9d95252e4239",
+    "releaseDate": "2022-04-21",
+    "title": "Разом до перемоги",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/58PWe2Emeo0hxXViqhHqES"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "ROXOLANA"
     ],
     "artistsPopularity": 38,
-    "title": "настрій: колядувати vol. 2",
-    "releaseDate": "2024-12-04",
-    "type": "album",
-    "totalTracks": 7,
-    "url": "https://open.spotify.com/album/2ocWcwjwg0NVW4iPJj8xvg",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734cf719a666803571c20ac536",
+    "releaseDate": "2024-12-04",
+    "title": "настрій: колядувати vol. 2",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2ocWcwjwg0NVW4iPJj8xvg"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Лавика"
     ],
     "artistsPopularity": 5,
-    "title": "Всегда твоя",
-    "releaseDate": "2020-06-26",
-    "type": "album",
-    "totalTracks": 11,
-    "url": "https://open.spotify.com/album/64ZouoTrZMZIEpopkgkCvG",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738edb80e56c72e4513e311d60",
+    "releaseDate": "2020-06-26",
+    "title": "Всегда твоя",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/64ZouoTrZMZIEpopkgkCvG"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:19.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Лавика"
     ],
     "artistsPopularity": 5,
-    "title": "My Only One",
-    "releaseDate": "2015-09-25",
-    "type": "album",
-    "totalTracks": 12,
-    "url": "https://open.spotify.com/album/6vew18EG2YDVxYU9qWhOZV",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27382ae7bafe4d9e05d255571e2",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:29:19.862Z",
-        "type": "FOUND"
-      }
-    ]
+    "releaseDate": "2015-09-25",
+    "title": "My Only One",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6vew18EG2YDVxYU9qWhOZV"
   }
 ]

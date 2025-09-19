@@ -1,20 +1,39 @@
 [
   {
-    "artists": [
-      "MOISHE"
-    ],
-    "artistsPopularity": 16,
-    "title": "Лише",
-    "releaseDate": "2025-07-23",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7urA01aCuLElIXb87pKKYG",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731015cb567c18a9796c026517",
     "appearanceLog": [
       {
         "time": "2025-09-16T13:28:23.410Z",
         "type": "FOUND"
       }
-    ]
+    ],
+    "artists": [
+      "MOISHE"
+    ],
+    "artistsPopularity": 16,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731015cb567c18a9796c026517",
+    "releaseDate": "2025-07-23",
+    "title": "Лише",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7urA01aCuLElIXb87pKKYG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T13:27:36.899Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Liza Bibikova",
+      "MOISHE"
+    ],
+    "artistsPopularity": 35,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730d4f7e8a37da7bdf4252df0f",
+    "releaseDate": "2025-09-19",
+    "title": "Нелюбов",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7CYPmTT27avT4QG3BhwX6f"
   }
 ]

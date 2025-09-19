@@ -1,57 +1,57 @@
 [
   {
-    "artists": [
-      "Гурт \"КУЛІ\""
-    ],
-    "artistsPopularity": 18,
-    "title": "ПОСВЯТА ВОЇНАМ АТО",
-    "releaseDate": "2010",
-    "type": "album",
-    "totalTracks": 14,
-    "url": "https://open.spotify.com/album/4CyhI464sXK62RMYVQh7HV",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273794b8a2f769e64d9d39698f1",
     "appearanceLog": [
       {
         "time": "2025-09-16T13:25:41.161Z",
         "type": "FOUND"
       }
-    ]
+    ],
+    "artists": [
+      "Гурт \"КУЛІ\""
+    ],
+    "artistsPopularity": 18,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273794b8a2f769e64d9d39698f1",
+    "releaseDate": "2010",
+    "title": "ПОСВЯТА ВОЇНАМ АТО",
+    "totalTracks": 14,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4CyhI464sXK62RMYVQh7HV"
   },
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:25:41.161Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": [
       "Гурт \"КУЛІ\"",
       "MAVER"
     ],
     "artistsPopularity": 37,
-    "title": "Слава Україні! (Remix)",
-    "releaseDate": "2023-08-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6jtOq4Zv8FdCUdxVr32DSX",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730fdc1f0b69fefa963746d0aa",
+    "releaseDate": "2023-08-24",
+    "title": "Слава Україні! (Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6jtOq4Zv8FdCUdxVr32DSX"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:25:41.161Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": [
       "Гурт \"КУЛІ\""
     ],
     "artistsPopularity": 18,
-    "title": "Мамо не плач (Live Version)",
-    "releaseDate": "2018",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7bSYOrdmbud4iOGYVQe17M",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bb944e2722e575f6703a695a",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:25:41.161Z",
-        "type": "FOUND"
-      }
-    ]
+    "releaseDate": "2018",
+    "title": "Мамо не плач (Live Version)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7bSYOrdmbud4iOGYVQe17M"
   }
 ]
