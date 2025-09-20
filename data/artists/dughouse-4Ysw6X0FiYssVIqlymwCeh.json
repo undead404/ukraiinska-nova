@@ -1,0 +1,39 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:24:38.003Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "dughouse",
+      "Mauser"
+    ],
+    "artistsPopularity": 8,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27366f7a10c2a534fb794a4d1ae",
+    "releaseDate": "2024-08-16",
+    "title": "Split",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5kILhXUGU8nLFw2vJzhBMl"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:24:38.003Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "dughouse"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a17200d3cbda28e80a193a7c",
+    "releaseDate": "2023-03-01",
+    "title": "Falling into reality",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2s2CHWzxCJqNyaT5ir33MQ"
+  }
+]

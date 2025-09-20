@@ -1,0 +1,56 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:24:10.840Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Тол"
+    ],
+    "artistsPopularity": 24,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d85ffde5cfea83f1eb7aefff",
+    "releaseDate": "2013-04-09",
+    "title": "Утопия",
+    "totalTracks": 16,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3dOS8Ruz0TurKJGxJcERuN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:24:10.840Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Тол"
+    ],
+    "artistsPopularity": 24,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e0bef41efe47613909535b82",
+    "releaseDate": "2013-04-09",
+    "title": "Синдром Бажання",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1CxDNYT3DP4iQCO8iXYydC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:24:10.840Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Тол"
+    ],
+    "artistsPopularity": 24,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733613f9468fea06fee71d5137",
+    "releaseDate": "2013-04-09",
+    "title": "Клей.МО",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2RlL39bs5GvwTkelLXHEVU"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:24:06.344Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "пуленбір"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273172b90645ff0d208422c5f8b",
+    "releaseDate": "2023-01-28",
+    "title": "музика грає",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5LAT7IPQc6xzhB7p4M50zm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:24:06.344Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "пуленбір"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27389b10028fa36fa968737e80d",
+    "releaseDate": "2022-10-27",
+    "title": "це любов",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1k1liDZ4oyIg2Z1ZvYjoXv"
+  }
+]

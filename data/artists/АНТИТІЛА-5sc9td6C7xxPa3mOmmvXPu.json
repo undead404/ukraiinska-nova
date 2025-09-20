@@ -1,0 +1,763 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b6bf271dcdb9c15bf4a31b5e",
+    "releaseDate": "2022-02-25",
+    "title": "MLNL",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2phBeilwnMufUlY62nChzn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273818735b59d6f3adb82f5d6a2",
+    "releaseDate": "2019-12-18",
+    "title": "Hello",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1MTIwCAVeJoCGAjzHn3QX3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734833a7efd298bbdfd36cb0a4",
+    "releaseDate": "2016-12-15",
+    "title": "Сонце",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6iOv53StDkcVMBSoh6xKtn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27396a79aae240536cadd751b9a",
+    "releaseDate": "2015-12-17",
+    "title": "Все красиво",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6Z7oOtpIsOQY0rcYkEwand"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273048cd42245dee8649609298f",
+    "releaseDate": "2013-12-19",
+    "title": "Над полюсами",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/72ftyFkd1wVpRvSJNnjcaV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b275ee60d7529743001bb020",
+    "releaseDate": "2011-12-22",
+    "title": "Вибирай",
+    "totalTracks": 14,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6AI31OC8NVFAKO8mMw1TGL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fd78edeceeb839fdeb7f9908",
+    "releaseDate": "2008-12-17",
+    "title": "Будувуду",
+    "totalTracks": 16,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5LEkAe4FtOtHjffYK0Lq3d"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732e1a496487eb7259b5d9bda6",
+    "releaseDate": "2025-06-20",
+    "title": "ДИВИСЬ У МІЙ ЕКРАН",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2ptMxKun3AST4K70H9LCu6"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА",
+      "Uno Kaya"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d1093ac8154a3eb7b7eb876e",
+    "releaseDate": "2025-04-18",
+    "title": "ВДОМА (Uno Kaya Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0m1f8ROtNsENUoYYc74SVW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27352e95c78e2ac120178e2c70d",
+    "releaseDate": "2024-09-20",
+    "title": "ВДОМА",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4sOypRgnE0mpNhMjCGog4M"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27318f55f571e42c03bfdacd1de",
+    "releaseDate": "2024-06-14",
+    "title": "Поламані",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1Z9mGHME5YO8LovYmvB6FT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273851735fdcad5e2d5c8335dcb",
+    "releaseDate": "2024-02-15",
+    "title": "Ти саме та",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5gqFgJNOWIvyvyKZvCrrk6"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fb9f87792f19808844faf69f",
+    "releaseDate": "2023-05-25",
+    "title": "Death From Above (Original Game Soundtrack)",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3xCf2TN1cwf6TREgLPzaAs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ef377af461fddfac76fa9231",
+    "releaseDate": "2023-02-24",
+    "title": "Фортеця Бахмут (Acoustic)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1Y8Wvlzorl6EXaWLC6W30R"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732e39fb8b8066fabc2cff18c0",
+    "releaseDate": "2023-02-03",
+    "title": "Фортеця Бахмут",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/31bM56BwZ6uNbXJ1GuIweW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273419a8c55bd13573effc2e137",
+    "releaseDate": "2022-12-08",
+    "title": "Carol for the Charity",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1JJUcU5ExjFgi6ESeEK9MQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fc20d93f4c9417a2f8315a66",
+    "releaseDate": "2022-08-05",
+    "title": "Hello (English Version)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6szD1p1B1YKoKyMrR56ZNz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ed Sheeran",
+      "АНТИТІЛА"
+    ],
+    "artistsPopularity": 93,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733927e6a01e69011a86609d48",
+    "releaseDate": "2022-05-02",
+    "title": "2step (feat. Antytila)",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0cNLR4ksEAAesnSOVzV33s"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27340503528860ff4c89f2a7a0a",
+    "releaseDate": "2022-01-28",
+    "title": "Чорнобиль форева (із к/ф \"Я, \"Побєда\" і Берлін\")",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4t5qOZRz3z1de57rB2rTqM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f10172a7cb1dae83c001a698",
+    "releaseDate": "2021-12-10",
+    "title": "Стань",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/06RQLIX7xo9meXr4v8dn4v"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738a478e5d819729be79827213",
+    "releaseDate": "2021-11-26",
+    "title": "And You Start",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2S2Qc5aZ2G6w3tzjVtBjZY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730b87d66fc74314b7889b01c5",
+    "releaseDate": "2021-08-24",
+    "title": "Маскарад",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3MVF5GrCmwwrzjXCtt04uh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735cb7df4fbc17e52abd95c822",
+    "releaseDate": "2020-12-17",
+    "title": "Птаха",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5enOiCuMTxvzOavhGIrKxd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА",
+      "Bakun"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eb48e6784bb6b78c58316c8c",
+    "releaseDate": "2020-12-17",
+    "title": "Буде син (Bakun Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/326i2Dbv34PHoy1uDrNYRR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736bc022036439e321628779d3",
+    "releaseDate": "2020-12-14",
+    "title": "Кіно",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6hbd0veNx34awhD2NMoQOg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b70fa89096ed4394b120feae",
+    "releaseDate": "2019-12-19",
+    "title": "Буде син",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4AR8u65JXh0iKln1PhGLCy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d792318d5a9f491b2e5ff5d9",
+    "releaseDate": "2019-12-11",
+    "title": "Symphony",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3Ye9soSCY1ctSFEM0u2xKy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273922dbc61ee831dbf04c52b3c",
+    "releaseDate": "2019-12-10",
+    "title": "Вірила",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/29u8YQzFnRzwMIY7pOvGV4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА",
+      "The Faino"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27393c8a3e8ef0beafbd0412d52",
+    "releaseDate": "2018-12-20",
+    "title": "TDME (The Faino Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4uVZvwJyZZZyl1GsKzOHJ1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27386bf057957520ebd5fff5f50",
+    "releaseDate": "2018-12-20",
+    "title": "LEGO",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2mpe6zv9PJ46Ra5YuCaJnr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b884af7d60af49973d05c799",
+    "releaseDate": "2018-12-12",
+    "title": "Новорічна",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/49jutEFn2IPA4SI7KB1L7P"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736d333309feb716ad1e076756",
+    "releaseDate": "2018-12-05",
+    "title": "Лови момент",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7aKdkwaBz06dUqticf8Vf8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cde36727be621cf402b6f525",
+    "releaseDate": "2017-12-07",
+    "title": "TDME",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1k6oP1OySfs0Du2rRtexVV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273575fc6635efe642a8aacdc6f",
+    "releaseDate": "2016-12-15",
+    "title": "Танцюй",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/29I7a2jmYmdUxT3zueKsEm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739a9f6fe499d094f5d8ffd75f",
+    "releaseDate": "2016-01-20",
+    "title": "Люди як кораблі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4efyFCaxNIwoxQ1QJSfw5c"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733242e0883d7ddc562ce58a8a",
+    "releaseDate": "2014-12-03",
+    "title": "Шанхай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/60IhWi6YoJwQadsYMo1ID1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27315ed765274d2dd23864a5ed2",
+    "releaseDate": "2013-12-12",
+    "title": "Тебе моя невеста",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3gjhpZAueBJLi5MetYKubz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273676cd5f10313aa944cf7c40d",
+    "releaseDate": "2013-12-12",
+    "title": "І всю ніч (Radio Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5RzSecXVVbWywNLr3xTxri"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27362581196e8477a7f6c9438fb",
+    "releaseDate": "2013-12-11",
+    "title": "Тебе моя невеста (Pop Vers)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3RtWjIVjGvvwp4U6XdFHY1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273292a87766aff0110d7d8f6a6",
+    "releaseDate": "2012-11-07",
+    "title": "Anthem F1h2o",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4IwlF0DyjJuQNB5w8jwwYS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА",
+      "Gorchitza"
+    ],
+    "artistsPopularity": 46,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27372d6f6e8cb920a95c699b8cd",
+    "releaseDate": "2012",
+    "title": "Смотри в меня (Gorchitza Pop Vers)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0BLaqKfSnYFaMgoQGz5XrZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:39.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ed Sheeran"
+    ],
+    "artistsPopularity": 93,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27320384043656216cb372f9739",
+    "releaseDate": "2021-10-25",
+    "title": "2step (The Remixes)",
+    "totalTracks": 14,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0a28QsFN8zbrWSvbSQ40PI"
+  }
+]

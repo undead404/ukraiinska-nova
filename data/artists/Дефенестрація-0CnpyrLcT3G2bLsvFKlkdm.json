@@ -1,0 +1,56 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:44.621Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Дефенестрація"
+    ],
+    "artistsPopularity": 20,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27387c8eabf3227d6083bee14d1",
+    "releaseDate": "2023-11-24",
+    "title": "Українська правда",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2w0LAdD5bkeEOX2U970Why"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:44.621Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Дефенестрація"
+    ],
+    "artistsPopularity": 20,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fac6132ee2f4199fe48787e9",
+    "releaseDate": "2024-05-31",
+    "title": "Неформат",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1oyCg9B5LsB9RGc2awrQ5p"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:23:44.621Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Дефенестрація"
+    ],
+    "artistsPopularity": 20,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369fe93d27ca313c66d857436",
+    "releaseDate": "2023-08-04",
+    "title": "Проти мене ведеться війна",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/33DLjU3lJ7BJVm63GN1qsi"
+  }
+]

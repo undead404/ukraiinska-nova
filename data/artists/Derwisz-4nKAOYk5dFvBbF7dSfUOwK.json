@@ -1,0 +1,38 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:24:33.493Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Derwisz"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27363a78c25063a8df0384003b8",
+    "releaseDate": "2024-08-24",
+    "title": "Горизонт подій які не згадати",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3W1YKSq1wX2IP6jkwG9swO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:24:33.493Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Derwisz"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f2289c237fb5480544b1ebc9",
+    "releaseDate": "2022-10-15",
+    "title": "2022",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0bJq9YpGOOMTLxQuiCYNZP"
+  }
+]
