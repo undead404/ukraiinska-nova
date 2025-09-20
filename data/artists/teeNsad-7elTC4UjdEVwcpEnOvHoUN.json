@@ -527,5 +527,23 @@
     "totalTracks": 10,
     "type": "album",
     "url": "https://open.spotify.com/album/33YohqgZJO3piWA0Xraq2H"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T18:27:42.318Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Acee2K"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a48bd6706f9e14cf6e704148",
+    "releaseDate": "2025-08-15",
+    "title": "Тепло в словах",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6zFqdBZullrjPTI8DZkAdW"
   }
 ]
