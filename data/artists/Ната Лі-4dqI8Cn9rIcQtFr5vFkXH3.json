@@ -1,0 +1,77 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T23:23:17.980Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ната Лі"
+    ],
+    "artistsPopularity": 25,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273636b29ee89399a235c86f8b6",
+    "releaseDate": "2024-10-22",
+    "title": "Вогонь",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5YdDDtVVzumLA2FBZLnEN0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T23:23:17.980Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ната Лі",
+      "ЗАЛІСКО",
+      "MAVER"
+    ],
+    "artistsPopularity": 37,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731713a98cab70ba791f559682",
+    "releaseDate": "2023-11-27",
+    "title": "Я не проживу без тебе (Maver Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4pb9fh3Ykr61IAeytTkqGK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T23:23:17.980Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ната Лі",
+      "ЗАЛІСКО"
+    ],
+    "artistsPopularity": 36,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d87090f948b68a9a53420bc9",
+    "releaseDate": "2016-08-08",
+    "title": "Я не проживу без тебе",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0ys51BnJjukRCOPjVhcs4o"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T23:23:17.980Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Андрій Князь"
+    ],
+    "artistsPopularity": 22,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b7174cdfdd2ed99d8b5772c2",
+    "releaseDate": "2010-01-01",
+    "title": "Не йди...",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/052pUXriLcpckcvnjimdFY"
+  }
+]

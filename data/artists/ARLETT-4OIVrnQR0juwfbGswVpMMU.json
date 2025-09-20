@@ -1,0 +1,110 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T23:24:05.372Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ARLETT"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27397b1ab7a21ff3c206ee8d3df",
+    "releaseDate": "2017-05-05",
+    "title": "Arlett",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/75eQxTWgxsaYmlzzRpWmc4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T23:24:05.372Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ARLETT"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e49212e0061023aa54485370",
+    "releaseDate": "2020-09-29",
+    "title": "НСНЗ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1AxGIgpTjyQC9S7ez8yk10"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T23:24:05.372Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ARLETT"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27320762f3c147cca0060c2ced3",
+    "releaseDate": "2017-12-07",
+    "title": "Шаленій",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5qMxpktk4YDTJ2WCSChMzd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T23:24:05.372Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ARLETT"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733309b3e2ca62caff28f8fa6f",
+    "releaseDate": "2017-06-27",
+    "title": "Спрага чи спека",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3o0wMyMY44tb8tGlXPm7xf"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T23:24:05.372Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ARLETT"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733dbddee69aed6e6a54e4dcb2",
+    "releaseDate": "2017-05-05",
+    "title": "Електрична зима",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0mBSA3XBRalvxJYPI9bN3y"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T23:24:05.372Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ARLETT"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d06e49b2bac7aaaa310bc2d1",
+    "releaseDate": "2017-05-05",
+    "title": "#Відчуйулюбленумузику",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/540peLxOjn0SZosxZfwicy"
+  }
+]

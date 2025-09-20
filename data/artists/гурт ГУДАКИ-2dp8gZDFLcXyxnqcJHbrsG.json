@@ -1,0 +1,56 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T23:22:23.832Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "гурт ГУДАКИ"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730d1d9a7d5983a1d318578bc7",
+    "releaseDate": "2020-04-05",
+    "title": "Тересвянські співанки",
+    "totalTracks": 19,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5XTs2SDLzAaxHyPWM726pl"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T23:22:23.832Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "гурт ГУДАКИ"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27379892df42bd6f8c2cfb87991",
+    "releaseDate": "2020-04-05",
+    "title": "Забава в тересві",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1L2b0XzC6nymryW3cVyeE3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T23:22:23.832Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "гурт ГУДАКИ"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732f7c17538f7cf8b561b152cc",
+    "releaseDate": "2020-04-03",
+    "title": "Мелодії тересвянської долини",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1GZlyKYwNRg5Oy7OT6kcwl"
+  }
+]

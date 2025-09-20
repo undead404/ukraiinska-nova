@@ -1,0 +1,74 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T23:25:25.304Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "O'Hamsters"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273075af7bfffccbcdb29accb11",
+    "releaseDate": "2022-11-25",
+    "title": "From Green Hills to Raging Sea",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/67SZ68LVSfeogciZOOWLQZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T23:25:25.304Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "O'Hamsters"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731823a1ab35034f03508190fa",
+    "releaseDate": "2017-02-21",
+    "title": "Где бы мы ни бывали",
+    "totalTracks": 14,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1Sg5i4J2Y6sTOYlN3stBdR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T23:25:25.304Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "O'Hamsters"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cb7f35955541af7bb23e73c5",
+    "releaseDate": "2014-07-24",
+    "title": "Киев / Дублин / Алкоголь",
+    "totalTracks": 14,
+    "type": "album",
+    "url": "https://open.spotify.com/album/127iDcqiLVwPY2BW1aPLMe"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T23:25:25.304Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Patsanoth"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732a43aeda4a5d4ade3027c2b0",
+    "releaseDate": "2017-07-01",
+    "title": "Aggressor",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/521raIpA6tqKoeC9OFeHPn"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T23:23:42.744Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Потуга"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733c2ece7a8c76ff907cb78c11",
+    "releaseDate": "2012-03-08",
+    "title": "Потуга",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7jT2qTE4FC2C9OmSJblYPS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T23:23:42.744Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Потуга"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273310a886e16a4f279f4aa2471",
+    "releaseDate": "2008-03-08",
+    "title": "Дефіцит доброти",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3VMIi89yed0vgz4Gxpf2i1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T23:23:42.744Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Потуга"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f5bca9b45570ca1793fdd515",
+    "releaseDate": "2024-11-26",
+    "title": "Бездушні демони",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5e3hsVUqjUMF1aQck9BhyR"
+  }
+]

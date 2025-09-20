@@ -1,0 +1,56 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T23:22:21.450Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Горгішелі"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730718cff1ec07683902f67008",
+    "releaseDate": "2013-11-11",
+    "title": "Ромбамбар",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5UlckfBXQVphptoOddlRaK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T23:22:21.450Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Горгішелі"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273498e04831e6d9397d6af47d9",
+    "releaseDate": "2013-11-11",
+    "title": "Аморе",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6fDajiMs6lh91FwEYQBl8S"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T23:22:21.450Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Gorgisheli"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f660ed69d29ba774a565bc01",
+    "releaseDate": "2013-11-11",
+    "title": "Live",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2XLeR2Q7zIw9PwVuhlyTcf"
+  }
+]
