@@ -6,10 +6,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["івл-івл"],
+    "artists": [
+      "івл-івл"
+    ],
     "artistsPopularity": 6,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734ff4cd76a4f4a08287e2bc45",
     "releaseDate": "2022-08-04",
+    "tags": [
+      "screamo"
+    ],
     "title": "я непотрібен мені",
     "totalTracks": 6,
     "type": "single",

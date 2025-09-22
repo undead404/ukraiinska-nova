@@ -13,6 +13,7 @@
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e2a45ddbd22a6a5c8d369bf8",
     "releaseDate": "2023-12-29",
+    "tags": [],
     "title": "Сміливість (Orchestra)",
     "totalTracks": 12,
     "type": "album",
@@ -33,6 +34,9 @@
     "artistsPopularity": 12,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735ab6707e047bd5c946bcb15c",
     "releaseDate": "2024-10-25",
+    "tags": [
+      "Vidbir 2023"
+    ],
     "title": "Колискова",
     "totalTracks": 1,
     "type": "single",
@@ -52,6 +56,7 @@
     "artistsPopularity": 18,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730373e761d5df0ef95eb6414d",
     "releaseDate": "2024-01-26",
+    "tags": [],
     "title": "Невідомий Герой (Live Orchestra)",
     "totalTracks": 1,
     "type": "single",
@@ -72,6 +77,10 @@
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a7c7ed4488c1f3b649fab1d4",
     "releaseDate": "2023-12-06",
+    "tags": [
+      "rock",
+      "rap"
+    ],
     "title": "Незламність",
     "totalTracks": 1,
     "type": "single",

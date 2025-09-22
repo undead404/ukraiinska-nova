@@ -6,10 +6,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Крик Душі"],
+    "artists": [
+      "Крик Душі"
+    ],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737fbb182e4faf193491d35cbd",
     "releaseDate": "2019-03-16",
+    "tags": [
+      "christian"
+    ],
     "title": "А світ так і не навчився любити",
     "totalTracks": 12,
     "type": "album",

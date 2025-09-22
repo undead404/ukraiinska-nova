@@ -12,6 +12,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273229bf8767edb55d582eec73c",
     "releaseDate": "2023-05-04",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "QIRIM",
     "totalTracks": 15,
     "type": "album",
@@ -30,6 +34,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fe52cfeb22cb1164c56939cd",
     "releaseDate": "2021-03-12",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "Ми",
     "totalTracks": 7,
     "type": "album",
@@ -48,6 +56,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27377808cee4fed6809d4e52a89",
     "releaseDate": "2020-02-21",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "Свої",
     "totalTracks": 10,
     "type": "album",
@@ -66,6 +78,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27345dc63ecf0c1d24e4f0ada39",
     "releaseDate": "2019-09-06",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "10",
     "totalTracks": 21,
     "type": "album",
@@ -92,6 +108,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736836fc1b7961e29a2ee1747a",
     "releaseDate": "2019-02-15",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "Solo",
     "totalTracks": 7,
     "type": "album",
@@ -110,6 +130,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e07b57a9593a49e65897b6e8",
     "releaseDate": "2018-10-12",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "Крила",
     "totalTracks": 10,
     "type": "album",
@@ -128,6 +152,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738aa2230d7a05290a3eb26e54",
     "releaseDate": "2016-06-10",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "1944",
     "totalTracks": 12,
     "type": "album",
@@ -146,6 +174,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aa0cb6cbc1688d776d3f2fb9",
     "releaseDate": "2015-10-12",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "Подих",
     "totalTracks": 13,
     "type": "album",
@@ -164,6 +196,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f1c79e97c52a2f6304f7393a",
     "releaseDate": "2014-10-01",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "All or Nothing",
     "totalTracks": 12,
     "type": "album",
@@ -182,6 +218,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a25cae24e787dd3ca84606a8",
     "releaseDate": "2011-03-29",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "For Every Heart",
     "totalTracks": 12,
     "type": "album",
@@ -201,6 +241,11 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c988a748601c500be36d9de3",
     "releaseDate": "2025-08-26",
+    "tags": [
+      "electronic",
+      "jazz",
+      "soul"
+    ],
     "title": "ZORYA",
     "totalTracks": 1,
     "type": "single",
@@ -219,6 +264,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734f5eec4069ed4a00a9e7d66d",
     "releaseDate": "2025-05-29",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "Ми (Uno Kaya Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -238,6 +287,11 @@
     "artistsPopularity": 54,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738ec377ccfcf0a8b80c31b765",
     "releaseDate": "2024-11-28",
+    "tags": [
+      "jazz",
+      "pop",
+      "soul"
+    ],
     "title": "КЛИЧУ",
     "totalTracks": 1,
     "type": "single",
@@ -256,6 +310,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c5bf0eb9929f2b635163510c",
     "releaseDate": "2024-07-26",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "Усміхнися мені",
     "totalTracks": 1,
     "type": "single",
@@ -274,6 +332,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27355d11b723b834660a63f4b75",
     "releaseDate": "2024-05-23",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "Люблю",
     "totalTracks": 1,
     "type": "single",
@@ -293,6 +355,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ba4bdf6a8491309d30d479b0",
     "releaseDate": "2024-05-10",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "1944 (Jamala's song Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -311,6 +377,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273df12d375508085bed78bd7dc",
     "releaseDate": "2024-01-18",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "Мій брате",
     "totalTracks": 1,
     "type": "single",
@@ -329,6 +399,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b30df1b3b22ac38acb66707c",
     "releaseDate": "2023-09-14",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "Верше, мій верше",
     "totalTracks": 1,
     "type": "single",
@@ -347,6 +421,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27398ef9a95f69a7392fa38550b",
     "releaseDate": "2023-08-15",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "Spotify Singles",
     "totalTracks": 2,
     "type": "single",
@@ -366,6 +444,13 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735f06ce58488157894e711018",
     "releaseDate": "2023-06-16",
+    "tags": [
+      "jazz",
+      "ambient",
+      "soul",
+      "electronic",
+      "idm"
+    ],
     "title": "Жалі (Remixes)",
     "totalTracks": 2,
     "type": "single",
@@ -384,6 +469,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a2c8ae67c3bced6c4e469bd2",
     "releaseDate": "2022-10-28",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "ПОКЛИК",
     "totalTracks": 4,
     "type": "single",
@@ -403,6 +492,11 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736b545d6720af2298515bc211",
     "releaseDate": "2022-08-26",
+    "tags": [
+      "rap",
+      "jazz",
+      "soul"
+    ],
     "title": "Коли закінчаться війни",
     "totalTracks": 1,
     "type": "single",
@@ -421,6 +515,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735d8fee169a7aac6352306654",
     "releaseDate": "2022-08-12",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "Thank you, Stranger",
     "totalTracks": 1,
     "type": "single",
@@ -439,6 +537,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273743a6b5ccf3bf813c356b5d2",
     "releaseDate": "2022-04-21",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "Sevdim Seni (Slap House Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -457,6 +559,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27368c120ae22f5280223a49c4b",
     "releaseDate": "2022-02-25",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "ПОТАЙКИ (Andi Vax Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -475,6 +581,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735703b2056dc2d0e43d3aa0cb",
     "releaseDate": "2022-02-11",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "Хай буде так, як хочеш ти (із к/ф \"Я, \"Побєда\" і Берлін\")",
     "totalTracks": 1,
     "type": "single",
@@ -493,6 +603,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730e9fb0c32de12a248ea0992d",
     "releaseDate": "2021-12-17",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "Новий рік з тобою",
     "totalTracks": 1,
     "type": "single",
@@ -511,6 +625,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738f5f044566335635cc94cf64",
     "releaseDate": "2021-11-26",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "Потайки",
     "totalTracks": 3,
     "type": "single",
@@ -530,6 +648,12 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735476b54112612ddaeb26e02d",
     "releaseDate": "2021-08-20",
+    "tags": [
+      "pop",
+      "jazz",
+      "soul",
+      "Eurovision"
+    ],
     "title": "Моя Земля",
     "totalTracks": 1,
     "type": "single",
@@ -548,6 +672,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273050a0fcb5f4ead44f4c6a9a5",
     "releaseDate": "2021-04-09",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "05:45",
     "totalTracks": 5,
     "type": "single",
@@ -566,6 +694,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e3a14759a12ed287d87fe3b3",
     "releaseDate": "2021-02-26",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "Вдячна",
     "totalTracks": 1,
     "type": "single",
@@ -584,6 +716,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27350920db9f7599d4fed12783f",
     "releaseDate": "2020-09-11",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "Эндорфины",
     "totalTracks": 1,
     "type": "single",
@@ -602,6 +738,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27392ed3036c7fe38d151f9195c",
     "releaseDate": "2020-02-07",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "Жалі",
     "totalTracks": 1,
     "type": "single",
@@ -620,6 +760,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27305f6d3b82bbef473e65f3c59",
     "releaseDate": "2019-12-19",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "Спи, принцесо, спи",
     "totalTracks": 1,
     "type": "single",
@@ -638,6 +782,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f767e401a7acc1a194cdff08",
     "releaseDate": "2019-12-19",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "Спи, мій принце, спи",
     "totalTracks": 1,
     "type": "single",
@@ -656,6 +804,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735bdd129b4d3fc4de050035d4",
     "releaseDate": "2019-11-21",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "Ціна правди",
     "totalTracks": 1,
     "type": "single",
@@ -675,6 +827,12 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273008d86f2d624376bf90e951b",
     "releaseDate": "2019-07-05",
+    "tags": [
+      "House",
+      "electronic",
+      "jazz",
+      "soul"
+    ],
     "title": "Крок",
     "totalTracks": 1,
     "type": "single",
@@ -693,6 +851,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273177039684cfb962b6aaabfb9",
     "releaseDate": "2019-03-08",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "Watch Over Me (Hidden Element 8Th Version)",
     "totalTracks": 1,
     "type": "single",
@@ -711,6 +873,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a356845f954fe28cc7d73dc0",
     "releaseDate": "2018-11-16",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "Самға",
     "totalTracks": 1,
     "type": "single",
@@ -729,6 +895,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f6d54f525ae2631cde95bf83",
     "releaseDate": "2018-10-12",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "Крила",
     "totalTracks": 1,
     "type": "single",
@@ -747,6 +917,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273223e4bbb94196ca40130d57f",
     "releaseDate": "2018-07-01",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "Крила (ANDI VAX Disco Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -765,6 +939,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738ee209403d67b48cf44db670",
     "releaseDate": "2017-11-10",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "1944 (Roy Malakian Remix)",
     "totalTracks": 2,
     "type": "single",
@@ -783,6 +961,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c369d221e386e841b99e4cb0",
     "releaseDate": "2017-10-27",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "Сумую (Morphom Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -801,6 +983,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b64df6a30429f0bbc10526b3",
     "releaseDate": "2017-10-06",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "Сумую (Andi Vax Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -819,6 +1005,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273894f5b06677fefb93fc4c5be",
     "releaseDate": "2017-09-01",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "Сумую",
     "totalTracks": 2,
     "type": "single",
@@ -837,6 +1027,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273df3fce216ce6032f2cb4d321",
     "releaseDate": "2017-05-14",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "I Believe in U",
     "totalTracks": 1,
     "type": "single",
@@ -855,6 +1049,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273310e3a08eaa8964b034447f9",
     "releaseDate": "2017-05-09",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "1944 (Symphonic Version)",
     "totalTracks": 1,
     "type": "single",
@@ -873,6 +1071,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27336a32edd748acbae26022845",
     "releaseDate": "2017-02-01",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "Solo",
     "totalTracks": 1,
     "type": "single",
@@ -891,6 +1093,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739d967a6116463133ae6a1519",
     "releaseDate": "2016-11-04",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "Заманили",
     "totalTracks": 2,
     "type": "single",
@@ -909,6 +1115,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730bc69e51d290061af9bf4a3d",
     "releaseDate": "2015-05-18",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "Шлях додому",
     "totalTracks": 1,
     "type": "single",
@@ -927,6 +1137,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273656f2f954260e2975ba616a8",
     "releaseDate": "2015-02-23",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "Заплуталась (Cepasa Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -945,6 +1159,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733cb9efe29b1efd15c31e6227",
     "releaseDate": "2014-11-28",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "Чому",
     "totalTracks": 2,
     "type": "single",
@@ -963,6 +1181,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739d3be1207bb2f57fba300dcd",
     "releaseDate": "2014-11-21",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "Злива",
     "totalTracks": 1,
     "type": "single",
@@ -981,6 +1203,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730dcc085a25a17bea0c056115",
     "releaseDate": "2014-10-01",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "Thank You",
     "totalTracks": 6,
     "type": "single",
@@ -999,6 +1225,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273feca815135fb9bd2a9a4850d",
     "releaseDate": "2014-09-25",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "Заплуталась",
     "totalTracks": 1,
     "type": "single",
@@ -1017,6 +1247,10 @@
     "artistsPopularity": 57,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d43f1fa6ee1188b72341f999",
     "releaseDate": "2016",
+    "tags": [
+      "funk",
+      "Hip-Hop"
+    ],
     "title": "Люди",
     "totalTracks": 5,
     "type": "single",
@@ -1035,6 +1269,10 @@
     "artistsPopularity": 61,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273db721f3cc908578ba03d53cb",
     "releaseDate": "2019-10-29",
+    "tags": [
+      "Hip-Hop",
+      "Kazakhstan"
+    ],
     "title": "ВЫХОД В СВЕТ",
     "totalTracks": 14,
     "type": "album",
@@ -1053,6 +1291,9 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734cf719a666803571c20ac536",
     "releaseDate": "2024-12-04",
+    "tags": [
+      "pop"
+    ],
     "title": "настрій: колядувати vol. 2",
     "totalTracks": 7,
     "type": "album",
@@ -1071,6 +1312,10 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734c22256fdaa36b1daa5f0d25",
     "releaseDate": "2019-12-16",
+    "tags": [
+      "rap",
+      "Hip-Hop"
+    ],
     "title": "Забирай",
     "totalTracks": 1,
     "type": "single",
@@ -1089,6 +1334,12 @@
     "artistsPopularity": 9,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b5d2d9b712dcc961d31541a3",
     "releaseDate": "2018-08-20",
+    "tags": [
+      "pop",
+      "hip hop",
+      "dance",
+      "rnb"
+    ],
     "title": "Rookodiller",
     "totalTracks": 4,
     "type": "single",
@@ -1107,6 +1358,12 @@
     "artistsPopularity": 21,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273603b28fb62c89b6fdeb547af",
     "releaseDate": "2009-04-02",
+    "tags": [
+      "trance",
+      "electronic",
+      "netherlands",
+      "progressive trance"
+    ],
     "title": "A State Of Trance Episode 398",
     "totalTracks": 16,
     "type": "album",
@@ -1125,6 +1382,7 @@
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d5be312f397d04dcd5ef8c67",
     "releaseDate": "2016-04-20",
+    "tags": [],
     "title": "Taterrium",
     "totalTracks": 11,
     "type": "album",

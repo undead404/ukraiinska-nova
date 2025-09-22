@@ -6,10 +6,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Воанергес"],
+    "artists": [
+      "Воанергес"
+    ],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738cef8aec8084b4c92e956faa",
     "releaseDate": "2016-07-12",
+    "tags": [
+      "folk",
+      "neofolk"
+    ],
     "title": "DRUM ПЕРЕГУДИ",
     "totalTracks": 14,
     "type": "album",
@@ -22,10 +28,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Воанергес"],
+    "artists": [
+      "Воанергес"
+    ],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730b9a90f4536fc78fbea3384a",
     "releaseDate": "2013-03-04",
+    "tags": [
+      "folk",
+      "neofolk"
+    ],
     "title": "Цілющий Рок Древнього Києва",
     "totalTracks": 11,
     "type": "album",
@@ -38,10 +50,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Воанергес"],
+    "artists": [
+      "Воанергес"
+    ],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737889682883c6f62ad995d5e9",
     "releaseDate": "2011-02-01",
+    "tags": [
+      "folk",
+      "neofolk"
+    ],
     "title": "Бугай-Boogie",
     "totalTracks": 11,
     "type": "album",
@@ -54,10 +72,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Воанергес"],
+    "artists": [
+      "Воанергес"
+    ],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27349b07e22396727ae6104d55b",
     "releaseDate": "2008-03-07",
+    "tags": [
+      "folk",
+      "neofolk"
+    ],
     "title": "Гай \"Да\" Маки",
     "totalTracks": 12,
     "type": "album",
@@ -70,10 +94,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Воанергес"],
+    "artists": [
+      "Воанергес"
+    ],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733e0bc6a8e9972ac0de5907a2",
     "releaseDate": "2006-04-03",
+    "tags": [
+      "folk",
+      "neofolk"
+    ],
     "title": "Злата врата",
     "totalTracks": 14,
     "type": "album",

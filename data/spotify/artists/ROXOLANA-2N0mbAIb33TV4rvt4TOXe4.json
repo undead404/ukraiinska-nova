@@ -12,6 +12,9 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a1799a69948909479651f360",
     "releaseDate": "2025-06-06",
+    "tags": [
+      "pop"
+    ],
     "title": "Мистецтво",
     "totalTracks": 11,
     "type": "album",
@@ -30,6 +33,9 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734cf719a666803571c20ac536",
     "releaseDate": "2024-12-04",
+    "tags": [
+      "pop"
+    ],
     "title": "настрій: колядувати vol. 2",
     "totalTracks": 7,
     "type": "album",
@@ -48,6 +54,9 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273269970bbf1dd8b3ad6fe2623",
     "releaseDate": "2023-12-08",
+    "tags": [
+      "pop"
+    ],
     "title": "настрій: колядувати",
     "totalTracks": 13,
     "type": "album",
@@ -66,6 +75,9 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732ac86de473fbe7fff1b41615",
     "releaseDate": "2021-11-12",
+    "tags": [
+      "pop"
+    ],
     "title": "Ukraine Is",
     "totalTracks": 9,
     "type": "album",
@@ -85,6 +97,10 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27339150f411581962613f226af",
     "releaseDate": "2025-03-21",
+    "tags": [
+      "pop",
+      "electronic"
+    ],
     "title": "Пташка",
     "totalTracks": 1,
     "type": "single",
@@ -103,6 +119,9 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fdacd1fd6598b1efaa8d30eb",
     "releaseDate": "2024-11-01",
+    "tags": [
+      "pop"
+    ],
     "title": "Мистецтво",
     "totalTracks": 1,
     "type": "single",
@@ -122,6 +141,10 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e29656b20d6059129947e324",
     "releaseDate": "2024-06-14",
+    "tags": [
+      "synth pop",
+      "pop"
+    ],
     "title": "Коли квітне папороть",
     "totalTracks": 4,
     "type": "single",
@@ -140,6 +163,9 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dc020ce5611de097d2047bbd",
     "releaseDate": "2024-04-19",
+    "tags": [
+      "pop"
+    ],
     "title": "Сміливі мають щастя",
     "totalTracks": 1,
     "type": "single",
@@ -158,6 +184,9 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a7fdbdc04c7b33cc892d5a37",
     "releaseDate": "2023-09-15",
+    "tags": [
+      "pop"
+    ],
     "title": "Не стій під вікном",
     "totalTracks": 1,
     "type": "single",
@@ -176,6 +205,9 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27320f59b429edecaf76426ab9f",
     "releaseDate": "2023-03-24",
+    "tags": [
+      "pop"
+    ],
     "title": "настрій : спішити жити",
     "totalTracks": 3,
     "type": "single",
@@ -195,6 +227,11 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d7d3ad78b4a8bb677afeab36",
     "releaseDate": "2023-02-16",
+    "tags": [
+      "alternative",
+      "pop",
+      "vidbir"
+    ],
     "title": "Тану",
     "totalTracks": 1,
     "type": "single",
@@ -214,6 +251,9 @@
     "artistsPopularity": 54,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aa5ff04122881c6f50da15b2",
     "releaseDate": "2022-12-16",
+    "tags": [
+      "pop"
+    ],
     "title": "Інь Ян (Із к/ф \"Сусідка\")",
     "totalTracks": 1,
     "type": "single",
@@ -232,6 +272,9 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d235aa68920aeb7f22990ec1",
     "releaseDate": "2022-12-05",
+    "tags": [
+      "pop"
+    ],
     "title": "дуже тепла пісня",
     "totalTracks": 1,
     "type": "single",
@@ -250,6 +293,9 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f250e7a71dc8094d4049544a",
     "releaseDate": "2022-08-15",
+    "tags": [
+      "pop"
+    ],
     "title": "Люди як кораблі",
     "totalTracks": 2,
     "type": "single",
@@ -269,6 +315,11 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273974d40ed5361b25ceb8bd2f7",
     "releaseDate": "2022-08-12",
+    "tags": [
+      "pop",
+      "Drum and bass",
+      "dubstep"
+    ],
     "title": "Не бiйся (Tapolsky Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -287,6 +338,9 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f73ee1da181452b369310411",
     "releaseDate": "2022-07-25",
+    "tags": [
+      "pop"
+    ],
     "title": "Не бійся",
     "totalTracks": 1,
     "type": "single",
@@ -305,6 +359,9 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273953cb24314aa29d38f40ac39",
     "releaseDate": "2022-05-10",
+    "tags": [
+      "pop"
+    ],
     "title": "Тримайся",
     "totalTracks": 1,
     "type": "single",
@@ -323,6 +380,9 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ded1d67fc209853cf0973d82",
     "releaseDate": "2022-04-05",
+    "tags": [
+      "pop"
+    ],
     "title": "І СіЮ / I See You",
     "totalTracks": 1,
     "type": "single",
@@ -341,6 +401,9 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bce75e4527c62bdf32912fd0",
     "releaseDate": "2022-03-31",
+    "tags": [
+      "pop"
+    ],
     "title": "I'm Gone",
     "totalTracks": 1,
     "type": "single",
@@ -359,6 +422,9 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f8c4a80617d61982aa7c478",
     "releaseDate": "2022-01-21",
+    "tags": [
+      "pop"
+    ],
     "title": "Girls",
     "totalTracks": 1,
     "type": "single",
@@ -377,6 +443,9 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734c3786be23a87bcca30a1da0",
     "releaseDate": "2022-01-05",
+    "tags": [
+      "pop"
+    ],
     "title": "Нова радість",
     "totalTracks": 1,
     "type": "single",
@@ -395,6 +464,9 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d86074be6a87f2c276f4a181",
     "releaseDate": "2021-12-24",
+    "tags": [
+      "pop"
+    ],
     "title": "Очима (Christmas Version)",
     "totalTracks": 1,
     "type": "single",
@@ -413,6 +485,9 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731eda9200a60b6d44c8e55d9f",
     "releaseDate": "2021-09-10",
+    "tags": [
+      "pop"
+    ],
     "title": "Говори",
     "totalTracks": 1,
     "type": "single",
@@ -432,6 +507,10 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27312b176f202b0e76aeea209cf",
     "releaseDate": "2021-08-06",
+    "tags": [
+      "pop",
+      "folk"
+    ],
     "title": "Франко",
     "totalTracks": 1,
     "type": "single",
@@ -450,6 +529,9 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731d1cbc0c95f92f57efd0b3bf",
     "releaseDate": "2021-06-25",
+    "tags": [
+      "pop"
+    ],
     "title": "Очима",
     "totalTracks": 1,
     "type": "single",
@@ -468,6 +550,9 @@
     "artistsPopularity": 54,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d9512c352ddd40252959e6d1",
     "releaseDate": "2025-09-09",
+    "tags": [
+      "pop"
+    ],
     "title": "Вічно Танцююча Людина",
     "totalTracks": 32,
     "type": "album",
@@ -486,6 +571,9 @@
     "artistsPopularity": 25,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734bf61adb9c911b699a6bb20c",
     "releaseDate": "2022-07-29",
+    "tags": [
+      "rap"
+    ],
     "title": "Українофікація",
     "totalTracks": 26,
     "type": "album",
@@ -504,6 +592,11 @@
     "artistsPopularity": 19,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273610685d7fb276457b6aaeb5f",
     "releaseDate": "2023-04-19",
+    "tags": [
+      "indie pop",
+      "electropop",
+      "idm"
+    ],
     "title": "Ти є велика сила",
     "totalTracks": 1,
     "type": "single",

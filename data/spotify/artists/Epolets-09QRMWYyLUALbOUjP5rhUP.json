@@ -12,6 +12,9 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bbe32e540ffc60bebb490c05",
     "releaseDate": "2025-05-16",
+    "tags": [
+      "rock"
+    ],
     "title": "Гармонія хаосу",
     "totalTracks": 12,
     "type": "album",
@@ -30,6 +33,9 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d8ca3bb81b8c9e1d1aee6b29",
     "releaseDate": "2017-11-01",
+    "tags": [
+      "rock"
+    ],
     "title": "Діти моря",
     "totalTracks": 9,
     "type": "album",
@@ -48,6 +54,9 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273150a6c3f0d26b80d27f5a107",
     "releaseDate": "2016-12-06",
+    "tags": [
+      "rock"
+    ],
     "title": "Epolets",
     "totalTracks": 14,
     "type": "album",
@@ -66,6 +75,9 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c583d50215dc3d74b560b989",
     "releaseDate": "2016-12-06",
+    "tags": [
+      "rock"
+    ],
     "title": "Dogma",
     "totalTracks": 10,
     "type": "album",
@@ -84,6 +96,9 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27374d527048907fa607ede75c2",
     "releaseDate": "2016-12-06",
+    "tags": [
+      "rock"
+    ],
     "title": "Cult",
     "totalTracks": 12,
     "type": "album",
@@ -102,6 +117,9 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fa363e9c672d2c84e5c1a6cf",
     "releaseDate": "2016-12-06",
+    "tags": [
+      "rock"
+    ],
     "title": "Bravery",
     "totalTracks": 7,
     "type": "album",
@@ -120,6 +138,9 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730f10562ac027e72b043d22d8",
     "releaseDate": "2025-04-10",
+    "tags": [
+      "rock"
+    ],
     "title": "Панічна агресія",
     "totalTracks": 1,
     "type": "single",
@@ -138,6 +159,9 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cc539e7777cb9f7e9eb682dd",
     "releaseDate": "2025-02-28",
+    "tags": [
+      "rock"
+    ],
     "title": "Токсини",
     "totalTracks": 1,
     "type": "single",
@@ -156,6 +180,9 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27386f50aea75938597ed1d4c3f",
     "releaseDate": "2024-07-26",
+    "tags": [
+      "rock"
+    ],
     "title": "Ми не любим правду",
     "totalTracks": 1,
     "type": "single",
@@ -174,6 +201,9 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dec93d00eaf7620141bc1d1b",
     "releaseDate": "2024-03-01",
+    "tags": [
+      "rock"
+    ],
     "title": "темна вода",
     "totalTracks": 6,
     "type": "single",
@@ -193,6 +223,10 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273faa35b1f28361ba12508993e",
     "releaseDate": "2024-03-01",
+    "tags": [
+      "rock",
+      "indie pop"
+    ],
     "title": "плавить",
     "totalTracks": 1,
     "type": "single",
@@ -211,6 +245,9 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735294d6004125e956e624dc5b",
     "releaseDate": "2023-11-24",
+    "tags": [
+      "rock"
+    ],
     "title": "дед інсайд",
     "totalTracks": 2,
     "type": "single",
@@ -229,6 +266,9 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737644d522bb4bdd2cbe133d60",
     "releaseDate": "2023-07-21",
+    "tags": [
+      "rock"
+    ],
     "title": "Газлайт",
     "totalTracks": 1,
     "type": "single",
@@ -247,6 +287,9 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e336f4cb45084dfcb9729c99",
     "releaseDate": "2023-04-28",
+    "tags": [
+      "rock"
+    ],
     "title": "Спали ікони",
     "totalTracks": 1,
     "type": "single",
@@ -266,6 +309,13 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ff2a0fc06c19323ca58692bb",
     "releaseDate": "2023-03-03",
+    "tags": [
+      "rock",
+      "pop",
+      "alternative rock",
+      "pop rock",
+      "indie rock"
+    ],
     "title": "Не мовчи",
     "totalTracks": 1,
     "type": "single",
@@ -285,6 +335,11 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735c5fb34183f3c1bce69e81e0",
     "releaseDate": "2022-10-07",
+    "tags": [
+      "dance-punk",
+      "rock",
+      "punk rock"
+    ],
     "title": "Палай!",
     "totalTracks": 1,
     "type": "single",
@@ -304,6 +359,11 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273674bdb6ea3afedd593e09f1d",
     "releaseDate": "2022-08-19",
+    "tags": [
+      "rock",
+      "alternative",
+      "indie rock"
+    ],
     "title": "Freedom",
     "totalTracks": 1,
     "type": "single",
@@ -322,6 +382,9 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f7e6f7539ef3e13960bf3f4",
     "releaseDate": "2022-05-13",
+    "tags": [
+      "rock"
+    ],
     "title": "Крик",
     "totalTracks": 1,
     "type": "single",
@@ -340,6 +403,9 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273513a3d8c99fe3ec81184e606",
     "releaseDate": "2021-07-23",
+    "tags": [
+      "rock"
+    ],
     "title": "Фрік шоу",
     "totalTracks": 1,
     "type": "single",
@@ -358,6 +424,9 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27347333866fec2b5f35966159a",
     "releaseDate": "2020-08-05",
+    "tags": [
+      "rock"
+    ],
     "title": "Rock Is Dead",
     "totalTracks": 1,
     "type": "single",
@@ -376,6 +445,9 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735064310c11722b56151dd52c",
     "releaseDate": "2020-04-15",
+    "tags": [
+      "rock"
+    ],
     "title": "Правда",
     "totalTracks": 1,
     "type": "single",
@@ -394,6 +466,9 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737745698b6b09783721a8b846",
     "releaseDate": "2020-01-29",
+    "tags": [
+      "rock"
+    ],
     "title": "Пограймо",
     "totalTracks": 1,
     "type": "single",
@@ -412,6 +487,9 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733915ba042a0293ef17761615",
     "releaseDate": "2019-08-07",
+    "tags": [
+      "rock"
+    ],
     "title": "Блищи",
     "totalTracks": 1,
     "type": "single",
@@ -430,6 +508,9 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c8ebe7bb903839b9d43709ef",
     "releaseDate": "2019-03-06",
+    "tags": [
+      "rock"
+    ],
     "title": "Казка",
     "totalTracks": 1,
     "type": "single",
@@ -448,6 +529,9 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bdb37a4b9d4160c7a2425d73",
     "releaseDate": "2017-10-23",
+    "tags": [
+      "rock"
+    ],
     "title": "Діти моря",
     "totalTracks": 1,
     "type": "single",
@@ -466,6 +550,9 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734936c8c784bb24e114f9afd0",
     "releaseDate": "2017-10-18",
+    "tags": [
+      "rock"
+    ],
     "title": "Одна",
     "totalTracks": 1,
     "type": "single",
@@ -484,6 +571,9 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739a270360e2bb98392b577887",
     "releaseDate": "2017-09-01",
+    "tags": [
+      "rock"
+    ],
     "title": "Діти моря",
     "totalTracks": 1,
     "type": "single",
@@ -502,6 +592,9 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f28243e6566821d79cc7c182",
     "releaseDate": "2017-05-19",
+    "tags": [
+      "rock"
+    ],
     "title": "Місто спить",
     "totalTracks": 1,
     "type": "single",
@@ -520,6 +613,9 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27393f91c0adbdc139d6bcd2ebd",
     "releaseDate": "2016-12-06",
+    "tags": [
+      "rock"
+    ],
     "title": "Цвети",
     "totalTracks": 1,
     "type": "single",
@@ -538,6 +634,9 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27322048c900ec02194b66b4a5d",
     "releaseDate": "2016-12-06",
+    "tags": [
+      "rock"
+    ],
     "title": "То Різдво",
     "totalTracks": 1,
     "type": "single",
@@ -556,6 +655,9 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737dc5408f2ed7f482ecf835d1",
     "releaseDate": "2016-12-06",
+    "tags": [
+      "rock"
+    ],
     "title": "Море (Radio Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -574,6 +676,9 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fd8e7ed1258673c658eda83c",
     "releaseDate": "2016-12-06",
+    "tags": [
+      "rock"
+    ],
     "title": "Thank You",
     "totalTracks": 3,
     "type": "single",
@@ -592,6 +697,9 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27300e072a39fbd29c2adcd9a82",
     "releaseDate": "2016-12-06",
+    "tags": [
+      "rock"
+    ],
     "title": "FakeBook",
     "totalTracks": 2,
     "type": "single",
@@ -610,6 +718,9 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735020e957a675f5769f51536e",
     "releaseDate": "2016-11-30",
+    "tags": [
+      "rock"
+    ],
     "title": "Я хочу бути з тобою",
     "totalTracks": 1,
     "type": "single",
@@ -628,6 +739,10 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734f493eb0dcf548edd2a4d84e",
     "releaseDate": "2018-11-30",
+    "tags": [
+      "rapcore",
+      "alternative"
+    ],
     "title": "АнТАРТАКтида. Частина перша",
     "totalTracks": 12,
     "type": "album",

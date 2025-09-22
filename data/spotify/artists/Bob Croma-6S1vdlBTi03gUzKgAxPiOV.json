@@ -13,6 +13,10 @@
     "artistsPopularity": 19,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27343e4aa6a309e73e161bf3a5c",
     "releaseDate": "2023-04-01",
+    "tags": [
+      "Hip-Hop",
+      "underground hip-hop"
+    ],
     "title": "ВІТЕР",
     "totalTracks": 10,
     "type": "album",
@@ -33,6 +37,9 @@
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736d638d69bbeb3ef5208792eb",
     "releaseDate": "2025-03-10",
+    "tags": [
+      "rap"
+    ],
     "title": "Поруч",
     "totalTracks": 1,
     "type": "single",
@@ -53,6 +60,9 @@
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731a93508957861e5ff618717e",
     "releaseDate": "2025-02-09",
+    "tags": [
+      "rap"
+    ],
     "title": "Gold Diggers",
     "totalTracks": 1,
     "type": "single",
@@ -73,6 +83,9 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273125d71c2300a64686eab0ea1",
     "releaseDate": "2024-04-25",
+    "tags": [
+      "rap"
+    ],
     "title": "The Hate",
     "totalTracks": 1,
     "type": "single",

@@ -12,6 +12,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734e560376645bc92599c4a856",
     "releaseDate": "2024-12-24",
+    "tags": [
+      "folk"
+    ],
     "title": "Різдвяник",
     "totalTracks": 12,
     "type": "album",
@@ -30,6 +33,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27315af867d789bd8f2cb8b0153",
     "releaseDate": "2023-12-05",
+    "tags": [
+      "folk"
+    ],
     "title": "KALYNA",
     "totalTracks": 7,
     "type": "album",
@@ -48,6 +54,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732bebe7361c32e1014ca6b3b1",
     "releaseDate": "2023-01-02",
+    "tags": [
+      "folk"
+    ],
     "title": "Live in UA",
     "totalTracks": 15,
     "type": "album",
@@ -66,6 +75,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27318698cdeb3e159dc8baa7017",
     "releaseDate": "2020-04-21",
+    "tags": [
+      "folk"
+    ],
     "title": "Power",
     "totalTracks": 8,
     "type": "album",
@@ -84,6 +96,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27323774e2c1c3c24ffdbdb4ea5",
     "releaseDate": "2018",
+    "tags": [
+      "folk"
+    ],
     "title": "Сила (Live)",
     "totalTracks": 12,
     "type": "album",
@@ -102,6 +117,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27334e7b29010aa05027bdecd47",
     "releaseDate": "2016-12-06",
+    "tags": [
+      "folk"
+    ],
     "title": "Я Жива",
     "totalTracks": 8,
     "type": "album",
@@ -121,6 +139,11 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d7d7580c0e3f37d3e6be682b",
     "releaseDate": "2014-06-01",
+    "tags": [
+      "electro",
+      "folk",
+      "minimal techno"
+    ],
     "title": "Подих",
     "totalTracks": 11,
     "type": "album",
@@ -139,6 +162,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c419005844f01457bc7931ca",
     "releaseDate": "2013-12-17",
+    "tags": [
+      "folk"
+    ],
     "title": "13 місяців",
     "totalTracks": 13,
     "type": "album",
@@ -157,6 +183,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736215520c7b9b43c6a20ca20b",
     "releaseDate": "2011",
+    "tags": [
+      "folk"
+    ],
     "title": "Вільна",
     "totalTracks": 18,
     "type": "album",
@@ -175,6 +204,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27346a894c9e696c9d0bc7fba4e",
     "releaseDate": "2024-12-23",
+    "tags": [
+      "folk"
+    ],
     "title": "Щедрик",
     "totalTracks": 1,
     "type": "single",
@@ -193,6 +225,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b0db63ced76dd1f28b88ee4d",
     "releaseDate": "2024-12-23",
+    "tags": [
+      "folk"
+    ],
     "title": "Хороша жона",
     "totalTracks": 1,
     "type": "single",
@@ -211,6 +246,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730998bd0bec9d6cd7d6bb9a13",
     "releaseDate": "2024-12-23",
+    "tags": [
+      "folk"
+    ],
     "title": "Маланка",
     "totalTracks": 1,
     "type": "single",
@@ -229,6 +267,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c26a82505e3c58076823bc91",
     "releaseDate": "2024-12-23",
+    "tags": [
+      "folk"
+    ],
     "title": "Василева мати",
     "totalTracks": 1,
     "type": "single",
@@ -247,6 +288,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273adc589717ef0f954e92cb6e7",
     "releaseDate": "2024-12-04",
+    "tags": [
+      "folk"
+    ],
     "title": "Миколаю",
     "totalTracks": 1,
     "type": "single",
@@ -265,6 +309,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cae149a39aff9f675585ccfa",
     "releaseDate": "2024-02-13",
+    "tags": [
+      "folk"
+    ],
     "title": "У маленьких очах",
     "totalTracks": 1,
     "type": "single",
@@ -283,6 +330,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c80af5a9ce48e1faf73ac609",
     "releaseDate": "2023-12-30",
+    "tags": [
+      "folk"
+    ],
     "title": "Тиха ніч",
     "totalTracks": 1,
     "type": "single",
@@ -301,6 +351,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27300f20b821e1b99cd828a950e",
     "releaseDate": "2023-12-22",
+    "tags": [
+      "folk"
+    ],
     "title": "Silent Night",
     "totalTracks": 1,
     "type": "single",
@@ -319,6 +372,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733a7faa91b443b351850848ac",
     "releaseDate": "2023-12-13",
+    "tags": [
+      "folk"
+    ],
     "title": "При долині",
     "totalTracks": 1,
     "type": "single",
@@ -338,6 +394,13 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273708240be9963fb5615719af3",
     "releaseDate": "2023-09-21",
+    "tags": [
+      "folk",
+      "jazz",
+      "swing",
+      "instrumental",
+      "Smooth Jazz"
+    ],
     "title": "Сила (ZAEC Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -356,6 +419,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a2f02d2235abe1beaccdd7ff",
     "releaseDate": "2023-08-23",
+    "tags": [
+      "folk"
+    ],
     "title": "Червона калина",
     "totalTracks": 1,
     "type": "single",
@@ -374,6 +440,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b7cdd136833d5d77c5288768",
     "releaseDate": "2023-04-18",
+    "tags": [
+      "folk"
+    ],
     "title": "Не вдома",
     "totalTracks": 1,
     "type": "single",
@@ -392,6 +461,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d644a8832ed754e27f482a8d",
     "releaseDate": "2023-01-06",
+    "tags": [
+      "folk"
+    ],
     "title": "Ясна красна",
     "totalTracks": 1,
     "type": "single",
@@ -410,6 +482,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c5214b519199f3648c487ccd",
     "releaseDate": "2022-03-06",
+    "tags": [
+      "folk"
+    ],
     "title": "Вільний вітер",
     "totalTracks": 1,
     "type": "single",
@@ -428,6 +503,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c66c1597cbf42a000faa6fd7",
     "releaseDate": "2021-01-05",
+    "tags": [
+      "folk"
+    ],
     "title": "Зимовий сад (Acoustic)",
     "totalTracks": 5,
     "type": "single",
@@ -446,6 +524,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732920e3166e33e52ef31eff62",
     "releaseDate": "2020-12-05",
+    "tags": [
+      "folk"
+    ],
     "title": "Ясмин",
     "totalTracks": 1,
     "type": "single",
@@ -464,6 +545,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273105af1639e0c166a906575eb",
     "releaseDate": "2020-04-10",
+    "tags": [
+      "folk"
+    ],
     "title": "Never Let Go",
     "totalTracks": 1,
     "type": "single",
@@ -482,6 +566,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b5bf45f5d7055f0f30316b07",
     "releaseDate": "2019-11-27",
+    "tags": [
+      "folk"
+    ],
     "title": "Називай мене своєю квіткою",
     "totalTracks": 1,
     "type": "single",
@@ -500,6 +587,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e6f0b90c58e34b3707f49c00",
     "releaseDate": "2018-12-06",
+    "tags": [
+      "folk"
+    ],
     "title": "Нічого не бійся",
     "totalTracks": 1,
     "type": "single",
@@ -518,6 +608,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27312b85db6b093f64177c6ebf4",
     "releaseDate": "2018-06-12",
+    "tags": [
+      "folk"
+    ],
     "title": "Сила",
     "totalTracks": 1,
     "type": "single",
@@ -536,6 +629,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27329be03305f2761486de75c1c",
     "releaseDate": "2018-02-08",
+    "tags": [
+      "folk"
+    ],
     "title": "Сила (Ukrainian/English Version)",
     "totalTracks": 1,
     "type": "single",
@@ -554,6 +650,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739505f4f61b9a2fc17a5b404e",
     "releaseDate": "2017-12-18",
+    "tags": [
+      "folk"
+    ],
     "title": "Світ належить мені",
     "totalTracks": 1,
     "type": "single",
@@ -572,6 +671,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732e88152bbcbc6264f19e35d1",
     "releaseDate": "2017-02-04",
+    "tags": [
+      "folk"
+    ],
     "title": "Thank You for My Way",
     "totalTracks": 1,
     "type": "single",
@@ -590,6 +692,7 @@
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f94381acb553ebbab9fdf2b7",
     "releaseDate": "2023-01-05",
+    "tags": [],
     "title": "Щедрі пісні з рідного дому",
     "totalTracks": 14,
     "type": "album",
