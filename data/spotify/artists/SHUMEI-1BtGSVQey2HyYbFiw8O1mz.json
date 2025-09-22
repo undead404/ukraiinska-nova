@@ -12,6 +12,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ff8fb83a146159d14441afb8",
     "releaseDate": "2023-12-20",
+    "tags": [
+      "pop"
+    ],
     "title": "Комета",
     "totalTracks": 8,
     "type": "album",
@@ -30,6 +33,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27347d3b6ddc5aefd4abbaed2a1",
     "releaseDate": "2025-05-30",
+    "tags": [
+      "pop"
+    ],
     "title": "Гуде вітер (із к/ф \"Малевич\")",
     "totalTracks": 1,
     "type": "single",
@@ -48,6 +54,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273df98aa5c64367a936395b7a0",
     "releaseDate": "2025-03-28",
+    "tags": [
+      "pop"
+    ],
     "title": "Цілуй",
     "totalTracks": 1,
     "type": "single",
@@ -67,6 +76,9 @@
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a0bd4e1908a1364f86685595",
     "releaseDate": "2024-10-25",
+    "tags": [
+      "pop"
+    ],
     "title": "Не пройде",
     "totalTracks": 1,
     "type": "single",
@@ -86,6 +98,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733057a2edd2130adbf446faa7",
     "releaseDate": "2024-07-04",
+    "tags": [
+      "pop"
+    ],
     "title": "Дзвони",
     "totalTracks": 1,
     "type": "single",
@@ -105,6 +120,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fd27ea23323f1a8d49c1bbc6",
     "releaseDate": "2024-05-16",
+    "tags": [
+      "pop"
+    ],
     "title": "У долі своя весна \"Дім Звукозапису\"",
     "totalTracks": 1,
     "type": "single",
@@ -124,6 +142,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27356f90076279388c66e0d0120",
     "releaseDate": "2024-04-12",
+    "tags": [
+      "pop"
+    ],
     "title": "Стерва",
     "totalTracks": 1,
     "type": "single",
@@ -143,6 +164,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d482f51c83ac1a9bfc88695b",
     "releaseDate": "2024-03-08",
+    "tags": [
+      "pop"
+    ],
     "title": "Комета (Forlen Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -161,6 +185,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27315906f09115d06d90bb920f7",
     "releaseDate": "2023-10-02",
+    "tags": [
+      "pop"
+    ],
     "title": "Волосся",
     "totalTracks": 1,
     "type": "single",
@@ -179,6 +206,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27324322b473b93d9e875f89dbf",
     "releaseDate": "2023-09-08",
+    "tags": [
+      "pop"
+    ],
     "title": "Вище хмар",
     "totalTracks": 1,
     "type": "single",
@@ -199,6 +229,10 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27398d547bede6f995c6e6290c9",
     "releaseDate": "2023-08-11",
+    "tags": [
+      "pop",
+      "Eurovision"
+    ],
     "title": "Буревіями (Forlen Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -218,6 +252,10 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273abaa01e8b144a02060f1873e",
     "releaseDate": "2023-04-17",
+    "tags": [
+      "pop",
+      "Eurovision"
+    ],
     "title": "Буревіями",
     "totalTracks": 1,
     "type": "single",
@@ -236,6 +274,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c1b37fde3659a8c69bbedbec",
     "releaseDate": "2023-03-30",
+    "tags": [
+      "pop"
+    ],
     "title": "Капають",
     "totalTracks": 1,
     "type": "single",
@@ -254,6 +295,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b8cb8a168e6ba4756b0de0a4",
     "releaseDate": "2022-11-14",
+    "tags": [
+      "pop"
+    ],
     "title": "Мальви",
     "totalTracks": 1,
     "type": "single",
@@ -273,6 +317,10 @@
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b773cfe1a8f2c8b20c06cf53",
     "releaseDate": "2022-10-21",
+    "tags": [
+      "folk",
+      "pop"
+    ],
     "title": "Ой на горі (Acoustic Version)",
     "totalTracks": 1,
     "type": "single",
@@ -291,6 +339,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c70001ebdb21658e74904b26",
     "releaseDate": "2022-08-06",
+    "tags": [
+      "pop"
+    ],
     "title": "Online",
     "totalTracks": 1,
     "type": "single",
@@ -309,6 +360,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733e6a62df0b50834017c08b09",
     "releaseDate": "2022-06-23",
+    "tags": [
+      "pop"
+    ],
     "title": "Пробач",
     "totalTracks": 1,
     "type": "single",
@@ -327,6 +381,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273895fad7bd3dae7c1525e8096",
     "releaseDate": "2022-03-29",
+    "tags": [
+      "pop"
+    ],
     "title": "Біля тополі",
     "totalTracks": 1,
     "type": "single",
@@ -345,6 +402,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273331659a93620f9fa442ff4e3",
     "releaseDate": "2022-03-17",
+    "tags": [
+      "pop"
+    ],
     "title": "Тривога",
     "totalTracks": 1,
     "type": "single",
@@ -363,6 +423,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c30dac0d6323a2817ac31962",
     "releaseDate": "2022-02-18",
+    "tags": [
+      "pop"
+    ],
     "title": "Вона була така (Acoustic Version)",
     "totalTracks": 1,
     "type": "single",
@@ -381,6 +444,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ace1e37efc6a953c468c080d",
     "releaseDate": "2024-09-19",
+    "tags": [
+      "pop"
+    ],
     "title": "Лірика",
     "totalTracks": 8,
     "type": "album",
@@ -399,6 +465,10 @@
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739013a25e1a64e1c4f729d166",
     "releaseDate": "2023-03-10",
+    "tags": [
+      "folk",
+      "pop"
+    ],
     "title": "Твої Вірші, Мої Ноти PT.1",
     "totalTracks": 17,
     "type": "album",
@@ -417,6 +487,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273070741e43be5f6bcea88f0d7",
     "releaseDate": "2024-08-09",
+    "tags": [
+      "rock"
+    ],
     "title": "Той день (OE30 edition)",
     "totalTracks": 1,
     "type": "single",
@@ -435,6 +508,9 @@
     "artistsPopularity": 45,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ed8ab486960e1bc862790bcf",
     "releaseDate": "2025-02-28",
+    "tags": [
+      "Eurovision"
+    ],
     "title": "THE BEST",
     "totalTracks": 13,
     "type": "album",
@@ -453,6 +529,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732aee518232043a7579e45ff4",
     "releaseDate": "2024-04-12",
+    "tags": [
+      "pop"
+    ],
     "title": "ТРОЯНДИ",
     "totalTracks": 11,
     "type": "album",
@@ -471,6 +550,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27383c0a0476a124d366e557134",
     "releaseDate": "2025-02-17",
+    "tags": [
+      "pop"
+    ],
     "title": "Лірика (Лірика LIVE SHOW)",
     "totalTracks": 20,
     "type": "album",
@@ -490,6 +572,7 @@
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e2a45ddbd22a6a5c8d369bf8",
     "releaseDate": "2023-12-29",
+    "tags": [],
     "title": "Сміливість (Orchestra)",
     "totalTracks": 12,
     "type": "album",
@@ -509,6 +592,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a8220310c7d8c5b17a8066d3",
     "releaseDate": "2025-09-19",
+    "tags": [
+      "pop"
+    ],
     "title": "Там, де немає людей",
     "totalTracks": 1,
     "type": "single",

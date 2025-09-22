@@ -13,6 +13,9 @@
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b6b8a9cbd1eaa12bc57f07d5",
     "releaseDate": "2024-01-31",
+    "tags": [
+      "Hip-Hop"
+    ],
     "title": "Ой, там у лузі",
     "totalTracks": 1,
     "type": "single",
@@ -31,6 +34,9 @@
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27378b9bdee7ce694dc1968ea58",
     "releaseDate": "2005-11-22",
+    "tags": [
+      "Hip-Hop"
+    ],
     "title": "“Razom Nas Bagato - Nas Ne Podolaty”",
     "totalTracks": 6,
     "type": "single",
@@ -51,6 +57,12 @@
     "artistsPopularity": 48,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733ab44aaf156b75cbcb62f23c",
     "releaseDate": "2008-01-01",
+    "tags": [
+      "rap",
+      "trip-hop",
+      "trip hop",
+      "Hip-Hop"
+    ],
     "title": "P-Ń X",
     "totalTracks": 34,
     "type": "album",
@@ -69,6 +81,7 @@
     "artistsPopularity": 31,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cf8271b84e2a6b0321c1aacc",
     "releaseDate": "2022-10-26",
+    "tags": [],
     "title": "Засинає Чорний Ліс",
     "totalTracks": 1,
     "type": "single",

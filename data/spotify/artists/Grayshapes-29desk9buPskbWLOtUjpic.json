@@ -12,6 +12,9 @@
     "artistsPopularity": 21,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f858d8a2d5dbab07f3864652",
     "releaseDate": "2025-05-16",
+    "tags": [
+      "metalcore"
+    ],
     "title": "Де Поховані Спогади",
     "totalTracks": 8,
     "type": "album",
@@ -30,6 +33,9 @@
     "artistsPopularity": 21,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dea34278eb2ad373a6ab483d",
     "releaseDate": "2021-11-03",
+    "tags": [
+      "metalcore"
+    ],
     "title": "Lost at Sea",
     "totalTracks": 7,
     "type": "album",
@@ -48,6 +54,9 @@
     "artistsPopularity": 21,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736c8a8e49ad92c6fb968f15d4",
     "releaseDate": "2024-09-04",
+    "tags": [
+      "metalcore"
+    ],
     "title": "Завтра (Не) Настане",
     "totalTracks": 1,
     "type": "single",
@@ -66,6 +75,9 @@
     "artistsPopularity": 21,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731d5d4564ae9633c173608188",
     "releaseDate": "2024-05-01",
+    "tags": [
+      "metalcore"
+    ],
     "title": "Початок Кінця",
     "totalTracks": 5,
     "type": "single",
@@ -85,6 +97,10 @@
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d636e7c3f00c505d9f8e64c6",
     "releaseDate": "2023-12-08",
+    "tags": [
+      "metalcore",
+      "hardcore"
+    ],
     "title": "Білий Шум",
     "totalTracks": 1,
     "type": "single",
@@ -103,6 +119,9 @@
     "artistsPopularity": 21,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733242a890256c41a28f5f39d1",
     "releaseDate": "2023-10-05",
+    "tags": [
+      "metalcore"
+    ],
     "title": "Тінь",
     "totalTracks": 1,
     "type": "single",
@@ -123,6 +142,10 @@
     "artistsPopularity": 32,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738d953c5bde831600019d5c06",
     "releaseDate": "2023-06-28",
+    "tags": [
+      "metalcore",
+      "metal"
+    ],
     "title": "Terror",
     "totalTracks": 1,
     "type": "single",
@@ -142,6 +165,10 @@
     "artistsPopularity": 22,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b98fdce090667bc30801d10e",
     "releaseDate": "2022-11-30",
+    "tags": [
+      "metalcore",
+      "hardcore"
+    ],
     "title": "Bonebreaker",
     "totalTracks": 1,
     "type": "single",
@@ -160,6 +187,9 @@
     "artistsPopularity": 21,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730f5108eb4726ff26255aaf2e",
     "releaseDate": "2020-10-05",
+    "tags": [
+      "metalcore"
+    ],
     "title": "Highschool",
     "totalTracks": 1,
     "type": "single",
@@ -178,6 +208,9 @@
     "artistsPopularity": 21,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730b3f7abe81693a1770152823",
     "releaseDate": "2020-08-22",
+    "tags": [
+      "metalcore"
+    ],
     "title": "Safe Place",
     "totalTracks": 5,
     "type": "single",

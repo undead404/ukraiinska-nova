@@ -14,6 +14,10 @@
     "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273181ec7e5cf3e9e0183ccad0b",
     "releaseDate": "2025-06-20",
+    "tags": [
+      "pop",
+      "indie pop"
+    ],
     "title": "це місто",
     "totalTracks": 1,
     "type": "single",
@@ -32,6 +36,10 @@
     "artistsPopularity": 26,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734df6833c8669555ff4384745",
     "releaseDate": "2024-12-20",
+    "tags": [
+      "pop",
+      "indie pop"
+    ],
     "title": "МЕТЕЛИКИ",
     "totalTracks": 1,
     "type": "single",
@@ -51,6 +59,10 @@
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273525cd571c097277a9f2ab4df",
     "releaseDate": "2024-10-16",
+    "tags": [
+      "pop",
+      "indie pop"
+    ],
     "title": "Мені так треба",
     "totalTracks": 1,
     "type": "single",
@@ -69,6 +81,10 @@
     "artistsPopularity": 26,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ef239d56c413973235c9dffe",
     "releaseDate": "2024-09-18",
+    "tags": [
+      "pop",
+      "indie pop"
+    ],
     "title": "шипи троянди",
     "totalTracks": 1,
     "type": "single",
@@ -87,6 +103,10 @@
     "artistsPopularity": 26,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737be40ce9db7c4ccb7545bffd",
     "releaseDate": "2024-08-16",
+    "tags": [
+      "pop",
+      "indie pop"
+    ],
     "title": "геть зі сцени",
     "totalTracks": 1,
     "type": "single",
@@ -105,6 +125,10 @@
     "artistsPopularity": 26,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738f629b0391508c637e395d62",
     "releaseDate": "2024-06-06",
+    "tags": [
+      "pop",
+      "indie pop"
+    ],
     "title": "забуття",
     "totalTracks": 1,
     "type": "single",
@@ -123,6 +147,10 @@
     "artistsPopularity": 26,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27368cc17178ae590dee867915c",
     "releaseDate": "2024-02-22",
+    "tags": [
+      "pop",
+      "indie pop"
+    ],
     "title": "Перша",
     "totalTracks": 4,
     "type": "single",
@@ -141,6 +169,10 @@
     "artistsPopularity": 26,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273987147919963dd834b51585f",
     "releaseDate": "2022",
+    "tags": [
+      "pop",
+      "indie pop"
+    ],
     "title": "WITH U",
     "totalTracks": 1,
     "type": "single",
@@ -159,6 +191,9 @@
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cce8d290390bf534f85360f0",
     "releaseDate": "2025-07-17",
+    "tags": [
+      "indie pop"
+    ],
     "title": "PSEUDONYM",
     "totalTracks": 6,
     "type": "single",
@@ -177,6 +212,7 @@
     "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a4b0ddb2bb541ae1135d6e3b",
     "releaseDate": "2025-06-20",
+    "tags": [],
     "title": "За її лаштунками, Vol.2",
     "totalTracks": 5,
     "type": "single",

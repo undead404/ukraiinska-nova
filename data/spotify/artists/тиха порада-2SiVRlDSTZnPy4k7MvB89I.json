@@ -12,6 +12,11 @@
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27304fa9f671a6979ec1e2be76d",
     "releaseDate": "2024-11-02",
+    "tags": [
+      "metal",
+      "emo",
+      "post hardcore"
+    ],
     "title": "Підсвідомість (Remaster)",
     "totalTracks": 9,
     "type": "album",
@@ -30,6 +35,11 @@
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f4e2d8ca4a0b19133a773e51",
     "releaseDate": "2024-03-29",
+    "tags": [
+      "metal",
+      "emo",
+      "post hardcore"
+    ],
     "title": "Підсвідомість",
     "totalTracks": 8,
     "type": "album",
@@ -48,6 +58,11 @@
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27340cb4cfc58097ef248705134",
     "releaseDate": "2023-10-27",
+    "tags": [
+      "metal",
+      "emo",
+      "post hardcore"
+    ],
     "title": "драма",
     "totalTracks": 1,
     "type": "single",
@@ -66,6 +81,11 @@
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27357848c729582b526cad0b184",
     "releaseDate": "2023-07-06",
+    "tags": [
+      "metal",
+      "emo",
+      "post hardcore"
+    ],
     "title": "re-Liar",
     "totalTracks": 1,
     "type": "single",
@@ -84,6 +104,11 @@
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734a1c59e0b63de500be3a93ba",
     "releaseDate": "2023-05-10",
+    "tags": [
+      "metal",
+      "emo",
+      "post hardcore"
+    ],
     "title": "Повний спектр почуттів (Додаткове видання)",
     "totalTracks": 5,
     "type": "single",
@@ -102,6 +127,11 @@
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e85faa5d141e4075d497ed65",
     "releaseDate": "2022-11-23",
+    "tags": [
+      "metal",
+      "emo",
+      "post hardcore"
+    ],
     "title": "Повний спектр почуттів",
     "totalTracks": 5,
     "type": "single",
@@ -120,6 +150,11 @@
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aece48dbf838fcbfa8fd3889",
     "releaseDate": "2022-07-15",
+    "tags": [
+      "metal",
+      "emo",
+      "post hardcore"
+    ],
     "title": "Липень",
     "totalTracks": 1,
     "type": "single",
@@ -138,6 +173,10 @@
     "artistsPopularity": 9,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731c83b617735ad0a71fb28e42",
     "releaseDate": "2024-10-18",
+    "tags": [
+      "metal",
+      "metalcore"
+    ],
     "title": "І я тону",
     "totalTracks": 4,
     "type": "single",

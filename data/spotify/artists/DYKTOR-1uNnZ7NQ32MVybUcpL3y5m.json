@@ -12,6 +12,7 @@
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27313a23ecbc4650181a2b009fb",
     "releaseDate": "2024-10-25",
+    "tags": [],
     "title": "DYKTOR",
     "totalTracks": 7,
     "type": "album",
@@ -31,6 +32,10 @@
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739f240518f00ecf9c18dccb68",
     "releaseDate": "2021-09-17",
+    "tags": [
+      "hip hop",
+      "rap"
+    ],
     "title": "MONPACIE",
     "totalTracks": 10,
     "type": "album",
@@ -49,6 +54,7 @@
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730d19e52d312aec4579e71e74",
     "releaseDate": "2024-12-31",
+    "tags": [],
     "title": "Емпати",
     "totalTracks": 1,
     "type": "single",
@@ -67,6 +73,7 @@
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fce80480b3c5c3b21e1205ad",
     "releaseDate": "2021-05-07",
+    "tags": [],
     "title": "Голос",
     "totalTracks": 1,
     "type": "single",
@@ -85,6 +92,7 @@
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27319d3b2dfd4850611eabd32d7",
     "releaseDate": "2021-03-05",
+    "tags": [],
     "title": "Віхола",
     "totalTracks": 1,
     "type": "single",
@@ -103,6 +111,7 @@
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27331784da7eac2bdfe14171083",
     "releaseDate": "2020-12-17",
+    "tags": [],
     "title": "Так мало",
     "totalTracks": 1,
     "type": "single",
@@ -121,6 +130,7 @@
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27348d11509c4da692cb2d4680a",
     "releaseDate": "2020-11-25",
+    "tags": [],
     "title": "4ас",
     "totalTracks": 1,
     "type": "single",
@@ -139,6 +149,7 @@
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273826b6522585e9bacee612806",
     "releaseDate": "2020-08-03",
+    "tags": [],
     "title": "Самопал",
     "totalTracks": 1,
     "type": "single",
@@ -157,6 +168,9 @@
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273179703cabd456bf61e9edb44",
     "releaseDate": "2021-02-19",
+    "tags": [
+      "rap"
+    ],
     "title": "HOTIN",
     "totalTracks": 14,
     "type": "album",
@@ -175,6 +189,10 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27307ac17012afe023b60b464d0",
     "releaseDate": "2021-04-16",
+    "tags": [
+      "rap",
+      "Hip-Hop"
+    ],
     "title": "Galas",
     "totalTracks": 16,
     "type": "album",
@@ -193,6 +211,9 @@
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aee354f2d9825762c72f977f",
     "releaseDate": "2021-04-27",
+    "tags": [
+      "abstract hip-hop"
+    ],
     "title": "2",
     "totalTracks": 11,
     "type": "album",
@@ -211,6 +232,10 @@
     "artistsPopularity": 18,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734e4ba5d89ef0ab5ba76c212f",
     "releaseDate": "2023-05-12",
+    "tags": [
+      "hardcore rap",
+      "underground rap"
+    ],
     "title": "Хмелі-сунелі",
     "totalTracks": 14,
     "type": "album",
@@ -230,6 +255,10 @@
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731c345e602cd24b7f151f37d5",
     "releaseDate": "2020-08-02",
+    "tags": [
+      "rap",
+      "Hip-Hop"
+    ],
     "title": "Стержень (Own Core)",
     "totalTracks": 1,
     "type": "single",

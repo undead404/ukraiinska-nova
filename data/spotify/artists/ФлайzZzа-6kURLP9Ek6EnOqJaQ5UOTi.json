@@ -12,6 +12,9 @@
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730f933b15c49b9d57ff2d887d",
     "releaseDate": "2024-10-30",
+    "tags": [
+      "reggae"
+    ],
     "title": "Шикардос (Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -30,6 +33,9 @@
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d9d61f2a63859f741bd21c19",
     "releaseDate": "2024-10-30",
+    "tags": [
+      "reggae"
+    ],
     "title": "Вогнем і мечем (Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -48,6 +54,10 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dddc7feb190f526143f515b0",
     "releaseDate": "2003-07-07",
+    "tags": [
+      "rapcore",
+      "alternative"
+    ],
     "title": "Система нервів",
     "totalTracks": 17,
     "type": "album",
