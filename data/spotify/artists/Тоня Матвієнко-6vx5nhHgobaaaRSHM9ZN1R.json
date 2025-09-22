@@ -12,6 +12,11 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738e0eceb0750c924a1aff0b07",
     "releaseDate": "2016-04-20",
+    "tags": [
+      "folk",
+      "pop",
+      "ua"
+    ],
     "title": "ANTONINA",
     "totalTracks": 12,
     "type": "album",
@@ -30,6 +35,11 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273db3155ba9662559a5e9c1f73",
     "releaseDate": "2015-03-13",
+    "tags": [
+      "folk",
+      "pop",
+      "ua"
+    ],
     "title": "Сміються, плачуть солов'ї (Studio Live)",
     "totalTracks": 12,
     "type": "album",
@@ -48,6 +58,11 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab85a32ab20291fbbc50da89",
     "releaseDate": "2025-08-08",
+    "tags": [
+      "folk",
+      "pop",
+      "ua"
+    ],
     "title": "Блискавка",
     "totalTracks": 1,
     "type": "single",
@@ -67,6 +82,13 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273364365e6073c2a4a052eecd8",
     "releaseDate": "2025-05-30",
+    "tags": [
+      "folk",
+      "pop",
+      "trance",
+      "ua",
+      "progressive trance"
+    ],
     "title": "Кульбаби (The Madison Remix)",
     "totalTracks": 2,
     "type": "single",
@@ -86,6 +108,15 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737d469ba2220027a5b7f67fdb",
     "releaseDate": "2025-05-23",
+    "tags": [
+      "folk",
+      "pop",
+      "jazz",
+      "swing",
+      "ua",
+      "instrumental",
+      "Smooth Jazz"
+    ],
     "title": "Така як є (Zaec Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -104,6 +135,11 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a28e5c53290cce4486ad318e",
     "releaseDate": "2025-02-21",
+    "tags": [
+      "folk",
+      "pop",
+      "ua"
+    ],
     "title": "Ліхтарики",
     "totalTracks": 1,
     "type": "single",
@@ -123,6 +159,11 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a6b6367fb456b28625beaa9b",
     "releaseDate": "2025-01-31",
+    "tags": [
+      "folk",
+      "pop",
+      "ua"
+    ],
     "title": "Кульбаби (The Faino Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -143,6 +184,11 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737601dec892be1afb28c221d5",
     "releaseDate": "2024-12-06",
+    "tags": [
+      "pop",
+      "folk",
+      "ua"
+    ],
     "title": "СІВ СУС ВЕЧЕРЯТИ",
     "totalTracks": 1,
     "type": "single",
@@ -161,6 +207,11 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27366ffacdb4a1116bcc783baa1",
     "releaseDate": "2024-11-01",
+    "tags": [
+      "folk",
+      "pop",
+      "ua"
+    ],
     "title": "Така як є",
     "totalTracks": 1,
     "type": "single",
@@ -179,6 +230,11 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273789640687dedbfb0cc3b0912",
     "releaseDate": "2024-09-27",
+    "tags": [
+      "folk",
+      "pop",
+      "ua"
+    ],
     "title": "Чарівна скрипка",
     "totalTracks": 1,
     "type": "single",
@@ -197,6 +253,11 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e84185a5ae036cf06e8e5c0d",
     "releaseDate": "2024-09-27",
+    "tags": [
+      "folk",
+      "pop",
+      "ua"
+    ],
     "title": "Ой, летіли дикі гуси",
     "totalTracks": 1,
     "type": "single",
@@ -215,6 +276,11 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f2a1f0f10ba4f5afc864f720",
     "releaseDate": "2024-05-10",
+    "tags": [
+      "folk",
+      "pop",
+      "ua"
+    ],
     "title": "Друг",
     "totalTracks": 1,
     "type": "single",
@@ -233,6 +299,11 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27345d8bb859176b68a807485b6",
     "releaseDate": "2024-03-01",
+    "tags": [
+      "folk",
+      "pop",
+      "ua"
+    ],
     "title": "Ти це я",
     "totalTracks": 1,
     "type": "single",
@@ -253,6 +324,12 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736aec40229e292c81f2dbbb9c",
     "releaseDate": "2023-12-29",
+    "tags": [
+      "rock",
+      "folk",
+      "pop",
+      "ua"
+    ],
     "title": "Вогники",
     "totalTracks": 1,
     "type": "single",
@@ -271,6 +348,11 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735207af26d55b5c68c35e1f1c",
     "releaseDate": "2023-12-15",
+    "tags": [
+      "folk",
+      "pop",
+      "ua"
+    ],
     "title": "Роса",
     "totalTracks": 1,
     "type": "single",
@@ -289,6 +371,11 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b3b346beb65f90c2e10429c4",
     "releaseDate": "2023-10-10",
+    "tags": [
+      "folk",
+      "pop",
+      "ua"
+    ],
     "title": "Сік землі",
     "totalTracks": 1,
     "type": "single",
@@ -307,6 +394,11 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731ce0a9c2b8e01c7e8f7e4b3d",
     "releaseDate": "2023-05-19",
+    "tags": [
+      "folk",
+      "pop",
+      "ua"
+    ],
     "title": "Петрівочка",
     "totalTracks": 1,
     "type": "single",
@@ -325,6 +417,11 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ae08bc96b3a25899a1f6302d",
     "releaseDate": "2022-12-09",
+    "tags": [
+      "folk",
+      "pop",
+      "ua"
+    ],
     "title": "Кульбаби",
     "totalTracks": 1,
     "type": "single",
@@ -343,6 +440,11 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737d3738fbb94b34439b481654",
     "releaseDate": "2022-08-12",
+    "tags": [
+      "folk",
+      "pop",
+      "ua"
+    ],
     "title": "Жива вода",
     "totalTracks": 1,
     "type": "single",
@@ -364,6 +466,11 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a1af570a7d11537e45c78425",
     "releaseDate": "2021-08-11",
+    "tags": [
+      "pop",
+      "folk",
+      "ua"
+    ],
     "title": "Я нікому тебе не віддам (Geonozis & Sanchis Rmx)",
     "totalTracks": 1,
     "type": "single",
@@ -383,6 +490,11 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735f682a910862f7cda098150d",
     "releaseDate": "2021-05-21",
+    "tags": [
+      "folk",
+      "pop",
+      "ua"
+    ],
     "title": "Вітер (Alex Caspian Remix)",
     "totalTracks": 2,
     "type": "single",
@@ -402,6 +514,11 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730e29c220ec78fd388194c56f",
     "releaseDate": "2021-03-12",
+    "tags": [
+      "pop",
+      "folk",
+      "ua"
+    ],
     "title": "Я нікому тебе не віддам",
     "totalTracks": 1,
     "type": "single",
@@ -420,6 +537,11 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e5f00f2016faef9a89aad4ec",
     "releaseDate": "2020-11-05",
+    "tags": [
+      "folk",
+      "pop",
+      "ua"
+    ],
     "title": "Вітер",
     "totalTracks": 1,
     "type": "single",
@@ -439,6 +561,12 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f9b3026b6a4755cf66ab078e",
     "releaseDate": "2020-10-08",
+    "tags": [
+      "folk",
+      "pop",
+      "ua",
+      "folk rock"
+    ],
     "title": "Червона Калина (з к/ф \"Червоний\")",
     "totalTracks": 1,
     "type": "single",
@@ -458,6 +586,12 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f936dab9c0151e3f01f87973",
     "releaseDate": "2020-09-11",
+    "tags": [
+      "folk",
+      "pop",
+      "ua",
+      "folk rock"
+    ],
     "title": "Чорними хмарами (З к/ф \"Червоний. Без лінії фронту\")",
     "totalTracks": 1,
     "type": "single",
@@ -476,6 +610,11 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273759a916bebcb8ea043b99c5b",
     "releaseDate": "2020-02-05",
+    "tags": [
+      "folk",
+      "pop",
+      "ua"
+    ],
     "title": "Музико, грай",
     "totalTracks": 1,
     "type": "single",
@@ -494,6 +633,11 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733d9f18e68ed7eb9e9194458e",
     "releaseDate": "2019-10-07",
+    "tags": [
+      "folk",
+      "pop",
+      "ua"
+    ],
     "title": "Не відповідай",
     "totalTracks": 1,
     "type": "single",
@@ -513,6 +657,11 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738987ee4deefc7cdcbcc74efa",
     "releaseDate": "2019-07-24",
+    "tags": [
+      "folk",
+      "pop",
+      "ua"
+    ],
     "title": "Не двоє (Gonivo Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -531,6 +680,11 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736d79eb98fa3758550856faa3",
     "releaseDate": "2019-05-28",
+    "tags": [
+      "folk",
+      "pop",
+      "ua"
+    ],
     "title": "Дитячий сміх",
     "totalTracks": 1,
     "type": "single",
@@ -549,6 +703,11 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730259b3be13b2dda05d7fe42b",
     "releaseDate": "2019-04-17",
+    "tags": [
+      "folk",
+      "pop",
+      "ua"
+    ],
     "title": "Доберман",
     "totalTracks": 1,
     "type": "single",
@@ -567,6 +726,11 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736259aa3bde5ff7796618441f",
     "releaseDate": "2019-02-06",
+    "tags": [
+      "folk",
+      "pop",
+      "ua"
+    ],
     "title": "Не двоє",
     "totalTracks": 1,
     "type": "single",
@@ -585,6 +749,11 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737c25a0d312ef1845e43f0295",
     "releaseDate": "2018-06-08",
+    "tags": [
+      "folk",
+      "pop",
+      "ua"
+    ],
     "title": "Хто я для тебе",
     "totalTracks": 1,
     "type": "single",
@@ -603,6 +772,11 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dfb223795555814c3b01fc81",
     "releaseDate": "2017-10-19",
+    "tags": [
+      "folk",
+      "pop",
+      "ua"
+    ],
     "title": "Душа",
     "totalTracks": 1,
     "type": "single",
@@ -621,6 +795,11 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739b816b4ebdaf7dc0745994e6",
     "releaseDate": "2016-08-16",
+    "tags": [
+      "folk",
+      "pop",
+      "ua"
+    ],
     "title": "А може ти",
     "totalTracks": 1,
     "type": "single",
@@ -639,6 +818,11 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736c7d3e0fc3e6803284919829",
     "releaseDate": "2016-08-15",
+    "tags": [
+      "folk",
+      "pop",
+      "ua"
+    ],
     "title": "Мавка",
     "totalTracks": 1,
     "type": "single",
@@ -657,6 +841,11 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27307a7cc9c7935b8e2b5f78d1d",
     "releaseDate": "2016-08-09",
+    "tags": [
+      "folk",
+      "pop",
+      "ua"
+    ],
     "title": "Мої сни",
     "totalTracks": 1,
     "type": "single",
@@ -675,6 +864,11 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737e4d551cc505afe11595d929",
     "releaseDate": "2016-04-26",
+    "tags": [
+      "folk",
+      "pop",
+      "ua"
+    ],
     "title": "Подаруй любов",
     "totalTracks": 1,
     "type": "single",
@@ -693,6 +887,11 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731ea2b891a50952ef1ba2240d",
     "releaseDate": "2016-01-29",
+    "tags": [
+      "folk",
+      "pop",
+      "ua"
+    ],
     "title": "Tin Whistle",
     "totalTracks": 1,
     "type": "single",
@@ -711,6 +910,11 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27313105eb5c0aeee7044f25d60",
     "releaseDate": "2015-11-20",
+    "tags": [
+      "folk",
+      "pop",
+      "ua"
+    ],
     "title": "Дивна квітка",
     "totalTracks": 1,
     "type": "single",
@@ -729,6 +933,11 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273343ef683f105dbb3ab7b1842",
     "releaseDate": "2015-03-13",
+    "tags": [
+      "folk",
+      "pop",
+      "ua"
+    ],
     "title": "Тобі",
     "totalTracks": 1,
     "type": "single",
@@ -747,6 +956,10 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734f493eb0dcf548edd2a4d84e",
     "releaseDate": "2018-11-30",
+    "tags": [
+      "rapcore",
+      "alternative"
+    ],
     "title": "АнТАРТАКтида. Частина перша",
     "totalTracks": 12,
     "type": "album",
@@ -765,6 +978,7 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c41d08801aaa229a7d200c9b",
     "releaseDate": "2011-11-30",
+    "tags": [],
     "title": "Ґудзики",
     "totalTracks": 11,
     "type": "album",
@@ -783,6 +997,10 @@
     "artistsPopularity": 37,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27321e43848f26cc961e8f0214c",
     "releaseDate": "2015-09-08",
+    "tags": [
+      "hardcore punk",
+      "finnish punk"
+    ],
     "title": "Мій милий",
     "totalTracks": 1,
     "type": "single",
@@ -801,6 +1019,9 @@
     "artistsPopularity": 23,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ea1938a30082127cd19aa733",
     "releaseDate": "2016-11-24",
+    "tags": [
+      "folk"
+    ],
     "title": "Ніна Матвієнко",
     "totalTracks": 1,
     "type": "single",

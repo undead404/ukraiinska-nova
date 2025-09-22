@@ -6,10 +6,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Арахнофобія"],
+    "artists": [
+      "Арахнофобія"
+    ],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273139e7f0c68aa7a6ccc87274a",
     "releaseDate": "2006-03-14",
+    "tags": [
+      "rock",
+      "Psychedelic Rock",
+      "folk",
+      "funk"
+    ],
     "title": "Арахнофобія",
     "totalTracks": 13,
     "type": "album",

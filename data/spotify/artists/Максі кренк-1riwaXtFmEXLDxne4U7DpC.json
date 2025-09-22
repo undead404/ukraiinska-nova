@@ -12,6 +12,11 @@
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730a79d2215163f599d9f4b6f1",
     "releaseDate": "2025-05-02",
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "underground rap"
+    ],
     "title": "Братанчик",
     "totalTracks": 1,
     "type": "single",
@@ -31,6 +36,11 @@
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fc2ec703e6906131b065477f",
     "releaseDate": "2024-03-01",
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "underground rap"
+    ],
     "title": "Карма",
     "totalTracks": 1,
     "type": "single",
@@ -50,6 +60,11 @@
     "artistsPopularity": 9,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735f7d07862b4ece9fdf5b7b96",
     "releaseDate": "2024-02-29",
+    "tags": [
+      "rap",
+      "Hip-Hop",
+      "underground rap"
+    ],
     "title": "danksy",
     "totalTracks": 1,
     "type": "single",
@@ -69,6 +84,11 @@
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27367019c39c03de70d1756c97b",
     "releaseDate": "2023-12-04",
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "underground rap"
+    ],
     "title": "Паспорт",
     "totalTracks": 1,
     "type": "single",
@@ -88,6 +108,11 @@
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a2e6cfca15449016c365e029",
     "releaseDate": "2022-09-29",
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "underground rap"
+    ],
     "title": "Не лети",
     "totalTracks": 1,
     "type": "single",
@@ -106,6 +131,11 @@
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730362436c2ff775c44214d563",
     "releaseDate": "2022-06-24",
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "underground rap"
+    ],
     "title": "У7",
     "totalTracks": 1,
     "type": "single",
@@ -124,6 +154,11 @@
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736fe35a9a329356a6a8e182ba",
     "releaseDate": "2021-02-11",
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "underground rap"
+    ],
     "title": "Невино",
     "totalTracks": 1,
     "type": "single",
@@ -142,6 +177,7 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c5afb956aeb3ca68a8a00665",
     "releaseDate": "2025-06-27",
+    "tags": [],
     "title": "Старий-Добрий",
     "totalTracks": 7,
     "type": "album",
@@ -160,6 +196,9 @@
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c563903dda69726ea6576271",
     "releaseDate": "2021-06-18",
+    "tags": [
+      "rap"
+    ],
     "title": "Розради калі",
     "totalTracks": 6,
     "type": "single",
@@ -178,6 +217,7 @@
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27368000bc9f846eef5994adcf5",
     "releaseDate": "2024-10-16",
+    "tags": [],
     "title": "Добра доля",
     "totalTracks": 7,
     "type": "album",
@@ -196,6 +236,7 @@
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fb5523cc9764e1c10ff0c9d0",
     "releaseDate": "2021-05-01",
+    "tags": [],
     "title": "Давай разом",
     "totalTracks": 5,
     "type": "single",

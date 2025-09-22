@@ -6,10 +6,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Живосил Лютий"],
+    "artists": [
+      "Живосил Лютий"
+    ],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d9b6bc256888770531b6d775",
     "releaseDate": "2023-04-14",
+    "tags": [
+      "folk"
+    ],
     "title": "На війні…",
     "totalTracks": 15,
     "type": "album",
@@ -22,10 +27,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Живосил Лютий"],
+    "artists": [
+      "Живосил Лютий"
+    ],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735b185e20bd92081c243927c6",
     "releaseDate": "2023-04-12",
+    "tags": [
+      "folk"
+    ],
     "title": "Віра. Легенда. Звитяга. (Акустична версія)",
     "totalTracks": 14,
     "type": "album",

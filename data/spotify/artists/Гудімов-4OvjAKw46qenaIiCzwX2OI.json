@@ -12,6 +12,11 @@
     "artistsPopularity": 5,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273758373713de673d61d13ab06",
     "releaseDate": "2007",
+    "tags": [
+      "rock",
+      "pop rock",
+      "Pop-Rock"
+    ],
     "title": "Монополія",
     "totalTracks": 12,
     "type": "album",
@@ -30,6 +35,11 @@
     "artistsPopularity": 5,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273caee822a66c6f1bf6bb0cc82",
     "releaseDate": "2005",
+    "tags": [
+      "rock",
+      "pop rock",
+      "Pop-Rock"
+    ],
     "title": "Трампліни",
     "totalTracks": 12,
     "type": "album",

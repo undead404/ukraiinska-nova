@@ -1,0 +1,23 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-22T12:22:37.928Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Білий Бо",
+      "Рижуня",
+      "Мішаня"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27398e6a6d783a8f3c8e52e3d1f",
+    "releaseDate": "2019-06-25",
+    "tags": [],
+    "title": "Вуличками iталії",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0ESvjT2Zi2mEnVoUDf7p5E"
+  }
+]

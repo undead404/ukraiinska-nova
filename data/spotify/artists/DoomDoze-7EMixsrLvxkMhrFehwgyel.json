@@ -12,6 +12,9 @@
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27306d2876989d1fe7e2059e809",
     "releaseDate": "2023-03-31",
+    "tags": [
+      "shoegaze"
+    ],
     "title": "never knows best",
     "totalTracks": 7,
     "type": "album",
@@ -30,6 +33,9 @@
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736a449df363e3e1a1a38378f9",
     "releaseDate": "2023-03-03",
+    "tags": [
+      "shoegaze"
+    ],
     "title": "in the middle",
     "totalTracks": 10,
     "type": "album",
@@ -49,6 +55,9 @@
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27336f2b837adbd903d4f282490",
     "releaseDate": "2024-11-15",
+    "tags": [
+      "shoegaze"
+    ],
     "title": "bittersweet apocalypse",
     "totalTracks": 1,
     "type": "single",
@@ -67,6 +76,9 @@
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a9a1264e5e7661490628399c",
     "releaseDate": "2023-07-27",
+    "tags": [
+      "shoegaze"
+    ],
     "title": "Re-vision",
     "totalTracks": 5,
     "type": "single",
@@ -85,6 +97,9 @@
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c451dcb21a1452fb017c701c",
     "releaseDate": "2024-01-19",
+    "tags": [
+      "noise"
+    ],
     "title": "параноя росте",
     "totalTracks": 1,
     "type": "single",

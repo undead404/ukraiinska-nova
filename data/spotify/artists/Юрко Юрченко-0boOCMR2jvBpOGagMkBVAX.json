@@ -12,6 +12,9 @@
     "artistsPopularity": 22,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a059d276e1ab036323b9786b",
     "releaseDate": "2021-11-26",
+    "tags": [
+      "pop"
+    ],
     "title": "Я йду",
     "totalTracks": 13,
     "type": "album",
@@ -30,6 +33,9 @@
     "artistsPopularity": 22,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734d42cf47d4a7784757154ac4",
     "releaseDate": "2021-10-20",
+    "tags": [
+      "pop"
+    ],
     "title": "Я йду",
     "totalTracks": 1,
     "type": "single",

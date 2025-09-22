@@ -6,10 +6,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ДК Енергетик"],
+    "artists": [
+      "ДК Енергетик"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737c5f048b157e4c429c10cb09",
     "releaseDate": "2024-09-20",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Завтра",
     "totalTracks": 8,
     "type": "album",
@@ -22,10 +27,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ДК Енергетик"],
+    "artists": [
+      "ДК Енергетик"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733ca3c01db4e1e475b7e48e0e",
     "releaseDate": "2024-04-26",
+    "tags": [
+      "post-punk"
+    ],
     "title": "НАЖИВО. КАСЕТНИЙ ЗАПИС",
     "totalTracks": 9,
     "type": "album",
@@ -38,10 +48,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ДК Енергетик"],
+    "artists": [
+      "ДК Енергетик"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27314dec5fedfc5474688460ba3",
     "releaseDate": "2023-11-17",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Шлях",
     "totalTracks": 9,
     "type": "album",
@@ -54,10 +69,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ДК Енергетик"],
+    "artists": [
+      "ДК Енергетик"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b52cd0c0eeb36ebf384d8893",
     "releaseDate": "2023-04-26",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Юність",
     "totalTracks": 8,
     "type": "album",
@@ -70,10 +90,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ДК Енергетик"],
+    "artists": [
+      "ДК Енергетик"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b2f86b89f39b9740fddf639b",
     "releaseDate": "2025-06-18",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Жив-був",
     "totalTracks": 1,
     "type": "single",
@@ -86,10 +111,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ДК Енергетик"],
+    "artists": [
+      "ДК Енергетик"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27305d9bffa85215d64444df176",
     "releaseDate": "2025-03-14",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Дзвін",
     "totalTracks": 1,
     "type": "single",
@@ -102,10 +132,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ДК Енергетик"],
+    "artists": [
+      "ДК Енергетик"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cdd862af7b3601ee9c42b8dc",
     "releaseDate": "2025-01-24",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Сіль",
     "totalTracks": 1,
     "type": "single",
@@ -118,10 +153,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Третя Штурмова", "ДК Енергетик"],
+    "artists": [
+      "Третя Штурмова",
+      "ДК Енергетик"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dc6f422f58e55396b2409d1b",
     "releaseDate": "2024-11-15",
+    "tags": [
+      "rock",
+      "post-punk"
+    ],
     "title": "Правда істина",
     "totalTracks": 1,
     "type": "single",
@@ -134,10 +176,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ДК Енергетик"],
+    "artists": [
+      "ДК Енергетик"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fbaadf0bb34653395d71e97e",
     "releaseDate": "2024-07-26",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Ластівка",
     "totalTracks": 1,
     "type": "single",
@@ -150,10 +197,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Small Depo", "ДК Енергетик"],
+    "artists": [
+      "Small Depo",
+      "ДК Енергетик"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739cb053916f12e9d22cc5a541",
     "releaseDate": "2024-06-28",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Черга",
     "totalTracks": 1,
     "type": "single",
@@ -166,10 +219,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ДК Енергетик"],
+    "artists": [
+      "ДК Енергетик"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bc7be36e84baad86a0b14252",
     "releaseDate": "2024-05-10",
+    "tags": [
+      "post-punk"
+    ],
     "title": "40",
     "totalTracks": 1,
     "type": "single",
@@ -182,10 +240,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ДК Енергетик"],
+    "artists": [
+      "ДК Енергетик"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730f60a2c4b1351a6fb1959dc3",
     "releaseDate": "2024-02-02",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Епілог",
     "totalTracks": 1,
     "type": "single",
@@ -198,10 +261,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ДК Енергетик"],
+    "artists": [
+      "ДК Енергетик"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d1ba248d54c48b58c74bcddd",
     "releaseDate": "2023-10-25",
+    "tags": [
+      "post-punk"
+    ],
     "title": "ГроБ",
     "totalTracks": 1,
     "type": "single",
@@ -214,10 +282,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ДК Енергетик"],
+    "artists": [
+      "ДК Енергетик"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734385dba6b996b02c636df79c",
     "releaseDate": "2023-10-06",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Шлях Ч.2",
     "totalTracks": 1,
     "type": "single",
@@ -230,10 +303,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ДК Енергетик"],
+    "artists": [
+      "ДК Енергетик"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ac8ffc3957b6e29932ed074e",
     "releaseDate": "2023-09-15",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Шлях Ч.1",
     "totalTracks": 1,
     "type": "single",
@@ -246,10 +324,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ДК Енергетик"],
+    "artists": [
+      "ДК Енергетик"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27302dfd48b02644096ee19c2fc",
     "releaseDate": "2023-08-25",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Сонце",
     "totalTracks": 1,
     "type": "single",
@@ -262,10 +345,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ДК Енергетик"],
+    "artists": [
+      "ДК Енергетик"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d0f645fe73b159f0c5df8772",
     "releaseDate": "2023-07-28",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Іскра",
     "totalTracks": 1,
     "type": "single",
@@ -278,10 +366,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ДК Енергетик"],
+    "artists": [
+      "ДК Енергетик"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a0cf7b768490d19e205d5957",
     "releaseDate": "2023-04-06",
+    "tags": [
+      "post-punk"
+    ],
     "title": "30",
     "totalTracks": 1,
     "type": "single",
@@ -294,10 +387,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ДК Енергетик"],
+    "artists": [
+      "ДК Енергетик"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273084eb5159a4ef7e7244458a1",
     "releaseDate": "2023-03-08",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Танок",
     "totalTracks": 1,
     "type": "single",
@@ -310,10 +408,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ДК Енергетик"],
+    "artists": [
+      "ДК Енергетик"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a1012d3d068e701c80658ae9",
     "releaseDate": "2023-02-09",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Енергетик",
     "totalTracks": 1,
     "type": "single",
@@ -326,10 +429,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Третя Штурмова"],
+    "artists": [
+      "Третя Штурмова"
+    ],
     "artistsPopularity": 34,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d589244a1534d915cebb1602",
     "releaseDate": "2024-11-15",
+    "tags": [
+      "rock"
+    ],
     "title": "ЕПОХА",
     "totalTracks": 8,
     "type": "album",
@@ -342,10 +450,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ДК Енергетик"],
+    "artists": [
+      "ДК Енергетик"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e70ad995e182e64e86bec209",
     "releaseDate": "2025-09-19",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Завтра (Розширена версія)",
     "totalTracks": 10,
     "type": "album",

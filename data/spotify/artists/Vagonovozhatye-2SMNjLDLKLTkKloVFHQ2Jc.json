@@ -12,6 +12,10 @@
     "artistsPopularity": 20,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27320537f69338a69b3db1c8f08",
     "releaseDate": "2018-11-20",
+    "tags": [
+      "electronic",
+      "spoken word"
+    ],
     "title": "Референс",
     "totalTracks": 10,
     "type": "album",
@@ -30,6 +34,10 @@
     "artistsPopularity": 20,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c9e2602e0759027cbf6e1934",
     "releaseDate": "2015-11-21",
+    "tags": [
+      "electronic",
+      "spoken word"
+    ],
     "title": "Wasserwaage",
     "totalTracks": 9,
     "type": "album",
@@ -48,6 +56,10 @@
     "artistsPopularity": 20,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d800e8bb153cfe18daecaf40",
     "releaseDate": "2020-11-09",
+    "tags": [
+      "electronic",
+      "spoken word"
+    ],
     "title": "Zno",
     "totalTracks": 1,
     "type": "single",
@@ -66,6 +78,10 @@
     "artistsPopularity": 20,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27306994666e49799a25eaf7980",
     "releaseDate": "2020-11-03",
+    "tags": [
+      "electronic",
+      "spoken word"
+    ],
     "title": "Касета",
     "totalTracks": 1,
     "type": "single",
@@ -84,6 +100,10 @@
     "artistsPopularity": 20,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730af27643e968cd3720895d10",
     "releaseDate": "2016-10-21",
+    "tags": [
+      "electronic",
+      "spoken word"
+    ],
     "title": "Стартап молодость",
     "totalTracks": 5,
     "type": "single",
@@ -102,6 +122,10 @@
     "artistsPopularity": 20,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a2ddc037c6c353dd5867abac",
     "releaseDate": "2014-10-15",
+    "tags": [
+      "electronic",
+      "spoken word"
+    ],
     "title": "Упасть с тандема",
     "totalTracks": 4,
     "type": "single",
@@ -120,6 +144,10 @@
     "artistsPopularity": 20,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273985b80f36d8b5fe3ab50b254",
     "releaseDate": "2013-10-15",
+    "tags": [
+      "electronic",
+      "spoken word"
+    ],
     "title": "Без трамваев",
     "totalTracks": 4,
     "type": "single",
@@ -138,9 +166,35 @@
     "artistsPopularity": 20,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273303ee79c159fe53dc2f8c894",
     "releaseDate": "2013-04-01",
+    "tags": [
+      "electronic",
+      "spoken word"
+    ],
     "title": "Сгруппироваться",
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/3dyot7zhdfnhJdnKq3BJsS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-22T12:26:45.735Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vagonovozhatye"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273807fec607a7403a4fe2b928f",
+    "releaseDate": "2021-05-20",
+    "tags": [
+      "electronic",
+      "spoken word"
+    ],
+    "title": "Вогнепальне",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0AJM3n39ZI9jG8C1bwAbeM"
   }
 ]
