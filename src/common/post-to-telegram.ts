@@ -20,8 +20,7 @@ export default async function postToTelegram(
     await telegram.sendToChannel(
       post.text +
         (post.links && post.links.length > 0
-          ? '\n' +
-            post.links.map((link) => `${link.title}: ${link.url}`).join('\n')
+          ? '\n\n' + post.links.map((link) => link.url).join('\n')
           : ''),
       {},
       post.imageUrl

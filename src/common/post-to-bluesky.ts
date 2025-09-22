@@ -23,8 +23,7 @@ export default async function postToBluesky(
       post.text +
         // add links if any
         (post.links && post.links.length > 0
-          ? '\n' +
-            post.links.map((link) => `${link.title}: ${link.url}`).join('\n')
+          ? '\n\n' + post.links.map((link) => link.url).join('\n')
           : ''),
       rootPost && previousPost
         ? { root: rootPost, parent: previousPost }
