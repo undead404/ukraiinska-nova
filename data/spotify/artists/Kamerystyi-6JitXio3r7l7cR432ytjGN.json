@@ -1,0 +1,85 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-22T20:24:27.836Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Нумер 482",
+      "Xsonatix",
+      "Kamerystyi"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f9e9ec06ba99efaaf383d554",
+    "releaseDate": "2022-08-02",
+    "tags": [
+      "rock"
+    ],
+    "title": "Добрий ранок Україно (Xsonatix & Kamerystyi Remix)",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2MVoufZWPaOjsQ2iwn4u4j"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-22T20:24:27.836Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Xsonatix",
+      "Kamerystyi"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733887562211421b7ae256a489",
+    "releaseDate": "2021-03-29",
+    "tags": [],
+    "title": "Revival of magic",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1fUYdMCgUv8eNe2HzHKVav"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-22T20:24:27.836Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Mordax Bastards",
+      "Mareks",
+      "ILCHY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27399b0ff7f25e15b8cbf02bcb6",
+    "releaseDate": "2021-04-19",
+    "tags": [],
+    "title": "Monoxide (Remixes, Pt. 1)",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0jWOkxgkJJTu6DCkCAdNji"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-22T20:24:27.836Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NOMAD GURU"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739da9bcaaad97971b12b6bcea",
+    "releaseDate": "2020-07-27",
+    "tags": [],
+    "title": "HOLODY (Xsonatix & Kamerystyi Remix)",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6z99SPCZcgmUCGjsqpiClI"
+  }
+]

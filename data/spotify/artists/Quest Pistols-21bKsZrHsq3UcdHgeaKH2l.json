@@ -12,6 +12,10 @@
     "artistsPopularity": 43,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d7aa57fbac732dde1004c8aa",
     "releaseDate": "2009-01-01",
+    "tags": [
+      "pop",
+      "dance"
+    ],
     "title": "Superklass",
     "totalTracks": 10,
     "type": "album",
@@ -30,6 +34,10 @@
     "artistsPopularity": 43,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27304b66ce5f21b7452d2dee948",
     "releaseDate": "2008-01-01",
+    "tags": [
+      "pop",
+      "dance"
+    ],
     "title": "Волшебные краски",
     "totalTracks": 16,
     "type": "album",
@@ -48,6 +56,10 @@
     "artistsPopularity": 43,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739eab48799aa9edae6f225aa0",
     "releaseDate": "2007-01-01",
+    "tags": [
+      "pop",
+      "dance"
+    ],
     "title": "Для тебя",
     "totalTracks": 13,
     "type": "album",
@@ -67,6 +79,10 @@
     "artistsPopularity": 43,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fecfe3f903616dbe4c7644a4",
     "releaseDate": "2021-08-22",
+    "tags": [
+      "pop",
+      "dance"
+    ],
     "title": "Санта Лючия (DEALSHOT Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -85,6 +101,9 @@
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273975de0fb46488345252cf96b",
     "releaseDate": "2022-04-22",
+    "tags": [
+      "chillhop"
+    ],
     "title": "My Boat",
     "totalTracks": 1,
     "type": "single",

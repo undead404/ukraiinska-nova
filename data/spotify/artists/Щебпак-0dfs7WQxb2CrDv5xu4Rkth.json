@@ -1,0 +1,24 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-22T20:22:42.510Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Медовий Полин",
+      "Щебпак"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734e9c760029838baf5828653c",
+    "releaseDate": "2023-01-15",
+    "tags": [
+      "punk rock"
+    ],
+    "title": "Шапка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3otLjGzu1prDnElOJdHNpV"
+  }
+]

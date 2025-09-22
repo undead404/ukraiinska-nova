@@ -12,6 +12,9 @@
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739670bd2bc71f57866f298f43",
     "releaseDate": "2025-04-02",
+    "tags": [
+      "folk"
+    ],
     "title": "Краля",
     "totalTracks": 9,
     "type": "album",
@@ -30,6 +33,9 @@
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733f7f358512bf6d20d32b5819",
     "releaseDate": "2024-05-10",
+    "tags": [
+      "folk"
+    ],
     "title": "Дім брехливих дзеркал",
     "totalTracks": 8,
     "type": "album",
@@ -48,6 +54,9 @@
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e9c0e51c2010463046a3144d",
     "releaseDate": "2023-09-08",
+    "tags": [
+      "folk"
+    ],
     "title": "Рефлексія",
     "totalTracks": 9,
     "type": "album",
@@ -66,6 +75,9 @@
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735baa46d2bf2ecc484e1db895",
     "releaseDate": "2023-07-20",
+    "tags": [
+      "folk"
+    ],
     "title": "Ґвара (live concert)",
     "totalTracks": 21,
     "type": "album",
@@ -84,6 +96,9 @@
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27360254a6592332c91884fa8df",
     "releaseDate": "2025-06-20",
+    "tags": [
+      "folk"
+    ],
     "title": "А чи було літо",
     "totalTracks": 1,
     "type": "single",
@@ -102,6 +117,9 @@
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733723b7ec9ca2f04a41673585",
     "releaseDate": "2025-03-05",
+    "tags": [
+      "folk"
+    ],
     "title": "Русалочки",
     "totalTracks": 1,
     "type": "single",
@@ -120,6 +138,9 @@
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ad0bb7a2d1273e5514e3a88d",
     "releaseDate": "2025-02-05",
+    "tags": [
+      "folk"
+    ],
     "title": "Дівки-чарівниці",
     "totalTracks": 1,
     "type": "single",
@@ -138,6 +159,9 @@
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732c5db224f55b873f9dd15d16",
     "releaseDate": "2024-11-15",
+    "tags": [
+      "folk"
+    ],
     "title": "Церковка",
     "totalTracks": 1,
     "type": "single",
@@ -156,6 +180,9 @@
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27377656699a60b5a168665503a",
     "releaseDate": "2024-04-18",
+    "tags": [
+      "folk"
+    ],
     "title": "Візьми свої слова назад",
     "totalTracks": 1,
     "type": "single",
@@ -174,6 +201,9 @@
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c53ac95608f62b96fd9d01cb",
     "releaseDate": "2023-12-08",
+    "tags": [
+      "folk"
+    ],
     "title": "Пісні на Різдво",
     "totalTracks": 4,
     "type": "single",
@@ -192,6 +222,9 @@
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735a324a247cb76d7c58f4d0e1",
     "releaseDate": "2023-04-21",
+    "tags": [
+      "folk"
+    ],
     "title": "Голубочки (prod. by Jandy)",
     "totalTracks": 1,
     "type": "single",
@@ -210,6 +243,9 @@
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731d791a45df081377e7cc689f",
     "releaseDate": "2022-07-14",
+    "tags": [
+      "folk"
+    ],
     "title": "Довбаний світ",
     "totalTracks": 1,
     "type": "single",
@@ -228,6 +264,9 @@
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bb8e7b1f7421b9bf4f828d7c",
     "releaseDate": "2022-05-20",
+    "tags": [
+      "folk"
+    ],
     "title": "Чорна хмара",
     "totalTracks": 1,
     "type": "single",
@@ -246,6 +285,9 @@
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a333610b6046ae65527e51cf",
     "releaseDate": "2022-03-04",
+    "tags": [
+      "folk"
+    ],
     "title": "Каменярі",
     "totalTracks": 1,
     "type": "single",
@@ -265,6 +307,12 @@
     "artistsPopularity": 36,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27344f590ff8c89e96021ca9f1f",
     "releaseDate": "2019-09-13",
+    "tags": [
+      "Pop-punk",
+      "folk",
+      "alternative rock",
+      "pop punk"
+    ],
     "title": "Роздягни мене",
     "totalTracks": 1,
     "type": "single",
@@ -283,6 +331,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733c700e9248bd4c6c9bf6bfb4",
     "releaseDate": "2023-10-13",
+    "tags": [
+      "folk",
+      "folk pop"
+    ],
     "title": "ГУРМА",
     "totalTracks": 16,
     "type": "album",
@@ -301,6 +353,7 @@
     "artistsPopularity": 20,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273940d99c9875bead9288addc0",
     "releaseDate": "2025-09-05",
+    "tags": [],
     "title": "Альбом Памʼяті",
     "totalTracks": 17,
     "type": "album",
@@ -319,6 +372,11 @@
     "artistsPopularity": 36,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735c1df5daaad962cebc16db0a",
     "releaseDate": "2019-10-18",
+    "tags": [
+      "Pop-punk",
+      "alternative rock",
+      "pop punk"
+    ],
     "title": "Diller Kaifu II",
     "totalTracks": 8,
     "type": "album",
@@ -337,6 +395,9 @@
     "artistsPopularity": 45,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27336fdb0be6d0309675afb1af5",
     "releaseDate": "2024-12-06",
+    "tags": [
+      "Eurovision"
+    ],
     "title": "Тиха Ніч",
     "totalTracks": 5,
     "type": "single",
@@ -355,6 +416,9 @@
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ea00057796c9108ed03a2b44",
     "releaseDate": "2024-07-18",
+    "tags": [
+      "electronic"
+    ],
     "title": "FRAGMENTS",
     "totalTracks": 11,
     "type": "album",
@@ -373,6 +437,11 @@
     "artistsPopularity": 6,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b07369a6721be6dbc226dcb1",
     "releaseDate": "2020-04-10",
+    "tags": [
+      "folk",
+      "indie pop",
+      "folk pop"
+    ],
     "title": "Псих",
     "totalTracks": 1,
     "type": "single",
@@ -391,6 +460,11 @@
     "artistsPopularity": 36,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273baeaf60e92c61b355b54cbe2",
     "releaseDate": "2020-07-25",
+    "tags": [
+      "Pop-punk",
+      "alternative rock",
+      "pop punk"
+    ],
     "title": "Роздягни мене",
     "totalTracks": 1,
     "type": "single",
@@ -409,6 +483,7 @@
     "artistsPopularity": 14,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b373ce6a242bc93ccec4aff1",
     "releaseDate": "2020-08-05",
+    "tags": [],
     "title": "MANEKEN",
     "totalTracks": 1,
     "type": "single",

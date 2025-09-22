@@ -12,6 +12,9 @@
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b527759a1efac7c16180e722",
     "releaseDate": "2005",
+    "tags": [
+      "alternative"
+    ],
     "title": "Спалахнув...",
     "totalTracks": 11,
     "type": "album",
@@ -30,6 +33,9 @@
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27343bdb9ddfec1ec3dccd1e28b",
     "releaseDate": "2001",
+    "tags": [
+      "alternative"
+    ],
     "title": "Не гони...",
     "totalTracks": 13,
     "type": "album",
@@ -48,6 +54,9 @@
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731313ce3614c031a74dab171a",
     "releaseDate": "2001",
+    "tags": [
+      "alternative"
+    ],
     "title": "Terrorist",
     "totalTracks": 12,
     "type": "album",
@@ -66,6 +75,9 @@
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732b5397cc70d5821f78224d67",
     "releaseDate": "2010-10-01",
+    "tags": [
+      "rap"
+    ],
     "title": "А на танцполе нету свободных мест: альбом ремиксов",
     "totalTracks": 17,
     "type": "album",

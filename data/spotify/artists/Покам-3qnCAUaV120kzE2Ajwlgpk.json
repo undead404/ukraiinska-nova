@@ -13,6 +13,14 @@
     "artistsPopularity": 5,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739905e319578ebd5ad4a5d4bf",
     "releaseDate": "2024-07-19",
+    "tags": [
+      "Lo-Fi",
+      "Hip-Hop",
+      "rap",
+      "nujazz",
+      "jazz-hop",
+      "Boombap"
+    ],
     "title": "ВАГА",
     "totalTracks": 10,
     "type": "album",
@@ -31,6 +39,11 @@
     "artistsPopularity": 5,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731eff972d22d3f7c4f4935179",
     "releaseDate": "2023-04-28",
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "Boombap"
+    ],
     "title": "Стріха",
     "totalTracks": 18,
     "type": "album",

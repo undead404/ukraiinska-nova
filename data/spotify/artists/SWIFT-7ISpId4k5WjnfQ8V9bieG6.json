@@ -1,0 +1,94 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-22T20:25:42.948Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SWIFT"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fc8de7d084dc1a1a0f9a6f07",
+    "releaseDate": "2017-02-17",
+    "tags": [
+      "metalcore",
+      "Nu Metal"
+    ],
+    "title": "Почни з себе",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7phbjGDwdihvAeGuIABLIE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-22T20:25:42.948Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SWIFT",
+      "Two Streets"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c09bd65494762781ef9756f9",
+    "releaseDate": "2023-06-27",
+    "tags": [
+      "metalcore",
+      "Pop-Rock",
+      "alternative rock",
+      "kyivrock",
+      "Nu Metal"
+    ],
+    "title": "Надважливе",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5TI96ZDoUsRrW9wYqpmIzQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-22T20:25:42.948Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SWIFT"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730c30e8b415b5a264b1ae5e7e",
+    "releaseDate": "2020-02-19",
+    "tags": [
+      "metalcore",
+      "Nu Metal"
+    ],
+    "title": "Живий #НаШапку",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5uW3xaUQSY11GxoEFev0yG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-22T20:25:42.948Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SWIFT"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732632f535e0796ba1bf1c8327",
+    "releaseDate": "2020-02-19",
+    "tags": [
+      "metalcore",
+      "Nu Metal"
+    ],
+    "title": "Живий",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6xuxUqhmqezOJvJHQA2Len"
+  }
+]

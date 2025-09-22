@@ -12,6 +12,9 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730478eeabb0f8283faac5c149",
     "releaseDate": "2020-03-27",
+    "tags": [
+      "folk"
+    ],
     "title": "Alambari",
     "totalTracks": 9,
     "type": "album",
@@ -30,6 +33,9 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273739e73b570be8b09b223b1e5",
     "releaseDate": "2016-12-01",
+    "tags": [
+      "folk"
+    ],
     "title": "Шлях",
     "totalTracks": 10,
     "type": "album",
@@ -48,6 +54,9 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273143d48b71b1966b96eb6b4ce",
     "releaseDate": "2014-01-04",
+    "tags": [
+      "folk"
+    ],
     "title": "Yahudky",
     "totalTracks": 11,
     "type": "album",
@@ -66,6 +75,9 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d850e025cf1527259ab5a5bb",
     "releaseDate": "2014-01-04",
+    "tags": [
+      "folk"
+    ],
     "title": "Light",
     "totalTracks": 9,
     "type": "album",
@@ -85,6 +97,11 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739332fb4dee2ef1634b014488",
     "releaseDate": "2014-01-04",
+    "tags": [
+      "folk",
+      "instrumental",
+      "belarus"
+    ],
     "title": "Khmeleva Project",
     "totalTracks": 9,
     "type": "album",
@@ -104,6 +121,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d9da17b2fbde9961950262fa",
     "releaseDate": "2023-06-29",
+    "tags": [
+      "EDM",
+      "folk"
+    ],
     "title": "TUMAN",
     "totalTracks": 1,
     "type": "single",
@@ -123,6 +144,12 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eb1a30db686bd8f5fc8e358a",
     "releaseDate": "2022-02-25",
+    "tags": [
+      "folk",
+      "space rock",
+      "House",
+      "USA"
+    ],
     "title": "The Bedouin Reworks of DakhaBrakha",
     "totalTracks": 4,
     "type": "single",
@@ -142,6 +169,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fe38371020b3cde5a4076215",
     "releaseDate": "2021-05-06",
+    "tags": [
+      "turkey",
+      "folk"
+    ],
     "title": "Alambari",
     "totalTracks": 1,
     "type": "single",
@@ -160,6 +191,9 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369e5e8f5da3a443046a1f663",
     "releaseDate": "2020-01-17",
+    "tags": [
+      "folk"
+    ],
     "title": "Шо З Под Дуба (Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -178,6 +212,9 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737f202317b1c5761e336ad666",
     "releaseDate": "2019-04-03",
+    "tags": [
+      "folk"
+    ],
     "title": "Пливе човен",
     "totalTracks": 1,
     "type": "single",
@@ -196,6 +233,9 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735155bd8fbf9cc95c677c8eb1",
     "releaseDate": "2010-11-24",
+    "tags": [
+      "folk"
+    ],
     "title": "Morning Light (Making Tracks, Episode 5)",
     "totalTracks": 1,
     "type": "single",
@@ -214,6 +254,9 @@
     "artistsPopularity": 35,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737c1d9df4bd8a410cc58e935a",
     "releaseDate": "2023-11-09",
+    "tags": [
+      "EDM"
+    ],
     "title": "ДОБРОГО ВЕЧОРА, МИ З УКРАЇНИ!",
     "totalTracks": 15,
     "type": "album",
@@ -232,6 +275,9 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737832f1f856331fa7e96341db",
     "releaseDate": "2021-06-18",
+    "tags": [
+      "electronic"
+    ],
     "title": "KOLIR",
     "totalTracks": 10,
     "type": "album",
@@ -250,6 +296,7 @@
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cee71420f5ed7e3310d9a3c2",
     "releaseDate": "2019-03-22",
+    "tags": [],
     "title": "Голос води",
     "totalTracks": 3,
     "type": "single",
@@ -268,6 +315,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27377808cee4fed6809d4e52a89",
     "releaseDate": "2020-02-21",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "Свої",
     "totalTracks": 10,
     "type": "album",
@@ -286,6 +337,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27345dc63ecf0c1d24e4f0ada39",
     "releaseDate": "2019-09-06",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "10",
     "totalTracks": 21,
     "type": "album",
@@ -304,6 +359,9 @@
     "artistsPopularity": 59,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736b9aa8090befefe4a30a4d24",
     "releaseDate": "2017-02-24",
+    "tags": [
+      "Soundtrack"
+    ],
     "title": "Bitter Harvest (Original Motion Picture Soundtrack)",
     "totalTracks": 29,
     "type": "album",
@@ -322,6 +380,9 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c81378d51d0a6c926a8e4647",
     "releaseDate": "2021-06-04",
+    "tags": [
+      "electronic"
+    ],
     "title": "UYAVY",
     "totalTracks": 1,
     "type": "single",
@@ -340,6 +401,9 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27362eaaa8c7acf710ded2f9311",
     "releaseDate": "2022-12-09",
+    "tags": [
+      "electronic"
+    ],
     "title": "KOLIR (Remixes)",
     "totalTracks": 4,
     "type": "single",
@@ -358,6 +422,7 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273806bcc08c20c392d3a5628e9",
     "releaseDate": "2018-05-06",
+    "tags": [],
     "title": "On the Road of Buddha",
     "totalTracks": 10,
     "type": "album",
@@ -376,6 +441,7 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b318b01b1b99c1ebf8785a31",
     "releaseDate": "2018-05-25",
+    "tags": [],
     "title": "Côte d'Azur Exclusive Party, Vol. 2 (Mixed & Selected by Papa DJ)",
     "totalTracks": 40,
     "type": "album",
@@ -394,6 +460,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739d967a6116463133ae6a1519",
     "releaseDate": "2016-11-04",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
     "title": "Заманили",
     "totalTracks": 2,
     "type": "single",
@@ -412,6 +482,9 @@
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731c521a653b99e21b143bb4f1",
     "releaseDate": "2020-12-04",
+    "tags": [
+      "electronic"
+    ],
     "title": "Im Tanzen Liebe (Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -430,6 +503,7 @@
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a841f1787b20164c0c060942",
     "releaseDate": "2011-03-05",
+    "tags": [],
     "title": "Зельоно. Приворотні пісні",
     "totalTracks": 9,
     "type": "album",

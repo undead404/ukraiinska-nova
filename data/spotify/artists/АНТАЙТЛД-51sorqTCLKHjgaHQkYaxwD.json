@@ -12,6 +12,9 @@
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f0ca2e720e1b5cddb3d56581",
     "releaseDate": "2025-03-28",
+    "tags": [
+      "metalcore"
+    ],
     "title": "ІПІ",
     "totalTracks": 4,
     "type": "single",
@@ -32,6 +35,12 @@
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d4653235ac254ec035a8e030",
     "releaseDate": "2025-02-28",
+    "tags": [
+      "metalcore",
+      "future funk",
+      "screamo",
+      "hardcore"
+    ],
     "title": "потужна",
     "totalTracks": 1,
     "type": "single",
@@ -52,6 +61,13 @@
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735e51fd3bb2e25f4426131138",
     "releaseDate": "2024-11-29",
+    "tags": [
+      "metalcore",
+      "Post-Metal",
+      "hardcore",
+      "alternative",
+      "alternative rock"
+    ],
     "title": "повільна",
     "totalTracks": 1,
     "type": "single",
@@ -72,6 +88,12 @@
     "artistsPopularity": 8,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27322c9a2c76ec3a8d2b288cfbc",
     "releaseDate": "2024-11-01",
+    "tags": [
+      "metalcore",
+      "mathcore",
+      "post-hardcore",
+      "alternative rock"
+    ],
     "title": "швидка",
     "totalTracks": 1,
     "type": "single",
@@ -92,6 +114,12 @@
     "artistsPopularity": 8,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d3df0a29444302cc6ef9b768",
     "releaseDate": "2022-08-24",
+    "tags": [
+      "mathcore",
+      "post-hardcore",
+      "alternative rock",
+      "metalcore"
+    ],
     "title": "War All the Time",
     "totalTracks": 1,
     "type": "single",
