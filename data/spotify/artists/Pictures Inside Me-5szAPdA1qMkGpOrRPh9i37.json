@@ -12,6 +12,10 @@
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c5e83251ea9d41056d0e2866",
     "releaseDate": "2019-06-01",
+    "tags": [
+      "metalcore",
+      "melodic metalcore"
+    ],
     "title": "Обречённый жить",
     "totalTracks": 11,
     "type": "album",
@@ -30,6 +34,10 @@
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27365695a4bbd9319de05f74904",
     "releaseDate": "2021-06-20",
+    "tags": [
+      "metalcore",
+      "melodic metalcore"
+    ],
     "title": "Tesla",
     "totalTracks": 1,
     "type": "single",
@@ -48,6 +56,10 @@
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a31ebd219b0fd824dab347ff",
     "releaseDate": "2021-02-14",
+    "tags": [
+      "metalcore",
+      "melodic metalcore"
+    ],
     "title": "Тепло других небес",
     "totalTracks": 6,
     "type": "single",

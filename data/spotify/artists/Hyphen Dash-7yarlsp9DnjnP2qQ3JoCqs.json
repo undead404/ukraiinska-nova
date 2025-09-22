@@ -12,6 +12,9 @@
     "artistsPopularity": 18,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736cdb8a045ea28747a74e0613",
     "releaseDate": "2025-03-14",
+    "tags": [
+      "post-rock"
+    ],
     "title": "Basement 626",
     "totalTracks": 17,
     "type": "album",
@@ -30,6 +33,9 @@
     "artistsPopularity": 18,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738b85e6b95f4a145817ec6e11",
     "releaseDate": "2025-09-12",
+    "tags": [
+      "post-rock"
+    ],
     "title": "Berlin",
     "totalTracks": 1,
     "type": "single",
@@ -48,6 +54,9 @@
     "artistsPopularity": 18,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732340d7857d2f2a28fc793415",
     "releaseDate": "2025-09-05",
+    "tags": [
+      "post-rock"
+    ],
     "title": "11:11",
     "totalTracks": 1,
     "type": "single",
@@ -67,6 +76,9 @@
     "artistsPopularity": 18,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27347cec7180c9cddd4470cb04e",
     "releaseDate": "2025-08-29",
+    "tags": [
+      "post-rock"
+    ],
     "title": "Ode of gratitude",
     "totalTracks": 1,
     "type": "single",
@@ -85,6 +97,9 @@
     "artistsPopularity": 18,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734fdddc8038428d492a2b2076",
     "releaseDate": "2025-05-23",
+    "tags": [
+      "post-rock"
+    ],
     "title": "Birds Church",
     "totalTracks": 1,
     "type": "single",
@@ -103,6 +118,9 @@
     "artistsPopularity": 18,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734403dc89c784dcab47a9a3c9",
     "releaseDate": "2025-04-11",
+    "tags": [
+      "post-rock"
+    ],
     "title": "Matsuura",
     "totalTracks": 1,
     "type": "single",
@@ -121,6 +139,9 @@
     "artistsPopularity": 18,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dc0c78896698f6d69fb862cf",
     "releaseDate": "2023-02-17",
+    "tags": [
+      "post-rock"
+    ],
     "title": "Professor Doctor Honoris Causa Caligari",
     "totalTracks": 1,
     "type": "single",
@@ -140,6 +161,9 @@
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273762b18e55b4c4331c4ae95b2",
     "releaseDate": "2022-11-18",
+    "tags": [
+      "post-rock"
+    ],
     "title": "Pilgrim",
     "totalTracks": 1,
     "type": "single",
@@ -159,6 +183,10 @@
     "artistsPopularity": 18,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734158ccf4ab16d23c2c95998a",
     "releaseDate": "2022-06-10",
+    "tags": [
+      "synthpop",
+      "post-rock"
+    ],
     "title": "Babusi",
     "totalTracks": 1,
     "type": "single",
@@ -177,6 +205,9 @@
     "artistsPopularity": 18,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e4979ae64d9bfe1bca9275c1",
     "releaseDate": "2021-05-07",
+    "tags": [
+      "post-rock"
+    ],
     "title": "RDHD",
     "totalTracks": 1,
     "type": "single",
@@ -195,6 +226,9 @@
     "artistsPopularity": 18,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ebefaa1cb313829f49fe4656",
     "releaseDate": "2021-04-30",
+    "tags": [
+      "post-rock"
+    ],
     "title": "Twisted Mind",
     "totalTracks": 1,
     "type": "single",
@@ -213,6 +247,9 @@
     "artistsPopularity": 18,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735b1298cbebce9551a91373ab",
     "releaseDate": "2021-02-12",
+    "tags": [
+      "post-rock"
+    ],
     "title": "Live At NAMU",
     "totalTracks": 3,
     "type": "single",
@@ -231,6 +268,10 @@
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f7078eab34cce0e907e513cc",
     "releaseDate": "2023-09-05",
+    "tags": [
+      "Fusion",
+      "jazz"
+    ],
     "title": "SURFING",
     "totalTracks": 10,
     "type": "album",
@@ -249,6 +290,10 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730b7234d8f59360e77a348552",
     "releaseDate": "2022-12-09",
+    "tags": [
+      "reggae",
+      "funk"
+    ],
     "title": "Live at Orange Room",
     "totalTracks": 3,
     "type": "single",
@@ -267,6 +312,9 @@
     "artistsPopularity": 19,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a48db8b8b2f167760c954744",
     "releaseDate": "2025-09-19",
+    "tags": [
+      "post-rock"
+    ],
     "title": "Test",
     "totalTracks": 1,
     "type": "single",

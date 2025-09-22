@@ -12,6 +12,9 @@
     "artistsPopularity": 23,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273843ef5a38a38fdcbd5ed4318",
     "releaseDate": "2016-10-14",
+    "tags": [
+      "pop"
+    ],
     "title": "Краще",
     "totalTracks": 29,
     "type": "album",
@@ -31,6 +34,10 @@
     "artistsPopularity": 23,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d5af6e5d9e7ca0de48bf76d2",
     "releaseDate": "2024-09-12",
+    "tags": [
+      "rock",
+      "pop"
+    ],
     "title": "Час",
     "totalTracks": 1,
     "type": "single",
@@ -49,6 +56,9 @@
     "artistsPopularity": 19,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273612a7b2b722e253332d8237a",
     "releaseDate": "2025-05-15",
+    "tags": [
+      "rock"
+    ],
     "title": "ЗСУВ",
     "totalTracks": 18,
     "type": "album",
