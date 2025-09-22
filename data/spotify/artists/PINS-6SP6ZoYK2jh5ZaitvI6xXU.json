@@ -12,6 +12,11 @@
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e1c6d9a4b68d0151beb75958",
     "releaseDate": "2015-10-30",
+    "tags": [
+      "alternative metal",
+      "alternative",
+      "Nu-metal"
+    ],
     "title": "Марафон",
     "totalTracks": 9,
     "type": "album",
@@ -30,6 +35,11 @@
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e411eb6eabf8b53f44f064c5",
     "releaseDate": "2013-04-09",
+    "tags": [
+      "alternative metal",
+      "alternative",
+      "Nu-metal"
+    ],
     "title": "Мандрівник",
     "totalTracks": 12,
     "type": "album",

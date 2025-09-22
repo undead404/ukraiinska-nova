@@ -12,6 +12,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733700a9e01a767db952f9bd44",
     "releaseDate": "2019-01-01",
+    "tags": [
+      "pop"
+    ],
     "title": "OCTOPUS",
     "totalTracks": 8,
     "type": "album",
@@ -31,6 +34,11 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273de9b62bc5b881c87e8bfcbf7",
     "releaseDate": "2025-08-20",
+    "tags": [
+      "pop",
+      "hardcore punk",
+      "finnish punk"
+    ],
     "title": "Мені так треба Вітрила!",
     "totalTracks": 2,
     "type": "single",
@@ -49,6 +57,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eb11678015f8bd6c9a5ae213",
     "releaseDate": "2025-04-25",
+    "tags": [
+      "pop"
+    ],
     "title": "тормоз чи на газ",
     "totalTracks": 2,
     "type": "single",
@@ -67,6 +78,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a1c35c20b62e649d896e584b",
     "releaseDate": "2025-02-19",
+    "tags": [
+      "pop"
+    ],
     "title": "Твоя вина",
     "totalTracks": 1,
     "type": "single",
@@ -85,6 +99,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c3c56c5e00577a06d474dade",
     "releaseDate": "2024-12-12",
+    "tags": [
+      "pop"
+    ],
     "title": "Новорічна-2",
     "totalTracks": 1,
     "type": "single",
@@ -104,6 +121,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273957dbd70d5d39c81e4c8c2b5",
     "releaseDate": "2024-10-30",
+    "tags": [
+      "pop"
+    ],
     "title": "Зодіак",
     "totalTracks": 1,
     "type": "single",
@@ -122,6 +142,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d898bf961556c1c20c6cdbe2",
     "releaseDate": "2024-09-27",
+    "tags": [
+      "pop"
+    ],
     "title": "Обиратиму себе",
     "totalTracks": 1,
     "type": "single",
@@ -140,6 +163,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735b2d4527e8cee82123da6257",
     "releaseDate": "2024-08-07",
+    "tags": [
+      "pop"
+    ],
     "title": "Вбиваєш мене",
     "totalTracks": 1,
     "type": "single",
@@ -158,6 +184,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730dee6f2196fdb8df511cfc8b",
     "releaseDate": "2024-01-12",
+    "tags": [
+      "pop"
+    ],
     "title": "DREAMER",
     "totalTracks": 1,
     "type": "single",
@@ -176,6 +205,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a33d394824517c409d9310fb",
     "releaseDate": "2023-11-14",
+    "tags": [
+      "pop"
+    ],
     "title": "Один Не Один",
     "totalTracks": 1,
     "type": "single",
@@ -194,6 +226,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f69fea230fa569ca6703de97",
     "releaseDate": "2023-08-02",
+    "tags": [
+      "pop"
+    ],
     "title": "Don't need your love",
     "totalTracks": 1,
     "type": "single",
@@ -212,6 +247,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ec480359b8ddf5f3a2f4184b",
     "releaseDate": "2023-03-14",
+    "tags": [
+      "pop"
+    ],
     "title": "The Best (UA)",
     "totalTracks": 5,
     "type": "single",
@@ -231,6 +269,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ae65bad60c46957ec2d48177",
     "releaseDate": "2023-02-14",
+    "tags": [
+      "pop"
+    ],
     "title": "Вітрила (Rulia Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -251,6 +292,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734a34f56b26dc5ff67a0b2c18",
     "releaseDate": "2023-02-01",
+    "tags": [
+      "pop"
+    ],
     "title": "Кіт і драма [Forse (UA) & Fizruk Remix]",
     "totalTracks": 1,
     "type": "single",
@@ -269,6 +313,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab00347ea18494e7a9f42d38",
     "releaseDate": "2022-07-22",
+    "tags": [
+      "pop"
+    ],
     "title": "мені не дзвони",
     "totalTracks": 1,
     "type": "single",
@@ -287,6 +334,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738bd5b1677f1e187bfaef9e7d",
     "releaseDate": "2022-01-01",
+    "tags": [
+      "pop"
+    ],
     "title": "Не зволікай",
     "totalTracks": 1,
     "type": "single",
@@ -306,6 +356,11 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736a006318482b18a13b880763",
     "releaseDate": "2021-01-01",
+    "tags": [
+      "pop",
+      "polish",
+      "ambient"
+    ],
     "title": "Таємний знак (Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -324,6 +379,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731cb7cbbe7ef4cf21ef51cb6c",
     "releaseDate": "2021-01-01",
+    "tags": [
+      "pop"
+    ],
     "title": "Кіт і драма",
     "totalTracks": 1,
     "type": "single",
@@ -343,6 +401,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738d3c527f1b6eddba74747b09",
     "releaseDate": "2021-01-01",
+    "tags": [
+      "pop"
+    ],
     "title": "І кров кипить (Julik Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -361,6 +422,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dc02b81941aa5a7576086166",
     "releaseDate": "2021-01-01",
+    "tags": [
+      "pop"
+    ],
     "title": "І кров кипить",
     "totalTracks": 1,
     "type": "single",
@@ -379,6 +443,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d8f1edd6703b8af8e708dcdc",
     "releaseDate": "2020-12-01",
+    "tags": [
+      "pop"
+    ],
     "title": "Dance With The Devil",
     "totalTracks": 1,
     "type": "single",
@@ -399,6 +466,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bc5b0bc3df9c2683d2359db5",
     "releaseDate": "2019-01-01",
+    "tags": [
+      "pop"
+    ],
     "title": "Ти (Shnaps & Sanya Dymov Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -417,6 +487,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c2eb0d9647ad9b2607d71c56",
     "releaseDate": "2019-01-01",
+    "tags": [
+      "pop"
+    ],
     "title": "Ти",
     "totalTracks": 1,
     "type": "single",
@@ -435,6 +508,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27328b6a79802084763784c1db2",
     "releaseDate": "2019-01-01",
+    "tags": [
+      "pop"
+    ],
     "title": "Вітрила",
     "totalTracks": 1,
     "type": "single",
@@ -453,6 +529,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27310479d336447b6e638055320",
     "releaseDate": "2019-01-01",
+    "tags": [
+      "pop"
+    ],
     "title": "Oh, No!",
     "totalTracks": 1,
     "type": "single",
@@ -471,6 +550,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738320b8c65dd677a79e9cfdc0",
     "releaseDate": "2018-12-24",
+    "tags": [
+      "pop"
+    ],
     "title": "Чудова мить",
     "totalTracks": 1,
     "type": "single",
@@ -489,6 +571,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738d0a1acf55d0435d2435d2d2",
     "releaseDate": "2018-01-01",
+    "tags": [
+      "pop"
+    ],
     "title": "З тобою, зі мною, і годі",
     "totalTracks": 1,
     "type": "single",
@@ -507,6 +592,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730a33686439bcbba289c54b1d",
     "releaseDate": "2018-01-01",
+    "tags": [
+      "pop"
+    ],
     "title": "Under the Ladder",
     "totalTracks": 1,
     "type": "single",
@@ -525,6 +613,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27323dc591a50323ea2b60e7835",
     "releaseDate": "2018-01-01",
+    "tags": [
+      "pop"
+    ],
     "title": "Under The Ladder (Instrumental Version)",
     "totalTracks": 1,
     "type": "single",
@@ -543,6 +634,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273423bd25ca41a2873c44f3286",
     "releaseDate": "2018-01-01",
+    "tags": [
+      "pop"
+    ],
     "title": "That's Your Role",
     "totalTracks": 1,
     "type": "single",
@@ -561,6 +655,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27373fd42174c958d8f5ac3f643",
     "releaseDate": "2017-01-01",
+    "tags": [
+      "pop"
+    ],
     "title": "Unbroken",
     "totalTracks": 1,
     "type": "single",
@@ -579,6 +676,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27377e66700917aa7a6562a3612",
     "releaseDate": "2017-01-01",
+    "tags": [
+      "pop"
+    ],
     "title": "Face to Face",
     "totalTracks": 6,
     "type": "single",
@@ -597,6 +697,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739ad7c82c7b0b5ba28077d2e1",
     "releaseDate": "2017",
+    "tags": [
+      "pop"
+    ],
     "title": "Hooligan",
     "totalTracks": 1,
     "type": "single",
@@ -615,6 +718,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ba171fb3ef38d81d66b099ea",
     "releaseDate": "2016-01-01",
+    "tags": [
+      "pop"
+    ],
     "title": "Wonder",
     "totalTracks": 1,
     "type": "single",
@@ -633,6 +739,7 @@
     "artistsPopularity": 29,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d03c8bc61bd176b1ef1ab5b0",
     "releaseDate": "2025-09-12",
+    "tags": [],
     "title": "Про особисте",
     "totalTracks": 15,
     "type": "album",
@@ -653,6 +760,10 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273413e0eb844ac9d95252e4239",
     "releaseDate": "2022-04-21",
+    "tags": [
+      "pop",
+      "dance"
+    ],
     "title": "Разом до перемоги",
     "totalTracks": 1,
     "type": "single",
@@ -671,6 +782,10 @@
     "artistsPopularity": 23,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273120a6416f39d75bd9fdc9e82",
     "releaseDate": "2023-09-06",
+    "tags": [
+      "polish",
+      "ambient"
+    ],
     "title": "Вініл",
     "totalTracks": 16,
     "type": "album",

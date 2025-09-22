@@ -12,6 +12,9 @@
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273268982fb4d26697b980c635a",
     "releaseDate": "2019-06-27",
+    "tags": [
+      "soul"
+    ],
     "title": "Малі сполохані звірята",
     "totalTracks": 9,
     "type": "album",
@@ -30,6 +33,9 @@
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732f478d3b5fe4cb214a908b56",
     "releaseDate": "2017-11-01",
+    "tags": [
+      "soul"
+    ],
     "title": "Облич безліч",
     "totalTracks": 10,
     "type": "album",
@@ -48,6 +54,9 @@
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731c52066bbfcb6916c23e29ee",
     "releaseDate": "2022-04-12",
+    "tags": [
+      "soul"
+    ],
     "title": "кров на білій лопатці землі",
     "totalTracks": 1,
     "type": "single",
@@ -66,6 +75,9 @@
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738d5605ce8edd54b717873a60",
     "releaseDate": "2020-05-22",
+    "tags": [
+      "soul"
+    ],
     "title": "Голосу гілочка",
     "totalTracks": 4,
     "type": "single",
@@ -84,6 +96,9 @@
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aa5c649bedca3e90800955b2",
     "releaseDate": "2017-10-19",
+    "tags": [
+      "soul"
+    ],
     "title": "Вчора",
     "totalTracks": 1,
     "type": "single",
@@ -104,6 +119,10 @@
     "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27398f26ae4d8e82296311945e3",
     "releaseDate": "2015-03-03",
+    "tags": [
+      "post-punk",
+      "soul"
+    ],
     "title": "Звуки",
     "totalTracks": 1,
     "type": "single",
@@ -122,6 +141,7 @@
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273311c2c72498bcdee21c9e2d3",
     "releaseDate": "2024-03-28",
+    "tags": [],
     "title": "Початок",
     "totalTracks": 1,
     "type": "single",
@@ -140,6 +160,10 @@
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27311cc729fbc17a78899f3a7c9",
     "releaseDate": "2015-07-14",
+    "tags": [
+      "downtempo",
+      "ambient"
+    ],
     "title": "Wound Theory. Act II: Identity Crisis",
     "totalTracks": 6,
     "type": "album",
@@ -158,6 +182,9 @@
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273768e02559765afba4af04cc3",
     "releaseDate": "2022-09-16",
+    "tags": [
+      "trip-hop"
+    ],
     "title": "Змістовно Різні",
     "totalTracks": 9,
     "type": "album",
@@ -176,6 +203,9 @@
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c33af347d65c62d3fe9b76f2",
     "releaseDate": "2018-07-25",
+    "tags": [
+      "trip-hop"
+    ],
     "title": "OK",
     "totalTracks": 1,
     "type": "single",

@@ -1,0 +1,80 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-22T19:19:56.157Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Білий Бо",
+      "Костя Cartman"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bf4de8f926308ba1604b4820",
+    "releaseDate": "2023-02-14",
+    "tags": [],
+    "title": "Слів Немає",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7kOQpZAt9WfmS1MqtkvTm8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-22T19:19:56.157Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Костя Cartman"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27374f0357718bfcded43e6f887",
+    "releaseDate": "2022-10-09",
+    "tags": [],
+    "title": "Світло най горить",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6j8aDeetbT8acgHGgcn2iU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-22T19:19:56.157Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Білий Бо",
+      "Костя Cartman"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e1adaab888c5dccf23b34a71",
+    "releaseDate": "2022-05-20",
+    "tags": [],
+    "title": "Ой люлі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/36Rr3w1qHRUb5Ee2fISkYX"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-22T19:19:56.157Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Костя Cartman"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27353a310640723a81de61db7e1",
+    "releaseDate": "2021-11-25",
+    "tags": [],
+    "title": "Компас",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2CiHwrsbEZkukuXrkNmUXA"
+  }
+]

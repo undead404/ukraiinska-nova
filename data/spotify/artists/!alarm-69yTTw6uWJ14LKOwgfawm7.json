@@ -12,6 +12,10 @@
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f2d698c756fcc0dd0607151c",
     "releaseDate": "2021-08-01",
+    "tags": [
+      "techno",
+      "darkwave"
+    ],
     "title": "Live in Kyiv 11.07.21",
     "totalTracks": 10,
     "type": "album",
@@ -31,6 +35,13 @@
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737043a4b16804c9415a55e756",
     "releaseDate": "2022-01-31",
+    "tags": [
+      "digital hardcore",
+      "techno",
+      "darkwave",
+      "electronic hardcore",
+      "Rave"
+    ],
     "title": "GULIAYOU.zip (!alarm Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -49,6 +60,10 @@
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f321da920408e1b8acb7c0f1",
     "releaseDate": "2022-01-22",
+    "tags": [
+      "techno",
+      "darkwave"
+    ],
     "title": "vidbytky",
     "totalTracks": 1,
     "type": "single",
@@ -67,6 +82,10 @@
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d0be2789c897f984ef847da1",
     "releaseDate": "2021-03-24",
+    "tags": [
+      "techno",
+      "darkwave"
+    ],
     "title": "гуляю",
     "totalTracks": 1,
     "type": "single",
@@ -85,6 +104,10 @@
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738e2ebb90ce6da9f4bcd43b2b",
     "releaseDate": "2020-01-09",
+    "tags": [
+      "techno",
+      "darkwave"
+    ],
     "title": "jinjelik (demo)",
     "totalTracks": 3,
     "type": "single",

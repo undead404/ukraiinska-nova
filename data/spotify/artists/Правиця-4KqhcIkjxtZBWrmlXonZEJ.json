@@ -12,6 +12,10 @@
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731345c19e82e1d6727def5c0a",
     "releaseDate": "2015-10-01",
+    "tags": [
+      "folk",
+      "ethno"
+    ],
     "title": "Кривий танець",
     "totalTracks": 10,
     "type": "album",
@@ -31,6 +35,11 @@
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dc1d9d1a365e507c57fa5f2f",
     "releaseDate": "2024-11-20",
+    "tags": [
+      "pop",
+      "folk",
+      "ethno"
+    ],
     "title": "Щедрівочка",
     "totalTracks": 1,
     "type": "single",
@@ -49,6 +58,10 @@
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273355e2353bffdfd5928aa3094",
     "releaseDate": "2021-02-26",
+    "tags": [
+      "folk",
+      "ethno"
+    ],
     "title": "Любила",
     "totalTracks": 3,
     "type": "single",
@@ -67,6 +80,10 @@
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273821de2077561394cf37153b5",
     "releaseDate": "2021-02-26",
+    "tags": [
+      "folk",
+      "ethno"
+    ],
     "title": "Журавка",
     "totalTracks": 1,
     "type": "single",
@@ -85,6 +102,10 @@
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d7771f5a307971cd1dd97abe",
     "releaseDate": "2018-03-06",
+    "tags": [
+      "folk",
+      "ethno"
+    ],
     "title": "Губи солодонькі",
     "totalTracks": 1,
     "type": "single",
@@ -103,6 +124,10 @@
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bb99865e5a6403dae386df46",
     "releaseDate": "2016-07-08",
+    "tags": [
+      "folk",
+      "ethno"
+    ],
     "title": "Наталічка",
     "totalTracks": 1,
     "type": "single",
@@ -121,6 +146,10 @@
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27378a8310eec2aadf37f16c29f",
     "releaseDate": "2016-04-20",
+    "tags": [
+      "folk",
+      "ethno"
+    ],
     "title": "Губи солодонькі",
     "totalTracks": 1,
     "type": "single",
@@ -139,6 +168,10 @@
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27383d588bf40c206acdf4b658e",
     "releaseDate": "2016-01-04",
+    "tags": [
+      "folk",
+      "ethno"
+    ],
     "title": "Щедрівка",
     "totalTracks": 1,
     "type": "single",
@@ -157,6 +190,10 @@
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273466b62cc0a87102c34d71767",
     "releaseDate": "2015-12-28",
+    "tags": [
+      "folk",
+      "ethno"
+    ],
     "title": "Семилітка",
     "totalTracks": 1,
     "type": "single",
@@ -176,6 +213,7 @@
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f1cc9a84b5f84211a0a8671",
     "releaseDate": "2022-02-22",
+    "tags": [],
     "title": "Podolyanka",
     "totalTracks": 2,
     "type": "single",

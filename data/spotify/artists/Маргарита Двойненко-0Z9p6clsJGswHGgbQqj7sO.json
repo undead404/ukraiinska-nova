@@ -1,0 +1,60 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-22T19:20:07.039Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Божена Дар",
+      "Маргарита Двойненко"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b5478730da81687d516f5025",
+    "releaseDate": "2024-01-24",
+    "tags": [],
+    "title": "Вітаємо з Різдвом",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7MiTbDdW2YeBd96oni877K"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-22T19:20:07.039Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Маргарита Двойненко"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734ae9af3a6f737dc6189ecfcb",
+    "releaseDate": "2016-12-01",
+    "tags": [],
+    "title": "Зачем",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0qNbJO0G7KX6x1Haws23go"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-22T19:20:07.039Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Маргарита Двойненко"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f2dbcd1cde7a0f303029c900",
+    "releaseDate": "2016-12-01",
+    "tags": [],
+    "title": "Две минуты до рассвета",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2uJjGaBqOO6iJ0cyaqDcT5"
+  }
+]
