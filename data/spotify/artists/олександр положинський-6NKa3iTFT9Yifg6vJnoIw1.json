@@ -12,6 +12,9 @@
     "artistsPopularity": 19,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273612a7b2b722e253332d8237a",
     "releaseDate": "2025-05-15",
+    "tags": [
+      "rock"
+    ],
     "title": "ЗСУВ",
     "totalTracks": 18,
     "type": "album",
@@ -30,6 +33,9 @@
     "artistsPopularity": 19,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27361249ff3ba03dc7fe505f706",
     "releaseDate": "2023-04-06",
+    "tags": [
+      "rock"
+    ],
     "title": "Попри Все",
     "totalTracks": 13,
     "type": "album",
@@ -48,6 +54,9 @@
     "artistsPopularity": 19,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731bef42e1bdd3b62f5267f2f4",
     "releaseDate": "2025-03-06",
+    "tags": [
+      "rock"
+    ],
     "title": "Де ідуть бої",
     "totalTracks": 1,
     "type": "single",
@@ -66,6 +75,9 @@
     "artistsPopularity": 19,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273249a122ce8659700945b222f",
     "releaseDate": "2025-02-20",
+    "tags": [
+      "rock"
+    ],
     "title": "Заговорений",
     "totalTracks": 1,
     "type": "single",
@@ -85,6 +97,10 @@
     "artistsPopularity": 23,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d5af6e5d9e7ca0de48bf76d2",
     "releaseDate": "2024-09-12",
+    "tags": [
+      "rock",
+      "pop"
+    ],
     "title": "Час",
     "totalTracks": 1,
     "type": "single",
@@ -104,6 +120,10 @@
     "artistsPopularity": 24,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273515c42197af3daa5efaf2358",
     "releaseDate": "2024-05-30",
+    "tags": [
+      "rockabilly",
+      "rock"
+    ],
     "title": "Морська піхота",
     "totalTracks": 1,
     "type": "single",
@@ -123,6 +143,9 @@
     "artistsPopularity": 19,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bca4111aaad73fa0017b2638",
     "releaseDate": "2024-05-03",
+    "tags": [
+      "rock"
+    ],
     "title": "Сука війна",
     "totalTracks": 1,
     "type": "single",
@@ -141,6 +164,9 @@
     "artistsPopularity": 19,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27326dcec7299a99f5cf5102bb6",
     "releaseDate": "2024-02-29",
+    "tags": [
+      "rock"
+    ],
     "title": "На Висоті",
     "totalTracks": 1,
     "type": "single",
@@ -161,6 +187,12 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736aec40229e292c81f2dbbb9c",
     "releaseDate": "2023-12-29",
+    "tags": [
+      "rock",
+      "folk",
+      "pop",
+      "ua"
+    ],
     "title": "Вогники",
     "totalTracks": 1,
     "type": "single",
@@ -180,6 +212,11 @@
     "artistsPopularity": 19,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e2de7ac8a1b23fa22b7fd28f",
     "releaseDate": "2023-11-16",
+    "tags": [
+      "soul",
+      "rock",
+      "female vocalists"
+    ],
     "title": "Спалахи",
     "totalTracks": 1,
     "type": "single",
@@ -199,6 +236,11 @@
     "artistsPopularity": 31,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ad1631875edebcee3fb5b309",
     "releaseDate": "2022-05-05",
+    "tags": [
+      "rock",
+      "rapcore",
+      "alternative rock"
+    ],
     "title": "Клаптики холодного вогню",
     "totalTracks": 1,
     "type": "single",
@@ -218,6 +260,11 @@
     "artistsPopularity": 31,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27330288ff1d725e733833e0157",
     "releaseDate": "2022-01-25",
+    "tags": [
+      "rock",
+      "rapcore",
+      "alternative rock"
+    ],
     "title": "Моєї дискотеки треки",
     "totalTracks": 1,
     "type": "single",
@@ -237,6 +284,11 @@
     "artistsPopularity": 31,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f4715aceb008d20cd316a1b8",
     "releaseDate": "2021-11-05",
+    "tags": [
+      "rock",
+      "rapcore",
+      "alternative rock"
+    ],
     "title": "Гасли ми",
     "totalTracks": 1,
     "type": "single",
@@ -257,6 +309,9 @@
     "artistsPopularity": 19,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736be997cc42991bfa47250e15",
     "releaseDate": "2021-09-17",
+    "tags": [
+      "rock"
+    ],
     "title": "Марунові берети",
     "totalTracks": 1,
     "type": "single",
@@ -276,6 +331,9 @@
     "artistsPopularity": 19,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fd7aa917fe044a1b488047bf",
     "releaseDate": "2021-05-07",
+    "tags": [
+      "rock"
+    ],
     "title": "Несподівано",
     "totalTracks": 1,
     "type": "single",
@@ -294,6 +352,7 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f02b9298b78dba2edae1ec85",
     "releaseDate": "2017-11-10",
+    "tags": [],
     "title": "Слова і ноти",
     "totalTracks": 11,
     "type": "album",
@@ -312,6 +371,7 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736d8edb1481bbf040922737f8",
     "releaseDate": "2008-07-03",
+    "tags": [],
     "title": "Кольорові сни",
     "totalTracks": 12,
     "type": "album",
@@ -330,6 +390,10 @@
     "artistsPopularity": 22,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b1b6d084621383942281bccb",
     "releaseDate": "2006-06-17",
+    "tags": [
+      "ethnic",
+      "electronic"
+    ],
     "title": "Я - молодая",
     "totalTracks": 13,
     "type": "album",
@@ -348,6 +412,9 @@
     "artistsPopularity": 23,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ea1938a30082127cd19aa733",
     "releaseDate": "2016-11-24",
+    "tags": [
+      "folk"
+    ],
     "title": "Ніна Матвієнко",
     "totalTracks": 1,
     "type": "single",
@@ -366,6 +433,10 @@
     "artistsPopularity": 26,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273997e8b34e8c08497109633e2",
     "releaseDate": "2023-06-23",
+    "tags": [
+      "alternative rock",
+      "rock"
+    ],
     "title": "Земля",
     "totalTracks": 1,
     "type": "single",
@@ -384,6 +455,7 @@
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736e70c0f4621eaaf8f49d3f4b",
     "releaseDate": "2023-12-22",
+    "tags": [],
     "title": "Мільйон на дрон",
     "totalTracks": 1,
     "type": "single",

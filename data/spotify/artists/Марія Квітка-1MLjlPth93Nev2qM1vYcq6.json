@@ -13,6 +13,14 @@
     "artistsPopularity": 19,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fd2a2052899eb5068f7db8e5",
     "releaseDate": "2025-06-19",
+    "tags": [
+      "indie folk",
+      "folk",
+      "ambient",
+      "electronic",
+      "idm",
+      "folk pop"
+    ],
     "title": "РОЗЦВІТ",
     "totalTracks": 10,
     "type": "album",
@@ -31,6 +39,11 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736b55da56462d68f5a87d13a9",
     "releaseDate": "2023-05-18",
+    "tags": [
+      "indie folk",
+      "folk",
+      "folk pop"
+    ],
     "title": "Дай серцю ВОЛЮ",
     "totalTracks": 8,
     "type": "album",
@@ -50,6 +63,14 @@
     "artistsPopularity": 19,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e332b11321d92c3d527a8b4f",
     "releaseDate": "2025-05-15",
+    "tags": [
+      "indie folk",
+      "folk",
+      "ambient",
+      "electronic",
+      "idm",
+      "folk pop"
+    ],
     "title": "Пташок викликаю",
     "totalTracks": 1,
     "type": "single",
@@ -69,6 +90,14 @@
     "artistsPopularity": 19,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b679b12f619936e55afd24a5",
     "releaseDate": "2024-12-12",
+    "tags": [
+      "indie folk",
+      "folk",
+      "ambient",
+      "electronic",
+      "idm",
+      "folk pop"
+    ],
     "title": "Сама",
     "totalTracks": 1,
     "type": "single",
@@ -87,6 +116,11 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27336ff64635c5b2688de278cf1",
     "releaseDate": "2023-05-04",
+    "tags": [
+      "indie folk",
+      "folk",
+      "folk pop"
+    ],
     "title": "Кохала",
     "totalTracks": 1,
     "type": "single",
@@ -105,6 +139,9 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273269970bbf1dd8b3ad6fe2623",
     "releaseDate": "2023-12-08",
+    "tags": [
+      "pop"
+    ],
     "title": "настрій: колядувати",
     "totalTracks": 13,
     "type": "album",

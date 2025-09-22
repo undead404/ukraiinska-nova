@@ -12,6 +12,9 @@
     "artistsPopularity": 33,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735ce43c011f46665d921918f1",
     "releaseDate": "2023-02-03",
+    "tags": [
+      "rap"
+    ],
     "title": "Хто я?",
     "totalTracks": 10,
     "type": "album",
@@ -31,6 +34,9 @@
     "artistsPopularity": 33,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cebb53691a4cc9a1d1721c8f",
     "releaseDate": "2025-07-11",
+    "tags": [
+      "rap"
+    ],
     "title": "Кому яке діло",
     "totalTracks": 1,
     "type": "single",
@@ -49,6 +55,9 @@
     "artistsPopularity": 33,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27333adc1d6a89361545ea719ff",
     "releaseDate": "2025-06-20",
+    "tags": [
+      "rap"
+    ],
     "title": "Танцюй",
     "totalTracks": 1,
     "type": "single",
@@ -67,6 +76,9 @@
     "artistsPopularity": 33,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273054302f04ea96b465e72f4cc",
     "releaseDate": "2025-02-07",
+    "tags": [
+      "rap"
+    ],
     "title": "Магнолія",
     "totalTracks": 1,
     "type": "single",
@@ -85,6 +97,9 @@
     "artistsPopularity": 33,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273415309ad5ec3c67eaed60b8e",
     "releaseDate": "2024-12-27",
+    "tags": [
+      "rap"
+    ],
     "title": "Часу нема",
     "totalTracks": 1,
     "type": "single",
@@ -103,6 +118,9 @@
     "artistsPopularity": 33,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736544b39ee892f888c9606a61",
     "releaseDate": "2024-11-29",
+    "tags": [
+      "rap"
+    ],
     "title": "Ще один день до зими",
     "totalTracks": 1,
     "type": "single",
@@ -123,6 +141,10 @@
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730badcc8a99a6eecc0fa33eda",
     "releaseDate": "2024-11-07",
+    "tags": [
+      "Hip-Hop",
+      "rap"
+    ],
     "title": "КИЇВСЬКИЙ ДВІЖ",
     "totalTracks": 1,
     "type": "single",
@@ -141,6 +163,9 @@
     "artistsPopularity": 33,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c7fecaf7c0980653a7d0c313",
     "releaseDate": "2024-11-01",
+    "tags": [
+      "rap"
+    ],
     "title": "Все сильніше",
     "totalTracks": 1,
     "type": "single",
@@ -159,6 +184,9 @@
     "artistsPopularity": 33,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730774c011244b4bf49d4036a1",
     "releaseDate": "2024-07-19",
+    "tags": [
+      "rap"
+    ],
     "title": "Карусель",
     "totalTracks": 1,
     "type": "single",
@@ -177,6 +205,9 @@
     "artistsPopularity": 33,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738602332c02b4f678bfd29e8c",
     "releaseDate": "2024-05-10",
+    "tags": [
+      "rap"
+    ],
     "title": "Своє коріння не забув",
     "totalTracks": 1,
     "type": "single",
@@ -195,6 +226,9 @@
     "artistsPopularity": 33,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738e9a5f0f85822ff5b9453d53",
     "releaseDate": "2024-05-03",
+    "tags": [
+      "rap"
+    ],
     "title": "Якщо надія є",
     "totalTracks": 1,
     "type": "single",
@@ -214,6 +248,9 @@
     "artistsPopularity": 33,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ce6c4dbcc0187fb440d0ced2",
     "releaseDate": "2024-04-19",
+    "tags": [
+      "rap"
+    ],
     "title": "Немає сенсу (Djew Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -232,6 +269,9 @@
     "artistsPopularity": 33,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739d91c42118cd0862b5e8684e",
     "releaseDate": "2024-03-22",
+    "tags": [
+      "rap"
+    ],
     "title": "Немає сенсу",
     "totalTracks": 1,
     "type": "single",
@@ -250,6 +290,9 @@
     "artistsPopularity": 33,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b6a0039da5a3b783c1c00d0f",
     "releaseDate": "2023-12-22",
+    "tags": [
+      "rap"
+    ],
     "title": "Все моє тепло",
     "totalTracks": 1,
     "type": "single",
@@ -269,6 +312,9 @@
     "artistsPopularity": 39,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273368fc4b3c143d356ce4b3f12",
     "releaseDate": "2023-11-15",
+    "tags": [
+      "rap"
+    ],
     "title": "Краще ніж ти",
     "totalTracks": 1,
     "type": "single",
@@ -289,6 +335,12 @@
     "artistsPopularity": 54,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a891f666e256f45c4e0488d1",
     "releaseDate": "2023-10-26",
+    "tags": [
+      "rap",
+      "full-on",
+      "psytrance",
+      "thrash metal"
+    ],
     "title": "НЕПОМІТНА",
     "totalTracks": 1,
     "type": "single",
@@ -307,6 +359,9 @@
     "artistsPopularity": 33,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27379450a771eeae0a8ddabb47f",
     "releaseDate": "2023-08-25",
+    "tags": [
+      "rap"
+    ],
     "title": "До дна",
     "totalTracks": 1,
     "type": "single",
@@ -326,6 +381,11 @@
     "artistsPopularity": 33,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27383753c9eb550e602ced80a8f",
     "releaseDate": "2023-08-11",
+    "tags": [
+      "rap",
+      "pop",
+      "booba"
+    ],
     "title": "Продаюсь в попсу",
     "totalTracks": 1,
     "type": "single",
@@ -344,6 +404,9 @@
     "artistsPopularity": 33,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bf84085b38a98b2334ebceef",
     "releaseDate": "2023-07-28",
+    "tags": [
+      "rap"
+    ],
     "title": "Наче у блендері",
     "totalTracks": 1,
     "type": "single",
@@ -362,6 +425,9 @@
     "artistsPopularity": 33,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27339bca7d20368a66259b21522",
     "releaseDate": "2023-06-30",
+    "tags": [
+      "rap"
+    ],
     "title": "Mamacita",
     "totalTracks": 1,
     "type": "single",
@@ -380,6 +446,9 @@
     "artistsPopularity": 33,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273baa2842369f3433aabe923b6",
     "releaseDate": "2023-06-09",
+    "tags": [
+      "rap"
+    ],
     "title": "Не святим",
     "totalTracks": 1,
     "type": "single",
@@ -398,6 +467,9 @@
     "artistsPopularity": 33,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27389c50768cbe2cb51b292bd70",
     "releaseDate": "2023-04-27",
+    "tags": [
+      "rap"
+    ],
     "title": "Save my mind",
     "totalTracks": 1,
     "type": "single",
@@ -416,6 +488,9 @@
     "artistsPopularity": 33,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273657ccb67073dc234abb84200",
     "releaseDate": "2023-01-23",
+    "tags": [
+      "rap"
+    ],
     "title": "Під шафе (Boilook Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -434,6 +509,9 @@
     "artistsPopularity": 33,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f10cb49ebf5498d07e91ae24",
     "releaseDate": "2023-01-22",
+    "tags": [
+      "rap"
+    ],
     "title": "Під шафе (BID0NCI0N Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -453,6 +531,10 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730f7a82d60fc9a8d019661406",
     "releaseDate": "2022-11-25",
+    "tags": [
+      "rap",
+      "Hip-Hop"
+    ],
     "title": "Палай",
     "totalTracks": 1,
     "type": "single",
@@ -471,6 +553,9 @@
     "artistsPopularity": 33,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737ad00b4aedbe509746641b9b",
     "releaseDate": "2022-10-14",
+    "tags": [
+      "rap"
+    ],
     "title": "Під шафе",
     "totalTracks": 1,
     "type": "single",
@@ -489,6 +574,9 @@
     "artistsPopularity": 33,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27368bacac3a299e9f72b981ac3",
     "releaseDate": "2022-08-26",
+    "tags": [
+      "rap"
+    ],
     "title": "Життя нове",
     "totalTracks": 1,
     "type": "single",
@@ -507,6 +595,9 @@
     "artistsPopularity": 33,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a175e5073d62086332fbeb7e",
     "releaseDate": "2022-07-29",
+    "tags": [
+      "rap"
+    ],
     "title": "Містер окупант",
     "totalTracks": 1,
     "type": "single",
@@ -526,6 +617,9 @@
     "artistsPopularity": 33,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736bcb000d1b8ea7e0bae7c179",
     "releaseDate": "2022-07-27",
+    "tags": [
+      "rap"
+    ],
     "title": "Маю крила (Djew Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -544,6 +638,9 @@
     "artistsPopularity": 33,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273300ce6f9a04861e3cde167da",
     "releaseDate": "2022-06-24",
+    "tags": [
+      "rap"
+    ],
     "title": "Маю крила",
     "totalTracks": 1,
     "type": "single",
@@ -562,6 +659,9 @@
     "artistsPopularity": 21,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a41ccd48191e448fe7bf20f3",
     "releaseDate": "2024-06-14",
+    "tags": [
+      "rap"
+    ],
     "title": "#СПРАВЖНІЙ",
     "totalTracks": 14,
     "type": "album",
@@ -580,6 +680,12 @@
     "artistsPopularity": 5,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27395998d9757788ffc5003c5ab",
     "releaseDate": "2023-06-13",
+    "tags": [
+      "hip hop",
+      "rap",
+      "underground hip-hop",
+      "Hip-Hop"
+    ],
     "title": "ПСАЙФЕР",
     "totalTracks": 1,
     "type": "single",
@@ -598,6 +704,7 @@
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e66e3f44344aa4dcecc6a154",
     "releaseDate": "2023-12-08",
+    "tags": [],
     "title": "Ua Open 2023",
     "totalTracks": 1,
     "type": "single",

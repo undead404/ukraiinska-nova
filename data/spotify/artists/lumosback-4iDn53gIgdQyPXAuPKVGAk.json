@@ -14,6 +14,9 @@
     "artistsPopularity": 31,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738462dd4b6fca8b0d15ed9030",
     "releaseDate": "2025-06-20",
+    "tags": [
+      "indie rock"
+    ],
     "title": "Рухати",
     "totalTracks": 1,
     "type": "single",
@@ -32,6 +35,9 @@
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739fa0823480f1322f10f94874",
     "releaseDate": "2025-05-09",
+    "tags": [
+      "indie rock"
+    ],
     "title": "Войд",
     "totalTracks": 1,
     "type": "single",
@@ -51,6 +57,11 @@
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a2c49221c65069c91db5f2e6",
     "releaseDate": "2024-11-22",
+    "tags": [
+      "hip hop",
+      "rap",
+      "indie rock"
+    ],
     "title": "Потвора",
     "totalTracks": 1,
     "type": "single",
@@ -69,6 +80,9 @@
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735b68b794ff797de40325bb3e",
     "releaseDate": "2024-05-31",
+    "tags": [
+      "indie rock"
+    ],
     "title": "Вогні",
     "totalTracks": 1,
     "type": "single",
@@ -88,6 +102,11 @@
     "artistsPopularity": 31,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27367bbcaef54cc00e3970c2534",
     "releaseDate": "2024-03-28",
+    "tags": [
+      "electronic",
+      "indie rock",
+      "breakbeat"
+    ],
     "title": "Зробив тобі.wav",
     "totalTracks": 1,
     "type": "single",
@@ -107,6 +126,11 @@
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f26f8623647153750f73a79",
     "releaseDate": "2024-02-23",
+    "tags": [
+      "hip hop",
+      "rap",
+      "indie rock"
+    ],
     "title": "Yolo",
     "totalTracks": 1,
     "type": "single",
@@ -125,6 +149,9 @@
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d7b13da209c037808369a6e9",
     "releaseDate": "2023-09-08",
+    "tags": [
+      "indie rock"
+    ],
     "title": "Світло Повернеться",
     "totalTracks": 5,
     "type": "single",
@@ -143,6 +170,9 @@
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273793af912fc9aa3210e905861",
     "releaseDate": "2023-08-04",
+    "tags": [
+      "indie rock"
+    ],
     "title": "Відображення",
     "totalTracks": 1,
     "type": "single",
@@ -162,6 +192,11 @@
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a40eba0e1da2ce8552079b5c",
     "releaseDate": "2023-03-17",
+    "tags": [
+      "indie rock",
+      "hip hop",
+      "rap"
+    ],
     "title": "Незнайомі",
     "totalTracks": 1,
     "type": "single",
@@ -181,6 +216,10 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cb390014651c2bd067852756",
     "releaseDate": "2022-10-07",
+    "tags": [
+      "trap",
+      "indie rock"
+    ],
     "title": "На Хмарі",
     "totalTracks": 1,
     "type": "single",
@@ -199,6 +238,10 @@
     "artistsPopularity": 31,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736d4c8869913a5901c82f78be",
     "releaseDate": "2024-03-28",
+    "tags": [
+      "electronic",
+      "breakbeat"
+    ],
     "title": "По колу",
     "totalTracks": 4,
     "type": "single",
@@ -217,6 +260,7 @@
     "artistsPopularity": 31,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a4b0ddb2bb541ae1135d6e3b",
     "releaseDate": "2025-06-20",
+    "tags": [],
     "title": "За її лаштунками, Vol.2",
     "totalTracks": 5,
     "type": "single",
@@ -235,6 +279,7 @@
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273042516ee8f21b683cad72eab",
     "releaseDate": "2023-05-17",
+    "tags": [],
     "title": "До*",
     "totalTracks": 6,
     "type": "single",

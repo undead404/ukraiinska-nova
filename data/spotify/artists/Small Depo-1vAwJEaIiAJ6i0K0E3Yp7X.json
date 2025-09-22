@@ -12,6 +12,9 @@
     "artistsPopularity": 25,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731880f0d09e40d17bfa22de4f",
     "releaseDate": "2025-04-04",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Вікна",
     "totalTracks": 1,
     "type": "single",
@@ -30,6 +33,9 @@
     "artistsPopularity": 25,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273daef40f67f605ed53434aaae",
     "releaseDate": "2024-11-29",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Карнавал",
     "totalTracks": 5,
     "type": "single",
@@ -48,6 +54,9 @@
     "artistsPopularity": 25,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d9a7cc4baf692038c11ee8c0",
     "releaseDate": "2024-11-22",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Емігрант",
     "totalTracks": 1,
     "type": "single",
@@ -67,6 +76,12 @@
     "artistsPopularity": 25,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731ede3c7873723685045e2c25",
     "releaseDate": "2024-08-02",
+    "tags": [
+      "pop",
+      "post-punk",
+      "X-Factor",
+      "Voice of the country"
+    ],
     "title": "Вічність",
     "totalTracks": 1,
     "type": "single",
@@ -86,6 +101,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739cb053916f12e9d22cc5a541",
     "releaseDate": "2024-06-28",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Черга",
     "totalTracks": 1,
     "type": "single",
@@ -104,6 +122,9 @@
     "artistsPopularity": 25,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739545abd652d2bc52f215e72a",
     "releaseDate": "2024-04-05",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Терпіння",
     "totalTracks": 5,
     "type": "single",
@@ -123,6 +144,11 @@
     "artistsPopularity": 25,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739d39f641269bd23193a0fd1b",
     "releaseDate": "2024-03-22",
+    "tags": [
+      "post-punk",
+      "Lo-Fi",
+      "bedroom pop"
+    ],
     "title": "Термін",
     "totalTracks": 1,
     "type": "single",
@@ -144,6 +170,10 @@
     "artistsPopularity": 25,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bd1c498b61410e4a5e64a20d",
     "releaseDate": "2017-09-22",
+    "tags": [
+      "post-punk",
+      "rock"
+    ],
     "title": "За отпуск!",
     "totalTracks": 4,
     "type": "single",
@@ -162,6 +192,9 @@
     "artistsPopularity": 25,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27350981fd975a2a36725121b6e",
     "releaseDate": "2017-05-05",
+    "tags": [
+      "post-punk"
+    ],
     "title": "My Lawyer",
     "totalTracks": 1,
     "type": "single",
@@ -180,6 +213,9 @@
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736b4b6df600af8410f96be30c",
     "releaseDate": "2023-05-31",
+    "tags": [
+      "indie pop"
+    ],
     "title": "Абсолютна брехня",
     "totalTracks": 9,
     "type": "album",
