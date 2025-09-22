@@ -1,7 +1,7 @@
-import fetchWithSchema from '../../helpers/fetch-with-schema.js';
 import normalizeTags from '../../helpers/normalize-tags.js';
 
-import { errorResponseSchema, toptagsResponseSchema } from './schemata.js';
+import fetchFromLastfm from './fetch-from-lastfm.js';
+import { toptagsResponseSchema } from './schemata.js';
 
 const MAX_TAGS_NUMBER = 8;
 
@@ -16,19 +16,22 @@ export async function getArtistsTags(apiKey: string, artists: string[]) {
     }
     let artistTags = ARTIST_TAGS_CACHE.get(trimmedArtistName);
     if (!artistTags) {
-      try {
-        const artistTopTags = await fetchWithSchema(
-          `https://ws.audioscrobbler.com/2.0/?method=artist.gettoptags&artist=${encodeURIComponent(trimmedArtistName)}&api_key=${apiKey}&format=json`,
-          toptagsResponseSchema,
-          errorResponseSchema,
-        );
+      const artistTopTags = await fetchFromLastfm(
+        {
+          api_key: apiKey,
+          artist: encodeURIComponent(trimmedArtistName),
+          method: 'artist.gettoptags',
+        },
+        toptagsResponseSchema,
+      );
+      if (artistTopTags) {
         artistTags = normalizeTags(artistTopTags.toptags.tag);
         ARTIST_TAGS_CACHE.set(trimmedArtistName, artistTags);
-      } catch (error) {
-        console.error(error);
       }
     }
-    tags.push(...artistTags!);
+    if (artistTags) {
+      tags.push(...artistTags);
+    }
   }
   // sort tags by count, descending
   tags.sort((a, b) => b.count - a.count);

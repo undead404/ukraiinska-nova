@@ -1,6 +1,5 @@
-import fetchWithSchema from '../../helpers/fetch-with-schema.js';
-
-import { errorResponseSchema, infoResponseSchema } from './schemata.js';
+import fetchFromLastfm from './fetch-from-lastfm.js';
+import { infoResponseSchema } from './schemata.js';
 
 const ARTIST_POPULARITY_CACHE = new Map<string, number>();
 
@@ -14,16 +13,17 @@ export async function getArtistsPopularity(apiKey: string, artists: string[]) {
     let popularity = 0;
     const cachedValue = ARTIST_POPULARITY_CACHE.get(trimmedArtistName);
     if (!cachedValue && cachedValue !== 0) {
-      try {
-        const artistInfo = await fetchWithSchema(
-          `https://ws.audioscrobbler.com/2.0/?method=artist.getinfo&artist=${encodeURIComponent(trimmedArtistName)}&api_key=${apiKey}&format=json`,
-          infoResponseSchema,
-          errorResponseSchema,
-        );
+      const artistInfo = await fetchFromLastfm(
+        {
+          api_key: apiKey,
+          artist: encodeURIComponent(trimmedArtistName),
+          method: 'artist.getinfo',
+        },
+        infoResponseSchema,
+      );
+      if (artistInfo) {
         popularity = Math.trunc(Math.log10(artistInfo.artist.stats.listeners));
         ARTIST_POPULARITY_CACHE.set(trimmedArtistName, popularity);
-      } catch (error) {
-        console.error(error);
       }
     } else {
       popularity = cachedValue;
