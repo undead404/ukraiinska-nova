@@ -6,10 +6,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["The Budchuk"],
+    "artists": [
+      "The Budchuk"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273094c4dfad1f9c4bdf7a40709",
     "releaseDate": "2023-08-11",
+    "tags": [
+      "pop",
+      "folk pop",
+      "electropop"
+    ],
     "title": "Будинок з музикою",
     "totalTracks": 7,
     "type": "album",
@@ -22,10 +29,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["The Budchuk"],
+    "artists": [
+      "The Budchuk"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273453afcfac57962addd9fac8a",
     "releaseDate": "2025-07-18",
+    "tags": [
+      "pop",
+      "folk pop",
+      "electropop"
+    ],
     "title": "Drop",
     "totalTracks": 1,
     "type": "single",
@@ -38,10 +52,19 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["elarm", "The Budchuk"],
+    "artists": [
+      "elarm",
+      "The Budchuk"
+    ],
     "artistsPopularity": 31,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c6f8de1192ac4e9b2c5401b3",
     "releaseDate": "2025-06-13",
+    "tags": [
+      "rap",
+      "pop",
+      "folk pop",
+      "electropop"
+    ],
     "title": "Вабить",
     "totalTracks": 1,
     "type": "single",
@@ -54,10 +77,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["The Budchuk"],
+    "artists": [
+      "The Budchuk"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734aeff7fd532e20230ccbd048",
     "releaseDate": "2024-08-30",
+    "tags": [
+      "pop",
+      "folk pop",
+      "electropop"
+    ],
     "title": "Далі... Світло...",
     "totalTracks": 5,
     "type": "single",
@@ -70,10 +100,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["MONATIK", "The Budchuk"],
+    "artists": [
+      "MONATIK",
+      "The Budchuk"
+    ],
     "artistsPopularity": 54,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733a5738e74856ea1248a3feab",
     "releaseDate": "2024-07-05",
+    "tags": [
+      "pop",
+      "folk pop",
+      "electropop"
+    ],
     "title": "Про Чарівну (The Budchuk Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -86,10 +124,20 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Tember Blanche", "The Budchuk"],
+    "artists": [
+      "Tember Blanche",
+      "The Budchuk"
+    ],
     "artistsPopularity": 43,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fec92ea34406d40315efa8ce",
     "releaseDate": "2024-06-07",
+    "tags": [
+      "pop",
+      "folk pop",
+      "electropop",
+      "ethereal",
+      "ethereal wave"
+    ],
     "title": "Телепат",
     "totalTracks": 1,
     "type": "single",
@@ -102,10 +150,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["The Budchuk", "RUDNITSKYI"],
+    "artists": [
+      "The Budchuk",
+      "RUDNITSKYI"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dfbd92e5995d028b14e19b8f",
     "releaseDate": "2024-02-02",
+    "tags": [
+      "pop",
+      "folk pop",
+      "electropop"
+    ],
     "title": "Ой там на горі",
     "totalTracks": 1,
     "type": "single",
@@ -118,10 +174,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["The Budchuk", "Musson"],
+    "artists": [
+      "The Budchuk",
+      "Musson"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731a05a5c3693b3b31f450459f",
     "releaseDate": "2023-11-03",
+    "tags": [
+      "pop",
+      "folk pop",
+      "electropop"
+    ],
     "title": "Slava Ukraini",
     "totalTracks": 1,
     "type": "single",
@@ -134,10 +198,20 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["The Budchuk", "askwhen"],
+    "artists": [
+      "The Budchuk",
+      "askwhen"
+    ],
     "artistsPopularity": 34,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a892da7bfef62e6f932e0c3c",
     "releaseDate": "2023-07-28",
+    "tags": [
+      "pop",
+      "rap",
+      "hip hop",
+      "folk pop",
+      "electropop"
+    ],
     "title": "Вона",
     "totalTracks": 1,
     "type": "single",
@@ -150,10 +224,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Olivan", "The Budchuk"],
+    "artists": [
+      "Olivan",
+      "The Budchuk"
+    ],
     "artistsPopularity": 36,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d983947f1b6e43c2a39ff16a",
     "releaseDate": "2023-05-05",
+    "tags": [
+      "pop",
+      "folk pop",
+      "electropop"
+    ],
     "title": "Ти мій світ",
     "totalTracks": 2,
     "type": "single",
@@ -166,10 +248,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["The Budchuk"],
+    "artists": [
+      "The Budchuk"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273699fb779581cb58e54a804fb",
     "releaseDate": "2023-03-03",
+    "tags": [
+      "pop",
+      "folk pop",
+      "electropop"
+    ],
     "title": "Парова машина",
     "totalTracks": 1,
     "type": "single",
@@ -182,10 +271,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["The Budchuk"],
+    "artists": [
+      "The Budchuk"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273287f39e01712fdaec5fcbe8d",
     "releaseDate": "2023-02-14",
+    "tags": [
+      "pop",
+      "folk pop",
+      "electropop"
+    ],
     "title": "Відчути",
     "totalTracks": 1,
     "type": "single",
@@ -198,10 +294,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["The Budchuk"],
+    "artists": [
+      "The Budchuk"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cfb24b98acaacea6a52f98bf",
     "releaseDate": "2022-12-01",
+    "tags": [
+      "pop",
+      "folk pop",
+      "electropop"
+    ],
     "title": "Я живий",
     "totalTracks": 1,
     "type": "single",
@@ -214,10 +317,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["The Budchuk"],
+    "artists": [
+      "The Budchuk"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732f02a18613404445abcddbef",
     "releaseDate": "2022-09-15",
+    "tags": [
+      "pop",
+      "folk pop",
+      "electropop"
+    ],
     "title": "Feel Like",
     "totalTracks": 1,
     "type": "single",

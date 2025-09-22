@@ -1,0 +1,72 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-22T15:23:59.177Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТАЙТЛД",
+      "Nekura",
+      "Garmata Syndicate"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d4653235ac254ec035a8e030",
+    "releaseDate": "2025-02-28",
+    "tags": [
+      "metalcore",
+      "future funk",
+      "screamo",
+      "hardcore"
+    ],
+    "title": "потужна",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0It8ePmqpTOVbhYwF7iTBH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-22T15:23:59.177Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Nekura"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273db0a35ec55170bbe32d1c503",
+    "releaseDate": "2024-02-02",
+    "tags": [
+      "future funk",
+      "screamo"
+    ],
+    "title": "Instrumentals from Nekura EP",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0jQbkahPtz4YlmgGXSxKsf"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-22T15:23:59.177Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Nekura"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a1c8fe17e27304fec7202a11",
+    "releaseDate": "2023-11-30",
+    "tags": [
+      "future funk",
+      "screamo"
+    ],
+    "title": "Nekura EP",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7Eqgoo8Xi5mRdr0HVSqA5N"
+  }
+]

@@ -6,10 +6,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "Balsam"],
+    "artists": [
+      "KALUSH",
+      "Balsam"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ca450f339ddc250a7745705d",
     "releaseDate": "2025-07-03",
+    "tags": [
+      "rap",
+      "chillout",
+      "ambient"
+    ],
     "title": "Вітер",
     "totalTracks": 1,
     "type": "single",
@@ -22,10 +30,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Balsam"],
+    "artists": [
+      "Balsam"
+    ],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a0fded85e40ee0e0c8c04f45",
     "releaseDate": "2025-04-25",
+    "tags": [
+      "chillout",
+      "ambient"
+    ],
     "title": "Дофамін",
     "totalTracks": 1,
     "type": "single",
@@ -38,10 +52,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Balsam"],
+    "artists": [
+      "Balsam"
+    ],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27312ed556aa7512d1a1a83d30f",
     "releaseDate": "2025-03-13",
+    "tags": [
+      "chillout",
+      "ambient"
+    ],
     "title": "Шлях",
     "totalTracks": 1,
     "type": "single",
@@ -54,10 +74,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Vlad Darwin", "Олена Тополя", "Balsam"],
+    "artists": [
+      "Vlad Darwin",
+      "Олена Тополя",
+      "Balsam"
+    ],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739700ca91a8489170b8fc73c6",
     "releaseDate": "2025-02-14",
+    "tags": [
+      "chillout",
+      "ambient"
+    ],
     "title": "Ти найкраща (2025 Version)",
     "totalTracks": 1,
     "type": "single",
@@ -70,10 +98,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Balsam"],
+    "artists": [
+      "Balsam"
+    ],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738ed52a05099594401e077186",
     "releaseDate": "2025-01-29",
+    "tags": [
+      "chillout",
+      "ambient"
+    ],
     "title": "Збережи",
     "totalTracks": 1,
     "type": "single",
@@ -86,10 +120,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Balsam"],
+    "artists": [
+      "Balsam"
+    ],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735bb1d9af2e3bb3c88350659b",
     "releaseDate": "2024-10-02",
+    "tags": [
+      "chillout",
+      "ambient"
+    ],
     "title": "Не плач",
     "totalTracks": 1,
     "type": "single",
@@ -102,10 +142,19 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Balsam", "OM"],
+    "artists": [
+      "Balsam",
+      "OM"
+    ],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b5128d0171be58867fdbec2c",
     "releaseDate": "2024-08-30",
+    "tags": [
+      "chillout",
+      "ambient",
+      "doom metal",
+      "Stoner Rock"
+    ],
     "title": "Маяк",
     "totalTracks": 1,
     "type": "single",
@@ -118,10 +167,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Balsam"],
+    "artists": [
+      "Balsam"
+    ],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27307d343e9f35c0556e3e7f76c",
     "releaseDate": "2024-08-16",
+    "tags": [
+      "chillout",
+      "ambient"
+    ],
     "title": "Сонце в твоїх очах",
     "totalTracks": 1,
     "type": "single",
@@ -134,10 +189,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Balsam", "NICHKA"],
+    "artists": [
+      "Balsam",
+      "NICHKA"
+    ],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f71249ef31d3c57ea071b718",
     "releaseDate": "2024-08-15",
+    "tags": [
+      "chillout",
+      "ambient",
+      "indie pop"
+    ],
     "title": "Вириватись",
     "totalTracks": 1,
     "type": "single",
@@ -150,10 +213,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "Balsam"],
+    "artists": [
+      "KALUSH",
+      "Balsam"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737d52b8751a1f5699ac966138",
     "releaseDate": "2024-07-25",
+    "tags": [
+      "rap",
+      "chillout",
+      "ambient"
+    ],
     "title": "Грай музикант",
     "totalTracks": 1,
     "type": "single",
@@ -166,10 +237,20 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Francuz", "Balsam"],
+    "artists": [
+      "Francuz",
+      "Balsam"
+    ],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e9a63365ead44d4cbd04fa2a",
     "releaseDate": "2024-07-19",
+    "tags": [
+      "rap",
+      "funk",
+      "chillout",
+      "ambient",
+      "undeground"
+    ],
     "title": "Катарсис",
     "totalTracks": 1,
     "type": "single",
@@ -182,10 +263,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["MamaRika", "Balsam"],
+    "artists": [
+      "MamaRika",
+      "Balsam"
+    ],
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273374552cd1ec7130fd687fb92",
     "releaseDate": "2024-07-15",
+    "tags": [
+      "pop",
+      "chillout",
+      "ambient"
+    ],
     "title": "Шепоче дощ",
     "totalTracks": 1,
     "type": "single",
@@ -198,10 +287,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Balsam"],
+    "artists": [
+      "Balsam"
+    ],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27375f1f97c482a37135e419fee",
     "releaseDate": "2024-06-27",
+    "tags": [
+      "chillout",
+      "ambient"
+    ],
     "title": "Море",
     "totalTracks": 1,
     "type": "single",
@@ -214,10 +309,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Balsam"],
+    "artists": [
+      "Balsam"
+    ],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aa233e196d2f4c65986db97d",
     "releaseDate": "2024-05-23",
+    "tags": [
+      "chillout",
+      "ambient"
+    ],
     "title": "Не шукав",
     "totalTracks": 1,
     "type": "single",
@@ -230,10 +331,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "Balsam"],
+    "artists": [
+      "KALUSH",
+      "Balsam"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b807760944a35805ab6fe7d8",
     "releaseDate": "2024-05-16",
+    "tags": [
+      "rap",
+      "chillout",
+      "ambient"
+    ],
     "title": "Розбуди мене",
     "totalTracks": 1,
     "type": "single",
@@ -246,10 +355,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Balsam"],
+    "artists": [
+      "Balsam"
+    ],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273792d7267fa316ac2d3300baf",
     "releaseDate": "2024-04-25",
+    "tags": [
+      "chillout",
+      "ambient"
+    ],
     "title": "Сон",
     "totalTracks": 1,
     "type": "single",
@@ -262,10 +377,21 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "Adam", "Balsam"],
+    "artists": [
+      "KALUSH",
+      "Adam",
+      "Balsam"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273005c56e33ebb3c345b29f4a7",
     "releaseDate": "2024-04-18",
+    "tags": [
+      "rap",
+      "dark electro",
+      "chillout",
+      "ambient",
+      "ebm"
+    ],
     "title": "Останній раз",
     "totalTracks": 1,
     "type": "single",
@@ -278,10 +404,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Balsam"],
+    "artists": [
+      "Balsam"
+    ],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27362e79b49f325c45880fcf28e",
     "releaseDate": "2024-03-07",
+    "tags": [
+      "chillout",
+      "ambient"
+    ],
     "title": "Зодіак",
     "totalTracks": 1,
     "type": "single",
@@ -294,10 +426,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Balsam"],
+    "artists": [
+      "Balsam"
+    ],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e9834afc10c9bc52afd2a566",
     "releaseDate": "2023-11-16",
+    "tags": [
+      "chillout",
+      "ambient"
+    ],
     "title": "Квітка",
     "totalTracks": 1,
     "type": "single",
@@ -310,10 +448,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["kazaxoslav", "Balsam"],
+    "artists": [
+      "kazaxoslav",
+      "Balsam"
+    ],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27385bb03a232ac1955cb4a3f7a",
     "releaseDate": "2023-08-30",
+    "tags": [
+      "chillout",
+      "ambient"
+    ],
     "title": "На Дистанції (Ayat)",
     "totalTracks": 1,
     "type": "single",
@@ -326,10 +471,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Balsam"],
+    "artists": [
+      "Balsam"
+    ],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730eb22035d4e2229be37a9d04",
     "releaseDate": "2023-08-29",
+    "tags": [
+      "chillout",
+      "ambient"
+    ],
     "title": "Заповіт 2.0",
     "totalTracks": 1,
     "type": "single",
@@ -342,10 +493,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Balsam", "NICHKA"],
+    "artists": [
+      "Balsam",
+      "NICHKA"
+    ],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c0734b62ef5c6daa8b894f01",
     "releaseDate": "2023-08-03",
+    "tags": [
+      "chillout",
+      "ambient",
+      "indie pop"
+    ],
     "title": "Відшукати",
     "totalTracks": 1,
     "type": "single",
@@ -358,10 +517,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Balsam"],
+    "artists": [
+      "Balsam"
+    ],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273db4df5a5a35e5d75d75731e5",
     "releaseDate": "2023-07-27",
+    "tags": [
+      "chillout",
+      "ambient"
+    ],
     "title": "Не божеволій",
     "totalTracks": 1,
     "type": "single",
@@ -374,10 +539,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Balsam"],
+    "artists": [
+      "Balsam"
+    ],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e987d83d1e49b3b024654a5d",
     "releaseDate": "2023-07-12",
+    "tags": [
+      "chillout",
+      "ambient"
+    ],
     "title": "За моїм вікном",
     "totalTracks": 1,
     "type": "single",
@@ -390,10 +561,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Balsam"],
+    "artists": [
+      "Balsam"
+    ],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736062bf4cb7455639f550c349",
     "releaseDate": "2023-05-31",
+    "tags": [
+      "chillout",
+      "ambient"
+    ],
     "title": "Коси",
     "totalTracks": 1,
     "type": "single",
@@ -406,10 +583,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Balsam"],
+    "artists": [
+      "Balsam"
+    ],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733ba3e9ba62ceca8c81bf14ca",
     "releaseDate": "2023-04-12",
+    "tags": [
+      "chillout",
+      "ambient"
+    ],
     "title": "Патрон",
     "totalTracks": 1,
     "type": "single",
@@ -422,10 +605,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Balsam"],
+    "artists": [
+      "Balsam"
+    ],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27373a3eb5f0f78c230ae1e66fa",
     "releaseDate": "2023-03-22",
+    "tags": [
+      "chillout",
+      "ambient"
+    ],
     "title": "Pereday moyim",
     "totalTracks": 1,
     "type": "single",
@@ -438,10 +627,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Tony Tonite"],
+    "artists": [
+      "Tony Tonite"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273156682cfd81b6b506c3273e8",
     "releaseDate": "2023-09-29",
+    "tags": [
+      "Hip-Hop",
+      "House"
+    ],
     "title": "ПОЗИВНИЙ ТТ",
     "totalTracks": 5,
     "type": "single",
@@ -454,10 +649,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ROPAN"],
+    "artists": [
+      "ROPAN"
+    ],
     "artistsPopularity": 29,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736fbff48f00ea03c2cdae7f5a",
     "releaseDate": "2025-08-29",
+    "tags": [
+      "reggae",
+      "dub",
+      "rap",
+      "dancehall"
+    ],
     "title": "Фенікс",
     "totalTracks": 1,
     "type": "single",

@@ -12,6 +12,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273415a04baeaa1cea3730d0e46",
     "releaseDate": "2022-09-30",
+    "tags": [
+      "funk"
+    ],
     "title": "Senbernar",
     "totalTracks": 11,
     "type": "album",
@@ -30,6 +33,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f048ee3d3998340d328f8015",
     "releaseDate": "2018-05-11",
+    "tags": [
+      "funk"
+    ],
     "title": "Ajahuaska",
     "totalTracks": 13,
     "type": "album",
@@ -48,6 +54,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273af36aaed2618d46923cd52d6",
     "releaseDate": "2017-06-09",
+    "tags": [
+      "funk"
+    ],
     "title": "Season One",
     "totalTracks": 7,
     "type": "album",
@@ -66,6 +75,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273133014a7fc0f1ab0e0da4a14",
     "releaseDate": "2025-07-25",
+    "tags": [
+      "funk"
+    ],
     "title": "Nich (Live at Fabrychna,12)",
     "totalTracks": 2,
     "type": "single",
@@ -85,6 +97,11 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273127c38480ebac9e3c92e93ae",
     "releaseDate": "2025-07-11",
+    "tags": [
+      "funk",
+      "trance",
+      "progressive trance"
+    ],
     "title": "Nich (The Madison Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -104,6 +121,11 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736c722bd1005988beabab912e",
     "releaseDate": "2025-06-26",
+    "tags": [
+      "funk",
+      "electro house",
+      "House"
+    ],
     "title": "Nich (Andi Vax Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -122,6 +144,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ec1c7a40427d0faefd0e001d",
     "releaseDate": "2025-05-21",
+    "tags": [
+      "funk"
+    ],
     "title": "Nich",
     "totalTracks": 2,
     "type": "single",
@@ -140,6 +165,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733a79a2c8cdc514b0a7d202e7",
     "releaseDate": "2024-12-04",
+    "tags": [
+      "funk"
+    ],
     "title": "Remixes",
     "totalTracks": 3,
     "type": "single",
@@ -158,6 +186,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732d0d9b2c1d2867c8f406d5de",
     "releaseDate": "2024-10-04",
+    "tags": [
+      "funk"
+    ],
     "title": "Lucerna",
     "totalTracks": 3,
     "type": "single",
@@ -176,6 +207,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737ba73c5c355c0912d16a25f5",
     "releaseDate": "2024-09-06",
+    "tags": [
+      "funk"
+    ],
     "title": "Sweet",
     "totalTracks": 1,
     "type": "single",
@@ -195,6 +229,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a706794a9e5da7b5f1a751c3",
     "releaseDate": "2024-08-22",
+    "tags": [
+      "funk"
+    ],
     "title": "Makoterchyk (Cikatro Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -213,6 +250,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a90274ea6376622c3c6c5d68",
     "releaseDate": "2024-05-10",
+    "tags": [
+      "funk"
+    ],
     "title": "Makoterchyk",
     "totalTracks": 1,
     "type": "single",
@@ -232,6 +272,11 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b554dc4e46979538b777ef13",
     "releaseDate": "2023-12-22",
+    "tags": [
+      "funk",
+      "trance",
+      "progressive trance"
+    ],
     "title": "Bohun (The Madison Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -251,6 +296,11 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a9f0e459b9d8d2e0524e86f8",
     "releaseDate": "2023-10-06",
+    "tags": [
+      "funk",
+      "electro house",
+      "House"
+    ],
     "title": "Masandra (Andi Vax Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -269,6 +319,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273badcb05eab751852c7358593",
     "releaseDate": "2023-09-15",
+    "tags": [
+      "funk"
+    ],
     "title": "Masandra",
     "totalTracks": 1,
     "type": "single",
@@ -289,6 +342,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f09b665c9a62c6a166e9fb8b",
     "releaseDate": "2023-03-10",
+    "tags": [
+      "funk"
+    ],
     "title": "Bounty (Solex UA & Gooch Brown Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -308,6 +364,11 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739cc4707be45bcfe3ea71dac1",
     "releaseDate": "2022-12-23",
+    "tags": [
+      "funk",
+      "electro house",
+      "House"
+    ],
     "title": "Cherkaschyna (Andi Vax Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -326,6 +387,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738a3062757d4eb74146702176",
     "releaseDate": "2022-09-02",
+    "tags": [
+      "funk"
+    ],
     "title": "Bohun",
     "totalTracks": 1,
     "type": "single",
@@ -345,6 +409,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273978fdfff49d03ac2e3ce56bb",
     "releaseDate": "2021-08-27",
+    "tags": [
+      "funk"
+    ],
     "title": "Bounty (СJ Plus Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -364,6 +431,10 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b7d27adb7cf660e556a5584b",
     "releaseDate": "2021-08-17",
+    "tags": [
+      "funk",
+      "pop"
+    ],
     "title": "Bounty",
     "totalTracks": 1,
     "type": "single",
@@ -383,6 +454,11 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d78947e8ac2b0b2af00e953a",
     "releaseDate": "2021-08-06",
+    "tags": [
+      "funk",
+      "trance",
+      "progressive trance"
+    ],
     "title": "Bounty (The Madison Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -402,6 +478,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a0b100f62bb79e6aa478313d",
     "releaseDate": "2021-06-18",
+    "tags": [
+      "funk"
+    ],
     "title": "Bounty (Toroi Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -420,6 +499,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731c62fe7f400a97eb3220e45b",
     "releaseDate": "2021-05-14",
+    "tags": [
+      "funk"
+    ],
     "title": "Bounty",
     "totalTracks": 1,
     "type": "single",
@@ -438,6 +520,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d8aa6cea74496560e10986af",
     "releaseDate": "2021-01-29",
+    "tags": [
+      "funk"
+    ],
     "title": "Arktika",
     "totalTracks": 1,
     "type": "single",
@@ -457,6 +542,11 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ee220fd9e5e05af3aac8e601",
     "releaseDate": "2020-04-16",
+    "tags": [
+      "funk",
+      "hip hop",
+      "indie pop"
+    ],
     "title": "Surfer (Morphom remix)",
     "totalTracks": 1,
     "type": "single",
@@ -475,6 +565,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273488ce218ea3c120bf5fd6040",
     "releaseDate": "2020-03-27",
+    "tags": [
+      "funk"
+    ],
     "title": "Kosatka",
     "totalTracks": 1,
     "type": "single",
@@ -493,6 +586,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369acb4d697deecf2db14e0b4",
     "releaseDate": "2019-11-22",
+    "tags": [
+      "funk"
+    ],
     "title": "Odyssey",
     "totalTracks": 1,
     "type": "single",
@@ -512,6 +608,10 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fc5f36ed89eac35f78696347",
     "releaseDate": "2019-11-08",
+    "tags": [
+      "funk",
+      "electronic"
+    ],
     "title": "Evpatoria (Flashtronica Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -530,6 +630,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27376f044fb5d8a9308545487fc",
     "releaseDate": "2019-08-02",
+    "tags": [
+      "funk"
+    ],
     "title": "Delfinam",
     "totalTracks": 1,
     "type": "single",
@@ -548,6 +651,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cf31fe157c44af063c44f6a8",
     "releaseDate": "2019-04-09",
+    "tags": [
+      "funk"
+    ],
     "title": "Evpatoria",
     "totalTracks": 1,
     "type": "single",
@@ -566,6 +672,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27329b6354846ff77367eed877f",
     "releaseDate": "2018-11-15",
+    "tags": [
+      "funk"
+    ],
     "title": "Kungfu",
     "totalTracks": 1,
     "type": "single",
@@ -584,6 +693,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273520806af9e9bf4c212cafb51",
     "releaseDate": "2018-09-21",
+    "tags": [
+      "funk"
+    ],
     "title": "Kosmos",
     "totalTracks": 1,
     "type": "single",
@@ -602,6 +714,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737205cbb5fa5ddfb01cd72089",
     "releaseDate": "2018-02-09",
+    "tags": [
+      "funk"
+    ],
     "title": "ALOE",
     "totalTracks": 1,
     "type": "single",
@@ -622,6 +737,11 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a7ccdce292d1d94ace1fbc64",
     "releaseDate": "2017-12-20",
+    "tags": [
+      "funk",
+      "techno",
+      "bongos"
+    ],
     "title": "Surfer (Osshu aka Vadim Shuttle & Osvit Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -640,6 +760,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27376932eeae71fc5ff070eb90f",
     "releaseDate": "2017-09-20",
+    "tags": [
+      "funk"
+    ],
     "title": "Lime",
     "totalTracks": 1,
     "type": "single",
@@ -658,6 +781,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ef376b9bf199f9668d61d3b2",
     "releaseDate": "2017-06-09",
+    "tags": [
+      "funk"
+    ],
     "title": "Helios",
     "totalTracks": 1,
     "type": "single",
@@ -676,6 +802,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27382013d0ddbd12fba4858004a",
     "releaseDate": "2017-06-09",
+    "tags": [
+      "funk"
+    ],
     "title": "Doslidnytsya",
     "totalTracks": 1,
     "type": "single",
@@ -694,6 +823,9 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cb83a5a8df3ea405473fe38c",
     "releaseDate": "2021-10-13",
+    "tags": [
+      "funk"
+    ],
     "title": "Зембонджу",
     "totalTracks": 7,
     "type": "album",
@@ -712,6 +844,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273772aae9152253b4ac90c2ef0",
     "releaseDate": "2023-08-24",
+    "tags": [
+      "pop"
+    ],
     "title": "Independence Day of Ukraine",
     "totalTracks": 30,
     "type": "album",
@@ -730,6 +865,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738a07ba3f96b667c3d7ae81c5",
     "releaseDate": "2022-03-25",
+    "tags": [
+      "pop"
+    ],
     "title": "Українські пісні",
     "totalTracks": 22,
     "type": "album",
@@ -748,6 +886,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ff5f8a94ba63dfd387b5467c",
     "releaseDate": "2021-08-20",
+    "tags": [
+      "pop"
+    ],
     "title": "Молода кров",
     "totalTracks": 7,
     "type": "album",
@@ -768,6 +909,14 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27357bd2ebf7a0e9aecc6b59905",
     "releaseDate": "2020-05-16",
+    "tags": [
+      "pop",
+      "singer-songwriter",
+      "folk",
+      "Progressive metal",
+      "instrumental",
+      "indi"
+    ],
     "title": "Різні.Рівні",
     "totalTracks": 1,
     "type": "single",
@@ -786,6 +935,9 @@
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ea00057796c9108ed03a2b44",
     "releaseDate": "2024-07-18",
+    "tags": [
+      "electronic"
+    ],
     "title": "FRAGMENTS",
     "totalTracks": 11,
     "type": "album",

@@ -6,10 +6,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ЯКА РІЗНИЦЯ"],
+    "artists": [
+      "ЯКА РІЗНИЦЯ"
+    ],
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739b395da16edc9b3a41c106bd",
     "releaseDate": "2023-08-04",
+    "tags": [
+      "rock"
+    ],
     "title": "Кохання на декілька акордів",
     "totalTracks": 4,
     "type": "single",
@@ -22,10 +27,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ЯКА РІЗНИЦЯ", "ЯК СПРАВИ?"],
+    "artists": [
+      "ЯКА РІЗНИЦЯ",
+      "ЯК СПРАВИ?"
+    ],
     "artistsPopularity": 18,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731aebd8a611b7ff9c6ba556eb",
     "releaseDate": "2023-03-24",
+    "tags": [
+      "rock",
+      "indie rock"
+    ],
     "title": "Всі Схожі",
     "totalTracks": 1,
     "type": "single",
@@ -38,10 +50,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ЯКА РІЗНИЦЯ"],
+    "artists": [
+      "ЯКА РІЗНИЦЯ"
+    ],
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f56ce3903ea9211543e11ac",
     "releaseDate": "2023-02-14",
+    "tags": [
+      "rock"
+    ],
     "title": "Знову",
     "totalTracks": 1,
     "type": "single",

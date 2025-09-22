@@ -12,6 +12,11 @@
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273172b90645ff0d208422c5f8b",
     "releaseDate": "2023-01-28",
+    "tags": [
+      "synthpop",
+      "rap",
+      "Hip-Hop"
+    ],
     "title": "музика грає",
     "totalTracks": 10,
     "type": "album",
@@ -30,6 +35,11 @@
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27389b10028fa36fa968737e80d",
     "releaseDate": "2022-10-27",
+    "tags": [
+      "synthpop",
+      "rap",
+      "Hip-Hop"
+    ],
     "title": "це любов",
     "totalTracks": 1,
     "type": "single",

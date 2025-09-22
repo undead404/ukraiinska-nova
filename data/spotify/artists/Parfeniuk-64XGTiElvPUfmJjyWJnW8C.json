@@ -12,6 +12,9 @@
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273756c56762021fd8e600be358",
     "releaseDate": "2024-11-28",
+    "tags": [
+      "pop"
+    ],
     "title": "Врубай",
     "totalTracks": 8,
     "type": "album",
@@ -30,6 +33,9 @@
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b4f6979b406c11304a5ddabf",
     "releaseDate": "2025-08-28",
+    "tags": [
+      "pop"
+    ],
     "title": "Щось спільне",
     "totalTracks": 1,
     "type": "single",
@@ -48,6 +54,9 @@
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b38bc60892fea52511518361",
     "releaseDate": "2025-06-26",
+    "tags": [
+      "pop"
+    ],
     "title": "Про тебе",
     "totalTracks": 1,
     "type": "single",
@@ -67,6 +76,9 @@
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27318e1f74325db6319cdba7203",
     "releaseDate": "2025-05-14",
+    "tags": [
+      "pop"
+    ],
     "title": "Боляче",
     "totalTracks": 1,
     "type": "single",
@@ -85,6 +97,9 @@
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b24470e677a7b3ed86e5e76e",
     "releaseDate": "2025-02-27",
+    "tags": [
+      "pop"
+    ],
     "title": "Хубба Бубба",
     "totalTracks": 1,
     "type": "single",
@@ -103,6 +118,9 @@
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27319793dff5b682271e2e2df57",
     "releaseDate": "2025-01-09",
+    "tags": [
+      "pop"
+    ],
     "title": "Де би ти не була (Runstar Dance Version)",
     "totalTracks": 1,
     "type": "single",
@@ -121,6 +139,9 @@
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f19a6e749faf623e4508a8a7",
     "releaseDate": "2024-11-13",
+    "tags": [
+      "pop"
+    ],
     "title": "Де би ти не була",
     "totalTracks": 1,
     "type": "single",
@@ -139,6 +160,9 @@
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c3291d618e37e05580824057",
     "releaseDate": "2024-10-31",
+    "tags": [
+      "pop"
+    ],
     "title": "Врубай",
     "totalTracks": 1,
     "type": "single",
@@ -157,6 +181,9 @@
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d8a89bf6524c412f4ee03bbd",
     "releaseDate": "2024-09-12",
+    "tags": [
+      "pop"
+    ],
     "title": "Вітер",
     "totalTracks": 1,
     "type": "single",
@@ -177,6 +204,10 @@
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736065602dc6ec969b5321d83b",
     "releaseDate": "2024-08-16",
+    "tags": [
+      "pop",
+      "dance"
+    ],
     "title": "ДІВ ЧИНА",
     "totalTracks": 1,
     "type": "single",
@@ -196,6 +227,9 @@
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27335370af3f3934223ef7e5443",
     "releaseDate": "2024-07-18",
+    "tags": [
+      "pop"
+    ],
     "title": "Температура",
     "totalTracks": 1,
     "type": "single",
@@ -214,6 +248,9 @@
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731eba29a827cc81053aeb4e65",
     "releaseDate": "2024-06-14",
+    "tags": [
+      "pop"
+    ],
     "title": "На даху (Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -232,6 +269,9 @@
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e7a47536ca77352e5b4c5e06",
     "releaseDate": "2024-05-16",
+    "tags": [
+      "pop"
+    ],
     "title": "На даху",
     "totalTracks": 1,
     "type": "single",
@@ -250,6 +290,9 @@
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735786a628172be834c5c80903",
     "releaseDate": "2024-03-28",
+    "tags": [
+      "pop"
+    ],
     "title": "Дякую",
     "totalTracks": 1,
     "type": "single",
@@ -269,6 +312,9 @@
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27326f0c2b754381093f7617ab2",
     "releaseDate": "2024-02-16",
+    "tags": [
+      "pop"
+    ],
     "title": "Забий",
     "totalTracks": 1,
     "type": "single",
@@ -288,6 +334,9 @@
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735be10589e352ec1b31d4b1c2",
     "releaseDate": "2023-12-22",
+    "tags": [
+      "pop"
+    ],
     "title": "Накоїли",
     "totalTracks": 1,
     "type": "single",
@@ -306,6 +355,9 @@
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739a93a032b3d28772aa4723b1",
     "releaseDate": "2023-12-15",
+    "tags": [
+      "pop"
+    ],
     "title": "Серед вітрів",
     "totalTracks": 1,
     "type": "single",
@@ -324,6 +376,9 @@
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273454824633790e1910740aea1",
     "releaseDate": "2023-11-03",
+    "tags": [
+      "pop"
+    ],
     "title": "Мала",
     "totalTracks": 1,
     "type": "single",
@@ -342,6 +397,9 @@
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b4fca87381d9d076b72ae12c",
     "releaseDate": "2023-09-15",
+    "tags": [
+      "pop"
+    ],
     "title": "Повільно",
     "totalTracks": 1,
     "type": "single",
@@ -360,6 +418,9 @@
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273199bbadae8ee11ee01cf0cc6",
     "releaseDate": "2023-08-04",
+    "tags": [
+      "pop"
+    ],
     "title": "Поряд",
     "totalTracks": 1,
     "type": "single",
@@ -378,6 +439,9 @@
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e281f084200c5292c12269d2",
     "releaseDate": "2023-06-22",
+    "tags": [
+      "pop"
+    ],
     "title": "Долоні",
     "totalTracks": 1,
     "type": "single",
@@ -396,6 +460,9 @@
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273856e92a2a71480eecb47512d",
     "releaseDate": "2023-06-01",
+    "tags": [
+      "pop"
+    ],
     "title": "Провела екскурсію 2.0",
     "totalTracks": 1,
     "type": "single",
@@ -414,6 +481,9 @@
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730e2856c6527bc8c06af99c62",
     "releaseDate": "2023-05-03",
+    "tags": [
+      "pop"
+    ],
     "title": "Відриваючись",
     "totalTracks": 1,
     "type": "single",
@@ -432,6 +502,9 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734cf719a666803571c20ac536",
     "releaseDate": "2024-12-04",
+    "tags": [
+      "pop"
+    ],
     "title": "настрій: колядувати vol. 2",
     "totalTracks": 7,
     "type": "album",
@@ -450,6 +523,9 @@
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733514c51b1a492e8fd2a62a81",
     "releaseDate": "2024-12-06",
+    "tags": [
+      "pop"
+    ],
     "title": "тоша",
     "totalTracks": 5,
     "type": "single",

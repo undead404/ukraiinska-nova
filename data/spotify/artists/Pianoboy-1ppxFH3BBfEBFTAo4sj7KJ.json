@@ -6,10 +6,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Pianoboy"],
+    "artists": [
+      "Pianoboy"
+    ],
     "artistsPopularity": 36,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736738e8649101692c2bea14a0",
     "releaseDate": "2024-07-30",
+    "tags": [
+      "piano"
+    ],
     "title": "維也納浪漫古典鋼琴小品集",
     "totalTracks": 11,
     "type": "album",
@@ -22,10 +27,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Pianoboy"],
+    "artists": [
+      "Pianoboy"
+    ],
     "artistsPopularity": 36,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739ff053fcf39f7d11a3f93778",
     "releaseDate": "2020-05-08",
+    "tags": [
+      "piano"
+    ],
     "title": "Заброшка",
     "totalTracks": 9,
     "type": "album",
@@ -38,10 +48,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Pianoboy"],
+    "artists": [
+      "Pianoboy"
+    ],
     "artistsPopularity": 36,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27310172a074ac50a14965eb14c",
     "releaseDate": "2019-11-22",
+    "tags": [
+      "piano"
+    ],
     "title": "XICTOPI",
     "totalTracks": 10,
     "type": "album",
@@ -54,10 +69,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Pianoboy"],
+    "artists": [
+      "Pianoboy"
+    ],
     "artistsPopularity": 36,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734c19b3fd16c0917463b37f2e",
     "releaseDate": "2025-06-13",
+    "tags": [
+      "piano"
+    ],
     "title": "Пліч-о-Пліч",
     "totalTracks": 1,
     "type": "single",
@@ -70,10 +90,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Pianoboy"],
+    "artists": [
+      "Pianoboy"
+    ],
     "artistsPopularity": 36,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738372b88ff640a4eb5e2a2630",
     "releaseDate": "2025-03-21",
+    "tags": [
+      "piano"
+    ],
     "title": "Краще Що Є",
     "totalTracks": 1,
     "type": "single",
@@ -86,10 +111,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Pianoboy"],
+    "artists": [
+      "Pianoboy"
+    ],
     "artistsPopularity": 36,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ee098ff8dc1e1d8389e93ce0",
     "releaseDate": "2025-02-28",
+    "tags": [
+      "piano"
+    ],
     "title": "Знеструмлене Серце",
     "totalTracks": 1,
     "type": "single",
@@ -102,10 +132,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Pianoboy"],
+    "artists": [
+      "Pianoboy"
+    ],
     "artistsPopularity": 36,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e1cd74de223f427132014d1d",
     "releaseDate": "2024-07-26",
+    "tags": [
+      "piano"
+    ],
     "title": "Два перстені",
     "totalTracks": 1,
     "type": "single",
@@ -118,10 +153,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ТНМК", "Pianoboy"],
+    "artists": [
+      "ТНМК",
+      "Pianoboy"
+    ],
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b0be4945ca0434558b5c24d6",
     "releaseDate": "2024-03-07",
+    "tags": [
+      "Hip-Hop",
+      "piano"
+    ],
     "title": "Легенди",
     "totalTracks": 2,
     "type": "single",
@@ -134,10 +176,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Pianoboy"],
+    "artists": [
+      "Pianoboy"
+    ],
     "artistsPopularity": 36,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732521688048df23058a7e856c",
     "releaseDate": "2022-06-30",
+    "tags": [
+      "piano"
+    ],
     "title": "Триматись своїх",
     "totalTracks": 1,
     "type": "single",
@@ -150,10 +197,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Pianoboy"],
+    "artists": [
+      "Pianoboy"
+    ],
     "artistsPopularity": 36,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273141dae3aa6dd5a545e69466b",
     "releaseDate": "2021-05-21",
+    "tags": [
+      "piano"
+    ],
     "title": "Об'єднані любов'ю",
     "totalTracks": 1,
     "type": "single",
@@ -166,10 +218,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Pianoboy"],
+    "artists": [
+      "Pianoboy"
+    ],
     "artistsPopularity": 36,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27301130b8fc38922a001bb1d6b",
     "releaseDate": "2019-09-10",
+    "tags": [
+      "piano"
+    ],
     "title": "Перша Леді",
     "totalTracks": 1,
     "type": "single",
@@ -182,10 +239,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["SHY", "Pianoboy"],
+    "artists": [
+      "SHY",
+      "Pianoboy"
+    ],
     "artistsPopularity": 36,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27368e4ee52f4e1f0e1097ad2c2",
     "releaseDate": "2019-05-15",
+    "tags": [
+      "hard rock",
+      "piano"
+    ],
     "title": "Цілуй мене",
     "totalTracks": 1,
     "type": "single",
@@ -198,10 +262,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Pianoboy"],
+    "artists": [
+      "Pianoboy"
+    ],
     "artistsPopularity": 36,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a87eb9bfd5fc1c6d44c920ae",
     "releaseDate": "2019-02-12",
+    "tags": [
+      "piano"
+    ],
     "title": "Айсберги",
     "totalTracks": 2,
     "type": "single",
@@ -214,10 +283,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Pianoboy"],
+    "artists": [
+      "Pianoboy"
+    ],
     "artistsPopularity": 36,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736c4cf0b176ea8359590997df",
     "releaseDate": "2018-04-11",
+    "tags": [
+      "piano"
+    ],
     "title": "Все, Що Тебе Не Вбиває",
     "totalTracks": 2,
     "type": "single",
@@ -230,10 +304,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Dmytro Shurov", "Pianoboy"],
+    "artists": [
+      "Dmytro Shurov",
+      "Pianoboy"
+    ],
     "artistsPopularity": 36,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732e5a71df8ba1cd63d17974db",
     "releaseDate": "2017-03-30",
+    "tags": [
+      "piano"
+    ],
     "title": "Вітчизна",
     "totalTracks": 2,
     "type": "single",
@@ -246,10 +326,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Boombox"],
+    "artists": [
+      "Boombox"
+    ],
     "artistsPopularity": 57,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d43f1fa6ee1188b72341f999",
     "releaseDate": "2016",
+    "tags": [
+      "funk",
+      "Hip-Hop"
+    ],
     "title": "Люди",
     "totalTracks": 5,
     "type": "single",
@@ -262,10 +348,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Boombox"],
+    "artists": [
+      "Boombox"
+    ],
     "artistsPopularity": 57,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c8f7be1e2399e3a6f3154a51",
     "releaseDate": "2011",
+    "tags": [
+      "funk",
+      "Hip-Hop"
+    ],
     "title": "Середній вік",
     "totalTracks": 11,
     "type": "album",

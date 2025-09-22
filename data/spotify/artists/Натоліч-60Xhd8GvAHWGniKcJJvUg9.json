@@ -6,10 +6,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Натоліч"],
+    "artists": [
+      "Натоліч"
+    ],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab50f52f5e593bd39fd25968",
     "releaseDate": "2017-05-24",
+    "tags": [],
     "title": "Amon-Ra",
     "totalTracks": 15,
     "type": "album",
@@ -22,10 +25,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Натоліч"],
+    "artists": [
+      "Натоліч"
+    ],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273014901fa2bd817cef15aef76",
     "releaseDate": "2017-02-11",
+    "tags": [],
     "title": "Прометей",
     "totalTracks": 15,
     "type": "album",
@@ -38,10 +44,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Натоліч"],
+    "artists": [
+      "Натоліч"
+    ],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735c30c6adf6bd6287ba138413",
     "releaseDate": "2018-05-21",
+    "tags": [],
     "title": "Бігти разом",
     "totalTracks": 1,
     "type": "single",
@@ -54,10 +63,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Натоліч"],
+    "artists": [
+      "Натоліч"
+    ],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ebcbf1e05a7c983fb067dad0",
     "releaseDate": "2017-12-12",
+    "tags": [],
     "title": "Новорічна ніч",
     "totalTracks": 1,
     "type": "single",

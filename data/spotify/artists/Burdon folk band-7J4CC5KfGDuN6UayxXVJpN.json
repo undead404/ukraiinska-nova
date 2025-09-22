@@ -12,6 +12,9 @@
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733f4edc345006a7ef470876f7",
     "releaseDate": "2024-08-24",
+    "tags": [
+      "ulraine"
+    ],
     "title": "5th",
     "totalTracks": 11,
     "type": "album",
@@ -30,6 +33,9 @@
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d18007049402c918d0956e5d",
     "releaseDate": "2013-09-01",
+    "tags": [
+      "ulraine"
+    ],
     "title": "Re:karpatia",
     "totalTracks": 15,
     "type": "album",
@@ -48,6 +54,9 @@
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731e59ebd41267b0fd2b5fc912",
     "releaseDate": "2013-09-01",
+    "tags": [
+      "ulraine"
+    ],
     "title": "Divytsia",
     "totalTracks": 12,
     "type": "album",
@@ -66,6 +75,9 @@
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273855f050fad35618f9774023b",
     "releaseDate": "2008-09-01",
+    "tags": [
+      "ulraine"
+    ],
     "title": "Taistra chuhaistra",
     "totalTracks": 15,
     "type": "album",
@@ -84,6 +96,9 @@
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dacf2636ecbdb78c71209e64",
     "releaseDate": "2006-09-01",
+    "tags": [
+      "ulraine"
+    ],
     "title": "Vam koliadochka",
     "totalTracks": 7,
     "type": "album",
@@ -102,6 +117,7 @@
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732b753c98563300b9c72b9a8e",
     "releaseDate": "2023-06-16",
+    "tags": [],
     "title": "rusalon'ky",
     "totalTracks": 1,
     "type": "single",
@@ -120,6 +136,7 @@
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273628edbb1d6ce260fa2e873d7",
     "releaseDate": "2023-06-30",
+    "tags": [],
     "title": "gopak",
     "totalTracks": 1,
     "type": "single",

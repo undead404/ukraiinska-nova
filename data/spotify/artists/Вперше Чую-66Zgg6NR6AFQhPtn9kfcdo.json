@@ -6,10 +6,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Вперше Чую"],
+    "artists": [
+      "Вперше Чую"
+    ],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733f53777f59106f2f0be1efb2",
     "releaseDate": "2016-11-08",
+    "tags": [
+      "rock",
+      "alternative rock",
+      "folk rock"
+    ],
     "title": "СкаСка",
     "totalTracks": 10,
     "type": "album",
@@ -22,10 +29,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Вперше Чую"],
+    "artists": [
+      "Вперше Чую"
+    ],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734f2b2a375673a4ec14cf4d7f",
     "releaseDate": "2016-11-08",
+    "tags": [
+      "rock",
+      "alternative rock",
+      "folk rock"
+    ],
     "title": "Прямоток",
     "totalTracks": 13,
     "type": "album",
@@ -38,10 +52,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Вперше Чую"],
+    "artists": [
+      "Вперше Чую"
+    ],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738b7761dd9101e08415d295c4",
     "releaseDate": "2023-10-10",
+    "tags": [
+      "rock",
+      "alternative rock",
+      "folk rock"
+    ],
     "title": "Повертайся",
     "totalTracks": 1,
     "type": "single",
@@ -54,10 +75,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Вперше Чую"],
+    "artists": [
+      "Вперше Чую"
+    ],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27320f5e9b04cf83542d748407e",
     "releaseDate": "2017-01-31",
+    "tags": [
+      "rock",
+      "alternative rock",
+      "folk rock"
+    ],
     "title": "Саме та",
     "totalTracks": 1,
     "type": "single",
@@ -70,10 +98,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Вперше Чую"],
+    "artists": [
+      "Вперше Чую"
+    ],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735927215c529db329350cfed3",
     "releaseDate": "2016-11-08",
+    "tags": [
+      "rock",
+      "alternative rock",
+      "folk rock"
+    ],
     "title": "Від Майдану до Айдару",
     "totalTracks": 1,
     "type": "single",
@@ -86,10 +121,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Вперше Чую"],
+    "artists": [
+      "Вперше Чую"
+    ],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737e1208634816e55bee057dbb",
     "releaseDate": "2016-11-08",
+    "tags": [
+      "rock",
+      "alternative rock",
+      "folk rock"
+    ],
     "title": "Ізопова мова",
     "totalTracks": 1,
     "type": "single",

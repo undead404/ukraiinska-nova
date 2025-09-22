@@ -6,10 +6,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ваня jbl"],
+    "artists": [
+      "ваня jbl"
+    ],
     "artistsPopularity": 6,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733f7daf68631534edd478d738",
     "releaseDate": "2025-03-07",
+    "tags": [],
     "title": "А я думаю, що так",
     "totalTracks": 8,
     "type": "album",
@@ -22,10 +25,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ваня jbl"],
+    "artists": [
+      "ваня jbl"
+    ],
     "artistsPopularity": 6,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f110aa72bb06a92ead94b41",
     "releaseDate": "2023-10-20",
+    "tags": [],
     "title": "Чи буде ще колись так легко?",
     "totalTracks": 7,
     "type": "album",
@@ -38,10 +44,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ваня jbl"],
+    "artists": [
+      "ваня jbl"
+    ],
     "artistsPopularity": 6,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27352b1c7fe956967f65a83fb87",
     "releaseDate": "2025-09-12",
+    "tags": [],
     "title": "Наодинці",
     "totalTracks": 1,
     "type": "single",
@@ -54,10 +63,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ваня jbl"],
+    "artists": [
+      "ваня jbl"
+    ],
     "artistsPopularity": 6,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731e66626888cecd97fcbb14c4",
     "releaseDate": "2024-11-01",
+    "tags": [],
     "title": "Я люблю лоуфай",
     "totalTracks": 1,
     "type": "single",
@@ -70,10 +82,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ваня jbl"],
+    "artists": [
+      "ваня jbl"
+    ],
     "artistsPopularity": 6,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bea83bde2aabd4399f9ab98e",
     "releaseDate": "2024-01-26",
+    "tags": [],
     "title": "Землетрус",
     "totalTracks": 1,
     "type": "single",
@@ -86,10 +101,14 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["TUZEMETS", "ваня jbl"],
+    "artists": [
+      "TUZEMETS",
+      "ваня jbl"
+    ],
     "artistsPopularity": 6,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27362d83df00b90252841a66004",
     "releaseDate": "2024-01-03",
+    "tags": [],
     "title": "Героїн",
     "totalTracks": 1,
     "type": "single",
@@ -102,10 +121,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ваня jbl"],
+    "artists": [
+      "ваня jbl"
+    ],
     "artistsPopularity": 6,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735c9a70592db3bb96a1034ad9",
     "releaseDate": "2023-05-11",
+    "tags": [],
     "title": "Екзамен",
     "totalTracks": 1,
     "type": "single",
@@ -118,10 +140,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ваня jbl"],
+    "artists": [
+      "ваня jbl"
+    ],
     "artistsPopularity": 6,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738163b5fc3daa214747919adf",
     "releaseDate": "2023-01-19",
+    "tags": [],
     "title": "Розмай лісовий",
     "totalTracks": 1,
     "type": "single",

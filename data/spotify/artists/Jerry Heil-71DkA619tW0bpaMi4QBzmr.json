@@ -12,6 +12,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a3f20e74f56e539245e5ed04",
     "releaseDate": "2025-05-02",
+    "tags": [
+      "pop"
+    ],
     "title": "АРХЕТИПИ",
     "totalTracks": 16,
     "type": "album",
@@ -30,6 +33,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fd80cd51f16adb4ac198afba",
     "releaseDate": "2021-12-17",
+    "tags": [
+      "pop"
+    ],
     "title": "МАНДАРИНИ І ОЛЕНІ",
     "totalTracks": 9,
     "type": "album",
@@ -48,6 +54,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27334bdaf7dcfdfa5e02a684850",
     "releaseDate": "2019-10-04",
+    "tags": [
+      "pop"
+    ],
     "title": "#Я_ЯНА",
     "totalTracks": 8,
     "type": "album",
@@ -66,6 +75,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e9d124de0e77ffaf1e0308e3",
     "releaseDate": "2025-08-28",
+    "tags": [
+      "pop"
+    ],
     "title": "Додай гучності (12 points)",
     "totalTracks": 1,
     "type": "single",
@@ -85,6 +97,10 @@
     "artistsPopularity": 65,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369260c7207c44c6d92644285",
     "releaseDate": "2025-05-16",
+    "tags": [
+      "symphonic metal",
+      "pop"
+    ],
     "title": "Sing Like A Siren",
     "totalTracks": 2,
     "type": "single",
@@ -105,6 +121,10 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273810face47a26186eb86a36d3",
     "releaseDate": "2025-03-07",
+    "tags": [
+      "pop",
+      "Classical"
+    ],
     "title": "ВИМОЛИВ",
     "totalTracks": 1,
     "type": "single",
@@ -123,6 +143,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273336372cde19a1d724b7aa79b",
     "releaseDate": "2025-02-19",
+    "tags": [
+      "pop"
+    ],
     "title": "РОЗЧИНЯЮСЬ",
     "totalTracks": 1,
     "type": "single",
@@ -141,6 +164,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ae2510ead630c8fc34ccdf3c",
     "releaseDate": "2024-12-20",
+    "tags": [
+      "pop"
+    ],
     "title": "СНІГ",
     "totalTracks": 1,
     "type": "single",
@@ -160,6 +186,11 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736d8e7e1dfd0b583a084e49df",
     "releaseDate": "2024-09-26",
+    "tags": [
+      "pop",
+      "dance",
+      "ukranian"
+    ],
     "title": "WABI-SABI",
     "totalTracks": 1,
     "type": "single",
@@ -178,6 +209,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ecca559c9e46c438795a37f4",
     "releaseDate": "2024-08-27",
+    "tags": [
+      "pop"
+    ],
     "title": "#AllEyesOnKids",
     "totalTracks": 1,
     "type": "single",
@@ -197,6 +231,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27301c759af4d1a4c0cf8039905",
     "releaseDate": "2024-08-02",
+    "tags": [
+      "pop"
+    ],
     "title": "ГУБИ У ГУБАХ",
     "totalTracks": 1,
     "type": "single",
@@ -215,6 +252,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27389c3374140a428419b510034",
     "releaseDate": "2024-07-11",
+    "tags": [
+      "pop"
+    ],
     "title": "MARIA",
     "totalTracks": 4,
     "type": "single",
@@ -234,6 +274,11 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b8a22ce47cf6b1e00e50e68b",
     "releaseDate": "2024-05-11",
+    "tags": [
+      "pop",
+      "rap",
+      "Hip-Hop"
+    ],
     "title": "ПОДОЛЯНОЧКА (GET UP)",
     "totalTracks": 1,
     "type": "single",
@@ -253,6 +298,11 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27371f99b38ac1c81d04abc4203",
     "releaseDate": "2024-01-11",
+    "tags": [
+      "rap",
+      "pop",
+      "Hip-Hop"
+    ],
     "title": "Teresa & Maria",
     "totalTracks": 1,
     "type": "single",
@@ -272,6 +322,10 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733459f202a5c44cabb74afcd8",
     "releaseDate": "2023-12-24",
+    "tags": [
+      "folk",
+      "pop"
+    ],
     "title": "Зірка",
     "totalTracks": 1,
     "type": "single",
@@ -290,6 +344,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732d37c252603563eaa6ecc7ed",
     "releaseDate": "2023-12-21",
+    "tags": [
+      "pop"
+    ],
     "title": "МАЛАНКА",
     "totalTracks": 1,
     "type": "single",
@@ -310,6 +367,11 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736516c462b090f3867fb37cb3",
     "releaseDate": "2023-12-17",
+    "tags": [
+      "pop",
+      "rap",
+      "Hip-Hop"
+    ],
     "title": "Щедра ніч",
     "totalTracks": 1,
     "type": "single",
@@ -328,6 +390,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273593f9e0dcb7999e78a85bb5c",
     "releaseDate": "2023-11-02",
+    "tags": [
+      "pop"
+    ],
     "title": "ТРИ ПОЛОСИ",
     "totalTracks": 1,
     "type": "single",
@@ -346,6 +411,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273de6e987f4610e925fab1864d",
     "releaseDate": "2023-09-12",
+    "tags": [
+      "pop"
+    ],
     "title": "Call me freedom",
     "totalTracks": 1,
     "type": "single",
@@ -365,6 +433,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737f64777261990640036edfb1",
     "releaseDate": "2023-08-22",
+    "tags": [
+      "pop"
+    ],
     "title": "BRACIA (feat. PRZYŁU)",
     "totalTracks": 1,
     "type": "single",
@@ -383,6 +454,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27351ee17c39638c13e25351a30",
     "releaseDate": "2023-07-28",
+    "tags": [
+      "pop"
+    ],
     "title": "БЛАГОСЛОВЕННА ЗЕМЛЯ",
     "totalTracks": 1,
     "type": "single",
@@ -402,6 +476,10 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d8ac657e2d98dca601a327d1",
     "releaseDate": "2023-05-19",
+    "tags": [
+      "rap",
+      "pop"
+    ],
     "title": "Стіни",
     "totalTracks": 1,
     "type": "single",
@@ -420,6 +498,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27314b656795b1a59df56de9600",
     "releaseDate": "2023-04-21",
+    "tags": [
+      "pop"
+    ],
     "title": "На небі ні зорі",
     "totalTracks": 1,
     "type": "single",
@@ -439,6 +520,10 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737886f8a4687634d942e55884",
     "releaseDate": "2023-03-02",
+    "tags": [
+      "pop",
+      "Eurovision"
+    ],
     "title": "BRONIA",
     "totalTracks": 1,
     "type": "single",
@@ -459,6 +544,11 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ce93bba572f61c296f239b0f",
     "releaseDate": "2023-01-27",
+    "tags": [
+      "rap",
+      "pop",
+      "Hip-Hop"
+    ],
     "title": "Chomu? (feat. Jerry Heil) [BEZOODA REMIX]",
     "totalTracks": 1,
     "type": "single",
@@ -478,6 +568,11 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27339233dd0468dd0502eb1d25a",
     "releaseDate": "2022-12-21",
+    "tags": [
+      "rap",
+      "pop",
+      "Hip-Hop"
+    ],
     "title": "Екзамен",
     "totalTracks": 1,
     "type": "single",
@@ -496,6 +591,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d663fe21e1e1338b114093e6",
     "releaseDate": "2022-12-09",
+    "tags": [
+      "pop"
+    ],
     "title": "WHEN GOD SHUT THE DOOR",
     "totalTracks": 1,
     "type": "single",
@@ -514,6 +612,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273907be367e92522d4ac7d9d68",
     "releaseDate": "2022-11-18",
+    "tags": [
+      "pop"
+    ],
     "title": "КОЗАЦЬКОМУ_РОДУ",
     "totalTracks": 1,
     "type": "single",
@@ -534,6 +635,13 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733b82645605b085ab823288e4",
     "releaseDate": "2022-11-18",
+    "tags": [
+      "rap",
+      "pop",
+      "Hip-Hop",
+      "polish hip-hop",
+      "polish"
+    ],
     "title": "Posmakuj",
     "totalTracks": 1,
     "type": "single",
@@ -552,6 +660,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273df51c62757f2c4d6fe2ce77d",
     "releaseDate": "2022-09-30",
+    "tags": [
+      "pop"
+    ],
     "title": "#ТАТО",
     "totalTracks": 1,
     "type": "single",
@@ -570,6 +681,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730cbe44f998bc128fe4539d44",
     "releaseDate": "2022-09-09",
+    "tags": [
+      "pop"
+    ],
     "title": "#НЕСЕСТРИ",
     "totalTracks": 1,
     "type": "single",
@@ -589,6 +703,10 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733c73d8eb62e4126b00a1b66f",
     "releaseDate": "2022-08-26",
+    "tags": [
+      "electronic",
+      "pop"
+    ],
     "title": "ДУШЕВНА ПА-ДАМАШНЄМУ",
     "totalTracks": 1,
     "type": "single",
@@ -608,6 +726,11 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273861b3e676a7efd2e35a032d1",
     "releaseDate": "2022-08-26",
+    "tags": [
+      "rap",
+      "pop",
+      "Hip-Hop"
+    ],
     "title": "Dai Boh",
     "totalTracks": 4,
     "type": "single",
@@ -626,6 +749,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ad5ce2b33dd1a671c85e455a",
     "releaseDate": "2022-08-19",
+    "tags": [
+      "pop"
+    ],
     "title": "泣かないで、ウクライナ",
     "totalTracks": 1,
     "type": "single",
@@ -644,6 +770,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e3ee937d9dfd18fc44e1d337",
     "releaseDate": "2022-08-12",
+    "tags": [
+      "pop"
+    ],
     "title": "Кохайтеся Чорнобриві",
     "totalTracks": 1,
     "type": "single",
@@ -664,6 +793,13 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c674438e7ea085c40ae8dd12",
     "releaseDate": "2022-07-06",
+    "tags": [
+      "rap",
+      "pop",
+      "German Pop",
+      "german female vocalists",
+      "Hip-Hop"
+    ],
     "title": "KUPALA",
     "totalTracks": 1,
     "type": "single",
@@ -683,6 +819,11 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27375ce96d442d231b585697a0b",
     "releaseDate": "2022-06-24",
+    "tags": [
+      "rap",
+      "pop",
+      "Hip-Hop"
+    ],
     "title": "Чому?",
     "totalTracks": 1,
     "type": "single",
@@ -701,6 +842,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739b626ccecc02db4e3fed5444",
     "releaseDate": "2022-05-27",
+    "tags": [
+      "pop"
+    ],
     "title": "#МРІЯ",
     "totalTracks": 1,
     "type": "single",
@@ -720,6 +864,10 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735b9bd9616a04e65c417416c8",
     "releaseDate": "2022-05-18",
+    "tags": [
+      "folk",
+      "pop"
+    ],
     "title": "В пустій кімнаті",
     "totalTracks": 1,
     "type": "single",
@@ -739,6 +887,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27318b19b414ac154df02c642a3",
     "releaseDate": "2022-05-06",
+    "tags": [
+      "pop"
+    ],
     "title": "#МОСКАЛЬ_НЕКРАСІВИЙ",
     "totalTracks": 1,
     "type": "single",
@@ -758,6 +909,11 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273529e919ac8ddcd739ab71e6c",
     "releaseDate": "2022-04-22",
+    "tags": [
+      "rap",
+      "pop",
+      "Hip-Hop"
+    ],
     "title": "Рідні мої",
     "totalTracks": 1,
     "type": "single",
@@ -778,6 +934,10 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273413e0eb844ac9d95252e4239",
     "releaseDate": "2022-04-21",
+    "tags": [
+      "pop",
+      "dance"
+    ],
     "title": "Разом до перемоги",
     "totalTracks": 1,
     "type": "single",
@@ -796,6 +956,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730ac2c3b2f3b7d7540fbdd9a1",
     "releaseDate": "2022-02-04",
+    "tags": [
+      "pop"
+    ],
     "title": "#ПОШТА",
     "totalTracks": 1,
     "type": "single",
@@ -815,6 +978,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f6c3e2dd6fec044472e86933",
     "releaseDate": "2021-12-10",
+    "tags": [
+      "pop"
+    ],
     "title": "#ЕКСА_В_ГІВЕВЕЙ",
     "totalTracks": 1,
     "type": "single",
@@ -833,6 +999,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27382075e4057b1368d3a3a1746",
     "releaseDate": "2021-11-01",
+    "tags": [
+      "pop"
+    ],
     "title": "#ВЕГАН",
     "totalTracks": 1,
     "type": "single",
@@ -851,6 +1020,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735915a88f4953b2bdefe19b7a",
     "releaseDate": "2021-10-21",
+    "tags": [
+      "pop"
+    ],
     "title": "#ЗДН",
     "totalTracks": 1,
     "type": "single",
@@ -870,6 +1042,10 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730070eb70bacc4b33204a9980",
     "releaseDate": "2021-10-01",
+    "tags": [
+      "rap",
+      "pop"
+    ],
     "title": "Хвилi (feat. Jerry Heil)",
     "totalTracks": 1,
     "type": "single",
@@ -888,6 +1064,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d9a09580409a53522d0e8451",
     "releaseDate": "2021-09-17",
+    "tags": [
+      "pop"
+    ],
     "title": "Apple - Man (З к/ф \"Apple-Man\")",
     "totalTracks": 1,
     "type": "single",
@@ -906,6 +1085,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733408b2f3109382e61570f44e",
     "releaseDate": "2021-08-13",
+    "tags": [
+      "pop"
+    ],
     "title": "ТУК ТУК ТУК",
     "totalTracks": 1,
     "type": "single",
@@ -925,6 +1107,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d9310e3141958c37fab6a751",
     "releaseDate": "2021-07-16",
+    "tags": [
+      "pop"
+    ],
     "title": "Плакса",
     "totalTracks": 1,
     "type": "single",
@@ -943,6 +1128,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eb4519f67e384fc17eb254a7",
     "releaseDate": "2021-04-09",
+    "tags": [
+      "pop"
+    ],
     "title": "#ОСОБИСТЕ",
     "totalTracks": 6,
     "type": "single",
@@ -961,6 +1149,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dc2d9f97c80427eded7b2396",
     "releaseDate": "2021-04-09",
+    "tags": [
+      "pop"
+    ],
     "title": "#LULLABY(#КОЛИСКОВА)",
     "totalTracks": 1,
     "type": "single",
@@ -979,6 +1170,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736714a69f746749d9a231852e",
     "releaseDate": "2021-02-12",
+    "tags": [
+      "pop"
+    ],
     "title": "#АРИФМЕТИКА_КОХАННЯ",
     "totalTracks": 1,
     "type": "single",
@@ -997,6 +1191,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27397a39944f8509e2d648f7916",
     "releaseDate": "2021-01-27",
+    "tags": [
+      "pop"
+    ],
     "title": "#КРІНЖ_ВИКРАДАЧРІЗДВА",
     "totalTracks": 1,
     "type": "single",
@@ -1015,6 +1212,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27338f3bc4c6451919991c08577",
     "releaseDate": "2020-07-31",
+    "tags": [
+      "pop"
+    ],
     "title": "#Бомба_ракета_пушка_граната",
     "totalTracks": 1,
     "type": "single",
@@ -1033,6 +1233,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c61ed20ee2248738820e4b71",
     "releaseDate": "2020-07-17",
+    "tags": [
+      "pop"
+    ],
     "title": "#Блогер",
     "totalTracks": 1,
     "type": "single",
@@ -1051,6 +1254,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27388078f707fafe0b6043d7767",
     "releaseDate": "2020-06-12",
+    "tags": [
+      "pop"
+    ],
     "title": "#Chewing",
     "totalTracks": 1,
     "type": "single",
@@ -1069,6 +1275,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e8d022c443edda9e4b2332af",
     "releaseDate": "2020-05-29",
+    "tags": [
+      "pop"
+    ],
     "title": "#Провінція",
     "totalTracks": 1,
     "type": "single",
@@ -1087,6 +1296,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27301ac99ea5ac7eb87cef37c52",
     "releaseDate": "2020-04-10",
+    "tags": [
+      "pop"
+    ],
     "title": "#Нінадонтстрес",
     "totalTracks": 1,
     "type": "single",
@@ -1105,6 +1317,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d90c4dfa1a7d7d4fce6c9c76",
     "releaseDate": "2020-02-10",
+    "tags": [
+      "pop"
+    ],
     "title": "#Небейбі",
     "totalTracks": 1,
     "type": "single",
@@ -1123,6 +1338,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27345a51c2a12e50657f8de8e05",
     "releaseDate": "2020-02-07",
+    "tags": [
+      "pop"
+    ],
     "title": "#Vegan",
     "totalTracks": 1,
     "type": "single",
@@ -1141,6 +1359,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ff9acd2d9438ffacb8156cee",
     "releaseDate": "2019-12-13",
+    "tags": [
+      "pop"
+    ],
     "title": "#РЕЦЕПТ_САЛАТА_НЄВЄСТА",
     "totalTracks": 1,
     "type": "single",
@@ -1159,6 +1380,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27324da2abbe8e91038cfbbaab9",
     "releaseDate": "2019-12-13",
+    "tags": [
+      "pop"
+    ],
     "title": "#МОЯ_ДИТЯЧА_МРІЯ",
     "totalTracks": 1,
     "type": "single",
@@ -1177,6 +1401,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27346b3b655bc447e29e207ff61",
     "releaseDate": "2019-12-13",
+    "tags": [
+      "pop"
+    ],
     "title": "#ВІЧНІСТЬ",
     "totalTracks": 1,
     "type": "single",
@@ -1195,6 +1422,9 @@
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273da133a2f0ff0d109bf3db03a",
     "releaseDate": "2017-10-27",
+    "tags": [
+      "pop"
+    ],
     "title": "Де мій дім",
     "totalTracks": 4,
     "type": "single",

@@ -12,6 +12,10 @@
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732c8c11c7cfd5954286d063d8",
     "releaseDate": "2017-03-02",
+    "tags": [
+      "ambient",
+      "trip-hop"
+    ],
     "title": "Oldies",
     "totalTracks": 11,
     "type": "album",
@@ -30,6 +34,10 @@
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731a6846b11d78dbaf535c3b78",
     "releaseDate": "2014-01-14",
+    "tags": [
+      "ambient",
+      "trip-hop"
+    ],
     "title": "Oldies",
     "totalTracks": 9,
     "type": "album",
@@ -48,6 +56,10 @@
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738063d7fd36fd25abc12f5691",
     "releaseDate": "2013-04-22",
+    "tags": [
+      "ambient",
+      "trip-hop"
+    ],
     "title": "Imperfection",
     "totalTracks": 8,
     "type": "album",
@@ -66,6 +78,10 @@
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ee95fbdceb3d03ed8040ca22",
     "releaseDate": "2024-02-26",
+    "tags": [
+      "ambient",
+      "trip-hop"
+    ],
     "title": "Shatter",
     "totalTracks": 1,
     "type": "single",
@@ -84,6 +100,10 @@
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dde365ee22f3d55407a067b0",
     "releaseDate": "2023-07-24",
+    "tags": [
+      "ambient",
+      "trip-hop"
+    ],
     "title": "Sontse / Nebo",
     "totalTracks": 2,
     "type": "single",
@@ -102,6 +122,10 @@
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27358965530c36a42d3cf7b9c2b",
     "releaseDate": "2020-04-10",
+    "tags": [
+      "ambient",
+      "trip-hop"
+    ],
     "title": "Closer",
     "totalTracks": 1,
     "type": "single",
@@ -120,6 +144,10 @@
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e17981237bc71b3bae441221",
     "releaseDate": "2017-09-02",
+    "tags": [
+      "ambient",
+      "trip-hop"
+    ],
     "title": "After the Rain",
     "totalTracks": 1,
     "type": "single",
@@ -138,6 +166,10 @@
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733ef2b010974757e8d1129dd6",
     "releaseDate": "2016-09-14",
+    "tags": [
+      "ambient",
+      "trip-hop"
+    ],
     "title": "Right Now",
     "totalTracks": 1,
     "type": "single",
@@ -157,6 +189,13 @@
     "artistsPopularity": 36,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c0a267f994d439ce7547affd",
     "releaseDate": "2014-06-07",
+    "tags": [
+      "glitch-hop",
+      "electronic",
+      "ambient",
+      "trip-hop",
+      "chillwave"
+    ],
     "title": "Vacuum (Zelmershead Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -175,6 +214,10 @@
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27365af0139aad97a1bf0565d42",
     "releaseDate": "2014-02-20",
+    "tags": [
+      "ambient",
+      "trip-hop"
+    ],
     "title": "Smoke Screen",
     "totalTracks": 1,
     "type": "single",
@@ -193,6 +236,10 @@
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731afc68beb931a9f84ea35112",
     "releaseDate": "2012-07-03",
+    "tags": [
+      "ambient",
+      "trip-hop"
+    ],
     "title": "Invisibles",
     "totalTracks": 5,
     "type": "single",
@@ -211,6 +258,10 @@
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273954e2cd0cc85efedc6f28f32",
     "releaseDate": "2012-03-02",
+    "tags": [
+      "ambient",
+      "trip-hop"
+    ],
     "title": "WhiteSideBlack",
     "totalTracks": 4,
     "type": "single",
@@ -229,6 +280,9 @@
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273768e02559765afba4af04cc3",
     "releaseDate": "2022-09-16",
+    "tags": [
+      "trip-hop"
+    ],
     "title": "Змістовно Різні",
     "totalTracks": 9,
     "type": "album",

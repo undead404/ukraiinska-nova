@@ -6,10 +6,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Kaleb The Great"],
+    "artists": [
+      "Kaleb The Great"
+    ],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b58e6b9487e34c1cf53a37c0",
     "releaseDate": "2019-07-03",
+    "tags": [],
     "title": "Experiment 626",
     "totalTracks": 12,
     "type": "album",
@@ -22,10 +25,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Kaleb The Great"],
+    "artists": [
+      "Kaleb The Great"
+    ],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737a92232eee4d570e9322c72c",
     "releaseDate": "2020-06-19",
+    "tags": [],
     "title": "The Nappy Headed Shadow",
     "totalTracks": 10,
     "type": "album",
@@ -38,10 +44,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Kaleb The Great"],
+    "artists": [
+      "Kaleb The Great"
+    ],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730fe354b9c8e65d78fbf1724a",
     "releaseDate": "2021-02-03",
+    "tags": [],
     "title": "Astral Plane",
     "totalTracks": 10,
     "type": "album",

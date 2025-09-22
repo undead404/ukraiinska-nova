@@ -6,10 +6,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Fontaliza"],
+    "artists": [
+      "Fontaliza"
+    ],
     "artistsPopularity": 19,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731294dc90eb91247f362173ce",
     "releaseDate": "2018-09-10",
+    "tags": [
+      "alternative rock",
+      "alternative"
+    ],
     "title": "Фірмові Рухи",
     "totalTracks": 7,
     "type": "album",
@@ -22,10 +28,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Fontaliza"],
+    "artists": [
+      "Fontaliza"
+    ],
     "artistsPopularity": 19,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737656681a0723a8206f18fa4a",
     "releaseDate": "2017-09-13",
+    "tags": [
+      "alternative rock",
+      "alternative"
+    ],
     "title": "Born in Coal Dust",
     "totalTracks": 9,
     "type": "album",
@@ -38,10 +50,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Fontaliza"],
+    "artists": [
+      "Fontaliza"
+    ],
     "artistsPopularity": 19,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d560375765cc7212e357111a",
     "releaseDate": "2014",
+    "tags": [
+      "alternative rock",
+      "alternative"
+    ],
     "title": "Under the Floor",
     "totalTracks": 10,
     "type": "album",
@@ -54,10 +72,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Fontaliza"],
+    "artists": [
+      "Fontaliza"
+    ],
     "artistsPopularity": 19,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27371283a4141b929b042f62488",
     "releaseDate": "2020-08-14",
+    "tags": [
+      "alternative rock",
+      "alternative"
+    ],
     "title": "За тобой пришли (Трибьют ДДТ)",
     "totalTracks": 1,
     "type": "single",
@@ -70,10 +94,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Fontaliza"],
+    "artists": [
+      "Fontaliza"
+    ],
     "artistsPopularity": 19,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27321742e2cfabbf08b9a9f8bcd",
     "releaseDate": "2015",
+    "tags": [
+      "alternative rock",
+      "alternative"
+    ],
     "title": "Відчувай",
     "totalTracks": 1,
     "type": "single",

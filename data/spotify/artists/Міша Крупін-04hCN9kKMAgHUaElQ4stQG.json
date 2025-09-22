@@ -6,10 +6,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Міша Крупін"],
+    "artists": [
+      "Міша Крупін"
+    ],
     "artistsPopularity": 34,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d9c7d35219ba75c79cf85eb5",
     "releaseDate": "2025-04-11",
+    "tags": [
+      "pop"
+    ],
     "title": "Не сьогодні",
     "totalTracks": 9,
     "type": "album",
@@ -22,10 +27,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KOLA", "Міша Крупін"],
+    "artists": [
+      "KOLA",
+      "Міша Крупін"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731aec9d65dc62b349fc295eae",
     "releaseDate": "2024-06-24",
+    "tags": [
+      "pop"
+    ],
     "title": "Тюльпани (Magnushevskyi remix)",
     "totalTracks": 1,
     "type": "single",
@@ -38,10 +49,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KOLA", "Міша Крупін"],
+    "artists": [
+      "KOLA",
+      "Міша Крупін"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c7d1f9f9671b0061c204ae4d",
     "releaseDate": "2024-06-10",
+    "tags": [
+      "pop"
+    ],
     "title": "Тюльпани",
     "totalTracks": 1,
     "type": "single",
@@ -54,10 +71,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Міша Крупін", "Сергій Притула"],
+    "artists": [
+      "Міша Крупін",
+      "Сергій Притула"
+    ],
     "artistsPopularity": 34,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b687aebc26934e22177f9240",
     "releaseDate": "2024-04-30",
+    "tags": [
+      "pop"
+    ],
     "title": "Ї**ти *усню 24/7",
     "totalTracks": 1,
     "type": "single",
@@ -70,10 +93,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Міша Крупін"],
+    "artists": [
+      "Міша Крупін"
+    ],
     "artistsPopularity": 34,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738f69173d9e7149c0e52a2fb1",
     "releaseDate": "2024-04-17",
+    "tags": [
+      "pop"
+    ],
     "title": "Пароль",
     "totalTracks": 1,
     "type": "single",
@@ -86,10 +114,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Sasha Chemerov", "Міша Крупін", "Коля Сєрга"],
+    "artists": [
+      "Sasha Chemerov",
+      "Міша Крупін",
+      "Коля Сєрга"
+    ],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273db036518664b6e807f0d0da6",
     "releaseDate": "2023-06-14",
+    "tags": [
+      "pop"
+    ],
     "title": "Білгород",
     "totalTracks": 1,
     "type": "single",
@@ -102,10 +137,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Міша Крупін"],
+    "artists": [
+      "Міша Крупін"
+    ],
     "artistsPopularity": 34,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731befd2f197c42216a30092d2",
     "releaseDate": "2022-10-11",
+    "tags": [
+      "pop"
+    ],
     "title": "Палає",
     "totalTracks": 1,
     "type": "single",
@@ -118,10 +158,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Міша Крупін"],
+    "artists": [
+      "Міша Крупін"
+    ],
     "artistsPopularity": 34,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fac63f36dea8ffa476736771",
     "releaseDate": "2022-05-04",
+    "tags": [
+      "pop"
+    ],
     "title": "У нашому місті",
     "totalTracks": 1,
     "type": "single",
@@ -134,13 +179,37 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Міша Крупін"],
+    "artists": [
+      "Міша Крупін"
+    ],
     "artistsPopularity": 34,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27331f8ecd5c840f101724211b7",
     "releaseDate": "2022-04-04",
+    "tags": [
+      "pop"
+    ],
     "title": "Їбаште",
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6rn4boB2eCKwxxEZRvlvlH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-22T15:20:54.474Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Культурні сили"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732e0e7012c90303704b7e44a3",
+    "releaseDate": "2025-09-05",
+    "tags": [],
+    "title": "ГУР ПРАЦЮЄ",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1USXiM8g727mi8nuc0ob7H"
   }
 ]

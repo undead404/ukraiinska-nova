@@ -12,6 +12,9 @@
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273206c3595fee369a6e5200502",
     "releaseDate": "2020-11-03",
+    "tags": [
+      "heavy metal"
+    ],
     "title": "Там, де весна",
     "totalTracks": 10,
     "type": "album",
@@ -30,6 +33,9 @@
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730b36617ddd054004a9e06112",
     "releaseDate": "2016-09-22",
+    "tags": [
+      "heavy metal"
+    ],
     "title": "Бути вільним",
     "totalTracks": 10,
     "type": "album",
@@ -48,6 +54,9 @@
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730366450401f520ba645332e9",
     "releaseDate": "2022-08-25",
+    "tags": [
+      "heavy metal"
+    ],
     "title": "Моя Україна",
     "totalTracks": 1,
     "type": "single",
@@ -66,6 +75,9 @@
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738e6a9f7b3f9fdb15d96bf911",
     "releaseDate": "2020-10-06",
+    "tags": [
+      "heavy metal"
+    ],
     "title": "Не ангел",
     "totalTracks": 1,
     "type": "single",
@@ -84,6 +96,9 @@
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736753c51b01b8ec8846fff5ed",
     "releaseDate": "2020-07-09",
+    "tags": [
+      "heavy metal"
+    ],
     "title": "Вона одна",
     "totalTracks": 1,
     "type": "single",
@@ -102,6 +117,9 @@
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732c2ab7466bb7303153c8638c",
     "releaseDate": "2019-12-19",
+    "tags": [
+      "heavy metal"
+    ],
     "title": "На папері",
     "totalTracks": 1,
     "type": "single",
@@ -120,6 +138,9 @@
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ae9dbe6831f6a166679dafae",
     "releaseDate": "2019-06-13",
+    "tags": [
+      "heavy metal"
+    ],
     "title": "Там, де весна",
     "totalTracks": 1,
     "type": "single",
@@ -138,6 +159,9 @@
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27361dcd6ee805689e497c002c7",
     "releaseDate": "2019-02-07",
+    "tags": [
+      "heavy metal"
+    ],
     "title": "8 колір",
     "totalTracks": 1,
     "type": "single",
@@ -156,6 +180,9 @@
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c0db4d8e915abe8bda44f51c",
     "releaseDate": "2018-10-09",
+    "tags": [
+      "heavy metal"
+    ],
     "title": "Криптоніт",
     "totalTracks": 2,
     "type": "single",
@@ -174,6 +201,9 @@
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a4868b7e8831853ba5d07d8e",
     "releaseDate": "2018-05-04",
+    "tags": [
+      "heavy metal"
+    ],
     "title": "Янгол",
     "totalTracks": 1,
     "type": "single",
@@ -194,6 +224,11 @@
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731390aaa1559c7273e8c6cf54",
     "releaseDate": "2017-12-04",
+    "tags": [
+      "heavy metal",
+      "greece",
+      "electronic"
+    ],
     "title": "Відбитки (FDR & K.VV.T. Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -212,6 +247,9 @@
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b4c895f002c03b71ad194ae2",
     "releaseDate": "2017-11-22",
+    "tags": [
+      "heavy metal"
+    ],
     "title": "Відбитки",
     "totalTracks": 1,
     "type": "single",
@@ -230,6 +268,9 @@
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c6fbdf8f1e6a723e34882a19",
     "releaseDate": "2017-07-27",
+    "tags": [
+      "heavy metal"
+    ],
     "title": "Давай (Remix)",
     "totalTracks": 2,
     "type": "single",
@@ -248,6 +289,9 @@
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27364dae14ed8026572ad4ebf24",
     "releaseDate": "2017-06-20",
+    "tags": [
+      "heavy metal"
+    ],
     "title": "Давай",
     "totalTracks": 1,
     "type": "single",

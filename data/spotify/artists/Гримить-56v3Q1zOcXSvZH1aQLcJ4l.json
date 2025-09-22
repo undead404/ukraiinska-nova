@@ -6,10 +6,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Гримить"],
+    "artists": [
+      "Гримить"
+    ],
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273da6c2015888b5a70b48d5fda",
     "releaseDate": "2018-02-12",
+    "tags": [
+      "lviv"
+    ],
     "title": "Грай",
     "totalTracks": 5,
     "type": "single",

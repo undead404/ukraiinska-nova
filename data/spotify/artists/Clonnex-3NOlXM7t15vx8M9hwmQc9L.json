@@ -6,10 +6,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex"],
+    "artists": [
+      "Clonnex"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27315f0b2e8e05b8fc67af732d1",
     "releaseDate": "2024-12-06",
+    "tags": [
+      "rap"
+    ],
     "title": "MEDIV Cult of Bayraktar",
     "totalTracks": 19,
     "type": "album",
@@ -22,10 +27,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex"],
+    "artists": [
+      "Clonnex"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f6653d0f4fbc66909561f144",
     "releaseDate": "2024-03-15",
+    "tags": [
+      "rap"
+    ],
     "title": "MEDIV Pes Patron",
     "totalTracks": 7,
     "type": "album",
@@ -38,10 +48,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex"],
+    "artists": [
+      "Clonnex"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27330a7f176661f0f1d6d693a1d",
     "releaseDate": "2023-06-30",
+    "tags": [
+      "rap"
+    ],
     "title": "MEDIV Ultimate Victim",
     "totalTracks": 41,
     "type": "album",
@@ -54,10 +69,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex"],
+    "artists": [
+      "Clonnex"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273651b47c4ca2a4748f62ca81e",
     "releaseDate": "2022-08-19",
+    "tags": [
+      "rap"
+    ],
     "title": "MEDIV Luff N Sip",
     "totalTracks": 14,
     "type": "album",
@@ -74,7 +94,10 @@
         "type": "LOST"
       }
     ],
-    "artists": ["Vampyx", "Clonnex"],
+    "artists": [
+      "Vampyx",
+      "Clonnex"
+    ],
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27379b5261e0b3e04f01de49344",
     "releaseDate": "2025-09-16",
@@ -90,10 +113,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex", "mapt0v"],
+    "artists": [
+      "Clonnex",
+      "mapt0v"
+    ],
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735358892c97cb7c2869820f04",
     "releaseDate": "2025-09-12",
+    "tags": [
+      "rap",
+      "Jerk"
+    ],
     "title": "i feel pain",
     "totalTracks": 1,
     "type": "single",
@@ -106,10 +136,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex"],
+    "artists": [
+      "Clonnex"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a5feeaeb70dce7621eb0eea0",
     "releaseDate": "2025-08-29",
+    "tags": [
+      "rap"
+    ],
     "title": "NEW YORK / SORRY BOUT DAT",
     "totalTracks": 2,
     "type": "single",
@@ -122,10 +157,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex"],
+    "artists": [
+      "Clonnex"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bea49e0d7d53ba63bf083703",
     "releaseDate": "2025-07-25",
+    "tags": [
+      "rap"
+    ],
     "title": "Грiшниця",
     "totalTracks": 1,
     "type": "single",
@@ -138,10 +178,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex"],
+    "artists": [
+      "Clonnex"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273553433ce4757966d20511c61",
     "releaseDate": "2025-07-11",
+    "tags": [
+      "rap"
+    ],
     "title": "Везунчик / ППП",
     "totalTracks": 2,
     "type": "single",
@@ -154,10 +199,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex"],
+    "artists": [
+      "Clonnex"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d4c9aacced9c0853f2a81b84",
     "releaseDate": "2025-05-09",
+    "tags": [
+      "rap"
+    ],
     "title": "забутi мiсця",
     "totalTracks": 1,
     "type": "single",
@@ -170,10 +220,19 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex", "Shmu", "galen tipton"],
+    "artists": [
+      "Clonnex",
+      "Shmu",
+      "galen tipton"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d363d9a3acc03795220519cd",
     "releaseDate": "2025-05-09",
+    "tags": [
+      "rap",
+      "shoegaze",
+      "electronic"
+    ],
     "title": "Wanderer",
     "totalTracks": 1,
     "type": "single",
@@ -186,10 +245,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex"],
+    "artists": [
+      "Clonnex"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273158e4cf4a280d8577ac4792e",
     "releaseDate": "2025-02-21",
+    "tags": [
+      "rap"
+    ],
     "title": "GALORE",
     "totalTracks": 1,
     "type": "single",
@@ -202,10 +266,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex"],
+    "artists": [
+      "Clonnex"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273de1d1b77d5af1b93e9b1d72a",
     "releaseDate": "2025-02-14",
+    "tags": [
+      "rap"
+    ],
     "title": "Скуф",
     "totalTracks": 1,
     "type": "single",
@@ -218,10 +287,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Golubenko", "Clonnex"],
+    "artists": [
+      "Golubenko",
+      "Clonnex"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f2dac2279226da347c1d3464",
     "releaseDate": "2024-10-17",
+    "tags": [
+      "pop",
+      "rap"
+    ],
     "title": "Авіарежим",
     "totalTracks": 1,
     "type": "single",
@@ -234,10 +310,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex", "6arelyhuman"],
+    "artists": [
+      "Clonnex",
+      "6arelyhuman"
+    ],
     "artistsPopularity": 70,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735a1d1b61ed184a60cdcf8475",
     "releaseDate": "2024-09-27",
+    "tags": [
+      "rap",
+      "scenecore"
+    ],
     "title": "Molly Lollipop",
     "totalTracks": 1,
     "type": "single",
@@ -250,10 +333,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex"],
+    "artists": [
+      "Clonnex"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734ebb7bad8623e2811a1a1b34",
     "releaseDate": "2024-08-30",
+    "tags": [
+      "rap"
+    ],
     "title": "Людмила",
     "totalTracks": 1,
     "type": "single",
@@ -266,10 +354,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex"],
+    "artists": [
+      "Clonnex"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a17d0adc6bed9df0cd0630c5",
     "releaseDate": "2024-08-02",
+    "tags": [
+      "rap"
+    ],
     "title": "Kiss Me",
     "totalTracks": 2,
     "type": "single",
@@ -282,10 +375,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex"],
+    "artists": [
+      "Clonnex"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737a4ddf75bb2d0a4a96983ec4",
     "releaseDate": "2024-07-26",
+    "tags": [
+      "rap"
+    ],
     "title": "Yesvuiskiii",
     "totalTracks": 2,
     "type": "single",
@@ -298,10 +396,19 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Bayymack", "Clonnex", "Pixel Hood"],
+    "artists": [
+      "Bayymack",
+      "Clonnex",
+      "Pixel Hood"
+    ],
     "artistsPopularity": 61,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273228898d19a901d0ecbd28e0e",
     "releaseDate": "2024-07-19",
+    "tags": [
+      "sad poser",
+      "rap",
+      "scenecore"
+    ],
     "title": "say it so",
     "totalTracks": 1,
     "type": "single",
@@ -314,10 +421,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex"],
+    "artists": [
+      "Clonnex"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737a4190f59e942447b5e9864c",
     "releaseDate": "2024-06-28",
+    "tags": [
+      "rap"
+    ],
     "title": "Pop It",
     "totalTracks": 1,
     "type": "single",
@@ -330,10 +442,19 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex", "hubithekid"],
+    "artists": [
+      "Clonnex",
+      "hubithekid"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27316ce21bb4dd3952a6e470f5f",
     "releaseDate": "2024-06-14",
+    "tags": [
+      "rap",
+      "polish",
+      "scenecore",
+      "hyperpop"
+    ],
     "title": "Emo Makeup",
     "totalTracks": 1,
     "type": "single",
@@ -346,10 +467,19 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex", "galen tipton", "Shmu"],
+    "artists": [
+      "Clonnex",
+      "galen tipton",
+      "Shmu"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bd2d392618e944da95ce3f8b",
     "releaseDate": "2024-05-17",
+    "tags": [
+      "rap",
+      "electronic",
+      "shoegaze"
+    ],
     "title": "Night Garden",
     "totalTracks": 1,
     "type": "single",
@@ -362,10 +492,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex", "Маша Кондратенко"],
+    "artists": [
+      "Clonnex",
+      "Маша Кондратенко"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d2805103cbbecfa25b0256cf",
     "releaseDate": "2024-05-10",
+    "tags": [
+      "rap",
+      "pop"
+    ],
     "title": "Ванька-Встанька 2",
     "totalTracks": 1,
     "type": "single",
@@ -378,10 +515,19 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["lord enemy", "L0VER", "Clonnex"],
+    "artists": [
+      "lord enemy",
+      "L0VER",
+      "Clonnex"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f15ca4fa5d535f79a4d59941",
     "releaseDate": "2024-04-19",
+    "tags": [
+      "rap",
+      "opium",
+      "electronic"
+    ],
     "title": "I LUV MY HATERS",
     "totalTracks": 1,
     "type": "single",
@@ -394,10 +540,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex", "nnolly"],
+    "artists": [
+      "Clonnex",
+      "nnolly"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273303cae3bc6b20f6469d6e10f",
     "releaseDate": "2024-03-01",
+    "tags": [
+      "rap",
+      "hyperpop"
+    ],
     "title": "Кохаю всіх людей",
     "totalTracks": 1,
     "type": "single",
@@ -410,10 +563,20 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["6YNTHMANE", "Clonnex", "NIKITAIDISYUDA"],
+    "artists": [
+      "6YNTHMANE",
+      "Clonnex",
+      "NIKITAIDISYUDA"
+    ],
     "artistsPopularity": 69,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730199584380c22e25f18334a5",
     "releaseDate": "2024-02-16",
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "poland",
+      "polish"
+    ],
     "title": "Alone",
     "totalTracks": 1,
     "type": "single",
@@ -426,10 +589,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex"],
+    "artists": [
+      "Clonnex"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273db3c3b9898e848ba2e3de511",
     "releaseDate": "2024-02-09",
+    "tags": [
+      "rap"
+    ],
     "title": "AFRICA",
     "totalTracks": 6,
     "type": "single",
@@ -442,10 +610,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex", "mol$"],
+    "artists": [
+      "Clonnex",
+      "mol$"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273755a20a51676bc783c63f6fe",
     "releaseDate": "2024-01-19",
+    "tags": [
+      "rap",
+      "cloud rap"
+    ],
     "title": "Kryvavyi Samsung 2008",
     "totalTracks": 1,
     "type": "single",
@@ -458,10 +633,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex", "Golubenko"],
+    "artists": [
+      "Clonnex",
+      "Golubenko"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734c7033c7e5e39f3611f41cbe",
     "releaseDate": "2024-01-05",
+    "tags": [
+      "rap",
+      "pop"
+    ],
     "title": "Дим",
     "totalTracks": 1,
     "type": "single",
@@ -474,10 +656,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex", "фрози"],
+    "artists": [
+      "Clonnex",
+      "фрози"
+    ],
     "artistsPopularity": 69,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f6f482493655c9f8c092528c",
     "releaseDate": "2023-11-03",
+    "tags": [
+      "rap",
+      "new jazz"
+    ],
     "title": "Mama Kupy",
     "totalTracks": 2,
     "type": "single",
@@ -490,10 +679,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex"],
+    "artists": [
+      "Clonnex"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ad699d2796424ab74355abfd",
     "releaseDate": "2023-08-18",
+    "tags": [
+      "rap"
+    ],
     "title": "Pushin Ї",
     "totalTracks": 1,
     "type": "single",
@@ -506,10 +700,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex"],
+    "artists": [
+      "Clonnex"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c86dbc529d2b4999e0e38498",
     "releaseDate": "2023-08-11",
+    "tags": [
+      "rap"
+    ],
     "title": "Elf Bar®",
     "totalTracks": 1,
     "type": "single",
@@ -522,10 +721,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex"],
+    "artists": [
+      "Clonnex"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27384f021efeae9291ab1d3bdd2",
     "releaseDate": "2023-08-04",
+    "tags": [
+      "rap"
+    ],
     "title": "Slava",
     "totalTracks": 1,
     "type": "single",
@@ -538,10 +742,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex", "Semmyx"],
+    "artists": [
+      "Clonnex",
+      "Semmyx"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27396638f1bac6f30fd5b506020",
     "releaseDate": "2023-07-28",
+    "tags": [
+      "rap"
+    ],
     "title": "Roblox",
     "totalTracks": 1,
     "type": "single",
@@ -554,10 +764,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Telly Grave", "Clonnex"],
+    "artists": [
+      "Telly Grave",
+      "Clonnex"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d04470dc9c89984968ad9934",
     "releaseDate": "2023-06-09",
+    "tags": [
+      "rap",
+      "Hip-Hop"
+    ],
     "title": "OXY",
     "totalTracks": 1,
     "type": "single",
@@ -570,10 +787,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex"],
+    "artists": [
+      "Clonnex"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734d85d7b4643e8d129b46e854",
     "releaseDate": "2023-06-02",
+    "tags": [
+      "rap"
+    ],
     "title": "Lyaguminka",
     "totalTracks": 1,
     "type": "single",
@@ -586,10 +808,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex"],
+    "artists": [
+      "Clonnex"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273247bf2aa31c7808568f5cef6",
     "releaseDate": "2023-03-17",
+    "tags": [
+      "rap"
+    ],
     "title": "Hey Baby",
     "totalTracks": 1,
     "type": "single",
@@ -602,10 +829,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex"],
+    "artists": [
+      "Clonnex"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aaddabbff931ef436a38c0de",
     "releaseDate": "2023-01-27",
+    "tags": [
+      "rap"
+    ],
     "title": "Sidnytseїd",
     "totalTracks": 1,
     "type": "single",
@@ -618,10 +850,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex", "Semmyx"],
+    "artists": [
+      "Clonnex",
+      "Semmyx"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738e96dbd23ba16fe6e162e943",
     "releaseDate": "2022-12-19",
+    "tags": [
+      "rap"
+    ],
     "title": "Pitbull",
     "totalTracks": 1,
     "type": "single",
@@ -634,10 +872,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex"],
+    "artists": [
+      "Clonnex"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273199c0f1ac2f56a4a5ba96dfd",
     "releaseDate": "2022-12-02",
+    "tags": [
+      "rap"
+    ],
     "title": "Querida",
     "totalTracks": 1,
     "type": "single",
@@ -650,10 +893,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex"],
+    "artists": [
+      "Clonnex"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fd65f08fa1aedde615e4226d",
     "releaseDate": "2022-11-11",
+    "tags": [
+      "rap"
+    ],
     "title": "Kalabanya",
     "totalTracks": 1,
     "type": "single",
@@ -666,10 +914,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex"],
+    "artists": [
+      "Clonnex"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738a657c64d471366af58f14fe",
     "releaseDate": "2022-07-22",
+    "tags": [
+      "rap"
+    ],
     "title": "Codeinoslav",
     "totalTracks": 1,
     "type": "single",
@@ -682,10 +935,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex"],
+    "artists": [
+      "Clonnex"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bb20f4a9dfec152fc939e22d",
     "releaseDate": "2022-06-17",
+    "tags": [
+      "rap"
+    ],
     "title": "Теперь забудь мои слова ты...",
     "totalTracks": 1,
     "type": "single",
@@ -698,10 +956,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex"],
+    "artists": [
+      "Clonnex"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736a9154a8c49e16985b903d7e",
     "releaseDate": "2022-06-17",
+    "tags": [
+      "rap"
+    ],
     "title": "Тепер забудь мої слова ти",
     "totalTracks": 1,
     "type": "single",
@@ -714,10 +977,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex"],
+    "artists": [
+      "Clonnex"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27368b9dc854bb1c8ac3741d4d2",
     "releaseDate": "2022-06-10",
+    "tags": [
+      "rap"
+    ],
     "title": "зайцев нет",
     "totalTracks": 1,
     "type": "single",
@@ -730,10 +998,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex"],
+    "artists": [
+      "Clonnex"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736130468574b31cfda0c5eb15",
     "releaseDate": "2022-05-08",
+    "tags": [
+      "rap"
+    ],
     "title": "ретро шмотки (UA Version)",
     "totalTracks": 1,
     "type": "single",
@@ -746,10 +1019,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex"],
+    "artists": [
+      "Clonnex"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dbd20fa8194fb916cd7d88fd",
     "releaseDate": "2022-04-29",
+    "tags": [
+      "rap"
+    ],
     "title": "ретро шмотки",
     "totalTracks": 1,
     "type": "single",
@@ -762,10 +1040,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex"],
+    "artists": [
+      "Clonnex"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27355fbe7864ed6d75d015b6d08",
     "releaseDate": "2022-04-22",
+    "tags": [
+      "rap"
+    ],
     "title": "в мойом капе",
     "totalTracks": 1,
     "type": "single",
@@ -778,10 +1061,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex", "Lovesomemama"],
+    "artists": [
+      "Clonnex",
+      "Lovesomemama"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735e8bcaa5822d4571fd9c9ba8",
     "releaseDate": "2022-03-18",
+    "tags": [
+      "rap",
+      "Hip-Hop",
+      "alternative rap"
+    ],
     "title": "Blizzard",
     "totalTracks": 1,
     "type": "single",
@@ -794,10 +1085,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex"],
+    "artists": [
+      "Clonnex"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e360ba7e29034f5768e3f415",
     "releaseDate": "2022-02-18",
+    "tags": [
+      "rap"
+    ],
     "title": "даже с разбитым сердцем",
     "totalTracks": 7,
     "type": "single",
@@ -810,10 +1106,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex"],
+    "artists": [
+      "Clonnex"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273181240ccee43cc93cc2ca444",
     "releaseDate": "2021-12-17",
+    "tags": [
+      "rap"
+    ],
     "title": "MEDIV Blood N Roll",
     "totalTracks": 5,
     "type": "single",
@@ -826,10 +1127,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex"],
+    "artists": [
+      "Clonnex"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731b83427be4c4dc1443ddc7ca",
     "releaseDate": "2021-12-03",
+    "tags": [
+      "rap"
+    ],
     "title": "марла",
     "totalTracks": 1,
     "type": "single",
@@ -842,10 +1148,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex"],
+    "artists": [
+      "Clonnex"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732ee5a54e10367ba0610d73f9",
     "releaseDate": "2021-04-01",
+    "tags": [
+      "rap"
+    ],
     "title": "Paladin",
     "totalTracks": 1,
     "type": "single",
@@ -858,10 +1169,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex"],
+    "artists": [
+      "Clonnex"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733df60fd9a265c72763b6cb37",
     "releaseDate": "2021-03-01",
+    "tags": [
+      "rap"
+    ],
     "title": "потерял страх",
     "totalTracks": 1,
     "type": "single",
@@ -874,10 +1190,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Clonnex"],
+    "artists": [
+      "Clonnex"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e3e37debf74ea835a6818312",
     "releaseDate": "2017-05-05",
+    "tags": [
+      "rap"
+    ],
     "title": "Я Їбашу на Заводі",
     "totalTracks": 1,
     "type": "single",

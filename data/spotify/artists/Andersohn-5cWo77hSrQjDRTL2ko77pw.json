@@ -1,0 +1,43 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-22T16:22:09.696Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Andersohn"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27303d0720421817a677d79822d",
+    "releaseDate": "2025-04-11",
+    "tags": [],
+    "title": "За Красою",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1DGSYYqpdInq1EejW95D3P"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-22T16:22:09.696Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Andersohn",
+      "Веремій"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738448af44a6b2d7eb35103331",
+    "releaseDate": "2024-02-02",
+    "tags": [
+      "folk metal"
+    ],
+    "title": "Най буде дощ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/20LlTbbfZBx5GuFn2diFtP"
+  }
+]

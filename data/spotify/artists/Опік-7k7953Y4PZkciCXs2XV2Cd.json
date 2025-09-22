@@ -6,10 +6,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Опік"],
+    "artists": [
+      "Опік"
+    ],
     "artistsPopularity": 6,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734a2cc54e6a38d10c305d5e56",
     "releaseDate": "2024-10-25",
+    "tags": [
+      "Garage Punk",
+      "punk rock",
+      "hardcore"
+    ],
     "title": "Навʼязливі думки",
     "totalTracks": 4,
     "type": "single",
@@ -22,10 +29,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Опік"],
+    "artists": [
+      "Опік"
+    ],
     "artistsPopularity": 6,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273edfd431f028a06d89987f15c",
     "releaseDate": "2023-09-15",
+    "tags": [
+      "Garage Punk",
+      "punk rock",
+      "hardcore"
+    ],
     "title": "Безмежний занепад",
     "totalTracks": 5,
     "type": "single",
@@ -38,10 +52,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Опік"],
+    "artists": [
+      "Опік"
+    ],
     "artistsPopularity": 6,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f11e31464b72e21e12f899fd",
     "releaseDate": "2023-05-19",
+    "tags": [
+      "Garage Punk",
+      "punk rock",
+      "hardcore"
+    ],
     "title": "Крадеш, обманюєш, молишся",
     "totalTracks": 1,
     "type": "single",
@@ -54,10 +75,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Опік"],
+    "artists": [
+      "Опік"
+    ],
     "artistsPopularity": 6,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27339a73c6af21d0f9c5eaeef67",
     "releaseDate": "2023-04-14",
+    "tags": [
+      "Garage Punk",
+      "punk rock",
+      "hardcore"
+    ],
     "title": "Це мій страх",
     "totalTracks": 1,
     "type": "single",
