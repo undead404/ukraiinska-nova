@@ -1,514 +1,596 @@
 [
   {
-    "artists": ["Echteliebe", "FORCEGNG", "FRCGNG"],
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:20.985Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Echteliebe",
+      "FORCEGNG",
+      "FRCGNG"
+    ],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739fb20035c69905c7a4ea1f70",
     "releaseDate": "2024-03-01",
     "title": "Клуб",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0LfARyYyR8dXFAEH6jVdML",
+    "url": "https://open.spotify.com/album/0LfARyYyR8dXFAEH6jVdML"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:20.985Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Echteliebe"],
+    ],
+    "artists": [
+      "Echteliebe"
+    ],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c77fc3ed23ccc9220b256c92",
     "releaseDate": "2023-11-24",
     "title": "Зброя",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5BP04hh5KZy8b0LzZyrkib",
+    "url": "https://open.spotify.com/album/5BP04hh5KZy8b0LzZyrkib"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:20.985Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Echteliebe"],
+    ],
+    "artists": [
+      "Echteliebe"
+    ],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27356a83a842016864041f055f1",
     "releaseDate": "2023-10-20",
     "title": "Love Is Cringe",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0LqjYwzrGfmI2UfrBBiR8x",
+    "url": "https://open.spotify.com/album/0LqjYwzrGfmI2UfrBBiR8x"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:20.985Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Echteliebe"],
+    ],
+    "artists": [
+      "Echteliebe"
+    ],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733add22ca80292ef20947cb68",
     "releaseDate": "2023-09-15",
     "title": "Метелик",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3LI57i9R3susTf4l9dMxo0",
+    "url": "https://open.spotify.com/album/3LI57i9R3susTf4l9dMxo0"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:20.985Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Phate Xick", "Ivyyy", "Echteliebe"],
+    ],
+    "artists": [
+      "Phate Xick",
+      "Ivyyy",
+      "Echteliebe"
+    ],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738303ff330505899acd61faa2",
     "releaseDate": "2023-08-25",
     "title": "AFTER DARK",
     "totalTracks": 5,
     "type": "single",
-    "url": "https://open.spotify.com/album/21ECUkc2RQTHVvd2QIeW8q",
+    "url": "https://open.spotify.com/album/21ECUkc2RQTHVvd2QIeW8q"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:20.985Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Phate Xick", "Ivyyy", "Echteliebe"],
+    ],
+    "artists": [
+      "Phate Xick",
+      "Ivyyy",
+      "Echteliebe"
+    ],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27396aa571608e4495f6e7b3223",
     "releaseDate": "2023-07-21",
     "title": "CHOMU",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/64KwgZyLogYL8xpzfBH0cS",
+    "url": "https://open.spotify.com/album/64KwgZyLogYL8xpzfBH0cS"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:20.985Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Echteliebe"],
+    ],
+    "artists": [
+      "Echteliebe"
+    ],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c665f5620197caf991b06aee",
     "releaseDate": "2023-06-30",
     "title": "Знову",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3TbTsFNNVJPEx6DReIaoJ7",
+    "url": "https://open.spotify.com/album/3TbTsFNNVJPEx6DReIaoJ7"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:20.985Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Echteliebe", "Ivyyy", "Phate Xick"],
+    ],
+    "artists": [
+      "Echteliebe",
+      "Ivyyy",
+      "Phate Xick"
+    ],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c3ca67989a27d1a9af5cb0bc",
     "releaseDate": "2023-06-02",
     "title": "PUSSYWAGON",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0rovOyW299cdsEkPnDB2ZW",
+    "url": "https://open.spotify.com/album/0rovOyW299cdsEkPnDB2ZW"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:20.985Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Echteliebe"],
+    ],
+    "artists": [
+      "Echteliebe"
+    ],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734073cf662497e2e0d9524a16",
     "releaseDate": "2022-09-15",
     "title": "Transerfing",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2TRjAnn7VUHVdJFnBbIp2h",
+    "url": "https://open.spotify.com/album/2TRjAnn7VUHVdJFnBbIp2h"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:20.985Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Echteliebe", "йо"],
+    ],
+    "artists": [
+      "Echteliebe",
+      "йо"
+    ],
     "artistsPopularity": 21,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27310d3f7d9d00b764125161e45",
     "releaseDate": "2022-06-29",
     "title": "Кончена",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4URfKqMbl72gGOCODv5wKc",
+    "url": "https://open.spotify.com/album/4URfKqMbl72gGOCODv5wKc"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:20.985Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Echteliebe", "нестор"],
+    ],
+    "artists": [
+      "Echteliebe",
+      "нестор"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27319ca00aab47e1617f6d0381a",
     "releaseDate": "2022-06-15",
     "title": "Солодкі ілюзії",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1RxFFDix858EhFjtUbOQUx",
+    "url": "https://open.spotify.com/album/1RxFFDix858EhFjtUbOQUx"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:20.985Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Echteliebe"],
+    ],
+    "artists": [
+      "Echteliebe"
+    ],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b3dd769792a1631dc0499130",
     "releaseDate": "2022-06-11",
     "title": "Я б так хотів",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2iUTYYggVgly7y2u8aPSqx",
+    "url": "https://open.spotify.com/album/2iUTYYggVgly7y2u8aPSqx"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:20.985Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Sleepy Andy", "Echteliebe", "drimandr"],
+    ],
+    "artists": [
+      "Sleepy Andy",
+      "Echteliebe",
+      "drimandr"
+    ],
     "artistsPopularity": 23,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27351ffae729282ad3d2df8e5b1",
     "releaseDate": "2022-06-01",
     "title": "Сльоза",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1GuYCv7hguzMMuGxTL1XIv",
+    "url": "https://open.spotify.com/album/1GuYCv7hguzMMuGxTL1XIv"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:20.985Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Echteliebe"],
+    ],
+    "artists": [
+      "Echteliebe"
+    ],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273791c982b244e80bcd0679f12",
     "releaseDate": "2022-05-13",
     "title": "Не маю плану",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/193Qco1NibzuMllND4mni3",
+    "url": "https://open.spotify.com/album/193Qco1NibzuMllND4mni3"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:20.985Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Nockonsep", "AMPLIFIER", "Echteliebe"],
+    ],
+    "artists": [
+      "Nockonsep",
+      "AMPLIFIER",
+      "Echteliebe"
+    ],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735fb1b98c2aeaa1ad4ee266de",
     "releaseDate": "2022-05-12",
     "title": "Дихання",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/79zZFri5CfCPMOOolbFEof",
+    "url": "https://open.spotify.com/album/79zZFri5CfCPMOOolbFEof"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:20.985Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Echteliebe"],
+    ],
+    "artists": [
+      "Echteliebe"
+    ],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c4341d69274acf5ffefeeaca",
     "releaseDate": "2022-03-18",
     "title": "Контракти",
     "totalTracks": 2,
     "type": "single",
-    "url": "https://open.spotify.com/album/6X6HHiZIJPnEuNB9baWyuT",
+    "url": "https://open.spotify.com/album/6X6HHiZIJPnEuNB9baWyuT"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:20.985Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Nockonsep", "AMPLIFIER", "Echteliebe"],
+    ],
+    "artists": [
+      "Nockonsep",
+      "AMPLIFIER",
+      "Echteliebe"
+    ],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27355f66bad1e568f0640ad2450",
     "releaseDate": "2022-02-01",
     "title": "Постріл",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/6R4jvB8WZVbR8wy3fVjRhv",
+    "url": "https://open.spotify.com/album/6R4jvB8WZVbR8wy3fVjRhv"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:20.985Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Echteliebe"],
+    ],
+    "artists": [
+      "Echteliebe"
+    ],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c4b5440b3b3962adcc7be3de",
     "releaseDate": "2021-05-15",
     "title": "Залишу",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/409jglC9f9gvSZVq3o9Bvz",
+    "url": "https://open.spotify.com/album/409jglC9f9gvSZVq3o9Bvz"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:20.985Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Echteliebe"],
+    ],
+    "artists": [
+      "Echteliebe"
+    ],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27374dbf6641fad3b3e7f2a5fb9",
     "releaseDate": "2021-05-08",
     "title": "Ядро",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0rnTABqiPyi5rPBqgFCiLa",
+    "url": "https://open.spotify.com/album/0rnTABqiPyi5rPBqgFCiLa"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:20.985Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Echteliebe"],
+    ],
+    "artists": [
+      "Echteliebe"
+    ],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273afe1c9677d5515900cf00259",
     "releaseDate": "2020-07-02",
     "title": "Дай мені руку щоб не впасти",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/40SJLBXuqDwLR59y829Nqm",
+    "url": "https://open.spotify.com/album/40SJLBXuqDwLR59y829Nqm"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:20.985Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["йо"],
+    ],
+    "artists": [
+      "йо"
+    ],
     "artistsPopularity": 21,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735d1e10b5f014518941e215ac",
     "releaseDate": "2025-07-11",
     "title": "мости",
     "totalTracks": 13,
     "type": "album",
-    "url": "https://open.spotify.com/album/0ojoshI9vfHsiEj4vqrbpU",
+    "url": "https://open.spotify.com/album/0ojoshI9vfHsiEj4vqrbpU"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:20.985Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["йо"],
+    ],
+    "artists": [
+      "йо"
+    ],
     "artistsPopularity": 21,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737e138e43a848cde285a6d32c",
     "releaseDate": "2023-08-18",
     "title": "pixel's affection",
     "totalTracks": 21,
     "type": "album",
-    "url": "https://open.spotify.com/album/1Jkm96b8NG8iOjbwllFA7z",
+    "url": "https://open.spotify.com/album/1Jkm96b8NG8iOjbwllFA7z"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:20.985Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Lizzzard"],
+    ],
+    "artists": [
+      "Lizzzard"
+    ],
     "artistsPopularity": 18,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273455204fe81b3ca4c73a83d4b",
     "releaseDate": "2021-07-23",
     "title": "Живчик",
     "totalTracks": 14,
     "type": "album",
-    "url": "https://open.spotify.com/album/1IZyrbV1hgVwpWJ4yV2S1W",
+    "url": "https://open.spotify.com/album/1IZyrbV1hgVwpWJ4yV2S1W"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:20.985Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["йо"],
+    ],
+    "artists": [
+      "йо"
+    ],
     "artistsPopularity": 21,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730b8fb41d37418b1f0d6fd5ee",
     "releaseDate": "2024-12-27",
     "title": "косяк",
     "totalTracks": 2,
     "type": "single",
-    "url": "https://open.spotify.com/album/3MhaZtqhXxHaVQLbPLqGsI",
+    "url": "https://open.spotify.com/album/3MhaZtqhXxHaVQLbPLqGsI"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:20.985Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["нестор"],
+    ],
+    "artists": [
+      "нестор"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b9ba6f2584b17512bfa1b9bf",
     "releaseDate": "2021-11-11",
     "title": "форд скорпіо",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/6JUrIwTcJft0VHDRDfcgqy",
+    "url": "https://open.spotify.com/album/6JUrIwTcJft0VHDRDfcgqy"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:20.985Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["йо"],
+    ],
+    "artists": [
+      "йо"
+    ],
     "artistsPopularity": 21,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738daf2c0c1cff54dccb365234",
     "releaseDate": "2023-07-07",
     "title": "gyals",
     "totalTracks": 6,
     "type": "single",
-    "url": "https://open.spotify.com/album/2zFXWqlfleKCnj9uT0NccW",
+    "url": "https://open.spotify.com/album/2zFXWqlfleKCnj9uT0NccW"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:20.985Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["EXPLAIN"],
+    ],
+    "artists": [
+      "EXPLAIN"
+    ],
     "artistsPopularity": 6,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27392bb7aee378b537105f4e4a6",
     "releaseDate": "2022-08-13",
     "title": "Different Swag",
     "totalTracks": 14,
     "type": "album",
-    "url": "https://open.spotify.com/album/5p7XsbjM3BGt51dcDpFbOF",
+    "url": "https://open.spotify.com/album/5p7XsbjM3BGt51dcDpFbOF"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:20.985Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO"],
+    ],
+    "artists": [
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734d5ba5c1680904c0103b32cb",
     "releaseDate": "2024-12-20",
     "title": "#почуття",
     "totalTracks": 2,
     "type": "single",
-    "url": "https://open.spotify.com/album/4TY8BmOwafhuAIyOzJmRBV",
+    "url": "https://open.spotify.com/album/4TY8BmOwafhuAIyOzJmRBV"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:20.985Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Nockonsep", "drimandr"],
+    ],
+    "artists": [
+      "Nockonsep",
+      "drimandr"
+    ],
     "artistsPopularity": 23,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c80b5c334c0b198962753eac",
     "releaseDate": "2022-08-12",
     "title": "Світанок",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0G4Te1Dm3VyI72XhnlIIgT",
+    "url": "https://open.spotify.com/album/0G4Te1Dm3VyI72XhnlIIgT"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:20.985Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Кульпарківська"],
+    ],
+    "artists": [
+      "Кульпарківська"
+    ],
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273787f49dbac7b83cccc20e766",
     "releaseDate": "2021-05-12",
     "title": "EXPERIMENTAL ДВІЖ",
     "totalTracks": 9,
     "type": "album",
-    "url": "https://open.spotify.com/album/6ZP48z3pNiA2fC8UvYx2sV",
+    "url": "https://open.spotify.com/album/6ZP48z3pNiA2fC8UvYx2sV"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:20.985Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["VanchesIK"],
+    ],
+    "artists": [
+      "VanchesIK"
+    ],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27395c344e929de7ca73e9b6d86",
     "releaseDate": "2024-04-26",
     "title": "Х2",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5nvLulono5l1J5JezRK16g",
+    "url": "https://open.spotify.com/album/5nvLulono5l1J5JezRK16g"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:20.985Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["примара", "whitelope"],
+    ],
+    "artists": [
+      "примара",
+      "whitelope"
+    ],
     "artistsPopularity": 18,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273952f05ae79aa230a54c68a8f",
     "releaseDate": "2022-05-27",
     "title": "Нумідіум",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5NdOPT8X4UinT7uQy5PgIj",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:20.985Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/5NdOPT8X4UinT7uQy5PgIj"
   }
 ]

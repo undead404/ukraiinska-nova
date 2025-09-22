@@ -1,0 +1,113 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T21:22:55.343Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Марія Квітка",
+      "Bunht"
+    ],
+    "artistsPopularity": 19,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fd2a2052899eb5068f7db8e5",
+    "releaseDate": "2025-06-19",
+    "title": "РОЗЦВІТ",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7Fg3JEKnvVvYpjwjDC8VTV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T21:22:55.343Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Марія Квітка"
+    ],
+    "artistsPopularity": 16,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736b55da56462d68f5a87d13a9",
+    "releaseDate": "2023-05-18",
+    "title": "Дай серцю ВОЛЮ",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4iizyWDgLTZQzVUxtWwMj2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T21:22:55.343Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Марія Квітка",
+      "Bunht"
+    ],
+    "artistsPopularity": 19,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e332b11321d92c3d527a8b4f",
+    "releaseDate": "2025-05-15",
+    "title": "Пташок викликаю",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2APe2OOStcnV7Y1vnscIiE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T21:22:55.343Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Марія Квітка",
+      "Bunht"
+    ],
+    "artistsPopularity": 19,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b679b12f619936e55afd24a5",
+    "releaseDate": "2024-12-12",
+    "title": "Сама",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0bpwbMd0BQEPonSmgs1mrE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T21:22:55.343Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Марія Квітка"
+    ],
+    "artistsPopularity": 16,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27336ff64635c5b2688de278cf1",
+    "releaseDate": "2023-05-04",
+    "title": "Кохала",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5pbLMeYtxDC8gSzJXX9xzo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T21:22:55.343Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROXOLANA"
+    ],
+    "artistsPopularity": 38,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273269970bbf1dd8b3ad6fe2623",
+    "releaseDate": "2023-12-08",
+    "title": "настрій: колядувати",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5rniOXFVzlpHL8VgyZNXTh"
+  }
+]

@@ -1,546 +1,646 @@
 [
   {
-    "artists": ["Kostiuchenko"],
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:28:11.418Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kostiuchenko"
+    ],
     "artistsPopularity": 17,
-    "title": "квіт",
-    "releaseDate": "2024-04-26",
-    "type": "album",
-    "totalTracks": 10,
-    "url": "https://open.spotify.com/album/1cY04k38rzyXgmDtcXGYBA",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b39e779619e58c4d3b73613e",
+    "releaseDate": "2024-04-26",
+    "title": "квіт",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1cY04k38rzyXgmDtcXGYBA"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:28:11.418Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Kostiuchenko"],
+    ],
+    "artists": [
+      "Kostiuchenko"
+    ],
     "artistsPopularity": 17,
-    "title": "SINUSOID 2",
-    "releaseDate": "2022-11-25",
-    "type": "album",
-    "totalTracks": 7,
-    "url": "https://open.spotify.com/album/3xjgx0aR5FqTwTbs3yVG0J",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732b027eebc1decf991b8798a5",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:28:11.418Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Kostiuchenko"],
-    "artistsPopularity": 17,
-    "title": "SINUSOID",
-    "releaseDate": "2022-09-11",
-    "type": "album",
+    "releaseDate": "2022-11-25",
+    "title": "SINUSOID 2",
     "totalTracks": 7,
-    "url": "https://open.spotify.com/album/1ychff2kxBItezXENLfWlL",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734e27ca12ef872ae67869d7af",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:28:11.418Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Kostiuchenko"],
-    "artistsPopularity": 17,
-    "title": "своє краще",
-    "releaseDate": "2025-08-29",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1ebGDece1AKcLlp4UHtDJP",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ae6efdbbd6b92b8e2cae663f",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:28:11.418Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["нестор", "Kostiuchenko"],
-    "artistsPopularity": 28,
-    "title": "щасливим!",
-    "releaseDate": "2025-02-07",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5uJXdfY1hByqzspx5LkaHI",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e2ce345f2d49e4343c0d6ca5",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:28:11.418Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Kostiuchenko"],
-    "artistsPopularity": 17,
-    "title": "вина",
-    "releaseDate": "2024-03-22",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3YiyAawTbyaKsxnA7YW2cY",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731b3c265eac859e089a063f70",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:28:11.418Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Kostiuchenko"],
-    "artistsPopularity": 17,
-    "title": "безхатько",
-    "releaseDate": "2024-03-08",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6HUfwahGHYz3i2rRC4cuHf",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ca8c5256489d6d3b88e75995",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:28:11.418Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Kostiuchenko", "irlbabee"],
-    "artistsPopularity": 18,
-    "title": "безлад",
-    "releaseDate": "2024-02-23",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5WPmr37wVhekeJbIXkGwiS",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27344dbf1c9fba5afc27fd90601",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:28:11.418Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Kostiuchenko"],
-    "artistsPopularity": 17,
-    "title": "номер",
-    "releaseDate": "2024-02-16",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2roCe8F4EYnufrrhdHqEkW",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735f4e4bfca12decbb9f563952",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:28:11.418Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Kostiuchenko"],
-    "artistsPopularity": 17,
-    "title": "TABLY",
-    "releaseDate": "2023-10-06",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/09oLB7Dcj8XdfZadBeuMyQ",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737673cbc0ab2f9009f0217bfd",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:28:11.418Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Kostiuchenko"],
-    "artistsPopularity": 17,
-    "title": "YOLOP",
-    "releaseDate": "2023-07-07",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2w8rdyN6XuDMm0er3n7G6L",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273df1e435052256823bcee4009",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:28:11.418Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Kostiuchenko"],
-    "artistsPopularity": 17,
-    "title": "gestalt",
-    "releaseDate": "2023-05-12",
-    "type": "single",
-    "totalTracks": 3,
-    "url": "https://open.spotify.com/album/4L4g2lTVkvavYxB4EllBvL",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27371158aeccb87218ffd0d26b8",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:28:11.418Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Kostiuchenko"],
-    "artistsPopularity": 17,
-    "title": "побудь",
-    "releaseDate": "2023-05-05",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4KMBjMpQ6dbH8tYiZq4C8r",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a00b3e1a2f10f497e21881b2",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:28:11.418Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Kostiuchenko", "andy polk"],
-    "artistsPopularity": 26,
-    "title": "DODO",
-    "releaseDate": "2023-03-23",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3roihVuoAXXK9vM9YCzzyd",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731e09764a98063c7fdf281102",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:28:11.418Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["МОДА", "Kostiuchenko"],
-    "artistsPopularity": 17,
-    "title": "БРУДНО",
-    "releaseDate": "2023-03-17",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4yG0WcUDm9uiADE9hmP5w6",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736a83a20791c36865504b7a9e",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:28:11.418Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["MERL1N", "Kostiuchenko"],
-    "artistsPopularity": 17,
-    "title": "Не точно",
-    "releaseDate": "2023-02-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1d035biwhT8Um6wqB3scNK",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c67a0f02a5c60346c6d784bf",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:28:11.418Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["gothique", "STAR", "Kostiuchenko"],
-    "artistsPopularity": 17,
-    "title": "CCTV",
-    "releaseDate": "2023-01-20",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4sulxHOComl4BsF0Tqyika",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27347e4229e1e80a0073b1d3f91",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:28:11.418Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Kostiuchenko", "irlbabee"],
-    "artistsPopularity": 18,
-    "title": "TYMAN",
-    "releaseDate": "2022-12-16",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7rArE8Yn9rgAK4J6mSz6Ip",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e57dcb9e096dd672f119bb65",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:28:11.418Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Kostiuchenko", "blessbaby"],
-    "artistsPopularity": 21,
-    "title": "HVOYDA",
-    "releaseDate": "2022-11-18",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7nUzMjKqfnpJiOY0rRnYT6",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bd5c32a22ae160ef085f5f97",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:28:11.418Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Kostiuchenko", "Райчу"],
-    "artistsPopularity": 25,
-    "title": "PERC",
-    "releaseDate": "2022-10-21",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6obdpzpHO4pU5oxsQZpOuJ",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27372ff27efb7281d6a0925c120",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:28:11.418Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Kostiuchenko", "lumosback"],
-    "artistsPopularity": 17,
-    "title": "На Хмарі",
-    "releaseDate": "2022-10-07",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4UJAqlSHRPAmW2GxhstzbQ",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cb390014651c2bd067852756",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:28:11.418Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Kostiuchenko"],
-    "artistsPopularity": 17,
-    "title": "FANGS",
-    "releaseDate": "2022-09-02",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2wCcBzat1ziKjiPU5NVIJM",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27377d117b6365dab6cc6679966",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:28:11.418Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Kostiuchenko"],
-    "artistsPopularity": 17,
-    "title": "VSE SHO BYLO",
-    "releaseDate": "2022-08-26",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5NrlViGRqu77F2PtGmOcF7",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273792c655004446ab586f8f30e",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:28:11.418Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Kostiuchenko"],
-    "artistsPopularity": 17,
-    "title": "ОЧІ",
-    "releaseDate": "2022-08-15",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0g0HRmG8rXKOBZcKvcg3hy",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d2ad0e6f4c63b95ad6b6a435",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:28:11.418Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Kostiuchenko", "Morphom"],
-    "artistsPopularity": 34,
-    "title": "Дорога додому",
-    "releaseDate": "2022-06-01",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0Vb9Bd4nfW0Wcy2LvaoGw6",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ccedaf3db6a7cd49f78365fd",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:28:11.418Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Kostiuchenko"],
-    "artistsPopularity": 17,
-    "title": "Воля",
-    "releaseDate": "2022-06-01",
-    "type": "single",
-    "totalTracks": 4,
-    "url": "https://open.spotify.com/album/7aEQhHGDEVZQpMKKZtSeHR",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c3fa6d77002af2a9909b3f1a",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:28:11.418Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Kostiuchenko", "Lil Beit"],
-    "artistsPopularity": 22,
-    "title": "Kill 4 U",
-    "releaseDate": "2022-05-13",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/39bUYrjN6xlPe4v4LYPrTj",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738f7f9e3d730d4b5af33f1d02",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:28:11.418Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Kostiuchenko", "Lil Moregun"],
-    "artistsPopularity": 17,
-    "title": "Намёки",
-    "releaseDate": "2022-03-18",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5z0jvxJf30sWuazhNYFXcT",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734016e5652a10b5f7ccdb3d63",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:28:11.418Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Kostiuchenko"],
-    "artistsPopularity": 17,
-    "title": "Осколки",
-    "releaseDate": "2021-12-17",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1I6649aL6rZgESHynStnrj",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a140cee1c8d04f257bf5d956",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:28:11.418Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Kostiuchenko"],
-    "artistsPopularity": 17,
-    "title": "Интерес",
-    "releaseDate": "2021-10-29",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4MMr5IUvnn1KV0i4U4CL08",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273068f37e5ffc273376f1963a2",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:28:11.418Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Kostiuchenko"],
-    "artistsPopularity": 17,
-    "title": "Февраль",
-    "releaseDate": "2021-09-07",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4Y5o9KWqyG2aHQVQFiCpwy",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b001848b5fd227047cdc8ad6",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:28:11.418Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Kostiuchenko"],
-    "artistsPopularity": 17,
-    "title": "Alive",
-    "releaseDate": "2021-08-27",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/61h8bkzcxMj8dNSZ3g8Yxm",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732ace777995d07fa34ae50763",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:28:11.418Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["нестор"],
-    "artistsPopularity": 28,
-    "title": "Я Обираю Бути Щасливим!",
-    "releaseDate": "2025-05-30",
-    "type": "single",
-    "totalTracks": 6,
-    "url": "https://open.spotify.com/album/7zrxJmled7xs3NiVJXyWRm",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27363c8ed53c52d7510feaed12e",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:28:11.418Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["gothique"],
-    "artistsPopularity": 16,
-    "title": "BERssSerK",
-    "releaseDate": "2023-02-17",
     "type": "album",
-    "totalTracks": 9,
-    "url": "https://open.spotify.com/album/2PFnBQfG5U9lXMdejFzL4Y",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f93d34d676c2260b379594c2",
+    "url": "https://open.spotify.com/album/3xjgx0aR5FqTwTbs3yVG0J"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:28:11.418Z",
         "type": "FOUND"
       }
-    ]
+    ],
+    "artists": [
+      "Kostiuchenko"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734e27ca12ef872ae67869d7af",
+    "releaseDate": "2022-09-11",
+    "title": "SINUSOID",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1ychff2kxBItezXENLfWlL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:28:11.418Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kostiuchenko"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ae6efdbbd6b92b8e2cae663f",
+    "releaseDate": "2025-08-29",
+    "title": "своє краще",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1ebGDece1AKcLlp4UHtDJP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:28:11.418Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "нестор",
+      "Kostiuchenko"
+    ],
+    "artistsPopularity": 28,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e2ce345f2d49e4343c0d6ca5",
+    "releaseDate": "2025-02-07",
+    "title": "щасливим!",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5uJXdfY1hByqzspx5LkaHI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:28:11.418Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kostiuchenko"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731b3c265eac859e089a063f70",
+    "releaseDate": "2024-03-22",
+    "title": "вина",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3YiyAawTbyaKsxnA7YW2cY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:28:11.418Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kostiuchenko"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ca8c5256489d6d3b88e75995",
+    "releaseDate": "2024-03-08",
+    "title": "безхатько",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6HUfwahGHYz3i2rRC4cuHf"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:28:11.418Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kostiuchenko",
+      "irlbabee"
+    ],
+    "artistsPopularity": 18,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27344dbf1c9fba5afc27fd90601",
+    "releaseDate": "2024-02-23",
+    "title": "безлад",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5WPmr37wVhekeJbIXkGwiS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:28:11.418Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kostiuchenko"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735f4e4bfca12decbb9f563952",
+    "releaseDate": "2024-02-16",
+    "title": "номер",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2roCe8F4EYnufrrhdHqEkW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:28:11.418Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kostiuchenko"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737673cbc0ab2f9009f0217bfd",
+    "releaseDate": "2023-10-06",
+    "title": "TABLY",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/09oLB7Dcj8XdfZadBeuMyQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:28:11.418Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kostiuchenko"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273df1e435052256823bcee4009",
+    "releaseDate": "2023-07-07",
+    "title": "YOLOP",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2w8rdyN6XuDMm0er3n7G6L"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:28:11.418Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kostiuchenko"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27371158aeccb87218ffd0d26b8",
+    "releaseDate": "2023-05-12",
+    "title": "gestalt",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4L4g2lTVkvavYxB4EllBvL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:28:11.418Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kostiuchenko"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a00b3e1a2f10f497e21881b2",
+    "releaseDate": "2023-05-05",
+    "title": "побудь",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4KMBjMpQ6dbH8tYiZq4C8r"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:28:11.418Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kostiuchenko",
+      "andy polk"
+    ],
+    "artistsPopularity": 26,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731e09764a98063c7fdf281102",
+    "releaseDate": "2023-03-23",
+    "title": "DODO",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3roihVuoAXXK9vM9YCzzyd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:28:11.418Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "МОДА",
+      "Kostiuchenko"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736a83a20791c36865504b7a9e",
+    "releaseDate": "2023-03-17",
+    "title": "БРУДНО",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4yG0WcUDm9uiADE9hmP5w6"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:28:11.418Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MERL1N",
+      "Kostiuchenko"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c67a0f02a5c60346c6d784bf",
+    "releaseDate": "2023-02-24",
+    "title": "Не точно",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1d035biwhT8Um6wqB3scNK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:28:11.418Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "gothique",
+      "STAR",
+      "Kostiuchenko"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27347e4229e1e80a0073b1d3f91",
+    "releaseDate": "2023-01-20",
+    "title": "CCTV",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4sulxHOComl4BsF0Tqyika"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:28:11.418Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kostiuchenko",
+      "irlbabee"
+    ],
+    "artistsPopularity": 18,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e57dcb9e096dd672f119bb65",
+    "releaseDate": "2022-12-16",
+    "title": "TYMAN",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7rArE8Yn9rgAK4J6mSz6Ip"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:28:11.418Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kostiuchenko",
+      "blessbaby"
+    ],
+    "artistsPopularity": 21,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bd5c32a22ae160ef085f5f97",
+    "releaseDate": "2022-11-18",
+    "title": "HVOYDA",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7nUzMjKqfnpJiOY0rRnYT6"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:28:11.418Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kostiuchenko",
+      "Райчу"
+    ],
+    "artistsPopularity": 25,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27372ff27efb7281d6a0925c120",
+    "releaseDate": "2022-10-21",
+    "title": "PERC",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6obdpzpHO4pU5oxsQZpOuJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:28:11.418Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kostiuchenko",
+      "lumosback"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cb390014651c2bd067852756",
+    "releaseDate": "2022-10-07",
+    "title": "На Хмарі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4UJAqlSHRPAmW2GxhstzbQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:28:11.418Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kostiuchenko"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27377d117b6365dab6cc6679966",
+    "releaseDate": "2022-09-02",
+    "title": "FANGS",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2wCcBzat1ziKjiPU5NVIJM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:28:11.418Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kostiuchenko"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273792c655004446ab586f8f30e",
+    "releaseDate": "2022-08-26",
+    "title": "VSE SHO BYLO",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5NrlViGRqu77F2PtGmOcF7"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:28:11.418Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kostiuchenko"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d2ad0e6f4c63b95ad6b6a435",
+    "releaseDate": "2022-08-15",
+    "title": "ОЧІ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0g0HRmG8rXKOBZcKvcg3hy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:28:11.418Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kostiuchenko",
+      "Morphom"
+    ],
+    "artistsPopularity": 34,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ccedaf3db6a7cd49f78365fd",
+    "releaseDate": "2022-06-01",
+    "title": "Дорога додому",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0Vb9Bd4nfW0Wcy2LvaoGw6"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:28:11.418Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kostiuchenko"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c3fa6d77002af2a9909b3f1a",
+    "releaseDate": "2022-06-01",
+    "title": "Воля",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7aEQhHGDEVZQpMKKZtSeHR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:28:11.418Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kostiuchenko",
+      "Lil Beit"
+    ],
+    "artistsPopularity": 22,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738f7f9e3d730d4b5af33f1d02",
+    "releaseDate": "2022-05-13",
+    "title": "Kill 4 U",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/39bUYrjN6xlPe4v4LYPrTj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:28:11.418Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kostiuchenko",
+      "Lil Moregun"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734016e5652a10b5f7ccdb3d63",
+    "releaseDate": "2022-03-18",
+    "title": "Намёки",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5z0jvxJf30sWuazhNYFXcT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:28:11.418Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kostiuchenko"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a140cee1c8d04f257bf5d956",
+    "releaseDate": "2021-12-17",
+    "title": "Осколки",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1I6649aL6rZgESHynStnrj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:28:11.418Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kostiuchenko"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273068f37e5ffc273376f1963a2",
+    "releaseDate": "2021-10-29",
+    "title": "Интерес",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4MMr5IUvnn1KV0i4U4CL08"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:28:11.418Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kostiuchenko"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b001848b5fd227047cdc8ad6",
+    "releaseDate": "2021-09-07",
+    "title": "Февраль",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4Y5o9KWqyG2aHQVQFiCpwy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:28:11.418Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kostiuchenko"
+    ],
+    "artistsPopularity": 17,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732ace777995d07fa34ae50763",
+    "releaseDate": "2021-08-27",
+    "title": "Alive",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/61h8bkzcxMj8dNSZ3g8Yxm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:28:11.418Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "нестор"
+    ],
+    "artistsPopularity": 28,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27363c8ed53c52d7510feaed12e",
+    "releaseDate": "2025-05-30",
+    "title": "Я Обираю Бути Щасливим!",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7zrxJmled7xs3NiVJXyWRm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:28:11.418Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "gothique"
+    ],
+    "artistsPopularity": 16,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f93d34d676c2260b379594c2",
+    "releaseDate": "2023-02-17",
+    "title": "BERssSerK",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2PFnBQfG5U9lXMdejFzL4Y"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T13:27:22.902Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kostiuchenko"
+    ],
+    "artistsPopularity": 16,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736bad828cad559635d1877972",
+    "releaseDate": "2025-09-19",
+    "title": "плакати",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/63hKYNcHcv0lyeQLJysAJ1"
   }
 ]

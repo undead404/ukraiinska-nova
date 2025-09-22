@@ -1,0 +1,74 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:25:29.935Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MACHUKHA"
+    ],
+    "artistsPopularity": 11,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27303a0804c1e71f4fd057a1c93",
+    "releaseDate": "2024-06-07",
+    "title": "Mochari",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2jZ12nW9LhyVo3y2gHGiKz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:25:29.935Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MACHUKHA"
+    ],
+    "artistsPopularity": 11,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734e15e662b2cda8519ceed4dd",
+    "releaseDate": "2024-05-15",
+    "title": "Inodi Padaye Snih Tak Lahidno Krizʹ Sosnovu Khvoyu",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5YJFHGKbtMUxVGBCOj7cDu"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:25:29.935Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MACHUKHA"
+    ],
+    "artistsPopularity": 11,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730bb60478c733b655f5761842",
+    "releaseDate": "2024-04-02",
+    "title": "Bezpliddya",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3yeTrMPI53bYPAd95dhBAm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:25:29.935Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Arhat"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ed048f3e651b4cba90cb40a0",
+    "releaseDate": "2025-05-28",
+    "title": "Omniscient",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7yl85VqmtnsR0I7pU1UAL1"
+  }
+]

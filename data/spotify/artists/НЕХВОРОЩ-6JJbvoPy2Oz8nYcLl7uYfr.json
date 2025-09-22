@@ -1,50 +1,56 @@
 [
   {
-    "artists": ["НЕХВОРОЩ"],
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:21.432Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "НЕХВОРОЩ"
+    ],
     "artistsPopularity": 0,
-    "title": "світлячки і блукаючі вогники",
-    "releaseDate": "2023-11-01",
-    "type": "album",
-    "totalTracks": 12,
-    "url": "https://open.spotify.com/album/7yms2Cj104fl8pWtR15YZb",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273066593ddc0a66578951e12bc",
+    "releaseDate": "2023-11-01",
+    "title": "світлячки і блукаючі вогники",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7yms2Cj104fl8pWtR15YZb"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:21.432Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["НЕХВОРОЩ"],
+    ],
+    "artists": [
+      "НЕХВОРОЩ"
+    ],
     "artistsPopularity": 0,
-    "title": "невидимих речей",
-    "releaseDate": "2024-03-01",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2Gu83ARlDaFKGC5a0uoSAi",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273da6392996fe0dae6d757618d",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:21.432Z",
-        "type": "FOUND"
-      }
-    ]
+    "releaseDate": "2024-03-01",
+    "title": "невидимих речей",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2Gu83ARlDaFKGC5a0uoSAi"
   },
   {
-    "artists": ["НЕХВОРОЩ"],
-    "artistsPopularity": 0,
-    "title": "води та вогню",
-    "releaseDate": "2023-05-23",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3taPkmaS7eEluvIhEEXs7Q",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e271e029245682f3f31fd92c",
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:21.432Z",
         "type": "FOUND"
       }
-    ]
+    ],
+    "artists": [
+      "НЕХВОРОЩ"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e271e029245682f3f31fd92c",
+    "releaseDate": "2023-05-23",
+    "title": "води та вогню",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3taPkmaS7eEluvIhEEXs7Q"
   }
 ]

@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:02:11.623Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": ["Маша Кондратенко"],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27331b622718c2bdf7baa39b7d9",
@@ -7,15 +13,15 @@
     "title": "знайшла свій щоденник",
     "totalTracks": 10,
     "type": "album",
-    "url": "https://open.spotify.com/album/1x3jYIxhKYFyphfmYmM0HK",
+    "url": "https://open.spotify.com/album/1x3jYIxhKYFyphfmYmM0HK"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:11.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Маша Кондратенко"],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273793f04734eefa7d15b140038",
@@ -23,15 +29,15 @@
     "title": "Мухи",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2w5yz0Xudppe472tRT3hAy",
+    "url": "https://open.spotify.com/album/2w5yz0Xudppe472tRT3hAy"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:11.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["MOLODI", "Маша Кондратенко"],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737048debad18f5c9fd8b02ce5",
@@ -39,15 +45,15 @@
     "title": "перший номер",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1cjLU3KPmGBa8EUeMYI3xt",
+    "url": "https://open.spotify.com/album/1cjLU3KPmGBa8EUeMYI3xt"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:11.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Маша Кондратенко"],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27391cbb95e84c41d977c98396d",
@@ -55,15 +61,15 @@
     "title": "No Time to Cry",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1jJR2WVlgeyuKPxT6n8ktw",
+    "url": "https://open.spotify.com/album/1jJR2WVlgeyuKPxT6n8ktw"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:11.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Маша Кондратенко", "Iryna Bilyk"],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b3b9f45ed5153b43c5c420a0",
@@ -71,15 +77,15 @@
     "title": "Дівчинка",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1ak5OODbyQSeNrNIUnTAfS",
+    "url": "https://open.spotify.com/album/1ak5OODbyQSeNrNIUnTAfS"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:11.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Маша Кондратенко"],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738f0630ee8b83e67888c40622",
@@ -87,15 +93,15 @@
     "title": "дим",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3CaSZAFIdNhOps4xwWiv6O",
+    "url": "https://open.spotify.com/album/3CaSZAFIdNhOps4xwWiv6O"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:11.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Klavdia Petrivna", "Маша Кондратенко"],
     "artistsPopularity": 57,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732604818f1cac29bb1ea1e2af",
@@ -103,15 +109,15 @@
     "title": "Їде дах",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5mzVAYB0NoFtJsCtknChFj",
+    "url": "https://open.spotify.com/album/5mzVAYB0NoFtJsCtknChFj"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:11.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Маша Кондратенко", "OSTY", "KAVA"],
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730cbe2c1ee5ec0e9fe24ee2ad",
@@ -119,15 +125,15 @@
     "title": "Білі ночі (Kava Remix)",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4YlNMrA3vNBggwFgZE00pR",
+    "url": "https://open.spotify.com/album/4YlNMrA3vNBggwFgZE00pR"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:11.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Маша Кондратенко", "OSTY"],
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27360617c9eb5165c3838ec3278",
@@ -135,15 +141,15 @@
     "title": "Білі ночі",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/73pqM9OoETFQTbbioQpCas",
+    "url": "https://open.spotify.com/album/73pqM9OoETFQTbbioQpCas"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:11.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Clonnex", "Маша Кондратенко"],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d2805103cbbecfa25b0256cf",
@@ -151,15 +157,15 @@
     "title": "Ванька-Встанька 2",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2gzknt4GX7ITEzVbmYhckI",
+    "url": "https://open.spotify.com/album/2gzknt4GX7ITEzVbmYhckI"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:11.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Маша Кондратенко", "KAVA"],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27362c886d2ba26ecdeaba1cedc",
@@ -167,15 +173,15 @@
     "title": "un deux trois (Kava Remix)",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/439ERONw60YAEQWVFgmARJ",
+    "url": "https://open.spotify.com/album/439ERONw60YAEQWVFgmARJ"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:11.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Маша Кондратенко"],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b66515532d9ae1cb47508c2c",
@@ -183,15 +189,15 @@
     "title": "un deux trois",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/6FEU8755HJAkH7i9wdp0os",
+    "url": "https://open.spotify.com/album/6FEU8755HJAkH7i9wdp0os"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:11.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Маша Кондратенко"],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bb124c57f32afbc55b9e4c9d",
@@ -199,15 +205,15 @@
     "title": "хто це така",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/52EOM330DArH9Upp42CvRS",
+    "url": "https://open.spotify.com/album/52EOM330DArH9Upp42CvRS"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:11.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Маша Кондратенко"],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731d54aee270684326c836b8e2",
@@ -215,15 +221,15 @@
     "title": "вогник вогник",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0yazavaLrlgvhy4InitvAn",
+    "url": "https://open.spotify.com/album/0yazavaLrlgvhy4InitvAn"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:11.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Маша Кондратенко"],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738e2037cc37a54e4e9a424053",
@@ -231,15 +237,15 @@
     "title": "на горі",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3fxLyJA0VEzUFoT7IPoSrA",
+    "url": "https://open.spotify.com/album/3fxLyJA0VEzUFoT7IPoSrA"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:11.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Маша Кондратенко"],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738355c1473e8cdd0c79a902ba",
@@ -247,15 +253,15 @@
     "title": "люлі люлі",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/7sC8eKVpmzK46oDYT7Xkzw",
+    "url": "https://open.spotify.com/album/7sC8eKVpmzK46oDYT7Xkzw"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:11.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Маша Кондратенко"],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c248a665d3e780ee38867eec",
@@ -263,15 +269,15 @@
     "title": "стабільно паршиво",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/74KooW2l8fa6Adav7zHl6K",
+    "url": "https://open.spotify.com/album/74KooW2l8fa6Adav7zHl6K"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:11.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Маша Кондратенко"],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27348daed18ae44fbc623dc9464",
@@ -279,15 +285,15 @@
     "title": "НЕ ХОДИ",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/63QhQOTvKOjdhpf2LuID1T",
+    "url": "https://open.spotify.com/album/63QhQOTvKOjdhpf2LuID1T"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:11.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Маша Кондратенко", "MASHUKOVSKY"],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d12a5add08f3290abc0151d0",
@@ -295,15 +301,15 @@
     "title": "ВЕДМЕДІ-БАЛАЛАЙКИ",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/7uO7nJDedoRwlKXMZtD44L",
+    "url": "https://open.spotify.com/album/7uO7nJDedoRwlKXMZtD44L"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:11.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Маша Кондратенко", "Kolaba"],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27323d5b822b6754339b51f97ec",
@@ -311,15 +317,15 @@
     "title": "Ванька-Встанька (Remix)",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/61BlvWCCgkVlWls69iFFeu",
+    "url": "https://open.spotify.com/album/61BlvWCCgkVlWls69iFFeu"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:11.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["ENLEO", "Маша Кондратенко"],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273696d770ca11015acc621d53b",
@@ -327,15 +333,15 @@
     "title": "любов сильніша",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0uR8Wr5Oowkn5V8WbjDJ4p",
+    "url": "https://open.spotify.com/album/0uR8Wr5Oowkn5V8WbjDJ4p"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:11.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Маша Кондратенко"],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aeff17a7d55cb952255a0c0f",
@@ -343,15 +349,15 @@
     "title": "Ванька-Встанька",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1bbFsnLqLLotUWVkFg5Dh7",
+    "url": "https://open.spotify.com/album/1bbFsnLqLLotUWVkFg5Dh7"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:11.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Маша Кондратенко"],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27364d02f4db05b1e03318fdac3",
@@ -359,15 +365,15 @@
     "title": "Чекаю на тебе",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/7ohhbGpNHnINOaOLJ55IJm",
+    "url": "https://open.spotify.com/album/7ohhbGpNHnINOaOLJ55IJm"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:11.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Маша Кондратенко", "Averin"],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27359e41da1f00f245be53c9bd8",
@@ -375,15 +381,15 @@
     "title": "Давай попробуем",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4mBnn9hNzYLhwFE7sGokqP",
+    "url": "https://open.spotify.com/album/4mBnn9hNzYLhwFE7sGokqP"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:11.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Маша Кондратенко"],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27305c968da276e878509db9982",
@@ -391,15 +397,15 @@
     "title": "Малая",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4yByNsClOtBVN0zTN9tDDR",
+    "url": "https://open.spotify.com/album/4yByNsClOtBVN0zTN9tDDR"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:11.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Klavdia Petrivna"],
     "artistsPopularity": 57,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738d8ce05e4cbe40e53c91bec3",
@@ -407,15 +413,15 @@
     "title": "Їде дах",
     "totalTracks": 8,
     "type": "album",
-    "url": "https://open.spotify.com/album/5aHW08dm8AyF8HG8YaV7co",
+    "url": "https://open.spotify.com/album/5aHW08dm8AyF8HG8YaV7co"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:11.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["MOLODI"],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733a232269b83e5931625cadc5",
@@ -423,15 +429,15 @@
     "title": "душею та тілом",
     "totalTracks": 10,
     "type": "album",
-    "url": "https://open.spotify.com/album/1y3MoCU4tujDw8Z0gWM88I",
+    "url": "https://open.spotify.com/album/1y3MoCU4tujDw8Z0gWM88I"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:11.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Clonnex"],
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27315f0b2e8e05b8fc67af732d1",
@@ -439,15 +445,15 @@
     "title": "MEDIV Cult of Bayraktar",
     "totalTracks": 19,
     "type": "album",
-    "url": "https://open.spotify.com/album/30aipbrwDPTqAmUV6PM1nI",
+    "url": "https://open.spotify.com/album/30aipbrwDPTqAmUV6PM1nI"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:11.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["LAUD"],
     "artistsPopularity": 33,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737f961ea1c85d4fe24f599cfe",
@@ -455,12 +461,6 @@
     "title": "ПРОБУДЖЕННЯ",
     "totalTracks": 9,
     "type": "album",
-    "url": "https://open.spotify.com/album/23mMnEAHqiMyeod0V1EA5a",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:02:11.623Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/23mMnEAHqiMyeod0V1EA5a"
   }
 ]

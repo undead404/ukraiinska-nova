@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:37.645Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": ["МОВА ЖЕСТІВ"],
     "artistsPopularity": 9,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739aaffea40e77011541f86cb3",
@@ -7,15 +13,15 @@
     "title": "Турист",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/6TSt9htjgn5eKjERLhposl",
+    "url": "https://open.spotify.com/album/6TSt9htjgn5eKjERLhposl"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:37.645Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["МОВА ЖЕСТІВ"],
     "artistsPopularity": 9,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732a43a83e779c567f29ae7edb",
@@ -23,15 +29,15 @@
     "title": "DEBUT",
     "totalTracks": 5,
     "type": "single",
-    "url": "https://open.spotify.com/album/33mJigHqVkNQYBbHRW1PeT",
+    "url": "https://open.spotify.com/album/33mJigHqVkNQYBbHRW1PeT"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:37.645Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["МОВА ЖЕСТІВ"],
     "artistsPopularity": 9,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e308acac6a21fce9de26695a",
@@ -39,15 +45,15 @@
     "title": "Помилка",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3ETUjuAXhb2rQXHpSz2QU1",
+    "url": "https://open.spotify.com/album/3ETUjuAXhb2rQXHpSz2QU1"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:37.645Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["МОВА ЖЕСТІВ"],
     "artistsPopularity": 9,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273456f8a97a8b7f81ca9e5c682",
@@ -55,15 +61,15 @@
     "title": "Нестерпна легкість буття",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5AgbeOkmIxfNiiMLM6Xnnf",
+    "url": "https://open.spotify.com/album/5AgbeOkmIxfNiiMLM6Xnnf"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:37.645Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["МОВА ЖЕСТІВ"],
     "artistsPopularity": 9,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273916b3bca76c2ee9863cb196e",
@@ -71,15 +77,15 @@
     "title": "Прощавай, печаль",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/17CmXYi0v6HAwEJNUUPNwh",
+    "url": "https://open.spotify.com/album/17CmXYi0v6HAwEJNUUPNwh"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:37.645Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["МОВА ЖЕСТІВ"],
     "artistsPopularity": 9,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f342a62ba107bfbdc1eecc7f",
@@ -87,15 +93,15 @@
     "title": "Мертве Море",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/54opdulL5fhAVXk5MHRjC2",
+    "url": "https://open.spotify.com/album/54opdulL5fhAVXk5MHRjC2"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:37.645Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["МОВА ЖЕСТІВ"],
     "artistsPopularity": 9,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273261663e1d0ef7d466d3f3b9f",
@@ -103,12 +109,6 @@
     "title": "Я передумав",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3JSNImbsKWzbfogdMUS0UM",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:19:37.645Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/3JSNImbsKWzbfogdMUS0UM"
   }
 ]

@@ -1,82 +1,92 @@
 [
   {
-    "artists": ["Площа Устриць"],
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:37.986Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Площа Устриць"
+    ],
     "artistsPopularity": 13,
-    "title": "Дикий Схід",
-    "releaseDate": "2023-10-19",
-    "type": "album",
-    "totalTracks": 10,
-    "url": "https://open.spotify.com/album/2EECoHjVfrPfsx0mwU2uAl",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273963893eb0f4ca3603d06f47b",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:37.986Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Площа Устриць"],
-    "artistsPopularity": 13,
-    "title": "Знаєш, мам",
-    "releaseDate": "2023-09-14",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2reapFE3B8Y0xHYYHbObaG",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27374d44dccb67d8b288c292691",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:37.986Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Площа Устриць"],
-    "artistsPopularity": 13,
-    "title": "Бути тим",
-    "releaseDate": "2023-08-18",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6pFNbP4xr36zH9ZBsNIr11",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27305157fcb72cfe34554452207",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:37.986Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Площа Устриць"],
-    "artistsPopularity": 13,
-    "title": "Проблем",
-    "releaseDate": "2023-06-28",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0Br0Ba690OUA5BpErFECqn",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d12f6cd3c27b7b084ae0152f",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:37.986Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Площа Устриць"],
-    "artistsPopularity": 13,
+    "releaseDate": "2023-10-19",
     "title": "Дикий Схід",
-    "releaseDate": "2023-06-14",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6PUlZTelB7US9p53k1Mngh",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735842c7dfe310f84be8b37fbd",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2EECoHjVfrPfsx0mwU2uAl"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:37.986Z",
         "type": "FOUND"
       }
-    ]
+    ],
+    "artists": [
+      "Площа Устриць"
+    ],
+    "artistsPopularity": 13,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27374d44dccb67d8b288c292691",
+    "releaseDate": "2023-09-14",
+    "title": "Знаєш, мам",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2reapFE3B8Y0xHYYHbObaG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:37.986Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Площа Устриць"
+    ],
+    "artistsPopularity": 13,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27305157fcb72cfe34554452207",
+    "releaseDate": "2023-08-18",
+    "title": "Бути тим",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6pFNbP4xr36zH9ZBsNIr11"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:37.986Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Площа Устриць"
+    ],
+    "artistsPopularity": 13,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d12f6cd3c27b7b084ae0152f",
+    "releaseDate": "2023-06-28",
+    "title": "Проблем",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0Br0Ba690OUA5BpErFECqn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:37.986Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Площа Устриць"
+    ],
+    "artistsPopularity": 13,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735842c7dfe310f84be8b37fbd",
+    "releaseDate": "2023-06-14",
+    "title": "Дикий Схід",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6PUlZTelB7US9p53k1Mngh"
   }
 ]

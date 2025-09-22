@@ -1,0 +1,93 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:23:48.086Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Веремій"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27345ea5161f9bf7b4536a8ed8e",
+    "releaseDate": "2014-05-17",
+    "title": "Вільна Земля",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/11oQHd11SjBbJ47c1zfL5t"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:23:48.086Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Веремій"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733daee600bc3dc0c68e25daef",
+    "releaseDate": "2012-09-22",
+    "title": "Там, де сонце встає",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4c55SjEPeAHzyyNt1h6jV1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:23:48.086Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Andersohn",
+      "Веремій"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738448af44a6b2d7eb35103331",
+    "releaseDate": "2024-02-02",
+    "title": "Най буде дощ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/20LlTbbfZBx5GuFn2diFtP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:23:48.086Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Веремій"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27320e670ada471db33a98da641",
+    "releaseDate": "2021-08-01",
+    "title": "Пошепки",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2ejlL9SYxfPUnw4m2R08qm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:23:48.086Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Веремій"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27383029a6952e4543119a8c682",
+    "releaseDate": "2017-10-03",
+    "title": "Нічого не буде, як раніше",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7C7cYPNX4VN9QJPmKv1aCl"
+  }
+]

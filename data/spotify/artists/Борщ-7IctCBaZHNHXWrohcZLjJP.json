@@ -1,0 +1,56 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:23:45.327Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Борщ"
+    ],
+    "artistsPopularity": 16,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab93b16554497ca33e6aef53",
+    "releaseDate": "2006",
+    "title": "Parazita Kusok",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6hw7XrF07ZproOuvFmBuWo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:23:45.327Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Борщ"
+    ],
+    "artistsPopularity": 16,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f68c4b7203e2d4fb406b4e11",
+    "releaseDate": "2004-02-03",
+    "title": "Padlo",
+    "totalTracks": 18,
+    "type": "album",
+    "url": "https://open.spotify.com/album/23MPjlqtUabL9V7nCQvKrd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:23:45.327Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Борщ"
+    ],
+    "artistsPopularity": 16,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ad55cbd0aabd94229ec0bd49",
+    "releaseDate": "2004-02-03",
+    "title": "Borshch",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1MJk0fRiFiwAXPGNsxH07v"
+  }
+]

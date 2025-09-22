@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:01:53.006Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": ["Женя і Катя"],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27335e5817c9d81c88303dde016",
@@ -7,15 +13,15 @@
     "title": "Між рядками",
     "totalTracks": 10,
     "type": "album",
-    "url": "https://open.spotify.com/album/5uEG0Vs4PlAzZAxE0AVyss",
+    "url": "https://open.spotify.com/album/5uEG0Vs4PlAzZAxE0AVyss"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:53.006Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Женя і Катя"],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27328a7c22b8a964bb23985fad2",
@@ -23,15 +29,15 @@
     "title": "Літаки",
     "totalTracks": 10,
     "type": "album",
-    "url": "https://open.spotify.com/album/4fQmFzHvheDVe3jZtP3pqo",
+    "url": "https://open.spotify.com/album/4fQmFzHvheDVe3jZtP3pqo"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:53.006Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Женя і Катя"],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736a9909bfa101b4dee523591a",
@@ -39,15 +45,15 @@
     "title": "Втомлене місто",
     "totalTracks": 7,
     "type": "album",
-    "url": "https://open.spotify.com/album/4pCXYh7JWRaZD0FmSSORBX",
+    "url": "https://open.spotify.com/album/4pCXYh7JWRaZD0FmSSORBX"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:53.006Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Женя і Катя"],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273134d3bf29133b227c2905feb",
@@ -55,15 +61,15 @@
     "title": "Мріяти",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2vkrUqXXTcSY5HJl2eQlEg",
+    "url": "https://open.spotify.com/album/2vkrUqXXTcSY5HJl2eQlEg"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:53.006Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Женя і Катя"],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d3b2028c55f362ad92198aa6",
@@ -71,15 +77,15 @@
     "title": "Зірки",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2poDTXop8XwELMCo7b8z3r",
+    "url": "https://open.spotify.com/album/2poDTXop8XwELMCo7b8z3r"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:53.006Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Женя і Катя"],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735de7dca94527310b03306d93",
@@ -87,15 +93,15 @@
     "title": "Розбиті частинки всередині",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/16DPvqkhFVdXdd6PmmCDt7",
+    "url": "https://open.spotify.com/album/16DPvqkhFVdXdd6PmmCDt7"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:53.006Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Женя і Катя"],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730b03c92ed03b097834ba4e63",
@@ -103,15 +109,15 @@
     "title": "Дивитися у вічі",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0LrKtxmgFi0wfkqp80J4uJ",
+    "url": "https://open.spotify.com/album/0LrKtxmgFi0wfkqp80J4uJ"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:53.006Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Женя і Катя"],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736ca848bc418443ae2c6cc864",
@@ -119,15 +125,15 @@
     "title": "Бачити тебе щодня",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0sqa6xTgaMoO6MjtNtsEQY",
+    "url": "https://open.spotify.com/album/0sqa6xTgaMoO6MjtNtsEQY"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:53.006Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Женя і Катя"],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27309c2ef5ed8be937110b7cef2",
@@ -135,15 +141,15 @@
     "title": "Усе попереду",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/30gAFvselrpjeyNlp38GIT",
+    "url": "https://open.spotify.com/album/30gAFvselrpjeyNlp38GIT"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:53.006Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Женя і Катя"],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273504685544eaafffecab2f37c",
@@ -151,15 +157,15 @@
     "title": "Відпусти",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2stB1i2MKKMxx6rUR7ZdUp",
+    "url": "https://open.spotify.com/album/2stB1i2MKKMxx6rUR7ZdUp"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:53.006Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Женя і Катя"],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f302c9a8114b4e17cea813f5",
@@ -167,15 +173,15 @@
     "title": "Назавжди з тобою",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1Kcmz0j2OAL4zLhd90rrWy",
+    "url": "https://open.spotify.com/album/1Kcmz0j2OAL4zLhd90rrWy"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:53.006Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Женя і Катя"],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dde93c7624a28722aae04786",
@@ -183,15 +189,15 @@
     "title": "Якщо пообіцяєш мені",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1pBndE9888qsxmzcyKGisz",
+    "url": "https://open.spotify.com/album/1pBndE9888qsxmzcyKGisz"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:53.006Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Женя і Катя"],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c17ef2732ce1d5e7a6240de3",
@@ -199,15 +205,15 @@
     "title": "Не знати де ти",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2xBPbHcpQdIgB8YZBAhZej",
+    "url": "https://open.spotify.com/album/2xBPbHcpQdIgB8YZBAhZej"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:53.006Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Женя і Катя"],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c03051d1c78b1c4fe3d79f2d",
@@ -215,15 +221,15 @@
     "title": "Місце у душі",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3NXDA422gfxW2axM7WlXQO",
+    "url": "https://open.spotify.com/album/3NXDA422gfxW2axM7WlXQO"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:53.006Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Женя і Катя"],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27320672da5a5cccebe0bdbfbcb",
@@ -231,15 +237,15 @@
     "title": "Світає",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3tF16k2aPyYTKywpq8YipS",
+    "url": "https://open.spotify.com/album/3tF16k2aPyYTKywpq8YipS"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:53.006Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Женя і Катя"],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27316c1a00ebb65c83cd9d446a8",
@@ -247,15 +253,15 @@
     "title": "Пам'ятай",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1Cilt4OHv7EtlDVeOS0Jud",
+    "url": "https://open.spotify.com/album/1Cilt4OHv7EtlDVeOS0Jud"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:53.006Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Женя і Катя"],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aa4d71e73bdc562a5a92ec4b",
@@ -263,15 +269,15 @@
     "title": "Інакше",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5yPEdaABFvLhO9gXhaJAoC",
+    "url": "https://open.spotify.com/album/5yPEdaABFvLhO9gXhaJAoC"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:53.006Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Женя і Катя"],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d19c4435607e8cbf2034d24f",
@@ -279,15 +285,15 @@
     "title": "Вогні",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/7wZ9BMjUsj2QWnqtUg2Ll2",
+    "url": "https://open.spotify.com/album/7wZ9BMjUsj2QWnqtUg2Ll2"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:53.006Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Женя і Катя"],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cce47e68a01640a874778297",
@@ -295,15 +301,15 @@
     "title": "Не назавжди",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1l3OlTPV9YBxfMk5gZYifz",
+    "url": "https://open.spotify.com/album/1l3OlTPV9YBxfMk5gZYifz"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:53.006Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Женя і Катя"],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273650add71345322a6aa9789d7",
@@ -311,15 +317,15 @@
     "title": "Сліди",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1kvdVHt1yebsT8CmkLFYn1",
+    "url": "https://open.spotify.com/album/1kvdVHt1yebsT8CmkLFYn1"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:53.006Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Женя і Катя"],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f31096098f6a92c1bcfd7ff6",
@@ -327,15 +333,15 @@
     "title": "Все одно",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0GlMGy9ZRZqnfVGXPsapmt",
+    "url": "https://open.spotify.com/album/0GlMGy9ZRZqnfVGXPsapmt"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:53.006Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Женя і Катя"],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273af1cd155642389b0fb1a5791",
@@ -343,15 +349,15 @@
     "title": "Майже звик",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0JowLUx0DXaG57T0iGFd7j",
+    "url": "https://open.spotify.com/album/0JowLUx0DXaG57T0iGFd7j"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:53.006Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Женя і Катя"],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fe935d9ccc58753abbf78b12",
@@ -359,15 +365,15 @@
     "title": "Чому",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5kjds3Eb3ZvWIiT61FyIYW",
+    "url": "https://open.spotify.com/album/5kjds3Eb3ZvWIiT61FyIYW"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:53.006Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Женя і Катя"],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27305950e0e9209c06c006b1bf3",
@@ -375,15 +381,15 @@
     "title": "Різдвяна ніч",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0dgA4nM3Q9VK81mjnRDNT3",
+    "url": "https://open.spotify.com/album/0dgA4nM3Q9VK81mjnRDNT3"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:53.006Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Женя і Катя"],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27305fe52b8a446af1e9dd92c24",
@@ -391,15 +397,15 @@
     "title": "Скажи",
     "totalTracks": 2,
     "type": "single",
-    "url": "https://open.spotify.com/album/7qCFZtYIUPbdr228Ow6f4D",
+    "url": "https://open.spotify.com/album/7qCFZtYIUPbdr228Ow6f4D"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:53.006Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Женя і Катя"],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a845cc56c3b55bdec730ec5a",
@@ -407,15 +413,15 @@
     "title": "Минуле літо",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0hcRU2IAzEjRoHPp3dZNZS",
+    "url": "https://open.spotify.com/album/0hcRU2IAzEjRoHPp3dZNZS"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:53.006Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Женя і Катя"],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733f35d2c8f6da21b6c67df576",
@@ -423,15 +429,15 @@
     "title": "Поміж нами",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2TyQ8hU3MddcMIX4G2nWVv",
+    "url": "https://open.spotify.com/album/2TyQ8hU3MddcMIX4G2nWVv"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:53.006Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Женя і Катя"],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b8a3729c041c106a56ff528a",
@@ -439,15 +445,15 @@
     "title": "Перший сніг",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5v2UypFYj4SmyXVP20j9Hb",
+    "url": "https://open.spotify.com/album/5v2UypFYj4SmyXVP20j9Hb"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:53.006Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Женя і Катя"],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27385fac77c445ea3ff370be200",
@@ -455,15 +461,15 @@
     "title": "Не вистачає",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1Glb1eK3i6LSPTjpR9eAwb",
+    "url": "https://open.spotify.com/album/1Glb1eK3i6LSPTjpR9eAwb"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:53.006Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Женя і Катя"],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739937d1290ec247a808ba0475",
@@ -471,12 +477,6 @@
     "title": "Літаки",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1st3OvinJAu8QZNCi1YzEy",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:01:53.006Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/1st3OvinJAu8QZNCi1YzEy"
   }
 ]

@@ -1,258 +1,291 @@
 [
   {
-    "artists": ["Yuko"],
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:29:35.436Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yuko"
+    ],
     "artistsPopularity": 26,
-    "title": "Re: Dura",
-    "releaseDate": "2019-11-25",
-    "type": "album",
-    "totalTracks": 14,
-    "url": "https://open.spotify.com/album/6s1YiHK32rLE1qbBAvgmIL",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737f1a7f6eab5aa794f1c1d91d",
+    "releaseDate": "2019-11-25",
+    "title": "Re: Dura",
+    "totalTracks": 14,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6s1YiHK32rLE1qbBAvgmIL"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:35.436Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Yuko"],
+    ],
+    "artists": [
+      "Yuko"
+    ],
     "artistsPopularity": 26,
-    "title": "DURA?",
-    "releaseDate": "2018-11-28",
-    "type": "album",
-    "totalTracks": 9,
-    "url": "https://open.spotify.com/album/2qGVBHPaND13Hei5ZGKWmI",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273408932ab18f0e4ba3caddf2b",
+    "releaseDate": "2018-11-28",
+    "title": "DURA?",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2qGVBHPaND13Hei5ZGKWmI"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:35.436Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Yuko"],
+    ],
+    "artists": [
+      "Yuko"
+    ],
     "artistsPopularity": 26,
-    "title": "Re:Ditch",
-    "releaseDate": "2018-05-25",
-    "type": "album",
-    "totalTracks": 9,
-    "url": "https://open.spotify.com/album/6WKXhAWhbguq2pEH3VVFmh",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733f96b8369a61f4ec65912f48",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:29:35.436Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Yuko"],
-    "artistsPopularity": 26,
-    "title": "Ditch",
-    "releaseDate": "2017-11-24",
-    "type": "album",
+    "releaseDate": "2018-05-25",
+    "title": "Re:Ditch",
     "totalTracks": 9,
-    "url": "https://open.spotify.com/album/0cLweM5HaSnVaDqj9zwIrT",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bcb4cab2be4a13f4eacf009f",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:29:35.436Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Yuko"],
-    "artistsPopularity": 26,
-    "title": "Можна, да можна",
-    "releaseDate": "2020-12-16",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/58asq1ui7Ff3olCAqVnCch",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735086f711fac86a3cca4c8f9d",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:29:35.436Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Yuko"],
-    "artistsPopularity": 26,
-    "title": "Дарма",
-    "releaseDate": "2020-09-04",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4znGDv0DOteB5qIb9bolJ9",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d4f4fc62c20e82d10450c9db",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:29:35.436Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Yuko"],
-    "artistsPopularity": 26,
-    "title": "Зима",
-    "releaseDate": "2020-02-27",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0NcKhiEZLU8nsYBSSS48Fb",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27311192196fea3f9b80988dc8b",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:29:35.436Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Yuko", "P. PAT"],
-    "artistsPopularity": 26,
-    "title": "Bliad (Hrushka)",
-    "releaseDate": "2019-05-21",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/06K8hf2YOUMFeZ41mIuFig",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fd1d98fb256cf5c5cc88702a",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:29:35.436Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Yuko"],
-    "artistsPopularity": 26,
-    "title": "Vesnianka",
-    "releaseDate": "2019-03-26",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5C3FGj7F1dlskmMaaVdVeQ",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ad997d558c63678e85747f18",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:29:35.436Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Yuko"],
-    "artistsPopularity": 26,
-    "title": "Buvaite Zdorovi (Extended)",
-    "releaseDate": "2019-02-19",
-    "type": "single",
-    "totalTracks": 6,
-    "url": "https://open.spotify.com/album/1S3RyeKKOBx1DbPJtU85Wy",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ad3fe2635a84626c254047b0",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:29:35.436Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Yuko"],
-    "artistsPopularity": 26,
-    "title": "Водубьору (Remixed)",
-    "releaseDate": "2017-06-30",
-    "type": "single",
-    "totalTracks": 4,
-    "url": "https://open.spotify.com/album/5KyUsB0mlVdMFgpX9QMi3j",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ea0b6b69e99183a268c486e9",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:29:35.436Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Yuko"],
-    "artistsPopularity": 26,
-    "title": "Shchebetuha",
-    "releaseDate": "2017-03-27",
-    "type": "single",
-    "totalTracks": 4,
-    "url": "https://open.spotify.com/album/2Sz1akPwJ13waIvnlhUGA1",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273125434688b818eef3c0e938f",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:29:35.436Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Yuko"],
-    "artistsPopularity": 26,
-    "title": "Маша",
-    "releaseDate": "2017-02-03",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/742b8dVunFLfd8gzEWZW0r",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f22e56a685fcd4f98a70c67",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:29:35.436Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Yuko"],
-    "artistsPopularity": 26,
-    "title": "Хороша",
-    "releaseDate": "2016-12-16",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2XZphhEvzNbjvdkHyEgJIk",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273acebca8b54fb1e9a6ab09b5e",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:29:35.436Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Ivan Dorn"],
-    "artistsPopularity": 57,
-    "title": "Мастерской огонёк",
-    "releaseDate": "2017-12-25",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7ezfDyrigx3Pd7uOz0OAS6",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d3419042b2f1ad4b28beba8a",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:29:35.436Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Logan Alexander"],
-    "artistsPopularity": 0,
-    "title": "Falling Out Of Place",
-    "releaseDate": "2021-08-15",
     "type": "album",
-    "totalTracks": 12,
-    "url": "https://open.spotify.com/album/79ooyfhoo1wH50KNe95h9P",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273313da2e7b5997c41ad03ae9f",
+    "url": "https://open.spotify.com/album/6WKXhAWhbguq2pEH3VVFmh"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:29:35.436Z",
         "type": "FOUND"
       }
-    ]
+    ],
+    "artists": [
+      "Yuko"
+    ],
+    "artistsPopularity": 26,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bcb4cab2be4a13f4eacf009f",
+    "releaseDate": "2017-11-24",
+    "title": "Ditch",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0cLweM5HaSnVaDqj9zwIrT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:29:35.436Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yuko"
+    ],
+    "artistsPopularity": 26,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735086f711fac86a3cca4c8f9d",
+    "releaseDate": "2020-12-16",
+    "title": "Можна, да можна",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/58asq1ui7Ff3olCAqVnCch"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:29:35.436Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yuko"
+    ],
+    "artistsPopularity": 26,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d4f4fc62c20e82d10450c9db",
+    "releaseDate": "2020-09-04",
+    "title": "Дарма",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4znGDv0DOteB5qIb9bolJ9"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:29:35.436Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yuko"
+    ],
+    "artistsPopularity": 26,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27311192196fea3f9b80988dc8b",
+    "releaseDate": "2020-02-27",
+    "title": "Зима",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0NcKhiEZLU8nsYBSSS48Fb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:29:35.436Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yuko",
+      "P. PAT"
+    ],
+    "artistsPopularity": 26,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fd1d98fb256cf5c5cc88702a",
+    "releaseDate": "2019-05-21",
+    "title": "Bliad (Hrushka)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/06K8hf2YOUMFeZ41mIuFig"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:29:35.436Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yuko"
+    ],
+    "artistsPopularity": 26,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ad997d558c63678e85747f18",
+    "releaseDate": "2019-03-26",
+    "title": "Vesnianka",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5C3FGj7F1dlskmMaaVdVeQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:29:35.436Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yuko"
+    ],
+    "artistsPopularity": 26,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ad3fe2635a84626c254047b0",
+    "releaseDate": "2019-02-19",
+    "title": "Buvaite Zdorovi (Extended)",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1S3RyeKKOBx1DbPJtU85Wy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:29:35.436Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yuko"
+    ],
+    "artistsPopularity": 26,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ea0b6b69e99183a268c486e9",
+    "releaseDate": "2017-06-30",
+    "title": "Водубьору (Remixed)",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5KyUsB0mlVdMFgpX9QMi3j"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:29:35.436Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yuko"
+    ],
+    "artistsPopularity": 26,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273125434688b818eef3c0e938f",
+    "releaseDate": "2017-03-27",
+    "title": "Shchebetuha",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2Sz1akPwJ13waIvnlhUGA1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:29:35.436Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yuko"
+    ],
+    "artistsPopularity": 26,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f22e56a685fcd4f98a70c67",
+    "releaseDate": "2017-02-03",
+    "title": "Маша",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/742b8dVunFLfd8gzEWZW0r"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:29:35.436Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yuko"
+    ],
+    "artistsPopularity": 26,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273acebca8b54fb1e9a6ab09b5e",
+    "releaseDate": "2016-12-16",
+    "title": "Хороша",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2XZphhEvzNbjvdkHyEgJIk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:29:35.436Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan Dorn"
+    ],
+    "artistsPopularity": 57,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d3419042b2f1ad4b28beba8a",
+    "releaseDate": "2017-12-25",
+    "title": "Мастерской огонёк",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7ezfDyrigx3Pd7uOz0OAS6"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:29:35.436Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Logan Alexander"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273313da2e7b5997c41ad03ae9f",
+    "releaseDate": "2021-08-15",
+    "title": "Falling Out Of Place",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/79ooyfhoo1wH50KNe95h9P"
   }
 ]

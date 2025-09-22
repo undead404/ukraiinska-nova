@@ -1,402 +1,468 @@
 [
   {
-    "artists": ["Степан Гіга"],
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:02:37.104Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Степан Гіга"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27367c28d11d1b69cc207f84ae8",
     "releaseDate": "2022-04-01",
     "title": "Кращі 50 Золотих Хітів",
     "totalTracks": 50,
     "type": "album",
-    "url": "https://open.spotify.com/album/3iCZTOi2kyQCDoOywTHYpZ",
+    "url": "https://open.spotify.com/album/3iCZTOi2kyQCDoOywTHYpZ"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:37.104Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Степан Гіга"],
+    ],
+    "artists": [
+      "Степан Гіга"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ff9e98c60161e974e9b27725",
     "releaseDate": "2022-04-01",
     "title": "Вулиця Наталі",
     "totalTracks": 15,
     "type": "album",
-    "url": "https://open.spotify.com/album/1Hzx3a2lhdptpv4u10kulZ",
+    "url": "https://open.spotify.com/album/1Hzx3a2lhdptpv4u10kulZ"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:37.104Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Степан Гіга"],
+    ],
+    "artists": [
+      "Степан Гіга"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a93917ea3cae8e1e4e398c7e",
     "releaseDate": "2022-03-29",
     "title": "Дорога до Храму",
     "totalTracks": 19,
     "type": "album",
-    "url": "https://open.spotify.com/album/5MRgUFXXcIAyrLWZpomcok",
+    "url": "https://open.spotify.com/album/5MRgUFXXcIAyrLWZpomcok"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:37.104Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Степан Гіга", "Квітослава", "Степан Гіга Молодший"],
+    ],
+    "artists": [
+      "Степан Гіга",
+      "Квітослава",
+      "Степан Гіга Молодший"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731537ef127dd2511d0dc867da",
     "releaseDate": "2009",
     "title": "Друзі мої 2",
     "totalTracks": 21,
     "type": "album",
-    "url": "https://open.spotify.com/album/36ZWJyJBhptabSDkVKLIdg",
+    "url": "https://open.spotify.com/album/36ZWJyJBhptabSDkVKLIdg"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:37.104Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Степан Гіга"],
+    ],
+    "artists": [
+      "Степан Гіга"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bed4345c07d089d7b4f27994",
     "releaseDate": "2004",
     "title": "Троянди для тебе",
     "totalTracks": 17,
     "type": "album",
-    "url": "https://open.spotify.com/album/72q4ZvdZJVUbjhOCG9fT0X",
+    "url": "https://open.spotify.com/album/72q4ZvdZJVUbjhOCG9fT0X"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:37.104Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Степан Гіга"],
+    ],
+    "artists": [
+      "Степан Гіга"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732b358367cebf43324a22e4ea",
     "releaseDate": "2001",
     "title": "Друзі мої",
     "totalTracks": 17,
     "type": "album",
-    "url": "https://open.spotify.com/album/1sJbM5P7wjDuIfZYXS4oAs",
+    "url": "https://open.spotify.com/album/1sJbM5P7wjDuIfZYXS4oAs"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:37.104Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Степан Гіга"],
+    ],
+    "artists": [
+      "Степан Гіга"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27376d360e660886947d4c2fc6b",
     "releaseDate": "2025-02-04",
     "title": "Смереки осені не знають",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/6xMyKE64C05w4wm2jEnIH9",
+    "url": "https://open.spotify.com/album/6xMyKE64C05w4wm2jEnIH9"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:37.104Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Степан Гіга", "Лєра Мандзюк"],
+    ],
+    "artists": [
+      "Степан Гіга",
+      "Лєра Мандзюк"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27384059c774b34cd2eb6564cd9",
     "releaseDate": "2024-02-12",
     "title": "Цей сон (Уроки толерантності OST)",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1pPXQotw24WYRk3dfRhPJu",
+    "url": "https://open.spotify.com/album/1pPXQotw24WYRk3dfRhPJu"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:37.104Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Степан Гіга", "Vallhard"],
+    ],
+    "artists": [
+      "Степан Гіга",
+      "Vallhard"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273285a4d6181e4e28575242920",
     "releaseDate": "2023-11-16",
     "title": "Цей Сон (Techno Remix)",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0vtQu9IWC2x3UD2kiGmuDF",
+    "url": "https://open.spotify.com/album/0vtQu9IWC2x3UD2kiGmuDF"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:37.104Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Степан Гіга", "MAVER"],
+    ],
+    "artists": [
+      "Степан Гіга",
+      "MAVER"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d422fb2603ce52913623d3b4",
     "releaseDate": "2023-08-17",
     "title": "Яворина (Remix)",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1qh55SopSDZMXTE8IZAIqk",
+    "url": "https://open.spotify.com/album/1qh55SopSDZMXTE8IZAIqk"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:37.104Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Степан Гіга", "MAVER"],
+    ],
+    "artists": [
+      "Степан Гіга",
+      "MAVER"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273027079cf8ab40b771dcdb28e",
     "releaseDate": "2023-08-10",
     "title": "Цей Сон (Remix)",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/22R9OyeWK4i2mzDwWfUUph",
+    "url": "https://open.spotify.com/album/22R9OyeWK4i2mzDwWfUUph"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:37.104Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Степан Гіга", "The Faino", "Aladdin"],
+    ],
+    "artists": [
+      "Степан Гіга",
+      "The Faino",
+      "Aladdin"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f168c3ae7a93aa980fa64959",
     "releaseDate": "2023-02-15",
     "title": "Сон (Remix)",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/7AM3cuyQdA0Cr6cfq9YWIz",
+    "url": "https://open.spotify.com/album/7AM3cuyQdA0Cr6cfq9YWIz"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:37.104Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Степан Гіга", "GLOVA", "MANIN"],
+    ],
+    "artists": [
+      "Степан Гіга",
+      "GLOVA",
+      "MANIN"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731a436356f9e5f0aec254416e",
     "releaseDate": "2022-12-07",
     "title": "Золото Карпат (VERSION 2.0)",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3k2icgtbq2u7WbEGS43xz2",
+    "url": "https://open.spotify.com/album/3k2icgtbq2u7WbEGS43xz2"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:37.104Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Степан Гіга"],
+    ],
+    "artists": [
+      "Степан Гіга"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c5184276e6ba4a5563ac8d36",
     "releaseDate": "2022-11-07",
     "title": "Одна любов на двох",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3KmuuyQ6Td4WWnFdxnunpd",
+    "url": "https://open.spotify.com/album/3KmuuyQ6Td4WWnFdxnunpd"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:37.104Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Степан Гіга"],
+    ],
+    "artists": [
+      "Степан Гіга"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b35654e9560c9f4b273c2c4d",
     "releaseDate": "2022-07-28",
     "title": "Ой, у лузі червона калина",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3JizOHdluqvsEKRoBZTk0v",
+    "url": "https://open.spotify.com/album/3JizOHdluqvsEKRoBZTk0v"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:37.104Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Леся Нікітюк", "Степан Гіга"],
+    ],
+    "artists": [
+      "Леся Нікітюк",
+      "Степан Гіга"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27393afadb16f335ea5f9138ef9",
     "releaseDate": "2022-06-27",
     "title": "Цей сон (Radio Edit)",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/6q8qjDhPwAzXeNIJywQqzJ",
+    "url": "https://open.spotify.com/album/6q8qjDhPwAzXeNIJywQqzJ"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:37.104Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Леся Нікітюк", "Степан Гіга"],
+    ],
+    "artists": [
+      "Леся Нікітюк",
+      "Степан Гіга"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ffa355f1526bc54d122e9f18",
     "releaseDate": "2022-06-04",
     "title": "Цей сон",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2JriJ23Nv5SHcumLPTkmvh",
+    "url": "https://open.spotify.com/album/2JriJ23Nv5SHcumLPTkmvh"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:37.104Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Степан Гіга"],
+    ],
+    "artists": [
+      "Степан Гіга"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736afa729daed514b252195e75",
     "releaseDate": "2022-03-14",
     "title": "Молимось за Україну",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0uJyUkqUW4LRj1RkoCOTzI",
+    "url": "https://open.spotify.com/album/0uJyUkqUW4LRj1RkoCOTzI"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:37.104Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Степан Гіга", "Лесик і Карпо"],
+    ],
+    "artists": [
+      "Степан Гіга",
+      "Лесик і Карпо"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273482aae33cb7a8da2afdbfea3",
     "releaseDate": "2021-12-27",
     "title": "Сон",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4GGJ4whc99eUaGAlQ7YlVm",
+    "url": "https://open.spotify.com/album/4GGJ4whc99eUaGAlQ7YlVm"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:37.104Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Степан Гіга", "Квітослава", "Steve G", "Даніель"],
+    ],
+    "artists": [
+      "Степан Гіга",
+      "Квітослава",
+      "Steve G",
+      "Даніель"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e0150276e73322a8e6482f58",
     "releaseDate": "2021-10-01",
     "title": "Хай Ісус мале дитя",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5RUZhQyNNLZSaLM3tv5Zs1",
+    "url": "https://open.spotify.com/album/5RUZhQyNNLZSaLM3tv5Zs1"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:37.104Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Степан Гіга"],
+    ],
+    "artists": [
+      "Степан Гіга"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273179db5969acfd8d27501cc23",
     "releaseDate": "2020",
     "title": "Загадаю я бажання",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0Swb8lQ2H8XFhdgIMRagMI",
+    "url": "https://open.spotify.com/album/0Swb8lQ2H8XFhdgIMRagMI"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:37.104Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Степан Гіга"],
+    ],
+    "artists": [
+      "Степан Гіга"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e2ecca7011131790d76fa57f",
     "releaseDate": "2020",
     "title": "За тебе все віддам",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/61kCBXitspqAukqObJjXMG",
+    "url": "https://open.spotify.com/album/61kCBXitspqAukqObJjXMG"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:37.104Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Лесик і Карпо"],
+    ],
+    "artists": [
+      "Лесик і Карпо"
+    ],
     "artistsPopularity": 21,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731304d95910ab9ea65ea3e12d",
     "releaseDate": "2022-01-17",
     "title": "Пес Десь",
     "totalTracks": 13,
     "type": "album",
-    "url": "https://open.spotify.com/album/5kbo0yn3mQgKyrVys4fM2R",
+    "url": "https://open.spotify.com/album/5kbo0yn3mQgKyrVys4fM2R"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:37.104Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["cryapachy"],
+    ],
+    "artists": [
+      "cryapachy"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273176391fe9ac5c60552021d99",
     "releaseDate": "2024-02-23",
     "title": "Піроман",
     "totalTracks": 4,
     "type": "single",
-    "url": "https://open.spotify.com/album/76ir7hXMWymR4qc5UoLGtQ",
+    "url": "https://open.spotify.com/album/76ir7hXMWymR4qc5UoLGtQ"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:37.104Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["cryapachy"],
+    ],
+    "artists": [
+      "cryapachy"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ff67eda6866ecfd5f292c458",
     "releaseDate": "2024-02-16",
     "title": "лист із жовтого дому",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/6gIjQFLoEHjQemHKJT6h8j",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:02:37.104Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/6gIjQFLoEHjQemHKJT6h8j"
   }
 ]

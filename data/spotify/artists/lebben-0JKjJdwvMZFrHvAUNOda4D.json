@@ -1,0 +1,75 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T23:25:06.150Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "lebben",
+      "ЧОРТОПОЛОХ"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e24e8bd9456c8abeaf7d4a9f",
+    "releaseDate": "2025-06-27",
+    "title": "Цигарки",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6fyIIdzdNJnJZSV0YciDng"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T23:25:06.150Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "lebben"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27364f5b644ebc869015af76d29",
+    "releaseDate": "2024-09-23",
+    "title": "обійми",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0ZA103tCseutqMRuDJUCyF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T23:25:06.150Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "lebben"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b1ec034d72060a3dca9b8649",
+    "releaseDate": "2023-05-22",
+    "title": "лебенарій 1",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5xklSKW3a73ntc0c2SjxK8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T23:25:06.150Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "lebben"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27372c8c3d2b20ca4a7f465d0e9",
+    "releaseDate": "2023-01-23",
+    "title": "два по ціні одного",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2Fu98H2OEvAO6ZP0apDwPu"
+  }
+]

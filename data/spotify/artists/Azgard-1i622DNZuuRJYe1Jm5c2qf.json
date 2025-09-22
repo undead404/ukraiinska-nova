@@ -1,0 +1,56 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T12:27:26.660Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Azgard"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739a8f72b257dcdcc73bba1201",
+    "releaseDate": "2010",
+    "title": "I am Eternal",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3RoavhEB7SwzTbQjxMhvcH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T12:27:26.660Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Azgard"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cdb388a8f5288bc96e4cde93",
+    "releaseDate": "2007",
+    "title": "There is a Tale",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4zq4V07pmBqkw0o2VDbTPY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T12:27:26.660Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Azgard"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732c60d237685142524fb48c72",
+    "releaseDate": "2006",
+    "title": "Slayers of Darkness",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3bk8X23ksRQ4Avu67xgwMQ"
+  }
+]

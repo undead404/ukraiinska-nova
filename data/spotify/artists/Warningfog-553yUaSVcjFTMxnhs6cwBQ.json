@@ -1,0 +1,56 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T19:24:28.591Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Warningfog"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d73aa14cef5aaacd2c752fa5",
+    "releaseDate": "2022-02-12",
+    "title": "Naturphilosophie",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5u1GmHSmsgCdYjGsENZ3Qx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T19:24:28.591Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Warningfog"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b7e411e2a71e8e9be53bf377",
+    "releaseDate": "2018-12-28",
+    "title": "True, False and Random",
+    "totalTracks": 22,
+    "type": "album",
+    "url": "https://open.spotify.com/album/59Zjx8WKZhuvNiGWiu2hlg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T19:24:28.591Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Warningfog"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e56675eb108573c2f4291caf",
+    "releaseDate": "2016-10-19",
+    "title": "Fog Warning",
+    "totalTracks": 16,
+    "type": "album",
+    "url": "https://open.spotify.com/album/20YY0cENqTPJ1uPtikB0Ex"
+  }
+]

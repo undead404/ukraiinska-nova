@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:01:26.621Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": ["Аква Віта"],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27358c993f87b1726863336d3b6",
@@ -7,15 +13,15 @@
     "title": "Марсіанка",
     "totalTracks": 9,
     "type": "album",
-    "url": "https://open.spotify.com/album/1Jcs50nUDqNlQO8pnOyoLt",
+    "url": "https://open.spotify.com/album/1Jcs50nUDqNlQO8pnOyoLt"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:26.621Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Віктор Павлік", "Аква Віта"],
     "artistsPopularity": 44,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739e716deac50c259ce22f253d",
@@ -23,15 +29,15 @@
     "title": "Вега",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4jXpP1oPr1lftWwyR93Wwj",
+    "url": "https://open.spotify.com/album/4jXpP1oPr1lftWwyR93Wwj"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:26.621Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Аква Віта"],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eae059b02b4a4d0adc719420",
@@ -39,15 +45,15 @@
     "title": "Розмаїття мереж",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3pNJCXVmwspMjm2Pq9zmrb",
+    "url": "https://open.spotify.com/album/3pNJCXVmwspMjm2Pq9zmrb"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:26.621Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Аква Віта"],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738b27a76dd780478ccbe76519",
@@ -55,15 +61,15 @@
     "title": "Бринить печаль (Remastered 2024)",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4NGcCLK8EIEOf5MbL3gFv7",
+    "url": "https://open.spotify.com/album/4NGcCLK8EIEOf5MbL3gFv7"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:26.621Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Аква Віта", "Projekt Gestalten"],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a6031b79ac7ce992e58ef08f",
@@ -71,15 +77,15 @@
     "title": "А тепер усе інакше (Projekt Gestalten Remixes)",
     "totalTracks": 2,
     "type": "single",
-    "url": "https://open.spotify.com/album/4Dc9Gdyb1QRWUgKBDGQUkl",
+    "url": "https://open.spotify.com/album/4Dc9Gdyb1QRWUgKBDGQUkl"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:26.621Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Аква Віта"],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737efe811584c900d2a4d6f72b",
@@ -87,15 +93,15 @@
     "title": "Кришталевий вечір",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5mtH7riRopX8WDzHS9tGBB",
+    "url": "https://open.spotify.com/album/5mtH7riRopX8WDzHS9tGBB"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:26.621Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Аква Віта"],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d2145a70fff32fa2aa91415d",
@@ -103,15 +109,15 @@
     "title": "Птахи",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4aHcag7SKAa0MgPY7mDgTB",
+    "url": "https://open.spotify.com/album/4aHcag7SKAa0MgPY7mDgTB"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:26.621Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Віктор Павлік", "Аква Віта", "Alex Fleev"],
     "artistsPopularity": 44,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27345af8a6e6a5cb2654143106e",
@@ -119,15 +125,15 @@
     "title": "Сяйво зеленого мiста (Alex Fleev Remix)",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/57uQjgEqEPtvCehNLsb2C8",
+    "url": "https://open.spotify.com/album/57uQjgEqEPtvCehNLsb2C8"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:26.621Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Віктор Павлік", "Аква Віта"],
     "artistsPopularity": 44,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27372653ba7a1ef860c7f3430fe",
@@ -135,15 +141,15 @@
     "title": "Сяйво зеленого міста",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/35tTtUESaOJJkiZ9s1CEbh",
+    "url": "https://open.spotify.com/album/35tTtUESaOJJkiZ9s1CEbh"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:26.621Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Аква Віта"],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27341f1c0363c39b016223b53d1",
@@ -151,15 +157,15 @@
     "title": "Я жду (Remaster 2022)",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4QjNPGtBPCk87Tap2S2QVB",
+    "url": "https://open.spotify.com/album/4QjNPGtBPCk87Tap2S2QVB"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:26.621Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Аква Віта"],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a5f66b6b573e9af08f7295a8",
@@ -167,15 +173,15 @@
     "title": "На Івана Купала",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/7wmDdsQDs8tAxo8LhYpPKp",
+    "url": "https://open.spotify.com/album/7wmDdsQDs8tAxo8LhYpPKp"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:26.621Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["The Faino", "Аква Віта"],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273736d8fa355a368576a198609",
@@ -183,12 +189,6 @@
     "title": "А тепер усе інакше",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1rmDfZAWj9yLfr3ZEockYJ",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:01:26.621Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/1rmDfZAWj9yLfr3ZEockYJ"
   }
 ]

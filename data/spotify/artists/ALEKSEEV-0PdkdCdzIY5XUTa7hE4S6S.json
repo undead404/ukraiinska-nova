@@ -1,0 +1,809 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ALEKSEEV"
+    ],
+    "artistsPopularity": 41,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27319e99602e19cb3ce94772329",
+    "releaseDate": "2019-05-24",
+    "title": "Моя звезда",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0wqAetSdSHUT9mkxFIGaf8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ALEKSEEV"
+    ],
+    "artistsPopularity": 41,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27348281eab093282e8df5d9c58",
+    "releaseDate": "2016-12-02",
+    "title": "Пьяное солнце",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7vrA0t2cj81C1GtPS0Q0pj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ALEKSEEV"
+    ],
+    "artistsPopularity": 41,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730a3bf5be7839f9d6aa2d3bac",
+    "releaseDate": "2025-07-25",
+    "title": "Дівчино",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1ovpwWMchLMAm1NPgFveEr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YAROMIYA",
+      "ALEKSEEV",
+      "Gvozdini"
+    ],
+    "artistsPopularity": 41,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eba0a6649ccde0d6d6a608a6",
+    "releaseDate": "2025-05-14",
+    "title": "Більш ніж друг (Gvozdini REMIX)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0VhjciuVOdCxbHcCQpbGOJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YAROMIYA",
+      "ALEKSEEV",
+      "GLOVA"
+    ],
+    "artistsPopularity": 41,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735b6ac16511b2660b6a01a68f",
+    "releaseDate": "2025-05-14",
+    "title": "Більш ніж друг (GLOVA REMIX)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/141KDVFSh57Vkj0HpiqBIt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SWOIIA",
+      "ALEKSEEV"
+    ],
+    "artistsPopularity": 41,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fe0bcceda653d34e0d9d0d3d",
+    "releaseDate": "2025-03-28",
+    "title": "Обнуляю",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6gcwVc0ySPT2OIcQXEVikD"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ALEKSEEV",
+      "ULYANA"
+    ],
+    "artistsPopularity": 41,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735a35410ff38f4362e39508b3",
+    "releaseDate": "2024-12-05",
+    "title": "Вальс",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2bYIm5ZvFlQg7y75vFNl0E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ALEKSEEV"
+    ],
+    "artistsPopularity": 41,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735adddf18f852daa9de711459",
+    "releaseDate": "2024-10-04",
+    "title": "Наодинці танці",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4LWM06jRsxDmFRPazquIDy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YAROMIYA",
+      "ALEKSEEV"
+    ],
+    "artistsPopularity": 41,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735dd5cb8350b8da69cc3af75b",
+    "releaseDate": "2024-04-04",
+    "title": "Більш ніж друг",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2C0XlaZ2Zk7wopxU7hA2gl"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ALEKSEEV",
+      "МУЛЬТИТРЕК"
+    ],
+    "artistsPopularity": 41,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fb30d6ca4aabd9411eab8058",
+    "releaseDate": "2024-03-08",
+    "title": "Срібло",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6X6DV31xpPhConC1IaF7Fu"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ALEKSEEV"
+    ],
+    "artistsPopularity": 41,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737a7939232dd3b9edefbfd1ef",
+    "releaseDate": "2024-02-02",
+    "title": "П'яне сонце",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3afRK9IF0Livg6ZK1xNwNc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ALEKSEEV"
+    ],
+    "artistsPopularity": 41,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27353e3e7663fd1ea8bd87f1983",
+    "releaseDate": "2023-11-17",
+    "title": "Назавжди",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1w54Eae6Iwv8uSIQDPllfl"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ALEKSEEV"
+    ],
+    "artistsPopularity": 41,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736cf952c6e6ad7870c393bd25",
+    "releaseDate": "2023-09-20",
+    "title": "Океанами стали (UA Version)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2TmjGdAuuKm9MRPEYZJk0t"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олександр Пономарьов",
+      "Тарас Тополя",
+      "ALEKSEEV"
+    ],
+    "artistsPopularity": 41,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aaca5d59cea43bd6f17badd5",
+    "releaseDate": "2023-08-25",
+    "title": "Миліша",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5bD9ufBkGRPcwyULZuGigO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ALEKSEEV"
+    ],
+    "artistsPopularity": 41,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27394889eb8081097fbbd8ed64e",
+    "releaseDate": "2023-08-04",
+    "title": "Як ти там",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7sznYWADnCSTwR5Oe211MS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ALEKSEEV"
+    ],
+    "artistsPopularity": 41,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d6ad3f81200050ec1e826453",
+    "releaseDate": "2023-02-23",
+    "title": "Варшава - Київ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5xiEI6KvYqgZV2DF2foPRG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ALEKSEEV"
+    ],
+    "artistsPopularity": 41,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739ea0e9d23013ed3fc41e7d3f",
+    "releaseDate": "2022-06-01",
+    "title": "Мама",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4g4TXIjuNh1T4nNemWuc2J"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ALEKSEEV"
+    ],
+    "artistsPopularity": 41,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e0327c94a1c0a43590257f97",
+    "releaseDate": "2021-08-24",
+    "title": "Свідомо залежний",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2e9k7xICkYvDaBozj6ebiu"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KAZKA",
+      "ALEKSEEV"
+    ],
+    "artistsPopularity": 47,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737fa13263b39e647e9e9acf82",
+    "releaseDate": "2021-03-19",
+    "title": "Поруч (Remixes)",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3t0wieUiVs6fQGBScmRB3n"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олександр Пономарьов",
+      "Artem Pivovarov",
+      "ALEKSEEV"
+    ],
+    "artistsPopularity": 52,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739ec84ab0b7e542f9d2961ef5",
+    "releaseDate": "2021-03-01",
+    "title": "Чому?",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7KV8N3tPZuRvAF6Dc1PLvE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ALEKSEEV"
+    ],
+    "artistsPopularity": 41,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273772ad7bdcefaefe0334cf73b",
+    "releaseDate": "2021-02-12",
+    "title": "Сквозь сон",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5lmgxWhbHTw0Gt898mfT2y"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KAZKA",
+      "ALEKSEEV"
+    ],
+    "artistsPopularity": 47,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733ea40aeef5d0ff3fce9be4f4",
+    "releaseDate": "2021-01-01",
+    "title": "Till the End of Time",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/78prxyRUxFysQLewMUOI9V"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KAZKA",
+      "ALEKSEEV"
+    ],
+    "artistsPopularity": 47,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739abe0674a1b1638ea3b2c016",
+    "releaseDate": "2020-11-16",
+    "title": "Поруч",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3W5JKybLNNI6bRxSRoGsCP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ALEKSEEV"
+    ],
+    "artistsPopularity": 41,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273628ae8ab51440a8b8eb7f7da",
+    "releaseDate": "2020-05-18",
+    "title": "Ревность",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3PCTg0sZd4S3TuLPs6fdzA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ALEKSEEV"
+    ],
+    "artistsPopularity": 41,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273944661454c8131de73f5f9a2",
+    "releaseDate": "2020-03-08",
+    "title": "Снов осколки 2020",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4TrKzcsrXQrO0jOgZpcm5V"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ALEKSEEV"
+    ],
+    "artistsPopularity": 41,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273910831a9a439e49834774b47",
+    "releaseDate": "2019-09-20",
+    "title": "Камень и вода",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2eEKCd1ptANjsUwKNHLapz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ALEKSEEV"
+    ],
+    "artistsPopularity": 41,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a31b538bd3d2759ff220e816",
+    "releaseDate": "2019-04-26",
+    "title": "Целуй",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4WgVtB6wdSYcpUwXpvkawh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ALEKSEEV"
+    ],
+    "artistsPopularity": 41,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273700d8974bfb4a3a7df4d8ed0",
+    "releaseDate": "2019-03-08",
+    "title": "НЕ МЕД",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2pywMM59cRCUhAK8GBywFx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ALEKSEEV"
+    ],
+    "artistsPopularity": 41,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dddbe684515764ef85575baa",
+    "releaseDate": "2019",
+    "title": "Как Ты там (Live at Laima Rendezvous 2019)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/30U701ASpYApOhbjZi3rCF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ALEKSEEV"
+    ],
+    "artistsPopularity": 41,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b8678b4caf6f8c43d2027bad",
+    "releaseDate": "2018-11-16",
+    "title": "Как ты там",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7LiY6d73E9gLgbWmkJRD24"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ALEKSEEV"
+    ],
+    "artistsPopularity": 41,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735464aa22c479123f6ae38f89",
+    "releaseDate": "2018-09-27",
+    "title": "Февраль",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1ndOBNfKRNlJaGjjZuGS3K"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ALEKSEEV"
+    ],
+    "artistsPopularity": 41,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bcbacc97c2500a103500fbd7",
+    "releaseDate": "2018-05-18",
+    "title": "Сберегу",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6w7rCiAz7PlD2TqBsG3qqa"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ALEKSEEV"
+    ],
+    "artistsPopularity": 41,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733c2325306d2bfbd7ff646822",
+    "releaseDate": "2018-04-23",
+    "title": "FOREVER",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5OzF4bmaMt3F4Aa6tb2nBJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ALEKSEEV"
+    ],
+    "artistsPopularity": 41,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273516b89fc9723f95f8b2f9444",
+    "releaseDate": "2018-03-28",
+    "title": "Forever",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5A6XgVEiL3rENiL3zSzZ6Q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ALEKSEEV"
+    ],
+    "artistsPopularity": 41,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273de6baa576e6691a5aa9b7d59",
+    "releaseDate": "2017-11-10",
+    "title": "Навсегда",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/76VHJlWybM45RY2dq7Pfaf"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ALEKSEEV"
+    ],
+    "artistsPopularity": 41,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273463efc103dae4481cded8cff",
+    "releaseDate": "2017-05-11",
+    "title": "Чувствую душой",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7HBrLFWTziwT6HSbnJ5wHj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ALEKSEEV"
+    ],
+    "artistsPopularity": 41,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27357c097608473ee1c149c6832",
+    "releaseDate": "2017-04-06",
+    "title": "Океанами стали (Dima Young & Sasha Vector Remix)",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/30HoBLgDmekWrLpS8VAl3k"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ALEKSEEV"
+    ],
+    "artistsPopularity": 41,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732ee20a95424fb7bbc778ce3e",
+    "releaseDate": "2016-10-04",
+    "title": "Океанами стали",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1LbSmTmK9UjAVfy1L7Ntbf"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ALEKSEEV"
+    ],
+    "artistsPopularity": 41,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734e5a61ebc4ada1b7f648e4d9",
+    "releaseDate": "2016-04-05",
+    "title": "ОМА",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4xnRbsoj1IYHKAY19swulH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ALEKSEEV"
+    ],
+    "artistsPopularity": 41,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739075a5809351d1dec900e3db",
+    "releaseDate": "2016-02-25",
+    "title": "Держи",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3kKIOgGB2FdNSIg6Lojlt6"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ALEKSEEV"
+    ],
+    "artistsPopularity": 41,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734a283f16fa79d0d6bffefdc9",
+    "releaseDate": "2015-09-13",
+    "title": "Пьяное солнце",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7crKvnzquTkYRULgGSj8jj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SWOIIA"
+    ],
+    "artistsPopularity": 29,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d03c8bc61bd176b1ef1ab5b0",
+    "releaseDate": "2025-09-12",
+    "title": "Про особисте",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1GwrJ7MieUwf4rW28TpmNr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олександр Пономарьов"
+    ],
+    "artistsPopularity": 33,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a10fea7fe54e43533f8fa033",
+    "releaseDate": "2021-01-04",
+    "title": "Нова радість стала",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6tSvAf8zCerIUAA0mlMW04"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:23:39.072Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олександр Пономарьов"
+    ],
+    "artistsPopularity": 33,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27322dcba4e00317618f77ae28d",
+    "releaseDate": "2021-12-25",
+    "title": "Христос Народився",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4iiA9hs9wTQXD3q6CECt1M"
+  }
+]

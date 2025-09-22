@@ -1,0 +1,39 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:24:45.406Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "35streetghosts",
+      "Покам"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739905e319578ebd5ad4a5d4bf",
+    "releaseDate": "2024-07-19",
+    "title": "ВАГА",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3QJEV71wmOOegTppKTZft2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:24:45.406Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Покам"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731eff972d22d3f7c4f4935179",
+    "releaseDate": "2023-04-28",
+    "title": "Стріха",
+    "totalTracks": 18,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0VcFKtD5F3Ut047WtV5HtU"
+  }
+]

@@ -1,626 +1,714 @@
 [
   {
-    "artists": ["Шугар"],
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:20:00.972Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Шугар"
+    ],
     "artistsPopularity": 55,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733edcf1a66f970ae3c136475d",
     "releaseDate": "2025-08-27",
     "title": "Ягода",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/495zmfxCmAftg5cwVZitHz",
+    "url": "https://open.spotify.com/album/495zmfxCmAftg5cwVZitHz"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Настя Борщ", "Шугар"],
+    ],
+    "artists": [
+      "Настя Борщ",
+      "Шугар"
+    ],
     "artistsPopularity": 55,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736a2aeaea6c9230a8daa4168b",
     "releaseDate": "2025-08-14",
     "title": "Йо-йо",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5pqT70zEsZdcJf0vTgCsGq",
+    "url": "https://open.spotify.com/album/5pqT70zEsZdcJf0vTgCsGq"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Шугар"],
+    ],
+    "artists": [
+      "Шугар"
+    ],
     "artistsPopularity": 55,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739cba9d3c1b9a7230a2430cdd",
     "releaseDate": "2025-06-19",
     "title": "Відбита",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/40Lkvs73YMDRjAy7cu0Jm9",
+    "url": "https://open.spotify.com/album/40Lkvs73YMDRjAy7cu0Jm9"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Шугар"],
+    ],
+    "artists": [
+      "Шугар"
+    ],
     "artistsPopularity": 55,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d925c258c6f71ab38cb7c21f",
     "releaseDate": "2025-03-27",
     "title": "Френдзона",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2XqZYMkQLqT9ZyS3vrYDuT",
+    "url": "https://open.spotify.com/album/2XqZYMkQLqT9ZyS3vrYDuT"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Шугар"],
+    ],
+    "artists": [
+      "Шугар"
+    ],
     "artistsPopularity": 55,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b00701e360b6d97b57a060dd",
     "releaseDate": "2025-01-13",
     "title": "Діва",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/106U2o7fQK6ODx2rjSRTSg",
+    "url": "https://open.spotify.com/album/106U2o7fQK6ODx2rjSRTSg"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Шугар", "Настя Борщ"],
+    ],
+    "artists": [
+      "Шугар",
+      "Настя Борщ"
+    ],
     "artistsPopularity": 55,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273166ec1d018b302757bda46b3",
     "releaseDate": "2024-12-05",
     "title": "Тікток",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/65dQ9H9gZOsRzWDHCbVHwz",
+    "url": "https://open.spotify.com/album/65dQ9H9gZOsRzWDHCbVHwz"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Шугар"],
+    ],
+    "artists": [
+      "Шугар"
+    ],
     "artistsPopularity": 55,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733b044cf17bd70c4ea89cbdfc",
     "releaseDate": "2024-10-17",
     "title": "Токсік",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4hTZxscVG2XHSG12vA5Opq",
+    "url": "https://open.spotify.com/album/4hTZxscVG2XHSG12vA5Opq"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Delamer", "Шугар"],
+    ],
+    "artists": [
+      "Delamer",
+      "Шугар"
+    ],
     "artistsPopularity": 55,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739071eb9a90fe5ed0a4b607f3",
     "releaseDate": "2024-08-16",
     "title": "Папік",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2zMDhouVc2bALKCRoGkR8L",
+    "url": "https://open.spotify.com/album/2zMDhouVc2bALKCRoGkR8L"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Шугар"],
+    ],
+    "artists": [
+      "Шугар"
+    ],
     "artistsPopularity": 55,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738d52aa746c50bbb66fc5bebc",
     "releaseDate": "2024-08-08",
     "title": "BMW",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5NfnrauyCr9n9vQDFks4vX",
+    "url": "https://open.spotify.com/album/5NfnrauyCr9n9vQDFks4vX"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Шугар"],
+    ],
+    "artists": [
+      "Шугар"
+    ],
     "artistsPopularity": 55,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a2991e103462924edfee20d5",
     "releaseDate": "2024-06-13",
     "title": "Пані Катерино",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0npqWDQr7ncj3v0OFXjSPg",
+    "url": "https://open.spotify.com/album/0npqWDQr7ncj3v0OFXjSPg"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Oxana Trach", "Шугар"],
+    ],
+    "artists": [
+      "Oxana Trach",
+      "Шугар"
+    ],
     "artistsPopularity": 55,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dd8e20647cb2aac64a6fd3e4",
     "releaseDate": "2024-05-01",
     "title": "Не вигадую",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5D3OD19S5cmOQ8LQV00lrM",
+    "url": "https://open.spotify.com/album/5D3OD19S5cmOQ8LQV00lrM"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Шугар"],
+    ],
+    "artists": [
+      "Шугар"
+    ],
     "artistsPopularity": 55,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27365f8c8d5c110284e87f5b4c6",
     "releaseDate": "2024-04-11",
     "title": "Тьотя",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3O2ugjYKav0TjqxL8od8wn",
+    "url": "https://open.spotify.com/album/3O2ugjYKav0TjqxL8od8wn"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Шугар"],
+    ],
+    "artists": [
+      "Шугар"
+    ],
     "artistsPopularity": 55,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fb3c00a323ff629346e1e23d",
     "releaseDate": "2024-02-01",
     "title": "Олєг",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/6lOzQGmj0BlD3fz5YDY3o2",
+    "url": "https://open.spotify.com/album/6lOzQGmj0BlD3fz5YDY3o2"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Шугар"],
+    ],
+    "artists": [
+      "Шугар"
+    ],
     "artistsPopularity": 55,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d8276026203178cf4c7491f7",
     "releaseDate": "2023-12-21",
     "title": "Мавка",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0R1kXmFaXyGOUEcyKvZQzW",
+    "url": "https://open.spotify.com/album/0R1kXmFaXyGOUEcyKvZQzW"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Шугар"],
+    ],
+    "artists": [
+      "Шугар"
+    ],
     "artistsPopularity": 55,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738497fdde9e7ac8c9c233cef6",
     "releaseDate": "2023-11-16",
     "title": "Ліхтарі",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/67OlgrkD9quMfSg1o8Mdbu",
+    "url": "https://open.spotify.com/album/67OlgrkD9quMfSg1o8Mdbu"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Шугар", "ТОРІЯ"],
+    ],
+    "artists": [
+      "Шугар",
+      "ТОРІЯ"
+    ],
     "artistsPopularity": 55,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ad5a77ba266cfcf03c1ee678",
     "releaseDate": "2023-10-19",
     "title": "Ромашки",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1j7V3OgNm367YdRzQ9ZyK8",
+    "url": "https://open.spotify.com/album/1j7V3OgNm367YdRzQ9ZyK8"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Шугар"],
+    ],
+    "artists": [
+      "Шугар"
+    ],
     "artistsPopularity": 55,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ee976f4d589835cf6750e2af",
     "releaseDate": "2023-08-17",
     "title": "Поверхи",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3Wh3uZWUDcExtSWz8QX5RU",
+    "url": "https://open.spotify.com/album/3Wh3uZWUDcExtSWz8QX5RU"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Roma Tuz", "Шугар"],
+    ],
+    "artists": [
+      "Roma Tuz",
+      "Шугар"
+    ],
     "artistsPopularity": 55,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b684abdb781dc27a32945a68",
     "releaseDate": "2023-06-26",
     "title": "Ти для неї той",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0JVTg5j0VsFDY1oNpkkxjk",
+    "url": "https://open.spotify.com/album/0JVTg5j0VsFDY1oNpkkxjk"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Шугар"],
+    ],
+    "artists": [
+      "Шугар"
+    ],
     "artistsPopularity": 55,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c29d6a446d5fe54b04f05786",
     "releaseDate": "2023-06-01",
     "title": "Вініл",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0U3Wf9hN6ien9ffpTWOzZy",
+    "url": "https://open.spotify.com/album/0U3Wf9hN6ien9ffpTWOzZy"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Шугар", "ТОРІЯ"],
+    ],
+    "artists": [
+      "Шугар",
+      "ТОРІЯ"
+    ],
     "artistsPopularity": 55,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bd538d7598b79760c944c541",
     "releaseDate": "2023-04-27",
     "title": "Дим",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2bBrG3YXZ5HeJ9DZn2hsHe",
+    "url": "https://open.spotify.com/album/2bBrG3YXZ5HeJ9DZn2hsHe"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Шугар"],
+    ],
+    "artists": [
+      "Шугар"
+    ],
     "artistsPopularity": 55,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734df844d9be493e9fbd0d9ccc",
     "releaseDate": "2023-02-06",
     "title": "Електрохарчі",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1SKYIOP18UJRgijA079xxE",
+    "url": "https://open.spotify.com/album/1SKYIOP18UJRgijA079xxE"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Шугар"],
+    ],
+    "artists": [
+      "Шугар"
+    ],
     "artistsPopularity": 55,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab79d083a0b519b3769a548d",
     "releaseDate": "2022-12-19",
     "title": "Парфуми",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/24iyGGkWM9dgMAPBEc5IEI",
+    "url": "https://open.spotify.com/album/24iyGGkWM9dgMAPBEc5IEI"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Шугар"],
+    ],
+    "artists": [
+      "Шугар"
+    ],
     "artistsPopularity": 55,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ce1ef50c27a003f374b20d37",
     "releaseDate": "2022-07-20",
     "title": "Віддаю Притулі",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2uaYyNvvKwI1LbJRg9jjY7",
+    "url": "https://open.spotify.com/album/2uaYyNvvKwI1LbJRg9jjY7"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Шугар"],
+    ],
+    "artists": [
+      "Шугар"
+    ],
     "artistsPopularity": 55,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733ccdf66f96e6235723eb09c9",
     "releaseDate": "2022-05-30",
     "title": "Голос",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4ihPRzkDgybmok9g97XxQn",
+    "url": "https://open.spotify.com/album/4ihPRzkDgybmok9g97XxQn"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Шугар", "Carroty"],
+    ],
+    "artists": [
+      "Шугар",
+      "Carroty"
+    ],
     "artistsPopularity": 55,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b1e08ac556f5064879bac82a",
     "releaseDate": "2022-05-10",
     "title": "Чутки",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1DLFGrw1M4aPITNjrwjusI",
+    "url": "https://open.spotify.com/album/1DLFGrw1M4aPITNjrwjusI"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Шугар"],
+    ],
+    "artists": [
+      "Шугар"
+    ],
     "artistsPopularity": 55,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739322ca5164907f524b0311f3",
     "releaseDate": "2022-01-10",
     "title": "Afterparty",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3kz22K36yu31cbW9fVmPI7",
+    "url": "https://open.spotify.com/album/3kz22K36yu31cbW9fVmPI7"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Шугар"],
+    ],
+    "artists": [
+      "Шугар"
+    ],
     "artistsPopularity": 55,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ade240dfcd09863f071641b3",
     "releaseDate": "2021-11-01",
     "title": "Листопад",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/6toqkvbOG3tNsiWECLuYqJ",
+    "url": "https://open.spotify.com/album/6toqkvbOG3tNsiWECLuYqJ"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Шугар"],
+    ],
+    "artists": [
+      "Шугар"
+    ],
     "artistsPopularity": 55,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731540934667a86e930112a49c",
     "releaseDate": "2021-08-16",
     "title": "Тону У Тобі",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1AmPydhmzUsT0QxR0SIJJ9",
+    "url": "https://open.spotify.com/album/1AmPydhmzUsT0QxR0SIJJ9"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Шугар", "ХАС", "Carroty"],
+    ],
+    "artists": [
+      "Шугар",
+      "ХАС",
+      "Carroty"
+    ],
     "artistsPopularity": 55,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ec1835633605d86ec87faa5a",
     "releaseDate": "2021-06-21",
     "title": "Лайм",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/307QB0lVT2oPuBe1VnLDh5",
+    "url": "https://open.spotify.com/album/307QB0lVT2oPuBe1VnLDh5"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Шугар"],
+    ],
+    "artists": [
+      "Шугар"
+    ],
     "artistsPopularity": 55,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ad4579873aadb4a12851305b",
     "releaseDate": "2021-04-05",
     "title": "Туман",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0XjzNtrteqP0msQASdL5fo",
+    "url": "https://open.spotify.com/album/0XjzNtrteqP0msQASdL5fo"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Шугар"],
+    ],
+    "artists": [
+      "Шугар"
+    ],
     "artistsPopularity": 55,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735e24d65407d453ad62aa25e6",
     "releaseDate": "2021-01-31",
     "title": "Лаванда",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/6QjSsdRWtCZngdKjpMmG5x",
+    "url": "https://open.spotify.com/album/6QjSsdRWtCZngdKjpMmG5x"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Шугар"],
+    ],
+    "artists": [
+      "Шугар"
+    ],
     "artistsPopularity": 55,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739002ca2e59b8ad3f28854a0e",
     "releaseDate": "2020-11-11",
     "title": "Чутки",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/321UfJ8KMzTAPTz7GXXoYc",
+    "url": "https://open.spotify.com/album/321UfJ8KMzTAPTz7GXXoYc"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Шугар"],
+    ],
+    "artists": [
+      "Шугар"
+    ],
     "artistsPopularity": 55,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dede439cf0dde1b191a93425",
     "releaseDate": "2020-08-09",
     "title": "Шоколад",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1ISHnfdwLYiysp6OSfG07B",
+    "url": "https://open.spotify.com/album/1ISHnfdwLYiysp6OSfG07B"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Шугар"],
+    ],
+    "artists": [
+      "Шугар"
+    ],
     "artistsPopularity": 55,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27352d10d7f4eb01772b7f1ef0d",
     "releaseDate": "2020-04-22",
     "title": "Апероль",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/23aFJyiBhDeBeK4Nfo4VNO",
+    "url": "https://open.spotify.com/album/23aFJyiBhDeBeK4Nfo4VNO"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Шугар"],
+    ],
+    "artists": [
+      "Шугар"
+    ],
     "artistsPopularity": 55,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a18b91201598c632cf76cbc7",
     "releaseDate": "2020-03-21",
     "title": "Корона",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3MEVGXEOgD8jXNHqjhoBgj",
+    "url": "https://open.spotify.com/album/3MEVGXEOgD8jXNHqjhoBgj"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Шугар"],
+    ],
+    "artists": [
+      "Шугар"
+    ],
     "artistsPopularity": 55,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a2ee57e64f769efd91935a08",
     "releaseDate": "2019-11-03",
     "title": "Вайбєр",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/7qEUJT7QbVBHgl9OV4e09V",
+    "url": "https://open.spotify.com/album/7qEUJT7QbVBHgl9OV4e09V"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Шугар"],
+    ],
+    "artists": [
+      "Шугар"
+    ],
     "artistsPopularity": 55,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c2cce8c0d52f6a5fd086c81d",
     "releaseDate": "2019-09-15",
     "title": "Зая",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1Fo2zblaB9mIOdWpCa4hIN",
+    "url": "https://open.spotify.com/album/1Fo2zblaB9mIOdWpCa4hIN"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["MAKEMD"],
+    ],
+    "artists": [
+      "MAKEMD"
+    ],
     "artistsPopularity": 5,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273358acd3eac9d76e17c15cd00",
     "releaseDate": "2025-08-27",
     "title": "Йо-Йо (Dark Dance Remix)",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/7fApOTrDhAWyqNPHPjY0Yr",
+    "url": "https://open.spotify.com/album/7fApOTrDhAWyqNPHPjY0Yr"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["MAKEMD"],
+    ],
+    "artists": [
+      "MAKEMD"
+    ],
     "artistsPopularity": 5,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27371d425e6d9b3e8231dd6fe0d",
     "releaseDate": "2025-01-17",
     "title": "Токсік (TechnoMix)",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/51wAYJ4I5Mzg0YJmoEc3Yc",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:20:00.972Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/51wAYJ4I5Mzg0YJmoEc3Yc"
   }
 ]

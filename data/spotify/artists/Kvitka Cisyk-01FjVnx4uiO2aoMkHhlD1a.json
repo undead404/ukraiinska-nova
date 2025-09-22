@@ -1,0 +1,75 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T19:23:18.048Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kvitka Cisyk"
+    ],
+    "artistsPopularity": 29,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27353fd6ead5b64b8ae302ecd87",
+    "releaseDate": "1989-12-19",
+    "title": "Kvitka Two Colors",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1zJsupvgUQ67FZrX2WFCV4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T19:23:18.048Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kvitka Cisyk"
+    ],
+    "artistsPopularity": 29,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b7b6e5957fad2906426dfe29",
+    "releaseDate": "1980-12-19",
+    "title": "Kvitka",
+    "totalTracks": 16,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0RvGt7LB2ffJ2kACmKEYHw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T19:23:18.048Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kvitka Cisyk",
+      "Jalsomino"
+    ],
+    "artistsPopularity": 29,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27303efa0aec73268af7699dc29",
+    "releaseDate": "2024-11-01",
+    "title": "Ой, ходить сон (Jalsomino Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2r5VNcCdwKhhVoMnJD36T0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T19:23:18.048Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kvitka Cisyk"
+    ],
+    "artistsPopularity": 29,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733da97a8d0b8b5879d13bd9f4",
+    "releaseDate": "2022-04-22",
+    "title": "Off to War: Kvitka Cisyk",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2E6sRobyJGPCpgVKrITAKe"
+  }
+]

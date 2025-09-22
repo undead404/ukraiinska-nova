@@ -1,0 +1,74 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T22:23:11.775Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Дао парк"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c912b9630c07eeb92f074412",
+    "releaseDate": "2020-06-01",
+    "title": "Подорож",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7vIlYLvBqrwLBERsjwWU6W"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T22:23:11.775Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Дао парк"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739d1be1c4d19c44a500d433b3",
+    "releaseDate": "2018-07-03",
+    "title": "Буду такою",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5iTZDIZQfkZCFQg9qvwLPq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T22:23:11.775Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Дао парк"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27395e29b0632a87a27c8d1eee3",
+    "releaseDate": "2017-12-01",
+    "title": "Не згорає",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/713Kh0o3Yu4JHweplNb3DS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T22:23:11.775Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Дао парк"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736f83d1d172529291295e4634",
+    "releaseDate": "2017-02-01",
+    "title": "Дао Парк",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1IcIzloxaOoBsosKXXeHtN"
+  }
+]

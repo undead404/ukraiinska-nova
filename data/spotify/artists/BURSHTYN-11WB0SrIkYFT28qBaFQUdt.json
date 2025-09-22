@@ -1,0 +1,74 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:25:16.621Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BURSHTYN"
+    ],
+    "artistsPopularity": 12,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27364a2d06b5cb796bd25e24834",
+    "releaseDate": "2023-02-01",
+    "title": "Апокриф / Apocrypha",
+    "totalTracks": 6,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2BA6tHvzCHgEfP1P9fcp53"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:25:16.621Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BURSHTYN"
+    ],
+    "artistsPopularity": 12,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273159b37f48cbdbfbdaf187747",
+    "releaseDate": "2020-06-20",
+    "title": "Чортория / Chthonichasm",
+    "totalTracks": 6,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6deavsFE4UrYd4yfh9K1so"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:25:16.621Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BURSHTYN"
+    ],
+    "artistsPopularity": 12,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e199b867c8f8403db27960da",
+    "releaseDate": "2017-12-01",
+    "title": "Безвірник / Nothingarian",
+    "totalTracks": 6,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5vOcSmi5TyQncmnCUMAl1i"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:25:16.621Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BURSHTYN"
+    ],
+    "artistsPopularity": 12,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a77c7d921e4b32da5027ce6e",
+    "releaseDate": "2016-11-20",
+    "title": "Прах Відчайдухів / The Daredevils' Ashes",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1yhPCMEUz9z0nY5HO5oai4"
+  }
+]

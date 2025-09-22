@@ -1,0 +1,39 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T18:27:21.788Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Just Name",
+      "Chillinwith"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27366889390a06395fdb2bfa755",
+    "releaseDate": "2022-01-31",
+    "title": "Місто",
+    "totalTracks": 14,
+    "type": "album",
+    "url": "https://open.spotify.com/album/39ugZh0GNemxPgiWRFoQt9"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T18:27:21.788Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Just Name"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e73ff8b44c4483f1896372b1",
+    "releaseDate": "2022-01-30",
+    "title": "Завтра",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/31gLjYrMhetFs1HBULJ3oj"
+  }
+]

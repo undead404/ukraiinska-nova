@@ -1,0 +1,92 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T22:25:35.766Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Platina"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734d9d73620e627ec4f59e55d0",
+    "releaseDate": "2010-02-16",
+    "title": "Про тебе…",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6z2LuzM1L99wFnSbzRUC8Z"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T22:25:35.766Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Platina"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fae7e0e220aaeeecf77589f3",
+    "releaseDate": "2006-12-17",
+    "title": "Зайві слова",
+    "totalTracks": 14,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2bpzBBvmNieXBQ9ThVeedF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T22:25:35.766Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Platina"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ea002095b74955a9b01dd9d8",
+    "releaseDate": "2024-10-04",
+    "title": "Sempre na Luta",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7CLRtQqdnRfvD4xGDoVbyM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T22:25:35.766Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quimikoz Del Son"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c00d512c79fbe87d7fed684d",
+    "releaseDate": "2013-12-01",
+    "title": "Quimikoz 1.0",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1uK62xwz0pOh5Cb2U0Xkvw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T22:25:35.766Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DJAFRO OFICIAL"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c30b0b4430589b23402da025",
+    "releaseDate": "2025-05-21",
+    "title": "Por do Sol",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6z9sTlmIrWC4iGbxuYQHGx"
+  }
+]

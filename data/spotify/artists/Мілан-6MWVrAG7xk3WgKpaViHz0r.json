@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:02:16.595Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": ["Мілан"],
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27340dc9584ff082c9c1e87ee67",
@@ -7,15 +13,15 @@
     "title": "Happy Builder",
     "totalTracks": 9,
     "type": "album",
-    "url": "https://open.spotify.com/album/3gYspiMQVzf4KIcTGK6wJJ",
+    "url": "https://open.spotify.com/album/3gYspiMQVzf4KIcTGK6wJJ"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:16.595Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Мілан", "Panini"],
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d3ac598ce63aab95828f7034",
@@ -23,15 +29,15 @@
     "title": "Темрява",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4O81LVtVsoQZdrNNMM5Ge2",
+    "url": "https://open.spotify.com/album/4O81LVtVsoQZdrNNMM5Ge2"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:16.595Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Мілан"],
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273094e76dcc75788a018a6af0f",
@@ -39,15 +45,15 @@
     "title": "Цілий світ",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5dE4sPTj1iCROQSMSkXH7n",
+    "url": "https://open.spotify.com/album/5dE4sPTj1iCROQSMSkXH7n"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:16.595Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Мілан", "Твій зайчик пише"],
     "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734ea3609964a61b7969da06eb",
@@ -55,15 +61,15 @@
     "title": "Моя музика",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/25O14VprDRqFk2hNoBBXTj",
+    "url": "https://open.spotify.com/album/25O14VprDRqFk2hNoBBXTj"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:16.595Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Мілан"],
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27331be70ef007fefea4da8914f",
@@ -71,15 +77,15 @@
     "title": "Мій найкращий трек 2",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/7jLkpGKFYkUSl2qponxxUK",
+    "url": "https://open.spotify.com/album/7jLkpGKFYkUSl2qponxxUK"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:16.595Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Мілан"],
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735dcaf4de3c078e09fd239b92",
@@ -87,15 +93,15 @@
     "title": "План",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/08I6MmP4zWxQNEwpHKUN4H",
+    "url": "https://open.spotify.com/album/08I6MmP4zWxQNEwpHKUN4H"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:16.595Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Мілан"],
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739ba9986c4a93384d23d6ce15",
@@ -103,15 +109,15 @@
     "title": "Мій найкращий трек",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/6dZ9z73RdJ2gA5d6HYHtJl",
+    "url": "https://open.spotify.com/album/6dZ9z73RdJ2gA5d6HYHtJl"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:16.595Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Мілан"],
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ea7481d919c1fbdfab880c72",
@@ -119,15 +125,15 @@
     "title": "Silver blue",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/7jd0GsjaXvMrMPygLXQmTU",
+    "url": "https://open.spotify.com/album/7jd0GsjaXvMrMPygLXQmTU"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:16.595Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Мілан"],
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27374d75b76ad85e7c6c6aeae12",
@@ -135,15 +141,15 @@
     "title": "Stories",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/6MMaC0M5VMCpYQ42hyoRHu",
+    "url": "https://open.spotify.com/album/6MMaC0M5VMCpYQ42hyoRHu"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:16.595Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Польовий"],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733d5723c749789ff4ad91391c",
@@ -151,15 +157,15 @@
     "title": "23:59",
     "totalTracks": 6,
     "type": "single",
-    "url": "https://open.spotify.com/album/5dWPbbtjRG2CMvLLFNngsx",
+    "url": "https://open.spotify.com/album/5dWPbbtjRG2CMvLLFNngsx"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:16.595Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["тимур"],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27352365776a84979c1776a4629",
@@ -167,12 +173,6 @@
     "title": "шо ти",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4uuxf4BBWXicy2551Y6JGo",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:02:16.595Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/4uuxf4BBWXicy2551Y6JGo"
   }
 ]

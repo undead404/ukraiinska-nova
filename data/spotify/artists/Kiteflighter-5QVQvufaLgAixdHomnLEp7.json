@@ -1,0 +1,56 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T23:25:03.991Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kiteflighter"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273524ee515b00e82f8513b2391",
+    "releaseDate": "2019-02-26",
+    "title": "Kiteflighter",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4APRDLXHsA2vfWjQra6JyQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T23:25:03.991Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kiteflighter"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c09f3a5612de6bcac4960278",
+    "releaseDate": "2024-07-12",
+    "title": "Змієліт",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7zLkwx3taYq9gHpBCvEigR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T23:25:03.991Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kiteflighter"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273166c89e428d704307fda081e",
+    "releaseDate": "2021-07-05",
+    "title": "Минулі Часи",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1bGabYC5tIWqe9iMHj4Myz"
+  }
+]

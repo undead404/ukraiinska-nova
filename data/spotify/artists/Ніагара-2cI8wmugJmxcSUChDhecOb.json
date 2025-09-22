@@ -1,0 +1,74 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T18:25:57.740Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ніагара"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a8ebd41b04c8ccf0a1afe0f1",
+    "releaseDate": "2022-09-30",
+    "title": "#моямузиканестихне",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6MO62DRiyNYVMtYPxkpLjz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T18:25:57.740Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ніагара"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732764aa96bc2ff00cddf53fae",
+    "releaseDate": "2024-03-22",
+    "title": "ЛЮТИЙ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5K39X68PYiFBlajizCe51g"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T18:25:57.740Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ніагара"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273274c675c8de074bec0cfd27e",
+    "releaseDate": "2022-05-27",
+    "title": "Скоро все мине",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1m9oy9hL33V65r5afyikGu"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T18:25:57.740Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ніагара"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27363c0077865c6a5bf1465ab21",
+    "releaseDate": "2022-02-04",
+    "title": "Сніг",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5SMpllkNMddkZCGFUdfNXM"
+  }
+]

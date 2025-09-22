@@ -1,114 +1,128 @@
 [
   {
-    "artists": ["Ніжна Оксана"],
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:02:25.698Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ніжна Оксана"
+    ],
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273754b19082797274ab0909098",
     "releaseDate": "2024-08-23",
     "title": "Депресія",
     "totalTracks": 16,
     "type": "album",
-    "url": "https://open.spotify.com/album/5zBehPcEiYAvvXglRc2suK",
+    "url": "https://open.spotify.com/album/5zBehPcEiYAvvXglRc2suK"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:25.698Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Ніжна Оксана"],
+    ],
+    "artists": [
+      "Ніжна Оксана"
+    ],
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d4670c6f92b978d136b1699e",
     "releaseDate": "2024-08-22",
     "title": "Прийняття",
     "totalTracks": 18,
     "type": "album",
-    "url": "https://open.spotify.com/album/7xwrf7r1XeckFyp893dDgf",
+    "url": "https://open.spotify.com/album/7xwrf7r1XeckFyp893dDgf"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:25.698Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Ніжна Оксана"],
+    ],
+    "artists": [
+      "Ніжна Оксана"
+    ],
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ecb719362ed75ca06d8aa021",
     "releaseDate": "2024-08-16",
     "title": "Мощний реп",
     "totalTracks": 15,
     "type": "album",
-    "url": "https://open.spotify.com/album/7qwjXdXljLlV3RSdkhqyC3",
+    "url": "https://open.spotify.com/album/7qwjXdXljLlV3RSdkhqyC3"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:25.698Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Ніжна Оксана"],
+    ],
+    "artists": [
+      "Ніжна Оксана"
+    ],
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730ed0f72c83473f09facbbd15",
     "releaseDate": "2024-02-12",
     "title": "Злість",
     "totalTracks": 14,
     "type": "album",
-    "url": "https://open.spotify.com/album/0lZlK7k5gMdxE5XQwjqJp9",
+    "url": "https://open.spotify.com/album/0lZlK7k5gMdxE5XQwjqJp9"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:25.698Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Ніжна Оксана"],
+    ],
+    "artists": [
+      "Ніжна Оксана"
+    ],
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273535fb1fba15b741a845dc3cd",
     "releaseDate": "2024-01-26",
     "title": "Заперечення",
     "totalTracks": 14,
     "type": "album",
-    "url": "https://open.spotify.com/album/1e2RsjCIbYgXeFGyMxVQVW",
+    "url": "https://open.spotify.com/album/1e2RsjCIbYgXeFGyMxVQVW"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:25.698Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Ніжна Оксана"],
+    ],
+    "artists": [
+      "Ніжна Оксана"
+    ],
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737d77cbf78f6b581376dd5a7e",
     "releaseDate": "2025-07-14",
     "title": "Квантовий ідіотизм",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4uQisP3oz7GXkuuKSY6Xx0",
+    "url": "https://open.spotify.com/album/4uQisP3oz7GXkuuKSY6Xx0"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:25.698Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Ніжна Оксана"],
+    ],
+    "artists": [
+      "Ніжна Оксана"
+    ],
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733438b4396e517deb8daa9ff5",
     "releaseDate": "2024-01-24",
     "title": "Шіт",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4X22qctgs8UwaznFvKfRgX",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:02:25.698Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/4X22qctgs8UwaznFvKfRgX"
   }
 ]

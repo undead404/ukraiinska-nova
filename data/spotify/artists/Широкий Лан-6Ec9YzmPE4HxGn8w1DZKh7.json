@@ -1,66 +1,74 @@
 [
   {
-    "artists": ["Широкий Лан"],
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:31.301Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Широкий Лан"
+    ],
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27343d21e48d13ea554226cbc5d",
     "releaseDate": "2020-04-09",
     "title": "Земле моя",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/6ilONSnh2zinwmMWqSZoSC",
+    "url": "https://open.spotify.com/album/6ilONSnh2zinwmMWqSZoSC"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:31.301Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Shyrokyi lan"],
+    ],
+    "artists": [
+      "Shyrokyi lan"
+    ],
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736a7254b23853016c5efe5476",
     "releaseDate": "2017-12-01",
     "title": "XIII",
     "totalTracks": 14,
     "type": "album",
-    "url": "https://open.spotify.com/album/0A5c5oBvwKJlMd7TnflRzY",
+    "url": "https://open.spotify.com/album/0A5c5oBvwKJlMd7TnflRzY"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:31.301Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Shyrokyi lan"],
+    ],
+    "artists": [
+      "Shyrokyi lan"
+    ],
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730392372d549b9afa32d3819b",
     "releaseDate": "2022-01-28",
     "title": "MANTRA",
     "totalTracks": 12,
     "type": "album",
-    "url": "https://open.spotify.com/album/0X9cdQBKDl01EzFxMitPQ1",
+    "url": "https://open.spotify.com/album/0X9cdQBKDl01EzFxMitPQ1"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:31.301Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["ТЕЛЬНЮК: Сестри"],
+    ],
+    "artists": [
+      "ТЕЛЬНЮК: Сестри"
+    ],
     "artistsPopularity": 9,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739185ccd04ccefec26d333a18",
     "releaseDate": "2013-04-11",
     "title": "Рядок з автобіографії",
     "totalTracks": 2,
     "type": "single",
-    "url": "https://open.spotify.com/album/1ju2g0oYryt3S6FvZYWZ0j",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T09:45:31.301Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/1ju2g0oYryt3S6FvZYWZ0j"
   }
 ]

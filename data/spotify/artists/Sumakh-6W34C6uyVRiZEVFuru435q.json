@@ -1,0 +1,56 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:27:04.076Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sumakh"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273164f2e4f1d21be3d9878bea8",
+    "releaseDate": "2025-06-17",
+    "title": "Brink of Existence",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2jZW4aUYyXHgP5BWLjD2M6"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:27:04.076Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sumakh"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c8d6f49ae19fd81d62baa82c",
+    "releaseDate": "2025-03-25",
+    "title": "Acceptance & Last cry",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/32hiBx691BG5cRYUBjnhWV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:27:04.076Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sumakh"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ca38cf7696658fa770415f47",
+    "releaseDate": "2025-02-18",
+    "title": "Руїни (Ruins)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/67Rz3jWB8aRSPxM6l6fso4"
+  }
+]

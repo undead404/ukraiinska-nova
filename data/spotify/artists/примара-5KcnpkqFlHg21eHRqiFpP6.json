@@ -1,898 +1,1056 @@
 [
   {
-    "artists": ["примара", "блуд"],
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "примара",
+      "блуд"
+    ],
     "artistsPopularity": 19,
-    "title": ">_PowerShell0",
-    "releaseDate": "2025-06-13",
-    "type": "album",
-    "totalTracks": 8,
-    "url": "https://open.spotify.com/album/1sODC9w5lxP8cLDgSZtt9d",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e0b20f1a5c11b90fec9b84e5",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["примара"],
-    "artistsPopularity": 19,
-    "title": "Катарсис 1",
-    "releaseDate": "2024-11-22",
-    "type": "album",
-    "totalTracks": 8,
-    "url": "https://open.spotify.com/album/2l6jya17ivYt8dOUu5gdRZ",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739cc8756ace913f78e28d9e5a",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["примара"],
-    "artistsPopularity": 19,
-    "title": "ти не зрозумієш цей альбом, довбойоб",
-    "releaseDate": "2024-04-19",
-    "type": "album",
-    "totalTracks": 13,
-    "url": "https://open.spotify.com/album/0w3yATWupwEurQKZVwBVJV",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27379279698152785ded211689c",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["примара", "whitelope"],
-    "artistsPopularity": 19,
-    "title": "TES II: Даггерфолл",
-    "releaseDate": "2022-09-23",
-    "type": "album",
-    "totalTracks": 7,
-    "url": "https://open.spotify.com/album/3QWstTtMnk6BkY8fPS5YUi",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a208db03bb8989111def31a3",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["примара"],
-    "artistsPopularity": 19,
-    "title": "ОчимаНебіжчика",
-    "releaseDate": "2022-08-12",
-    "type": "album",
-    "totalTracks": 7,
-    "url": "https://open.spotify.com/album/3xvY8NAtBD7dYnxkBJaH1c",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732734e805016e119a0478e52f",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["примара"],
-    "artistsPopularity": 19,
-    "title": "едем",
-    "releaseDate": "2025-08-15",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1bhmYQBXy3jHOz1Eku3Wpo",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c2d1e4d742675014ced2ac9f",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["примара"],
-    "artistsPopularity": 19,
-    "title": "Кут",
-    "releaseDate": "2025-07-25",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6gpmKzQQ1wwNvSixpmT5xB",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27308a8fa873a7546476c955b3e",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["примара", "блуд"],
-    "artistsPopularity": 19,
-    "title": "archive0",
-    "releaseDate": "2025-05-16",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1OvagQTi897O91fRKY7mIv",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e59b22c7c2aaf05dfe1b204e",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["примара", "блуд", "SAKRAL"],
-    "artistsPopularity": 19,
-    "title": "AntiAntivirus",
-    "releaseDate": "2025-05-09",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/00ByOvdb8fSH3KrVNpsh5H",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27379cde72a4ada5b891dc1f2ee",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["примара", "блуд"],
-    "artistsPopularity": 19,
-    "title": "c'est un donjon",
-    "releaseDate": "2025-04-18",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1FkvE91vlpHvZWP7Vll8Ej",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273543e719878cf0936d9c57780",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["примара", "блуд"],
-    "artistsPopularity": 19,
-    "title": "IPv8",
-    "releaseDate": "2025-04-11",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6tdRG2QV2ieHSdXaSse5IQ",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735663cda3a04add8d12e85022",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["примара", "drwncvnt"],
-    "artistsPopularity": 31,
-    "title": "LostInSystemCode, Pt. 1",
-    "releaseDate": "2025-04-04",
-    "type": "single",
-    "totalTracks": 6,
-    "url": "https://open.spotify.com/album/6m69hnoG3A4f6WsFtuzuNg",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab2f27ef5519a4c490d8ff83",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["примара", "drwncvnt"],
-    "artistsPopularity": 31,
-    "title": "арґентум",
-    "releaseDate": "2025-03-14",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3aTkv6H6TTSTszXLatk1RJ",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ee7b5f5eaddbd362b702098b",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["примара", "drwncvnt"],
-    "artistsPopularity": 31,
-    "title": "notepad++",
-    "releaseDate": "2025-02-21",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6PEzSFtKnhO96Z9y3Oq79E",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e05b2aa4a8d27339106ecb29",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["SPALAXX", "примара"],
-    "artistsPopularity": 19,
-    "title": "вітер в голові",
-    "releaseDate": "2025-01-31",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3wQhTYJ8dwzg2BtzxmsW95",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d7d1d56b803873a4e5a030db",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["whitelope", "примара"],
-    "artistsPopularity": 19,
-    "title": "angel",
-    "releaseDate": "2025-01-31",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2iq0mj9aANuqXlj0y3quR7",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273952d34bf28851dabd1c23060",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["примара", "drwncvnt"],
-    "artistsPopularity": 31,
-    "title": "purgatorium",
-    "releaseDate": "2025-01-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7DTQm9P7UIwKrRiUAsjett",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736bf7b75782c3c6478b17b82d",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["примара", "drwncvnt"],
-    "artistsPopularity": 31,
-    "title": "canada20",
-    "releaseDate": "2025-01-17",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/41j8nt1UWhit5vi8ed24M9",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27300a4b8e0cbc75c38c47c78de",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["примара", "drwncvnt"],
-    "artistsPopularity": 31,
-    "title": "blade",
-    "releaseDate": "2024-12-13",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5dapLZCM0N0jWgEDzyH27i",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27303f3cc26d22c5711a34558bd",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["примара"],
-    "artistsPopularity": 19,
-    "title": "Біс",
-    "releaseDate": "2024-11-01",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/72FfmZmfHE32rOXEJ676Mw",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e42617c1d15b3764a160a28e",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["примара", "Безвихідь"],
-    "artistsPopularity": 19,
-    "title": "Перший вольт",
-    "releaseDate": "2024-10-18",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5STuBHlodo3pyfbWDY7zUO",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736b47e5e99d14fe556e691ce1",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["примара"],
-    "artistsPopularity": 19,
-    "title": "Вихід",
-    "releaseDate": "2024-10-04",
-    "type": "single",
-    "totalTracks": 4,
-    "url": "https://open.spotify.com/album/3qBx2F2QcXG1u77MnwcFrd",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733664d8626596205029988bd6",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["примара"],
-    "artistsPopularity": 19,
-    "title": "Відпусти",
-    "releaseDate": "2024-09-27",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/02i2nEFsfEg0UkXqTaClUo",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730cc8a5f312a2df38bfc934df",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["примара"],
-    "artistsPopularity": 19,
-    "title": "Некроз",
-    "releaseDate": "2024-09-13",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4Jfs1c2hvRSwNQ4wtSSYek",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731dda0306ccbace42df68a256",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["примара"],
-    "artistsPopularity": 19,
-    "title": "Бута",
-    "releaseDate": "2024-09-06",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5uBy2vzsHgmwKgj9ITkXal",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731844a3ac0d3317438ccec280",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["примара"],
-    "artistsPopularity": 19,
-    "title": "Її",
-    "releaseDate": "2024-02-23",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/30cTItog3mjBQjxkymgtWw",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d5bd7c18297927f146bfdb26",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["SAKRAL", "примара"],
-    "artistsPopularity": 19,
-    "title": "Цивілізація 2",
-    "releaseDate": "2023-12-23",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6VmZrYft4U5yrmHRtjmEv3",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e00926ec6853c702c67d84db",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["примара"],
-    "artistsPopularity": 19,
-    "title": "Я не твій",
-    "releaseDate": "2023-06-09",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4ouknFCWVBpDb3XKBp8gYq",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736288300ecc920370861a4f7c",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["примара", "Kuaskio"],
-    "artistsPopularity": 32,
-    "title": "Палають мости",
-    "releaseDate": "2023-03-31",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/48b9dIsj7wuujdXEHVwGiz",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735a625a97086fe9621e12ca61",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Загреб", "примара"],
-    "artistsPopularity": 29,
-    "title": "Орфей",
-    "releaseDate": "2023-02-17",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5eyHJER6TL44cE5ktih0Ax",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734b5be12b9e0e05854dc517ff",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["примара"],
-    "artistsPopularity": 19,
-    "title": "Задзеркалля",
-    "releaseDate": "2022-12-16",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0rAZr35VpgrdDDSnBl0lMp",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27379f3cf92dbdf80fe2e8e0966",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["примара"],
-    "artistsPopularity": 19,
-    "title": "Феміда",
-    "releaseDate": "2022-12-09",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4Zvfno8enzESxYGFAkOHFc",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f34d138ea5c371276e18a611",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["примара"],
-    "artistsPopularity": 19,
-    "title": "Госпіс",
-    "releaseDate": "2022-11-18",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7JeXDPNb5vbpI6MxgStLyy",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273235a4b4f35b44a779c34011c",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["gothique", "примара"],
-    "artistsPopularity": 19,
-    "title": "некрономікон",
-    "releaseDate": "2022-10-31",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4HllC0p8dGT9jbFd5ZTpJR",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d8b8daef898556d2ec7b0604",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["SPALAXX", "примара"],
-    "artistsPopularity": 19,
-    "title": "Лімб",
-    "releaseDate": "2022-10-28",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1HUy9VCkhdS7I1BsE4b24m",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fe76e074f74b61340ec083b9",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["примара", "SPALAXX"],
-    "artistsPopularity": 19,
-    "title": "ТайпСі",
-    "releaseDate": "2022-10-14",
-    "type": "single",
-    "totalTracks": 3,
-    "url": "https://open.spotify.com/album/6XlzccHteuzKLg83QgqxEK",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b262ea03ccd0079c939fcba3",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["примара"],
-    "artistsPopularity": 19,
-    "title": "Кров",
-    "releaseDate": "2022-09-30",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6dNJWcT2D28ekcN1vUzoQ7",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735630e8c0390abf2522623955",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["примара", "SAKRAL"],
-    "artistsPopularity": 19,
-    "title": "Нікотин",
-    "releaseDate": "2022-09-09",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2xukuGlXM81XBW06C1Vrtl",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738c725efa050def4a2fbb0322",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["SPALAXX", "примара"],
-    "artistsPopularity": 19,
-    "title": "Апатія",
-    "releaseDate": "2022-06-17",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0Dmaw8ENLJ61qPC760xmzE",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731b3c994cefc05215448d536a",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["примара", "whitelope"],
-    "artistsPopularity": 19,
-    "title": "Нумідіум",
-    "releaseDate": "2022-05-27",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5NdOPT8X4UinT7uQy5PgIj",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273952f05ae79aa230a54c68a8f",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["примара", "whitelope", "drimandr"],
-    "artistsPopularity": 23,
-    "title": "Галичина",
-    "releaseDate": "2022-02-23",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2gXmHIPh8CuvXjitrtsgoE",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d9558674bc16c735ad8b2d72",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["примара"],
-    "artistsPopularity": 19,
-    "title": "Індульгенція",
-    "releaseDate": "2022-01-14",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0tTkiRDg7Rw6qqKeCENVOv",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27312a62c0200453e52190d9ef5",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["примара"],
-    "artistsPopularity": 19,
-    "title": "223",
-    "releaseDate": "2021-12-06",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/40YFcft9aqecWPdqMhmZa3",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732c309a16b24741a727640590",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["примара"],
-    "artistsPopularity": 19,
-    "title": "Туткороткийшлях",
-    "releaseDate": "2021-10-26",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/79LXwEXP5LsusrrXIlZkBT",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737e0ef3f2119fb35186ce4854",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Безвихідь"],
-    "artistsPopularity": 18,
-    "title": "Епітафія",
-    "releaseDate": "2024-02-23",
-    "type": "album",
-    "totalTracks": 7,
-    "url": "https://open.spotify.com/album/66QA743eccZ17S06NKMHjt",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bfbf859fd82ccd0a4b32ace1",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["6ATbK0"],
-    "artistsPopularity": 11,
-    "title": "Вплив",
-    "releaseDate": "2025-07-25",
-    "type": "album",
-    "totalTracks": 11,
-    "url": "https://open.spotify.com/album/13X7ZR4fPqFs7mXq4rIsOj",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fcad47c42421cad63ae591f1",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["CRASHMAESTRO"],
-    "artistsPopularity": 19,
-    "title": "INFERNO: AFTERBURN",
     "releaseDate": "2025-06-13",
-    "type": "album",
+    "title": ">_PowerShell0",
     "totalTracks": 8,
-    "url": "https://open.spotify.com/album/7IhB6mAwqVWVLHxC3AcMfV",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273493aa3a7269a3e47b04a68b0",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["drwncvnt"],
-    "artistsPopularity": 31,
-    "title": "selected shyzo works 24",
-    "releaseDate": "2025-01-17",
     "type": "album",
-    "totalTracks": 12,
-    "url": "https://open.spotify.com/album/2CRtmTZA7UMju0OdW0EvE1",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27399192329cc7e2bd87bdf60af",
+    "url": "https://open.spotify.com/album/1sODC9w5lxP8cLDgSZtt9d"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:57.830Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["drwncvnt"],
-    "artistsPopularity": 31,
-    "title": "deep dark fantasies, Pt. 1",
-    "releaseDate": "2024-04-05",
-    "type": "album",
-    "totalTracks": 8,
-    "url": "https://open.spotify.com/album/1PITKvuJ9rl0gXgG61C9Kd",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27391a5ddcdaecbdd40b4cf047d",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["XenjeS", "CRASHMAESTRO"],
+    ],
+    "artists": [
+      "примара"
+    ],
     "artistsPopularity": 19,
-    "title": "POHUI NA NAZVU",
-    "releaseDate": "2023-12-13",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5LvLULZDOPbBWaXjzcVFoP",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738b49e8392384df4b664f35d6",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["SPALAXX"],
-    "artistsPopularity": 5,
-    "title": "Оніміння",
-    "releaseDate": "2022-11-04",
-    "type": "single",
-    "totalTracks": 5,
-    "url": "https://open.spotify.com/album/4k9woQ0wIQwiy1ZwAq0s8Y",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273607bf0d5f61d76850db95f4f",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["SAKRAL"],
-    "artistsPopularity": 2,
-    "title": "PHOENIX",
-    "releaseDate": "2022-10-14",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739cc8756ace913f78e28d9e5a",
+    "releaseDate": "2024-11-22",
+    "title": "Катарсис 1",
+    "totalTracks": 8,
     "type": "album",
-    "totalTracks": 11,
-    "url": "https://open.spotify.com/album/4KtiUqSavTnGOsLHIqXIVT",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fb5ca94ae5ea2d837c571b17",
+    "url": "https://open.spotify.com/album/2l6jya17ivYt8dOUu5gdRZ"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:57.830Z",
         "type": "FOUND"
       }
-    ]
+    ],
+    "artists": [
+      "примара"
+    ],
+    "artistsPopularity": 19,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27379279698152785ded211689c",
+    "releaseDate": "2024-04-19",
+    "title": "ти не зрозумієш цей альбом, довбойоб",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0w3yATWupwEurQKZVwBVJV"
   },
   {
-    "artists": ["SAKRAL"],
-    "artistsPopularity": 2,
-    "title": "Цивілізація",
-    "releaseDate": "2021-12-23",
-    "type": "single",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "примара",
+      "whitelope"
+    ],
+    "artistsPopularity": 19,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a208db03bb8989111def31a3",
+    "releaseDate": "2022-09-23",
+    "title": "TES II: Даггерфолл",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3QWstTtMnk6BkY8fPS5YUi"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "примара"
+    ],
+    "artistsPopularity": 19,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732734e805016e119a0478e52f",
+    "releaseDate": "2022-08-12",
+    "title": "ОчимаНебіжчика",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3xvY8NAtBD7dYnxkBJaH1c"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "примара"
+    ],
+    "artistsPopularity": 19,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c2d1e4d742675014ced2ac9f",
+    "releaseDate": "2025-08-15",
+    "title": "едем",
     "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6vYg82mZ9enUmMR8z2Fj0P",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cd6d9f67f5ea556f3d439924",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["SAKRAL"],
-    "artistsPopularity": 2,
-    "title": "Блекмолл",
-    "releaseDate": "2022-09-29",
     "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2EusYfNZoWaxNxpfQI1T8d",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27367272e6eff68c3ed518a0125",
+    "url": "https://open.spotify.com/album/1bhmYQBXy3jHOz1Eku3Wpo"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:57.830Z",
         "type": "FOUND"
       }
-    ]
+    ],
+    "artists": [
+      "примара"
+    ],
+    "artistsPopularity": 19,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27308a8fa873a7546476c955b3e",
+    "releaseDate": "2025-07-25",
+    "title": "Кут",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6gpmKzQQ1wwNvSixpmT5xB"
   },
   {
-    "artists": ["Felixx_2024"],
-    "artistsPopularity": 0,
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "примара",
+      "блуд"
+    ],
+    "artistsPopularity": 19,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e59b22c7c2aaf05dfe1b204e",
+    "releaseDate": "2025-05-16",
+    "title": "archive0",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1OvagQTi897O91fRKY7mIv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "примара",
+      "блуд",
+      "SAKRAL"
+    ],
+    "artistsPopularity": 19,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27379cde72a4ada5b891dc1f2ee",
+    "releaseDate": "2025-05-09",
+    "title": "AntiAntivirus",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/00ByOvdb8fSH3KrVNpsh5H"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "примара",
+      "блуд"
+    ],
+    "artistsPopularity": 19,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273543e719878cf0936d9c57780",
+    "releaseDate": "2025-04-18",
+    "title": "c'est un donjon",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1FkvE91vlpHvZWP7Vll8Ej"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "примара",
+      "блуд"
+    ],
+    "artistsPopularity": 19,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735663cda3a04add8d12e85022",
+    "releaseDate": "2025-04-11",
+    "title": "IPv8",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6tdRG2QV2ieHSdXaSse5IQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "примара",
+      "drwncvnt"
+    ],
+    "artistsPopularity": 31,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab2f27ef5519a4c490d8ff83",
+    "releaseDate": "2025-04-04",
+    "title": "LostInSystemCode, Pt. 1",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6m69hnoG3A4f6WsFtuzuNg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "примара",
+      "drwncvnt"
+    ],
+    "artistsPopularity": 31,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ee7b5f5eaddbd362b702098b",
+    "releaseDate": "2025-03-14",
+    "title": "арґентум",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3aTkv6H6TTSTszXLatk1RJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "примара",
+      "drwncvnt"
+    ],
+    "artistsPopularity": 31,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e05b2aa4a8d27339106ecb29",
+    "releaseDate": "2025-02-21",
+    "title": "notepad++",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6PEzSFtKnhO96Z9y3Oq79E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SPALAXX",
+      "примара"
+    ],
+    "artistsPopularity": 19,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d7d1d56b803873a4e5a030db",
+    "releaseDate": "2025-01-31",
+    "title": "вітер в голові",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3wQhTYJ8dwzg2BtzxmsW95"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "whitelope",
+      "примара"
+    ],
+    "artistsPopularity": 19,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273952d34bf28851dabd1c23060",
+    "releaseDate": "2025-01-31",
+    "title": "angel",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2iq0mj9aANuqXlj0y3quR7"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "примара",
+      "drwncvnt"
+    ],
+    "artistsPopularity": 31,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736bf7b75782c3c6478b17b82d",
+    "releaseDate": "2025-01-24",
+    "title": "purgatorium",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7DTQm9P7UIwKrRiUAsjett"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "примара",
+      "drwncvnt"
+    ],
+    "artistsPopularity": 31,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27300a4b8e0cbc75c38c47c78de",
+    "releaseDate": "2025-01-17",
+    "title": "canada20",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/41j8nt1UWhit5vi8ed24M9"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "примара",
+      "drwncvnt"
+    ],
+    "artistsPopularity": 31,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27303f3cc26d22c5711a34558bd",
+    "releaseDate": "2024-12-13",
+    "title": "blade",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5dapLZCM0N0jWgEDzyH27i"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "примара"
+    ],
+    "artistsPopularity": 19,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e42617c1d15b3764a160a28e",
+    "releaseDate": "2024-11-01",
+    "title": "Біс",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/72FfmZmfHE32rOXEJ676Mw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "примара",
+      "Безвихідь"
+    ],
+    "artistsPopularity": 19,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736b47e5e99d14fe556e691ce1",
+    "releaseDate": "2024-10-18",
+    "title": "Перший вольт",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5STuBHlodo3pyfbWDY7zUO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "примара"
+    ],
+    "artistsPopularity": 19,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733664d8626596205029988bd6",
+    "releaseDate": "2024-10-04",
+    "title": "Вихід",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3qBx2F2QcXG1u77MnwcFrd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "примара"
+    ],
+    "artistsPopularity": 19,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730cc8a5f312a2df38bfc934df",
+    "releaseDate": "2024-09-27",
+    "title": "Відпусти",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/02i2nEFsfEg0UkXqTaClUo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "примара"
+    ],
+    "artistsPopularity": 19,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731dda0306ccbace42df68a256",
+    "releaseDate": "2024-09-13",
+    "title": "Некроз",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4Jfs1c2hvRSwNQ4wtSSYek"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "примара"
+    ],
+    "artistsPopularity": 19,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731844a3ac0d3317438ccec280",
+    "releaseDate": "2024-09-06",
+    "title": "Бута",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5uBy2vzsHgmwKgj9ITkXal"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "примара"
+    ],
+    "artistsPopularity": 19,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d5bd7c18297927f146bfdb26",
+    "releaseDate": "2024-02-23",
+    "title": "Її",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/30cTItog3mjBQjxkymgtWw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SAKRAL",
+      "примара"
+    ],
+    "artistsPopularity": 19,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e00926ec6853c702c67d84db",
+    "releaseDate": "2023-12-23",
+    "title": "Цивілізація 2",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6VmZrYft4U5yrmHRtjmEv3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "примара"
+    ],
+    "artistsPopularity": 19,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736288300ecc920370861a4f7c",
+    "releaseDate": "2023-06-09",
+    "title": "Я не твій",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4ouknFCWVBpDb3XKBp8gYq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "примара",
+      "Kuaskio"
+    ],
+    "artistsPopularity": 32,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735a625a97086fe9621e12ca61",
+    "releaseDate": "2023-03-31",
+    "title": "Палають мости",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/48b9dIsj7wuujdXEHVwGiz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Загреб",
+      "примара"
+    ],
+    "artistsPopularity": 29,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734b5be12b9e0e05854dc517ff",
+    "releaseDate": "2023-02-17",
+    "title": "Орфей",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5eyHJER6TL44cE5ktih0Ax"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "примара"
+    ],
+    "artistsPopularity": 19,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27379f3cf92dbdf80fe2e8e0966",
+    "releaseDate": "2022-12-16",
+    "title": "Задзеркалля",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0rAZr35VpgrdDDSnBl0lMp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "примара"
+    ],
+    "artistsPopularity": 19,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f34d138ea5c371276e18a611",
+    "releaseDate": "2022-12-09",
+    "title": "Феміда",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4Zvfno8enzESxYGFAkOHFc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "примара"
+    ],
+    "artistsPopularity": 19,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273235a4b4f35b44a779c34011c",
+    "releaseDate": "2022-11-18",
+    "title": "Госпіс",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7JeXDPNb5vbpI6MxgStLyy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "gothique",
+      "примара"
+    ],
+    "artistsPopularity": 19,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d8b8daef898556d2ec7b0604",
+    "releaseDate": "2022-10-31",
+    "title": "некрономікон",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4HllC0p8dGT9jbFd5ZTpJR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SPALAXX",
+      "примара"
+    ],
+    "artistsPopularity": 19,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fe76e074f74b61340ec083b9",
+    "releaseDate": "2022-10-28",
+    "title": "Лімб",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1HUy9VCkhdS7I1BsE4b24m"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "примара",
+      "SPALAXX"
+    ],
+    "artistsPopularity": 19,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b262ea03ccd0079c939fcba3",
+    "releaseDate": "2022-10-14",
+    "title": "ТайпСі",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6XlzccHteuzKLg83QgqxEK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "примара"
+    ],
+    "artistsPopularity": 19,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735630e8c0390abf2522623955",
+    "releaseDate": "2022-09-30",
+    "title": "Кров",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6dNJWcT2D28ekcN1vUzoQ7"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "примара",
+      "SAKRAL"
+    ],
+    "artistsPopularity": 19,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738c725efa050def4a2fbb0322",
+    "releaseDate": "2022-09-09",
     "title": "Нікотин",
-    "releaseDate": "2024-10-25",
-    "type": "single",
     "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3E5c3MP7tWIdamnMIDYZqy",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273846f1fb38163457bf1103a3a",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:57.830Z",
-        "type": "FOUND"
-      }
-    ]
+    "type": "single",
+    "url": "https://open.spotify.com/album/2xukuGlXM81XBW06C1Vrtl"
   },
   {
-    "artists": ["Felixx_2024"],
-    "artistsPopularity": 0,
-    "title": "Нікотин (feat. примара) (Phonk) (Speed Up) (Remix)",
-    "releaseDate": "2024-12-10",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5mjMHt2ANNKFdXAMgLjfLA",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27343a32f75a0e1f1b1a4672a61",
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:57.830Z",
         "type": "FOUND"
       }
-    ]
+    ],
+    "artists": [
+      "SPALAXX",
+      "примара"
+    ],
+    "artistsPopularity": 19,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731b3c994cefc05215448d536a",
+    "releaseDate": "2022-06-17",
+    "title": "Апатія",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0Dmaw8ENLJ61qPC760xmzE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "примара",
+      "whitelope"
+    ],
+    "artistsPopularity": 19,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273952f05ae79aa230a54c68a8f",
+    "releaseDate": "2022-05-27",
+    "title": "Нумідіум",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5NdOPT8X4UinT7uQy5PgIj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "примара",
+      "whitelope",
+      "drimandr"
+    ],
+    "artistsPopularity": 23,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d9558674bc16c735ad8b2d72",
+    "releaseDate": "2022-02-23",
+    "title": "Галичина",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2gXmHIPh8CuvXjitrtsgoE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "примара"
+    ],
+    "artistsPopularity": 19,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27312a62c0200453e52190d9ef5",
+    "releaseDate": "2022-01-14",
+    "title": "Індульгенція",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0tTkiRDg7Rw6qqKeCENVOv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "примара"
+    ],
+    "artistsPopularity": 19,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732c309a16b24741a727640590",
+    "releaseDate": "2021-12-06",
+    "title": "223",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/40YFcft9aqecWPdqMhmZa3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "примара"
+    ],
+    "artistsPopularity": 19,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737e0ef3f2119fb35186ce4854",
+    "releaseDate": "2021-10-26",
+    "title": "Туткороткийшлях",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/79LXwEXP5LsusrrXIlZkBT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Безвихідь"
+    ],
+    "artistsPopularity": 18,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bfbf859fd82ccd0a4b32ace1",
+    "releaseDate": "2024-02-23",
+    "title": "Епітафія",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/66QA743eccZ17S06NKMHjt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "6ATbK0"
+    ],
+    "artistsPopularity": 11,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fcad47c42421cad63ae591f1",
+    "releaseDate": "2025-07-25",
+    "title": "Вплив",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/13X7ZR4fPqFs7mXq4rIsOj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CRASHMAESTRO"
+    ],
+    "artistsPopularity": 19,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273493aa3a7269a3e47b04a68b0",
+    "releaseDate": "2025-06-13",
+    "title": "INFERNO: AFTERBURN",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7IhB6mAwqVWVLHxC3AcMfV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "drwncvnt"
+    ],
+    "artistsPopularity": 31,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27399192329cc7e2bd87bdf60af",
+    "releaseDate": "2025-01-17",
+    "title": "selected shyzo works 24",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2CRtmTZA7UMju0OdW0EvE1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "drwncvnt"
+    ],
+    "artistsPopularity": 31,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27391a5ddcdaecbdd40b4cf047d",
+    "releaseDate": "2024-04-05",
+    "title": "deep dark fantasies, Pt. 1",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1PITKvuJ9rl0gXgG61C9Kd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "XenjeS",
+      "CRASHMAESTRO"
+    ],
+    "artistsPopularity": 19,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738b49e8392384df4b664f35d6",
+    "releaseDate": "2023-12-13",
+    "title": "POHUI NA NAZVU",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5LvLULZDOPbBWaXjzcVFoP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SPALAXX"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273607bf0d5f61d76850db95f4f",
+    "releaseDate": "2022-11-04",
+    "title": "Оніміння",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4k9woQ0wIQwiy1ZwAq0s8Y"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SAKRAL"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fb5ca94ae5ea2d837c571b17",
+    "releaseDate": "2022-10-14",
+    "title": "PHOENIX",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4KtiUqSavTnGOsLHIqXIVT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SAKRAL"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cd6d9f67f5ea556f3d439924",
+    "releaseDate": "2021-12-23",
+    "title": "Цивілізація",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6vYg82mZ9enUmMR8z2Fj0P"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SAKRAL"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27367272e6eff68c3ed518a0125",
+    "releaseDate": "2022-09-29",
+    "title": "Блекмолл",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2EusYfNZoWaxNxpfQI1T8d"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Felixx_2024"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273846f1fb38163457bf1103a3a",
+    "releaseDate": "2024-10-25",
+    "title": "Нікотин",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3E5c3MP7tWIdamnMIDYZqy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:57.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Felixx_2024"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27343a32f75a0e1f1b1a4672a61",
+    "releaseDate": "2024-12-10",
+    "title": "Нікотин (feat. примара) (Phonk) (Speed Up) (Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5mjMHt2ANNKFdXAMgLjfLA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T13:26:26.699Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "примара"
+    ],
+    "artistsPopularity": 19,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730983d9461a433732172a91d6",
+    "releaseDate": "2025-09-19",
+    "title": "ЗниклийБезвісти",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6IFmQB2ID5zGnTmozbAybF"
   }
 ]

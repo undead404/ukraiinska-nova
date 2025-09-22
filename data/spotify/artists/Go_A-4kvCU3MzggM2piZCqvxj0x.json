@@ -1,258 +1,295 @@
 [
   {
-    "artists": ["Go_A"],
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:58.946Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Go_A"
+    ],
     "artistsPopularity": 51,
-    "title": "#Ідиназвук",
-    "releaseDate": "2021-01-13",
-    "type": "album",
-    "totalTracks": 10,
-    "url": "https://open.spotify.com/album/0rZDKDmMcweiFIHsc2r7yl",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dfdfcdd46d2b57eb3751893b",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:27:58.946Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Korolova", "Rokston", "Go_A"],
-    "artistsPopularity": 60,
-    "title": "Vorozhyla",
-    "releaseDate": "2024-09-06",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5EFiqpyEjYIGzQj2B5qFLu",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a9e01202aebf85912bba1d59",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:27:58.946Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Go_A"],
-    "artistsPopularity": 51,
-    "title": "Krip",
-    "releaseDate": "2024-04-24",
-    "type": "single",
-    "totalTracks": 2,
-    "url": "https://open.spotify.com/album/0tKiItRGQeBOsaN2ir3vJy",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273030e73851bb8416a5fd4be93",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:27:58.946Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Go_A"],
-    "artistsPopularity": 51,
-    "title": "Dumala",
-    "releaseDate": "2023-11-23",
-    "type": "single",
-    "totalTracks": 2,
-    "url": "https://open.spotify.com/album/6Lf9F571KZeygRymtAqoml",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dfc889d0728c82ea079d98a2",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:27:58.946Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Monokate", "Go_A"],
-    "artistsPopularity": 51,
-    "title": "Vorozhyla",
-    "releaseDate": "2023-08-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0q5pClu5VAAMatloOvYycY",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27343361cdc3eba66b5f8b0c210",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:27:58.946Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Go_A"],
-    "artistsPopularity": 51,
-    "title": "Rusalochki",
-    "releaseDate": "2023-06-15",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3AOGSJXXtLWl3L9xqcfbll",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d15206a0ff5d44c3eb952d6b",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:27:58.946Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Go_A"],
-    "artistsPopularity": 51,
-    "title": "Kalyna",
-    "releaseDate": "2022-03-18",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6CSrVf4Pqc4t7XQGyC3RAt",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dd00c420784dfefaba2da7d6",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:27:58.946Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Go_A", "Billx"],
-    "artistsPopularity": 52,
-    "title": "Shum (Billx remix)",
-    "releaseDate": "2021-09-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4ufEY0vXf3bbKz3zh8zi3v",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273187a9f4217f68a04c32cecb3",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:27:58.946Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Go_A"],
-    "artistsPopularity": 51,
-    "title": "SHUM",
-    "releaseDate": "2021-08-04",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5PHaqajzAEUhRPjwFYqjSx",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730cef476af39956e71ff4ae2c",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:27:58.946Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Go_A", "Dj NANA"],
-    "artistsPopularity": 51,
-    "title": "SHUM (Dj NANA Remix)",
-    "releaseDate": "2021-05-07",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2FuvsZvyTFU7RWP18RTcG9",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cddac9dc4ea7f8bc55ada5de",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:27:58.946Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Go_A"],
-    "artistsPopularity": 51,
-    "title": "Шум (Radio Edit)",
-    "releaseDate": "2021-04-02",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6b8Z9vYA4Q6bTzdGfhf7wQ",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27386126604dd1d56411ad4a9c3",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:27:58.946Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Go_A"],
-    "artistsPopularity": 51,
-    "title": "Шум",
-    "releaseDate": "2021-01-22",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4J5kVOPB7MYswwmiciUr3C",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e8b1d7cf92f3c6ec560cccd7",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:27:58.946Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Go_A"],
-    "artistsPopularity": 51,
-    "title": "Рано-раненько",
     "releaseDate": "2021-01-13",
-    "type": "single",
-    "totalTracks": 2,
-    "url": "https://open.spotify.com/album/01PatLOrWUaQLFyl4T3ULU",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aa94832701e58554eab3f4d4",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:27:58.946Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Go_A"],
-    "artistsPopularity": 51,
-    "title": "Добрим людям на здоров’я",
-    "releaseDate": "2020-12-18",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4L5pPkT28btMyPOutk1f3L",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f01a2a33ac8d9721d10a2ec1",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:27:58.946Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Go_A"],
-    "artistsPopularity": 51,
-    "title": "Solovey",
-    "releaseDate": "2020-03-07",
-    "type": "single",
-    "totalTracks": 2,
-    "url": "https://open.spotify.com/album/58jDHr7c1SRlxmt0h0bEBL",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27343f4d010c95a9ddf8bf0a6db",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:27:58.946Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["МУР"],
-    "artistsPopularity": 48,
-    "title": "РЕБЕЛІЯ [1991]",
-    "releaseDate": "2025-08-24",
+    "title": "#Ідиназвук",
+    "totalTracks": 10,
     "type": "album",
-    "totalTracks": 24,
-    "url": "https://open.spotify.com/album/7ut7i8c8Eo8Wr4f4NGzpIv",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27376ebfcac24b8d1096121dde2",
+    "url": "https://open.spotify.com/album/0rZDKDmMcweiFIHsc2r7yl"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:58.946Z",
         "type": "FOUND"
       }
-    ]
+    ],
+    "artists": [
+      "Korolova",
+      "Rokston",
+      "Go_A"
+    ],
+    "artistsPopularity": 60,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a9e01202aebf85912bba1d59",
+    "releaseDate": "2024-09-06",
+    "title": "Vorozhyla",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5EFiqpyEjYIGzQj2B5qFLu"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:58.946Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Go_A"
+    ],
+    "artistsPopularity": 51,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273030e73851bb8416a5fd4be93",
+    "releaseDate": "2024-04-24",
+    "title": "Krip",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0tKiItRGQeBOsaN2ir3vJy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:58.946Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Go_A"
+    ],
+    "artistsPopularity": 51,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dfc889d0728c82ea079d98a2",
+    "releaseDate": "2023-11-23",
+    "title": "Dumala",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6Lf9F571KZeygRymtAqoml"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:58.946Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Monokate",
+      "Go_A"
+    ],
+    "artistsPopularity": 51,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27343361cdc3eba66b5f8b0c210",
+    "releaseDate": "2023-08-24",
+    "title": "Vorozhyla",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0q5pClu5VAAMatloOvYycY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:58.946Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Go_A"
+    ],
+    "artistsPopularity": 51,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d15206a0ff5d44c3eb952d6b",
+    "releaseDate": "2023-06-15",
+    "title": "Rusalochki",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3AOGSJXXtLWl3L9xqcfbll"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:58.946Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Go_A"
+    ],
+    "artistsPopularity": 51,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dd00c420784dfefaba2da7d6",
+    "releaseDate": "2022-03-18",
+    "title": "Kalyna",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6CSrVf4Pqc4t7XQGyC3RAt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:58.946Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Go_A",
+      "Billx"
+    ],
+    "artistsPopularity": 52,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273187a9f4217f68a04c32cecb3",
+    "releaseDate": "2021-09-24",
+    "title": "Shum (Billx remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4ufEY0vXf3bbKz3zh8zi3v"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:58.946Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Go_A"
+    ],
+    "artistsPopularity": 51,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730cef476af39956e71ff4ae2c",
+    "releaseDate": "2021-08-04",
+    "title": "SHUM",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5PHaqajzAEUhRPjwFYqjSx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:58.946Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Go_A",
+      "Dj NANA"
+    ],
+    "artistsPopularity": 51,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cddac9dc4ea7f8bc55ada5de",
+    "releaseDate": "2021-05-07",
+    "title": "SHUM (Dj NANA Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2FuvsZvyTFU7RWP18RTcG9"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:58.946Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Go_A"
+    ],
+    "artistsPopularity": 51,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27386126604dd1d56411ad4a9c3",
+    "releaseDate": "2021-04-02",
+    "title": "Шум (Radio Edit)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6b8Z9vYA4Q6bTzdGfhf7wQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:58.946Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Go_A"
+    ],
+    "artistsPopularity": 51,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e8b1d7cf92f3c6ec560cccd7",
+    "releaseDate": "2021-01-22",
+    "title": "Шум",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4J5kVOPB7MYswwmiciUr3C"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:58.946Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Go_A"
+    ],
+    "artistsPopularity": 51,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aa94832701e58554eab3f4d4",
+    "releaseDate": "2021-01-13",
+    "title": "Рано-раненько",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/01PatLOrWUaQLFyl4T3ULU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:58.946Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Go_A"
+    ],
+    "artistsPopularity": 51,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f01a2a33ac8d9721d10a2ec1",
+    "releaseDate": "2020-12-18",
+    "title": "Добрим людям на здоров’я",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4L5pPkT28btMyPOutk1f3L"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:58.946Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Go_A"
+    ],
+    "artistsPopularity": 51,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27343f4d010c95a9ddf8bf0a6db",
+    "releaseDate": "2020-03-07",
+    "title": "Solovey",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/58jDHr7c1SRlxmt0h0bEBL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:58.946Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "МУР"
+    ],
+    "artistsPopularity": 48,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27376ebfcac24b8d1096121dde2",
+    "releaseDate": "2025-08-24",
+    "title": "РЕБЕЛІЯ [1991]",
+    "totalTracks": 24,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7ut7i8c8Eo8Wr4f4NGzpIv"
   }
 ]

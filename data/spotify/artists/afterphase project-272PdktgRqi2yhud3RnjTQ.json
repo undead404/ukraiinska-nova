@@ -1,98 +1,110 @@
 [
   {
-    "artists": ["afterphase project"],
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:38.611Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "afterphase project"
+    ],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737ddc584f3d5652ba5338eeb9",
     "releaseDate": "2025-02-22",
     "title": "Gift of Chaos",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0cYOogGppiQAFQPlvAZTvZ",
+    "url": "https://open.spotify.com/album/0cYOogGppiQAFQPlvAZTvZ"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:38.611Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["afterphase project"],
+    ],
+    "artists": [
+      "afterphase project"
+    ],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732ac73c33f47b9711bd29b1c5",
     "releaseDate": "2023-12-24",
     "title": "The Harbinger",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2ewlB9wAtdm0IdhsIFG7Le",
+    "url": "https://open.spotify.com/album/2ewlB9wAtdm0IdhsIFG7Le"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:38.611Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["afterphase project"],
+    ],
+    "artists": [
+      "afterphase project"
+    ],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b33610349cb3d68939af1599",
     "releaseDate": "2022-05-10",
     "title": "Пристрасний ідол",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1X2uAWucTw1S16iL0MDBIm",
+    "url": "https://open.spotify.com/album/1X2uAWucTw1S16iL0MDBIm"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:38.611Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["afterphase project"],
+    ],
+    "artists": [
+      "afterphase project"
+    ],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27324c960770adb8c8ded51f3a3",
     "releaseDate": "2020-05-11",
     "title": "15:51",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2pWpQn4aSG7aN1PfsTleLL",
+    "url": "https://open.spotify.com/album/2pWpQn4aSG7aN1PfsTleLL"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:38.611Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["afterphase project"],
+    ],
+    "artists": [
+      "afterphase project"
+    ],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730986a015abd7e392a1434e30",
     "releaseDate": "2020-01-01",
     "title": "Disobey",
     "totalTracks": 6,
     "type": "single",
-    "url": "https://open.spotify.com/album/2v2o9PZKXYIX1Tw0kSs77y",
+    "url": "https://open.spotify.com/album/2v2o9PZKXYIX1Tw0kSs77y"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:38.611Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["afterphase project"],
+    ],
+    "artists": [
+      "afterphase project"
+    ],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734c8ca186e42a4beecf35f3c6",
     "releaseDate": "2019-06-06",
     "title": "0.1",
     "totalTracks": 5,
     "type": "single",
-    "url": "https://open.spotify.com/album/7oxAsd2bYd2EvbpnJYlfHi",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T09:45:38.611Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/7oxAsd2bYd2EvbpnJYlfHi"
   }
 ]

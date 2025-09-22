@@ -1,0 +1,131 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T18:26:56.589Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DAMNITSKYI"
+    ],
+    "artistsPopularity": 45,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27379d7cba13ae27b79cd8f4b6d",
+    "releaseDate": "2025-09-17",
+    "title": "Босими",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6TiUjSWpYrBlVwGJitromU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T18:26:56.589Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DAMNITSKYI"
+    ],
+    "artistsPopularity": 45,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27306104978a3142899893a3a72",
+    "releaseDate": "2025-07-16",
+    "title": "Туман",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2DKg14uHvdqXQSHWH0B7HK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T18:26:56.589Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "IVAN LIULENOV",
+      "DAMNITSKYI"
+    ],
+    "artistsPopularity": 47,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c8cf1f55c12b02e4be8a9c42",
+    "releaseDate": "2025-06-30",
+    "title": "КОНТЕМПОРАРІ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5fGtM9iuQO8EdG6g9c7NST"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T18:26:56.589Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DAMNITSKYI"
+    ],
+    "artistsPopularity": 45,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a8bdd5b2ef97594d9bf1dd88",
+    "releaseDate": "2025-05-29",
+    "title": "Торгово-розважальний комплекс неповноцінності",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/24vQu4aCrw2mcRyLe45gcT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T18:26:56.589Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "IVAN LIULENOV",
+      "DAMNITSKYI"
+    ],
+    "artistsPopularity": 47,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27340559bb92fc394baaa75f3aa",
+    "releaseDate": "2025-05-28",
+    "title": "ШОВКОВИЦЯ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0BmyRTUEewRBYZdsplUvS2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T18:26:56.589Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "IVAN LIULENOV",
+      "DAMNITSKYI"
+    ],
+    "artistsPopularity": 47,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730157d108ec1aa8090220d875",
+    "releaseDate": "2025-03-06",
+    "title": "ТЕХНО",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0C1TxehoPVXE2v7nFaDTni"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T18:26:56.589Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "IVAN LIULENOV"
+    ],
+    "artistsPopularity": 47,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27397e613320e76e94191f39ceb",
+    "releaseDate": "2025-04-23",
+    "title": "ДЕ ВЖЕ ТОЙ УСПІХ?",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0Wqr6UM9v061s3Odq2kDx4"
+  }
+]

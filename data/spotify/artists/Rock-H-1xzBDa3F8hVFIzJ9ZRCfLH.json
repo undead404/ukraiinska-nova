@@ -1,34 +1,38 @@
 [
   {
-    "artists": ["Rock-H"],
-    "artistsPopularity": 6,
-    "title": "Співаночки про любов",
-    "releaseDate": "2016-03-01",
-    "type": "album",
-    "totalTracks": 12,
-    "url": "https://open.spotify.com/album/4L5jgUTnMp7f6DLOa8CRkA",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27336ece25881938efbf012c7e3",
     "appearanceLog": [
       {
         "time": "2025-09-16T13:28:54.958Z",
         "type": "FOUND"
       }
-    ]
+    ],
+    "artists": [
+      "Rock-H"
+    ],
+    "artistsPopularity": 6,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27336ece25881938efbf012c7e3",
+    "releaseDate": "2016-03-01",
+    "title": "Співаночки про любов",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4L5jgUTnMp7f6DLOa8CRkA"
   },
   {
-    "artists": ["Rock-H"],
-    "artistsPopularity": 6,
-    "title": "Білий динь",
-    "releaseDate": "2014-03-16",
-    "type": "album",
-    "totalTracks": 12,
-    "url": "https://open.spotify.com/album/57VeGdtSN1CCauS2MNyWzs",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ed12c531ad390f5f23c1fa6e",
     "appearanceLog": [
       {
         "time": "2025-09-16T13:28:54.958Z",
         "type": "FOUND"
       }
-    ]
+    ],
+    "artists": [
+      "Rock-H"
+    ],
+    "artistsPopularity": 6,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ed12c531ad390f5f23c1fa6e",
+    "releaseDate": "2014-03-16",
+    "title": "Білий динь",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/57VeGdtSN1CCauS2MNyWzs"
   }
 ]

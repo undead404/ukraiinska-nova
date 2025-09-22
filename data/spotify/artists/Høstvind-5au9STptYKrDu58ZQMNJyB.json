@@ -1,0 +1,38 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T22:24:10.854Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Høstvind"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27326d3d962a9be3216131d582b",
+    "releaseDate": "2024-03-24",
+    "title": "Høstvind",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7dgWYHDoH6tSrbSgwqMS9i"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T22:24:10.854Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Høstvind"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273345f0ce2816b9c7ebf1accaf",
+    "releaseDate": "2024-09-22",
+    "title": "Legenda",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1mDJbNd42cQGuAsDzuMhk4"
+  }
+]

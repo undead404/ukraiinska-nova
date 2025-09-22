@@ -1,290 +1,330 @@
 [
   {
-    "artists": ["adm:t", "Lisnyi", "на її основі"],
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:41.351Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "adm:t",
+      "Lisnyi",
+      "на її основі"
+    ],
     "artistsPopularity": 30,
-    "title": "лід у воді",
-    "releaseDate": "2025-06-20",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7mRKHnzH1fiNdrwcCn9nwB",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273be9f6b6ef124d4e325bc7999",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:27:41.351Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["adm:t", "тері фао"],
-    "artistsPopularity": 28,
-    "title": "течія",
-    "releaseDate": "2025-03-13",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3B8ADJo2JenYdfYujLhMJ7",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735de9c58202a465f5b463fa77",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:27:41.351Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["adm:t"],
-    "artistsPopularity": 28,
-    "title": "в кубі",
-    "releaseDate": "2024-09-02",
-    "type": "single",
-    "totalTracks": 5,
-    "url": "https://open.spotify.com/album/3XtXR2uOtyX1etSiTTEYnb",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27364780bb1d0410788f3499287",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:27:41.351Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["adm:t", "Tember Blanche"],
-    "artistsPopularity": 43,
-    "title": "метаморфосінь",
-    "releaseDate": "2024-07-03",
-    "type": "single",
-    "totalTracks": 2,
-    "url": "https://open.spotify.com/album/7IC8OrpjOi7I45yyPO16yd",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a98f05004584f073529b25d2",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:27:41.351Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["adm:t"],
-    "artistsPopularity": 28,
-    "title": "завтра?",
-    "releaseDate": "2024-02-01",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/20G0l0aQunz3VeFZ1NJ11Q",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737a7e3d97ca4c27a08547a3a5",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:27:41.351Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["adm:t"],
-    "artistsPopularity": 28,
-    "title": "альбедо",
-    "releaseDate": "2023-08-22",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/00ROay9sx5y6Mf02UHF26M",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c312ca3cb7d72548cb142581",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:27:41.351Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["adm:t"],
-    "artistsPopularity": 28,
-    "title": "в квадраті",
-    "releaseDate": "2022-12-21",
-    "type": "single",
-    "totalTracks": 5,
-    "url": "https://open.spotify.com/album/2QWx967z3ENaQkURIEHBWW",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fae9b249037c24443a83bf28",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:27:41.351Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["adm:t"],
-    "artistsPopularity": 28,
-    "title": "в кінці літа",
-    "releaseDate": "2022-08-31",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/68TUOBrHBcIy9SKdJPc3Dz",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27325c1ba952987b3cf724610bb",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:27:41.351Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["adm:t"],
-    "artistsPopularity": 28,
-    "title": "Вул. Фучика",
-    "releaseDate": "2022-02-02",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/29xNOkjWdywvZ81E7D3vsk",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731d10175032942281b719ce46",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:27:41.351Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["adm:t"],
-    "artistsPopularity": 28,
-    "title": "Кочовий пес",
-    "releaseDate": "2021-11-30",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0lswVDOSjY9zKGaMI4OGKs",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b1638505bef80db0aa763642",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:27:41.351Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["adm:t"],
-    "artistsPopularity": 28,
-    "title": "Ах, життя моє дороге",
-    "releaseDate": "2021-10-27",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5MsgfAj6jp3v0jZTRIWbtl",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273647c2788edec138bb58ad1f1",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:27:41.351Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["adm:t"],
-    "artistsPopularity": 28,
-    "title": "Лісостеп",
-    "releaseDate": "2021-07-07",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6Ra9tjU3ByBDcoNSvGarp5",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d3ae27c69d7da5b91280ee58",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:27:41.351Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["adm:t"],
-    "artistsPopularity": 28,
-    "title": "Вул. Фучика",
-    "releaseDate": "2021-03-01",
-    "type": "single",
-    "totalTracks": 2,
-    "url": "https://open.spotify.com/album/08fPAOpQdmIRW3nSMQ37sq",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fd14a95cd7f8272c45dca428",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:27:41.351Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["adm:t"],
-    "artistsPopularity": 28,
-    "title": "пакет",
-    "releaseDate": "2019-08-30",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1J5mSB2jyl1YX4Yu6kB0YS",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27386472b5627377f93b095392e",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:27:41.351Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["adm:t"],
-    "artistsPopularity": 28,
-    "title": "В першому степені",
-    "releaseDate": "2018-09-18",
-    "type": "single",
-    "totalTracks": 5,
-    "url": "https://open.spotify.com/album/2P86RmcYgASlIstuSHg87C",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c6c2c747f181737ac191c364",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:27:41.351Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["adm:t"],
-    "artistsPopularity": 28,
-    "title": "Лісøстеп",
-    "releaseDate": "2018-05-21",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5eKAfJ417BkCgAqCY1fxsf",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fbed63b40bfb5f088ff32047",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:27:41.351Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["на її основі"],
-    "artistsPopularity": 30,
-    "title": "За її лаштунками, Vol.2",
     "releaseDate": "2025-06-20",
+    "title": "лід у воді",
+    "totalTracks": 1,
     "type": "single",
-    "totalTracks": 5,
-    "url": "https://open.spotify.com/album/4xgf4xG6WUK356YxzuBIjV",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a4b0ddb2bb541ae1135d6e3b",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:27:41.351Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/7mRKHnzH1fiNdrwcCn9nwB"
   },
   {
-    "artists": ["тері фао"],
-    "artistsPopularity": 5,
-    "title": "Титри",
-    "releaseDate": "2020-02-29",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7haQcMs1QPmhbzFlcIBLhz",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b94c0060443af49f96544c85",
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:41.351Z",
         "type": "FOUND"
       }
-    ]
+    ],
+    "artists": [
+      "adm:t",
+      "тері фао"
+    ],
+    "artistsPopularity": 28,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735de9c58202a465f5b463fa77",
+    "releaseDate": "2025-03-13",
+    "title": "течія",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3B8ADJo2JenYdfYujLhMJ7"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:41.351Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "adm:t"
+    ],
+    "artistsPopularity": 28,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27364780bb1d0410788f3499287",
+    "releaseDate": "2024-09-02",
+    "title": "в кубі",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3XtXR2uOtyX1etSiTTEYnb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:41.351Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "adm:t",
+      "Tember Blanche"
+    ],
+    "artistsPopularity": 43,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a98f05004584f073529b25d2",
+    "releaseDate": "2024-07-03",
+    "title": "метаморфосінь",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7IC8OrpjOi7I45yyPO16yd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:41.351Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "adm:t"
+    ],
+    "artistsPopularity": 28,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737a7e3d97ca4c27a08547a3a5",
+    "releaseDate": "2024-02-01",
+    "title": "завтра?",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/20G0l0aQunz3VeFZ1NJ11Q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:41.351Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "adm:t"
+    ],
+    "artistsPopularity": 28,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c312ca3cb7d72548cb142581",
+    "releaseDate": "2023-08-22",
+    "title": "альбедо",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/00ROay9sx5y6Mf02UHF26M"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:41.351Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "adm:t"
+    ],
+    "artistsPopularity": 28,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fae9b249037c24443a83bf28",
+    "releaseDate": "2022-12-21",
+    "title": "в квадраті",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2QWx967z3ENaQkURIEHBWW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:41.351Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "adm:t"
+    ],
+    "artistsPopularity": 28,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27325c1ba952987b3cf724610bb",
+    "releaseDate": "2022-08-31",
+    "title": "в кінці літа",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/68TUOBrHBcIy9SKdJPc3Dz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:41.351Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "adm:t"
+    ],
+    "artistsPopularity": 28,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731d10175032942281b719ce46",
+    "releaseDate": "2022-02-02",
+    "title": "Вул. Фучика",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/29xNOkjWdywvZ81E7D3vsk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:41.351Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "adm:t"
+    ],
+    "artistsPopularity": 28,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b1638505bef80db0aa763642",
+    "releaseDate": "2021-11-30",
+    "title": "Кочовий пес",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0lswVDOSjY9zKGaMI4OGKs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:41.351Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "adm:t"
+    ],
+    "artistsPopularity": 28,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273647c2788edec138bb58ad1f1",
+    "releaseDate": "2021-10-27",
+    "title": "Ах, життя моє дороге",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5MsgfAj6jp3v0jZTRIWbtl"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:41.351Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "adm:t"
+    ],
+    "artistsPopularity": 28,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d3ae27c69d7da5b91280ee58",
+    "releaseDate": "2021-07-07",
+    "title": "Лісостеп",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6Ra9tjU3ByBDcoNSvGarp5"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:41.351Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "adm:t"
+    ],
+    "artistsPopularity": 28,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fd14a95cd7f8272c45dca428",
+    "releaseDate": "2021-03-01",
+    "title": "Вул. Фучика",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/08fPAOpQdmIRW3nSMQ37sq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:41.351Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "adm:t"
+    ],
+    "artistsPopularity": 28,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27386472b5627377f93b095392e",
+    "releaseDate": "2019-08-30",
+    "title": "пакет",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1J5mSB2jyl1YX4Yu6kB0YS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:41.351Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "adm:t"
+    ],
+    "artistsPopularity": 28,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c6c2c747f181737ac191c364",
+    "releaseDate": "2018-09-18",
+    "title": "В першому степені",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2P86RmcYgASlIstuSHg87C"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:41.351Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "adm:t"
+    ],
+    "artistsPopularity": 28,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fbed63b40bfb5f088ff32047",
+    "releaseDate": "2018-05-21",
+    "title": "Лісøстеп",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5eKAfJ417BkCgAqCY1fxsf"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:41.351Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "на її основі"
+    ],
+    "artistsPopularity": 30,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a4b0ddb2bb541ae1135d6e3b",
+    "releaseDate": "2025-06-20",
+    "title": "За її лаштунками, Vol.2",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4xgf4xG6WUK356YxzuBIjV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:41.351Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "тері фао"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b94c0060443af49f96544c85",
+    "releaseDate": "2020-02-29",
+    "title": "Титри",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7haQcMs1QPmhbzFlcIBLhz"
   }
 ]

@@ -1,0 +1,56 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T19:24:24.983Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vorog"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27340c9a84c9fa320a8f469ada3",
+    "releaseDate": "2024-01-12",
+    "title": "Forever young",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7rIMWUfKU3xwycZ2BOQg0g"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T19:24:24.983Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vorog"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ea6c0ebe1952e4146fae59d7",
+    "releaseDate": "2022-03-11",
+    "title": "The Lights",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0Z3qg1szTR6yw4VmBqbIJi"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T19:24:24.983Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vorog"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735d695fdd1d3975b3a332d90d",
+    "releaseDate": "2020-04-01",
+    "title": "Останній breakdown",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2IEqCSP7LYoa9cKgXu6CN7"
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T22:23:30.819Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Фантом-2"
+    ],
+    "artistsPopularity": 22,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27327be351d1d70989346b25d50",
+    "releaseDate": "1997-10-05",
+    "title": "Без контролю",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/65MAINF89vs1CdLBWYPwpK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T22:23:30.819Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Фантом-2"
+    ],
+    "artistsPopularity": 22,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273269433173b395108151d0d5f",
+    "releaseDate": "1996-10-05",
+    "title": "Зоряні війни",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/54vg8qp6VpgLo9YGb2jaix"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T22:23:30.819Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Фантом-2",
+      "MAVER"
+    ],
+    "artistsPopularity": 37,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737b46999c3dd6489d775d80d9",
+    "releaseDate": "2023-06-06",
+    "title": "Двоє (Maver Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1VmI1JrX92peEgK6WXvo6q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T22:23:30.819Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Фантом-2"
+    ],
+    "artistsPopularity": 22,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27386a0f32cfff668c321ec584b",
+    "releaseDate": "2020-10-07",
+    "title": "Невидане",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4t2VqUpI68RkMOJSOlJEaK"
+  }
+]

@@ -1,50 +1,56 @@
 [
   {
-    "artists": ["Січгарт"],
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:10.239Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Січгарт"
+    ],
     "artistsPopularity": 1,
-    "title": "Честь та кров",
-    "releaseDate": "2018-11-13",
-    "type": "album",
-    "totalTracks": 10,
-    "url": "https://open.spotify.com/album/7wJUgOrMhKMdrFZv43A9pi",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273079cdcc38e20e5f71ac08c59",
+    "releaseDate": "2018-11-13",
+    "title": "Честь та кров",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7wJUgOrMhKMdrFZv43A9pi"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:10.239Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Січгарт"],
+    ],
+    "artists": [
+      "Січгарт"
+    ],
     "artistsPopularity": 1,
-    "title": "До зброї",
-    "releaseDate": "2013-10-13",
-    "type": "album",
-    "totalTracks": 10,
-    "url": "https://open.spotify.com/album/5UvGdUF3VUfXF24Rx1IWOJ",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369272db66554aabb09636a9f",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:27:10.239Z",
-        "type": "FOUND"
-      }
-    ]
+    "releaseDate": "2013-10-13",
+    "title": "До зброї",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5UvGdUF3VUfXF24Rx1IWOJ"
   },
   {
-    "artists": ["Січгарт"],
-    "artistsPopularity": 1,
-    "title": "До Зброї",
-    "releaseDate": "2013-10-13",
-    "type": "album",
-    "totalTracks": 10,
-    "url": "https://open.spotify.com/album/1qxnSnKLvG6ocip6Ie2mx5",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e5f30215aaa29aba2499d305",
     "appearanceLog": [
       {
         "time": "2025-09-16T13:27:10.239Z",
         "type": "FOUND"
       }
-    ]
+    ],
+    "artists": [
+      "Січгарт"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e5f30215aaa29aba2499d305",
+    "releaseDate": "2013-10-13",
+    "title": "До Зброї",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1qxnSnKLvG6ocip6Ie2mx5"
   }
 ]

@@ -1,66 +1,81 @@
 [
   {
-    "artists": ["Bob Croma", "Lasta"],
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:23:06.157Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Bob Croma",
+      "Lasta"
+    ],
     "artistsPopularity": 19,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27343e4aa6a309e73e161bf3a5c",
     "releaseDate": "2023-04-01",
     "title": "ВІТЕР",
     "totalTracks": 10,
     "type": "album",
-    "url": "https://open.spotify.com/album/5cYiyCuIj5K91eJmLrK4Bw",
+    "url": "https://open.spotify.com/album/5cYiyCuIj5K91eJmLrK4Bw"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:06.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Bob Croma", "CHETOFLO", "Pero Culture Crew"],
+    ],
+    "artists": [
+      "Bob Croma",
+      "CHETOFLO",
+      "Pero Culture Crew"
+    ],
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736d638d69bbeb3ef5208792eb",
     "releaseDate": "2025-03-10",
     "title": "Поруч",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3u371VPuxXCrpQkj6EC4k6",
+    "url": "https://open.spotify.com/album/3u371VPuxXCrpQkj6EC4k6"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:06.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Pero Culture Crew", "Bob Croma", "Вщент"],
+    ],
+    "artists": [
+      "Pero Culture Crew",
+      "Bob Croma",
+      "Вщент"
+    ],
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731a93508957861e5ff618717e",
     "releaseDate": "2025-02-09",
     "title": "Gold Diggers",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4lQW2oANPX5eiAivwna4CT",
+    "url": "https://open.spotify.com/album/4lQW2oANPX5eiAivwna4CT"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:23:06.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Pero Culture Crew", "Bob Croma", "Wootabi"],
+    ],
+    "artists": [
+      "Pero Culture Crew",
+      "Bob Croma",
+      "Wootabi"
+    ],
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273125d71c2300a64686eab0ea1",
     "releaseDate": "2024-04-25",
     "title": "The Hate",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/31kwjUmHDDiKlAixrrdBIS",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:23:06.157Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/31kwjUmHDDiKlAixrrdBIS"
   }
 ]

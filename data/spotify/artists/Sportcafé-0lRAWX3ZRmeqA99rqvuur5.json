@@ -1,210 +1,237 @@
 [
   {
-    "artists": ["sportcafé"],
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:53:34.623Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "sportcafé"
+    ],
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273251a8ebc27798e9344e6cd35",
     "releaseDate": "2025-06-13",
     "title": "дивний",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/58jK1HwRKsLIYtHT2eU3KD",
+    "url": "https://open.spotify.com/album/58jK1HwRKsLIYtHT2eU3KD"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:53:34.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["sportcafé"],
+    ],
+    "artists": [
+      "sportcafé"
+    ],
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27364496a1dc1383aafd8ed2fe5",
     "releaseDate": "2025-02-28",
     "title": "earl grey",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/6jn26lrKhuMk6rvsavtKoz",
+    "url": "https://open.spotify.com/album/6jn26lrKhuMk6rvsavtKoz"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:53:34.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["sportcafé"],
+    ],
+    "artists": [
+      "sportcafé"
+    ],
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738482ccbe9db83f2eb2c5f9d7",
     "releaseDate": "2025-01-17",
     "title": "індивід",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/7uIdgX7pyVmOFZA0CuPvNw",
+    "url": "https://open.spotify.com/album/7uIdgX7pyVmOFZA0CuPvNw"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:53:34.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["sportcafé"],
+    ],
+    "artists": [
+      "sportcafé"
+    ],
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c5cf7c4a6d08170b301f770f",
     "releaseDate": "2024-02-16",
     "title": "все що у мене є",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3WEssGqARifKfWeKoW7Ltv",
+    "url": "https://open.spotify.com/album/3WEssGqARifKfWeKoW7Ltv"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:53:34.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["sportcafé"],
+    ],
+    "artists": [
+      "sportcafé"
+    ],
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f68f111882694e2662aa485e",
     "releaseDate": "2024-01-26",
     "title": "вічне літо",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3JyeeDftmd3AV52LRK0v2P",
+    "url": "https://open.spotify.com/album/3JyeeDftmd3AV52LRK0v2P"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:53:34.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Джозерс", "sportcafé"],
+    ],
+    "artists": [
+      "Джозерс",
+      "sportcafé"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731aeb3bb76fd9ac9d15996184",
     "releaseDate": "2022-12-21",
     "title": "Поки ти чекаєш чудеса",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/7yYVALeHhh5o7YkIigarlk",
+    "url": "https://open.spotify.com/album/7yYVALeHhh5o7YkIigarlk"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:53:34.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["sportcafé"],
+    ],
+    "artists": [
+      "sportcafé"
+    ],
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273edbbf6192764102aed656b2a",
     "releaseDate": "2022-11-09",
     "title": "Ловити суть",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/7sItF1wmXUQ1XD5TCf8dqp",
+    "url": "https://open.spotify.com/album/7sItF1wmXUQ1XD5TCf8dqp"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:53:34.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["sportcafé"],
+    ],
+    "artists": [
+      "sportcafé"
+    ],
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ffd2a9186b4bb46a2a8c93b1",
     "releaseDate": "2022-08-19",
     "title": "Вітер в ясний день",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2aTtB5WevCnNohNgFd7cWW",
+    "url": "https://open.spotify.com/album/2aTtB5WevCnNohNgFd7cWW"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:53:34.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["sportcafé"],
+    ],
+    "artists": [
+      "sportcafé"
+    ],
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739bb919ac9b6aed98c9e2282d",
     "releaseDate": "2022-07-29",
     "title": "Ентропія",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2j7iT21WwpdP6Tor2k2cox",
+    "url": "https://open.spotify.com/album/2j7iT21WwpdP6Tor2k2cox"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:53:34.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["sportcafé"],
+    ],
+    "artists": [
+      "sportcafé"
+    ],
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738e67f77967d4ad27965294ab",
     "releaseDate": "2022-04-08",
     "title": "Ніколи знову",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/7kAw1beTxjb02e4kmoMB1v",
+    "url": "https://open.spotify.com/album/7kAw1beTxjb02e4kmoMB1v"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:53:34.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["sportcafé"],
+    ],
+    "artists": [
+      "sportcafé"
+    ],
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dd8ebbdb3fc91c20d049c53b",
     "releaseDate": "2022-03-22",
     "title": "okiah",
     "totalTracks": 2,
     "type": "single",
-    "url": "https://open.spotify.com/album/1wTjmOiVeseKD9xvKBhMCU",
+    "url": "https://open.spotify.com/album/1wTjmOiVeseKD9xvKBhMCU"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:53:34.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["sportcafé"],
+    ],
+    "artists": [
+      "sportcafé"
+    ],
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735fd6e37406955f0d8dd63982",
     "releaseDate": "2022-03-11",
     "title": "Квітка",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4JO0TyDYANajr3a6CWurry",
+    "url": "https://open.spotify.com/album/4JO0TyDYANajr3a6CWurry"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:53:34.623Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Delirium"],
+    ],
+    "artists": [
+      "Delirium"
+    ],
     "artistsPopularity": 12,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738f498847cfa54cfa44a2a239",
     "releaseDate": "2021-03-16",
     "title": "Затерянные",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4N8McCXXnsXYHiLOZHmCRc",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:53:34.623Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/4N8McCXXnsXYHiLOZHmCRc"
   }
 ]

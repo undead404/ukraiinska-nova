@@ -1,178 +1,200 @@
 [
   {
-    "artists": ["Hanna Svirska"],
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:46:06.039Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Hanna Svirska"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b64b3dba2959ccf27cefa886",
     "releaseDate": "2025-08-15",
     "title": "Dreams of Trees",
     "totalTracks": 10,
     "type": "album",
-    "url": "https://open.spotify.com/album/3y0sJfxnDe28r0v9aK3Hds",
+    "url": "https://open.spotify.com/album/3y0sJfxnDe28r0v9aK3Hds"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:46:06.039Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Hanna Svirska"],
+    ],
+    "artists": [
+      "Hanna Svirska"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27383e58fc2f7f7ee619b9acb15",
     "releaseDate": "2025-08-08",
     "title": "Vodohrai",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0ACs8FTMZMAI1albdEjUhL",
+    "url": "https://open.spotify.com/album/0ACs8FTMZMAI1albdEjUhL"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:46:06.039Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Hanna Svirska"],
+    ],
+    "artists": [
+      "Hanna Svirska"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b026179ad2053571b99b3230",
     "releaseDate": "2025-08-01",
     "title": "Svitanets",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/6V1Fi5OaP82p61OJHa6rau",
+    "url": "https://open.spotify.com/album/6V1Fi5OaP82p61OJHa6rau"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:46:06.039Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Hanna Svirska"],
+    ],
+    "artists": [
+      "Hanna Svirska"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b371ddd47577228dbf1f0d9c",
     "releaseDate": "2023-10-20",
     "title": "Zabuttya",
     "totalTracks": 4,
     "type": "single",
-    "url": "https://open.spotify.com/album/5xfdXkKlBeIjANbxIVD8Mg",
+    "url": "https://open.spotify.com/album/5xfdXkKlBeIjANbxIVD8Mg"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:46:06.039Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Hanna Svirska"],
+    ],
+    "artists": [
+      "Hanna Svirska"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27338d2ed3c9dfe908a40a6ab85",
     "releaseDate": "2023-05-26",
     "title": "Yangola",
     "totalTracks": 5,
     "type": "single",
-    "url": "https://open.spotify.com/album/1ZZpJVWAADqYESrzW9G1pF",
+    "url": "https://open.spotify.com/album/1ZZpJVWAADqYESrzW9G1pF"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:46:06.039Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Hanna Svirska"],
+    ],
+    "artists": [
+      "Hanna Svirska"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b0f4b2c25557ae72837ac5d1",
     "releaseDate": "2023-05-04",
     "title": "Vesnianka",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1E01eN2GcxXyAS86DoSJ5P",
+    "url": "https://open.spotify.com/album/1E01eN2GcxXyAS86DoSJ5P"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:46:06.039Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Hanna Svirska"],
+    ],
+    "artists": [
+      "Hanna Svirska"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732f9b1ee7f5af38bc45f03fab",
     "releaseDate": "2022-12-06",
     "title": "Chornyi Zvir",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2hAh8f2OMjTL8exu267HHr",
+    "url": "https://open.spotify.com/album/2hAh8f2OMjTL8exu267HHr"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:46:06.039Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Hanna Svirska"],
+    ],
+    "artists": [
+      "Hanna Svirska"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27365e8319066139b190302b9f4",
     "releaseDate": "2022-07-15",
     "title": "Echo",
     "totalTracks": 3,
     "type": "single",
-    "url": "https://open.spotify.com/album/1UjbWJkJgHYyDcNzmooa7X",
+    "url": "https://open.spotify.com/album/1UjbWJkJgHYyDcNzmooa7X"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:46:06.039Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Hanna Svirska"],
+    ],
+    "artists": [
+      "Hanna Svirska"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e75236266f945b26e3bc313a",
     "releaseDate": "2021-11-30",
     "title": "Shepit",
     "totalTracks": 6,
     "type": "single",
-    "url": "https://open.spotify.com/album/19i091Kynh9hsZfKhqww5a",
+    "url": "https://open.spotify.com/album/19i091Kynh9hsZfKhqww5a"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:46:06.039Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Hanna Svirska"],
+    ],
+    "artists": [
+      "Hanna Svirska"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27317f5209461af195be4ba6938",
     "releaseDate": "2021-11-26",
     "title": "Inshe",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/57jW3SFPPN8PMsjObzijD7",
+    "url": "https://open.spotify.com/album/57jW3SFPPN8PMsjObzijD7"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:46:06.039Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Hanna Svirska"],
+    ],
+    "artists": [
+      "Hanna Svirska"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273157bfd0604b6ef8cd55cb2d1",
     "releaseDate": "2021-05-31",
     "title": "Save Yourself",
     "totalTracks": 2,
     "type": "single",
-    "url": "https://open.spotify.com/album/2iIs5yNIKkmtGil8luOuli",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T09:46:06.039Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/2iIs5yNIKkmtGil8luOuli"
   }
 ]

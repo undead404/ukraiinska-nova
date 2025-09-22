@@ -1,50 +1,56 @@
 [
   {
-    "artists": ["Перкалаба"],
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:26:36.217Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Перкалаба"
+    ],
     "artistsPopularity": 3,
-    "title": "Навіки!",
-    "releaseDate": "2024-05-21",
-    "type": "album",
-    "totalTracks": 13,
-    "url": "https://open.spotify.com/album/5PqXCenegv5qi70No0ztZA",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733b59d007980c0bd2750489aa",
+    "releaseDate": "2024-05-21",
+    "title": "Навіки!",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5PqXCenegv5qi70No0ztZA"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:36.217Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Пенсія"],
+    ],
+    "artists": [
+      "Пенсія"
+    ],
     "artistsPopularity": 2,
-    "title": "Цікавить воскресіння!",
-    "releaseDate": "2024-09-13",
-    "type": "album",
-    "totalTracks": 7,
-    "url": "https://open.spotify.com/album/3r5qo3UZzIkmO3Q69xtW9d",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27330c433f3dc3e7f9c57d47273",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T13:26:36.217Z",
-        "type": "FOUND"
-      }
-    ]
+    "releaseDate": "2024-09-13",
+    "title": "Цікавить воскресіння!",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3r5qo3UZzIkmO3Q69xtW9d"
   },
   {
-    "artists": ["Пенсія"],
-    "artistsPopularity": 2,
-    "title": "Франківське танго",
-    "releaseDate": "2024-08-11",
-    "type": "album",
-    "totalTracks": 7,
-    "url": "https://open.spotify.com/album/7wTwUKFp1iKU7kCv6OTrIY",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27348e44dba67e5d364cee2c58a",
     "appearanceLog": [
       {
         "time": "2025-09-16T13:26:36.217Z",
         "type": "FOUND"
       }
-    ]
+    ],
+    "artists": [
+      "Пенсія"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27348e44dba67e5d364cee2c58a",
+    "releaseDate": "2024-08-11",
+    "title": "Франківське танго",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7wTwUKFp1iKU7kCv6OTrIY"
   }
 ]

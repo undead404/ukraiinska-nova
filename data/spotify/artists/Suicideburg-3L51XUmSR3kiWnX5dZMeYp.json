@@ -1,0 +1,38 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T22:26:16.304Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Suicideburg"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27331c4a5f3b6e831b83128fd79",
+    "releaseDate": "2022-10-27",
+    "title": "У німому очікуванні...",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2sZe1jf8JeQQUOoyKZt0bV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T22:26:16.304Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Suicideburg"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a2aafeb818eb00237ebac177",
+    "releaseDate": "2023-07-07",
+    "title": "Rakurs Records Live",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4kUUjFiEeoSuUIVszSEso4"
+  }
+]

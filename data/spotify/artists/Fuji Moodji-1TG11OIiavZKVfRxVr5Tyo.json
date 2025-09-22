@@ -1,178 +1,201 @@
 [
   {
-    "artists": ["Fuji Moodji"],
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:46:01.957Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Fuji Moodji"
+    ],
     "artistsPopularity": 12,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732229f595b023af0f9adc14f0",
     "releaseDate": "2025-06-06",
     "title": "Morpheus",
     "totalTracks": 12,
     "type": "album",
-    "url": "https://open.spotify.com/album/6sED5SXBV2PaDSU55BNnyL",
+    "url": "https://open.spotify.com/album/6sED5SXBV2PaDSU55BNnyL"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:46:01.957Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Fuji Moodji"],
+    ],
+    "artists": [
+      "Fuji Moodji"
+    ],
     "artistsPopularity": 12,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731371239807d044a30363b24b",
     "releaseDate": "2022-09-22",
     "title": "Joban",
     "totalTracks": 13,
     "type": "album",
-    "url": "https://open.spotify.com/album/0Ez5bt26ZkUlZ1fSJEC4P7",
+    "url": "https://open.spotify.com/album/0Ez5bt26ZkUlZ1fSJEC4P7"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:46:01.957Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Fuji Moodji"],
+    ],
+    "artists": [
+      "Fuji Moodji"
+    ],
     "artistsPopularity": 12,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ba3087b43fe495075959f392",
     "releaseDate": "2025-05-16",
     "title": "Clark",
     "totalTracks": 5,
     "type": "single",
-    "url": "https://open.spotify.com/album/3a4BFQQYMC6MxJyn2ePM1d",
+    "url": "https://open.spotify.com/album/3a4BFQQYMC6MxJyn2ePM1d"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:46:01.957Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Fuji Moodji"],
+    ],
+    "artists": [
+      "Fuji Moodji"
+    ],
     "artistsPopularity": 12,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734acffd954d39bf0009eaa654",
     "releaseDate": "2025-05-02",
     "title": "Norush",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3JGRpzsQ5ujqE2i7okB3A7",
+    "url": "https://open.spotify.com/album/3JGRpzsQ5ujqE2i7okB3A7"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:46:01.957Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Fuji Moodji"],
+    ],
+    "artists": [
+      "Fuji Moodji"
+    ],
     "artistsPopularity": 12,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273059ee819512f7a65af00acc2",
     "releaseDate": "2025-04-04",
     "title": "Mist",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3zwn8i40Td2HO8EMM27YqV",
+    "url": "https://open.spotify.com/album/3zwn8i40Td2HO8EMM27YqV"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:46:01.957Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Fuji Moodji"],
+    ],
+    "artists": [
+      "Fuji Moodji"
+    ],
     "artistsPopularity": 12,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bf3ad6aeeb8d2b48a140db5f",
     "releaseDate": "2024-10-04",
     "title": "Ulamok",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2eUNPft2luNCUP0AFPfbPh",
+    "url": "https://open.spotify.com/album/2eUNPft2luNCUP0AFPfbPh"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:46:01.957Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Fuji Moodji"],
+    ],
+    "artists": [
+      "Fuji Moodji"
+    ],
     "artistsPopularity": 12,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dd54d868bf7abb643ca1f7f4",
     "releaseDate": "2024-08-16",
     "title": "Cumcvat Dive Pound",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2GLoRCAcKRvT06gPsfYvBQ",
+    "url": "https://open.spotify.com/album/2GLoRCAcKRvT06gPsfYvBQ"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:46:01.957Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Sklyane oko", "Fuji Moodji"],
+    ],
+    "artists": [
+      "Sklyane oko",
+      "Fuji Moodji"
+    ],
     "artistsPopularity": 12,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735692f05dd2b7de9188c7e188",
     "releaseDate": "2024-07-05",
     "title": "Ikigai",
     "totalTracks": 2,
     "type": "single",
-    "url": "https://open.spotify.com/album/1TI5WEXtpFdWL4qQseGmi1",
+    "url": "https://open.spotify.com/album/1TI5WEXtpFdWL4qQseGmi1"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:46:01.957Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Fuji Moodji"],
+    ],
+    "artists": [
+      "Fuji Moodji"
+    ],
     "artistsPopularity": 12,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273853375a204e8994d80682da1",
     "releaseDate": "2023-12-01",
     "title": "НИНІ",
     "totalTracks": 4,
     "type": "single",
-    "url": "https://open.spotify.com/album/3RJIiesCotyWfhUcSKjYfE",
+    "url": "https://open.spotify.com/album/3RJIiesCotyWfhUcSKjYfE"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:46:01.957Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Fuji Moodji"],
+    ],
+    "artists": [
+      "Fuji Moodji"
+    ],
     "artistsPopularity": 12,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273133313ea369b2ff0ef407ad5",
     "releaseDate": "2023-07-22",
     "title": "Уліс",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1lsi4iSu5fPWRGFQBGbBuQ",
+    "url": "https://open.spotify.com/album/1lsi4iSu5fPWRGFQBGbBuQ"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:46:01.957Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Fuji Moodji"],
+    ],
+    "artists": [
+      "Fuji Moodji"
+    ],
     "artistsPopularity": 12,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273db3ea5289b202981eaf4cfd5",
     "releaseDate": "2023-06-24",
     "title": "Huis clos",
     "totalTracks": 2,
     "type": "single",
-    "url": "https://open.spotify.com/album/6PYigMibmXAPLN8brvDhzu",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T09:46:01.957Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/6PYigMibmXAPLN8brvDhzu"
   }
 ]

@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:01:58.862Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": ["Листопад 2007"],
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27337f19b315206563628fede65",
@@ -7,15 +13,15 @@
     "title": "гольфстрім",
     "totalTracks": 5,
     "type": "single",
-    "url": "https://open.spotify.com/album/1yQZDSDPdg5gb25DDIKwNd",
+    "url": "https://open.spotify.com/album/1yQZDSDPdg5gb25DDIKwNd"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:58.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Листопад 2007"],
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c8c109cff549eefde2421016",
@@ -23,15 +29,15 @@
     "title": "aware punk99",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5r6l9J6OT0KVg22IWs7T7e",
+    "url": "https://open.spotify.com/album/5r6l9J6OT0KVg22IWs7T7e"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:58.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Листопад 2007"],
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d207e987bfc55c25ba6f7546",
@@ -39,15 +45,15 @@
     "title": "тільки на балконі",
     "totalTracks": 2,
     "type": "single",
-    "url": "https://open.spotify.com/album/6wVBtAxaQGX2eCDhywpBSw",
+    "url": "https://open.spotify.com/album/6wVBtAxaQGX2eCDhywpBSw"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:58.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Листопад 2007"],
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fab3c974172621afc6703ae3",
@@ -55,15 +61,15 @@
     "title": "дріппі парадігма",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0ZgES2Exm2oMWZPHiq4vRL",
+    "url": "https://open.spotify.com/album/0ZgES2Exm2oMWZPHiq4vRL"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:58.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Листопад 2007"],
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b6f10bb43900e9baeb971240",
@@ -71,15 +77,15 @@
     "title": "вітя кастети",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1L9o1NHH6ZBFmDb2IkFymN",
+    "url": "https://open.spotify.com/album/1L9o1NHH6ZBFmDb2IkFymN"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:58.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["Листопад 2007"],
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736bae79ba56a9d977becdf6e7",
@@ -87,15 +93,15 @@
     "title": "там де нуль",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5b7bySgJevzLsqiKIS5ucU",
+    "url": "https://open.spotify.com/album/5b7bySgJevzLsqiKIS5ucU"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:01:58.862Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["nnolly"],
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d2ed72f11f0a4ed673534445",
@@ -103,12 +109,6 @@
     "title": "неможу",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4Tunvcw24VDAZUPzOYEME6",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:01:58.862Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/4Tunvcw24VDAZUPzOYEME6"
   }
 ]

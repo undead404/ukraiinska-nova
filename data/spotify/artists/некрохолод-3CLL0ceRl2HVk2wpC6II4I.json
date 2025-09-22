@@ -1,130 +1,146 @@
 [
   {
-    "artists": ["некрохолод"],
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:02:22.612Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "некрохолод"
+    ],
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a13fe663c140e15eddee29a3",
     "releaseDate": "2025-07-31",
     "title": "Terminal sound",
     "totalTracks": 7,
     "type": "album",
-    "url": "https://open.spotify.com/album/0K2IUqnZFd30X6yzo9F1Lu",
+    "url": "https://open.spotify.com/album/0K2IUqnZFd30X6yzo9F1Lu"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:22.612Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["некрохолод"],
+    ],
+    "artists": [
+      "некрохолод"
+    ],
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732576beb0fe9e84d5aecb28e5",
     "releaseDate": "2025-06-18",
     "title": "Und Lebenden, und Toten, und Wiedergeborenen",
     "totalTracks": 8,
     "type": "album",
-    "url": "https://open.spotify.com/album/3vKCV76HG9arkGH8FmuM9R",
+    "url": "https://open.spotify.com/album/3vKCV76HG9arkGH8FmuM9R"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:22.612Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["некрохолод"],
+    ],
+    "artists": [
+      "некрохолод"
+    ],
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d3987b0cb616733e59fa4d82",
     "releaseDate": "2024-06-07",
     "title": "Fragments of Edward Munch's \"The sick girl\"",
     "totalTracks": 10,
     "type": "album",
-    "url": "https://open.spotify.com/album/7DQYVQiJDihR0ebxbPIe5m",
+    "url": "https://open.spotify.com/album/7DQYVQiJDihR0ebxbPIe5m"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:22.612Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["некрохолод"],
+    ],
+    "artists": [
+      "некрохолод"
+    ],
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a746591766ead43e2fd3fcfd",
     "releaseDate": "2024-03-02",
     "title": "elegy of faded glass eyes",
     "totalTracks": 12,
     "type": "album",
-    "url": "https://open.spotify.com/album/0Q05EoQL9Z8BhVxSN2zJA8",
+    "url": "https://open.spotify.com/album/0Q05EoQL9Z8BhVxSN2zJA8"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:22.612Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["некрохолод"],
+    ],
+    "artists": [
+      "некрохолод"
+    ],
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e466eb8e594f8d126e344165",
     "releaseDate": "2025-05-07",
     "title": "More terrifying than the fear of death is the absence of fear before it.",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3kLlzeqRO7AfJSZ0PEICgZ",
+    "url": "https://open.spotify.com/album/3kLlzeqRO7AfJSZ0PEICgZ"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:22.612Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["некрохолод"],
+    ],
+    "artists": [
+      "некрохолод"
+    ],
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735e04bbdf8c12a11b06536afd",
     "releaseDate": "2025-01-11",
     "title": "On the other side of the north",
     "totalTracks": 4,
     "type": "single",
-    "url": "https://open.spotify.com/album/6tJogbWlDL51iTTqDNDojt",
+    "url": "https://open.spotify.com/album/6tJogbWlDL51iTTqDNDojt"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:22.612Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["некрохолод"],
+    ],
+    "artists": [
+      "некрохолод"
+    ],
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273192dd2fd978f7ba18ab38947",
     "releaseDate": "2024-12-01",
     "title": "∅f Λll",
     "totalTracks": 5,
     "type": "single",
-    "url": "https://open.spotify.com/album/3DJCYZrQHOmDtLUfouaZ9R",
+    "url": "https://open.spotify.com/album/3DJCYZrQHOmDtLUfouaZ9R"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:22.612Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["некрохолод"],
+    ],
+    "artists": [
+      "некрохолод"
+    ],
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f6ae26a4cfcf3db75b589fd0",
     "releaseDate": "2023-06-23",
     "title": "Resurrection in Dreams",
     "totalTracks": 6,
     "type": "single",
-    "url": "https://open.spotify.com/album/42ioU7Kztoy1pdJECiWCSq",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:02:22.612Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/42ioU7Kztoy1pdJECiWCSq"
   }
 ]

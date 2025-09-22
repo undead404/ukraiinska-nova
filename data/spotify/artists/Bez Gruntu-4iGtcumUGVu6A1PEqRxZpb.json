@@ -1,0 +1,38 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T22:23:36.062Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Bez Gruntu"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737c84528f58e0788cc79024f9",
+    "releaseDate": "2024-11-30",
+    "title": "ty i toboiu",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6DQyTSRGrQSr5zfpNOUi1d"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T22:23:36.062Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Bez Gruntu"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736d864fee395727f22daa3f6d",
+    "releaseDate": "2023-06-18",
+    "title": "Bez Gruntu",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5thaXiWJU29nIkGrl5eKrZ"
+  }
+]

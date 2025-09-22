@@ -1,18 +1,20 @@
 [
   {
-    "artists": ["Новимний Кудень"],
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:02:38.899Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Новимний Кудень"
+    ],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27349871508d055efcf46f2f79d",
     "releaseDate": "2022-08-16",
     "title": "Український щит",
     "totalTracks": 2,
     "type": "single",
-    "url": "https://open.spotify.com/album/4G2fkvHpJtp3W0U8GEs1ud",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:02:38.899Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/4G2fkvHpJtp3W0U8GEs1ud"
   }
 ]

@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:44:47.220Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": ["АЗІЗА", "гліб співає"],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cf94be84a707fb09c21a6518",
@@ -7,15 +13,15 @@
     "title": "Раз",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4244EBMymiGiKC5glnNldD",
+    "url": "https://open.spotify.com/album/4244EBMymiGiKC5glnNldD"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:44:47.220Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["гліб співає"],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27385512c5fa45b8117ef3104c4",
@@ -23,15 +29,15 @@
     "title": "квітень",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4pC9tJcmxjY2n5qSAsxbVg",
+    "url": "https://open.spotify.com/album/4pC9tJcmxjY2n5qSAsxbVg"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:44:47.220Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["гліб співає"],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27355d671b5f5aa9e538e6ff361",
@@ -39,15 +45,15 @@
     "title": "додому",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2BsEUlKRrtQwT5GkPErUR0",
+    "url": "https://open.spotify.com/album/2BsEUlKRrtQwT5GkPErUR0"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:44:47.220Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["гліб співає"],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273de2738664348d8ff9db66766",
@@ -55,15 +61,15 @@
     "title": "для інших",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/13UghKdHhrjQJCJLNsn4Ir",
+    "url": "https://open.spotify.com/album/13UghKdHhrjQJCJLNsn4Ir"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:44:47.220Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["гліб співає"],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732e8e6515da7ffde980e1e36c",
@@ -71,15 +77,15 @@
     "title": "щастя любить тишу",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/7nrLMPBmCeOj3c9P5BJLVY",
+    "url": "https://open.spotify.com/album/7nrLMPBmCeOj3c9P5BJLVY"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:44:47.220Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["гліб співає", "Після Дощу"],
     "artistsPopularity": 31,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273016d4b4050e88025209f8c26",
@@ -87,15 +93,15 @@
     "title": "тут і зараз",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1j4xbtE9KKKyRLPh7MZdfH",
+    "url": "https://open.spotify.com/album/1j4xbtE9KKKyRLPh7MZdfH"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:44:47.220Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["гліб співає"],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734eacf35559623aea5ec3a7ee",
@@ -103,15 +109,15 @@
     "title": "дорослий",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2gpSg6KCAAM9jjDp6Cu9it",
+    "url": "https://open.spotify.com/album/2gpSg6KCAAM9jjDp6Cu9it"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:44:47.220Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["гліб співає"],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d4c14847e64da896a03cdd0a",
@@ -119,15 +125,15 @@
     "title": "паралельний всесвіт",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1Jf9hupsY2IODwZKqNR8GM",
+    "url": "https://open.spotify.com/album/1Jf9hupsY2IODwZKqNR8GM"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:44:47.220Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["гліб співає"],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e646b42e73e9b864847e7b12",
@@ -135,15 +141,15 @@
     "title": "двері зачиняються",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/7wwIeGaRj0KY5dNTfehAuc",
+    "url": "https://open.spotify.com/album/7wwIeGaRj0KY5dNTfehAuc"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:44:47.220Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["гліб співає"],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e495c0cdc9176968b0d73da8",
@@ -151,12 +157,6 @@
     "title": "немає друзів",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5CSmZxdVXoT00rp6MJz6G8",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T09:44:47.220Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/5CSmZxdVXoT00rp6MJz6G8"
   }
 ]

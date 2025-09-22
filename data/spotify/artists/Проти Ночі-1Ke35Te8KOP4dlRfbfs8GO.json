@@ -1,0 +1,92 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:24:04.322Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Проти Ночі"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27347d43364ec6a15b97f95d51a",
+    "releaseDate": "2024-03-22",
+    "title": "Усе, що треба",
+    "totalTracks": 14,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7aRs1vwBqws8jK8Xv61feU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:24:04.322Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Проти Ночі"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739b1328ab778746a35e78d214",
+    "releaseDate": "2018-03-18",
+    "title": "Тихо",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4jGomcFqnlMZ1p1GkJYD4m"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:24:04.322Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Проти Ночі"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273001498b84c127f5261c0a3b4",
+    "releaseDate": "2011-03-01",
+    "title": "Вмикай!",
+    "totalTracks": 14,
+    "type": "album",
+    "url": "https://open.spotify.com/album/28lMVQmtMjuC1lwcrjZV3f"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:24:04.322Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Проти Ночі"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c48b9affbb89d0427721b06e",
+    "releaseDate": "2025-04-21",
+    "title": "Знов",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5DtwwxDqQvl18h63T53mxh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T16:24:04.322Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Проти Ночі"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739e7213d1d3eeb7de89fbbb87",
+    "releaseDate": "2020-12-05",
+    "title": "Добре без тебе",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/00xCjpv2Rf3pdysrBt1chT"
+  }
+]

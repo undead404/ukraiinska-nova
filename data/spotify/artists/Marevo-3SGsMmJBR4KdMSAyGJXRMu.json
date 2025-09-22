@@ -1,0 +1,92 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T18:27:41.214Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Marevo"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738f24ee739bccc14458616dca",
+    "releaseDate": "2016-03-01",
+    "title": "Marevo",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3hveOSu3hGEVaPRAejQNHu"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T18:27:41.214Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Marevo"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730695977d3afb827fd8ea1b2d",
+    "releaseDate": "2022-05-04",
+    "title": "Белая птица",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2ceqyQKnGFkCGgK1xx9sDV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T18:27:41.214Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Marevo"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735331223d0a83e1b7a950783a",
+    "releaseDate": "2022-04-28",
+    "title": "Бессердечная",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/58RWwmiwp0E3DlVTmwlKEh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T18:27:41.214Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Marevo"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27380f2edea9acba722687c4920",
+    "releaseDate": "2021-12-03",
+    "title": "Каменное сердце",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1gzUOi0B5S2jv2dSrQjCdN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T18:27:41.214Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Marevo"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27333801464546f89e56bd6e8c0",
+    "releaseDate": "2019-09-05",
+    "title": "Бессилие",
+    "totalTracks": 7,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4oo0dOPsmn9QmmEPprgB0N"
+  }
+]

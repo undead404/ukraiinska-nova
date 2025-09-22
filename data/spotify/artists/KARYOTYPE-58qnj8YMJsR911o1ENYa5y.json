@@ -1,242 +1,275 @@
 [
   {
-    "artists": ["KARYOTYPE"],
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:52:39.018Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KARYOTYPE"
+    ],
     "artistsPopularity": 8,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c29131c6bd68e721c8234c48",
     "releaseDate": "2024-12-19",
     "title": "Мене це більше не стримує",
     "totalTracks": 10,
     "type": "album",
-    "url": "https://open.spotify.com/album/77idXyZUXRJrzWl3c1dT6M",
+    "url": "https://open.spotify.com/album/77idXyZUXRJrzWl3c1dT6M"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:52:39.018Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["KARYOTYPE", "Ян Когут", "на її основі"],
+    ],
+    "artists": [
+      "KARYOTYPE",
+      "Ян Когут",
+      "на її основі"
+    ],
     "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739edb1a52e48329646f3ba71a",
     "releaseDate": "2025-09-12",
     "title": "Знебарвлені думки",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4MmX8gTxyFDPr2MMAA9tfS",
+    "url": "https://open.spotify.com/album/4MmX8gTxyFDPr2MMAA9tfS"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:52:39.018Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["KARYOTYPE"],
+    ],
+    "artists": [
+      "KARYOTYPE"
+    ],
     "artistsPopularity": 8,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736506fea55531fcafc9986bb5",
     "releaseDate": "2025-06-12",
     "title": "5 Нових Стихій",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4wLPCxN6mUAoifPSSfP5NM",
+    "url": "https://open.spotify.com/album/4wLPCxN6mUAoifPSSfP5NM"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:52:39.018Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["KARYOTYPE"],
+    ],
+    "artists": [
+      "KARYOTYPE"
+    ],
     "artistsPopularity": 8,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cd69abfa1a606511ca12f9b4",
     "releaseDate": "2024-09-26",
     "title": "Відображення",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/031DNkDAk40SoCeoSKxD0W",
+    "url": "https://open.spotify.com/album/031DNkDAk40SoCeoSKxD0W"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:52:39.018Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["KARYOTYPE"],
+    ],
+    "artists": [
+      "KARYOTYPE"
+    ],
     "artistsPopularity": 8,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c2ec9b6f8feb3ab7cbeba0fb",
     "releaseDate": "2024-08-29",
     "title": "Втеча",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/6pNM4HGts8aJ4h4bNSAf15",
+    "url": "https://open.spotify.com/album/6pNM4HGts8aJ4h4bNSAf15"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:52:39.018Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["KARYOTYPE"],
+    ],
+    "artists": [
+      "KARYOTYPE"
+    ],
     "artistsPopularity": 8,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27386fb41a18e2a9ae3d3412630",
     "releaseDate": "2024-08-08",
     "title": "X-ray",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0L29241e9Pj2qrx5iwGefH",
+    "url": "https://open.spotify.com/album/0L29241e9Pj2qrx5iwGefH"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:52:39.018Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["KARYOTYPE"],
+    ],
+    "artists": [
+      "KARYOTYPE"
+    ],
     "artistsPopularity": 8,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27372c4a1e1784ecc8f8bbd6e20",
     "releaseDate": "2024-05-30",
     "title": "Локомотиви",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/6Iq4dmmLUudsVG36UNbr56",
+    "url": "https://open.spotify.com/album/6Iq4dmmLUudsVG36UNbr56"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:52:39.018Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["KARYOTYPE"],
+    ],
+    "artists": [
+      "KARYOTYPE"
+    ],
     "artistsPopularity": 8,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ae9a7a1a8e97b870e5274562",
     "releaseDate": "2024-04-25",
     "title": "Весно",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2UyhZucRkvvY7DPij2oZXS",
+    "url": "https://open.spotify.com/album/2UyhZucRkvvY7DPij2oZXS"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:52:39.018Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Гошуля", "KARYOTYPE"],
+    ],
+    "artists": [
+      "Гошуля",
+      "KARYOTYPE"
+    ],
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739f206d4830b9c1f430541aa4",
     "releaseDate": "2023-12-30",
     "title": "Спрага",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4QqeJGGi1eW8JpyRE1cm1j",
+    "url": "https://open.spotify.com/album/4QqeJGGi1eW8JpyRE1cm1j"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:52:39.018Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["KARYOTYPE"],
+    ],
+    "artists": [
+      "KARYOTYPE"
+    ],
     "artistsPopularity": 8,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fa1ea01ccb94928d999798dd",
     "releaseDate": "2023-12-14",
     "title": "Sadness",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/6XrpXyx33kworUkvhGmzsR",
+    "url": "https://open.spotify.com/album/6XrpXyx33kworUkvhGmzsR"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:52:39.018Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["KARYOTYPE"],
+    ],
+    "artists": [
+      "KARYOTYPE"
+    ],
     "artistsPopularity": 8,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bfebc6108f89045f88d49f97",
     "releaseDate": "2023-11-24",
     "title": "100 років самотності",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5iw0lYqG6I664DDsrPTLSb",
+    "url": "https://open.spotify.com/album/5iw0lYqG6I664DDsrPTLSb"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:52:39.018Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["KARYOTYPE"],
+    ],
+    "artists": [
+      "KARYOTYPE"
+    ],
     "artistsPopularity": 8,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b7b3f2ff31ad73543824cb6c",
     "releaseDate": "2023-09-01",
     "title": "Водевіль",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/6CABgfouP7Meo1diq1hkYv",
+    "url": "https://open.spotify.com/album/6CABgfouP7Meo1diq1hkYv"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:52:39.018Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["KARYOTYPE"],
+    ],
+    "artists": [
+      "KARYOTYPE"
+    ],
     "artistsPopularity": 8,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fa1ac68e0f6b3ec882cab7eb",
     "releaseDate": "2022-09-09",
     "title": "Це мій Нескінерезень (Piano Version)",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/143FthJOb7bOVQUCxQEbA5",
+    "url": "https://open.spotify.com/album/143FthJOb7bOVQUCxQEbA5"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:52:39.018Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["KARYOTYPE"],
+    ],
+    "artists": [
+      "KARYOTYPE"
+    ],
     "artistsPopularity": 8,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27368aa01704c8369a84801f582",
     "releaseDate": "2022-07-29",
     "title": "Це мій Нескінерезень",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/71KfFQ8xGebZeztz69lfGX",
+    "url": "https://open.spotify.com/album/71KfFQ8xGebZeztz69lfGX"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:52:39.018Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["на її основі"],
+    ],
+    "artists": [
+      "на її основі"
+    ],
     "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734a288f0d19e78a8dd3a6b359",
     "releaseDate": "2025-09-12",
     "title": "За її лаштунками, Vol. 3",
     "totalTracks": 5,
     "type": "single",
-    "url": "https://open.spotify.com/album/2MHxLMtc6pKp3KJxxv8ZIj",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:52:39.018Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/2MHxLMtc6pKp3KJxxv8ZIj"
   }
 ]

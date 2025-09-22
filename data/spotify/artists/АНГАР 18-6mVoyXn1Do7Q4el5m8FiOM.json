@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:29.412Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": ["АНГАР 18"],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735f85edff43c6cea1af8759d0",
@@ -7,15 +13,15 @@
     "title": "Когда спящий проснётся",
     "totalTracks": 14,
     "type": "album",
-    "url": "https://open.spotify.com/album/2XLFeOafSMlUPEkD4vDYsa",
+    "url": "https://open.spotify.com/album/2XLFeOafSMlUPEkD4vDYsa"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:29.412Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["АНГАР 18"],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c0ce255f4f88f12eab356b5c",
@@ -23,15 +29,15 @@
     "title": "Только Я",
     "totalTracks": 13,
     "type": "album",
-    "url": "https://open.spotify.com/album/7lhBoeuxTAY2YUILS5UEVM",
+    "url": "https://open.spotify.com/album/7lhBoeuxTAY2YUILS5UEVM"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:29.412Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["АНГАР 18", "Hellfire Sox"],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27316c475b46678576d0e2f4de7",
@@ -39,15 +45,15 @@
     "title": "The Mess",
     "totalTracks": 4,
     "type": "single",
-    "url": "https://open.spotify.com/album/1cM1CgkpVBEqUsQ5ACcIBJ",
+    "url": "https://open.spotify.com/album/1cM1CgkpVBEqUsQ5ACcIBJ"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:29.412Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["АНГАР 18"],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730c95a847f5c8bb4eed3d2ac8",
@@ -55,15 +61,15 @@
     "title": "Кукла Вуду",
     "totalTracks": 5,
     "type": "single",
-    "url": "https://open.spotify.com/album/3XKIIQDCbs485dCJn43xeL",
+    "url": "https://open.spotify.com/album/3XKIIQDCbs485dCJn43xeL"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T08:19:29.412Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["АНГАР 18"],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735e7a3e6cd51e0c9ea7cc8377",
@@ -71,12 +77,6 @@
     "title": "Невидимый фронт",
     "totalTracks": 4,
     "type": "single",
-    "url": "https://open.spotify.com/album/2uHf0GrzTrvaSj9a5h3mKL",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T08:19:29.412Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/2uHf0GrzTrvaSj9a5h3mKL"
   }
 ]

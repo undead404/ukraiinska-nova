@@ -1,114 +1,128 @@
 [
   {
-    "artists": ["Shamrocks"],
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T10:24:45.101Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Shamrocks"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d10e7edfb15cd903860c28d9",
     "releaseDate": "2020-09-17",
     "title": "FCP Live",
     "totalTracks": 13,
     "type": "album",
-    "url": "https://open.spotify.com/album/18mI0KPLxflXQ0hMa0NQVM",
+    "url": "https://open.spotify.com/album/18mI0KPLxflXQ0hMa0NQVM"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:45.101Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Shamrocks"],
+    ],
+    "artists": [
+      "Shamrocks"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27310d24cc29dee93d2b214f5df",
     "releaseDate": "2024-10-07",
     "title": "Native Land",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1z5UyRaddltbCPKtNTMi9M",
+    "url": "https://open.spotify.com/album/1z5UyRaddltbCPKtNTMi9M"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:45.101Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Shamrocks"],
+    ],
+    "artists": [
+      "Shamrocks"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f8ef3e36dd91a967af5e5adf",
     "releaseDate": "2022-03-12",
     "title": "Go On Home Russian Soldiers",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4DD3ZbwkVKXnEDTO1O9wWo",
+    "url": "https://open.spotify.com/album/4DD3ZbwkVKXnEDTO1O9wWo"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:45.101Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Shamrocks"],
+    ],
+    "artists": [
+      "Shamrocks"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27302351d4183213329f8c40c48",
     "releaseDate": "2021-07-23",
     "title": "Punk Nation",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3UVuso0jd6mu4sKRepokSc",
+    "url": "https://open.spotify.com/album/3UVuso0jd6mu4sKRepokSc"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:45.101Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Shamrocks"],
+    ],
+    "artists": [
+      "Shamrocks"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27337ae69839c5668bf85dfab05",
     "releaseDate": "2019-07-24",
     "title": "Kiltartan Cross (In Ukrainian)",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/00TMynHDQHEarGsKrBLMl3",
+    "url": "https://open.spotify.com/album/00TMynHDQHEarGsKrBLMl3"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:45.101Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Shamrocks"],
+    ],
+    "artists": [
+      "Shamrocks"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f63174a18e627f9c17df8f54",
     "releaseDate": "2019-06-24",
     "title": "Моллі мелоун",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/113UwcTV6kr78IyFMi1EaU",
+    "url": "https://open.spotify.com/album/113UwcTV6kr78IyFMi1EaU"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T10:24:45.101Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Shamrocks"],
+    ],
+    "artists": [
+      "Shamrocks"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27335d7f45cc5e971c6ca3964ce",
     "releaseDate": "2018-12-29",
     "title": "Ye Olde Chariot",
     "totalTracks": 5,
     "type": "single",
-    "url": "https://open.spotify.com/album/62i6IfwZDkHNt6YoV7363Y",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T10:24:45.101Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/62i6IfwZDkHNt6YoV7363Y"
   }
 ]

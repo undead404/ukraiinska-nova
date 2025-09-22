@@ -1,194 +1,218 @@
 [
   {
-    "artists": ["Andrii Kunin"],
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:02:43.923Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Andrii Kunin"
+    ],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e939e6a06115d56d55d40be6",
     "releaseDate": "2024-11-11",
     "title": "Friendly Scanner Mixtape",
     "totalTracks": 14,
     "type": "album",
-    "url": "https://open.spotify.com/album/4KqPyUQcBGE3BgdI1Tny1x",
+    "url": "https://open.spotify.com/album/4KqPyUQcBGE3BgdI1Tny1x"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:43.923Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Andrii Kunin"],
+    ],
+    "artists": [
+      "Andrii Kunin"
+    ],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735ff6099115754a7e74ce0f8b",
     "releaseDate": "2024-03-01",
     "title": "Lost Toys",
     "totalTracks": 13,
     "type": "album",
-    "url": "https://open.spotify.com/album/5U8fh7ELFD0xoyEhFAmnXP",
+    "url": "https://open.spotify.com/album/5U8fh7ELFD0xoyEhFAmnXP"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:43.923Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Andrii Kunin"],
+    ],
+    "artists": [
+      "Andrii Kunin"
+    ],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27306cb60cffc24aa5d98a95fe8",
     "releaseDate": "2022-10-06",
     "title": "Peretyn",
     "totalTracks": 9,
     "type": "album",
-    "url": "https://open.spotify.com/album/62mEeDeH1GDbkHR1tQhUOk",
+    "url": "https://open.spotify.com/album/62mEeDeH1GDbkHR1tQhUOk"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:43.923Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Andrii Kunin"],
+    ],
+    "artists": [
+      "Andrii Kunin"
+    ],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cec3fcd3c1fca32bdf8bfdc3",
     "releaseDate": "2025-08-01",
     "title": "Tumult",
     "totalTracks": 6,
     "type": "single",
-    "url": "https://open.spotify.com/album/0LvkH1XWI2N3Ng7EMEJfXh",
+    "url": "https://open.spotify.com/album/0LvkH1XWI2N3Ng7EMEJfXh"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:43.923Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Andrii Kunin"],
+    ],
+    "artists": [
+      "Andrii Kunin"
+    ],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732508794e0e3584a43c807bc3",
     "releaseDate": "2024-07-02",
     "title": "Strongly Downward",
     "totalTracks": 4,
     "type": "single",
-    "url": "https://open.spotify.com/album/5tGttOqKrFPjbXBVVkdR4l",
+    "url": "https://open.spotify.com/album/5tGttOqKrFPjbXBVVkdR4l"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:43.923Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Andrii Kunin"],
+    ],
+    "artists": [
+      "Andrii Kunin"
+    ],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739eda7e89d8471b14d74bba4a",
     "releaseDate": "2024-06-03",
     "title": "Partial Void",
     "totalTracks": 2,
     "type": "single",
-    "url": "https://open.spotify.com/album/3XW3pYh4HhL2nZUxedy1w2",
+    "url": "https://open.spotify.com/album/3XW3pYh4HhL2nZUxedy1w2"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:43.923Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Andrii Kunin"],
+    ],
+    "artists": [
+      "Andrii Kunin"
+    ],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c16c4a0404d13f3d4f6c82ba",
     "releaseDate": "2024-05-01",
     "title": "Topolya",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4THlkINHjBsjtWhzLKKVty",
+    "url": "https://open.spotify.com/album/4THlkINHjBsjtWhzLKKVty"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:43.923Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Andrii Kunin"],
+    ],
+    "artists": [
+      "Andrii Kunin"
+    ],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27316d84e192e116974c87209d0",
     "releaseDate": "2023-12-01",
     "title": "Nevertheless",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3FZY5NIgWhBYryp9Lkn1fP",
+    "url": "https://open.spotify.com/album/3FZY5NIgWhBYryp9Lkn1fP"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:43.923Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Andrii Kunin"],
+    ],
+    "artists": [
+      "Andrii Kunin"
+    ],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738d7385ef8e2e619d8830eb5d",
     "releaseDate": "2023-03-16",
     "title": "Castanea",
     "totalTracks": 3,
     "type": "single",
-    "url": "https://open.spotify.com/album/5TINsotFqFdsP5UYO0vfCt",
+    "url": "https://open.spotify.com/album/5TINsotFqFdsP5UYO0vfCt"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:43.923Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Andrii Kunin"],
+    ],
+    "artists": [
+      "Andrii Kunin"
+    ],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d7a356ae14d2095e43efe9b7",
     "releaseDate": "2022-12-08",
     "title": "Khymera",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/47BUXksG4FjeXMLs4t8eQJ",
+    "url": "https://open.spotify.com/album/47BUXksG4FjeXMLs4t8eQJ"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:43.923Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Andrii Kunin"],
+    ],
+    "artists": [
+      "Andrii Kunin"
+    ],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273582a67e60860e02b7f6dbe09",
     "releaseDate": "2021-11-18",
     "title": "Mind Plateau",
     "totalTracks": 3,
     "type": "single",
-    "url": "https://open.spotify.com/album/09nip1XlfnAa6PvC0EYXWz",
+    "url": "https://open.spotify.com/album/09nip1XlfnAa6PvC0EYXWz"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:02:43.923Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["58918012"],
+    ],
+    "artists": [
+      "58918012"
+    ],
     "artistsPopularity": 25,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e41d9595f9f42b798741d7ee",
     "releaseDate": "2023-09-15",
     "title": "Distant Frequencies",
     "totalTracks": 9,
     "type": "album",
-    "url": "https://open.spotify.com/album/271sAAdpClLNmNtMGDvJWn",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:02:43.923Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/271sAAdpClLNmNtMGDvJWn"
   }
 ]

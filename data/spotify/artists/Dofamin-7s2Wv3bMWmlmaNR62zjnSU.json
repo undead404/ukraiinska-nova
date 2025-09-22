@@ -1,242 +1,278 @@
 [
   {
-    "artists": ["Dofamin"],
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:51:06.931Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Dofamin"
+    ],
     "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27377023f5912602e51795dc282",
     "releaseDate": "2024-12-06",
     "title": "PSYKHIV",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4FCDuIwbCpLplp8gf9WM2s",
+    "url": "https://open.spotify.com/album/4FCDuIwbCpLplp8gf9WM2s"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:06.931Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Dofamin"],
+    ],
+    "artists": [
+      "Dofamin"
+    ],
     "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273848cdc2359f4a4bf40dce786",
     "releaseDate": "2024-10-25",
     "title": "NATUS VINCERE",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/6TKmooMhHKTOuH60RwdvSa",
+    "url": "https://open.spotify.com/album/6TKmooMhHKTOuH60RwdvSa"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:06.931Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Dofamin", "нестор"],
+    ],
+    "artists": [
+      "Dofamin",
+      "нестор"
+    ],
     "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b68daff80dd3627b01e9a2aa",
     "releaseDate": "2024-08-09",
     "title": "NO DAYS OFF",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0HxWq59rYQZbkO1AbupJEo",
+    "url": "https://open.spotify.com/album/0HxWq59rYQZbkO1AbupJEo"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:06.931Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Dofamin", "CHUPA 12"],
+    ],
+    "artists": [
+      "Dofamin",
+      "CHUPA 12"
+    ],
     "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730186bcf83e5baaf0866ca3ff",
     "releaseDate": "2024-05-31",
     "title": "5 NA 2",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3ys2zOSVHyiz3T3ra1BNP4",
+    "url": "https://open.spotify.com/album/3ys2zOSVHyiz3T3ra1BNP4"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:06.931Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["qBuy", "Dofamin"],
+    ],
+    "artists": [
+      "qBuy",
+      "Dofamin"
+    ],
     "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ccb61edb3296be055100ada9",
     "releaseDate": "2024-04-25",
     "title": "ПОПІЛ",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0qzVaZujKyGwhRLC8xj0yM",
+    "url": "https://open.spotify.com/album/0qzVaZujKyGwhRLC8xj0yM"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:06.931Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Dofamin"],
+    ],
+    "artists": [
+      "Dofamin"
+    ],
     "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731acd1aa17b0aec98db66cdb0",
     "releaseDate": "2024-04-12",
     "title": "GRANDE.",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/20IUmZwLmYhY5UHdlfCZjO",
+    "url": "https://open.spotify.com/album/20IUmZwLmYhY5UHdlfCZjO"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:06.931Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Dofamin"],
+    ],
+    "artists": [
+      "Dofamin"
+    ],
     "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27353ad71795e8b410f8b5001b5",
     "releaseDate": "2024-03-01",
     "title": "TEMPO",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5Kyoj5uF7r4Ov4yxA0qXol",
+    "url": "https://open.spotify.com/album/5Kyoj5uF7r4Ov4yxA0qXol"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:06.931Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Dofamin"],
+    ],
+    "artists": [
+      "Dofamin"
+    ],
     "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d63b38c991555a8eeef026aa",
     "releaseDate": "2023-10-27",
     "title": "DAYTONA",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/5uhSsn4vLNWhtYITGsL4Im",
+    "url": "https://open.spotify.com/album/5uhSsn4vLNWhtYITGsL4Im"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:06.931Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Libenson", "нестор", "Dofamin"],
+    ],
+    "artists": [
+      "Libenson",
+      "нестор",
+      "Dofamin"
+    ],
     "artistsPopularity": 32,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273046406df93e7035d49eca694",
     "releaseDate": "2023-09-15",
     "title": "В ТВОЇХ ДОЛОНЬКАХ",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/6CUzKpemt6u2rneubk8dSO",
+    "url": "https://open.spotify.com/album/6CUzKpemt6u2rneubk8dSO"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:06.931Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Dofamin"],
+    ],
+    "artists": [
+      "Dofamin"
+    ],
     "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732bc6270e79828ef5abe86e47",
     "releaseDate": "2023-05-12",
     "title": "LEMBERGMAN",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2taDXPGOCKaHqQGuY7MYJ9",
+    "url": "https://open.spotify.com/album/2taDXPGOCKaHqQGuY7MYJ9"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:06.931Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Dofamin"],
+    ],
+    "artists": [
+      "Dofamin"
+    ],
     "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f93585319d0a1b7c07c4f85",
     "releaseDate": "2023-01-20",
     "title": "FORWARD",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1nCqRhS3FbJOf4eQetYXSv",
+    "url": "https://open.spotify.com/album/1nCqRhS3FbJOf4eQetYXSv"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:06.931Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Dofamin"],
+    ],
+    "artists": [
+      "Dofamin"
+    ],
     "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273179b747562595734952b120d",
     "releaseDate": "2022-12-09",
     "title": "COLD",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2K39YxiwaukluzcaZeaP5D",
+    "url": "https://open.spotify.com/album/2K39YxiwaukluzcaZeaP5D"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:06.931Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["нестор", "Libenson"],
+    ],
+    "artists": [
+      "нестор",
+      "Libenson"
+    ],
     "artistsPopularity": 32,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c98e69dd7eddef1852652099",
     "releaseDate": "2023-07-21",
     "title": "ВИХОДЯЧИ З КІМНАТИ",
     "totalTracks": 11,
     "type": "album",
-    "url": "https://open.spotify.com/album/6lmeKGoGEQ1pC1J3HZOxRS",
+    "url": "https://open.spotify.com/album/6lmeKGoGEQ1pC1J3HZOxRS"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:06.931Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Libenson"],
+    ],
+    "artists": [
+      "Libenson"
+    ],
     "artistsPopularity": 32,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bcef23a0a1f4e8a51f83b53f",
     "releaseDate": "2023-11-03",
     "title": "Місто Q",
     "totalTracks": 15,
     "type": "album",
-    "url": "https://open.spotify.com/album/4DLh1XgjvxR2PQHkPwdycX",
+    "url": "https://open.spotify.com/album/4DLh1XgjvxR2PQHkPwdycX"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T11:51:06.931Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Libenson"],
+    ],
+    "artists": [
+      "Libenson"
+    ],
     "artistsPopularity": 32,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27331e3e37ad7db582225d98bad",
     "releaseDate": "2023-11-17",
     "title": "Місто Q (Deluxe)",
     "totalTracks": 30,
     "type": "album",
-    "url": "https://open.spotify.com/album/2VvmDnJUqFMRJocyu9l4dm",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T11:51:06.931Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/2VvmDnJUqFMRJocyu9l4dm"
   }
 ]

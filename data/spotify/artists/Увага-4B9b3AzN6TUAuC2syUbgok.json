@@ -1,114 +1,128 @@
 [
   {
-    "artists": ["Увага"],
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:29.135Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Увага"
+    ],
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738ba8c33478cc77c8ecec9e6e",
     "releaseDate": "2024-01-05",
     "title": "Сум'яття",
     "totalTracks": 8,
     "type": "album",
-    "url": "https://open.spotify.com/album/1pTKYsNsEz7tDJgtq1mKPI",
+    "url": "https://open.spotify.com/album/1pTKYsNsEz7tDJgtq1mKPI"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:29.135Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Увага"],
+    ],
+    "artists": [
+      "Увага"
+    ],
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f9b14f505bb469740a5e9f6b",
     "releaseDate": "2025-05-23",
     "title": "Пʼятнадцять плюс три",
     "totalTracks": 3,
     "type": "single",
-    "url": "https://open.spotify.com/album/11TcRYLIjWNdDCACiOK4qn",
+    "url": "https://open.spotify.com/album/11TcRYLIjWNdDCACiOK4qn"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:29.135Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Увага"],
+    ],
+    "artists": [
+      "Увага"
+    ],
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b9738151a1f6d2e2143ac22e",
     "releaseDate": "2023-02-25",
     "title": "Чотири",
     "totalTracks": 4,
     "type": "single",
-    "url": "https://open.spotify.com/album/41Wn0r8SfbMuIeW6TriXGX",
+    "url": "https://open.spotify.com/album/41Wn0r8SfbMuIeW6TriXGX"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:29.135Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Увага"],
+    ],
+    "artists": [
+      "Увага"
+    ],
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736ad09f1f13f601870556ca5c",
     "releaseDate": "2021-10-21",
     "title": "Емоційний розлад",
     "totalTracks": 6,
     "type": "single",
-    "url": "https://open.spotify.com/album/36YGcKCu2J5cse7ZjBrYWm",
+    "url": "https://open.spotify.com/album/36YGcKCu2J5cse7ZjBrYWm"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:29.135Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Увага"],
+    ],
+    "artists": [
+      "Увага"
+    ],
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f81436743211f029da28b537",
     "releaseDate": "2021-01-22",
     "title": "Чмо",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/7EbbRHYB6h25eyUK88QkkR",
+    "url": "https://open.spotify.com/album/7EbbRHYB6h25eyUK88QkkR"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:29.135Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Увага"],
+    ],
+    "artists": [
+      "Увага"
+    ],
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273021c5a15f3bc05ffcecea693",
     "releaseDate": "2020-08-05",
     "title": "Сволота",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4qxKyQFqFprDPXNN1CPrXX",
+    "url": "https://open.spotify.com/album/4qxKyQFqFprDPXNN1CPrXX"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T09:45:29.135Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Увага"],
+    ],
+    "artists": [
+      "Увага"
+    ],
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273058d2894c2152d53d4e59ce8",
     "releaseDate": "2020-08-05",
     "title": "Очевидно",
     "totalTracks": 6,
     "type": "single",
-    "url": "https://open.spotify.com/album/4SsUGpVGtdd3nNPzMIxXq2",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T09:45:29.135Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/4SsUGpVGtdd3nNPzMIxXq2"
   }
 ]

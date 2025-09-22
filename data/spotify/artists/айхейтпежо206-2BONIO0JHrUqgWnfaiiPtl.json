@@ -1,5 +1,11 @@
 [
   {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T10:59:27.292Z",
+        "type": "FOUND"
+      }
+    ],
     "artists": ["айхейтпежо206"],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735ce0ae907790896f23868aa2",
@@ -7,15 +13,15 @@
     "title": "Філігранна екзистенція...",
     "totalTracks": 9,
     "type": "album",
-    "url": "https://open.spotify.com/album/1CNRqmvQi8FIpzKY0kv6mB",
+    "url": "https://open.spotify.com/album/1CNRqmvQi8FIpzKY0kv6mB"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T10:59:27.292Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["айхейтпежо206"],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732d02ee1c3b88d3a8c53e539f",
@@ -23,15 +29,15 @@
     "title": "Майбутнє в твоїй голові",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1cm8SsEUiuN7zPya5LAhkg",
+    "url": "https://open.spotify.com/album/1cm8SsEUiuN7zPya5LAhkg"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T10:59:27.292Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["айхейтпежо206"],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731b9c53a34fae405b067fbf6e",
@@ -39,15 +45,15 @@
     "title": "Не приділяю значення",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1qSSPe5raMgVWyP70ha3eK",
+    "url": "https://open.spotify.com/album/1qSSPe5raMgVWyP70ha3eK"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T10:59:27.292Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["айхейтпежо206"],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27358fad154e71567665c5a9615",
@@ -55,15 +61,15 @@
     "title": "Твої очі",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3o1Re49aIOeglcaXanQDlk",
+    "url": "https://open.spotify.com/album/3o1Re49aIOeglcaXanQDlk"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T10:59:27.292Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["айхейтпежо206"],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735a5dd2c6efad84b0ceac1347",
@@ -71,15 +77,15 @@
     "title": "Кров на асфальті",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/2lSArObICXyFS6ZLtIJeXK",
+    "url": "https://open.spotify.com/album/2lSArObICXyFS6ZLtIJeXK"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T10:59:27.292Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["айхейтпежо206"],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273be2761c4560fde795f02cf3f",
@@ -87,15 +93,15 @@
     "title": "Які ночі",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3fDR48Ozgh6rvR5tOpPHD0",
+    "url": "https://open.spotify.com/album/3fDR48Ozgh6rvR5tOpPHD0"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-16T10:59:27.292Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
+    ],
     "artists": ["HOHLAN"],
     "artistsPopularity": 20,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e4cb42981f5e24483a5761a3",
@@ -103,12 +109,6 @@
     "title": "Ін'єкція болю",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/411uebRnGoGKFvDLthUom6",
-    "appearanceLog": [
-      {
-        "time": "2025-09-16T10:59:27.292Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/411uebRnGoGKFvDLthUom6"
   }
 ]

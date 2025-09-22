@@ -1,18 +1,20 @@
 [
   {
-    "artists": ["Latur"],
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T09:23:46.319Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Latur"
+    ],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273431f544b5d87b7e60edf0199",
     "releaseDate": "2013-06-01",
     "title": "Темні справи",
     "totalTracks": 10,
     "type": "album",
-    "url": "https://open.spotify.com/album/1qOZ7pHOhOCENKowmovnS7",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T09:23:46.319Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/1qOZ7pHOhOCENKowmovnS7"
   }
 ]

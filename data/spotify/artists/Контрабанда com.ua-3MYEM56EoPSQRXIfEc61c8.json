@@ -1,0 +1,56 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T21:22:49.605Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Контрабанда com.ua"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b5200750b2f4b8fbf30aada6",
+    "releaseDate": "2010-08-13",
+    "title": "Пароль: Кохаю",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/46tND0U4HDqjtXWJ88sK0X"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T21:22:49.605Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Контрабанда com.ua"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732093b07b7a0a3f1503ba34e0",
+    "releaseDate": "2006-05-05",
+    "title": "Контрабанда.com.ua",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5HRBLaKTxqURu7Kizxo2rj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T21:22:49.605Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Contrabanda.com.ua"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27387d27c9f43fd02e7ced36e22",
+    "releaseDate": "2015-06-14",
+    "title": "Dreamer",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3VxOmzwP5EwAx073RtVt5L"
+  }
+]

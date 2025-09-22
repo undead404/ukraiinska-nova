@@ -1,0 +1,74 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T12:26:25.374Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Неймовіра"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b0bdd95bec99dbb113bb8c5e",
+    "releaseDate": "2025-05-03",
+    "title": "Долініж",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3S7D5gXzgcZMB5pcSBNB7V"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T12:26:25.374Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Неймовіра"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c70fe0346959b11f87cefa63",
+    "releaseDate": "2022-04-24",
+    "title": "Музика Сутінок",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7EpdxvjBbmEhp5k4ITVncu"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T12:26:25.374Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Неймовіра"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ea60bd008171b2ec247e1bfc",
+    "releaseDate": "2024-07-17",
+    "title": "Зоряниці",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/74WsNbfIEBVG7AtSmoVR8l"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T12:26:25.374Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Неймовіра"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735ea7ef9b381104c32fd782ae",
+    "releaseDate": "2023-03-16",
+    "title": "Споконвічна",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1E3EyXXQo2lNPMYDF3m8Zg"
+  }
+]

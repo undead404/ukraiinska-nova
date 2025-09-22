@@ -1,0 +1,93 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:26:43.772Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quest Pistols"
+    ],
+    "artistsPopularity": 43,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d7aa57fbac732dde1004c8aa",
+    "releaseDate": "2009-01-01",
+    "title": "Superklass",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/03kCggdzgkAzbBwcwGf7ZM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:26:43.772Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quest Pistols"
+    ],
+    "artistsPopularity": 43,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27304b66ce5f21b7452d2dee948",
+    "releaseDate": "2008-01-01",
+    "title": "Волшебные краски",
+    "totalTracks": 16,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4MR04SKJnnMQQXAR76UqQH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:26:43.772Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quest Pistols"
+    ],
+    "artistsPopularity": 43,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739eab48799aa9edae6f225aa0",
+    "releaseDate": "2007-01-01",
+    "title": "Для тебя",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/23mLXzbAaTGVX26BsPLNVt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:26:43.772Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quest Pistols",
+      "DEALSHOT"
+    ],
+    "artistsPopularity": 43,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fecfe3f903616dbe4c7644a4",
+    "releaseDate": "2021-08-22",
+    "title": "Санта Лючия (DEALSHOT Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7boG4JZ2sOmAT7NXoE5VAR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-19T20:26:43.772Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Rella"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273975de0fb46488345252cf96b",
+    "releaseDate": "2022-04-22",
+    "title": "My Boat",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4RKaFTjjvVohQZq3KG864k"
+  }
+]

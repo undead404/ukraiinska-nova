@@ -1,434 +1,491 @@
 [
   {
-    "artists": ["Sasha Boole"],
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T09:24:07.901Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sasha Boole"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f3f95f4b60b62e6d152a79ef",
     "releaseDate": "2020-06-12",
     "title": "Too Old to Sell My Soul",
     "totalTracks": 11,
     "type": "album",
-    "url": "https://open.spotify.com/album/4QWAFBdMo2SwLInGGgu3BW",
+    "url": "https://open.spotify.com/album/4QWAFBdMo2SwLInGGgu3BW"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T09:24:07.901Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Sasha Boole"],
+    ],
+    "artists": [
+      "Sasha Boole"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27326e5964a05d21573bcbf73b6",
     "releaseDate": "2017-05-23",
     "title": "Golden Tooth",
     "totalTracks": 9,
     "type": "album",
-    "url": "https://open.spotify.com/album/0rspy2Q2RzJW84f2ouNion",
+    "url": "https://open.spotify.com/album/0rspy2Q2RzJW84f2ouNion"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T09:24:07.901Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Sasha Boole"],
+    ],
+    "artists": [
+      "Sasha Boole"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27380f585bf749705c828ffa37e",
     "releaseDate": "2016-06-17",
     "title": "Vol. 1",
     "totalTracks": 12,
     "type": "album",
-    "url": "https://open.spotify.com/album/5mT8R9EVvLgkewWeyjs319",
+    "url": "https://open.spotify.com/album/5mT8R9EVvLgkewWeyjs319"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T09:24:07.901Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Sasha Boole"],
+    ],
+    "artists": [
+      "Sasha Boole"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737aaa11762570dea5d5794a0b",
     "releaseDate": "2016-06-16",
     "title": "Survival Folk",
     "totalTracks": 11,
     "type": "album",
-    "url": "https://open.spotify.com/album/6ApaDafrzdgVy5iguqwbZS",
+    "url": "https://open.spotify.com/album/6ApaDafrzdgVy5iguqwbZS"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T09:24:07.901Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Sasha Boole"],
+    ],
+    "artists": [
+      "Sasha Boole"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733677408e8d01f17ce18ba4c5",
     "releaseDate": "2024-12-23",
     "title": "Печальне Різдво",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4W8gcjJfAfUbJCz7lqMLyA",
+    "url": "https://open.spotify.com/album/4W8gcjJfAfUbJCz7lqMLyA"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T09:24:07.901Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Sasha Boole", "Культурний Десант"],
+    ],
+    "artists": [
+      "Sasha Boole",
+      "Культурний Десант"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27381e49bec27486e40807de864",
     "releaseDate": "2024-12-20",
     "title": "Іран збагачує уран",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/71CwXiLoJWqE3OuJyWsCun",
+    "url": "https://open.spotify.com/album/71CwXiLoJWqE3OuJyWsCun"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T09:24:07.901Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Sasha Boole", "CULTURAL FORCES"],
+    ],
+    "artists": [
+      "Sasha Boole",
+      "CULTURAL FORCES"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273947860387995f9a11f64a960",
     "releaseDate": "2024-12-20",
     "title": "Nuclear Winter",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/14hs5Fmq8yAW7m50b5JYKz",
+    "url": "https://open.spotify.com/album/14hs5Fmq8yAW7m50b5JYKz"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T09:24:07.901Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Sasha Boole"],
+    ],
+    "artists": [
+      "Sasha Boole"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273219cf6a22523a9415884ff8a",
     "releaseDate": "2024-11-15",
     "title": "Бути поруч",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/6J67P6HPkLwjT4nJ1PigVW",
+    "url": "https://open.spotify.com/album/6J67P6HPkLwjT4nJ1PigVW"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T09:24:07.901Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Sasha Boole"],
+    ],
+    "artists": [
+      "Sasha Boole"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736d8080f57bc43874e93f10ed",
     "releaseDate": "2024-10-04",
     "title": "Складні часи",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/4QAARBJh3EFqGBAu9WMY9c",
+    "url": "https://open.spotify.com/album/4QAARBJh3EFqGBAu9WMY9c"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T09:24:07.901Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Sasha Boole"],
+    ],
+    "artists": [
+      "Sasha Boole"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27313666b5aa267b77448652410",
     "releaseDate": "2023-09-14",
     "title": "Тримаєм посадку",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/62450IT2FoI0wMSxlzPu8h",
+    "url": "https://open.spotify.com/album/62450IT2FoI0wMSxlzPu8h"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T09:24:07.901Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Sasha Boole"],
+    ],
+    "artists": [
+      "Sasha Boole"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739ec8435b338afc6bcbf0d6aa",
     "releaseDate": "2023-04-06",
     "title": "Плющ",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/26EAr17Z0X142ntaIc3DYg",
+    "url": "https://open.spotify.com/album/26EAr17Z0X142ntaIc3DYg"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T09:24:07.901Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Borka Balogh", "Sasha Boole"],
+    ],
+    "artists": [
+      "Borka Balogh",
+      "Sasha Boole"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737a18c6170a592dbe7449498e",
     "releaseDate": "2020-09-18",
     "title": "Mankind As We Know It",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/1g5vOrkzdNqLvNqv9GU7Fr",
+    "url": "https://open.spotify.com/album/1g5vOrkzdNqLvNqv9GU7Fr"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T09:24:07.901Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Sasha Boole"],
+    ],
+    "artists": [
+      "Sasha Boole"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27306688d3eed41a9ebc89e2fa5",
     "releaseDate": "2020-04-24",
     "title": "Nothing but Sand",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/3ngcdFvDBk8UkBwQZj0RQS",
+    "url": "https://open.spotify.com/album/3ngcdFvDBk8UkBwQZj0RQS"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T09:24:07.901Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Sasha Boole"],
+    ],
+    "artists": [
+      "Sasha Boole"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273587ef8415a3c73924a469066",
     "releaseDate": "2020-04-17",
     "title": "Music to Watch the World Dying",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/0K3ch8IZ93AZ2r9imquSLq",
+    "url": "https://open.spotify.com/album/0K3ch8IZ93AZ2r9imquSLq"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T09:24:07.901Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Sasha Boole"],
+    ],
+    "artists": [
+      "Sasha Boole"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737c798ac9e4568e55706b94a2",
     "releaseDate": "2020-03-21",
     "title": "Too Old to Sell My Soul",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/50sEix4xCngUAFG4ttGBqd",
+    "url": "https://open.spotify.com/album/50sEix4xCngUAFG4ttGBqd"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T09:24:07.901Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Sasha Boole"],
+    ],
+    "artists": [
+      "Sasha Boole"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734fd4ac5e553053e6164cdd99",
     "releaseDate": "2019-05-20",
     "title": "The Ocean",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/6r0HISdJN3xCc3nSntNKYT",
+    "url": "https://open.spotify.com/album/6r0HISdJN3xCc3nSntNKYT"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T09:24:07.901Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Sasha Boole"],
+    ],
+    "artists": [
+      "Sasha Boole"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c6dff0c42b7e05dab570a384",
     "releaseDate": "2019-03-25",
     "title": "Зі смертю під вінець",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/6DnOV0RGdE5aU0KbfLFuow",
+    "url": "https://open.spotify.com/album/6DnOV0RGdE5aU0KbfLFuow"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T09:24:07.901Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Sasha Boole"],
+    ],
+    "artists": [
+      "Sasha Boole"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731da0d86c5d5072f42029e20d",
     "releaseDate": "2016-06-17",
     "title": "Дупа депутата",
     "totalTracks": 1,
     "type": "single",
-    "url": "https://open.spotify.com/album/6FIQkFBlG7Dp6UGgJCO0vr",
+    "url": "https://open.spotify.com/album/6FIQkFBlG7Dp6UGgJCO0vr"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T09:24:07.901Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Sasha Boole"],
+    ],
+    "artists": [
+      "Sasha Boole"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dc2fb8a4558a3110a6c2557c",
     "releaseDate": "2014",
     "title": "Devil Got Too Much Business",
     "totalTracks": 2,
     "type": "single",
-    "url": "https://open.spotify.com/album/4M8XZ6UIIK7GJjXB4lg1Zf",
+    "url": "https://open.spotify.com/album/4M8XZ6UIIK7GJjXB4lg1Zf"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T09:24:07.901Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["1914"],
+    ],
+    "artists": [
+      "1914"
+    ],
     "artistsPopularity": 37,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bb94e2c32be92811168426a8",
     "releaseDate": "2021-10-22",
     "title": "Where Fear and Weapons Meet",
     "totalTracks": 11,
     "type": "album",
-    "url": "https://open.spotify.com/album/05u8REOHWoW9b25e7KvZvW",
+    "url": "https://open.spotify.com/album/05u8REOHWoW9b25e7KvZvW"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T09:24:07.901Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Міша Правильний"],
+    ],
+    "artists": [
+      "Міша Правильний"
+    ],
     "artistsPopularity": 34,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cb30bc60460d83ffe45c4ec3",
     "releaseDate": "2025-08-01",
     "title": "Нормальний божевільний",
     "totalTracks": 12,
     "type": "album",
-    "url": "https://open.spotify.com/album/4dA3kXy0KyTpHGdy2whfn7",
+    "url": "https://open.spotify.com/album/4dA3kXy0KyTpHGdy2whfn7"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T09:24:07.901Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["мережа ТВОРИ!"],
+    ],
+    "artists": [
+      "мережа ТВОРИ!"
+    ],
     "artistsPopularity": 20,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273940d99c9875bead9288addc0",
     "releaseDate": "2025-09-05",
     "title": "Альбом Памʼяті",
     "totalTracks": 17,
     "type": "album",
-    "url": "https://open.spotify.com/album/206B93X9jhKnn8cPa6qWsp",
+    "url": "https://open.spotify.com/album/206B93X9jhKnn8cPa6qWsp"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T09:24:07.901Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["паліндром"],
+    ],
+    "artists": [
+      "паліндром"
+    ],
     "artistsPopularity": 37,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d1ade1a098618a6737bf724d",
     "releaseDate": "2022-09-01",
     "title": "Придумано в черзі",
     "totalTracks": 13,
     "type": "album",
-    "url": "https://open.spotify.com/album/3GhMqYHKEny7EWwyDWNNZX",
+    "url": "https://open.spotify.com/album/3GhMqYHKEny7EWwyDWNNZX"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T09:24:07.901Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Гаррі Шульц"],
+    ],
+    "artists": [
+      "Гаррі Шульц"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c854b9196c25afaead5a13a7",
     "releaseDate": "2025-03-14",
     "title": "Кенсел",
     "totalTracks": 14,
     "type": "album",
-    "url": "https://open.spotify.com/album/7gpF463HQfA8U4FeI7Y08L",
+    "url": "https://open.spotify.com/album/7gpF463HQfA8U4FeI7Y08L"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T09:24:07.901Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Бетон"],
+    ],
+    "artists": [
+      "Бетон"
+    ],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b9584269a9619cd42c9c4d50",
     "releaseDate": "2025-04-01",
     "title": "Юніті",
     "totalTracks": 7,
     "type": "album",
-    "url": "https://open.spotify.com/album/1ayiBxP282OyXsldmBErpl",
+    "url": "https://open.spotify.com/album/1ayiBxP282OyXsldmBErpl"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T09:24:07.901Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Septa"],
+    ],
+    "artists": [
+      "Septa"
+    ],
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab2fbc148ba99d188fd78b94",
     "releaseDate": "2022-11-25",
     "title": "Bitten by the Serpent of the Kingdom of the Spirit (Deluxe)",
     "totalTracks": 19,
     "type": "album",
-    "url": "https://open.spotify.com/album/1nICfJMhJVnngZ0zUspO4s",
+    "url": "https://open.spotify.com/album/1nICfJMhJVnngZ0zUspO4s"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T09:24:07.901Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["The Drain"],
+    ],
+    "artists": [
+      "The Drain"
+    ],
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273636a34f69a18c3284c96401a",
     "releaseDate": "2018-10-01",
     "title": "Fun Fun Fun Funeral",
     "totalTracks": 4,
     "type": "single",
-    "url": "https://open.spotify.com/album/0kxdLFL5Awm9V6rC4o7pAV",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T09:24:07.901Z",
-        "type": "FOUND"
-      }
-    ]
+    "url": "https://open.spotify.com/album/0kxdLFL5Awm9V6rC4o7pAV"
   }
 ]

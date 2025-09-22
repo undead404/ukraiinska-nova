@@ -1,0 +1,77 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:25:02.587Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Сергій ЛАЗАНОВСЬКИЙ",
+      "Greenjolly"
+    ],
+    "artistsPopularity": 15,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b6b8a9cbd1eaa12bc57f07d5",
+    "releaseDate": "2024-01-31",
+    "title": "Ой, там у лузі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5hVy82bTC7NzsE9ZiM8OGJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:25:02.587Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Greenjolly"
+    ],
+    "artistsPopularity": 15,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27378b9bdee7ce694dc1968ea58",
+    "releaseDate": "2005-11-22",
+    "title": "“Razom Nas Bagato - Nas Ne Podolaty”",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0wZB9yoMZJU7AUjCEVomUR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:25:02.587Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Pięć Dwa Dębiec",
+      "Pięć Dwa",
+      "Hans Solo"
+    ],
+    "artistsPopularity": 48,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733ab44aaf156b75cbcb62f23c",
+    "releaseDate": "2008-01-01",
+    "title": "P-Ń X",
+    "totalTracks": 34,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4SmHhYuuiHuV4lJkwVIImj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T17:25:02.587Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "LAZANOVSKYI I RIDNYI"
+    ],
+    "artistsPopularity": 31,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cf8271b84e2a6b0321c1aacc",
+    "releaseDate": "2022-10-26",
+    "title": "Засинає Чорний Ліс",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/12oeAy5XdyjLdATZw6cm2j"
+  }
+]

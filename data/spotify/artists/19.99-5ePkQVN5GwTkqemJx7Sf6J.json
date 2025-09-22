@@ -1,0 +1,38 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T23:22:13.771Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "19.99"
+    ],
+    "artistsPopularity": 8,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ff36c4cf71dc60e90a1c12e3",
+    "releaseDate": "2025-02-14",
+    "title": "Річ у тім",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4MkjPfRnerkoHIcnNryrY7"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-20T23:22:13.771Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "19.99"
+    ],
+    "artistsPopularity": 8,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273956581e1e05717bab03c5e7f",
+    "releaseDate": "2024-10-18",
+    "title": "Мине",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/04QYvYNR5tDYE4GZX5Ndnr"
+  }
+]
