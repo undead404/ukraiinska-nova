@@ -1,0 +1,42 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-22T14:20:12.256Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "гурт «ГуляйГород»",
+      "фольк-студія «Правиця»"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b754c261a1bae1544a2b6a79",
+    "releaseDate": "2022-01-01",
+    "tags": [],
+    "title": "Добрий вечір тобі, пане-господарю",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1hI4aDVVmjxIbT5R6i0ATG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-22T14:20:12.256Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "фольк-студія «Правиця»",
+      "Віталій Кириченко"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27361b1301db216443b768c3437",
+    "releaseDate": "2022-01-01",
+    "tags": [],
+    "title": "Алілуя",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5kw1pGL0eXdduxzItIzfJa"
+  }
+]

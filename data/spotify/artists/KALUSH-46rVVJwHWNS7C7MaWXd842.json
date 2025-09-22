@@ -6,10 +6,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "SKOFKA"],
+    "artists": [
+      "KALUSH",
+      "SKOFKA"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27316f7474f166536ca08c04433",
     "releaseDate": "2021-07-23",
+    "tags": [
+      "rap"
+    ],
     "title": "ЙО-ЙО (feat. Skofka)",
     "totalTracks": 7,
     "type": "album",
@@ -22,10 +28,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH"],
+    "artists": [
+      "KALUSH"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273179703cabd456bf61e9edb44",
     "releaseDate": "2021-02-19",
+    "tags": [
+      "rap"
+    ],
     "title": "HOTIN",
     "totalTracks": 14,
     "type": "album",
@@ -38,10 +49,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "Віктор Павлік"],
+    "artists": [
+      "KALUSH",
+      "Віктор Павлік"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27375c3d04dd3236680efbff43c",
     "releaseDate": "2025-09-04",
+    "tags": [
+      "rap",
+      "pop"
+    ],
     "title": "Край села",
     "totalTracks": 1,
     "type": "single",
@@ -54,10 +72,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "BEREZA"],
+    "artists": [
+      "KALUSH",
+      "BEREZA"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737406e5a2ac86f709cd462bc4",
     "releaseDate": "2025-08-14",
+    "tags": [
+      "rap"
+    ],
     "title": "Бульбашки",
     "totalTracks": 1,
     "type": "single",
@@ -70,10 +94,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "Balsam"],
+    "artists": [
+      "KALUSH",
+      "Balsam"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ca450f339ddc250a7745705d",
     "releaseDate": "2025-07-03",
+    "tags": [
+      "rap",
+      "chillout",
+      "ambient"
+    ],
     "title": "Вітер",
     "totalTracks": 1,
     "type": "single",
@@ -86,10 +118,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "Blockbaby"],
+    "artists": [
+      "KALUSH",
+      "Blockbaby"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c4dac489edd6ae290138b0ef",
     "releaseDate": "2025-05-28",
+    "tags": [
+      "rap"
+    ],
     "title": "Більше менше",
     "totalTracks": 1,
     "type": "single",
@@ -102,10 +140,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "BEREZA"],
+    "artists": [
+      "KALUSH",
+      "BEREZA"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a9049e818fec8eae9add0477",
     "releaseDate": "2025-05-15",
+    "tags": [
+      "rap"
+    ],
     "title": "Парашут",
     "totalTracks": 1,
     "type": "single",
@@ -118,10 +162,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH"],
+    "artists": [
+      "KALUSH"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27306e9ac28b646d98cceef762d",
     "releaseDate": "2025-05-01",
+    "tags": [
+      "rap"
+    ],
     "title": "Залежний",
     "totalTracks": 1,
     "type": "single",
@@ -134,10 +183,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "BEREZA"],
+    "artists": [
+      "KALUSH",
+      "BEREZA"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a4db27033adcf73a2dd0d34b",
     "releaseDate": "2025-02-27",
+    "tags": [
+      "rap"
+    ],
     "title": "Покохав",
     "totalTracks": 1,
     "type": "single",
@@ -150,10 +205,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH"],
+    "artists": [
+      "KALUSH"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d362c73acf4d9aad94206ebc",
     "releaseDate": "2025-01-22",
+    "tags": [
+      "rap"
+    ],
     "title": "Горе",
     "totalTracks": 1,
     "type": "single",
@@ -166,10 +226,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "Krasna Tysha"],
+    "artists": [
+      "KALUSH",
+      "Krasna Tysha"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b1c24c9829f1a6ebd48eb850",
     "releaseDate": "2024-09-12",
+    "tags": [
+      "rap"
+    ],
     "title": "Тиші немає",
     "totalTracks": 1,
     "type": "single",
@@ -182,10 +248,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH"],
+    "artists": [
+      "KALUSH"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27374f872dc6f8501e60db75b3d",
     "releaseDate": "2024-08-24",
+    "tags": [
+      "rap"
+    ],
     "title": "А вона",
     "totalTracks": 1,
     "type": "single",
@@ -198,10 +269,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "Ann in Black"],
+    "artists": [
+      "KALUSH",
+      "Ann in Black"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736117acb255a15f498cdcd74f",
     "releaseDate": "2024-08-08",
+    "tags": [
+      "rap"
+    ],
     "title": "Червона нитка",
     "totalTracks": 1,
     "type": "single",
@@ -214,10 +291,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "Balsam"],
+    "artists": [
+      "KALUSH",
+      "Balsam"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737d52b8751a1f5699ac966138",
     "releaseDate": "2024-07-25",
+    "tags": [
+      "rap",
+      "chillout",
+      "ambient"
+    ],
     "title": "Грай музикант",
     "totalTracks": 1,
     "type": "single",
@@ -230,10 +315,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "NAIMES"],
+    "artists": [
+      "KALUSH",
+      "NAIMES"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b1a8a10d5aeab8cd13525ff0",
     "releaseDate": "2024-07-11",
+    "tags": [
+      "rap",
+      "pop-rap"
+    ],
     "title": "Аромат волосся",
     "totalTracks": 1,
     "type": "single",
@@ -246,10 +338,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "Agape"],
+    "artists": [
+      "KALUSH",
+      "Agape"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d6d4f2f06eb2bfe3b9b46db9",
     "releaseDate": "2024-06-27",
+    "tags": [
+      "rap",
+      "rock",
+      "electronic"
+    ],
     "title": "Хтось знов",
     "totalTracks": 1,
     "type": "single",
@@ -262,10 +362,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH"],
+    "artists": [
+      "KALUSH"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f1e85b7ac653a6c8b39f9192",
     "releaseDate": "2024-06-13",
+    "tags": [
+      "rap"
+    ],
     "title": "Для душі",
     "totalTracks": 6,
     "type": "single",
@@ -278,10 +383,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "Balsam"],
+    "artists": [
+      "KALUSH",
+      "Balsam"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b807760944a35805ab6fe7d8",
     "releaseDate": "2024-05-16",
+    "tags": [
+      "rap",
+      "chillout",
+      "ambient"
+    ],
     "title": "Розбуди мене",
     "totalTracks": 1,
     "type": "single",
@@ -294,10 +407,21 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "Adam", "Balsam"],
+    "artists": [
+      "KALUSH",
+      "Adam",
+      "Balsam"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273005c56e33ebb3c345b29f4a7",
     "releaseDate": "2024-04-18",
+    "tags": [
+      "rap",
+      "dark electro",
+      "chillout",
+      "ambient",
+      "ebm"
+    ],
     "title": "Останній раз",
     "totalTracks": 1,
     "type": "single",
@@ -310,10 +434,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Golubenko", "KALUSH"],
+    "artists": [
+      "Golubenko",
+      "KALUSH"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734948140f99e823a7bf31f5cb",
     "releaseDate": "2024-03-28",
+    "tags": [
+      "pop",
+      "rap"
+    ],
     "title": "Дощ",
     "totalTracks": 1,
     "type": "single",
@@ -326,10 +457,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KOLA", "KALUSH"],
+    "artists": [
+      "KOLA",
+      "KALUSH"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273397433c13730a8206873ad27",
     "releaseDate": "2024-03-21",
+    "tags": [
+      "pop",
+      "rap"
+    ],
     "title": "Упіймай моє серце",
     "totalTracks": 1,
     "type": "single",
@@ -342,10 +480,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "KOLA"],
+    "artists": [
+      "KALUSH",
+      "KOLA"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273caa45d272231697cef64fa0f",
     "releaseDate": "2024-03-21",
+    "tags": [
+      "pop",
+      "rap"
+    ],
     "title": "Пам'ятай",
     "totalTracks": 1,
     "type": "single",
@@ -358,10 +503,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH"],
+    "artists": [
+      "KALUSH"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bcafcc77b75c6eebd5166702",
     "releaseDate": "2024-02-28",
+    "tags": [
+      "rap"
+    ],
     "title": "Десятка",
     "totalTracks": 1,
     "type": "single",
@@ -374,10 +524,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KOZAK SIROMAHA", "KALUSH"],
+    "artists": [
+      "KOZAK SIROMAHA",
+      "KALUSH"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d03b7c1001ea3c37aba32224",
     "releaseDate": "2023-11-16",
+    "tags": [
+      "folk",
+      "rap"
+    ],
     "title": "Сіромаха",
     "totalTracks": 1,
     "type": "single",
@@ -390,10 +547,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Скрябін", "KALUSH"],
+    "artists": [
+      "Скрябін",
+      "KALUSH"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27316d41a10b53870a349ff86a7",
     "releaseDate": "2023-09-21",
+    "tags": [
+      "synthpop",
+      "rap",
+      "Pop-Rock"
+    ],
     "title": "То є Львів",
     "totalTracks": 1,
     "type": "single",
@@ -406,10 +571,20 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "Grubson", "Mykola Vynar"],
+    "artists": [
+      "KALUSH",
+      "Grubson",
+      "Mykola Vynar"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a3e41d56129438cccd26392b",
     "releaseDate": "2023-09-14",
+    "tags": [
+      "rap",
+      "reggae",
+      "ragga",
+      "dancehall"
+    ],
     "title": "Lalala",
     "totalTracks": 1,
     "type": "single",
@@ -422,10 +597,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH"],
+    "artists": [
+      "KALUSH"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730c85de9ddf5630a0a6cabee6",
     "releaseDate": "2023-08-25",
+    "tags": [
+      "rap"
+    ],
     "title": "А ти знала",
     "totalTracks": 1,
     "type": "single",
@@ -438,10 +618,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH"],
+    "artists": [
+      "KALUSH"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27385e27d53ab80f3365d3bd6a9",
     "releaseDate": "2023-07-28",
+    "tags": [
+      "rap"
+    ],
     "title": "До берега йду",
     "totalTracks": 1,
     "type": "single",
@@ -454,10 +639,19 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "Leo Mantis"],
+    "artists": [
+      "KALUSH",
+      "Leo Mantis"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f1d046cc76188ff3ac4c5f74",
     "releaseDate": "2023-06-30",
+    "tags": [
+      "rap",
+      "soul",
+      "blues rock",
+      "ukranian"
+    ],
     "title": "ХМАРИ (feat. Leo Mantis)",
     "totalTracks": 1,
     "type": "single",
@@ -470,10 +664,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "Jerry Heil"],
+    "artists": [
+      "KALUSH",
+      "Jerry Heil"
+    ],
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d8ac657e2d98dca601a327d1",
     "releaseDate": "2023-05-19",
+    "tags": [
+      "rap",
+      "pop"
+    ],
     "title": "Стіни",
     "totalTracks": 1,
     "type": "single",
@@ -486,10 +687,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "Kalush Orchestra"],
+    "artists": [
+      "KALUSH",
+      "Kalush Orchestra"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ccfaaba0f4d7467b2f8d71bc",
     "releaseDate": "2023-03-03",
+    "tags": [
+      "rap"
+    ],
     "title": "Changes",
     "totalTracks": 1,
     "type": "single",
@@ -502,10 +709,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["SKOFKA", "KALUSH"],
+    "artists": [
+      "SKOFKA",
+      "KALUSH"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27364bbd89d5cbfbcda4b88d70e",
     "releaseDate": "2022-12-16",
+    "tags": [
+      "rap"
+    ],
     "title": "Батьківщина",
     "totalTracks": 1,
     "type": "single",
@@ -518,10 +731,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Kalush Orchestra", "KALUSH", "KOZAK SIROMAHA"],
+    "artists": [
+      "Kalush Orchestra",
+      "KALUSH",
+      "KOZAK SIROMAHA"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d01833e4f3bd92962122e71c",
     "releaseDate": "2022-12-02",
+    "tags": [
+      "rap",
+      "folk"
+    ],
     "title": "Нумо Козаки (Kalush Orchestra feat. KOZAK SIROMAHA)",
     "totalTracks": 1,
     "type": "single",
@@ -534,10 +755,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "Kalush Orchestra"],
+    "artists": [
+      "KALUSH",
+      "Kalush Orchestra"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27358ccb6a836ff1c02722b3b42",
     "releaseDate": "2022-11-16",
+    "tags": [
+      "rap"
+    ],
     "title": "Spotify Singles Holiday",
     "totalTracks": 1,
     "type": "single",
@@ -550,10 +777,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "Kalush Orchestra", "Szpaku"],
+    "artists": [
+      "KALUSH",
+      "Kalush Orchestra",
+      "Szpaku"
+    ],
     "artistsPopularity": 69,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27372cc66d941e66ac63f20d83b",
     "releaseDate": "2022-11-04",
+    "tags": [
+      "rap",
+      "Hip-Hop"
+    ],
     "title": "Nasze Domy (feat. Szpaku)",
     "totalTracks": 1,
     "type": "single",
@@ -566,10 +801,19 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "Kalush Orchestra", "The Rasmus"],
+    "artists": [
+      "KALUSH",
+      "Kalush Orchestra",
+      "The Rasmus"
+    ],
     "artistsPopularity": 64,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738e81f307098c54c9672d499f",
     "releaseDate": "2022-10-21",
+    "tags": [
+      "rap",
+      "rock",
+      "alternative rock"
+    ],
     "title": "In The Shadows Of Ukraine",
     "totalTracks": 1,
     "type": "single",
@@ -582,10 +826,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "Kalush Orchestra"],
+    "artists": [
+      "KALUSH",
+      "Kalush Orchestra"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739e9968776683d0a7099e2930",
     "releaseDate": "2022-03-18",
+    "tags": [
+      "rap"
+    ],
     "title": "Stefania (Kalush Orchestra)",
     "totalTracks": 1,
     "type": "single",
@@ -598,10 +848,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Artem Pivovarov", "KALUSH"],
+    "artists": [
+      "Artem Pivovarov",
+      "KALUSH"
+    ],
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733a2507721885705c8187ad1b",
     "releaseDate": "2022-02-04",
+    "tags": [
+      "folk",
+      "pop",
+      "rap"
+    ],
     "title": "Майбутність",
     "totalTracks": 1,
     "type": "single",
@@ -614,10 +872,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH"],
+    "artists": [
+      "KALUSH"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734c9dc2682ec948e18c474a89",
     "releaseDate": "2022-01-28",
+    "tags": [
+      "rap"
+    ],
     "title": "Сонячна (feat. Сальто Назад, Skofka)",
     "totalTracks": 1,
     "type": "single",
@@ -630,10 +893,19 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "Tember Blanche"],
+    "artists": [
+      "KALUSH",
+      "Tember Blanche"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273798853abaae989758c729109",
     "releaseDate": "2021-12-17",
+    "tags": [
+      "rap",
+      "pop",
+      "ethereal",
+      "ethereal wave"
+    ],
     "title": "Калуські вечорниці (feat. Tember Blanche)",
     "totalTracks": 1,
     "type": "single",
@@ -646,10 +918,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "Kalush Orchestra"],
+    "artists": [
+      "KALUSH",
+      "Kalush Orchestra"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731e2e39780a083cdb07fd3285",
     "releaseDate": "2021-12-03",
+    "tags": [
+      "rap"
+    ],
     "title": "Штомбер Вомбер (Kalush Orchestra)",
     "totalTracks": 1,
     "type": "single",
@@ -662,10 +940,19 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "Victor Perry"],
+    "artists": [
+      "KALUSH",
+      "Victor Perry"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27386f6aed775596ade6365f23f",
     "releaseDate": "2021-11-12",
+    "tags": [
+      "rap",
+      "soul",
+      "pop",
+      "alternative"
+    ],
     "title": "Sleepwalking (Pink Panda House Edit)",
     "totalTracks": 1,
     "type": "single",
@@ -678,10 +965,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH"],
+    "artists": [
+      "KALUSH"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732f5721388d3bb65660f2b4f3",
     "releaseDate": "2021-10-29",
+    "tags": [
+      "rap"
+    ],
     "title": "Мала в 19",
     "totalTracks": 1,
     "type": "single",
@@ -694,10 +986,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Okean Elzy", "KALUSH"],
+    "artists": [
+      "Okean Elzy",
+      "KALUSH"
+    ],
     "artistsPopularity": 57,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c236741a0c8898183c476e39",
     "releaseDate": "2021-10-13",
+    "tags": [
+      "rock",
+      "rap"
+    ],
     "title": "Перемога",
     "totalTracks": 1,
     "type": "single",
@@ -710,10 +1009,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "Jerry Heil"],
+    "artists": [
+      "KALUSH",
+      "Jerry Heil"
+    ],
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730070eb70bacc4b33204a9980",
     "releaseDate": "2021-10-01",
+    "tags": [
+      "rap",
+      "pop"
+    ],
     "title": "Хвилi (feat. Jerry Heil)",
     "totalTracks": 1,
     "type": "single",
@@ -726,10 +1032,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "Khrystyna Soloviy"],
+    "artists": [
+      "KALUSH",
+      "Khrystyna Soloviy"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27336e067d0e34baa438afb63b6",
     "releaseDate": "2021-09-10",
+    "tags": [
+      "rap",
+      "pop",
+      "folk pop"
+    ],
     "title": "Таксі",
     "totalTracks": 1,
     "type": "single",
@@ -742,10 +1056,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "SKOFKA"],
+    "artists": [
+      "KALUSH",
+      "SKOFKA"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d31960e55979bb25e63b733c",
     "releaseDate": "2021-06-30",
+    "tags": [
+      "rap"
+    ],
     "title": "Давай начистоту (feat. Skofka)",
     "totalTracks": 1,
     "type": "single",
@@ -758,10 +1078,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "SKOFKA"],
+    "artists": [
+      "KALUSH",
+      "SKOFKA"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ec8d4523000c64b925575aaf",
     "releaseDate": "2021-05-21",
+    "tags": [
+      "rap"
+    ],
     "title": "Додому (feat. Skofka)",
     "totalTracks": 1,
     "type": "single",
@@ -774,10 +1100,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "ЮЮ"],
+    "artists": [
+      "KALUSH",
+      "ЮЮ"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bde269d83b926e6f4e619bc5",
     "releaseDate": "2021-04-09",
+    "tags": [
+      "rap",
+      "pop"
+    ],
     "title": "Халепа (feat. ЮЮ)",
     "totalTracks": 1,
     "type": "single",
@@ -790,10 +1123,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "Станіславська"],
+    "artists": [
+      "KALUSH",
+      "Станіславська"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738276fa7d356ce7c87946f277",
     "releaseDate": "2021-03-26",
+    "tags": [
+      "rap"
+    ],
     "title": "Пірнаю (feat. Станіславська)",
     "totalTracks": 1,
     "type": "single",
@@ -806,10 +1145,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Panini", "KALUSH"],
+    "artists": [
+      "Panini",
+      "KALUSH"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734512493727545a1ac7944762",
     "releaseDate": "2021-01-22",
+    "tags": [
+      "rap"
+    ],
     "title": "Балабон (feat. KALUSH)",
     "totalTracks": 1,
     "type": "single",
@@ -822,10 +1167,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "SKOFKA"],
+    "artists": [
+      "KALUSH",
+      "SKOFKA"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eb2c17cc57de983a209ad23b",
     "releaseDate": "2021-01-15",
+    "tags": [
+      "rap"
+    ],
     "title": "Otaman (feat. Skofka)",
     "totalTracks": 1,
     "type": "single",
@@ -838,10 +1189,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "alyona alyona"],
+    "artists": [
+      "KALUSH",
+      "alyona alyona"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273baa2a9c6a42576bdf34a3e73",
     "releaseDate": "2020-12-18",
+    "tags": [
+      "rap",
+      "Hip-Hop"
+    ],
     "title": "Вода (feat. alyona alyona)",
     "totalTracks": 1,
     "type": "single",
@@ -854,10 +1212,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH"],
+    "artists": [
+      "KALUSH"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273597d0734721a38ea9a988156",
     "releaseDate": "2020-11-27",
+    "tags": [
+      "rap"
+    ],
     "title": "Зорi",
     "totalTracks": 1,
     "type": "single",
@@ -870,10 +1233,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Діма Варварук", "KALUSH"],
+    "artists": [
+      "Діма Варварук",
+      "KALUSH"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d5d642ba6eeb558b914672b4",
     "releaseDate": "2020-11-18",
+    "tags": [
+      "rap"
+    ],
     "title": "Пожовкла весна",
     "totalTracks": 1,
     "type": "single",
@@ -886,10 +1255,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "YARMAK"],
+    "artists": [
+      "KALUSH",
+      "YARMAK"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733a9a797580084ed5a325b9a0",
     "releaseDate": "2020-10-18",
+    "tags": [
+      "rap"
+    ],
     "title": "Таких як я (Takyh Yak Ya)",
     "totalTracks": 1,
     "type": "single",
@@ -902,10 +1277,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH"],
+    "artists": [
+      "KALUSH"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735167c53acd87f58ca25f4daf",
     "releaseDate": "2020-10-01",
+    "tags": [
+      "rap"
+    ],
     "title": "BIMBO",
     "totalTracks": 1,
     "type": "single",
@@ -918,10 +1298,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH"],
+    "artists": [
+      "KALUSH"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c3fe413317d2722c8a67c7e0",
     "releaseDate": "2020-09-02",
+    "tags": [
+      "rap"
+    ],
     "title": "В тренді пафос (Pafos)",
     "totalTracks": 1,
     "type": "single",
@@ -934,10 +1319,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "alyona alyona", "Gedz"],
+    "artists": [
+      "KALUSH",
+      "alyona alyona",
+      "Gedz"
+    ],
     "artistsPopularity": 54,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c2ce1bfbc116598d2cfe9325",
     "releaseDate": "2020-08-20",
+    "tags": [
+      "rap",
+      "Hip-Hop"
+    ],
     "title": "Góry",
     "totalTracks": 1,
     "type": "single",
@@ -950,10 +1343,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["alyona alyona", "KALUSH"],
+    "artists": [
+      "alyona alyona",
+      "KALUSH"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731c345e602cd24b7f151f37d5",
     "releaseDate": "2020-08-02",
+    "tags": [
+      "rap",
+      "Hip-Hop"
+    ],
     "title": "Стержень (Own Core)",
     "totalTracks": 1,
     "type": "single",
@@ -966,10 +1366,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH"],
+    "artists": [
+      "KALUSH"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c6a58f8ae1bea2ca532572d7",
     "releaseDate": "2020-08-02",
+    "tags": [
+      "rap"
+    ],
     "title": "Вайб (Vibe)",
     "totalTracks": 1,
     "type": "single",
@@ -982,10 +1387,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH"],
+    "artists": [
+      "KALUSH"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27360ea7475b4014f7a76bab1a4",
     "releaseDate": "2020-05-18",
+    "tags": [
+      "rap"
+    ],
     "title": "Вірус (Virus)",
     "totalTracks": 1,
     "type": "single",
@@ -998,10 +1408,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH"],
+    "artists": [
+      "KALUSH"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736766fb869e8b1cab5553e6a6",
     "releaseDate": "2020-05-05",
+    "tags": [
+      "rap"
+    ],
     "title": "Тiпок (Tipok)",
     "totalTracks": 1,
     "type": "single",
@@ -1014,10 +1429,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH"],
+    "artists": [
+      "KALUSH"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27328a0a265f97d1859a567db49",
     "releaseDate": "2020-02-13",
+    "tags": [
+      "rap"
+    ],
     "title": "Кент (Kent)",
     "totalTracks": 1,
     "type": "single",
@@ -1030,10 +1450,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "alyona alyona"],
+    "artists": [
+      "KALUSH",
+      "alyona alyona"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730be5c341681f3417fd9d8fc0",
     "releaseDate": "2019-12-09",
+    "tags": [
+      "rap",
+      "Hip-Hop"
+    ],
     "title": "Гори (Gory)",
     "totalTracks": 1,
     "type": "single",
@@ -1046,10 +1473,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH"],
+    "artists": [
+      "KALUSH"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e53ece5f52a70695dacb1685",
     "releaseDate": "2019-11-22",
+    "tags": [
+      "rap"
+    ],
     "title": "Ty Gonysh",
     "totalTracks": 1,
     "type": "single",
@@ -1062,10 +1494,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH"],
+    "artists": [
+      "KALUSH"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273acac1d99887efb814ab9f66d",
     "releaseDate": "2019-10-17",
+    "tags": [
+      "rap"
+    ],
     "title": "Не маринуй",
     "totalTracks": 1,
     "type": "single",

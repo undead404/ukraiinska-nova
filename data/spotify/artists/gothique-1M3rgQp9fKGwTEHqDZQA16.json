@@ -6,10 +6,19 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["gothique", "STAR"],
+    "artists": [
+      "gothique",
+      "STAR"
+    ],
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27378f11b77c0142645a564ffbd",
     "releaseDate": "2023-07-28",
+    "tags": [
+      "NWOBHM",
+      "Progressive rock",
+      "shoegaze",
+      "noise pop"
+    ],
     "title": "D†A",
     "totalTracks": 9,
     "type": "album",
@@ -22,10 +31,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["gothique"],
+    "artists": [
+      "gothique"
+    ],
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f93d34d676c2260b379594c2",
     "releaseDate": "2023-02-17",
+    "tags": [
+      "NWOBHM",
+      "Progressive rock"
+    ],
     "title": "BERssSerK",
     "totalTracks": 9,
     "type": "album",
@@ -38,10 +53,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["gothique"],
+    "artists": [
+      "gothique"
+    ],
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737809c36010944226886cd54f",
     "releaseDate": "2024-04-19",
+    "tags": [
+      "NWOBHM",
+      "Progressive rock"
+    ],
     "title": "Kesshikō",
     "totalTracks": 5,
     "type": "single",
@@ -54,10 +75,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["gothique"],
+    "artists": [
+      "gothique"
+    ],
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e90e2fbba502a2402cc59f27",
     "releaseDate": "2024-04-05",
+    "tags": [
+      "NWOBHM",
+      "Progressive rock"
+    ],
     "title": "RAve!",
     "totalTracks": 1,
     "type": "single",
@@ -70,10 +97,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["gothique"],
+    "artists": [
+      "gothique"
+    ],
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735bc572eed685f9a3faa320f2",
     "releaseDate": "2023-12-15",
+    "tags": [
+      "NWOBHM",
+      "Progressive rock"
+    ],
     "title": "?",
     "totalTracks": 1,
     "type": "single",
@@ -86,10 +119,19 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["gothique", "STAR"],
+    "artists": [
+      "gothique",
+      "STAR"
+    ],
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ff7c474b69041b11cf11ec42",
     "releaseDate": "2023-07-14",
+    "tags": [
+      "NWOBHM",
+      "Progressive rock",
+      "shoegaze",
+      "noise pop"
+    ],
     "title": "демони-янголи",
     "totalTracks": 1,
     "type": "single",
@@ -102,10 +144,19 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["gothique", "STAR"],
+    "artists": [
+      "gothique",
+      "STAR"
+    ],
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e1974aa4544ea0de6af756d9",
     "releaseDate": "2023-05-05",
+    "tags": [
+      "NWOBHM",
+      "Progressive rock",
+      "shoegaze",
+      "noise pop"
+    ],
     "title": "P!nK Phløyd",
     "totalTracks": 1,
     "type": "single",
@@ -118,10 +169,19 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["gothique", "STAR"],
+    "artists": [
+      "gothique",
+      "STAR"
+    ],
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27337e43c410117588b2365d263",
     "releaseDate": "2023-03-24",
+    "tags": [
+      "NWOBHM",
+      "Progressive rock",
+      "shoegaze",
+      "noise pop"
+    ],
     "title": "go go' D Rose",
     "totalTracks": 1,
     "type": "single",
@@ -134,10 +194,21 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["gothique", "STAR", "Kostiuchenko"],
+    "artists": [
+      "gothique",
+      "STAR",
+      "Kostiuchenko"
+    ],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27347e4229e1e80a0073b1d3f91",
     "releaseDate": "2023-01-20",
+    "tags": [
+      "NWOBHM",
+      "Progressive rock",
+      "shoegaze",
+      "trap",
+      "noise pop"
+    ],
     "title": "CCTV",
     "totalTracks": 1,
     "type": "single",
@@ -150,10 +221,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["gothique"],
+    "artists": [
+      "gothique"
+    ],
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739f3aa9da62e2b090f004d664",
     "releaseDate": "2022-12-09",
+    "tags": [
+      "NWOBHM",
+      "Progressive rock"
+    ],
     "title": "nebula",
     "totalTracks": 1,
     "type": "single",
@@ -166,10 +243,20 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["gothique", "примара"],
+    "artists": [
+      "gothique",
+      "примара"
+    ],
     "artistsPopularity": 19,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d8b8daef898556d2ec7b0604",
     "releaseDate": "2022-10-31",
+    "tags": [
+      "NWOBHM",
+      "Progressive rock",
+      "hip hop",
+      "rap",
+      "phonk"
+    ],
     "title": "некрономікон",
     "totalTracks": 1,
     "type": "single",
@@ -182,10 +269,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["gothique"],
+    "artists": [
+      "gothique"
+    ],
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c212d49b0e350394e2882c50",
     "releaseDate": "2022-10-21",
+    "tags": [
+      "NWOBHM",
+      "Progressive rock"
+    ],
     "title": "Dracula",
     "totalTracks": 1,
     "type": "single",
@@ -198,10 +291,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["gothique"],
+    "artists": [
+      "gothique"
+    ],
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738ab1e2faf8d2047abccc82f4",
     "releaseDate": "2022-09-30",
+    "tags": [
+      "NWOBHM",
+      "Progressive rock"
+    ],
     "title": "gothic Lng",
     "totalTracks": 3,
     "type": "single",
@@ -214,10 +313,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["gothique"],
+    "artists": [
+      "gothique"
+    ],
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733ff9ce7a7ff5247f475e6a55",
     "releaseDate": "2022-08-12",
+    "tags": [
+      "NWOBHM",
+      "Progressive rock"
+    ],
     "title": "Vamp",
     "totalTracks": 1,
     "type": "single",
@@ -230,10 +335,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["gothique"],
+    "artists": [
+      "gothique"
+    ],
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737178bd960e7cc0b07d9a0b09",
     "releaseDate": "2022-07-15",
+    "tags": [
+      "NWOBHM",
+      "Progressive rock"
+    ],
     "title": "no limits",
     "totalTracks": 1,
     "type": "single",
@@ -246,10 +357,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["gothique"],
+    "artists": [
+      "gothique"
+    ],
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732b8d427e20589486a4dabafa",
     "releaseDate": "2022-06-24",
+    "tags": [
+      "NWOBHM",
+      "Progressive rock"
+    ],
     "title": "funera†",
     "totalTracks": 1,
     "type": "single",
@@ -262,10 +379,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["gothique"],
+    "artists": [
+      "gothique"
+    ],
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27331f2e85bc830af461b44736a",
     "releaseDate": "2022-04-08",
+    "tags": [
+      "NWOBHM",
+      "Progressive rock"
+    ],
     "title": "9",
     "totalTracks": 1,
     "type": "single",
@@ -278,10 +401,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Kostiuchenko"],
+    "artists": [
+      "Kostiuchenko"
+    ],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734e27ca12ef872ae67869d7af",
     "releaseDate": "2022-09-11",
+    "tags": [
+      "trap"
+    ],
     "title": "SINUSOID",
     "totalTracks": 7,
     "type": "album",
@@ -294,10 +422,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ліл чіпсік", "blessbaby", "YungKerya"],
+    "artists": [
+      "ліл чіпсік",
+      "blessbaby",
+      "YungKerya"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734a4630e1d95bca31655b6919",
     "releaseDate": "2022-08-31",
+    "tags": [
+      "rap",
+      "hip hop"
+    ],
     "title": "ліл чіпсік",
     "totalTracks": 1,
     "type": "single",
@@ -310,10 +446,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Lil 8"],
+    "artists": [
+      "Lil 8"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27325d4a3c4618af7e60cab4469",
     "releaseDate": "2023-05-26",
+    "tags": [],
     "title": "Lyu Hvoyd Deluxe",
     "totalTracks": 9,
     "type": "album",

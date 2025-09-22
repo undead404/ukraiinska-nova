@@ -6,10 +6,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["CHEEV"],
+    "artists": [
+      "CHEEV"
+    ],
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ca0a920161effbbd30c78661",
     "releaseDate": "2023-11-17",
+    "tags": [
+      "belarus"
+    ],
     "title": "Noir",
     "totalTracks": 9,
     "type": "album",
@@ -22,10 +27,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["CHEEV"],
+    "artists": [
+      "CHEEV"
+    ],
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273204d6ca5b9f0c687be9e9504",
     "releaseDate": "2021-12-03",
+    "tags": [
+      "belarus"
+    ],
     "title": "Drama",
     "totalTracks": 9,
     "type": "album",
@@ -38,10 +48,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["CHEEV"],
+    "artists": [
+      "CHEEV"
+    ],
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733105174cf106729fc1a706f2",
     "releaseDate": "2021-12-03",
+    "tags": [
+      "belarus"
+    ],
     "title": "Drama",
     "totalTracks": 9,
     "type": "album",
@@ -54,10 +69,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["CHEEV", "ZLATA OGNEVICH"],
+    "artists": [
+      "CHEEV",
+      "ZLATA OGNEVICH"
+    ],
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fa254a5b2d67e4bd47d48964",
     "releaseDate": "2025-09-05",
+    "tags": [
+      "belarus",
+      "Eurovision"
+    ],
     "title": "Обійми-обійми",
     "totalTracks": 1,
     "type": "single",
@@ -70,10 +92,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["CHEEV"],
+    "artists": [
+      "CHEEV"
+    ],
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b06e6fe670ace91285161184",
     "releaseDate": "2025-07-02",
+    "tags": [
+      "belarus"
+    ],
     "title": "Раз в житті",
     "totalTracks": 1,
     "type": "single",
@@ -86,10 +113,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["CHEEV"],
+    "artists": [
+      "CHEEV"
+    ],
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a3b316b491ea96276c2b0cfd",
     "releaseDate": "2025-03-27",
+    "tags": [
+      "belarus"
+    ],
     "title": "Як маяки",
     "totalTracks": 1,
     "type": "single",
@@ -102,10 +134,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["CHEEV"],
+    "artists": [
+      "CHEEV"
+    ],
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f39a7c1aa59dfdbd4139f044",
     "releaseDate": "2025-01-30",
+    "tags": [
+      "belarus"
+    ],
     "title": "День у день",
     "totalTracks": 1,
     "type": "single",
@@ -118,10 +155,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["CHEEV"],
+    "artists": [
+      "CHEEV"
+    ],
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737bc10f62ce332150c15e1caa",
     "releaseDate": "2024-11-01",
+    "tags": [
+      "belarus"
+    ],
     "title": "Тихий дощ",
     "totalTracks": 1,
     "type": "single",
@@ -134,10 +176,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Анна Трінчер", "CHEEV"],
+    "artists": [
+      "Анна Трінчер",
+      "CHEEV"
+    ],
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ccca053e4e1a8df07ebd3f0b",
     "releaseDate": "2024-10-10",
+    "tags": [
+      "pop",
+      "belarus"
+    ],
     "title": "Не знаю",
     "totalTracks": 1,
     "type": "single",
@@ -150,10 +199,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["CHEEV", "NAVIBAND"],
+    "artists": [
+      "CHEEV",
+      "NAVIBAND"
+    ],
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cd4aba5e0302aa58f05d02a8",
     "releaseDate": "2024-09-27",
+    "tags": [
+      "belarus",
+      "Belarusian"
+    ],
     "title": "Мамо",
     "totalTracks": 1,
     "type": "single",
@@ -166,10 +222,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["CHEEV"],
+    "artists": [
+      "CHEEV"
+    ],
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27318033baba2591cddd8e2c7c9",
     "releaseDate": "2024-07-03",
+    "tags": [
+      "belarus"
+    ],
     "title": "Рана",
     "totalTracks": 1,
     "type": "single",
@@ -182,10 +243,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["CHEEV"],
+    "artists": [
+      "CHEEV"
+    ],
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734a60fb6cb55d377213bde261",
     "releaseDate": "2024-05-24",
+    "tags": [
+      "belarus"
+    ],
     "title": "Таро",
     "totalTracks": 1,
     "type": "single",
@@ -198,10 +264,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["CHEEV", "МУЛЬТИТРЕК"],
+    "artists": [
+      "CHEEV",
+      "МУЛЬТИТРЕК"
+    ],
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ef59d70b9f409dad52b871d5",
     "releaseDate": "2023-12-15",
+    "tags": [
+      "belarus"
+    ],
     "title": "Перший день",
     "totalTracks": 1,
     "type": "single",
@@ -214,10 +286,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["CHEEV"],
+    "artists": [
+      "CHEEV"
+    ],
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737ed5136a06911082af33b667",
     "releaseDate": "2023-11-03",
+    "tags": [
+      "belarus"
+    ],
     "title": "Більш немає крил",
     "totalTracks": 1,
     "type": "single",
@@ -230,10 +307,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Kolaba", "CHEEV"],
+    "artists": [
+      "Kolaba",
+      "CHEEV"
+    ],
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eec8a9f589575b849e90cf77",
     "releaseDate": "2023-10-13",
+    "tags": [
+      "belarus"
+    ],
     "title": "Де моя любов живе",
     "totalTracks": 1,
     "type": "single",
@@ -246,10 +329,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["CHEEV"],
+    "artists": [
+      "CHEEV"
+    ],
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f494d3f4fdb475c2bb6037b6",
     "releaseDate": "2023-09-15",
+    "tags": [
+      "belarus"
+    ],
     "title": "Де моя любов живе",
     "totalTracks": 1,
     "type": "single",
@@ -262,10 +350,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Kolaba", "CHEEV"],
+    "artists": [
+      "Kolaba",
+      "CHEEV"
+    ],
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737053eccf4bd130c9e103acf3",
     "releaseDate": "2023-06-29",
+    "tags": [
+      "belarus"
+    ],
     "title": "Пазл",
     "totalTracks": 1,
     "type": "single",
@@ -278,10 +372,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["CHEEV"],
+    "artists": [
+      "CHEEV"
+    ],
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b7f4c3955f4e4a400bfe1c11",
     "releaseDate": "2023-06-02",
+    "tags": [
+      "belarus"
+    ],
     "title": "Пазл",
     "totalTracks": 1,
     "type": "single",
@@ -294,10 +393,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["CHEEV"],
+    "artists": [
+      "CHEEV"
+    ],
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730c4aff65d0cb0f186a21d501",
     "releaseDate": "2023-03-10",
+    "tags": [
+      "belarus"
+    ],
     "title": "Печаль",
     "totalTracks": 1,
     "type": "single",
@@ -310,10 +414,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["CHEEV", "Kolaba"],
+    "artists": [
+      "CHEEV",
+      "Kolaba"
+    ],
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734f3f2a49e750382bf5ba9877",
     "releaseDate": "2022-10-21",
+    "tags": [
+      "belarus"
+    ],
     "title": "Мрієшся (Kolaba Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -326,10 +436,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["CHEEV"],
+    "artists": [
+      "CHEEV"
+    ],
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d2368f88270b50f3d2a070ac",
     "releaseDate": "2022-09-30",
+    "tags": [
+      "belarus"
+    ],
     "title": "Мрієшся",
     "totalTracks": 1,
     "type": "single",
@@ -342,10 +457,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["CHEEV", "Winter Kid"],
+    "artists": [
+      "CHEEV",
+      "Winter Kid"
+    ],
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27305dc36950cb3dd27a362ed69",
     "releaseDate": "2021-10-29",
+    "tags": [
+      "belarus"
+    ],
     "title": "Оберiгати (Winter Kid Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -358,10 +479,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["CHEEV"],
+    "artists": [
+      "CHEEV"
+    ],
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27367ecda09ea8456824a82b222",
     "releaseDate": "2021-09-17",
+    "tags": [
+      "belarus"
+    ],
     "title": "Лото",
     "totalTracks": 1,
     "type": "single",
@@ -374,10 +500,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["CHEEV"],
+    "artists": [
+      "CHEEV"
+    ],
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273983ac4ff07420227542a5ffe",
     "releaseDate": "2021-04-30",
+    "tags": [
+      "belarus"
+    ],
     "title": "Іминімі",
     "totalTracks": 1,
     "type": "single",
@@ -390,10 +521,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["CHEEV"],
+    "artists": [
+      "CHEEV"
+    ],
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735e2ec3ab1eadee4f1e7056f3",
     "releaseDate": "2021-03-26",
+    "tags": [
+      "belarus"
+    ],
     "title": "Водар",
     "totalTracks": 1,
     "type": "single",
@@ -406,10 +542,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["CHEEV"],
+    "artists": [
+      "CHEEV"
+    ],
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b04245bed29a16e6ea8b6d21",
     "releaseDate": "2020-09-18",
+    "tags": [
+      "belarus"
+    ],
     "title": "Ким завгодно",
     "totalTracks": 1,
     "type": "single",
@@ -422,10 +563,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["CHEEV"],
+    "artists": [
+      "CHEEV"
+    ],
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c2ec357dc7beaba603be9389",
     "releaseDate": "2020-03-19",
+    "tags": [
+      "belarus"
+    ],
     "title": "Що це в нас",
     "totalTracks": 1,
     "type": "single",
@@ -438,10 +584,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["CHEEV"],
+    "artists": [
+      "CHEEV"
+    ],
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d54d481987b1fff79df8424f",
     "releaseDate": "2019-11-15",
+    "tags": [
+      "belarus"
+    ],
     "title": "Оберігати",
     "totalTracks": 1,
     "type": "single",

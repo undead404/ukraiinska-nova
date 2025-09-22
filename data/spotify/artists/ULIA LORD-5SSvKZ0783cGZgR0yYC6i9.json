@@ -6,10 +6,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ГНАТКОВСКІ", "ULIA LORD"],
+    "artists": [
+      "ГНАТКОВСКІ",
+      "ULIA LORD"
+    ],
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fcb6e4929e0658fe4b493caf",
     "releaseDate": "2013-11-11",
+    "tags": [
+      "trip-hop"
+    ],
     "title": "НІЖНІСТЬ",
     "totalTracks": 14,
     "type": "album",
@@ -22,10 +28,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ULIA LORD"],
+    "artists": [
+      "ULIA LORD"
+    ],
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b42a0da150e822dd180be4d5",
     "releaseDate": "2012-12-01",
+    "tags": [
+      "trip-hop"
+    ],
     "title": "8 sekund",
     "totalTracks": 14,
     "type": "album",
@@ -38,10 +49,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ГНАТКОВСКІ", "ULIA LORD"],
+    "artists": [
+      "ГНАТКОВСКІ",
+      "ULIA LORD"
+    ],
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d7afd34a834b39e76a27284c",
     "releaseDate": "2004-11-11",
+    "tags": [
+      "trip-hop"
+    ],
     "title": "СНІЖНІСТЬ",
     "totalTracks": 12,
     "type": "album",
@@ -54,10 +71,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ULIA LORD"],
+    "artists": [
+      "ULIA LORD"
+    ],
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a5f765737ddb7a033045ac80",
     "releaseDate": "1999-01-01",
+    "tags": [
+      "trip-hop"
+    ],
     "title": "Танець душ",
     "totalTracks": 10,
     "type": "album",
@@ -70,10 +92,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ULIA LORD"],
+    "artists": [
+      "ULIA LORD"
+    ],
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734d8d8d715feb3f94f0644e0b",
     "releaseDate": "2022-05-22",
+    "tags": [
+      "trip-hop"
+    ],
     "title": "Війна / Wojna",
     "totalTracks": 1,
     "type": "single",
@@ -86,10 +113,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Luiku", "ULIA LORD"],
+    "artists": [
+      "Luiku",
+      "ULIA LORD"
+    ],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ae6b1e18db39d9b72f76df70",
     "releaseDate": "2020-12-18",
+    "tags": [
+      "alternative",
+      "trip-hop"
+    ],
     "title": "Тиха ніч, Свята ніч",
     "totalTracks": 1,
     "type": "single",
@@ -102,10 +136,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ULIA LORD"],
+    "artists": [
+      "ULIA LORD"
+    ],
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732068469572fde472b938f5f5",
     "releaseDate": "2020-07-17",
+    "tags": [
+      "trip-hop"
+    ],
     "title": "Мова",
     "totalTracks": 1,
     "type": "single",
@@ -118,10 +157,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ULIA LORD"],
+    "artists": [
+      "ULIA LORD"
+    ],
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27304684b9e6a1839a2f070f2d1",
     "releaseDate": "2019-09-13",
+    "tags": [
+      "trip-hop"
+    ],
     "title": "Вільні",
     "totalTracks": 1,
     "type": "single",
@@ -134,10 +178,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ULIA LORD"],
+    "artists": [
+      "ULIA LORD"
+    ],
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273869c24cd660298e815086418",
     "releaseDate": "2019-02-14",
+    "tags": [
+      "trip-hop"
+    ],
     "title": "Біле : Чорне",
     "totalTracks": 1,
     "type": "single",
@@ -150,10 +199,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ULIA LORD"],
+    "artists": [
+      "ULIA LORD"
+    ],
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27395264c467bcd07c716365bca",
     "releaseDate": "2016-03-30",
+    "tags": [
+      "trip-hop"
+    ],
     "title": "Літаю",
     "totalTracks": 1,
     "type": "single",
@@ -166,10 +220,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ULIA LORD"],
+    "artists": [
+      "ULIA LORD"
+    ],
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732e5c7c911de42294dd3c0d37",
     "releaseDate": "2014-11-17",
+    "tags": [
+      "trip-hop"
+    ],
     "title": "Єдина",
     "totalTracks": 1,
     "type": "single",
@@ -182,10 +241,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Першосвіт"],
+    "artists": [
+      "Першосвіт"
+    ],
     "artistsPopularity": 23,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f13e2ecc69122d7d91fdbb20",
     "releaseDate": "2020-11-11",
+    "tags": [],
     "title": "Найкращі пісні для дітей",
     "totalTracks": 13,
     "type": "album",
@@ -198,10 +260,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Крихітка"],
+    "artists": [
+      "Крихітка"
+    ],
     "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273684977b0b4249b29deee0452",
     "releaseDate": "2025-05-30",
+    "tags": [
+      "pop rock",
+      "female vocalists"
+    ],
     "title": "Усі ми прагнемо любові",
     "totalTracks": 1,
     "type": "single",
@@ -214,10 +282,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Першосвіт"],
+    "artists": [
+      "Першосвіт"
+    ],
     "artistsPopularity": 23,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730f30030b9a47a5eb3065a491",
     "releaseDate": "2020-12-12",
+    "tags": [],
     "title": "Різдвяні пісні для малят",
     "totalTracks": 7,
     "type": "album",

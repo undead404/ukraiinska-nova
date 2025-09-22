@@ -6,10 +6,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Спалені вітрила"],
+    "artists": [
+      "Спалені вітрила"
+    ],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273239b7b6c830e739e4e124384",
     "releaseDate": "2024-05-13",
+    "tags": [
+      "rock"
+    ],
     "title": "Божевільна Людина",
     "totalTracks": 11,
     "type": "album",
@@ -22,10 +27,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Спалені вітрила"],
+    "artists": [
+      "Спалені вітрила"
+    ],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bfa13fe4de750225cb9dbdbf",
     "releaseDate": "2023-04-20",
+    "tags": [
+      "rock"
+    ],
     "title": "Полетіли в небо",
     "totalTracks": 12,
     "type": "album",

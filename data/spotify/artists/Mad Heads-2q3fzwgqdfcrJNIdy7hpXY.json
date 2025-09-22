@@ -6,10 +6,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Mad Heads"],
+    "artists": [
+      "Mad Heads"
+    ],
     "artistsPopularity": 34,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27373fe8bcfc7b6160ef904287c",
     "releaseDate": "2015-10-09",
+    "tags": [
+      "psychobilly",
+      "rockabilly"
+    ],
     "title": "8",
     "totalTracks": 17,
     "type": "album",
@@ -22,10 +28,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Mad Heads"],
+    "artists": [
+      "Mad Heads"
+    ],
     "artistsPopularity": 34,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bb1ac56d5161857283a650b4",
     "releaseDate": "2011-04-25",
+    "tags": [
+      "psychobilly",
+      "rockabilly"
+    ],
     "title": "УкраїнSKA",
     "totalTracks": 19,
     "type": "album",
@@ -38,10 +50,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Mad Heads"],
+    "artists": [
+      "Mad Heads"
+    ],
     "artistsPopularity": 34,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738bbaaedcd7662223ab17b40a",
     "releaseDate": "2008-05-27",
+    "tags": [
+      "psychobilly",
+      "rockabilly"
+    ],
     "title": "Forever",
     "totalTracks": 14,
     "type": "album",
@@ -54,10 +72,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Mad Heads"],
+    "artists": [
+      "Mad Heads"
+    ],
     "artistsPopularity": 34,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731763785772cf457c2cffcf7c",
     "releaseDate": "2007-10-15",
+    "tags": [
+      "psychobilly",
+      "rockabilly"
+    ],
     "title": "Найкраща мить (Кращі хіти та балади)",
     "totalTracks": 21,
     "type": "album",
@@ -70,10 +94,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Mad Heads"],
+    "artists": [
+      "Mad Heads"
+    ],
     "artistsPopularity": 34,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b8662df6bccf5c1d3bc6936c",
     "releaseDate": "2006-10-10",
+    "tags": [
+      "psychobilly",
+      "rockabilly"
+    ],
     "title": "Naked Flame",
     "totalTracks": 17,
     "type": "album",
@@ -86,10 +116,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Mad Heads"],
+    "artists": [
+      "Mad Heads"
+    ],
     "artistsPopularity": 34,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27342ee2f4356cc04469f864cf0",
     "releaseDate": "2005-10-24",
+    "tags": [
+      "psychobilly",
+      "rockabilly"
+    ],
     "title": "Надія є",
     "totalTracks": 15,
     "type": "album",
@@ -102,10 +138,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Mad Heads"],
+    "artists": [
+      "Mad Heads"
+    ],
     "artistsPopularity": 34,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730da429a10ec9bc2e50d057cc",
     "releaseDate": "2004-10-10",
+    "tags": [
+      "psychobilly",
+      "rockabilly"
+    ],
     "title": "Mad in Ukraine",
     "totalTracks": 13,
     "type": "album",
@@ -118,10 +160,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Mad Heads"],
+    "artists": [
+      "Mad Heads"
+    ],
     "artistsPopularity": 34,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27381f72248af26e51c1b648f69",
     "releaseDate": "2004-09-10",
+    "tags": [
+      "psychobilly",
+      "rockabilly"
+    ],
     "title": "Psycholula",
     "totalTracks": 14,
     "type": "album",
@@ -134,10 +182,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Mad Heads"],
+    "artists": [
+      "Mad Heads"
+    ],
     "artistsPopularity": 34,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734fa9ca74bdfbca5f01fe20ff",
     "releaseDate": "2003-10-10",
+    "tags": [
+      "psychobilly",
+      "rockabilly"
+    ],
     "title": "Контакт",
     "totalTracks": 14,
     "type": "album",
@@ -150,10 +204,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Mad Heads"],
+    "artists": [
+      "Mad Heads"
+    ],
     "artistsPopularity": 34,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27350b55cd977aefd41b7b9d212",
     "releaseDate": "2025-02-27",
+    "tags": [
+      "psychobilly",
+      "rockabilly"
+    ],
     "title": "Братство вірних",
     "totalTracks": 1,
     "type": "single",
@@ -166,10 +226,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Medial Banana", "Mad Heads"],
+    "artists": [
+      "Medial Banana",
+      "Mad Heads"
+    ],
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273617ee554468046b181f83708",
     "releaseDate": "2023-12-01",
+    "tags": [
+      "reggae",
+      "psychobilly",
+      "rockabilly"
+    ],
     "title": "No More War",
     "totalTracks": 1,
     "type": "single",
@@ -182,10 +250,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Mad Heads"],
+    "artists": [
+      "Mad Heads"
+    ],
     "artistsPopularity": 34,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c04ca7901c7e1bf6384b7857",
     "releaseDate": "2023-08-17",
+    "tags": [
+      "psychobilly",
+      "rockabilly"
+    ],
     "title": "Світло всередині нас",
     "totalTracks": 1,
     "type": "single",
@@ -198,10 +272,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Mad Heads"],
+    "artists": [
+      "Mad Heads"
+    ],
     "artistsPopularity": 34,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730056efe7e134139ee5123321",
     "releaseDate": "2022-10-28",
+    "tags": [
+      "psychobilly",
+      "rockabilly"
+    ],
     "title": "Ми українці, ми можемо все",
     "totalTracks": 1,
     "type": "single",
@@ -214,10 +294,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Mad Heads"],
+    "artists": [
+      "Mad Heads"
+    ],
     "artistsPopularity": 34,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a09a1df9ed5e07c914b79309",
     "releaseDate": "2021-12-20",
+    "tags": [
+      "psychobilly",
+      "rockabilly"
+    ],
     "title": "Smile",
     "totalTracks": 1,
     "type": "single",
@@ -230,10 +316,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Mad Heads"],
+    "artists": [
+      "Mad Heads"
+    ],
     "artistsPopularity": 34,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273542fbf47d2fd35a35e18efe8",
     "releaseDate": "2020-05-01",
+    "tags": [
+      "psychobilly",
+      "rockabilly"
+    ],
     "title": "Take a little time - Cерця відкрити",
     "totalTracks": 3,
     "type": "single",
@@ -246,10 +338,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Mad Heads"],
+    "artists": [
+      "Mad Heads"
+    ],
     "artistsPopularity": 34,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27360acb3326e98f2d6c7754ec4",
     "releaseDate": "2018-10-17",
+    "tags": [
+      "psychobilly",
+      "rockabilly"
+    ],
     "title": "Прощавай",
     "totalTracks": 2,
     "type": "single",
@@ -262,10 +360,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Mad Heads"],
+    "artists": [
+      "Mad Heads"
+    ],
     "artistsPopularity": 34,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273758061ccb6c1cc9e7c5c4115",
     "releaseDate": "2017-07-07",
+    "tags": [
+      "psychobilly",
+      "rockabilly"
+    ],
     "title": "Не панікуй",
     "totalTracks": 1,
     "type": "single",
@@ -278,10 +382,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Mad Heads"],
+    "artists": [
+      "Mad Heads"
+    ],
     "artistsPopularity": 34,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fbbd8979c1b088c9bef2046b",
     "releaseDate": "2016-07-08",
+    "tags": [
+      "psychobilly",
+      "rockabilly"
+    ],
     "title": "А я на морі (Новий сезон)",
     "totalTracks": 1,
     "type": "single",
@@ -294,10 +404,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Mad Heads"],
+    "artists": [
+      "Mad Heads"
+    ],
     "artistsPopularity": 34,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27348934c797af11d45b0a17af4",
     "releaseDate": "2014-07-08",
+    "tags": [
+      "psychobilly",
+      "rockabilly"
+    ],
     "title": "Час",
     "totalTracks": 2,
     "type": "single",
@@ -310,10 +426,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Medial Banana"],
+    "artists": [
+      "Medial Banana"
+    ],
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273030426d40bf5c5bd37be1286",
     "releaseDate": "2024-03-15",
+    "tags": [
+      "reggae"
+    ],
     "title": "More času",
     "totalTracks": 13,
     "type": "album",

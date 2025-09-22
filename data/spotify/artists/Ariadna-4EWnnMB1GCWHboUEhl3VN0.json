@@ -6,10 +6,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Ariadna"],
+    "artists": [
+      "Ariadna"
+    ],
     "artistsPopularity": 29,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27393baf75c41222e24e4a32da9",
     "releaseDate": "2025-08-25",
+    "tags": [
+      "pop",
+      "indie pop",
+      "electronic"
+    ],
     "title": "Ти і я",
     "totalTracks": 1,
     "type": "single",
@@ -22,10 +29,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Ariadna"],
+    "artists": [
+      "Ariadna"
+    ],
     "artistsPopularity": 29,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27305a0e8b9f064f75f0a9e7c45",
     "releaseDate": "2024-08-19",
+    "tags": [
+      "pop",
+      "indie pop",
+      "electronic"
+    ],
     "title": "Безодня",
     "totalTracks": 1,
     "type": "single",
@@ -38,10 +52,19 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Ariadna", "pavlos"],
+    "artists": [
+      "Ariadna",
+      "pavlos"
+    ],
     "artistsPopularity": 43,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27345f386c8cc81afcc9270ef12",
     "releaseDate": "2024-05-20",
+    "tags": [
+      "pop",
+      "angelcore",
+      "indie pop",
+      "electronic"
+    ],
     "title": "Cyanide (Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -54,10 +77,19 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["BADWOR7H", "Ariadna"],
+    "artists": [
+      "BADWOR7H",
+      "Ariadna"
+    ],
     "artistsPopularity": 31,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739024412b6df0f2741b567458",
     "releaseDate": "2024-02-16",
+    "tags": [
+      "electronic",
+      "pop",
+      "breakbeat",
+      "indie pop"
+    ],
     "title": "Круг (Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -70,10 +102,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Ariadna"],
+    "artists": [
+      "Ariadna"
+    ],
     "artistsPopularity": 29,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736facf610e4956203ff37fb76",
     "releaseDate": "2023-12-22",
+    "tags": [
+      "pop",
+      "indie pop",
+      "electronic"
+    ],
     "title": "Зв'язок",
     "totalTracks": 4,
     "type": "single",
@@ -86,10 +125,20 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Ariadna", "Re:drum"],
+    "artists": [
+      "Ariadna",
+      "Re:drum"
+    ],
     "artistsPopularity": 29,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d6487c8c07c632891b2ba915",
     "releaseDate": "2023-11-03",
+    "tags": [
+      "pop",
+      "electronic",
+      "electro",
+      "breakbeat",
+      "indie pop"
+    ],
     "title": "Agnec (Re:Drum Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -102,10 +151,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Ariadna"],
+    "artists": [
+      "Ariadna"
+    ],
     "artistsPopularity": 29,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27389e8ecd08b7de727609bd288",
     "releaseDate": "2023-10-28",
+    "tags": [
+      "pop",
+      "indie pop",
+      "electronic"
+    ],
     "title": "Суanide",
     "totalTracks": 1,
     "type": "single",
@@ -118,10 +174,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Ariadna"],
+    "artists": [
+      "Ariadna"
+    ],
     "artistsPopularity": 29,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eb721b66b26322f10370ca61",
     "releaseDate": "2023-08-25",
+    "tags": [
+      "pop",
+      "indie pop",
+      "electronic"
+    ],
     "title": "Agnec",
     "totalTracks": 1,
     "type": "single",

@@ -6,10 +6,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Max Triss"],
+    "artists": [
+      "Max Triss"
+    ],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273703e38b366f920c597536583",
     "releaseDate": "2024-11-29",
+    "tags": [],
     "title": "Ночами",
     "totalTracks": 1,
     "type": "single",
@@ -22,10 +25,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Max Triss", "KRYLATA"],
+    "artists": [
+      "Max Triss",
+      "KRYLATA"
+    ],
     "artistsPopularity": 31,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733510242c343cff78375197f6",
     "releaseDate": "2024-09-27",
+    "tags": [
+      "pop"
+    ],
     "title": "Ще вище",
     "totalTracks": 1,
     "type": "single",
@@ -38,10 +47,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Max Triss"],
+    "artists": [
+      "Max Triss"
+    ],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732e5698d025981b7a187155e5",
     "releaseDate": "2023-12-15",
+    "tags": [],
     "title": "Плакуча гітара",
     "totalTracks": 1,
     "type": "single",
@@ -54,10 +66,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Max Triss"],
+    "artists": [
+      "Max Triss"
+    ],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735cea45591817cd9e75be7a96",
     "releaseDate": "2023-12-15",
+    "tags": [],
     "title": "Зірка",
     "totalTracks": 1,
     "type": "single",
@@ -70,10 +85,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Max Triss"],
+    "artists": [
+      "Max Triss"
+    ],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273883d6fdd270e1f68d11973fd",
     "releaseDate": "2023-12-01",
+    "tags": [],
     "title": "Як тебе забути",
     "totalTracks": 1,
     "type": "single",
@@ -86,10 +104,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Max Triss"],
+    "artists": [
+      "Max Triss"
+    ],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27398491e8844df326a55ae8c5e",
     "releaseDate": "2023-10-27",
+    "tags": [],
     "title": "Де ми",
     "totalTracks": 1,
     "type": "single",
@@ -102,10 +123,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Max Triss"],
+    "artists": [
+      "Max Triss"
+    ],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27381256e6277506fe1a9d6d92c",
     "releaseDate": "2023-10-13",
+    "tags": [],
     "title": "Черемшина",
     "totalTracks": 1,
     "type": "single",
@@ -118,10 +142,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Max Triss"],
+    "artists": [
+      "Max Triss"
+    ],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27332f97ab2f8c0ee3aa0bf833f",
     "releaseDate": "2023-09-22",
+    "tags": [],
     "title": "Коли між нами все так",
     "totalTracks": 1,
     "type": "single",
@@ -134,10 +161,14 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Milliart", "Max Triss"],
+    "artists": [
+      "Milliart",
+      "Max Triss"
+    ],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f69167bbb9bd1c21d31308ad",
     "releaseDate": "2023-08-18",
+    "tags": [],
     "title": "Не чужі",
     "totalTracks": 1,
     "type": "single",
@@ -150,10 +181,14 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Max Triss", "Get Better"],
+    "artists": [
+      "Max Triss",
+      "Get Better"
+    ],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738a8b9e0d4b1e127405aeb271",
     "releaseDate": "2023-08-13",
+    "tags": [],
     "title": "Зірка (Get Better Remix)",
     "totalTracks": 2,
     "type": "single",
@@ -166,10 +201,14 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Milliart", "Max Triss"],
+    "artists": [
+      "Milliart",
+      "Max Triss"
+    ],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b76ea572a514ff69f14b41bf",
     "releaseDate": "2023-05-12",
+    "tags": [],
     "title": "Від землі до зірок (Piano version)",
     "totalTracks": 1,
     "type": "single",
@@ -182,10 +221,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Max Triss"],
+    "artists": [
+      "Max Triss"
+    ],
     "artistsPopularity": 15,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737e9e31aeac6abab304e7cd81",
     "releaseDate": "2023-05-04",
+    "tags": [],
     "title": "Стожари",
     "totalTracks": 1,
     "type": "single",

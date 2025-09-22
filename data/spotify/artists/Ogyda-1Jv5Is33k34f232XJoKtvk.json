@@ -6,10 +6,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Ogyda"],
+    "artists": [
+      "Ogyda"
+    ],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733f70a43614d7fe3cb94f324a",
     "releaseDate": "2025-09-14",
+    "tags": [
+      "death metal",
+      "metal"
+    ],
     "title": "VKLIEK",
     "totalTracks": 3,
     "type": "single",
@@ -22,10 +28,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Ogyda"],
+    "artists": [
+      "Ogyda"
+    ],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a4524b25df80106883271de3",
     "releaseDate": "2024-06-25",
+    "tags": [
+      "death metal",
+      "metal"
+    ],
     "title": "Fungus",
     "totalTracks": 1,
     "type": "single",

@@ -6,10 +6,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Volaj"],
+    "artists": [
+      "Volaj"
+    ],
     "artistsPopularity": 5,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cc39068c60e523d1ba365766",
     "releaseDate": "2025-08-28",
+    "tags": [
+      "metalcore"
+    ],
     "title": "Може потім буде краще?",
     "totalTracks": 1,
     "type": "single",
@@ -22,10 +27,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Volaj"],
+    "artists": [
+      "Volaj"
+    ],
     "artistsPopularity": 5,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730c5243534d8a4e0529e403a3",
     "releaseDate": "2024-10-25",
+    "tags": [
+      "metalcore"
+    ],
     "title": "Скільки ще потрібно буде часу?",
     "totalTracks": 1,
     "type": "single",
@@ -38,10 +48,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Volaj"],
+    "artists": [
+      "Volaj"
+    ],
     "artistsPopularity": 5,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273787c5ff676227e3a765ea391",
     "releaseDate": "2024-09-27",
+    "tags": [
+      "metalcore"
+    ],
     "title": "Чи справді ти хоч колись відчував?",
     "totalTracks": 1,
     "type": "single",

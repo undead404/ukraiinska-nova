@@ -6,10 +6,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Sharlayh"],
+    "artists": [
+      "Sharlayh"
+    ],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d2fcfd1f944d251eb30565c5",
     "releaseDate": "2019-04-20",
+    "tags": [],
     "title": "2018",
     "totalTracks": 7,
     "type": "album",
@@ -22,10 +25,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Sharlayh"],
+    "artists": [
+      "Sharlayh"
+    ],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734423a86a3ed764e23c2bd438",
     "releaseDate": "2025-09-11",
+    "tags": [],
     "title": "Прівєт!",
     "totalTracks": 1,
     "type": "single",
@@ -38,10 +44,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Sharlayh"],
+    "artists": [
+      "Sharlayh"
+    ],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b2d6d87798819b4175d76a73",
     "releaseDate": "2025-09-04",
+    "tags": [],
     "title": "Підпис Здесь",
     "totalTracks": 1,
     "type": "single",
@@ -54,10 +63,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Sharlayh"],
+    "artists": [
+      "Sharlayh"
+    ],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27323fbd99ad86200a2cefe1c5a",
     "releaseDate": "2019-02-02",
+    "tags": [],
     "title": "Шлак Ш",
     "totalTracks": 3,
     "type": "single",

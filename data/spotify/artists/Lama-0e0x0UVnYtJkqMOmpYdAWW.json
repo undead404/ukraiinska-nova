@@ -6,10 +6,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Lama"],
+    "artists": [
+      "Lama"
+    ],
     "artistsPopularity": 37,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27373f0bd8ed109350d48e707b5",
     "releaseDate": "2013-11-01",
+    "tags": [
+      "hardcore punk",
+      "finnish punk"
+    ],
     "title": "Назавжди",
     "totalTracks": 12,
     "type": "album",
@@ -22,10 +28,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Lama"],
+    "artists": [
+      "Lama"
+    ],
     "artistsPopularity": 37,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732ab51c85926117002409f8f3",
     "releaseDate": "2008-05-14",
+    "tags": [
+      "hardcore punk",
+      "finnish punk"
+    ],
     "title": "Світло і тінь",
     "totalTracks": 11,
     "type": "album",
@@ -38,10 +50,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Lama"],
+    "artists": [
+      "Lama"
+    ],
     "artistsPopularity": 37,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27396bc299e986d9e580e5070f5",
     "releaseDate": "2006-01-01",
+    "tags": [
+      "hardcore punk",
+      "finnish punk"
+    ],
     "title": "Мені так треба",
     "totalTracks": 12,
     "type": "album",
@@ -54,10 +72,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["MELOVIN", "Lama"],
+    "artists": [
+      "MELOVIN",
+      "Lama"
+    ],
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273de9b62bc5b881c87e8bfcbf7",
     "releaseDate": "2025-08-20",
+    "tags": [
+      "pop",
+      "hardcore punk",
+      "finnish punk"
+    ],
     "title": "Мені так треба Вітрила!",
     "totalTracks": 2,
     "type": "single",
@@ -70,10 +96,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Lama"],
+    "artists": [
+      "Lama"
+    ],
     "artistsPopularity": 37,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27374a536a2ec3015e4718f465e",
     "releaseDate": "2024-12-13",
+    "tags": [
+      "hardcore punk",
+      "finnish punk"
+    ],
     "title": "Тішу",
     "totalTracks": 1,
     "type": "single",
@@ -86,10 +118,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Lama", "your flame"],
+    "artists": [
+      "Lama",
+      "your flame"
+    ],
     "artistsPopularity": 37,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734d31abaffa8be4fb2db82588",
     "releaseDate": "2023-12-22",
+    "tags": [
+      "hardcore punk",
+      "finnish punk"
+    ],
     "title": "Знаєш, як болить (your flame remix)",
     "totalTracks": 1,
     "type": "single",
@@ -102,10 +141,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Lama"],
+    "artists": [
+      "Lama"
+    ],
     "artistsPopularity": 37,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27330b374c79de9b7cdc2c6edb8",
     "releaseDate": "2023-11-10",
+    "tags": [
+      "hardcore punk",
+      "finnish punk"
+    ],
     "title": "Мій друг",
     "totalTracks": 1,
     "type": "single",
@@ -118,10 +163,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Lama"],
+    "artists": [
+      "Lama"
+    ],
     "artistsPopularity": 37,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273da83cb4093701004126e424c",
     "releaseDate": "2022-04-08",
+    "tags": [
+      "hardcore punk",
+      "finnish punk"
+    ],
     "title": "Сильні люди",
     "totalTracks": 1,
     "type": "single",
@@ -134,10 +185,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Lama", "Ульмо Три"],
+    "artists": [
+      "Lama",
+      "Ульмо Три"
+    ],
     "artistsPopularity": 37,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730e4bbc4e8a8b9a2fa4104a1e",
     "releaseDate": "2022-02-11",
+    "tags": [
+      "hardcore punk",
+      "finnish punk"
+    ],
     "title": "Любов починається",
     "totalTracks": 1,
     "type": "single",
@@ -150,10 +208,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Lama"],
+    "artists": [
+      "Lama"
+    ],
     "artistsPopularity": 37,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c5970e81f9a20706981e8494",
     "releaseDate": "2021-04-16",
+    "tags": [
+      "hardcore punk",
+      "finnish punk"
+    ],
     "title": "Діаманти",
     "totalTracks": 1,
     "type": "single",
@@ -166,10 +230,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Lama"],
+    "artists": [
+      "Lama"
+    ],
     "artistsPopularity": 37,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b80e075bc939c2f8c60b553c",
     "releaseDate": "2019-03-25",
+    "tags": [
+      "hardcore punk",
+      "finnish punk"
+    ],
     "title": "Дим",
     "totalTracks": 1,
     "type": "single",
@@ -182,10 +252,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Lama"],
+    "artists": [
+      "Lama"
+    ],
     "artistsPopularity": 37,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730f655ec4c01c844ab7a01a89",
     "releaseDate": "2018-03-05",
+    "tags": [
+      "hardcore punk",
+      "finnish punk"
+    ],
     "title": "Привіт, привіт",
     "totalTracks": 1,
     "type": "single",
@@ -198,10 +274,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Lama"],
+    "artists": [
+      "Lama"
+    ],
     "artistsPopularity": 37,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733994e713f6f573f4eee6f61b",
     "releaseDate": "2017-04-24",
+    "tags": [
+      "hardcore punk",
+      "finnish punk"
+    ],
     "title": "Спалені мости",
     "totalTracks": 1,
     "type": "single",
@@ -214,10 +296,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Lama"],
+    "artists": [
+      "Lama"
+    ],
     "artistsPopularity": 37,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a7c5664d0312410a89445f81",
     "releaseDate": "2016-11-11",
+    "tags": [
+      "hardcore punk",
+      "finnish punk"
+    ],
     "title": "Не кажу прощай",
     "totalTracks": 1,
     "type": "single",
@@ -230,10 +318,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Lama"],
+    "artists": [
+      "Lama"
+    ],
     "artistsPopularity": 37,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27321e43848f26cc961e8f0214c",
     "releaseDate": "2015-09-08",
+    "tags": [
+      "hardcore punk",
+      "finnish punk"
+    ],
     "title": "Мій милий",
     "totalTracks": 1,
     "type": "single",
@@ -246,10 +340,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Damn"],
+    "artists": [
+      "Damn"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273393a2ecae78c3202015ce518",
     "releaseDate": "2000",
+    "tags": [
+      "funk",
+      "jazz",
+      "nu-jazz"
+    ],
     "title": "CP1",
     "totalTracks": 1,
     "type": "single",
@@ -262,10 +363,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Mr Mak"],
+    "artists": [
+      "Mr Mak"
+    ],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e0721b741edc8cd4baf1647c",
     "releaseDate": "2021-07-24",
+    "tags": [],
     "title": "Briss",
     "totalTracks": 1,
     "type": "single",

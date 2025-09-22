@@ -6,10 +6,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Ship Her Son"],
+    "artists": [
+      "Ship Her Son"
+    ],
     "artistsPopularity": 18,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732af6c724d7b287d415565cca",
     "releaseDate": "2021-05-07",
+    "tags": [
+      "industrial"
+    ],
     "title": "Essen",
     "totalTracks": 10,
     "type": "album",
@@ -22,10 +27,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Ship Her Son"],
+    "artists": [
+      "Ship Her Son"
+    ],
     "artistsPopularity": 18,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739289a8d77121d9529a8e281a",
     "releaseDate": "2025-04-18",
+    "tags": [
+      "industrial"
+    ],
     "title": "Я не маю сил",
     "totalTracks": 2,
     "type": "single",
@@ -38,10 +48,19 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["1914", "Ship Her Son", "Barney Hines Band"],
+    "artists": [
+      "1914",
+      "Ship Her Son",
+      "Barney Hines Band"
+    ],
     "artistsPopularity": 37,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e8ef6de20b2d12d5eea68150",
     "releaseDate": "2025-02-24",
+    "tags": [
+      "black metal",
+      "industrial",
+      "Blackened Death Metal"
+    ],
     "title": "Invaders Must Die",
     "totalTracks": 1,
     "type": "single",
@@ -54,10 +73,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Ship Her Son"],
+    "artists": [
+      "Ship Her Son"
+    ],
     "artistsPopularity": 18,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732e6e1900c8489d9a9f9df437",
     "releaseDate": "2024-06-28",
+    "tags": [
+      "industrial"
+    ],
     "title": "У вічність / Вдих",
     "totalTracks": 2,
     "type": "single",
@@ -70,10 +94,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Ship Her Son", "паліндром"],
+    "artists": [
+      "Ship Her Son",
+      "паліндром"
+    ],
     "artistsPopularity": 37,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b242a1caa713ed605ee56b72",
     "releaseDate": "2022-12-02",
+    "tags": [
+      "industrial",
+      "synthpop",
+      "dream pop"
+    ],
     "title": "Все не так погано",
     "totalTracks": 1,
     "type": "single",
@@ -86,10 +118,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Ship Her Son"],
+    "artists": [
+      "Ship Her Son"
+    ],
     "artistsPopularity": 18,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b3a37ddde7863c99b2c5cc48",
     "releaseDate": "2022-07-22",
+    "tags": [
+      "industrial"
+    ],
     "title": "Alles Wird Gut",
     "totalTracks": 6,
     "type": "single",
@@ -102,10 +139,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["паліндром", "Ship Her Son"],
+    "artists": [
+      "паліндром",
+      "Ship Her Son"
+    ],
     "artistsPopularity": 37,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f459c38f4fdf92ff6f70ec8f",
     "releaseDate": "2022-03-11",
+    "tags": [
+      "synthpop",
+      "industrial",
+      "dream pop"
+    ],
     "title": "Спи",
     "totalTracks": 1,
     "type": "single",
@@ -118,10 +163,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Ship Her Son"],
+    "artists": [
+      "Ship Her Son"
+    ],
     "artistsPopularity": 18,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d256402f56fd72540f7b9a3e",
     "releaseDate": "2021-04-23",
+    "tags": [
+      "industrial"
+    ],
     "title": "Gott",
     "totalTracks": 1,
     "type": "single",
@@ -134,10 +184,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Ship Her Son"],
+    "artists": [
+      "Ship Her Son"
+    ],
     "artistsPopularity": 18,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738d86b57a01350838a1635ce0",
     "releaseDate": "2021-04-09",
+    "tags": [
+      "industrial"
+    ],
     "title": "Vier Liter Wasser",
     "totalTracks": 2,
     "type": "single",
@@ -150,10 +205,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Ship Her Son"],
+    "artists": [
+      "Ship Her Son"
+    ],
     "artistsPopularity": 18,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27348643c0dcefcacc8bc29bd87",
     "releaseDate": "2020-08-21",
+    "tags": [
+      "industrial"
+    ],
     "title": "Leicht Zu Öffnen",
     "totalTracks": 6,
     "type": "single",
@@ -166,10 +226,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Ship Her Son"],
+    "artists": [
+      "Ship Her Son"
+    ],
     "artistsPopularity": 18,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273379fb2c67026b1b43d3bebbe",
     "releaseDate": "2020-06-05",
+    "tags": [
+      "industrial"
+    ],
     "title": "Ratten",
     "totalTracks": 5,
     "type": "single",
@@ -182,10 +247,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Till Lindemann"],
+    "artists": [
+      "Till Lindemann"
+    ],
     "artistsPopularity": 60,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734eaa6b95827dced309afbe04",
     "releaseDate": "2021-05-31",
+    "tags": [
+      "industrial metal"
+    ],
     "title": "Ich hasse Kinder",
     "totalTracks": 3,
     "type": "single",
@@ -198,10 +268,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["The Nietzsche"],
+    "artists": [
+      "The Nietzsche"
+    ],
     "artistsPopularity": 8,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737ece254a2356dac5a02a4078",
     "releaseDate": "2023-11-17",
+    "tags": [
+      "mathcore"
+    ],
     "title": "Finals​.​: The Definitive Edition",
     "totalTracks": 25,
     "type": "album",

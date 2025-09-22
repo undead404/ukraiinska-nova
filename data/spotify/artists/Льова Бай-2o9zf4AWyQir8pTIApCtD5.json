@@ -6,10 +6,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Льова Бай"],
+    "artists": [
+      "Льова Бай"
+    ],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730d9e41fc189f62788178370c",
     "releaseDate": "2022-09-01",
+    "tags": [],
     "title": "Маленькі киці",
     "totalTracks": 1,
     "type": "single",

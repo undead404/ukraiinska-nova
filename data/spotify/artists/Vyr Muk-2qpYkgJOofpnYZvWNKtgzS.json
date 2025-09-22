@@ -6,10 +6,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Vyr Muk"],
+    "artists": [
+      "Vyr Muk"
+    ],
     "artistsPopularity": 8,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aaa59cb752d48385bb4c88a6",
     "releaseDate": "2025-04-10",
+    "tags": [
+      "black metal"
+    ],
     "title": "Crimson Fields of Sorrow",
     "totalTracks": 5,
     "type": "album",
@@ -22,10 +27,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Vyr Muk", "1310M"],
+    "artists": [
+      "Vyr Muk",
+      "1310M"
+    ],
     "artistsPopularity": 8,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27374db1a85450ee63f0972622d",
     "releaseDate": "2025-06-10",
+    "tags": [
+      "black metal"
+    ],
     "title": "Холодне Мовчання Зірок (split)",
     "totalTracks": 4,
     "type": "single",
@@ -38,10 +49,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Noise Pareidolia", "Vyr Muk"],
+    "artists": [
+      "Noise Pareidolia",
+      "Vyr Muk"
+    ],
     "artistsPopularity": 8,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27399ae357923ffe27c7e2d6f11",
     "releaseDate": "2025-04-24",
+    "tags": [
+      "alternative rock",
+      "rock",
+      "black metal"
+    ],
     "title": "Чому я не сокіл...",
     "totalTracks": 1,
     "type": "single",
@@ -54,10 +73,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Vyr Muk"],
+    "artists": [
+      "Vyr Muk"
+    ],
     "artistsPopularity": 8,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bf0d123b1b9e266d552282ae",
     "releaseDate": "2025-01-01",
+    "tags": [
+      "black metal"
+    ],
     "title": "Dreadmarch of The Hollow Knight",
     "totalTracks": 6,
     "type": "single",
@@ -70,10 +94,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Vyr Muk"],
+    "artists": [
+      "Vyr Muk"
+    ],
     "artistsPopularity": 8,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273320859a23d8a85cf9cbe74f9",
     "releaseDate": "2024-10-31",
+    "tags": [
+      "black metal"
+    ],
     "title": "Shadows Falling on the Dead Cities",
     "totalTracks": 4,
     "type": "single",
@@ -86,10 +115,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Vyr Muk"],
+    "artists": [
+      "Vyr Muk"
+    ],
     "artistsPopularity": 8,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27387e72423e8906935b5d8d68a",
     "releaseDate": "2024-08-01",
+    "tags": [
+      "black metal"
+    ],
     "title": "Piano Works Vol2",
     "totalTracks": 3,
     "type": "single",
@@ -102,10 +136,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Winds of Winter"],
+    "artists": [
+      "Winds of Winter"
+    ],
     "artistsPopularity": 8,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273407de06351371c961ca45e05",
     "releaseDate": "2025-04-25",
+    "tags": [
+      "saarland",
+      "germany"
+    ],
     "title": "The Cruel Summer Dying",
     "totalTracks": 2,
     "type": "single",

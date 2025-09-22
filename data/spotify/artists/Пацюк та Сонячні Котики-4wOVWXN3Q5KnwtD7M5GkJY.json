@@ -6,10 +6,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Пацюк та Сонячні Котики"],
+    "artists": [
+      "Пацюк та Сонячні Котики"
+    ],
     "artistsPopularity": 5,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734c0074c0c4b5f9b3d9732edf",
     "releaseDate": "2023-08-11",
+    "tags": [
+      "Garage Rock",
+      "Garage Punk"
+    ],
     "title": "Митал",
     "totalTracks": 3,
     "type": "single",
