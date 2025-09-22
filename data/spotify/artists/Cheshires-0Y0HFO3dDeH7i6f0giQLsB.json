@@ -6,10 +6,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Cheshires"],
+    "artists": [
+      "Cheshires"
+    ],
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736acdeae3732153100d5dd8be",
     "releaseDate": "2017-03-20",
+    "tags": [
+      "metal",
+      "rock"
+    ],
     "title": "Суперминор",
     "totalTracks": 10,
     "type": "album",
@@ -22,10 +28,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Cheshires"],
+    "artists": [
+      "Cheshires"
+    ],
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c18b2b8cdbabb056f7f833d4",
     "releaseDate": "2014-11-28",
+    "tags": [
+      "metal",
+      "rock"
+    ],
     "title": "Mea Maxima",
     "totalTracks": 11,
     "type": "album",
@@ -38,10 +50,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Cheshires"],
+    "artists": [
+      "Cheshires"
+    ],
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27322cef19fe26b519162b58ce6",
     "releaseDate": "2010-09-25",
+    "tags": [
+      "metal",
+      "rock"
+    ],
     "title": "Дрожь",
     "totalTracks": 12,
     "type": "album",
@@ -54,10 +72,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Cheshires"],
+    "artists": [
+      "Cheshires"
+    ],
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273182c1d1b6a324418d113d905",
     "releaseDate": "2021-04-05",
+    "tags": [
+      "metal",
+      "rock"
+    ],
     "title": "Мои новые чёрные крылья",
     "totalTracks": 1,
     "type": "single",
@@ -70,10 +94,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Cheshires"],
+    "artists": [
+      "Cheshires"
+    ],
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c3ba4d8f2c8b9c550a4225e4",
     "releaseDate": "2019-04-02",
+    "tags": [
+      "metal",
+      "rock"
+    ],
     "title": "Хардкор",
     "totalTracks": 1,
     "type": "single",
@@ -86,10 +116,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Cheshires"],
+    "artists": [
+      "Cheshires"
+    ],
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e50e2342a9adb4285257025a",
     "releaseDate": "2017-10-10",
+    "tags": [
+      "metal",
+      "rock"
+    ],
     "title": "Север",
     "totalTracks": 1,
     "type": "single",
@@ -102,10 +138,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Cheshires"],
+    "artists": [
+      "Cheshires"
+    ],
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a7232c655896bac61851a2d2",
     "releaseDate": "2016-07-04",
+    "tags": [
+      "metal",
+      "rock"
+    ],
     "title": "Ликантропия",
     "totalTracks": 1,
     "type": "single",
@@ -118,10 +160,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Cheshires"],
+    "artists": [
+      "Cheshires"
+    ],
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273470458ebf858bd37302919e3",
     "releaseDate": "2013-03-21",
+    "tags": [
+      "metal",
+      "rock"
+    ],
     "title": "Воображаемый Друг",
     "totalTracks": 5,
     "type": "single",

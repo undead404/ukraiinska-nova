@@ -6,10 +6,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Merryruzvelt"],
+    "artists": [
+      "Merryruzvelt"
+    ],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737e7c593b3a7521fd35da3e0f",
     "releaseDate": "2021-05-16",
+    "tags": [
+      "indie rock"
+    ],
     "title": "Камбек",
     "totalTracks": 7,
     "type": "album",
@@ -22,10 +27,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Merryruzvelt"],
+    "artists": [
+      "Merryruzvelt"
+    ],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273560e02f03e4c19819b3b3932",
     "releaseDate": "2021-05-18",
+    "tags": [
+      "indie rock"
+    ],
     "title": "Марс",
     "totalTracks": 1,
     "type": "single",
@@ -38,10 +48,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Merryruzvelt"],
+    "artists": [
+      "Merryruzvelt"
+    ],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d5b82a139838f2269228623b",
     "releaseDate": "2021-05-16",
+    "tags": [
+      "indie rock"
+    ],
     "title": "Сонце і зорі",
     "totalTracks": 1,
     "type": "single",
@@ -54,10 +69,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Merryruzvelt"],
+    "artists": [
+      "Merryruzvelt"
+    ],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738782d205220089861935acbe",
     "releaseDate": "2021-05-16",
+    "tags": [
+      "indie rock"
+    ],
     "title": "Кавовий смак",
     "totalTracks": 1,
     "type": "single",
@@ -70,10 +90,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Merryruzvelt"],
+    "artists": [
+      "Merryruzvelt"
+    ],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f4b3d8000b23c2030eb0d62a",
     "releaseDate": "2021-05-12",
+    "tags": [
+      "indie rock"
+    ],
     "title": "Бути як усі",
     "totalTracks": 1,
     "type": "single",

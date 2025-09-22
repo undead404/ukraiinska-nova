@@ -6,10 +6,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Johnny Zombie"],
+    "artists": [
+      "Johnny Zombie"
+    ],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d962945d41574f0a18524519",
     "releaseDate": "2011-06-23",
+    "tags": [
+      "Progressive rock"
+    ],
     "title": "The Bottom Of The Infinite Reflections",
     "totalTracks": 8,
     "type": "album",
@@ -22,10 +27,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Johnny Zombie"],
+    "artists": [
+      "Johnny Zombie"
+    ],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27398e8780fb06b7d2862a5a8f1",
     "releaseDate": "2011-05-23",
+    "tags": [
+      "Progressive rock"
+    ],
     "title": "If not you then who?",
     "totalTracks": 8,
     "type": "album",
@@ -38,10 +48,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Johnny Zombie"],
+    "artists": [
+      "Johnny Zombie"
+    ],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738da2e3c491da2baee3ab5849",
     "releaseDate": "2011-03-03",
+    "tags": [
+      "Progressive rock"
+    ],
     "title": "Travoiadernoe oruzhie",
     "totalTracks": 11,
     "type": "album",

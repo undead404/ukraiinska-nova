@@ -6,10 +6,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Anhedonia Nocturne"],
+    "artists": [
+      "Anhedonia Nocturne"
+    ],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273090e3fabd76440aae38fc2d1",
     "releaseDate": "2024-05-21",
+    "tags": [
+      "black metal",
+      "screamo",
+      "death metal"
+    ],
     "title": "У Нас Всередині Плететься",
     "totalTracks": 1,
     "type": "single",
@@ -22,10 +29,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Anhedonia Nocturne"],
+    "artists": [
+      "Anhedonia Nocturne"
+    ],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d18d808bddc88944d5afdff4",
     "releaseDate": "2024-03-28",
+    "tags": [
+      "black metal",
+      "screamo",
+      "death metal"
+    ],
     "title": "Dedicated To Nobody",
     "totalTracks": 3,
     "type": "single",

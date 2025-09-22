@@ -6,10 +6,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Загреб"],
+    "artists": [
+      "Загреб"
+    ],
     "artistsPopularity": 29,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737189b74e268fa465f9ac54c0",
     "releaseDate": "2023-06-16",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Спільнота",
     "totalTracks": 15,
     "type": "album",
@@ -22,10 +27,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Загреб"],
+    "artists": [
+      "Загреб"
+    ],
     "artistsPopularity": 29,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ad20068c0ab5044d941892c8",
     "releaseDate": "2020-02-20",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Ощущение Вечной Молодости",
     "totalTracks": 12,
     "type": "album",
@@ -38,10 +48,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Загреб"],
+    "artists": [
+      "Загреб"
+    ],
     "artistsPopularity": 29,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738a5fd8e5d39dd0a198ae8e3a",
     "releaseDate": "2025-05-02",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Все Мине Колись",
     "totalTracks": 1,
     "type": "single",
@@ -54,10 +69,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Загреб"],
+    "artists": [
+      "Загреб"
+    ],
     "artistsPopularity": 29,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cf45e7734924425ec14d8301",
     "releaseDate": "2024-11-08",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Чотири",
     "totalTracks": 4,
     "type": "single",
@@ -70,10 +90,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Загреб"],
+    "artists": [
+      "Загреб"
+    ],
     "artistsPopularity": 29,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a7b6f40a2d05890a8b5156ac",
     "releaseDate": "2024-01-19",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Ніч рятує",
     "totalTracks": 1,
     "type": "single",
@@ -86,10 +111,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Загреб"],
+    "artists": [
+      "Загреб"
+    ],
     "artistsPopularity": 29,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e3f3f194bff4b93a7817df3e",
     "releaseDate": "2023-11-03",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Тінь",
     "totalTracks": 1,
     "type": "single",
@@ -102,10 +132,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Загреб"],
+    "artists": [
+      "Загреб"
+    ],
     "artistsPopularity": 29,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273046efb5dc2d4ba35769783b7",
     "releaseDate": "2023-03-03",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Без них",
     "totalTracks": 1,
     "type": "single",
@@ -118,10 +153,19 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Загреб", "примара"],
+    "artists": [
+      "Загреб",
+      "примара"
+    ],
     "artistsPopularity": 29,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734b5be12b9e0e05854dc517ff",
     "releaseDate": "2023-02-17",
+    "tags": [
+      "post-punk",
+      "hip hop",
+      "rap",
+      "phonk"
+    ],
     "title": "Орфей",
     "totalTracks": 1,
     "type": "single",
@@ -134,10 +178,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Загреб"],
+    "artists": [
+      "Загреб"
+    ],
     "artistsPopularity": 29,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f7925882e6649dce10282b74",
     "releaseDate": "2022-11-11",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Сум",
     "totalTracks": 1,
     "type": "single",
@@ -150,10 +199,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Загреб", "Electrobirds"],
+    "artists": [
+      "Загреб",
+      "Electrobirds"
+    ],
     "artistsPopularity": 36,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731786f3f1ad986626412d5f67",
     "releaseDate": "2022-11-04",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Тримайся",
     "totalTracks": 1,
     "type": "single",
@@ -166,10 +221,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Загреб"],
+    "artists": [
+      "Загреб"
+    ],
     "artistsPopularity": 29,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273791d688b84449da21a8f8bed",
     "releaseDate": "2022-09-09",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Пару Ракет",
     "totalTracks": 1,
     "type": "single",
@@ -182,10 +242,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Загреб"],
+    "artists": [
+      "Загреб"
+    ],
     "artistsPopularity": 29,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c1ae50871edac1947fbbd6d4",
     "releaseDate": "2022-08-19",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Лютий",
     "totalTracks": 1,
     "type": "single",
@@ -198,10 +263,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Загреб"],
+    "artists": [
+      "Загреб"
+    ],
     "artistsPopularity": 29,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a8f9824195bf86555ff0bb8e",
     "releaseDate": "2022-07-02",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Зустріч",
     "totalTracks": 1,
     "type": "single",
@@ -214,10 +284,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Загреб"],
+    "artists": [
+      "Загреб"
+    ],
     "artistsPopularity": 29,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273805b81068b1593f6f8b8f1eb",
     "releaseDate": "2022-06-06",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Жито",
     "totalTracks": 1,
     "type": "single",
@@ -230,10 +305,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Загреб"],
+    "artists": [
+      "Загреб"
+    ],
     "artistsPopularity": 29,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27319088e641e60e54d207da2ee",
     "releaseDate": "2022-02-21",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Кричат Люди (Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -246,10 +326,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Загреб"],
+    "artists": [
+      "Загреб"
+    ],
     "artistsPopularity": 29,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733fc47f726939d9a5e69b5c9e",
     "releaseDate": "2021-12-14",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Одиноким",
     "totalTracks": 5,
     "type": "single",
@@ -262,10 +347,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Загреб"],
+    "artists": [
+      "Загреб"
+    ],
     "artistsPopularity": 29,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273695ccb5ffebca71d1f9f9df7",
     "releaseDate": "2021-06-03",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Сон (Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -278,10 +368,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Загреб"],
+    "artists": [
+      "Загреб"
+    ],
     "artistsPopularity": 29,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273be64c887087605172fe59da3",
     "releaseDate": "2021-05-07",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Чемпион (DNB Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -294,10 +389,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Загреб"],
+    "artists": [
+      "Загреб"
+    ],
     "artistsPopularity": 29,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27387cdfd399ff97f4d850f9cca",
     "releaseDate": "2021-04-30",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Shake Up",
     "totalTracks": 1,
     "type": "single",
@@ -310,10 +410,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Загреб"],
+    "artists": [
+      "Загреб"
+    ],
     "artistsPopularity": 29,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737ce20c0c7a96479d159a80ca",
     "releaseDate": "2021-04-20",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Second",
     "totalTracks": 4,
     "type": "single",
@@ -326,10 +431,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Загреб"],
+    "artists": [
+      "Загреб"
+    ],
     "artistsPopularity": 29,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732ecd68754098827f4242f8e5",
     "releaseDate": "2021-03-04",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Двигай",
     "totalTracks": 1,
     "type": "single",
@@ -342,10 +452,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Загреб"],
+    "artists": [
+      "Загреб"
+    ],
     "artistsPopularity": 29,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733e2abaa32a6ec4a600ef68ed",
     "releaseDate": "2019-09-06",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Чемпион",
     "totalTracks": 1,
     "type": "single",
@@ -358,10 +473,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Загреб"],
+    "artists": [
+      "Загреб"
+    ],
     "artistsPopularity": 29,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27341bfce27e9ca07822717ee1b",
     "releaseDate": "2019-09-06",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Звездопад",
     "totalTracks": 1,
     "type": "single",
@@ -374,10 +494,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Загреб"],
+    "artists": [
+      "Загреб"
+    ],
     "artistsPopularity": 29,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273084268d3b587290f27be72db",
     "releaseDate": "2019-08-16",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Метро",
     "totalTracks": 1,
     "type": "single",
@@ -390,10 +515,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Загреб"],
+    "artists": [
+      "Загреб"
+    ],
     "artistsPopularity": 29,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732c4b2355fdab33bc5b631525",
     "releaseDate": "2019-08-02",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Тень",
     "totalTracks": 1,
     "type": "single",
@@ -406,10 +536,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Загреб"],
+    "artists": [
+      "Загреб"
+    ],
     "artistsPopularity": 29,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27351a89ff5a1fae1932434c501",
     "releaseDate": "2019-08-02",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Tomorrow",
     "totalTracks": 1,
     "type": "single",
@@ -422,10 +557,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Загреб"],
+    "artists": [
+      "Загреб"
+    ],
     "artistsPopularity": 29,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b315cd58121882ff4dcf12f1",
     "releaseDate": "2019-08-02",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Sundays",
     "totalTracks": 1,
     "type": "single",
@@ -438,10 +578,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Загреб"],
+    "artists": [
+      "Загреб"
+    ],
     "artistsPopularity": 29,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736914dc86bb937ede6a81c8cc",
     "releaseDate": "2019-07-26",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Свет",
     "totalTracks": 1,
     "type": "single",
@@ -454,10 +599,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Загреб"],
+    "artists": [
+      "Загреб"
+    ],
     "artistsPopularity": 29,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273819546829f9880543da46cf2",
     "releaseDate": "2019-07-18",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Скажи мне",
     "totalTracks": 1,
     "type": "single",
@@ -470,10 +620,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Загреб"],
+    "artists": [
+      "Загреб"
+    ],
     "artistsPopularity": 29,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fc4dd3434631125d9c179957",
     "releaseDate": "2019-06-28",
+    "tags": [
+      "post-punk"
+    ],
     "title": "Wannabe",
     "totalTracks": 5,
     "type": "single",
@@ -486,10 +641,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Загреб"],
+    "artists": [
+      "Загреб"
+    ],
     "artistsPopularity": 29,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e5f2277f336a8038cd06aa1e",
     "releaseDate": "2016-04-04",
+    "tags": [
+      "post-punk"
+    ],
     "title": "betrays before explore",
     "totalTracks": 6,
     "type": "single",

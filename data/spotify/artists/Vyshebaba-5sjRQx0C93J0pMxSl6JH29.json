@@ -6,10 +6,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Vyshebaba", "Mari Cheba"],
+    "artists": [
+      "Vyshebaba",
+      "Mari Cheba"
+    ],
     "artistsPopularity": 19,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27334d416411c9e7aae87af06dc",
     "releaseDate": "2024-11-07",
+    "tags": [
+      "electronic",
+      "trip-hop"
+    ],
     "title": "Відбитки",
     "totalTracks": 1,
     "type": "single",
@@ -22,10 +29,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Vyshebaba", "alyona alyona"],
+    "artists": [
+      "Vyshebaba",
+      "alyona alyona"
+    ],
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273519fd4915ef1cb612f87cba5",
     "releaseDate": "2024-08-22",
+    "tags": [
+      "rap",
+      "Hip-Hop"
+    ],
     "title": "Моє покоління",
     "totalTracks": 1,
     "type": "single",
@@ -38,10 +52,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Vyshebaba", "Tapolsky"],
+    "artists": [
+      "Vyshebaba",
+      "Tapolsky"
+    ],
     "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d9b7bb57c82f4b7814f1f115",
     "releaseDate": "2024-08-08",
+    "tags": [
+      "Drum and bass",
+      "dubstep"
+    ],
     "title": "Плюс (+)",
     "totalTracks": 1,
     "type": "single",
@@ -54,10 +75,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Vyshebaba", "KOLA"],
+    "artists": [
+      "Vyshebaba",
+      "KOLA"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734a5706542444889dcd7d238d",
     "releaseDate": "2023-12-21",
+    "tags": [
+      "pop"
+    ],
     "title": "Шлях",
     "totalTracks": 1,
     "type": "single",
@@ -70,10 +97,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Vyshebaba", "DOVI"],
+    "artists": [
+      "Vyshebaba",
+      "DOVI"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27314b7b101028bff289425fb35",
     "releaseDate": "2023-10-19",
+    "tags": [
+      "dream pop"
+    ],
     "title": "Ліхтарі",
     "totalTracks": 1,
     "type": "single",
@@ -86,10 +119,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Vyshebaba"],
+    "artists": [
+      "Vyshebaba"
+    ],
     "artistsPopularity": 19,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27314bf426b07108b371353d4d6",
     "releaseDate": "2023-09-21",
+    "tags": [],
     "title": "Замість сповіді",
     "totalTracks": 1,
     "type": "single",
@@ -102,10 +138,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Vyshebaba", "BURLA"],
+    "artists": [
+      "Vyshebaba",
+      "BURLA"
+    ],
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27353bb8aca80a013a956c8d169",
     "releaseDate": "2023-07-20",
+    "tags": [
+      "Hip-Hop",
+      "rap"
+    ],
     "title": "Душі",
     "totalTracks": 1,
     "type": "single",
@@ -118,10 +161,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Vyshebaba", "NICHKA"],
+    "artists": [
+      "Vyshebaba",
+      "NICHKA"
+    ],
     "artistsPopularity": 36,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aeefd0cd77fb335a9d2cc47b",
     "releaseDate": "2022-12-21",
+    "tags": [
+      "indie pop"
+    ],
     "title": "Кохатись",
     "totalTracks": 1,
     "type": "single",
@@ -134,10 +183,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Vyshebaba", "KOLA"],
+    "artists": [
+      "Vyshebaba",
+      "KOLA"
+    ],
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27384361c4058370ce61d8277ba",
     "releaseDate": "2022-11-09",
+    "tags": [
+      "pop"
+    ],
     "title": "Доньці",
     "totalTracks": 1,
     "type": "single",
@@ -150,10 +205,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Vyshebaba"],
+    "artists": [
+      "Vyshebaba"
+    ],
     "artistsPopularity": 19,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c1cea51ae3298e5340735ba8",
     "releaseDate": "2022-08-25",
+    "tags": [],
     "title": "Доньці",
     "totalTracks": 1,
     "type": "single",

@@ -6,10 +6,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Gender Studies"],
+    "artists": [
+      "Gender Studies"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fcd8b6fced348ed51266925e",
     "releaseDate": "2024-05-27",
+    "tags": [
+      "Progressive rock",
+      "indie rock"
+    ],
     "title": "Далекий Лиман",
     "totalTracks": 6,
     "type": "album",
@@ -22,10 +28,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Gender Studies"],
+    "artists": [
+      "Gender Studies"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ebc6bcecbad446ef7a362ceb",
     "releaseDate": "2025-08-08",
+    "tags": [
+      "Progressive rock",
+      "indie rock"
+    ],
     "title": "Гимн Діяні",
     "totalTracks": 1,
     "type": "single",
@@ -38,10 +50,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Gender Studies"],
+    "artists": [
+      "Gender Studies"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27399d163384afbf4af7543ea9f",
     "releaseDate": "2024-10-31",
+    "tags": [
+      "Progressive rock",
+      "indie rock"
+    ],
     "title": "Її Вечір у Далекому Місті",
     "totalTracks": 1,
     "type": "single",
@@ -54,10 +72,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Gender Studies"],
+    "artists": [
+      "Gender Studies"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27389161de20988a58ced5ec137",
     "releaseDate": "2024-04-12",
+    "tags": [
+      "Progressive rock",
+      "indie rock"
+    ],
     "title": "Мужчина в Стилі Ретро",
     "totalTracks": 1,
     "type": "single",
@@ -70,10 +94,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Gender Studies"],
+    "artists": [
+      "Gender Studies"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736ae5bcf45fd511cd6e2022a5",
     "releaseDate": "2024-02-12",
+    "tags": [
+      "Progressive rock",
+      "indie rock"
+    ],
     "title": "Паралакс",
     "totalTracks": 1,
     "type": "single",
@@ -86,10 +116,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Gender Studies"],
+    "artists": [
+      "Gender Studies"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cbd4d0b9eee95ec48f22888d",
     "releaseDate": "2023-12-26",
+    "tags": [
+      "Progressive rock",
+      "indie rock"
+    ],
     "title": "Оксано!",
     "totalTracks": 1,
     "type": "single",
@@ -102,10 +138,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Gender Studies"],
+    "artists": [
+      "Gender Studies"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27388297282cca6602ec0c3984b",
     "releaseDate": "2022-12-31",
+    "tags": [
+      "Progressive rock",
+      "indie rock"
+    ],
     "title": "Gender Studies",
     "totalTracks": 1,
     "type": "single",

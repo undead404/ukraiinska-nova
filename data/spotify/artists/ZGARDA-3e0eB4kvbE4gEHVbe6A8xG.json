@@ -6,10 +6,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ZGARDA"],
+    "artists": [
+      "ZGARDA"
+    ],
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27367b55d5dfb4a61a0b859fe64",
     "releaseDate": "2025-02-07",
+    "tags": [
+      "folk"
+    ],
     "title": "Зґарда",
     "totalTracks": 7,
     "type": "album",
@@ -22,10 +27,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ZGARDA"],
+    "artists": [
+      "ZGARDA"
+    ],
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273795f3678b8ebcc26534f65a6",
     "releaseDate": "2025-01-24",
+    "tags": [
+      "folk"
+    ],
     "title": "Котки два",
     "totalTracks": 1,
     "type": "single",
@@ -38,10 +48,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ZGARDA"],
+    "artists": [
+      "ZGARDA"
+    ],
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273784062df23313cd973cb9bb0",
     "releaseDate": "2024-07-05",
+    "tags": [
+      "folk"
+    ],
     "title": "На небі місяць",
     "totalTracks": 1,
     "type": "single",
@@ -54,10 +69,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ZGARDA"],
+    "artists": [
+      "ZGARDA"
+    ],
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27376e904f393334b507258eb42",
     "releaseDate": "2023-05-26",
+    "tags": [
+      "folk"
+    ],
     "title": "Дощечка",
     "totalTracks": 1,
     "type": "single",
@@ -70,10 +90,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ZGARDA"],
+    "artists": [
+      "ZGARDA"
+    ],
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273847cb3571251441cd54da323",
     "releaseDate": "2023-01-13",
+    "tags": [
+      "folk"
+    ],
     "title": "Щедрий вечір",
     "totalTracks": 1,
     "type": "single",

@@ -6,10 +6,19 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Резидент", "Юрій Бондарчук"],
+    "artists": [
+      "Резидент",
+      "Юрій Бондарчук"
+    ],
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27330eeeadc90c630db852b42b8",
     "releaseDate": "2022-09-30",
+    "tags": [
+      "poetry",
+      "indie rock",
+      "rap",
+      "spoken"
+    ],
     "title": "Вишня",
     "totalTracks": 12,
     "type": "album",
@@ -22,10 +31,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Юрій Бондарчук"],
+    "artists": [
+      "Юрій Бондарчук"
+    ],
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731445a44e1a2d03531367b352",
     "releaseDate": "2019-06-14",
+    "tags": [
+      "rap"
+    ],
     "title": "Екзиль",
     "totalTracks": 8,
     "type": "album",
@@ -38,10 +52,19 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Ivan Humoreska", "Юрій Бондарчук"],
+    "artists": [
+      "Ivan Humoreska",
+      "Юрій Бондарчук"
+    ],
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f346ecbf179b78560de0b9b6",
     "releaseDate": "2023-07-10",
+    "tags": [
+      "rock",
+      "rap",
+      "alternative rock",
+      "Psychedelic Rock"
+    ],
     "title": "Нога",
     "totalTracks": 1,
     "type": "single",
@@ -54,10 +77,19 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Юрій Бондарчук", "Nestor Selin"],
+    "artists": [
+      "Юрій Бондарчук",
+      "Nestor Selin"
+    ],
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730a7c493940807be7a75b0cac",
     "releaseDate": "2023-02-09",
+    "tags": [
+      "rap",
+      "electronic",
+      "indie pop",
+      "dream pop"
+    ],
     "title": "Циганик",
     "totalTracks": 1,
     "type": "single",
@@ -70,10 +102,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["паліндром", "Юрій Бондарчук"],
+    "artists": [
+      "паліндром",
+      "Юрій Бондарчук"
+    ],
     "artistsPopularity": 37,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273da47c4011d34fd0cb7b30460",
     "releaseDate": "2022-04-08",
+    "tags": [
+      "synthpop",
+      "rap",
+      "dream pop"
+    ],
     "title": "З букетом троянд",
     "totalTracks": 1,
     "type": "single",
@@ -86,10 +126,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Юрій Бондарчук", "Міра Капітан"],
+    "artists": [
+      "Юрій Бондарчук",
+      "Міра Капітан"
+    ],
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27375164a6348595137e76e3a4c",
     "releaseDate": "2022-01-27",
+    "tags": [
+      "rap"
+    ],
     "title": "Живуть і працюють у Києві",
     "totalTracks": 1,
     "type": "single",
@@ -102,10 +148,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Юрій Бондарчук"],
+    "artists": [
+      "Юрій Бондарчук"
+    ],
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731bf8e8340e9628974324531a",
     "releaseDate": "2021-12-15",
+    "tags": [
+      "rap"
+    ],
     "title": "Кохай мене до нестями — я невакцинований",
     "totalTracks": 1,
     "type": "single",
@@ -118,10 +169,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Юрій Бондарчук"],
+    "artists": [
+      "Юрій Бондарчук"
+    ],
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730b518f8521fc2d539ff306b9",
     "releaseDate": "2021-06-25",
+    "tags": [
+      "rap"
+    ],
     "title": "Українська смерть",
     "totalTracks": 5,
     "type": "single",
@@ -134,10 +190,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Юрій Бондарчук"],
+    "artists": [
+      "Юрій Бондарчук"
+    ],
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e774058d3a77292c9a0e8ff8",
     "releaseDate": "2021-01-27",
+    "tags": [
+      "rap"
+    ],
     "title": "Буду вдячний за репост",
     "totalTracks": 1,
     "type": "single",
@@ -150,10 +211,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Юрій Бондарчук"],
+    "artists": [
+      "Юрій Бондарчук"
+    ],
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c00f3c630e0a8f7f4a8fe327",
     "releaseDate": "2020-06-19",
+    "tags": [
+      "rap"
+    ],
     "title": "Пісня 551",
     "totalTracks": 1,
     "type": "single",
@@ -166,10 +232,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Юрій Бондарчук"],
+    "artists": [
+      "Юрій Бондарчук"
+    ],
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739fe79ae3cdf65826144ed4c9",
     "releaseDate": "2020-05-14",
+    "tags": [
+      "rap"
+    ],
     "title": "Арсен Аваков",
     "totalTracks": 1,
     "type": "single",
@@ -182,10 +253,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Юрій Бондарчук"],
+    "artists": [
+      "Юрій Бондарчук"
+    ],
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273556e66846b45cb794e09f905",
     "releaseDate": "2020-04-24",
+    "tags": [
+      "rap"
+    ],
     "title": "Про що ми насправді говоримо, коли говоримо про любов",
     "totalTracks": 5,
     "type": "single",
@@ -198,10 +274,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Юрій Бондарчук"],
+    "artists": [
+      "Юрій Бондарчук"
+    ],
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ce122ce26466768053ee37a5",
     "releaseDate": "2019-09-09",
+    "tags": [
+      "rap"
+    ],
     "title": "Дефейсмент",
     "totalTracks": 1,
     "type": "single",
@@ -214,10 +295,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Юрій Бондарчук"],
+    "artists": [
+      "Юрій Бондарчук"
+    ],
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734791e7fd15a9c99e0d9c4b36",
     "releaseDate": "2018-09-20",
+    "tags": [
+      "rap"
+    ],
     "title": "Чорне Дзеркало",
     "totalTracks": 4,
     "type": "single",
@@ -230,10 +316,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["паліндром"],
+    "artists": [
+      "паліндром"
+    ],
     "artistsPopularity": 37,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d1ade1a098618a6737bf724d",
     "releaseDate": "2022-09-01",
+    "tags": [
+      "synthpop",
+      "dream pop"
+    ],
     "title": "Придумано в черзі",
     "totalTracks": 13,
     "type": "album",
@@ -246,10 +338,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["КАТ"],
+    "artists": [
+      "КАТ"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f454a3200e4adfb73eb4ac87",
     "releaseDate": "2022-03-04",
+    "tags": [
+      "hardcore"
+    ],
     "title": "Заздрість",
     "totalTracks": 1,
     "type": "single",

@@ -6,10 +6,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Марта Липчей"],
+    "artists": [
+      "Марта Липчей"
+    ],
     "artistsPopularity": 18,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cac90176b9d5c662ab22182d",
     "releaseDate": "2024-05-24",
+    "tags": [],
     "title": "Народжена в серпні",
     "totalTracks": 12,
     "type": "album",
@@ -22,10 +25,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Марта Липчей"],
+    "artists": [
+      "Марта Липчей"
+    ],
     "artistsPopularity": 18,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734bc315548e9d9a7478f96162",
     "releaseDate": "2025-02-21",
+    "tags": [],
     "title": "Люблю",
     "totalTracks": 1,
     "type": "single",
@@ -38,10 +44,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Марта Липчей"],
+    "artists": [
+      "Марта Липчей"
+    ],
     "artistsPopularity": 18,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739f2d39457a5c363916114fdf",
     "releaseDate": "2024-10-25",
+    "tags": [],
     "title": "Не йди",
     "totalTracks": 1,
     "type": "single",
@@ -54,10 +63,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Марта Липчей"],
+    "artists": [
+      "Марта Липчей"
+    ],
     "artistsPopularity": 18,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ad75b5b4ad02c2020adb2c7f",
     "releaseDate": "2024-03-08",
+    "tags": [],
     "title": "Зарево",
     "totalTracks": 1,
     "type": "single",
@@ -70,10 +82,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Марта Липчей", "Zhadan i Sobaky"],
+    "artists": [
+      "Марта Липчей",
+      "Zhadan i Sobaky"
+    ],
     "artistsPopularity": 49,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732f9ecbf9663edc125708224e",
     "releaseDate": "2024-02-04",
+    "tags": [
+      "rock"
+    ],
     "title": "Народжена в серпні",
     "totalTracks": 1,
     "type": "single",
@@ -86,10 +104,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Марта Липчей"],
+    "artists": [
+      "Марта Липчей"
+    ],
     "artistsPopularity": 18,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273668d7001bdaabb56c4038e30",
     "releaseDate": "2023-10-20",
+    "tags": [],
     "title": "На пристані",
     "totalTracks": 1,
     "type": "single",
@@ -102,10 +123,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Марта Липчей"],
+    "artists": [
+      "Марта Липчей"
+    ],
     "artistsPopularity": 18,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273257a6c656cc11a8348dcef57",
     "releaseDate": "2023-08-24",
+    "tags": [],
     "title": "Не забувай",
     "totalTracks": 1,
     "type": "single",
@@ -118,10 +142,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Марта Липчей"],
+    "artists": [
+      "Марта Липчей"
+    ],
     "artistsPopularity": 18,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ece8295f9305e3030d0e980e",
     "releaseDate": "2023-07-07",
+    "tags": [],
     "title": "Разом Нескорені",
     "totalTracks": 5,
     "type": "single",
@@ -134,10 +161,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Марта Липчей"],
+    "artists": [
+      "Марта Липчей"
+    ],
     "artistsPopularity": 18,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27335e8326ce1c7211298f4c251",
     "releaseDate": "2023-06-28",
+    "tags": [],
     "title": "Волю в кулак",
     "totalTracks": 1,
     "type": "single",
@@ -150,10 +180,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Марта Липчей"],
+    "artists": [
+      "Марта Липчей"
+    ],
     "artistsPopularity": 18,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273494985142c0a78980fe0c835",
     "releaseDate": "2023-03-31",
+    "tags": [],
     "title": "Там де ти",
     "totalTracks": 1,
     "type": "single",
@@ -166,10 +199,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Марта Липчей", "Zhadan i Sobaky"],
+    "artists": [
+      "Марта Липчей",
+      "Zhadan i Sobaky"
+    ],
     "artistsPopularity": 49,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27358fb24b517dbb33be2d1af27",
     "releaseDate": "2022-11-23",
+    "tags": [
+      "rock"
+    ],
     "title": "ГОВОРИ",
     "totalTracks": 1,
     "type": "single",
@@ -182,10 +221,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Zhadan i Sobaky"],
+    "artists": [
+      "Zhadan i Sobaky"
+    ],
     "artistsPopularity": 49,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ac2f7a43660b18679d3cb2ba",
     "releaseDate": "2024-08-23",
+    "tags": [
+      "rock"
+    ],
     "title": "Злий",
     "totalTracks": 8,
     "type": "album",

@@ -6,10 +6,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Agruss"],
+    "artists": [
+      "Agruss"
+    ],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a94a7699bd2638ad8dbe9640",
     "releaseDate": "2012-05-05",
+    "tags": [
+      "black metal",
+      "death metal"
+    ],
     "title": "Morok",
     "totalTracks": 9,
     "type": "album",
