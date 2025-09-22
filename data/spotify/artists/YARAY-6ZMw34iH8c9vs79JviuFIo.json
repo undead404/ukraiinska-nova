@@ -12,6 +12,10 @@
     "artistsPopularity": 9,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730ea70fb2c71f8460a31a659b",
     "releaseDate": "2025-08-22",
+    "tags": [
+      "metal",
+      "metalcore"
+    ],
     "title": "Нікому не розказуй",
     "totalTracks": 1,
     "type": "single",
@@ -30,6 +34,10 @@
     "artistsPopularity": 9,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27353fcc5fdc40dcd90a4d8b4fa",
     "releaseDate": "2025-07-18",
+    "tags": [
+      "metal",
+      "metalcore"
+    ],
     "title": "Усе минає, і це теж мине",
     "totalTracks": 1,
     "type": "single",
@@ -48,6 +56,10 @@
     "artistsPopularity": 9,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733d53370e3917b4a530537bd6",
     "releaseDate": "2025-02-28",
+    "tags": [
+      "metal",
+      "metalcore"
+    ],
     "title": "Мої зів'ялі квіти",
     "totalTracks": 1,
     "type": "single",
@@ -66,6 +78,10 @@
     "artistsPopularity": 9,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aa3ae78f2a849929cde9c417",
     "releaseDate": "2025-01-17",
+    "tags": [
+      "metal",
+      "metalcore"
+    ],
     "title": "Марила",
     "totalTracks": 1,
     "type": "single",
@@ -84,6 +100,10 @@
     "artistsPopularity": 9,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731c83b617735ad0a71fb28e42",
     "releaseDate": "2024-10-18",
+    "tags": [
+      "metal",
+      "metalcore"
+    ],
     "title": "І я тону",
     "totalTracks": 4,
     "type": "single",
@@ -102,6 +122,10 @@
     "artistsPopularity": 9,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f9a31b7591fd624682672286",
     "releaseDate": "2023-11-17",
+    "tags": [
+      "metal",
+      "metalcore"
+    ],
     "title": "Терен",
     "totalTracks": 1,
     "type": "single",
@@ -120,6 +144,10 @@
     "artistsPopularity": 9,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732ae74240cab5c7711597804d",
     "releaseDate": "2023-09-01",
+    "tags": [
+      "metal",
+      "metalcore"
+    ],
     "title": "712",
     "totalTracks": 1,
     "type": "single",
@@ -138,6 +166,10 @@
     "artistsPopularity": 9,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736eff37ebb3e010b80dc10e5d",
     "releaseDate": "2023-05-25",
+    "tags": [
+      "metal",
+      "metalcore"
+    ],
     "title": "Перемалюй",
     "totalTracks": 1,
     "type": "single",
@@ -156,6 +188,10 @@
     "artistsPopularity": 9,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273622d72cb9319a1be5051a540",
     "releaseDate": "2023-04-28",
+    "tags": [
+      "metal",
+      "metalcore"
+    ],
     "title": "Там, де моя",
     "totalTracks": 1,
     "type": "single",
@@ -174,6 +210,10 @@
     "artistsPopularity": 9,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27396242f7debaaaf30400703d7",
     "releaseDate": "2023-03-20",
+    "tags": [
+      "metal",
+      "metalcore"
+    ],
     "title": "Весно",
     "totalTracks": 1,
     "type": "single",
@@ -192,6 +232,10 @@
     "artistsPopularity": 9,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d1b6b68de6f3a7ca081c1592",
     "releaseDate": "2023-02-10",
+    "tags": [
+      "metal",
+      "metalcore"
+    ],
     "title": "Додому",
     "totalTracks": 1,
     "type": "single",
@@ -210,6 +254,10 @@
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734ad3e13386d6498208972cf7",
     "releaseDate": "2024-10-18",
+    "tags": [
+      "metalcore",
+      "hardcore"
+    ],
     "title": "Вокальний не дебютний лонг плей, а компіляція нулів в пін кодах",
     "totalTracks": 30,
     "type": "album",
@@ -228,6 +276,7 @@
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27367f3f88d8647e46b0cbef44b",
     "releaseDate": "2025-06-20",
+    "tags": [],
     "title": "Орбіта",
     "totalTracks": 1,
     "type": "single",

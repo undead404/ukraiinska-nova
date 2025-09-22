@@ -12,6 +12,10 @@
     "artistsPopularity": 9,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273557418305485d0de03c80ae0",
     "releaseDate": "2020-04-09",
+    "tags": [
+      "Gothic Metal",
+      "doom metal"
+    ],
     "title": "Mysto",
     "totalTracks": 8,
     "type": "album",
@@ -22,6 +26,10 @@
       {
         "time": "2025-09-19T12:27:48.830Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-09-22T12:24:34.899Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -48,6 +56,10 @@
     "artistsPopularity": 9,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27312ee9c85f7e2c1818b6206e1",
     "releaseDate": "2022-06-24",
+    "tags": [
+      "Gothic Metal",
+      "doom metal"
+    ],
     "title": "Ой ходить сон",
     "totalTracks": 1,
     "type": "single",
@@ -66,6 +78,10 @@
     "artistsPopularity": 9,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27347a4a2ff2eb5d4f2339ca761",
     "releaseDate": "2021-03-31",
+    "tags": [
+      "Gothic Metal",
+      "doom metal"
+    ],
     "title": "Mirabilis",
     "totalTracks": 1,
     "type": "single",
@@ -84,6 +100,10 @@
     "artistsPopularity": 9,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730113d9754a0c73ac0c0d3f87",
     "releaseDate": "2020-03-25",
+    "tags": [
+      "Gothic Metal",
+      "doom metal"
+    ],
     "title": "Gospodar",
     "totalTracks": 1,
     "type": "single",
@@ -102,6 +122,10 @@
     "artistsPopularity": 9,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f55ba9d5d4554e8adea8cb62",
     "releaseDate": "2019-10-31",
+    "tags": [
+      "Gothic Metal",
+      "doom metal"
+    ],
     "title": "Примара",
     "totalTracks": 1,
     "type": "single",
@@ -120,9 +144,35 @@
     "artistsPopularity": 9,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273432caae35dbf376d86fcc8c7",
     "releaseDate": "2017-05-28",
+    "tags": [
+      "Gothic Metal",
+      "doom metal"
+    ],
     "title": "На Чорних Схилах",
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2oOdhYt9aoKGvbHe2LVA1f"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-22T12:24:34.899Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "I Miss My Death"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369a7c3afbe99a345f93df502",
+    "releaseDate": "2014-05-05",
+    "tags": [
+      "Gothic Metal",
+      "doom metal"
+    ],
+    "title": "In Memories",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3SbGp5BjaBvo6gmdoYFrf6"
   }
 ]

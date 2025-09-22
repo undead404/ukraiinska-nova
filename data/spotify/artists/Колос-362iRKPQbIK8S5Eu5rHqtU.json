@@ -13,6 +13,13 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e2f051b6c511b825e6ff4ffd",
     "releaseDate": "2024-10-04",
+    "tags": [
+      "rock",
+      "ukranian",
+      "indie rock",
+      "acoustic",
+      "noise"
+    ],
     "title": "Осіння колекція",
     "totalTracks": 15,
     "type": "album",
@@ -31,6 +38,11 @@
     "artistsPopularity": 26,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ef819455c11f08f07a87548d",
     "releaseDate": "2017-12-28",
+    "tags": [
+      "rock",
+      "acoustic",
+      "noise"
+    ],
     "title": "Best",
     "totalTracks": 27,
     "type": "album",
@@ -49,6 +61,11 @@
     "artistsPopularity": 26,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273984c2180df2a4533660c13f8",
     "releaseDate": "2017-02-21",
+    "tags": [
+      "rock",
+      "acoustic",
+      "noise"
+    ],
     "title": "Kamasutra",
     "totalTracks": 14,
     "type": "album",
@@ -67,6 +84,11 @@
     "artistsPopularity": 26,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a93abaacdcb103d902a97db3",
     "releaseDate": "2016-03-02",
+    "tags": [
+      "rock",
+      "acoustic",
+      "noise"
+    ],
     "title": "Лютий Березень",
     "totalTracks": 18,
     "type": "album",
@@ -85,6 +107,11 @@
     "artistsPopularity": 26,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273175a99ceaedcbc58ba190797",
     "releaseDate": "2014-12-28",
+    "tags": [
+      "rock",
+      "acoustic",
+      "noise"
+    ],
     "title": "Lvivlive",
     "totalTracks": 11,
     "type": "album",
@@ -103,6 +130,11 @@
     "artistsPopularity": 26,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e2e8ccb28ac15632eafb53a7",
     "releaseDate": "2012-12-28",
+    "tags": [
+      "rock",
+      "acoustic",
+      "noise"
+    ],
     "title": "28.12.87",
     "totalTracks": 10,
     "type": "album",
@@ -121,6 +153,11 @@
     "artistsPopularity": 26,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e0243ca872dbcc0e001a5097",
     "releaseDate": "2011-12-28",
+    "tags": [
+      "rock",
+      "acoustic",
+      "noise"
+    ],
     "title": "Нерводрами",
     "totalTracks": 15,
     "type": "album",
@@ -140,6 +177,11 @@
     "artistsPopularity": 26,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27300421bc8a9d4031c42203ca2",
     "releaseDate": "2024-12-06",
+    "tags": [
+      "rock",
+      "acoustic",
+      "noise"
+    ],
     "title": "Назад",
     "totalTracks": 1,
     "type": "single",
@@ -159,6 +201,12 @@
     "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27379ad447ba33aaa6c2e68e646",
     "releaseDate": "2024-10-18",
+    "tags": [
+      "rock",
+      "post-punk",
+      "acoustic",
+      "noise"
+    ],
     "title": "Не збагнув",
     "totalTracks": 1,
     "type": "single",
@@ -178,6 +226,11 @@
     "artistsPopularity": 26,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d44590268505c096882cb15e",
     "releaseDate": "2024-05-07",
+    "tags": [
+      "rock",
+      "acoustic",
+      "noise"
+    ],
     "title": "Горки",
     "totalTracks": 1,
     "type": "single",
@@ -196,6 +249,11 @@
     "artistsPopularity": 26,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b1a7a66c754c8aef7e30f84a",
     "releaseDate": "2015-12-28",
+    "tags": [
+      "rock",
+      "acoustic",
+      "noise"
+    ],
     "title": "Як я живу #2",
     "totalTracks": 6,
     "type": "single",
@@ -214,6 +272,11 @@
     "artistsPopularity": 26,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733ae58990a0ccba1259a8194f",
     "releaseDate": "2014-12-28",
+    "tags": [
+      "rock",
+      "acoustic",
+      "noise"
+    ],
     "title": "Як я живу #1",
     "totalTracks": 7,
     "type": "single",
@@ -232,6 +295,11 @@
     "artistsPopularity": 26,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d1382f6887911af706e366e3",
     "releaseDate": "2013-12-28",
+    "tags": [
+      "rock",
+      "acoustic",
+      "noise"
+    ],
     "title": "Дельфіни",
     "totalTracks": 6,
     "type": "single",
@@ -250,6 +318,10 @@
     "artistsPopularity": 48,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c58b04a077773267ae44a4c7",
     "releaseDate": "2024-02-28",
+    "tags": [
+      "trip-hop",
+      "Hip-Hop"
+    ],
     "title": "Ти [Романтика]",
     "totalTracks": 18,
     "type": "album",
@@ -268,6 +340,7 @@
     "artistsPopularity": 12,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739020c8ccc6b676a1e5b63bc2",
     "releaseDate": "2025-06-13",
+    "tags": [],
     "title": "Мій світ",
     "totalTracks": 16,
     "type": "album",
@@ -286,6 +359,10 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27334d636eec879560199297af8",
     "releaseDate": "2023-07-14",
+    "tags": [
+      "ukranian",
+      "indie rock"
+    ],
     "title": "Літня колекція",
     "totalTracks": 17,
     "type": "album",
@@ -304,6 +381,10 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736201c041c6ff8e824ab96b3e",
     "releaseDate": "2023-03-10",
+    "tags": [
+      "ukranian",
+      "indie rock"
+    ],
     "title": "Весняна колекція",
     "totalTracks": 20,
     "type": "album",
