@@ -12,6 +12,9 @@
     "artistsPopularity": 49,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737eee475da6953ad5ab41f9cf",
     "releaseDate": "2025-05-16",
+    "tags": [
+      "hip hop"
+    ],
     "title": "Лучше чим твій бивший",
     "totalTracks": 9,
     "type": "album",
@@ -30,6 +33,9 @@
     "artistsPopularity": 49,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735b7c02a722595b5af4efc060",
     "releaseDate": "2022-05-26",
+    "tags": [
+      "hip hop"
+    ],
     "title": "Любов",
     "totalTracks": 10,
     "type": "album",
@@ -48,6 +54,9 @@
     "artistsPopularity": 49,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27329f73a24ae7685a0d6f15c42",
     "releaseDate": "2021-01-21",
+    "tags": [
+      "hip hop"
+    ],
     "title": "Медляки",
     "totalTracks": 9,
     "type": "album",
@@ -66,6 +75,9 @@
     "artistsPopularity": 49,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e7a427608be509915e567980",
     "releaseDate": "2025-09-18",
+    "tags": [
+      "hip hop"
+    ],
     "title": "Liza",
     "totalTracks": 1,
     "type": "single",
@@ -85,6 +97,11 @@
     "artistsPopularity": 49,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e0a0cc7c0bc6bda4671e20fe",
     "releaseDate": "2025-08-22",
+    "tags": [
+      "hip hop",
+      "electronic",
+      "breakbeat"
+    ],
     "title": "Посилать (Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -103,6 +120,9 @@
     "artistsPopularity": 49,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e8aeeb44560bbb8f5862302c",
     "releaseDate": "2025-04-30",
+    "tags": [
+      "hip hop"
+    ],
     "title": "Ліза",
     "totalTracks": 1,
     "type": "single",
@@ -121,6 +141,9 @@
     "artistsPopularity": 49,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e6ab331f5d38b9ae978924ab",
     "releaseDate": "2025-04-11",
+    "tags": [
+      "hip hop"
+    ],
     "title": "Посилать",
     "totalTracks": 2,
     "type": "single",
@@ -139,6 +162,9 @@
     "artistsPopularity": 49,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273974e3d41cbf5a44b0555ac44",
     "releaseDate": "2025-01-14",
+    "tags": [
+      "hip hop"
+    ],
     "title": "Кришталі",
     "totalTracks": 1,
     "type": "single",
@@ -157,6 +183,9 @@
     "artistsPopularity": 49,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a81860a173a62fd4eba5c303",
     "releaseDate": "2024-11-21",
+    "tags": [
+      "hip hop"
+    ],
     "title": "Дівчинко",
     "totalTracks": 1,
     "type": "single",
@@ -176,6 +205,11 @@
     "artistsPopularity": 49,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bc6aeefcfced62b4381ccc6c",
     "releaseDate": "2024-08-02",
+    "tags": [
+      "folk",
+      "hip hop",
+      "folk pop"
+    ],
     "title": "ЧУЖІЮ Я",
     "totalTracks": 1,
     "type": "single",
@@ -195,6 +229,10 @@
     "artistsPopularity": 49,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27356f96dc420f61f07ef957296",
     "releaseDate": "2024-05-17",
+    "tags": [
+      "hip hop",
+      "pop"
+    ],
     "title": "Перший крок",
     "totalTracks": 1,
     "type": "single",
@@ -216,6 +254,11 @@
     "artistsPopularity": 49,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bcce440a0773f69e3def3331",
     "releaseDate": "2024-04-19",
+    "tags": [
+      "dark electro",
+      "hip hop",
+      "ebm"
+    ],
     "title": "Мрій (Gooch Brown & Chainbro Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -234,6 +277,9 @@
     "artistsPopularity": 49,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739d8cc0b018fcc107707172f8",
     "releaseDate": "2024-04-12",
+    "tags": [
+      "hip hop"
+    ],
     "title": "Лебідонько",
     "totalTracks": 1,
     "type": "single",
@@ -252,6 +298,9 @@
     "artistsPopularity": 49,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736ae992b97c04fd3ca83454f0",
     "releaseDate": "2024-03-08",
+    "tags": [
+      "hip hop"
+    ],
     "title": "ЛЮБИМА",
     "totalTracks": 1,
     "type": "single",
@@ -271,6 +320,11 @@
     "artistsPopularity": 49,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731e002591a1c95f48950483d5",
     "releaseDate": "2024-02-08",
+    "tags": [
+      "electronic",
+      "dance",
+      "hip hop"
+    ],
     "title": "Морози",
     "totalTracks": 1,
     "type": "single",
@@ -290,6 +344,11 @@
     "artistsPopularity": 49,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273158c18d02d0b2e2c926169fe",
     "releaseDate": "2023-12-22",
+    "tags": [
+      "hip hop",
+      "dark electro",
+      "ebm"
+    ],
     "title": "Мрій",
     "totalTracks": 1,
     "type": "single",
@@ -308,6 +367,9 @@
     "artistsPopularity": 49,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d4c202ecad923b6d409a33a4",
     "releaseDate": "2023-09-22",
+    "tags": [
+      "hip hop"
+    ],
     "title": "Секонд",
     "totalTracks": 1,
     "type": "single",
@@ -326,6 +388,9 @@
     "artistsPopularity": 49,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c24d1fa61a9913ec937e832f",
     "releaseDate": "2023-08-11",
+    "tags": [
+      "hip hop"
+    ],
     "title": "Батя",
     "totalTracks": 1,
     "type": "single",
@@ -344,6 +409,9 @@
     "artistsPopularity": 49,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731e53d20d6045266d765d2b15",
     "releaseDate": "2023-06-09",
+    "tags": [
+      "hip hop"
+    ],
     "title": "Загуляв",
     "totalTracks": 1,
     "type": "single",
@@ -362,6 +430,9 @@
     "artistsPopularity": 49,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ca3f0b17c6aa15a89797e654",
     "releaseDate": "2023-04-07",
+    "tags": [
+      "hip hop"
+    ],
     "title": "Буба",
     "totalTracks": 1,
     "type": "single",
@@ -380,6 +451,9 @@
     "artistsPopularity": 49,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27394715712f96bbdffc44a9629",
     "releaseDate": "2023-02-17",
+    "tags": [
+      "hip hop"
+    ],
     "title": "БРО",
     "totalTracks": 1,
     "type": "single",
@@ -399,6 +473,12 @@
     "artistsPopularity": 49,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732130ffb6038a11eb859bb5a3",
     "releaseDate": "2022-12-31",
+    "tags": [
+      "indie pop",
+      "hip hop",
+      "hyperpop",
+      "deezer"
+    ],
     "title": "Мандарина 2023",
     "totalTracks": 1,
     "type": "single",
@@ -417,6 +497,9 @@
     "artistsPopularity": 49,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734e875cbe110fc4cf83f4c5e9",
     "releaseDate": "2022-10-27",
+    "tags": [
+      "hip hop"
+    ],
     "title": "SekS",
     "totalTracks": 4,
     "type": "single",
@@ -435,6 +518,9 @@
     "artistsPopularity": 49,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b77a909a8c2839255f33dd2e",
     "releaseDate": "2021-02-12",
+    "tags": [
+      "hip hop"
+    ],
     "title": "НасТане",
     "totalTracks": 1,
     "type": "single",
@@ -454,6 +540,9 @@
     "artistsPopularity": 49,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f4524af8f75945edfe0dd224",
     "releaseDate": "2020-12-24",
+    "tags": [
+      "hip hop"
+    ],
     "title": "Як ти там?",
     "totalTracks": 1,
     "type": "single",
@@ -472,6 +561,10 @@
     "artistsPopularity": 48,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27376ebfcac24b8d1096121dde2",
     "releaseDate": "2025-08-24",
+    "tags": [
+      "trip-hop",
+      "Hip-Hop"
+    ],
     "title": "РЕБЕЛІЯ [1991]",
     "totalTracks": 24,
     "type": "album",
@@ -490,6 +583,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273099ed9852e2ff688fcdcf850",
     "releaseDate": "2024-11-08",
+    "tags": [
+      "folk",
+      "folk pop"
+    ],
     "title": "Паросток",
     "totalTracks": 15,
     "type": "album",
@@ -508,6 +605,10 @@
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738d61b648a397b0d7a2e67617",
     "releaseDate": "2023-10-20",
+    "tags": [
+      "rap",
+      "hip hop"
+    ],
     "title": "Піони",
     "totalTracks": 1,
     "type": "single",

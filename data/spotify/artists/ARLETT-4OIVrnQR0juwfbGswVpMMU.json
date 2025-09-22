@@ -12,6 +12,9 @@
     "artistsPopularity": 5,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27397b1ab7a21ff3c206ee8d3df",
     "releaseDate": "2017-05-05",
+    "tags": [
+      "rock"
+    ],
     "title": "Arlett",
     "totalTracks": 11,
     "type": "album",
@@ -30,6 +33,9 @@
     "artistsPopularity": 5,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e49212e0061023aa54485370",
     "releaseDate": "2020-09-29",
+    "tags": [
+      "rock"
+    ],
     "title": "НСНЗ",
     "totalTracks": 1,
     "type": "single",
@@ -48,6 +54,9 @@
     "artistsPopularity": 5,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27320762f3c147cca0060c2ced3",
     "releaseDate": "2017-12-07",
+    "tags": [
+      "rock"
+    ],
     "title": "Шаленій",
     "totalTracks": 1,
     "type": "single",
@@ -66,6 +75,9 @@
     "artistsPopularity": 5,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733309b3e2ca62caff28f8fa6f",
     "releaseDate": "2017-06-27",
+    "tags": [
+      "rock"
+    ],
     "title": "Спрага чи спека",
     "totalTracks": 1,
     "type": "single",
@@ -84,6 +96,9 @@
     "artistsPopularity": 5,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733dbddee69aed6e6a54e4dcb2",
     "releaseDate": "2017-05-05",
+    "tags": [
+      "rock"
+    ],
     "title": "Електрична зима",
     "totalTracks": 1,
     "type": "single",
@@ -102,6 +117,9 @@
     "artistsPopularity": 5,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d06e49b2bac7aaaa310bc2d1",
     "releaseDate": "2017-05-05",
+    "tags": [
+      "rock"
+    ],
     "title": "#Відчуйулюбленумузику",
     "totalTracks": 1,
     "type": "single",

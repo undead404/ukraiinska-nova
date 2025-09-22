@@ -12,6 +12,9 @@
     "artistsPopularity": 21,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27310171e35c26ad758e03db8b7",
     "releaseDate": "2024-11-29",
+    "tags": [
+      "punk rock"
+    ],
     "title": "ПРОСТІР-ЧАС-Х*Й",
     "totalTracks": 15,
     "type": "album",
@@ -30,6 +33,9 @@
     "artistsPopularity": 21,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273506ef9ce6cd6bda80e63540c",
     "releaseDate": "2023-05-19",
+    "tags": [
+      "punk rock"
+    ],
     "title": "ПРОКЛЯТИЙ **Й",
     "totalTracks": 10,
     "type": "album",
@@ -49,6 +55,10 @@
     "artistsPopularity": 34,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739c5e4021b4e3f6fdd83ba5c3",
     "releaseDate": "2024-11-15",
+    "tags": [
+      "rock",
+      "punk rock"
+    ],
     "title": "Спортивні повітряні роботи",
     "totalTracks": 1,
     "type": "single",
@@ -68,6 +78,11 @@
     "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27367aa641ffd87e37c231efe0d",
     "releaseDate": "2024-05-20",
+    "tags": [
+      "electronic",
+      "dance",
+      "punk rock"
+    ],
     "title": "Сонечко (Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -87,6 +102,9 @@
     "artistsPopularity": 21,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739e8cd19aa09c33a1a999cb77",
     "releaseDate": "2023-11-17",
+    "tags": [
+      "punk rock"
+    ],
     "title": "DAMN END",
     "totalTracks": 1,
     "type": "single",
@@ -105,6 +123,9 @@
     "artistsPopularity": 21,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273274dd6f8eb8b6e98194c4ff6",
     "releaseDate": "2023-08-25",
+    "tags": [
+      "punk rock"
+    ],
     "title": "Сакраменто",
     "totalTracks": 1,
     "type": "single",
@@ -123,6 +144,9 @@
     "artistsPopularity": 21,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27385b24f3b463b5b3d545c3a57",
     "releaseDate": "2023-08-18",
+    "tags": [
+      "punk rock"
+    ],
     "title": "ПАЦЮЧИЙ МУВ",
     "totalTracks": 1,
     "type": "single",
@@ -141,6 +165,9 @@
     "artistsPopularity": 21,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734ef02a715b2883ee3a1a005d",
     "releaseDate": "2023-08-11",
+    "tags": [
+      "punk rock"
+    ],
     "title": "Емо-бої",
     "totalTracks": 1,
     "type": "single",
@@ -159,6 +186,9 @@
     "artistsPopularity": 21,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27339b7c6a291a08dd6109d569d",
     "releaseDate": "2023-08-04",
+    "tags": [
+      "punk rock"
+    ],
     "title": "Хуйова погода",
     "totalTracks": 1,
     "type": "single",
@@ -177,6 +207,9 @@
     "artistsPopularity": 34,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d589244a1534d915cebb1602",
     "releaseDate": "2024-11-15",
+    "tags": [
+      "rock"
+    ],
     "title": "ЕПОХА",
     "totalTracks": 8,
     "type": "album",
@@ -195,6 +228,10 @@
     "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732b4f70c9ec4a50e53d552dd4",
     "releaseDate": "2024-05-13",
+    "tags": [
+      "electronic",
+      "dance"
+    ],
     "title": "Простотак (Remix)",
     "totalTracks": 1,
     "type": "single",

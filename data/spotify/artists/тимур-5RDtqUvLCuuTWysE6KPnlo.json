@@ -1,0 +1,97 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-22T23:21:30.722Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "тимур"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27317fe1994e3332ab795e10006",
+    "releaseDate": "2024-09-18",
+    "tags": [],
+    "title": "сенс життя",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5rPL8ZncNRqi8zYyhNugFO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-22T23:21:30.722Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "тимур"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273480c95d4fd8708ca93dfd4c3",
+    "releaseDate": "2024-06-26",
+    "tags": [],
+    "title": "травень",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4YkCo7PKsXKpt32E7Milft"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-22T23:21:30.722Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "тимур"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e742387db6d476648ee262e9",
+    "releaseDate": "2024-03-25",
+    "tags": [],
+    "title": "даша",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2Qr8LFks34ukGmmqdZvGKC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-22T23:21:30.722Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "тимур"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27352365776a84979c1776a4629",
+    "releaseDate": "2023-11-02",
+    "tags": [],
+    "title": "шо ти",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4uuxf4BBWXicy2551Y6JGo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-22T23:21:30.722Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "тимур"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e7e828e7d98492de90b851c0",
+    "releaseDate": "2023-10-25",
+    "tags": [],
+    "title": "сльози",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0gIknpoRRrSc7BPuL85aG1"
+  }
+]

@@ -12,6 +12,9 @@
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730718cff1ec07683902f67008",
     "releaseDate": "2013-11-11",
+    "tags": [
+      "female vocalists"
+    ],
     "title": "Ромбамбар",
     "totalTracks": 12,
     "type": "album",
@@ -30,6 +33,9 @@
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273498e04831e6d9397d6af47d9",
     "releaseDate": "2013-11-11",
+    "tags": [
+      "female vocalists"
+    ],
     "title": "Аморе",
     "totalTracks": 11,
     "type": "album",
@@ -48,6 +54,7 @@
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f660ed69d29ba774a565bc01",
     "releaseDate": "2013-11-11",
+    "tags": [],
     "title": "Live",
     "totalTracks": 12,
     "type": "album",

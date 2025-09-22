@@ -12,6 +12,9 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273055bed6605009ac8ca5fba6a",
     "releaseDate": "2025-09-18",
+    "tags": [
+      "Lo-Fi"
+    ],
     "title": "Дотла",
     "totalTracks": 1,
     "type": "single",
@@ -30,6 +33,9 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e3105cf6f9655fb5b8908a91",
     "releaseDate": "2025-08-14",
+    "tags": [
+      "Lo-Fi"
+    ],
     "title": "Дійсно",
     "totalTracks": 1,
     "type": "single",
@@ -49,6 +55,10 @@
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fe458dd6f84b4c73ee493370",
     "releaseDate": "2025-07-03",
+    "tags": [
+      "Lo-Fi",
+      "rap"
+    ],
     "title": "Місце слабкості",
     "totalTracks": 1,
     "type": "single",
@@ -67,6 +77,9 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27357b47a0311b5726141e936f7",
     "releaseDate": "2025-06-12",
+    "tags": [
+      "Lo-Fi"
+    ],
     "title": "не страшно",
     "totalTracks": 1,
     "type": "single",
@@ -85,6 +98,9 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734e31ad47138401c7274de59b",
     "releaseDate": "2025-05-29",
+    "tags": [
+      "Lo-Fi"
+    ],
     "title": "Тиша",
     "totalTracks": 1,
     "type": "single",
@@ -104,6 +120,11 @@
     "artistsPopularity": 18,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737a19b8d34ac9037747012d47",
     "releaseDate": "2025-05-22",
+    "tags": [
+      "Lo-Fi",
+      "Hip-Hop",
+      "underground hip-hop"
+    ],
     "title": "Майже нуль",
     "totalTracks": 1,
     "type": "single",
@@ -122,6 +143,9 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27351b420aa84b937c0b91a51ba",
     "releaseDate": "2025-05-08",
+    "tags": [
+      "Lo-Fi"
+    ],
     "title": "а шо?",
     "totalTracks": 1,
     "type": "single",
@@ -140,6 +164,9 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d540c1e75e1bd0366bcfc08b",
     "releaseDate": "2025-04-06",
+    "tags": [
+      "Lo-Fi"
+    ],
     "title": "детерміновано",
     "totalTracks": 1,
     "type": "single",
@@ -159,6 +186,9 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273433020e96148fa7888cf745e",
     "releaseDate": "2025-03-06",
+    "tags": [
+      "Lo-Fi"
+    ],
     "title": "Помалу",
     "totalTracks": 1,
     "type": "single",
@@ -177,6 +207,9 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732acab48e4e34d664a484d415",
     "releaseDate": "2025-01-16",
+    "tags": [
+      "Lo-Fi"
+    ],
     "title": "Тиснява",
     "totalTracks": 1,
     "type": "single",
@@ -196,6 +229,11 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e084bb784fb826d2ab10c791",
     "releaseDate": "2024-12-30",
+    "tags": [
+      "Lo-Fi",
+      "rap",
+      "hip hop"
+    ],
     "title": "геноцид",
     "totalTracks": 1,
     "type": "single",
@@ -214,6 +252,9 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731c96320a3a8eade2efcfbc2c",
     "releaseDate": "2024-11-22",
+    "tags": [
+      "Lo-Fi"
+    ],
     "title": "горщик",
     "totalTracks": 1,
     "type": "single",
@@ -232,6 +273,9 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27385af13e7ea97e9652ec7987a",
     "releaseDate": "2024-10-25",
+    "tags": [
+      "Lo-Fi"
+    ],
     "title": "Терапія II",
     "totalTracks": 1,
     "type": "single",
@@ -250,6 +294,9 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731d233bf97fb659a4fb3ee4b3",
     "releaseDate": "2024-09-06",
+    "tags": [
+      "Lo-Fi"
+    ],
     "title": "амінь",
     "totalTracks": 1,
     "type": "single",
@@ -270,6 +317,12 @@
     "artistsPopularity": 24,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cd36ddab756a79a9bd39223e",
     "releaseDate": "2024-08-30",
+    "tags": [
+      "ambient",
+      "noise",
+      "Lo-Fi",
+      "dark ambient"
+    ],
     "title": "Memento",
     "totalTracks": 2,
     "type": "single",
@@ -288,6 +341,9 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c2c9870037391343cbb07497",
     "releaseDate": "2024-07-05",
+    "tags": [
+      "Lo-Fi"
+    ],
     "title": "тамагочі",
     "totalTracks": 1,
     "type": "single",
@@ -306,6 +362,9 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eb5137c62d81ef56430310bd",
     "releaseDate": "2024-06-21",
+    "tags": [
+      "Lo-Fi"
+    ],
     "title": "без опію",
     "totalTracks": 1,
     "type": "single",
@@ -324,6 +383,9 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c47f90a17d312107cd85e01b",
     "releaseDate": "2024-05-31",
+    "tags": [
+      "Lo-Fi"
+    ],
     "title": "весна",
     "totalTracks": 1,
     "type": "single",
@@ -342,6 +404,9 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27309628ec5587b712a7c99250f",
     "releaseDate": "2024-05-13",
+    "tags": [
+      "Lo-Fi"
+    ],
     "title": "ok",
     "totalTracks": 1,
     "type": "single",
@@ -362,6 +427,12 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273075d54d3597c4d342c221659",
     "releaseDate": "2024-04-24",
+    "tags": [
+      "Lo-Fi",
+      "rap",
+      "hip hop",
+      "dubstep"
+    ],
     "title": "Квітень",
     "totalTracks": 1,
     "type": "single",
@@ -380,6 +451,9 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c9188432dfbcb5030b6c4c02",
     "releaseDate": "2024-03-29",
+    "tags": [
+      "Lo-Fi"
+    ],
     "title": "чі",
     "totalTracks": 1,
     "type": "single",
@@ -399,6 +473,10 @@
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b52138cf60fab2af482a6d7f",
     "releaseDate": "2024-03-01",
+    "tags": [
+      "rap",
+      "Lo-Fi"
+    ],
     "title": "Ухилянт",
     "totalTracks": 1,
     "type": "single",
@@ -417,6 +495,9 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273881ea3441cb141ebf40e65a6",
     "releaseDate": "2024-03-01",
+    "tags": [
+      "Lo-Fi"
+    ],
     "title": "Терапія",
     "totalTracks": 1,
     "type": "single",
@@ -435,6 +516,9 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273939f783d6d64b6ebfbd0e602",
     "releaseDate": "2024-02-09",
+    "tags": [
+      "Lo-Fi"
+    ],
     "title": "музика",
     "totalTracks": 1,
     "type": "single",
@@ -453,6 +537,9 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bb4ee23b6caff2c6856b2e75",
     "releaseDate": "2024-01-26",
+    "tags": [
+      "Lo-Fi"
+    ],
     "title": "Хвилина",
     "totalTracks": 1,
     "type": "single",
@@ -471,6 +558,9 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735daea1a9d9410249f62f8c40",
     "releaseDate": "2024-01-12",
+    "tags": [
+      "Lo-Fi"
+    ],
     "title": "База",
     "totalTracks": 1,
     "type": "single",
@@ -489,6 +579,9 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731585c19384e98f94908e0a23",
     "releaseDate": "2023-11-17",
+    "tags": [
+      "Lo-Fi"
+    ],
     "title": "Будь!",
     "totalTracks": 1,
     "type": "single",
@@ -507,6 +600,9 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739423760af3d1531996524846",
     "releaseDate": "2023-09-29",
+    "tags": [
+      "Lo-Fi"
+    ],
     "title": "драже",
     "totalTracks": 1,
     "type": "single",
@@ -525,6 +621,9 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27331680dbbf3ce26c0b4d73b62",
     "releaseDate": "2023-09-15",
+    "tags": [
+      "Lo-Fi"
+    ],
     "title": "не пощастило",
     "totalTracks": 1,
     "type": "single",
@@ -544,6 +643,10 @@
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731c9902095a036bcdbc3df3eb",
     "releaseDate": "2023-08-25",
+    "tags": [
+      "Lo-Fi",
+      "rap"
+    ],
     "title": "Судини",
     "totalTracks": 1,
     "type": "single",
@@ -562,6 +665,9 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab02b58a2a4cd0ff1b816f65",
     "releaseDate": "2023-08-10",
+    "tags": [
+      "Lo-Fi"
+    ],
     "title": "літо",
     "totalTracks": 1,
     "type": "single",
@@ -580,6 +686,9 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27360059b25340d7739632d197c",
     "releaseDate": "2023-07-27",
+    "tags": [
+      "Lo-Fi"
+    ],
     "title": "Подорож",
     "totalTracks": 1,
     "type": "single",
@@ -598,6 +707,9 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a09484adfef811539ec29beb",
     "releaseDate": "2023-07-13",
+    "tags": [
+      "Lo-Fi"
+    ],
     "title": "те що",
     "totalTracks": 1,
     "type": "single",
@@ -617,6 +729,12 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739b41775a2ae62f8825c9c643",
     "releaseDate": "2023-06-30",
+    "tags": [
+      "Lo-Fi",
+      "rap",
+      "hip hop",
+      "dubstep"
+    ],
     "title": "Одним",
     "totalTracks": 1,
     "type": "single",
@@ -636,6 +754,10 @@
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731c1464bae3b0b6290ce9058b",
     "releaseDate": "2023-06-16",
+    "tags": [
+      "Lo-Fi",
+      "rap"
+    ],
     "title": "стабільно",
     "totalTracks": 1,
     "type": "single",
@@ -654,6 +776,9 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27344f518d9c807ba85ad7fc446",
     "releaseDate": "2023-05-25",
+    "tags": [
+      "Lo-Fi"
+    ],
     "title": "Нафта",
     "totalTracks": 1,
     "type": "single",
@@ -672,6 +797,9 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736ddfe340f7f79d0918b83e16",
     "releaseDate": "2023-05-18",
+    "tags": [
+      "Lo-Fi"
+    ],
     "title": "На ранок",
     "totalTracks": 1,
     "type": "single",
@@ -690,6 +818,9 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ca56b8c9c4a83147d6da0cfc",
     "releaseDate": "2023-05-11",
+    "tags": [
+      "Lo-Fi"
+    ],
     "title": "спокій",
     "totalTracks": 1,
     "type": "single",
@@ -708,6 +839,9 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734a9ee16e4d12d499be2b5b21",
     "releaseDate": "2023-04-27",
+    "tags": [
+      "Lo-Fi"
+    ],
     "title": "за*бався",
     "totalTracks": 1,
     "type": "single",
@@ -726,6 +860,9 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f9bc558d26ad4903ff97bf82",
     "releaseDate": "2023-04-13",
+    "tags": [
+      "Lo-Fi"
+    ],
     "title": "Догонялки",
     "totalTracks": 1,
     "type": "single",
@@ -744,6 +881,9 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735c3a09a788d8042f706a9ffd",
     "releaseDate": "2023-03-23",
+    "tags": [
+      "Lo-Fi"
+    ],
     "title": "Пряжа",
     "totalTracks": 1,
     "type": "single",
@@ -762,6 +902,9 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273322eae8c27422eef24086828",
     "releaseDate": "2023-03-09",
+    "tags": [
+      "Lo-Fi"
+    ],
     "title": "фциклі",
     "totalTracks": 1,
     "type": "single",
@@ -781,6 +924,9 @@
     "artistsPopularity": 34,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736bfe2d20e0e0d73435ead6a4",
     "releaseDate": "2024-12-01",
+    "tags": [
+      "rap"
+    ],
     "title": "Саундтрек до зими",
     "totalTracks": 8,
     "type": "album",
@@ -799,6 +945,9 @@
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27359bfdc1c37dc9053cc06eb5b",
     "releaseDate": "2025-01-30",
+    "tags": [
+      "rap"
+    ],
     "title": "Українська історія Х",
     "totalTracks": 1,
     "type": "single",
@@ -818,6 +967,9 @@
     "artistsPopularity": 34,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733f23b957fb99c7eebe000d8a",
     "releaseDate": "2024-11-07",
+    "tags": [
+      "rap"
+    ],
     "title": "Сніг",
     "totalTracks": 1,
     "type": "single",
@@ -836,6 +988,9 @@
     "artistsPopularity": 18,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b6dfece971c97ebf122c8827",
     "releaseDate": "2024-10-25",
+    "tags": [
+      "underground hip-hop"
+    ],
     "title": "Як я хочу",
     "totalTracks": 1,
     "type": "single",
@@ -854,6 +1009,9 @@
     "artistsPopularity": 36,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bd5fa5a0d6bc5e3ce4ea668e",
     "releaseDate": "2024-05-23",
+    "tags": [
+      "rock"
+    ],
     "title": "Тільки не сьогодні (keeroo Remix)",
     "totalTracks": 2,
     "type": "single",
@@ -872,6 +1030,9 @@
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273def93a576ed132c4463e4cd0",
     "releaseDate": "2023-10-27",
+    "tags": [
+      "rap"
+    ],
     "title": "трекосховище",
     "totalTracks": 12,
     "type": "album",
@@ -890,6 +1051,9 @@
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e3f37c0aa8b2cf730b41d3d8",
     "releaseDate": "2024-09-20",
+    "tags": [
+      "rap"
+    ],
     "title": "603628",
     "totalTracks": 1,
     "type": "single",
@@ -908,6 +1072,7 @@
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738b5e593a2316b0e0811d0131",
     "releaseDate": "2024-06-13",
+    "tags": [],
     "title": "засинаючипрокидаюсь",
     "totalTracks": 1,
     "type": "single",
@@ -926,6 +1091,7 @@
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273044dd38bc4641268a1058ef0",
     "releaseDate": "2023-09-14",
+    "tags": [],
     "title": "\"Рабство21\"",
     "totalTracks": 1,
     "type": "single",

@@ -12,6 +12,9 @@
     "artistsPopularity": 5,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739f8a8ff9264e9eb47e7106ae",
     "releaseDate": "2024-10-10",
+    "tags": [
+      "neofolk"
+    ],
     "title": "dekada I",
     "totalTracks": 10,
     "type": "album",
@@ -30,6 +33,9 @@
     "artistsPopularity": 5,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27383310b315cb61c7c87b5321f",
     "releaseDate": "2022-10-20",
+    "tags": [
+      "neofolk"
+    ],
     "title": "Habal Garmin",
     "totalTracks": 10,
     "type": "album",
@@ -49,6 +55,10 @@
     "artistsPopularity": 5,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730d5d56b47345c705ebe09f20",
     "releaseDate": "2020-10-14",
+    "tags": [
+      "neofolk",
+      "dark folk"
+    ],
     "title": "Забуті клейноди Півдня",
     "totalTracks": 11,
     "type": "album",
@@ -67,6 +77,9 @@
     "artistsPopularity": 5,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738579d70cf6993e6fd7a1bd90",
     "releaseDate": "2019-10-13",
+    "tags": [
+      "neofolk"
+    ],
     "title": "Ofira",
     "totalTracks": 9,
     "type": "album",
@@ -85,6 +98,9 @@
     "artistsPopularity": 5,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e473b73aad66afeb2a8e5a27",
     "releaseDate": "2017-04-25",
+    "tags": [
+      "neofolk"
+    ],
     "title": "Ouroboros",
     "totalTracks": 11,
     "type": "album",
@@ -103,6 +119,9 @@
     "artistsPopularity": 5,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734b804c5898d3eafcc00f817d",
     "releaseDate": "2015-06-20",
+    "tags": [
+      "neofolk"
+    ],
     "title": "Terra Ukrania",
     "totalTracks": 9,
     "type": "album",
@@ -121,6 +140,9 @@
     "artistsPopularity": 5,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d67246a352cfa8050bbbd295",
     "releaseDate": "2024-06-21",
+    "tags": [
+      "neofolk"
+    ],
     "title": "Uropia o Morte",
     "totalTracks": 1,
     "type": "single",
@@ -139,6 +161,9 @@
     "artistsPopularity": 5,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f7a71ace0f51a577ca0747e1",
     "releaseDate": "2024-03-09",
+    "tags": [
+      "neofolk"
+    ],
     "title": "Kobzar",
     "totalTracks": 1,
     "type": "single",
@@ -158,6 +183,12 @@
     "artistsPopularity": 29,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e33848e45bd3091bee1bcd85",
     "releaseDate": "2023-10-13",
+    "tags": [
+      "electronica",
+      "neofolk",
+      "hip-hop instrumental",
+      "Lo-Fi"
+    ],
     "title": "Hai Palaie Nebo",
     "totalTracks": 1,
     "type": "single",
@@ -176,6 +207,9 @@
     "artistsPopularity": 5,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735d70933fbd48e68fff8fc6c6",
     "releaseDate": "2022-07-05",
+    "tags": [
+      "neofolk"
+    ],
     "title": "Trunok u Darunok",
     "totalTracks": 1,
     "type": "single",
@@ -194,6 +228,9 @@
     "artistsPopularity": 5,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737f5fb83f000852e2ca0dcbbb",
     "releaseDate": "2021-06-12",
+    "tags": [
+      "neofolk"
+    ],
     "title": "Pasu Kozu",
     "totalTracks": 1,
     "type": "single",
@@ -212,6 +249,9 @@
     "artistsPopularity": 8,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737ece254a2356dac5a02a4078",
     "releaseDate": "2023-11-17",
+    "tags": [
+      "mathcore"
+    ],
     "title": "Finals​.​: The Definitive Edition",
     "totalTracks": 25,
     "type": "album",
@@ -230,6 +270,7 @@
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273031569103af7b6fa1ab91301",
     "releaseDate": "2025-05-14",
+    "tags": [],
     "title": "O Fogo Brilha no Horizonte",
     "totalTracks": 1,
     "type": "single",

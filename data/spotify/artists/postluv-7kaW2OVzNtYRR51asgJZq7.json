@@ -13,6 +13,11 @@
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e3983c8f37d1caccb2b1a241",
     "releaseDate": "2025-04-11",
+    "tags": [
+      "black metal",
+      "rap",
+      "hip hop"
+    ],
     "title": "назавжди",
     "totalTracks": 1,
     "type": "single",
@@ -33,6 +38,11 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732c74f1f353942757bfe6def1",
     "releaseDate": "2024-04-12",
+    "tags": [
+      "rap",
+      "hip hop",
+      "blues"
+    ],
     "title": "Безцінь",
     "totalTracks": 1,
     "type": "single",
@@ -52,6 +62,11 @@
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27312732057c9143531843ba710",
     "releaseDate": "2023-09-01",
+    "tags": [
+      "black metal",
+      "rap",
+      "hip hop"
+    ],
     "title": "забув",
     "totalTracks": 1,
     "type": "single",
@@ -70,6 +85,10 @@
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736a3c6eca70af293c8172f435",
     "releaseDate": "2023-08-18",
+    "tags": [
+      "rap",
+      "hip hop"
+    ],
     "title": "Пам'ятаю",
     "totalTracks": 1,
     "type": "single",
@@ -88,6 +107,10 @@
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27325f2afc37a6044be2e39aafd",
     "releaseDate": "2023-06-08",
+    "tags": [
+      "rap",
+      "hip hop"
+    ],
     "title": "Фрешмен",
     "totalTracks": 1,
     "type": "single",
@@ -106,6 +129,10 @@
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ee860d034cd5c3caa030d21c",
     "releaseDate": "2023-05-26",
+    "tags": [
+      "rap",
+      "hip hop"
+    ],
     "title": "Нехай летять",
     "totalTracks": 1,
     "type": "single",
@@ -124,6 +151,10 @@
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731a182fc43feb4afff8bfe888",
     "releaseDate": "2023-05-05",
+    "tags": [
+      "rap",
+      "hip hop"
+    ],
     "title": "Жити",
     "totalTracks": 1,
     "type": "single",
@@ -144,6 +175,14 @@
     "artistsPopularity": 37,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737c69979ebe07dc9b6885a7d1",
     "releaseDate": "2022-12-23",
+    "tags": [
+      "rap",
+      "hip hop",
+      "post-punk",
+      "rock",
+      "alternative rock",
+      "punk rock"
+    ],
     "title": "Реквієм",
     "totalTracks": 1,
     "type": "single",
@@ -162,6 +201,10 @@
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736814f7896eb49a2bf4bdc473",
     "releaseDate": "2022-09-09",
+    "tags": [
+      "rap",
+      "hip hop"
+    ],
     "title": "Вигаданий світ",
     "totalTracks": 1,
     "type": "single",
@@ -182,6 +225,11 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737ba634b690709b1928f5a56a",
     "releaseDate": "2023-05-05",
+    "tags": [
+      "blues",
+      "rap",
+      "hip hop"
+    ],
     "title": "Покажи себе",
     "totalTracks": 1,
     "type": "single",
@@ -200,6 +248,10 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737eb96202f4da6d9cdef7e062",
     "releaseDate": "2023-06-23",
+    "tags": [
+      "rap",
+      "hip hop"
+    ],
     "title": "Мерс",
     "totalTracks": 1,
     "type": "single",
@@ -218,6 +270,7 @@
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735bb3d286d9fa668c6eb20211",
     "releaseDate": "2025-02-07",
+    "tags": [],
     "title": "Царь-бімба",
     "totalTracks": 1,
     "type": "single",
@@ -236,6 +289,10 @@
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f58495dbbfd8afc3b5642650",
     "releaseDate": "2023-04-21",
+    "tags": [
+      "britpop",
+      "rock"
+    ],
     "title": "Мотиватор",
     "totalTracks": 1,
     "type": "single",

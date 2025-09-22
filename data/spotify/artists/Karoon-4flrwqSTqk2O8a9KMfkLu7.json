@@ -12,6 +12,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27381ce79e12d5b84f159f42e12",
     "releaseDate": "2022-02-14",
+    "tags": [
+      "darkwave"
+    ],
     "title": "Тихіше",
     "totalTracks": 8,
     "type": "album",
@@ -30,6 +33,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739f9b589ce8a1f37f044587e7",
     "releaseDate": "2025-07-25",
+    "tags": [
+      "darkwave"
+    ],
     "title": "Fantastyka",
     "totalTracks": 1,
     "type": "single",
@@ -48,6 +54,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733ee0b41a6188bee88e3c49ed",
     "releaseDate": "2025-03-14",
+    "tags": [
+      "darkwave"
+    ],
     "title": "Nadto",
     "totalTracks": 1,
     "type": "single",
@@ -66,6 +75,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e4cb68a9b9af74f80a14ab82",
     "releaseDate": "2025-02-21",
+    "tags": [
+      "darkwave"
+    ],
     "title": "Ne omyne",
     "totalTracks": 1,
     "type": "single",
@@ -84,6 +96,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c6e38627fdc95f62e9f20468",
     "releaseDate": "2024-09-20",
+    "tags": [
+      "darkwave"
+    ],
     "title": "Клітка",
     "totalTracks": 1,
     "type": "single",
@@ -102,6 +117,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736408a05e253d69352b20a70b",
     "releaseDate": "2024-08-02",
+    "tags": [
+      "darkwave"
+    ],
     "title": "Час дівчат",
     "totalTracks": 1,
     "type": "single",
@@ -120,6 +138,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27340cf5ffb6ea601938d449cc3",
     "releaseDate": "2024-04-19",
+    "tags": [
+      "darkwave"
+    ],
     "title": "Зона дискомфорту",
     "totalTracks": 1,
     "type": "single",
@@ -139,6 +160,11 @@
     "artistsPopularity": 20,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731139776f24a89e928feb083f",
     "releaseDate": "2024-03-01",
+    "tags": [
+      "soul",
+      "darkwave",
+      "electropop"
+    ],
     "title": "В книзі",
     "totalTracks": 1,
     "type": "single",
@@ -157,6 +183,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273efdb2d5dd7b014879aef661d",
     "releaseDate": "2024-02-16",
+    "tags": [
+      "darkwave"
+    ],
     "title": "Storm",
     "totalTracks": 1,
     "type": "single",
@@ -175,6 +204,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b2bd71e070725ba9dda96561",
     "releaseDate": "2023-12-15",
+    "tags": [
+      "darkwave"
+    ],
     "title": "Набір випадкових слів",
     "totalTracks": 5,
     "type": "single",
@@ -193,6 +225,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a50d1c3d977e2165c3dd5c44",
     "releaseDate": "2023-11-23",
+    "tags": [
+      "darkwave"
+    ],
     "title": "Маракуя",
     "totalTracks": 1,
     "type": "single",
@@ -212,6 +247,13 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a93d43659e697f19f2daf808",
     "releaseDate": "2023-09-29",
+    "tags": [
+      "electropop",
+      "electronic",
+      "darkwave",
+      "indie pop",
+      "Lo-Fi"
+    ],
     "title": "Холодний світ",
     "totalTracks": 2,
     "type": "single",
@@ -230,6 +272,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738e66680365b0c83e64252fb0",
     "releaseDate": "2023-09-01",
+    "tags": [
+      "darkwave"
+    ],
     "title": "Пісок",
     "totalTracks": 1,
     "type": "single",
@@ -248,6 +293,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273334e378fd8d199f2d2955a07",
     "releaseDate": "2023-06-29",
+    "tags": [
+      "darkwave"
+    ],
     "title": "Стан",
     "totalTracks": 1,
     "type": "single",
@@ -267,6 +315,12 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eb39198a9f3d142278da0aea",
     "releaseDate": "2023-05-26",
+    "tags": [
+      "electronic",
+      "indie pop",
+      "darkwave",
+      "dream pop"
+    ],
     "title": "Поплавок",
     "totalTracks": 1,
     "type": "single",
@@ -285,6 +339,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a89613caade13b0ce0212248",
     "releaseDate": "2023-02-22",
+    "tags": [
+      "darkwave"
+    ],
     "title": "Ніч",
     "totalTracks": 1,
     "type": "single",
@@ -304,6 +361,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27336ca4ae82eb91c2c0971828c",
     "releaseDate": "2023-01-06",
+    "tags": [
+      "darkwave"
+    ],
     "title": "Сидить Миколай",
     "totalTracks": 1,
     "type": "single",
@@ -323,6 +383,12 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273108beddbe2d3aba52bc60e37",
     "releaseDate": "2022-11-30",
+    "tags": [
+      "darkwave",
+      "electronic",
+      "indie pop",
+      "dream pop"
+    ],
     "title": "Дай мені трохи світла",
     "totalTracks": 1,
     "type": "single",
@@ -341,6 +407,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b4d7767a7cb5809eb6107e99",
     "releaseDate": "2022-11-18",
+    "tags": [
+      "darkwave"
+    ],
     "title": "Тікаєш",
     "totalTracks": 1,
     "type": "single",
@@ -359,6 +428,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734502e485cd2ebbedb6a032fb",
     "releaseDate": "2022-10-21",
+    "tags": [
+      "darkwave"
+    ],
     "title": "Несповна розуму",
     "totalTracks": 1,
     "type": "single",
@@ -379,6 +451,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a8c924e76b27b0c2ab599c00",
     "releaseDate": "2022-09-02",
+    "tags": [
+      "darkwave"
+    ],
     "title": "Українська завзята (Roland UA Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -397,6 +472,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27319fb20c150c1bd67beee38d3",
     "releaseDate": "2022-08-08",
+    "tags": [
+      "darkwave"
+    ],
     "title": "Штаб",
     "totalTracks": 1,
     "type": "single",
@@ -415,6 +493,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739f8617bf390992a5315cd446",
     "releaseDate": "2022-06-15",
+    "tags": [
+      "darkwave"
+    ],
     "title": "Брудна вода",
     "totalTracks": 1,
     "type": "single",
@@ -435,6 +516,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f1d55f357b5aea208ff6b5d",
     "releaseDate": "2022-06-14",
+    "tags": [
+      "darkwave"
+    ],
     "title": "Українська завзята (Soundpill Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -453,6 +537,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d75ded225eea781b6b633ad1",
     "releaseDate": "2022-05-12",
+    "tags": [
+      "darkwave"
+    ],
     "title": "Дощем",
     "totalTracks": 1,
     "type": "single",
@@ -472,6 +559,11 @@
     "artistsPopularity": 31,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27314c20aad16803ecac6f80e5a",
     "releaseDate": "2022-04-28",
+    "tags": [
+      "pop",
+      "darkwave",
+      "electropop"
+    ],
     "title": "Замету",
     "totalTracks": 1,
     "type": "single",
@@ -491,6 +583,10 @@
     "artistsPopularity": 32,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739e9020cecdfaa049b8d0225a",
     "releaseDate": "2022-04-14",
+    "tags": [
+      "Grunge",
+      "darkwave"
+    ],
     "title": "Лелеки",
     "totalTracks": 1,
     "type": "single",
@@ -509,6 +605,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a0ed0321bdfbfe39bcf7cbb6",
     "releaseDate": "2022-03-24",
+    "tags": [
+      "darkwave"
+    ],
     "title": "Лиса гора",
     "totalTracks": 1,
     "type": "single",
@@ -527,6 +626,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736eeefa53b45e5c46b6cd7ec6",
     "releaseDate": "2022-02-14",
+    "tags": [
+      "darkwave"
+    ],
     "title": "Не ходи за мною (ingvarr maro remix)",
     "totalTracks": 1,
     "type": "single",
@@ -545,6 +647,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273461864017bd9e39279d025a1",
     "releaseDate": "2022-01-31",
+    "tags": [
+      "darkwave"
+    ],
     "title": "Не ходи за мною",
     "totalTracks": 1,
     "type": "single",
@@ -563,6 +668,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27367bcb9f91befd12e195aad6e",
     "releaseDate": "2021-11-30",
+    "tags": [
+      "darkwave"
+    ],
     "title": "Тихіше",
     "totalTracks": 1,
     "type": "single",
@@ -581,6 +689,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27360e86ab06e0f4d2ab4efdbd7",
     "releaseDate": "2021-10-29",
+    "tags": [
+      "darkwave"
+    ],
     "title": "Сніг",
     "totalTracks": 1,
     "type": "single",
@@ -599,6 +710,9 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f44811906362bd7209a9c33e",
     "releaseDate": "2020-06-28",
+    "tags": [
+      "darkwave"
+    ],
     "title": "Silska Mistyka",
     "totalTracks": 5,
     "type": "single",
@@ -617,6 +731,10 @@
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739d07f4e3811efed2dd095932",
     "releaseDate": "2020-11-06",
+    "tags": [
+      "female vocalists",
+      "singer-songwriter"
+    ],
     "title": "Да кто такой этот ваш FEAT?",
     "totalTracks": 8,
     "type": "album",
@@ -635,6 +753,7 @@
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27373646593c5b59c5ecad42fe1",
     "releaseDate": "2020-08-12",
+    "tags": [],
     "title": "Niyak",
     "totalTracks": 1,
     "type": "single",
