@@ -16,7 +16,7 @@ export async function getArtistsPopularity(apiKey: string, artists: string[]) {
       const artistInfo = await fetchFromLastfm(
         {
           api_key: apiKey,
-          artist: encodeURIComponent(trimmedArtistName),
+          artist: trimmedArtistName,
           method: 'artist.getinfo',
         },
         infoResponseSchema,

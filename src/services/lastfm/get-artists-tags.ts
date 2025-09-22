@@ -19,7 +19,7 @@ export async function getArtistsTags(apiKey: string, artists: string[]) {
       const artistTopTags = await fetchFromLastfm(
         {
           api_key: apiKey,
-          artist: encodeURIComponent(trimmedArtistName),
+          artist: trimmedArtistName,
           method: 'artist.gettoptags',
         },
         toptagsResponseSchema,
