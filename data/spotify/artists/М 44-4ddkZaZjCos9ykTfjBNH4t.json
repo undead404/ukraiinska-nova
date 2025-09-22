@@ -12,6 +12,9 @@
     "artistsPopularity": 12,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a032be7a46de61e724b51fe1",
     "releaseDate": "2020-04-02",
+    "tags": [
+      "underground rap"
+    ],
     "title": "Підсвідомість",
     "totalTracks": 1,
     "type": "single",
@@ -30,6 +33,9 @@
     "artistsPopularity": 12,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bfbae685324d234116097552",
     "releaseDate": "2019-06-06",
+    "tags": [
+      "underground rap"
+    ],
     "title": "Як в останнє",
     "totalTracks": 1,
     "type": "single",
@@ -48,6 +54,7 @@
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273db4f669c523df8af0f8ef4de",
     "releaseDate": "2025-08-17",
+    "tags": [],
     "title": "Basketball",
     "totalTracks": 1,
     "type": "single",

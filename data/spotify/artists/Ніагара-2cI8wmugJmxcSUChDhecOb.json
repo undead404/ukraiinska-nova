@@ -12,6 +12,9 @@
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a8ebd41b04c8ccf0a1afe0f1",
     "releaseDate": "2022-09-30",
+    "tags": [
+      "rock"
+    ],
     "title": "#моямузиканестихне",
     "totalTracks": 12,
     "type": "album",
@@ -30,6 +33,9 @@
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732764aa96bc2ff00cddf53fae",
     "releaseDate": "2024-03-22",
+    "tags": [
+      "rock"
+    ],
     "title": "ЛЮТИЙ",
     "totalTracks": 1,
     "type": "single",
@@ -48,6 +54,9 @@
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273274c675c8de074bec0cfd27e",
     "releaseDate": "2022-05-27",
+    "tags": [
+      "rock"
+    ],
     "title": "Скоро все мине",
     "totalTracks": 1,
     "type": "single",
@@ -66,6 +75,9 @@
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27363c0077865c6a5bf1465ab21",
     "releaseDate": "2022-02-04",
+    "tags": [
+      "rock"
+    ],
     "title": "Сніг",
     "totalTracks": 1,
     "type": "single",

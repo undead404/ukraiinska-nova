@@ -12,6 +12,11 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fcad47c42421cad63ae591f1",
     "releaseDate": "2025-07-25",
+    "tags": [
+      "Garage Rock",
+      "Garage Punk",
+      "indie rock"
+    ],
     "title": "Вплив",
     "totalTracks": 11,
     "type": "album",
@@ -30,6 +35,11 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27341a47fbb9aeaf80c8f63333c",
     "releaseDate": "2025-06-13",
+    "tags": [
+      "Garage Rock",
+      "Garage Punk",
+      "indie rock"
+    ],
     "title": "Постріл у Диявола",
     "totalTracks": 1,
     "type": "single",
@@ -48,6 +58,11 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ebf5de8ed70212db815f0c52",
     "releaseDate": "2025-05-02",
+    "tags": [
+      "Garage Rock",
+      "Garage Punk",
+      "indie rock"
+    ],
     "title": "Ретрохіпхоп",
     "totalTracks": 1,
     "type": "single",
@@ -67,6 +82,11 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738a75cc8ceaecfe601fe83b68",
     "releaseDate": "2024-01-16",
+    "tags": [
+      "Garage Rock",
+      "Garage Punk",
+      "indie rock"
+    ],
     "title": "ПЕСИГОЛОВЦІ",
     "totalTracks": 2,
     "type": "single",
@@ -85,6 +105,11 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737c750e2f41fa4377cb363a2f",
     "releaseDate": "2023-12-01",
+    "tags": [
+      "Garage Rock",
+      "Garage Punk",
+      "indie rock"
+    ],
     "title": "Я з'їв всі твої мрії",
     "totalTracks": 1,
     "type": "single",
@@ -103,6 +128,11 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27359e6da4dafb9bf4c6878bb1c",
     "releaseDate": "2023-08-02",
+    "tags": [
+      "Garage Rock",
+      "Garage Punk",
+      "indie rock"
+    ],
     "title": "ЖЕРТВА",
     "totalTracks": 1,
     "type": "single",
@@ -122,6 +152,12 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273edecd86f3295950b18b36eaa",
     "releaseDate": "2023-01-01",
+    "tags": [
+      "Garage Rock",
+      "electronic",
+      "Garage Punk",
+      "indie rock"
+    ],
     "title": "ПОМСТА (XenjeS Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -140,6 +176,11 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ee0b63d1b1c6e847657714f7",
     "releaseDate": "2022-12-02",
+    "tags": [
+      "Garage Rock",
+      "Garage Punk",
+      "indie rock"
+    ],
     "title": "ІЗОЛЮЙТЕ МЕНЕ",
     "totalTracks": 1,
     "type": "single",
@@ -158,6 +199,11 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cdfcfeed7b148ae483cae39d",
     "releaseDate": "2022-09-20",
+    "tags": [
+      "Garage Rock",
+      "Garage Punk",
+      "indie rock"
+    ],
     "title": "ПОМСТА",
     "totalTracks": 1,
     "type": "single",
@@ -176,6 +222,11 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27306077d86df290f0c06fc8d78",
     "releaseDate": "2022-07-23",
+    "tags": [
+      "Garage Rock",
+      "Garage Punk",
+      "indie rock"
+    ],
     "title": "козаки здоров",
     "totalTracks": 1,
     "type": "single",
@@ -194,6 +245,11 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273462dc86be852ee48f0e670d3",
     "releaseDate": "2022-06-01",
+    "tags": [
+      "Garage Rock",
+      "Garage Punk",
+      "indie rock"
+    ],
     "title": "БАНДЕРМОБІЛЬ",
     "totalTracks": 3,
     "type": "single",
@@ -212,6 +268,11 @@
     "artistsPopularity": 11,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273efcdacd992ecc12c9cd6726f",
     "releaseDate": "2021-08-14",
+    "tags": [
+      "Garage Rock",
+      "Garage Punk",
+      "indie rock"
+    ],
     "title": "сміття",
     "totalTracks": 1,
     "type": "single",
@@ -230,6 +291,7 @@
     "artistsPopularity": 9,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273023117b7313a01020a15d161",
     "releaseDate": "2022-10-19",
+    "tags": [],
     "title": "Пасажири",
     "totalTracks": 1,
     "type": "single",

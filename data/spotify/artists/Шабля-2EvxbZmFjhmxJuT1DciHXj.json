@@ -12,6 +12,12 @@
     "artistsPopularity": 20,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a5e41a73fd9231c4614b54a6",
     "releaseDate": "2015-01-01",
+    "tags": [
+      "pop",
+      "rock",
+      "dark folk",
+      "folk rock"
+    ],
     "title": "Браття українці",
     "totalTracks": 7,
     "type": "album",
@@ -30,6 +36,12 @@
     "artistsPopularity": 20,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e5845487f31c3e1c7aa1109a",
     "releaseDate": "2025-06-28",
+    "tags": [
+      "pop",
+      "rock",
+      "dark folk",
+      "folk rock"
+    ],
     "title": "ЗА УКРАЇНУ (With Orchestra)",
     "totalTracks": 1,
     "type": "single",
@@ -48,6 +60,12 @@
     "artistsPopularity": 20,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730927e8829f3940c897eb600a",
     "releaseDate": "2024-05-09",
+    "tags": [
+      "pop",
+      "rock",
+      "dark folk",
+      "folk rock"
+    ],
     "title": "Калина",
     "totalTracks": 1,
     "type": "single",
@@ -66,6 +84,12 @@
     "artistsPopularity": 20,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273edb1746122acf04bf8874c3e",
     "releaseDate": "2023-07-14",
+    "tags": [
+      "pop",
+      "rock",
+      "dark folk",
+      "folk rock"
+    ],
     "title": "ЗА УКРАЇНУ",
     "totalTracks": 1,
     "type": "single",
@@ -84,6 +108,12 @@
     "artistsPopularity": 20,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e3a8c99b48239c03064b468f",
     "releaseDate": "2023-05-26",
+    "tags": [
+      "pop",
+      "rock",
+      "dark folk",
+      "folk rock"
+    ],
     "title": "Слава ЗСУ",
     "totalTracks": 1,
     "type": "single",
@@ -102,6 +132,12 @@
     "artistsPopularity": 20,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738a2b4dadd3f9fb5fc188f419",
     "releaseDate": "2016-06-23",
+    "tags": [
+      "pop",
+      "rock",
+      "dark folk",
+      "folk rock"
+    ],
     "title": "Бурштин",
     "totalTracks": 1,
     "type": "single",
@@ -120,6 +156,12 @@
     "artistsPopularity": 20,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b2eb92c3adfb2c428f3bfd09",
     "releaseDate": "2015-01-01",
+    "tags": [
+      "pop",
+      "rock",
+      "dark folk",
+      "folk rock"
+    ],
     "title": "Браття українці",
     "totalTracks": 1,
     "type": "single",
@@ -138,6 +180,12 @@
     "artistsPopularity": 20,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731bd097a01ac8ee5418eb43b9",
     "releaseDate": "2014-12-22",
+    "tags": [
+      "pop",
+      "rock",
+      "dark folk",
+      "folk rock"
+    ],
     "title": "Чао, чао!",
     "totalTracks": 1,
     "type": "single",
@@ -157,6 +205,7 @@
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e2a45ddbd22a6a5c8d369bf8",
     "releaseDate": "2023-12-29",
+    "tags": [],
     "title": "Сміливість (Orchestra)",
     "totalTracks": 12,
     "type": "album",

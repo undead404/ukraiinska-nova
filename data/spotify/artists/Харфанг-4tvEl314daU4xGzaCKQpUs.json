@@ -12,6 +12,10 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732f11ed7313fe8ceec9258d2a",
     "releaseDate": "2025-08-28",
+    "tags": [
+      "rap",
+      "hip hop"
+    ],
     "title": "Джерело",
     "totalTracks": 11,
     "type": "album",
@@ -30,6 +34,10 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27301b2f39b9c9d14f4aa7a7706",
     "releaseDate": "2025-04-10",
+    "tags": [
+      "rap",
+      "hip hop"
+    ],
     "title": "Весна",
     "totalTracks": 1,
     "type": "single",
@@ -48,6 +56,10 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736d5fa1e8e99b7f2424676c6a",
     "releaseDate": "2025-01-07",
+    "tags": [
+      "rap",
+      "hip hop"
+    ],
     "title": "Січень",
     "totalTracks": 1,
     "type": "single",
@@ -67,6 +79,10 @@
     "artistsPopularity": 48,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f908777463c86bc524eaf24",
     "releaseDate": "2024-12-11",
+    "tags": [
+      "rap",
+      "hip hop"
+    ],
     "title": "Дівчата",
     "totalTracks": 1,
     "type": "single",
@@ -85,6 +101,10 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731c0a96b96ab3d63a83c0c128",
     "releaseDate": "2024-11-17",
+    "tags": [
+      "rap",
+      "hip hop"
+    ],
     "title": "Історія стерпить",
     "totalTracks": 1,
     "type": "single",
@@ -103,6 +123,10 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273575d7f4a68b4972b888f6496",
     "releaseDate": "2024-10-31",
+    "tags": [
+      "rap",
+      "hip hop"
+    ],
     "title": "Тумани",
     "totalTracks": 1,
     "type": "single",
@@ -121,6 +145,10 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27375ef74b413f9aabfb1edf844",
     "releaseDate": "2024-10-03",
+    "tags": [
+      "rap",
+      "hip hop"
+    ],
     "title": "Степлер",
     "totalTracks": 1,
     "type": "single",
@@ -139,6 +167,10 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730f20cc1d0219fe272e8ed241",
     "releaseDate": "2024-08-12",
+    "tags": [
+      "rap",
+      "hip hop"
+    ],
     "title": "Ярди",
     "totalTracks": 1,
     "type": "single",
@@ -157,6 +189,10 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738fa9d9285906b508322de68c",
     "releaseDate": "2024-04-01",
+    "tags": [
+      "rap",
+      "hip hop"
+    ],
     "title": "Око за око",
     "totalTracks": 1,
     "type": "single",
@@ -175,6 +211,10 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b70e4b057bfe022d65751443",
     "releaseDate": "2024-03-01",
+    "tags": [
+      "rap",
+      "hip hop"
+    ],
     "title": "Усе",
     "totalTracks": 1,
     "type": "single",
@@ -193,6 +233,7 @@
     "artistsPopularity": 32,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e30a5849539ccbf4cec40b45",
     "releaseDate": "2025-02-24",
+    "tags": [],
     "title": "Брати/Сам",
     "totalTracks": 2,
     "type": "single",

@@ -12,6 +12,9 @@
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c854b9196c25afaead5a13a7",
     "releaseDate": "2025-03-14",
+    "tags": [
+      "rock"
+    ],
     "title": "Кенсел",
     "totalTracks": 14,
     "type": "album",
@@ -30,6 +33,9 @@
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739b6e4a71cedb52fae18da300",
     "releaseDate": "2025-09-12",
+    "tags": [
+      "rock"
+    ],
     "title": "Проспект Свободи",
     "totalTracks": 1,
     "type": "single",
@@ -50,6 +56,10 @@
     "artistsPopularity": 49,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27307ad4ba519f063c7a711245d",
     "releaseDate": "2025-08-22",
+    "tags": [
+      "rock",
+      "rap"
+    ],
     "title": "Вовк",
     "totalTracks": 1,
     "type": "single",
@@ -68,6 +78,9 @@
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d55fb9e994ba0d1d048e6295",
     "releaseDate": "2025-06-27",
+    "tags": [
+      "rock"
+    ],
     "title": "Капітан",
     "totalTracks": 1,
     "type": "single",
@@ -86,6 +99,9 @@
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739ba19cf6fbfbd48527e0be68",
     "releaseDate": "2025-03-07",
+    "tags": [
+      "rock"
+    ],
     "title": "Синевир",
     "totalTracks": 1,
     "type": "single",
@@ -105,6 +121,10 @@
     "artistsPopularity": 34,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735ab11e0bd62909b2a0fd7e5c",
     "releaseDate": "2025-01-31",
+    "tags": [
+      "rock",
+      "rap"
+    ],
     "title": "Як хотів",
     "totalTracks": 1,
     "type": "single",
@@ -123,6 +143,9 @@
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737edf21cdaf1d17ac16390b55",
     "releaseDate": "2024-12-13",
+    "tags": [
+      "rock"
+    ],
     "title": "Дім",
     "totalTracks": 1,
     "type": "single",
@@ -141,6 +164,9 @@
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273723a83ee9f838125a4640441",
     "releaseDate": "2024-09-02",
+    "tags": [
+      "rock"
+    ],
     "title": "Волошка",
     "totalTracks": 1,
     "type": "single",
@@ -160,6 +186,10 @@
     "artistsPopularity": 34,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734be812fbb0130ae2e2e82e5c",
     "releaseDate": "2024-08-09",
+    "tags": [
+      "rock",
+      "rap"
+    ],
     "title": "Кенсел",
     "totalTracks": 1,
     "type": "single",
@@ -179,6 +209,10 @@
     "artistsPopularity": 34,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ea9303d1a8943d24124c2b65",
     "releaseDate": "2024-05-28",
+    "tags": [
+      "rock",
+      "rap"
+    ],
     "title": "Зелена зрада",
     "totalTracks": 1,
     "type": "single",
@@ -198,6 +232,9 @@
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273112120e5dcdbd9000c1f5d7c",
     "releaseDate": "2024-05-03",
+    "tags": [
+      "rock"
+    ],
     "title": "Нахтіґаль",
     "totalTracks": 1,
     "type": "single",
@@ -216,6 +253,9 @@
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a3eaf3c9bb5aa40f0e538ce4",
     "releaseDate": "2024-02-09",
+    "tags": [
+      "rock"
+    ],
     "title": "Шлях",
     "totalTracks": 1,
     "type": "single",
@@ -234,6 +274,9 @@
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27329f30433e66edc4f353458b8",
     "releaseDate": "2023-10-13",
+    "tags": [
+      "rock"
+    ],
     "title": "Лани Широкополі",
     "totalTracks": 1,
     "type": "single",
@@ -252,6 +295,7 @@
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cb449e2e94c142c433e8f9c0",
     "releaseDate": "2024-09-13",
+    "tags": [],
     "title": "Africa Records, Vol.1",
     "totalTracks": 11,
     "type": "album",

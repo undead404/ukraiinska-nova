@@ -12,6 +12,9 @@
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27370ba06c476b9078feb7ad252",
     "releaseDate": "2018-05-26",
+    "tags": [
+      "folk"
+    ],
     "title": "SUPER-PUPER",
     "totalTracks": 11,
     "type": "album",
@@ -30,6 +33,9 @@
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27335cd272ffdc3073b81f55c6b",
     "releaseDate": "2014-11-15",
+    "tags": [
+      "folk"
+    ],
     "title": "DZIDZIO Хіти",
     "totalTracks": 13,
     "type": "album",
@@ -48,6 +54,9 @@
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736da79eed6e8970f11626d994",
     "releaseDate": "2012-11-19",
+    "tags": [
+      "folk"
+    ],
     "title": "ХА-ХА-ХА",
     "totalTracks": 14,
     "type": "album",
@@ -66,6 +75,9 @@
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273182879299debd61593601e65",
     "releaseDate": "2022-01-21",
+    "tags": [
+      "folk"
+    ],
     "title": "То моє море (із к/ф \"Я, \"Побєда\" і Берлін\")",
     "totalTracks": 1,
     "type": "single",
@@ -85,6 +97,11 @@
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a9b40b40c5343e9e4c0010b2",
     "releaseDate": "2021-12-10",
+    "tags": [
+      "pop",
+      "folk",
+      "dance"
+    ],
     "title": "Щасливі люди",
     "totalTracks": 1,
     "type": "single",
@@ -105,6 +122,13 @@
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d95107ebbff0f5418609e12d",
     "releaseDate": "2021-02-14",
+    "tags": [
+      "folk",
+      "jazz",
+      "swing",
+      "instrumental",
+      "Smooth Jazz"
+    ],
     "title": "Киця (Zaec Remixes)",
     "totalTracks": 2,
     "type": "single",
@@ -123,6 +147,9 @@
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730da896183ae9520892d7f641",
     "releaseDate": "2020-12-04",
+    "tags": [
+      "folk"
+    ],
     "title": "Зимова казка",
     "totalTracks": 1,
     "type": "single",
@@ -141,6 +168,9 @@
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733403c5a7d64fd26dc5dc4835",
     "releaseDate": "2020-08-24",
+    "tags": [
+      "folk"
+    ],
     "title": "Гімн України",
     "totalTracks": 1,
     "type": "single",
@@ -160,6 +190,9 @@
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735e82ee9409c9bbef4174195c",
     "releaseDate": "2020-05-13",
+    "tags": [
+      "folk"
+    ],
     "title": "Киця",
     "totalTracks": 1,
     "type": "single",
@@ -178,6 +211,9 @@
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730e19e2700b60c511e151f63a",
     "releaseDate": "2020-04-12",
+    "tags": [
+      "folk"
+    ],
     "title": "Молитва за Україну",
     "totalTracks": 1,
     "type": "single",
@@ -196,6 +232,9 @@
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731b11a76dbb351f08f2deffb8",
     "releaseDate": "2020-02-14",
+    "tags": [
+      "folk"
+    ],
     "title": "Я люблю тебе, Київ",
     "totalTracks": 1,
     "type": "single",
@@ -214,6 +253,9 @@
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273792a0164952ca0d6843b4cd4",
     "releaseDate": "2019-08-30",
+    "tags": [
+      "folk"
+    ],
     "title": "Я Міліонер",
     "totalTracks": 1,
     "type": "single",
@@ -232,6 +274,9 @@
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734341ac2180d03a597e60ec74",
     "releaseDate": "2019-04-24",
+    "tags": [
+      "folk"
+    ],
     "title": "Мучениці",
     "totalTracks": 1,
     "type": "single",
@@ -250,6 +295,9 @@
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27308f0db67bb10a16720e4bb99",
     "releaseDate": "2018-11-12",
+    "tags": [
+      "folk"
+    ],
     "title": "Моя ЛЮБОВ (з к/ф \"DZIDZIO Перший раз\")",
     "totalTracks": 1,
     "type": "single",
@@ -268,6 +316,9 @@
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b0d190f88881a616d43568c3",
     "releaseDate": "2017-11-20",
+    "tags": [
+      "folk"
+    ],
     "title": "Вихідний",
     "totalTracks": 1,
     "type": "single",
@@ -287,6 +338,9 @@
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d81923e57c58e7cc2a9bc266",
     "releaseDate": "2017-05-22",
+    "tags": [
+      "folk"
+    ],
     "title": "Чекаю. Цьом",
     "totalTracks": 1,
     "type": "single",
@@ -305,6 +359,9 @@
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f1ae723c35f8ad893f2498e3",
     "releaseDate": "2017-04-16",
+    "tags": [
+      "folk"
+    ],
     "title": "Розлук не буде",
     "totalTracks": 1,
     "type": "single",
@@ -323,6 +380,9 @@
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734408f0ff9cd8e5c9519502c8",
     "releaseDate": "2017-03-15",
+    "tags": [
+      "folk"
+    ],
     "title": "Банда-Банда",
     "totalTracks": 1,
     "type": "single",
@@ -341,6 +401,9 @@
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735cb39fc3834599940d6d4be5",
     "releaseDate": "2017-02-23",
+    "tags": [
+      "folk"
+    ],
     "title": "Не матюкайся",
     "totalTracks": 1,
     "type": "single",
@@ -359,6 +422,9 @@
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27389e7fddbbdceccf130621e94",
     "releaseDate": "2016-10-05",
+    "tags": [
+      "folk"
+    ],
     "title": "108",
     "totalTracks": 1,
     "type": "single",
@@ -377,6 +443,9 @@
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273322585450126438dc87833dd",
     "releaseDate": "2016-05-05",
+    "tags": [
+      "folk"
+    ],
     "title": "Птахоподібна",
     "totalTracks": 1,
     "type": "single",
@@ -395,6 +464,9 @@
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735c94645411f43a56041fbb0b",
     "releaseDate": "2016-01-03",
+    "tags": [
+      "folk"
+    ],
     "title": "Marsik",
     "totalTracks": 1,
     "type": "single",
@@ -413,6 +485,9 @@
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27305cb06d162d7fc0f8f8a4087",
     "releaseDate": "2015-11-18",
+    "tags": [
+      "folk"
+    ],
     "title": "DANCE",
     "totalTracks": 5,
     "type": "single",
@@ -431,6 +506,9 @@
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733dfe17f1deecd4ec91ecff2d",
     "releaseDate": "2015-06-29",
+    "tags": [
+      "folk"
+    ],
     "title": "Я їду до мами",
     "totalTracks": 1,
     "type": "single",
@@ -449,6 +527,9 @@
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736ec809040b9d6cf8f8e48dd2",
     "releaseDate": "2015-03-10",
+    "tags": [
+      "folk"
+    ],
     "title": "Ja cie kocham (Sympho Version)",
     "totalTracks": 1,
     "type": "single",
@@ -467,6 +548,9 @@
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738f3d8ee766138c670f2384ee",
     "releaseDate": "2014-06-06",
+    "tags": [
+      "folk"
+    ],
     "title": "Павук",
     "totalTracks": 2,
     "type": "single",
@@ -485,6 +569,9 @@
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d6d4d1c2351426edb965fb17",
     "releaseDate": "2014-03-08",
+    "tags": [
+      "folk"
+    ],
     "title": "3 в 1",
     "totalTracks": 1,
     "type": "single",
@@ -503,6 +590,9 @@
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a79bbf73c80c2d3b6ce2c3a4",
     "releaseDate": "2013-12-15",
+    "tags": [
+      "folk"
+    ],
     "title": "Старий Рік минає",
     "totalTracks": 1,
     "type": "single",
@@ -521,6 +611,9 @@
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273798c8540efa7ad9d9e1b76f0",
     "releaseDate": "2013-10-04",
+    "tags": [
+      "folk"
+    ],
     "title": "Das Ist Gut Fantastisch",
     "totalTracks": 4,
     "type": "single",
@@ -539,6 +632,9 @@
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27318c2782a116cc6c2d24187e3",
     "releaseDate": "2013-08-01",
+    "tags": [
+      "folk"
+    ],
     "title": "Я і Сара",
     "totalTracks": 2,
     "type": "single",
@@ -557,6 +653,9 @@
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d8eccde138fc055f10db24c7",
     "releaseDate": "2013-05-31",
+    "tags": [
+      "folk"
+    ],
     "title": "Мені повезло",
     "totalTracks": 2,
     "type": "single",
@@ -575,6 +674,9 @@
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369333f69ab76a8fa2c1ab402",
     "releaseDate": "2013-04-14",
+    "tags": [
+      "folk"
+    ],
     "title": "Сусіди",
     "totalTracks": 1,
     "type": "single",
@@ -595,6 +697,10 @@
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739ec84ab0b7e542f9d2961ef5",
     "releaseDate": "2021-03-01",
+    "tags": [
+      "pop",
+      "folk"
+    ],
     "title": "Чому?",
     "totalTracks": 1,
     "type": "single",
@@ -613,6 +719,7 @@
     "artistsPopularity": 35,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab074597b01b1b50028614df",
     "releaseDate": "2020-11-13",
+    "tags": [],
     "title": "По барабану",
     "totalTracks": 6,
     "type": "single",
@@ -633,6 +740,9 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aaca5d59cea43bd6f17badd5",
     "releaseDate": "2023-08-25",
+    "tags": [
+      "pop"
+    ],
     "title": "Миліша",
     "totalTracks": 1,
     "type": "single",
@@ -651,6 +761,7 @@
     "artistsPopularity": 35,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273688dcdec2a62b5c7ec82e72e",
     "releaseDate": "2022-07-29",
+    "tags": [],
     "title": "За місяць до війни (Live)",
     "totalTracks": 8,
     "type": "album",
@@ -669,6 +780,9 @@
     "artistsPopularity": 23,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ea1938a30082127cd19aa733",
     "releaseDate": "2016-11-24",
+    "tags": [
+      "folk"
+    ],
     "title": "Ніна Матвієнко",
     "totalTracks": 1,
     "type": "single",
@@ -687,6 +801,9 @@
     "artistsPopularity": 33,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a10fea7fe54e43533f8fa033",
     "releaseDate": "2021-01-04",
+    "tags": [
+      "pop"
+    ],
     "title": "Нова радість стала",
     "totalTracks": 1,
     "type": "single",
@@ -705,6 +822,9 @@
     "artistsPopularity": 33,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27322dcba4e00317618f77ae28d",
     "releaseDate": "2021-12-25",
+    "tags": [
+      "pop"
+    ],
     "title": "Христос Народився",
     "totalTracks": 1,
     "type": "single",
@@ -723,6 +843,9 @@
     "artistsPopularity": 33,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27377292721e429f0a591dd3bfd",
     "releaseDate": "2021-05-07",
+    "tags": [
+      "pop"
+    ],
     "title": "Христос воскрес",
     "totalTracks": 1,
     "type": "single",
@@ -741,6 +864,7 @@
     "artistsPopularity": 25,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273272be13bc063eac86de9e75d",
     "releaseDate": "2012-11-19",
+    "tags": [],
     "title": "Гопа - Гопа",
     "totalTracks": 2,
     "type": "single",

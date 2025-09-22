@@ -1,0 +1,67 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-22T18:25:46.912Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Джонні Дивний",
+      "Роман Рамус",
+      "Lussy Sky"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27390da4306429f1eb50490b62c",
+    "releaseDate": "2024-03-21",
+    "tags": [
+      "rap"
+    ],
+    "title": "Поверхами",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3kZXAVv37icPg16hnHLe7u"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-22T18:25:46.912Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Довгий Пес"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e58101d0fecec228e6d4a463",
+    "releaseDate": "2021-06-29",
+    "tags": [
+      "rap"
+    ],
+    "title": "Від колиски до могили",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/71n7uCoJZRHkLTA80RnUCS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-22T18:25:46.912Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Довгий Пес"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d4a2c2f5baafc03fb2cbaccc",
+    "releaseDate": "2022-03-02",
+    "tags": [
+      "rap"
+    ],
+    "title": "У твій дім, для кентів і на район",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0qYwXya9UYcWP4p9cv614X"
+  }
+]
