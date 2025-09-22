@@ -33,6 +33,7 @@ export default function mergeOldAndNewReleases(
               type: 'FOUND' as const,
             },
           ],
+          artistsPopularity: matchingFreshRelease.artistsPopularity,
           tags: matchingFreshRelease.tags,
         });
       } else {
