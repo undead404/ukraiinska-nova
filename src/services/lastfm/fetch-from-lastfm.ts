@@ -1,5 +1,7 @@
+import pRetry from 'p-retry';
 import type { BaseIssue, BaseSchema } from 'valibot';
 
+import delay from '../../helpers/delay.js';
 import fetchWithSchema from '../../helpers/fetch-with-schema.js';
 
 import { errorResponseSchema } from './schemata.js';
@@ -18,22 +20,33 @@ export default async function fetchFromLastfm<T>(
     ...DEFAULT_PARAMETERS,
     ...parameters,
   });
-  try {
-    return await fetchWithSchema(
-      `https://ws.audioscrobbler.com/2.0/?${stringifiedParameters}`,
-      schema,
-      errorResponseSchema,
-    );
-  } catch (error) {
-    if (
-      error &&
-      typeof error === 'object' &&
-      'message' in error &&
-      typeof error.message === 'string' &&
-      error.message.includes(NOT_FOUND_MESSAGE)
-    ) {
-      return;
-    }
-    throw error;
-  }
+
+  return pRetry<T | undefined>(
+    async () => {
+      try {
+        return await fetchWithSchema(
+          `https://ws.audioscrobbler.com/2.0/?${stringifiedParameters}`,
+          schema,
+          errorResponseSchema,
+        );
+      } catch (error) {
+        if (
+          error &&
+          typeof error === 'object' &&
+          'message' in error &&
+          typeof error.message === 'string' &&
+          error.message.includes(NOT_FOUND_MESSAGE)
+        ) {
+          return;
+        }
+        throw error;
+      }
+    },
+    {
+      onFailedAttempt: async () => {
+        await delay(200);
+      },
+      retries: 5,
+    },
+  );
 }
