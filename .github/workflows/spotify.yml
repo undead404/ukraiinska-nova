@@ -83,7 +83,7 @@ jobs:
           SPOTIFY_CLIENT_ID: ${{ vars.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHANNEL_FOR_SPOTIFY: ${{ vars.TELEGRAM_SPOTIFY_CHANNEL }}
+          TELEGRAM_CHANNEL_FOR_SPOTIFY: ${{ vars.TELEGRAM_CHANNEL_FOR_SPOTIFY }}
 
       - name: Configure Git
         run: |
