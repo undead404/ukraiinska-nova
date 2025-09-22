@@ -95,6 +95,9 @@ jobs:
           git add data
           git diff --cached --quiet || git commit -m "chore: auto-commit docs folder"
 
+      - name: Pull latest changes
+        run: git pull origin ${{ github.ref_name }}
+
       - name: Push changes
         uses: ad-m/github-push-action@v1.0.0
         with:
