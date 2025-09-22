@@ -2,25 +2,25 @@ export default function translatePopularity(popularity: number) {
   if (Number.isNaN(popularity)) {
     return '';
   }
-  if (popularity > 50) {
+  if (popularity > 6) {
     return 'Легенда';
   }
-  if (popularity > 25) {
+  if (popularity > 5) {
     return 'Зірка';
   }
-  if (popularity > 12.5) {
+  if (popularity > 4) {
     return 'Знаменитість';
   }
-  if (popularity > 6.75) {
+  if (popularity > 3) {
     return 'Злет';
   }
-  if (popularity > 3.375) {
+  if (popularity > 2) {
     return 'Проблиск';
   }
-  if (popularity > 1.6875) {
+  if (popularity > 1) {
     return 'Спроба';
   }
-  if (popularity > 0.843_75) {
+  if (popularity > 0) {
     return 'Новачок';
   }
   return 'Таємниця';

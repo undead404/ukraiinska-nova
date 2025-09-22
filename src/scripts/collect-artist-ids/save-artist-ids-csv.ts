@@ -2,14 +2,17 @@ import { writeFile } from 'node:fs/promises';
 
 import escapeCsvField from '../../helpers/escape-csv-field';
 
-export default function saveArtistIdsCsv(
-  artistsIds: Map<string, string>,
-): Promise<void> {
+import type { Artist } from './types.js';
+
+export default function saveArtistIdsCsv(artists: Artist[]): Promise<void> {
   return writeFile(
     './artist-ids.csv',
-    'Artist,SpotifyID\n' +
-      [...artistsIds.entries()]
-        .map(([name, id]) => `${escapeCsvField(name)},${id}`)
+    'Artist,SpotifyID,YoutubeMusicID\n' +
+      artists
+        .map(
+          ({ name, spotifyId, youtubeMusicId }) =>
+            `${escapeCsvField(name)},${spotifyId},${youtubeMusicId}`,
+        )
         .join('\n'),
   );
 }

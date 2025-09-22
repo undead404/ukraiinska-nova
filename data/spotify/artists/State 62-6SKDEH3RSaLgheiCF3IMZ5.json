@@ -1,0 +1,114 @@
+[
+  {
+    "artists": ["State 62"],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733253f9b83f79356a75e5d1ef",
+    "releaseDate": "2025-02-14",
+    "title": "Катуй",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5k4BS9ciQThd66f6mciCqZ",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:53:37.539Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["State 62"],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27375fce6a3d885ad196d065974",
+    "releaseDate": "2024-07-17",
+    "title": "Митець",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1lKNqv7xpEgMmfMfqnZpuj",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:53:37.539Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["State 62"],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e201bd3903b765fabdaae6bc",
+    "releaseDate": "2024-03-13",
+    "title": "Потвора",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5ZPvgrF9nrh3gIbu4ruF0u",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:53:37.539Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["State 62"],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273caadf9cfd67445a664f93dce",
+    "releaseDate": "2024-01-17",
+    "title": "Токіо",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3OhKRPbQpcQc0twYkdpt8R",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:53:37.539Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["State 62"],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d24f8d3f28ef34c9f3ba7157",
+    "releaseDate": "2023-09-14",
+    "title": "Шість",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3reutPfO1aBoyzieJBEII5",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:53:37.539Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["State 62"],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27356895bd9c897a3a99123e64d",
+    "releaseDate": "2023-07-12",
+    "title": "Вирій",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1ylNI2ttmNlyOruRpsdE8d",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:53:37.539Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["State 62"],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273beb0f85eb4a895e5a02fa79e",
+    "releaseDate": "2020-09-30",
+    "title": "В Поисках Нового Дома",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3JQjTiihexU3ySUrkcBaMH",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:53:37.539Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]

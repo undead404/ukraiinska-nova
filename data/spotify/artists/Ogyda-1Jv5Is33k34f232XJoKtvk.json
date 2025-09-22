@@ -1,0 +1,34 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T14:26:09.528Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["Ogyda"],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733f70a43614d7fe3cb94f324a",
+    "releaseDate": "2025-09-14",
+    "title": "VKLIEK",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2aXwoMZEZ4baDfzlOgSfEX"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T14:26:09.528Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["Ogyda"],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a4524b25df80106883271de3",
+    "releaseDate": "2024-06-25",
+    "title": "Fungus",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2NJuerAMOM2W2791pwrZtv"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "artists": ["YAGODY"],
+    "artistsPopularity": 20,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c14c17f21ad0a90e49d7ce47",
+    "releaseDate": "2021-02-05",
+    "title": "Ягоди",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3nqkYz12eDWCtS8szV6wyu",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T09:24:27.485Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["YAGODY"],
+    "artistsPopularity": 20,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c482c9506f247c6ca068a0ab",
+    "releaseDate": "2025-01-13",
+    "title": "БрамаЯ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4vWzCmF64wTX2pU4ExIbuu",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T09:24:27.485Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["YAGODY"],
+    "artistsPopularity": 20,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d07565dc37553a21637a92db",
+    "releaseDate": "2024-11-21",
+    "title": "Чорноморець",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6xxagbZHaduLYE8kNdGPtK",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T09:24:27.485Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["YAGODY"],
+    "artistsPopularity": 20,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27393204cafc546ae95a9e5c4d5",
+    "releaseDate": "2024-10-24",
+    "title": "Tsunamia",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2NwefFE3G6KdoC20ra9lD4",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T09:24:27.485Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["YAGODY"],
+    "artistsPopularity": 20,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a8be6a4002843d1fcdcb8369",
+    "releaseDate": "2024-01-11",
+    "title": "Tsunamia",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7EdGjOAEovRqZg76SUPOwE",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T09:24:27.485Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "artists": ["Tik Tu"],
+    "artistsPopularity": 16,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27310ff8e266eb4ae77a343808d",
+    "releaseDate": "2019-02-10",
+    "title": "Ulitakis",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5oBRlHowvWrj3YuecB8w3w",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:01.887Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Tik Tu"],
+    "artistsPopularity": 16,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273decb0ba87bf3bd3cfcd53987",
+    "releaseDate": "2016-11-28",
+    "title": "Shuma",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5AHZnizwicrevifJPihMpO",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:01.887Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Tik Tu"],
+    "artistsPopularity": 16,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ee4fe52af27295922163cbe7",
+    "releaseDate": "2021-07-24",
+    "title": "Aero",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5IbLDCUzA4YL2EZ40hV6nO",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:01.887Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Tik Tu"],
+    "artistsPopularity": 16,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27372b57c3cb4aa1adfa6a85deb",
+    "releaseDate": "2020-12-09",
+    "title": "Nicho Ne Hochu",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/16AjXQUCAyBNfQVKfGaVuN",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:01.887Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Madalitso Band", "Tik Tu"],
+    "artistsPopularity": 25,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d9728e605c1b385d152e4da3",
+    "releaseDate": "2020-07-24",
+    "title": "Sitimamenya",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1gXexhA6KVXqqlefxmpRXK",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:01.887Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Monotonne"],
+    "artistsPopularity": 6,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273178550bd538e827c050694f4",
+    "releaseDate": "2024-09-27",
+    "title": "Related",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1CNFhAi8VtWnOdAAekaakm",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:01.887Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Monotonne"],
+    "artistsPopularity": 6,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737c692f50de4ce255ef2c4a47",
+    "releaseDate": "2023-02-28",
+    "title": "37",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2Wbko5fPslKcsnmXAaS10k",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:01.887Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Omodada"],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27387ddff855c437eff3cca90e7",
+    "releaseDate": "2016-02-01",
+    "title": "Кімнати",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4NWBwqcAGcD1vZwlQdLxBT",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:01.887Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Monotonne"],
+    "artistsPopularity": 6,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734c2b234ca1e999a6768fe124",
+    "releaseDate": "2021-03-12",
+    "title": "FOMO",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0XIRQF6noV1NXRhrRH4892",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:01.887Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Soundots", "Monotonne"],
+    "artistsPopularity": 6,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f2eb393bd1f240894c7585a",
+    "releaseDate": "2024-05-31",
+    "title": "Dark Circuit",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4FAkvmQpkLXf0vE4a0Dcsp",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:01.887Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Kinnota"],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cdfa4f93a1659d4081139f62",
+    "releaseDate": "2024-11-08",
+    "title": "Два стани",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6EjL6HFV0xZUQk4FkjQdhg",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:01.887Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Various Artists"],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b204746824f01bdc5d793f73",
+    "releaseDate": "2021-12-03",
+    "title": "Aero Reworks",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3NjAp5FWTFzlY1TbqRdp8w",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:01.887Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Nicholas Olson"],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27313b63e3353269c37a86f6091",
+    "releaseDate": "2019-02-19",
+    "title": "Happy 40th Jen (feat. Tik Tu & Olga Kovalenko)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7INFpWrKqHhNFwPhBtWx5x",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T11:54:01.887Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]

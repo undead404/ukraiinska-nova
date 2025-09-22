@@ -1,0 +1,18 @@
+[
+  {
+    "artists": ["Альфатер"],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e15c6051aedd44a7f1065003",
+    "releaseDate": "2024-12-06",
+    "title": "Колись все мине",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3R1FPVJhDs9pgG4M8zBJsc",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:44:30.248Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]

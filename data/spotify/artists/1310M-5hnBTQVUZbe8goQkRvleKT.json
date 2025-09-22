@@ -1,0 +1,130 @@
+[
+  {
+    "artists": ["1310M"],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738748bae938029d772618efae",
+    "releaseDate": "2024-12-22",
+    "title": "XVII",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0KU5pLTmCrMRBwlbnmojXG",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:44:29.589Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["1310M"],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735148838d129d80ed2f812b33",
+    "releaseDate": "2024-06-06",
+    "title": "Нема Життя",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5l2cOPM4cqUA8qEfRQXSpP",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:44:29.589Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Vyr Muk", "1310M"],
+    "artistsPopularity": 8,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27374db1a85450ee63f0972622d",
+    "releaseDate": "2025-06-10",
+    "title": "Холодне Мовчання Зірок (split)",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6LtvXa7A3tN5v97TNRywNB",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:44:29.589Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["1310M"],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27389a0cd8835c27f03e6a01efb",
+    "releaseDate": "2025-05-08",
+    "title": "В Обіймах Вічного",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5G5MVtOth7HhL4f8oA4ArB",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:44:29.589Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["1310M"],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dad644444b51a90d0d939ccf",
+    "releaseDate": "2024-10-18",
+    "title": "Тіні",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4RnVm04INJP0nWuyQ9IKDR",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:44:29.589Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["1310M"],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ca42b3a7f850ac208233e372",
+    "releaseDate": "2024-08-06",
+    "title": "Народна Пісня",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5Hns2drZc30hSlKm5yF23l",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:44:29.589Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["1310M"],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273db2afeea90915539571de2c6",
+    "releaseDate": "2024-03-25",
+    "title": "Доля/Fate",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0hMjRgTx3QoIjVT7DNEUoU",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:44:29.589Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["1310M"],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732ebc973299b67860c29d9f03",
+    "releaseDate": "2024-02-17",
+    "title": "Нема Життя",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5vCyWhLqga5ReZcbqtavIb",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:44:29.589Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "artists": ["noch`"],
+    "artistsPopularity": 16,
+    "title": "сліди",
+    "releaseDate": "2024-03-15",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/33fWebehFAWJjhgD7Kn92Z",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27342abc254721fa63be6e6d746",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:23:53.326Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["noch`"],
+    "artistsPopularity": 16,
+    "title": "без жалю",
+    "releaseDate": "2023-07-28",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/3fRLDsQLAR55KQTVUfBWEw",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273048718b41c95c07ce2153b1c",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:23:53.326Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["noch`"],
+    "artistsPopularity": 16,
+    "title": "мрії",
+    "releaseDate": "2022-03-28",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/0HAZpl5X4gsVz1Ay3AVVeU",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737320bc7fca3bff978652feee",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:23:53.326Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["noch`"],
+    "artistsPopularity": 16,
+    "title": "ніч",
+    "releaseDate": "2021-08-14",
+    "type": "single",
+    "totalTracks": 5,
+    "url": "https://open.spotify.com/album/4v7xvwUqEC0eWRXotHf2rf",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27337911e44b67097c32d0b93ba",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:23:53.326Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]

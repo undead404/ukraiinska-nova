@@ -1,0 +1,66 @@
+[
+  {
+    "artists": ["Королівські Зайці"],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a15db8129ba08d5737aefd57",
+    "releaseDate": "2011-03-01",
+    "title": "Серце-місяць",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7LY4EOdEQjxhGUVHUhR4dQ",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:44:53.971Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Королівські Зайці"],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730c8b32135d2ddb11668f5b37",
+    "releaseDate": "2001-03-01",
+    "title": "Каzки Королівства А'Маzох",
+    "totalTracks": 17,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6jSO71BuGY2bLBmSfwB3Sa",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:44:53.971Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Королівські Зайці"],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cc38741466e97ef66cae3866",
+    "releaseDate": "2000-03-01",
+    "title": "Unplugged. Український альтернативний романс",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/54U1AxzU8bsilDVZrc2i0B",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:44:53.971Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Королівські Зайці"],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f9299e299f109d247065deff",
+    "releaseDate": "2024-07-02",
+    "title": "Над кубанськими степами",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0obtv2pt9fAuWDyxLfMdWz",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:44:53.971Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]

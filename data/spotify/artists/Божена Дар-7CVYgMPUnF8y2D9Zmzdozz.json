@@ -1,0 +1,338 @@
+[
+  {
+    "artists": ["Божена Дар"],
+    "artistsPopularity": 15,
+    "title": "Моє сонце",
+    "releaseDate": "2019-05-26",
+    "type": "album",
+    "totalTracks": 16,
+    "url": "https://open.spotify.com/album/2E38Ojs9kkrMIy6XXEuUHH",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d4851e7abad79b102ebe8994",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:25:29.639Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Божена Дар"],
+    "artistsPopularity": 15,
+    "title": "Позолотила пальчик",
+    "releaseDate": "2025-07-08",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/2zIATQKHarLSmDrLExpJkl",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273385033f2b1deae8dbb5f6810",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:25:29.639Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Божена Дар", "Kvitka Gaevska"],
+    "artistsPopularity": 15,
+    "title": "Подруги",
+    "releaseDate": "2025-03-07",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/2IDOSeAbq46BxMKMgKOZQB",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f12e67b8242f8ea0c31fc748",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:25:29.639Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Kvitka Gaevska", "Божена Дар", "Arthur Alone"],
+    "artistsPopularity": 32,
+    "title": "Командир (Remix)",
+    "releaseDate": "2024-12-06",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/0g9ayDIf9LvTJdYflWn6cT",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739f85a9035c1e3c37e3e894c2",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:25:29.639Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Божена Дар"],
+    "artistsPopularity": 15,
+    "title": "Колядка",
+    "releaseDate": "2024-12-06",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/7gZSI68nQBF2TwDRkVhEg2",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c9ea549cc6e70635c14fc14f",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:25:29.639Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Божена Дар", "Kvitka Gaevska"],
+    "artistsPopularity": 15,
+    "title": "Командир",
+    "releaseDate": "2024-07-26",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/4AMW8OM4KdvmC2JOjmpRvI",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273abd4cb2ddf454aac33515c84",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:25:29.639Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Божена Дар"],
+    "artistsPopularity": 15,
+    "title": "Донат",
+    "releaseDate": "2024-02-14",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/7bZuZQvv68yKuv9KHZDSyc",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735fdfba26851cbd6b8831d8ac",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:25:29.639Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Божена Дар", "Маргарита Двойненко"],
+    "artistsPopularity": 15,
+    "title": "Вітаємо з Різдвом",
+    "releaseDate": "2024-01-24",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/7MiTbDdW2YeBd96oni877K",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b5478730da81687d516f5025",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:25:29.639Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Божена Дар", "Соловйов Андрій"],
+    "artistsPopularity": 15,
+    "title": "Збережіть людські життя",
+    "releaseDate": "2023-05-22",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/24L2TUlJhfxOVM0XLWtfv1",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738b3ae6a444f17a047a999ff3",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:25:29.639Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Божена Дар", "Ростислав Кушина"],
+    "artistsPopularity": 15,
+    "title": "Тримайтесь за Любов",
+    "releaseDate": "2023-03-13",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/3IYsIr0vET1IzdQFbwYTcS",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27395c802207242a9c953f2937a",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:25:29.639Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Божена Дар"],
+    "artistsPopularity": 15,
+    "title": "Слава Україні - Героям Слава",
+    "releaseDate": "2022-04-19",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/724cIadpr25BAjh4P6bnnT",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e1e3882901c501e0b7f6df14",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:25:29.639Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Божена Дар"],
+    "artistsPopularity": 15,
+    "title": "Як востанє",
+    "releaseDate": "2021-09-27",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/1OAw1xnoDVLdF1LlxYjf9T",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ef44c2969d71fc24bf632479",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:25:29.639Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Божена Дар"],
+    "artistsPopularity": 15,
+    "title": "Київ-Львів",
+    "releaseDate": "2020-11-02",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/6IWAUdP5mfS6xk1QJYoaC2",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737c0734a2be4768f520ff4f01",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:25:29.639Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Божена Дар", "Bakun"],
+    "artistsPopularity": 23,
+    "title": "Яка мені різниця (Bakun Remix)",
+    "releaseDate": "2020-02-12",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/0iPXsA9zechTZHWjVSP61a",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27394599e791b33ee68f1d26f67",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:25:29.639Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Божена Дар"],
+    "artistsPopularity": 15,
+    "title": "Яка мені різниця",
+    "releaseDate": "2019-10-25",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/5YXcYHlxxQLKJQSx4fkzwp",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27390c6e6ad4e6e22f1b44afc60",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:25:29.639Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Божена Дар"],
+    "artistsPopularity": 15,
+    "title": "Мы созданы друг для друга",
+    "releaseDate": "2019-02-13",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/5ql0cUyXfpA8qSLHkxZ2LN",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273db5f36a0160551d29ba4d577",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:25:29.639Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Божена Дар"],
+    "artistsPopularity": 15,
+    "title": "Наречена",
+    "releaseDate": "2018-11-02",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/3n5giuBkVoruK05s2v8UtW",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a4fd59055edad5f4d7663e7e",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:25:29.639Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Божена Дар", "Natasha Rostova"],
+    "artistsPopularity": 15,
+    "title": "Моє сонце (Natasha Rostova Remix)",
+    "releaseDate": "2018-08-28",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/2zcFGRPqa6mTDItHz7bddk",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e54f17231e5e011264b0e433",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:25:29.639Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Божена Дар"],
+    "artistsPopularity": 15,
+    "title": "Моє сонце",
+    "releaseDate": "2018-03-14",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/4C5m3WVhq5lS1hdSNVVFOI",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a3453145096f41cf76095375",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:25:29.639Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Божена Дар"],
+    "artistsPopularity": 15,
+    "title": "Повернись",
+    "releaseDate": "2017-10-20",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/6znfPQNTR2fH4TzsBiNDSW",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e13507651b52a77b544904e3",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:25:29.639Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Божена Дар", "Ростислав Кушина"],
+    "artistsPopularity": 15,
+    "title": "Кохана",
+    "releaseDate": "2017-10-06",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/6bT3aMRy9A2jAp8TwBD0RU",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736b9fd7eed8524298ad98d7b4",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:25:29.639Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]

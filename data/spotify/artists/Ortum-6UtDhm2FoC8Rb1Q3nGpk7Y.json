@@ -1,0 +1,82 @@
+[
+  {
+    "artists": ["Ortum"],
+    "artistsPopularity": 6,
+    "title": "Ouroboric",
+    "releaseDate": "2025-08-08",
+    "type": "single",
+    "totalTracks": 4,
+    "url": "https://open.spotify.com/album/1FJiP4ULk2cK8xqV3KmYxf",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27308a30a6d86baf267964428e2",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:28:54.049Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Ortum"],
+    "artistsPopularity": 6,
+    "title": "Контроль",
+    "releaseDate": "2025-03-28",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/4EcZmXVj7JyTzCnPOOBCFy",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273958b27fbd1ab2a32eb5ba9ba",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:28:54.049Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Ortum"],
+    "artistsPopularity": 6,
+    "title": "Діра (Burlaka Hokage Mix)",
+    "releaseDate": "2024-11-15",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/5PJSA4foUnAC8M57VHYMQg",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27389902d19bb3ff0df67838fcc",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:28:54.049Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Ortum"],
+    "artistsPopularity": 6,
+    "title": "Діра",
+    "releaseDate": "2024-11-15",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/0Z9H4crpKGjAsSyXRf46Ju",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f120d975dc3b184ac54a2ee",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:28:54.049Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Ortum"],
+    "artistsPopularity": 6,
+    "title": "Posthumous Feast",
+    "releaseDate": "2024-05-26",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/3rghAldl0aqOGVyqQ1EYbY",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737aaa2b46f647d94b450b39b6",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:28:54.049Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]

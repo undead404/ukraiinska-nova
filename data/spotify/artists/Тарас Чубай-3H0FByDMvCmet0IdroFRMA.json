@@ -1,0 +1,130 @@
+[
+  {
+    "artists": ["Тарас Чубай"],
+    "artistsPopularity": 42,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273965d002641011fe812888bd3",
+    "releaseDate": "2017-12-29",
+    "title": "Наш Івасюк",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0SHYJwrQtxtut4NRd12Hgn",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:22.964Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Тарас Чубай"],
+    "artistsPopularity": 42,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732a11d896b10bb8710bf965aa",
+    "releaseDate": "2017-12-25",
+    "title": "Наше Різдво (Продовження)",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6ku0qExDICdMP8pC9c3ExK",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:22.964Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Kozak System", "Тарас Чубай"],
+    "artistsPopularity": 42,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735189cf7b3dfda1576fda275c",
+    "releaseDate": "2014-10-15",
+    "title": "Пісні самонаведення",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0DtyygiIR0eV24kbX0bFaI",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:22.964Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Тарас Чубай"],
+    "artistsPopularity": 42,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f8250adaa02bb76779d4fb0f",
+    "releaseDate": "2000-08-08",
+    "title": "Наші партизани",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1OJMsA6r58tkCElnEdTWRL",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:22.964Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Тарас Чубай"],
+    "artistsPopularity": 42,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27310e4a86c164719feb89ed5d5",
+    "releaseDate": "2025-02-13",
+    "title": "Коли до губ твоїх… (2025 version)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0NZ7Jq46DGn6EnJSVtdHs1",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:22.964Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Тарас Чубай"],
+    "artistsPopularity": 42,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b0228b45ad40e79c3ba24bbb",
+    "releaseDate": "2025-02-06",
+    "title": "Пластунка N",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7E63TopfOA4nk36VHN08xu",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:22.964Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Тарас Чубай"],
+    "artistsPopularity": 42,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ae5e59d051ef1a37b2990cb8",
+    "releaseDate": "2020-02-07",
+    "title": "Сипле сніг",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5lPKGrFy6VzB3N1gDdU7V1",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:22.964Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Тарас Чубай", "Плач Єремії"],
+    "artistsPopularity": 42,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cbc96c89659a6ca6dd7e5522",
+    "releaseDate": "1995-06-17",
+    "title": "Вона",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/68CxuJn9b0kI8NfNx5s2Xj",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T09:45:22.964Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]

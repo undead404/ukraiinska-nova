@@ -6,6 +6,7 @@
     "mustache": "~4.2.0",
     "node-telegram-bot-api": "0.66.0",
     "spotify-web-api-node": "~5.0.2",
+    "ytmusic-api": "~5.3.0",
     "valibot": "~1.1.0"
   },
   "description": "Scraper for new music releases using Spotify API",
@@ -43,7 +44,8 @@
     "lint:fix": "eslint . --fix",
     "post-to-bluesky": "node dist/scripts/post-to-bluesky/index.js",
     "post-to-telegram": "node dist/scripts/post-to-telegram/index.js",
-    "retrieve-releases": "node dist/scripts/retrieve-releases/index.js",
+    "retrieve-releases:spotify": "node dist/scripts/retrieve-releases-spotify/index.js",
+    "retrieve-releases:youtube-music": "node dist/scripts/retrieve-releases-youtube-music/index.js",
     "test": "vitest",
     "watch": "tsc -w",
     "prepare": "husky"

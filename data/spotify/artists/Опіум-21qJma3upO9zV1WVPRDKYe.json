@@ -1,0 +1,82 @@
+[
+  {
+    "artists": ["Опіум"],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27346eb1715bcddcdd7faf5443f",
+    "releaseDate": "2014-05-09",
+    "title": "Почуття і медалі",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0fmLPoLvobXiFJPimV9D1S",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:41.271Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Опіум"],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273af035d76b7cf05a19ec3bb48",
+    "releaseDate": "2009-04-21",
+    "title": "Молися на мене",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4roteJ3VTqBHgxIbcHNhye",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:41.271Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Опіум"],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d09dea60da708cbcbe13546d",
+    "releaseDate": "2017-10-10",
+    "title": "Осіння",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7k345eDmwCE278FdzMEWeK",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:41.271Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Опіум"],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732f9ea718ed6ae903bfdbb3d3",
+    "releaseDate": "2016-10-05",
+    "title": "Плеєр",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0r6A3BeBKvcJluJfvzj3NI",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:41.271Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Опіум"],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cda5476c4fc235e7d3bccbe5",
+    "releaseDate": "2016-03-29",
+    "title": "Ласкаво просимо в клуб",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/41uiGTYg1Jwr29cJXjUAOG",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T08:19:41.271Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]

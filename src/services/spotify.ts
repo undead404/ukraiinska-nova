@@ -6,8 +6,8 @@ import delay from '../helpers/delay.js';
 import filterAlbums from '../helpers/filter-albums.js';
 import mapSpotifyAlbumDetailsToMusicRelease from '../helpers/map-spotify-album-details-to-music-release.js';
 import type {
-  ArtistSearchResult,
   ScrapingOptions,
+  SpotifyArtistSearchResult,
   SpotifyConfig,
 } from '../types/index.js';
 
@@ -59,12 +59,12 @@ export class SpotifyService {
    */
   async searchArtist(
     artistName: string,
-  ): Promise<ArtistSearchResult | undefined> {
+  ): Promise<SpotifyArtistSearchResult | undefined> {
     const getCachedValue = await readFromFileCache(
       `spotify-artist-${artistName}`,
     );
     if (getCachedValue) {
-      return getCachedValue as ArtistSearchResult;
+      return getCachedValue as SpotifyArtistSearchResult;
     }
     await this.getAccessToken();
 
@@ -138,10 +138,6 @@ export class SpotifyService {
         mapSpotifyAlbumDetailsToMusicRelease(albumDetails),
       );
 
-      for (const [index, release] of chunkReleases.entries()) {
-        const artistsIds = albumsDetails[index].artists.map(({ id }) => id);
-        release.artistsPopularity = await this.getArtistsPopularity(artistsIds);
-      }
       releases.push(...chunkReleases);
     }
 
@@ -201,38 +197,5 @@ export class SpotifyService {
     }
 
     return releases;
-  }
-
-  private async getArtist(
-    artistId: string,
-  ): Promise<SpotifyApi.ArtistObjectFull> {
-    await this.getAccessToken();
-
-    try {
-      await delay(500);
-      console.log(`this.spotifyApi.getArtist("${artistId}")`);
-      const artist = await this.spotifyApi.getArtist(artistId);
-      return artist.body;
-    } catch (error) {
-      console.error('Помилка отримання інформації про артиста:', error);
-      throw error;
-    }
-  }
-
-  private ARTISTS_POPULARITY_CACHE = new Map<string, number>();
-
-  private async getArtistsPopularity(artistsIds: string[]): Promise<number> {
-    const popularities = await Promise.all(
-      artistsIds.map(async (artistId) => {
-        const cacheValue = this.ARTISTS_POPULARITY_CACHE.get(artistId);
-        if (cacheValue) {
-          return cacheValue;
-        }
-        const artist = await this.getArtist(artistId);
-        this.ARTISTS_POPULARITY_CACHE.set(artistId, artist.popularity);
-        return artist.popularity;
-      }),
-    );
-    return Math.max(...popularities);
   }
 }

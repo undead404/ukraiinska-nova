@@ -1,0 +1,18 @@
+[
+  {
+    "artists": ["Vinky"],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273196a8392e150f0741b4774be",
+    "releaseDate": "2020-09-28",
+    "title": "Love on Replay",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1Ot3av3dvqD2UHuefznHY6",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T09:24:19.555Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]

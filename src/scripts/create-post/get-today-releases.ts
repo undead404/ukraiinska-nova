@@ -1,18 +1,20 @@
 import { readFile } from 'node:fs/promises';
-import path from 'node:path';
 
 import { array, parse } from 'valibot';
 
-import type { MusicRelease } from '../../common/schemata.js';
+import enhanceRelease from '../../common/enhance-release.js';
 import { releaseRecordSchema } from '../../common/schemata.js';
-import { RELEASES_DATA_FOLDER } from '../../constants.js';
 import getJsonFiles from '../../helpers/get-json-files.js';
 import getReleaseAppearanceTime from '../../helpers/get-release-appearance-time.js';
+import type { EnhancedMusicRelease } from '../../types/index.js';
 
+import environment from './environment.js';
 import getEarliestReleaseAppearanceTime from './get-earliest-release-appearance-time.js';
 
-export default async function* getTodayReleases(): AsyncGenerator<MusicRelease> {
-  const artistFiles = await getJsonFiles(path.join(...RELEASES_DATA_FOLDER));
+export default async function* getTodayReleases(
+  folder: string,
+): AsyncGenerator<EnhancedMusicRelease> {
+  const artistFiles = await getJsonFiles(folder);
   const today = new Date().toDateString();
   for (const artistFileName of artistFiles) {
     const data = await readFile(artistFileName);
@@ -30,7 +32,9 @@ export default async function* getTodayReleases(): AsyncGenerator<MusicRelease> 
           earliestReleaseAppearanceTime!.getTime() &&
         releaseAppearanceTime.toDateString() === today
       ) {
-        yield release;
+        yield release.tags
+          ? release
+          : await enhanceRelease(environment.LASTFM_API_KEY, release);
       }
     }
   }

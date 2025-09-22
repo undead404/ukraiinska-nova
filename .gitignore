@@ -5,3 +5,4 @@ cache/*.json
 logs/*.log
 docs/_site
 .DS_Store
+ytm-check.txt

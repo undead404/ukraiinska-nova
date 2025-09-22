@@ -1,0 +1,114 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T15:26:48.397Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["Our Atlantic"],
+    "artistsPopularity": 22,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fa848db3546129c0172c7f11",
+    "releaseDate": "2024-02-23",
+    "title": "На глибині",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2ylmeIgbN3H3Yf9B4h9C3t"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T15:26:48.397Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["Our Atlantic"],
+    "artistsPopularity": 22,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d1d36016ad1ecb7cd9999a95",
+    "releaseDate": "2023-02-07",
+    "title": "Небо",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5MYOBX50sRQvazUzcVu1dt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T15:26:48.397Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["Our Atlantic"],
+    "artistsPopularity": 22,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f508d8bd504f59d8dccb8d99",
+    "releaseDate": "2023-01-20",
+    "title": "Марні мрії",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4mcvI4QXCVXzWA9G3AI3o1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T15:26:48.397Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["Our Atlantic"],
+    "artistsPopularity": 22,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738336a572c4155f32d80e0e1f",
+    "releaseDate": "2022-02-01",
+    "title": "Моя любов (Eurovision Song 2022)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/47gFkO19mDQOKHibzNP6Ls"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T15:26:48.397Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["Our Atlantic"],
+    "artistsPopularity": 22,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fdc7fb9da07a207edcdf2d31",
+    "releaseDate": "2020-05-08",
+    "title": "Час розваг",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7kJw29gkTvZOSAwPiC8vIk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T15:26:48.397Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["Our Atlantic"],
+    "artistsPopularity": 22,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735b2b516a6eeb542fae52db82",
+    "releaseDate": "2019-10-10",
+    "title": "Chuesh?",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7ADqBDWTKDKnE2OgYFjABM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T15:26:48.397Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["Our Atlantic"],
+    "artistsPopularity": 22,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273513caf14a50d72e9cb3d403a",
+    "releaseDate": "2018-10-24",
+    "title": "Pillow",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5iazFLPzyXy5Dz8MOloDnx"
+  }
+]

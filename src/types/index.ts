@@ -1,4 +1,4 @@
-import type { MusicRelease } from '../common/schemata';
+import type { MusicRelease } from '../common/schemata.js';
 
 export interface SpotifyConfig {
   clientId: string;
@@ -6,10 +6,10 @@ export interface SpotifyConfig {
 }
 
 export interface EnhancedMusicRelease extends MusicRelease {
-  tags: string[];
+  tags?: string[];
 }
 
-export interface ArtistSearchResult {
+export interface SpotifyArtistSearchResult {
   id: string;
   name: string;
   popularity: number;
@@ -30,4 +30,10 @@ export interface ScrapingStats {
   byType: Record<string, number>;
   byArtist: Record<string, number>;
   processingTime: number;
+}
+
+export interface Post {
+  imageUrl?: string;
+  links?: Array<{ title: string; url: string }>;
+  text: string;
 }

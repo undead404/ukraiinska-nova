@@ -1,16 +1,17 @@
-import { getReleaseTags } from '../services/lastfm.js';
 import type { EnhancedMusicRelease } from '../types/index.js';
 
+import enhanceRelease from './enhance-release.js';
 import type { MusicRelease } from './schemata.js';
 
-export default function enhanceReleases(
+export default async function enhanceReleases(
   lastfmApiKey: string,
   releases: MusicRelease[],
 ): Promise<EnhancedMusicRelease[]> {
-  return Promise.all(
-    releases.map(async (release) => ({
-      ...release,
-      tags: await getReleaseTags(lastfmApiKey, release),
-    })),
-  );
+  const results: EnhancedMusicRelease[] = Array.from({
+    length: releases.length,
+  });
+  for (const [index, release] of releases.entries()) {
+    results[index] = await enhanceRelease(lastfmApiKey, release);
+  }
+  return results;
 }

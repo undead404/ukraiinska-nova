@@ -1,0 +1,402 @@
+[
+  {
+    "artists": ["Blockbaby"],
+    "artistsPopularity": 21,
+    "title": "Рефлексія",
+    "releaseDate": "2024-04-04",
+    "type": "album",
+    "totalTracks": 10,
+    "url": "https://open.spotify.com/album/5bUrAlkoxfmRCP2y0LN5ZM",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27335d357ec3ab006d3e9bfba5d",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:50.424Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["KALUSH", "Blockbaby"],
+    "artistsPopularity": 51,
+    "title": "Більше менше",
+    "releaseDate": "2025-05-28",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/1MLpjiGsnwYLJRNiUt6gW8",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c4dac489edd6ae290138b0ef",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:50.424Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Blockbaby", "Уляна Шуба"],
+    "artistsPopularity": 24,
+    "title": "На мене",
+    "releaseDate": "2025-04-24",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/7etzVOedRa84jOhrwi2hjy",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d663c1abe4924dafd413320c",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:50.424Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Blockbaby"],
+    "artistsPopularity": 21,
+    "title": "Відчути",
+    "releaseDate": "2025-04-09",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/4wyQAQX3mxsaQbIUUeObXo",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c974816503dd6a2e87b4dcc4",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:50.424Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Blockbaby", "Фрай"],
+    "artistsPopularity": 38,
+    "title": "Ейфорія",
+    "releaseDate": "2025-03-06",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/5zZrtCxClpRWd3luD8YYIh",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737342d3f69b95987c0d19b5a6",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:50.424Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Blockbaby"],
+    "artistsPopularity": 21,
+    "title": "Не сьогодні",
+    "releaseDate": "2025-02-13",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/2Uhodc6mM5wr5M7HIxPXGn",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273037e70fa7525a7adb2d49c63",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:50.424Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Blockbaby"],
+    "artistsPopularity": 21,
+    "title": "Сни",
+    "releaseDate": "2025-01-16",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/4HAqf2K0HUQhehpDmCxJxy",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733d9de4874b6630757561415f",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:50.424Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Blockbaby"],
+    "artistsPopularity": 21,
+    "title": "Під дощем",
+    "releaseDate": "2024-12-12",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/2z6TEYFFiegRjWKBJYfvM8",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c44e42debc199362e29abd6d",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:50.424Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Blockbaby"],
+    "artistsPopularity": 21,
+    "title": "менше трьох",
+    "releaseDate": "2024-09-26",
+    "type": "single",
+    "totalTracks": 4,
+    "url": "https://open.spotify.com/album/6CHiesPuPAGYSNyvycikqS",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27381f54031bb60169ee376399a",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:50.424Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Blockbaby"],
+    "artistsPopularity": 21,
+    "title": "Балкони",
+    "releaseDate": "2024-07-30",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/3xfoILRlu6ohuCWNn92b44",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c10c8b9eaef94b67d3f14ec3",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:50.424Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Blockbaby"],
+    "artistsPopularity": 21,
+    "title": "Життя як є",
+    "releaseDate": "2024-07-11",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/53eVei9k3rVVhneoZpHMK0",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e5667fb690a9bc67a0dd6419",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:50.424Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["STASYA", "Blockbaby"],
+    "artistsPopularity": 36,
+    "title": "Так не буває",
+    "releaseDate": "2024-06-13",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/2KFwmFYhvA0eOZsMXyYDib",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736de1944f2d727ad80f640629",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:50.424Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["haterappers", "Blockbaby"],
+    "artistsPopularity": 21,
+    "title": "404",
+    "releaseDate": "2024-06-07",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/4Pk3JXqQtCiIfM5TPEm7qi",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730dce97a9121414f8e983eae9",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:50.424Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Blockbaby", "Golubenko"],
+    "artistsPopularity": 44,
+    "title": "Lie to you",
+    "releaseDate": "2024-05-09",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/2KByQ4rjL3QJSq6zE7x6Wf",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273078977ad47cbae5b9aeaf82f",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:50.424Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Blockbaby"],
+    "artistsPopularity": 21,
+    "title": "Berachain",
+    "releaseDate": "2024-02-15",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/2go2sfDZRH7XjvSrBVszjz",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738760e363151f15fbc268e667",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:50.424Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Blockbaby"],
+    "artistsPopularity": 21,
+    "title": "Падав сніг",
+    "releaseDate": "2024-01-18",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/67EN2kfx4c4EpEvdvqUPUa",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736d114b6585227385e295f26e",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:50.424Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Blockbaby"],
+    "artistsPopularity": 21,
+    "title": "L'amour",
+    "releaseDate": "2023-12-13",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/06lFSGt8aNfHKb3y68J9Hb",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27357b8a6136700e95d0b37d5f8",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:50.424Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Blockbaby"],
+    "artistsPopularity": 21,
+    "title": "Cadillac",
+    "releaseDate": "2023-11-23",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/2S9ZLtzzxfTXDJygcfu11A",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27376a9307215265b8f6e54a5e0",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:50.424Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Blockbaby"],
+    "artistsPopularity": 21,
+    "title": "Money Talks",
+    "releaseDate": "2023-10-25",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/5TeSc1mAdrNsVODPpmxL1T",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273316dc021cee7376c926cabad",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:50.424Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Blockbaby"],
+    "artistsPopularity": 21,
+    "title": "Одинокий вайб",
+    "releaseDate": "2023-05-23",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/6itA2pXqdho1w4Ix6b0TWx",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27392eb3fcb7086b3d77287de07",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:50.424Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Blockbaby"],
+    "artistsPopularity": 21,
+    "title": "Minimanimo",
+    "releaseDate": "2023-04-20",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/5ngJqFuLMyJ002WgNu0h5L",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733e601db5ba8ef1d337a2d776",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:50.424Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Blockbaby"],
+    "artistsPopularity": 21,
+    "title": "Back to Life",
+    "releaseDate": "2022-12-27",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/1mGP2FmwPv0zASxIy3xfwU",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c89a6beb4ab5ba0a383b1bbf",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:50.424Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Blockbaby"],
+    "artistsPopularity": 21,
+    "title": "Blink",
+    "releaseDate": "2022-10-25",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/38z509ZvcIkN6ECCdM4h39",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27321f09075c7004d9ba921dc1f",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:50.424Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Blockbaby"],
+    "artistsPopularity": 21,
+    "title": "Top Baby",
+    "releaseDate": "2022-09-13",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/3tRNx5Vk8iEsVmf85k5D0x",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736869d615e93744683ab0c8ab",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:50.424Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Lost Gift"],
+    "artistsPopularity": 13,
+    "title": "Who is your devil? (part II)",
+    "releaseDate": "2023-09-22",
+    "type": "album",
+    "totalTracks": 14,
+    "url": "https://open.spotify.com/album/2fN4nHVWZ3Xb8G583bBzxA",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732abcaa4f294abfc750d66ad7",
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T13:27:50.424Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]

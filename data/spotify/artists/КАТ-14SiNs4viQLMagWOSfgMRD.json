@@ -1,0 +1,130 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T14:23:52.305Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["КАТ"],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737ce08a9149ab7ece160e2569",
+    "releaseDate": "2022-03-11",
+    "title": "Поклик",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4NfL8uNPMeTQrWwfcagzRA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T14:23:52.305Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["КАТ"],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27363e0a4ef08e02ac8687b3e9c",
+    "releaseDate": "2017-09-21",
+    "title": "Герника",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5DrQX6V2UjMSY0cvm2ZdYj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T14:23:52.305Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["КАТ"],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f454a3200e4adfb73eb4ac87",
+    "releaseDate": "2022-03-04",
+    "title": "Заздрість",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3NvOA1qtGUHZBH1VrpNrz9"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T14:23:52.305Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["КАТ"],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734943dcfd45462f1dada22771",
+    "releaseDate": "2022-02-18",
+    "title": "Цвях",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5ZSozVkuAbdM03cKNuCWrc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T14:23:52.305Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["КАТ"],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a0a993b3d2584fe9caf79b29",
+    "releaseDate": "2021-04-19",
+    "title": "Это случится с тобой",
+    "totalTracks": 7,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1k7gpkBVvtdZvopvr33zYS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T14:23:52.305Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["КАТ"],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273494bd2e4acd3f76c23776d06",
+    "releaseDate": "2016-10-22",
+    "title": "Split with Yotsuya Kaidan",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0maShFVyrvLQIrIVkR3WeK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T14:23:52.305Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["КАТ"],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cdc70b2538bf8cbf466c3770",
+    "releaseDate": "2014-11-08",
+    "title": "КАТ",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0qvOxLznN23VXFDtdxvM7D"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-16T14:23:52.305Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["КАТ"],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dcabdd6e97a7f9a1c5ff798c",
+    "releaseDate": "2014-11-07",
+    "title": "Price to Pay",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3noN6dJEYuw7flfYKAxuQX"
+  }
+]

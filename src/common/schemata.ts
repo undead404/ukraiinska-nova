@@ -6,8 +6,10 @@ import {
   minLength,
   minValue,
   nonEmpty,
+  nullable,
   number,
   object,
+  optional,
   picklist,
   pipe,
   string,
@@ -26,10 +28,10 @@ export const dateSchema = pipe(
 export const releaseSchema = object({
   artists: array(pipe(string(), nonEmpty())),
   artistsPopularity: pipe(number(), minValue(0), maxValue(100)),
-  imageUrl: pipe(string(), url()),
+  imageUrl: optional(pipe(string(), url())),
   releaseDate: dateSchema,
   title: pipe(string(), nonEmpty()),
-  totalTracks: pipe(number(), minValue(1)),
+  totalTracks: nullable(pipe(number(), minValue(1))),
   type: picklist(['album', 'compilation', 'single']),
   url: pipe(string(), url()),
 });
@@ -38,7 +40,7 @@ export type MusicRelease = InferInput<typeof releaseSchema>;
 
 export const enhancedReleaseSchema = object({
   ...releaseSchema.entries,
-  tags: array(string()),
+  tags: optional(array(string())),
 });
 
 const appearanceLogEntrySchema = object({
@@ -47,7 +49,7 @@ const appearanceLogEntrySchema = object({
 });
 
 export const releaseRecordSchema = object({
-  ...releaseSchema.entries,
+  ...enhancedReleaseSchema.entries,
   appearanceLog: array(appearanceLogEntrySchema),
 });
 

@@ -1,0 +1,163 @@
+name: Check Spotify
+
+on:
+  schedule:
+    - cron: '13 * * * *' # Runs every day at 6:13 AM UTC
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10
+          run_install: false
+
+      - name: Set up Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'pnpm'
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Build project
+        run: pnpm build
+
+      - name: Upload dist artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: dist
+          path: dist
+
+  retrieve-releases:
+    needs:
+      - build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10
+          run_install: false
+
+      - name: Set up Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'pnpm'
+
+      - name: Install dependencies
+        run: pnpm install --ignore-scripts --prod
+
+      - name: Download dist artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: dist
+          path: dist
+
+      - name: Restore API response cache
+        uses: actions/cache@v4
+        id: api-cache
+        with:
+          path: cache
+          key: ${{ runner.os }}-api-cache
+          restore-keys: |
+            ${{ runner.os }}-api-cache
+
+      - name: Run
+        run: pnpm retrieve-releases:spotify
+        env:
+          BLUESKY_IDENTIFIER_FOR_SPOTIFY: ${{ vars.BLUESKY_IDENTIFIER_FOR_SPOTIFY }}
+          BLUESKY_PASSWORD_FOR_SPOTIFY: ${{ secrets.BLUESKY_PASSWORD_FOR_SPOTIFY }}
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+          SPOTIFY_CLIENT_ID: ${{ vars.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_SPOTIFY_CHANNEL: ${{ vars.TELEGRAM_SPOTIFY_CHANNEL }}
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Add changes
+        run: |
+          git add data
+          git diff --cached --quiet || git commit -m "chore: auto-commit docs folder"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@v1.0.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Save updated cache
+        if: always()
+        uses: actions/cache@v4
+        with:
+          path: cache
+          key: ${{ runner.os }}-api-cache
+
+  create-post:
+    needs:
+      - build
+      - retrieve-releases
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10
+          run_install: false
+
+      - name: Set up Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'pnpm'
+
+      - name: Install dependencies
+        run: pnpm install --ignore-scripts --prod
+
+      - name: Download dist artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: dist
+          path: dist
+
+      - name: Create a Github Pages post
+        run: pnpm create-post
+        env:
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Pull latest changes
+        run: git pull origin ${{ github.ref_name }}
+
+      - name: Add changes
+        run: |
+          git add docs
+          git diff --cached --quiet || git commit -m "chore: auto-commit docs folder"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@v1.0.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}

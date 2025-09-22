@@ -1,0 +1,130 @@
+[
+  {
+    "artists": ["Guerilla Noir"],
+    "artistsPopularity": 4,
+    "title": "Пил",
+    "releaseDate": "2024-02-23",
+    "type": "album",
+    "totalTracks": 6,
+    "url": "https://open.spotify.com/album/3fUFdI0G55HdYojE7d0YKC",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273acd66652bd8effa517cb3d69",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:23:17.875Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["АНТАЙТЛД", "Septa", "Guerilla Noir"],
+    "artistsPopularity": 10,
+    "title": "повільна",
+    "releaseDate": "2024-11-29",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/4xV23WHp9Dmu8o0KNh6P9e",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735e51fd3bb2e25f4426131138",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:23:17.875Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Guerilla Noir", "mertvi dereva"],
+    "artistsPopularity": 4,
+    "title": "Пошук перейдених днів",
+    "releaseDate": "2024-01-26",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/1gnX5nhbyDleI5vcPoozej",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bee0dc7888e612a98baa35dc",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:23:17.875Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Guerilla Noir"],
+    "artistsPopularity": 4,
+    "title": "Survive the Tide",
+    "releaseDate": "2022-11-04",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/3aiN7HbPYvTDsYCqMTMUhZ",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b8aecbb943eaef472729f8fa",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:23:17.875Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Guerilla Noir"],
+    "artistsPopularity": 4,
+    "title": "Into the Void",
+    "releaseDate": "2021-11-19",
+    "type": "single",
+    "totalTracks": 3,
+    "url": "https://open.spotify.com/album/3ZcGz1xYJeyrGmf9vtDVge",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c573f216962c706099e6a7d9",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:23:17.875Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Guerilla Noir"],
+    "artistsPopularity": 4,
+    "title": "False Kings",
+    "releaseDate": "2021-01-15",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/2wZlLXDZeqJtAqZEd5tBgI",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730a20d1edf58bde202420886b",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:23:17.875Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["Guerilla Noir"],
+    "artistsPopularity": 4,
+    "title": "Payback",
+    "releaseDate": "2020-07-15",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/1XZieNSJzLr2LU6DEjN4vR",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a80eb10bfed2d01512ed2bf4",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:23:17.875Z",
+        "type": "FOUND"
+      }
+    ]
+  },
+  {
+    "artists": ["The Nietzsche", "Rabbit Leader", "АНТАЙТЛД"],
+    "artistsPopularity": 8,
+    "title": "War All the Time",
+    "releaseDate": "2022-08-24",
+    "type": "single",
+    "totalTracks": 1,
+    "url": "https://open.spotify.com/album/2BuXFL5cGuv59RhXKO260L",
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d3df0a29444302cc6ef9b768",
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:23:17.875Z",
+        "type": "FOUND"
+      }
+    ]
+  }
+]

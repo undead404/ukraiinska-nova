@@ -1,5 +1,7 @@
+import * as dotenv from 'dotenv';
 import { nonEmpty, object, parse, pipe, string } from 'valibot';
 
+dotenv.config();
 const environmentSchema = object({
   SPOTIFY_CLIENT_ID: pipe(string(), nonEmpty()),
   SPOTIFY_CLIENT_SECRET: pipe(string(), nonEmpty()),

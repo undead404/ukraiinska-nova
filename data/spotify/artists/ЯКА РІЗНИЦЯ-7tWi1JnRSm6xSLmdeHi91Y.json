@@ -1,0 +1,50 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T15:25:18.800Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["ЯКА РІЗНИЦЯ"],
+    "artistsPopularity": 16,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739b395da16edc9b3a41c106bd",
+    "releaseDate": "2023-08-04",
+    "title": "Кохання на декілька акордів",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/62IP7VqL3xKwD64xueIQCB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T15:25:18.800Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["ЯКА РІЗНИЦЯ", "ЯК СПРАВИ?"],
+    "artistsPopularity": 18,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731aebd8a611b7ff9c6ba556eb",
+    "releaseDate": "2023-03-24",
+    "title": "Всі Схожі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0sDmjzAuy6F1BRmOzyk0Mq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T15:25:18.800Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["ЯКА РІЗНИЦЯ"],
+    "artistsPopularity": 16,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f56ce3903ea9211543e11ac",
+    "releaseDate": "2023-02-14",
+    "title": "Знову",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7xdDI3sTIOuMuSUZABMmjO"
+  }
+]

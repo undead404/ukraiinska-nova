@@ -1,0 +1,98 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T15:24:33.966Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["Погань"],
+    "artistsPopularity": 11,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c4431336d6ed0bc682038783",
+    "releaseDate": "2025-02-26",
+    "title": "Ворожба",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4iNdALXXsenX1lI6A2J0cx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T15:24:33.966Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["Погань"],
+    "artistsPopularity": 11,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c32cb158d18f3e3cdc63c97b",
+    "releaseDate": "2025-08-26",
+    "title": "Крадене весілля (Live)",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4Batjt0ZGjqB4UXZQO7q16"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T15:24:33.966Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["Погань"],
+    "artistsPopularity": 11,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a24634410d8891ef378cfcde",
+    "releaseDate": "2025-01-04",
+    "title": "В​і​д​ь​м​и та В​а​м​п​і​р​и",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0ZggFaMAdbRwHnN7ZdIHbL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T15:24:33.966Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["Погань"],
+    "artistsPopularity": 11,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736ff41f157d9a39275ab4c418",
+    "releaseDate": "2024-08-21",
+    "title": "Пристріт",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6BaWlrleh53mi2TQ0fh33l"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T15:24:33.966Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["Погань"],
+    "artistsPopularity": 11,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736c6660ef1d479d88e83a14e8",
+    "releaseDate": "2024-06-14",
+    "title": "Ш​і​с​т​ь к​л​а​д​о​в​и​щ​.​.​.",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0ozoxf71AwC2C6ybafd5tQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-18T15:24:33.966Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["Погань"],
+    "artistsPopularity": 11,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27389db68da25c4c52c38e6737c",
+    "releaseDate": "2024-06-07",
+    "title": "Трясовина",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0D2IAnFqk1Kvltv09fhHf0"
+  }
+]
