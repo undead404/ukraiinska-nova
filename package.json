@@ -39,6 +39,7 @@
   "scripts": {
     "build": "tsc",
     "collect-artist-ids": "node --import tsx/esm src/scripts/collect-artist-ids/index.ts",
+    "collect-missing-artists": "node --import tsx/esm src/scripts/collect-missing-artists/index.ts",
     "create-post": "node dist/scripts/create-post/index.js",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",

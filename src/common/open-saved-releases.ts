@@ -3,9 +3,10 @@ import path from 'node:path';
 
 import { array, isValiError, parse } from 'valibot';
 
-import type { MusicReleaseRecord } from '../../common/schemata.js';
-import { releaseRecordSchema } from '../../common/schemata.js';
-import normalizeFilename from '../../helpers/normalize-filename.js';
+import normalizeFilename from '../helpers/normalize-filename.js';
+
+import type { MusicReleaseRecord } from './schemata.js';
+import { releaseRecordSchema } from './schemata.js';
 
 const artistsReleasesSchema = array(releaseRecordSchema);
 

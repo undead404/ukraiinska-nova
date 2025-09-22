@@ -1,6 +1,7 @@
 import path from 'node:path';
 
 import enhanceReleases from '../../common/enhance-releases.js';
+import openSavedReleases from '../../common/open-saved-releases.js';
 import postToBluesky from '../../common/post-to-bluesky.js';
 import postToTelegram from '../../common/post-to-telegram.js';
 import readFileArtistIds from '../../common/read-artist-ids.js';
@@ -12,7 +13,6 @@ import { YouTubeMusicService } from '../../services/youtube-music.js';
 import type { EnhancedMusicRelease } from '../../types/index.js';
 
 import environment from './environment.js';
-import openSavedReleases from './open-saved-releases.js';
 import saveReleases from './save-releases.js';
 
 async function main(): Promise<void> {
