@@ -6,10 +6,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Королівські Зайці"],
+    "artists": [
+      "Королівські Зайці"
+    ],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a15db8129ba08d5737aefd57",
     "releaseDate": "2011-03-01",
+    "tags": [
+      "female vocalists"
+    ],
     "title": "Серце-місяць",
     "totalTracks": 13,
     "type": "album",
@@ -22,10 +27,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Королівські Зайці"],
+    "artists": [
+      "Королівські Зайці"
+    ],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730c8b32135d2ddb11668f5b37",
     "releaseDate": "2001-03-01",
+    "tags": [
+      "female vocalists"
+    ],
     "title": "Каzки Королівства А'Маzох",
     "totalTracks": 17,
     "type": "album",
@@ -38,10 +48,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Королівські Зайці"],
+    "artists": [
+      "Королівські Зайці"
+    ],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cc38741466e97ef66cae3866",
     "releaseDate": "2000-03-01",
+    "tags": [
+      "female vocalists"
+    ],
     "title": "Unplugged. Український альтернативний романс",
     "totalTracks": 9,
     "type": "album",
@@ -54,10 +69,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Королівські Зайці"],
+    "artists": [
+      "Королівські Зайці"
+    ],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f9299e299f109d247065deff",
     "releaseDate": "2024-07-02",
+    "tags": [
+      "female vocalists"
+    ],
     "title": "Над кубанськими степами",
     "totalTracks": 1,
     "type": "single",

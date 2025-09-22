@@ -12,6 +12,9 @@
     "artistsPopularity": 20,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c14c17f21ad0a90e49d7ce47",
     "releaseDate": "2021-02-05",
+    "tags": [
+      "folk"
+    ],
     "title": "Ягоди",
     "totalTracks": 10,
     "type": "album",
@@ -30,6 +33,9 @@
     "artistsPopularity": 20,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c482c9506f247c6ca068a0ab",
     "releaseDate": "2025-01-13",
+    "tags": [
+      "folk"
+    ],
     "title": "БрамаЯ",
     "totalTracks": 1,
     "type": "single",
@@ -48,6 +54,9 @@
     "artistsPopularity": 20,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d07565dc37553a21637a92db",
     "releaseDate": "2024-11-21",
+    "tags": [
+      "folk"
+    ],
     "title": "Чорноморець",
     "totalTracks": 1,
     "type": "single",
@@ -66,6 +75,9 @@
     "artistsPopularity": 20,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27393204cafc546ae95a9e5c4d5",
     "releaseDate": "2024-10-24",
+    "tags": [
+      "folk"
+    ],
     "title": "Tsunamia",
     "totalTracks": 1,
     "type": "single",
@@ -84,6 +96,9 @@
     "artistsPopularity": 20,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a8be6a4002843d1fcdcb8369",
     "releaseDate": "2024-01-11",
+    "tags": [
+      "folk"
+    ],
     "title": "Tsunamia",
     "totalTracks": 1,
     "type": "single",

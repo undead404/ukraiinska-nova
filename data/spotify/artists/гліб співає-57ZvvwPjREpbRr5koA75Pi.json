@@ -6,10 +6,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["АЗІЗА", "гліб співає"],
+    "artists": [
+      "АЗІЗА",
+      "гліб співає"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cf94be84a707fb09c21a6518",
     "releaseDate": "2024-06-07",
+    "tags": [
+      "pop",
+      "Lo-Fi",
+      "bedroom pop"
+    ],
     "title": "Раз",
     "totalTracks": 1,
     "type": "single",
@@ -22,10 +30,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["гліб співає"],
+    "artists": [
+      "гліб співає"
+    ],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27385512c5fa45b8117ef3104c4",
     "releaseDate": "2024-04-30",
+    "tags": [
+      "Lo-Fi",
+      "bedroom pop"
+    ],
     "title": "квітень",
     "totalTracks": 1,
     "type": "single",
@@ -38,10 +52,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["гліб співає"],
+    "artists": [
+      "гліб співає"
+    ],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27355d671b5f5aa9e538e6ff361",
     "releaseDate": "2024-01-25",
+    "tags": [
+      "Lo-Fi",
+      "bedroom pop"
+    ],
     "title": "додому",
     "totalTracks": 1,
     "type": "single",
@@ -54,10 +74,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["гліб співає"],
+    "artists": [
+      "гліб співає"
+    ],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273de2738664348d8ff9db66766",
     "releaseDate": "2023-11-17",
+    "tags": [
+      "Lo-Fi",
+      "bedroom pop"
+    ],
     "title": "для інших",
     "totalTracks": 1,
     "type": "single",
@@ -70,10 +96,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["гліб співає"],
+    "artists": [
+      "гліб співає"
+    ],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732e8e6515da7ffde980e1e36c",
     "releaseDate": "2023-10-20",
+    "tags": [
+      "Lo-Fi",
+      "bedroom pop"
+    ],
     "title": "щастя любить тишу",
     "totalTracks": 1,
     "type": "single",
@@ -86,10 +118,21 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["гліб співає", "Після Дощу"],
+    "artists": [
+      "гліб співає",
+      "Після Дощу"
+    ],
     "artistsPopularity": 31,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273016d4b4050e88025209f8c26",
     "releaseDate": "2023-08-11",
+    "tags": [
+      "Lo-Fi",
+      "electronic",
+      "pop",
+      "bedroom pop",
+      "pop rock",
+      "emo pop"
+    ],
     "title": "тут і зараз",
     "totalTracks": 1,
     "type": "single",
@@ -102,10 +145,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["гліб співає"],
+    "artists": [
+      "гліб співає"
+    ],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734eacf35559623aea5ec3a7ee",
     "releaseDate": "2023-07-14",
+    "tags": [
+      "Lo-Fi",
+      "bedroom pop"
+    ],
     "title": "дорослий",
     "totalTracks": 1,
     "type": "single",
@@ -118,10 +167,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["гліб співає"],
+    "artists": [
+      "гліб співає"
+    ],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d4c14847e64da896a03cdd0a",
     "releaseDate": "2023-04-28",
+    "tags": [
+      "Lo-Fi",
+      "bedroom pop"
+    ],
     "title": "паралельний всесвіт",
     "totalTracks": 1,
     "type": "single",
@@ -134,10 +189,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["гліб співає"],
+    "artists": [
+      "гліб співає"
+    ],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e646b42e73e9b864847e7b12",
     "releaseDate": "2023-04-07",
+    "tags": [
+      "Lo-Fi",
+      "bedroom pop"
+    ],
     "title": "двері зачиняються",
     "totalTracks": 1,
     "type": "single",
@@ -150,10 +211,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["гліб співає"],
+    "artists": [
+      "гліб співає"
+    ],
     "artistsPopularity": 17,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e495c0cdc9176968b0d73da8",
     "releaseDate": "2023-03-03",
+    "tags": [
+      "Lo-Fi",
+      "bedroom pop"
+    ],
     "title": "немає друзів",
     "totalTracks": 1,
     "type": "single",

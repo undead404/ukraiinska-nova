@@ -12,6 +12,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273965d002641011fe812888bd3",
     "releaseDate": "2017-12-29",
+    "tags": [
+      "rock"
+    ],
     "title": "Наш Івасюк",
     "totalTracks": 9,
     "type": "album",
@@ -30,6 +33,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732a11d896b10bb8710bf965aa",
     "releaseDate": "2017-12-25",
+    "tags": [
+      "rock"
+    ],
     "title": "Наше Різдво (Продовження)",
     "totalTracks": 7,
     "type": "album",
@@ -49,6 +55,10 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735189cf7b3dfda1576fda275c",
     "releaseDate": "2014-10-15",
+    "tags": [
+      "folk rock",
+      "rock"
+    ],
     "title": "Пісні самонаведення",
     "totalTracks": 10,
     "type": "album",
@@ -67,6 +77,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f8250adaa02bb76779d4fb0f",
     "releaseDate": "2000-08-08",
+    "tags": [
+      "rock"
+    ],
     "title": "Наші партизани",
     "totalTracks": 11,
     "type": "album",
@@ -85,6 +98,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27310e4a86c164719feb89ed5d5",
     "releaseDate": "2025-02-13",
+    "tags": [
+      "rock"
+    ],
     "title": "Коли до губ твоїх… (2025 version)",
     "totalTracks": 1,
     "type": "single",
@@ -103,6 +119,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b0228b45ad40e79c3ba24bbb",
     "releaseDate": "2025-02-06",
+    "tags": [
+      "rock"
+    ],
     "title": "Пластунка N",
     "totalTracks": 1,
     "type": "single",
@@ -121,6 +140,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ae5e59d051ef1a37b2990cb8",
     "releaseDate": "2020-02-07",
+    "tags": [
+      "rock"
+    ],
     "title": "Сипле сніг",
     "totalTracks": 1,
     "type": "single",
@@ -140,6 +162,9 @@
     "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cbc96c89659a6ca6dd7e5522",
     "releaseDate": "1995-06-17",
+    "tags": [
+      "rock"
+    ],
     "title": "Вона",
     "totalTracks": 1,
     "type": "single",
