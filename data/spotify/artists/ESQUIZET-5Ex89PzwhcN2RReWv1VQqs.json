@@ -12,6 +12,9 @@
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bd49d28f0d0e7e636563eb32",
     "releaseDate": "2019-10-02",
+    "tags": [
+      "Garage Rock"
+    ],
     "title": "Trivial Trivia",
     "totalTracks": 9,
     "type": "album",
@@ -30,6 +33,9 @@
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737365e06841ce4e035e95cdea",
     "releaseDate": "2025-02-07",
+    "tags": [
+      "Garage Rock"
+    ],
     "title": "Вище",
     "totalTracks": 1,
     "type": "single",
@@ -48,6 +54,9 @@
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a96bd028605afb75da4f71d7",
     "releaseDate": "2015",
+    "tags": [
+      "Garage Rock"
+    ],
     "title": "Ask why",
     "totalTracks": 5,
     "type": "single",

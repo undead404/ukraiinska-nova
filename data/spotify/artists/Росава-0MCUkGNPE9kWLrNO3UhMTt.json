@@ -12,6 +12,9 @@
     "artistsPopularity": 24,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736a7332a18b3365049859516b",
     "releaseDate": "2015-01-20",
+    "tags": [
+      "folk"
+    ],
     "title": "Радість",
     "totalTracks": 20,
     "type": "album",
@@ -30,6 +33,9 @@
     "artistsPopularity": 24,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab6bb4236472792ad204a799",
     "releaseDate": "2013-10-18",
+    "tags": [
+      "folk"
+    ],
     "title": "Тепер І Потім",
     "totalTracks": 12,
     "type": "album",
@@ -48,6 +54,9 @@
     "artistsPopularity": 24,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737bfdac15352c91e30e381add",
     "releaseDate": "2013-10-18",
+    "tags": [
+      "folk"
+    ],
     "title": "Просто неба",
     "totalTracks": 18,
     "type": "album",
@@ -66,6 +75,9 @@
     "artistsPopularity": 24,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734989ccf497944079ba69e838",
     "releaseDate": "2013-10-18",
+    "tags": [
+      "folk"
+    ],
     "title": "Колисанки",
     "totalTracks": 19,
     "type": "album",
@@ -84,6 +96,11 @@
     "artistsPopularity": 12,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b085f5ab6bc72b903cf76ad9",
     "releaseDate": "2004",
+    "tags": [
+      "iceland",
+      "pop",
+      "icelandic"
+    ],
     "title": "НЕДІЛЯ",
     "totalTracks": 13,
     "type": "album",

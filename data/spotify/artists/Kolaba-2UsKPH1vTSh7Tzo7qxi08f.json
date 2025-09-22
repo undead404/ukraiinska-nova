@@ -13,6 +13,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732c7fd4d1874611a411546042",
     "releaseDate": "2025-08-01",
+    "tags": [
+      "pop",
+      "rock"
+    ],
     "title": "Щаслива",
     "totalTracks": 1,
     "type": "single",
@@ -31,6 +35,7 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fb2356172f45adc2547781b3",
     "releaseDate": "2025-07-24",
+    "tags": [],
     "title": "Шо ви пацики на моциках 2.0",
     "totalTracks": 1,
     "type": "single",
@@ -50,6 +55,7 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733a4bef147af008608aabf0a7",
     "releaseDate": "2025-07-18",
+    "tags": [],
     "title": "Молоді",
     "totalTracks": 1,
     "type": "single",
@@ -69,6 +75,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736aca2629c4c876cf51d70a1d",
     "releaseDate": "2025-06-16",
+    "tags": [
+      "female vocalists",
+      "Pop-Rock"
+    ],
     "title": "День народження",
     "totalTracks": 1,
     "type": "single",
@@ -88,6 +98,7 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27362dac93a129cc9eaabe390ea",
     "releaseDate": "2025-05-16",
+    "tags": [],
     "title": "Пісня буде поміж нас",
     "totalTracks": 1,
     "type": "single",
@@ -107,6 +118,7 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27368e9981d1ebf45132c1cb2df",
     "releaseDate": "2025-04-24",
+    "tags": [],
     "title": "Як у нас на Україні",
     "totalTracks": 1,
     "type": "single",
@@ -126,6 +138,9 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c0a87f916c8797a0d2ccbb79",
     "releaseDate": "2025-01-30",
+    "tags": [
+      "pop"
+    ],
     "title": "Двічі в одну річку не ввійдеш",
     "totalTracks": 1,
     "type": "single",
@@ -145,6 +160,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273611ab5c7d35cce7c1afd07eb",
     "releaseDate": "2025-01-01",
+    "tags": [
+      "pop",
+      "folk"
+    ],
     "title": "Струмочок",
     "totalTracks": 1,
     "type": "single",
@@ -164,6 +183,7 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b85c0ab0fd01fb5294f70b92",
     "releaseDate": "2024-10-18",
+    "tags": [],
     "title": "Яскраво світи (Dance Version)",
     "totalTracks": 1,
     "type": "single",
@@ -183,6 +203,7 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab831bb9aff65051cd2f171c",
     "releaseDate": "2024-09-26",
+    "tags": [],
     "title": "Росте черешня в мами на городі",
     "totalTracks": 1,
     "type": "single",
@@ -202,6 +223,9 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27359ee436e05fb10f01570ac6b",
     "releaseDate": "2024-09-12",
+    "tags": [
+      "pop"
+    ],
     "title": "Серпанкові очі (Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -221,6 +245,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735db0e681d65c86fb34023d61",
     "releaseDate": "2024-08-02",
+    "tags": [
+      "pop"
+    ],
     "title": "Метелики",
     "totalTracks": 1,
     "type": "single",
@@ -240,6 +267,7 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ec14401e66787191dd04a738",
     "releaseDate": "2024-07-26",
+    "tags": [],
     "title": "З Нею Кайф",
     "totalTracks": 1,
     "type": "single",
@@ -259,6 +287,9 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273850f46d9992c6037acf57577",
     "releaseDate": "2024-07-23",
+    "tags": [
+      "pop"
+    ],
     "title": "Красива жінка незаміжня",
     "totalTracks": 1,
     "type": "single",
@@ -278,6 +309,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273978b41776f2a5bd1c6efaa17",
     "releaseDate": "2024-06-21",
+    "tags": [
+      "proto-punk",
+      "hardcore punk"
+    ],
     "title": "День Народження",
     "totalTracks": 1,
     "type": "single",
@@ -297,6 +332,7 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737c27670f5d877866589f053e",
     "releaseDate": "2024-05-24",
+    "tags": [],
     "title": "Не зупиняйте музику",
     "totalTracks": 1,
     "type": "single",
@@ -316,6 +352,7 @@
     "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733e964760ce3b36fdd7d16621",
     "releaseDate": "2024-04-26",
+    "tags": [],
     "title": "Тебе знайшов",
     "totalTracks": 1,
     "type": "single",
@@ -336,6 +373,9 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c6fb065207b59a5981d5dd50",
     "releaseDate": "2024-04-19",
+    "tags": [
+      "dance"
+    ],
     "title": "Зеленеє жито",
     "totalTracks": 1,
     "type": "single",
@@ -355,6 +395,7 @@
     "artistsPopularity": 49,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273238843d5ae7dbd1f6db772a0",
     "releaseDate": "2024-03-22",
+    "tags": [],
     "title": "Не відпускай",
     "totalTracks": 1,
     "type": "single",
@@ -374,6 +415,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a33470021991e3ed08044113",
     "releaseDate": "2024-02-27",
+    "tags": [
+      "shoegaze",
+      "space rock"
+    ],
     "title": "Я буду тим",
     "totalTracks": 1,
     "type": "single",
@@ -393,6 +438,7 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b6a39d7569e1bde2fad8782b",
     "releaseDate": "2023-12-01",
+    "tags": [],
     "title": "Волошковий цвіт",
     "totalTracks": 1,
     "type": "single",
@@ -412,6 +458,7 @@
     "artistsPopularity": 49,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273609b37ffc6f52dbfdd7e90ea",
     "releaseDate": "2023-11-16",
+    "tags": [],
     "title": "Чайка",
     "totalTracks": 1,
     "type": "single",
@@ -431,6 +478,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d25b6578d915561a3db404b4",
     "releaseDate": "2023-11-03",
+    "tags": [
+      "proto-punk",
+      "hardcore punk"
+    ],
     "title": "Хрещатик",
     "totalTracks": 1,
     "type": "single",
@@ -450,6 +501,9 @@
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eec8a9f589575b849e90cf77",
     "releaseDate": "2023-10-13",
+    "tags": [
+      "belarus"
+    ],
     "title": "Де моя любов живе",
     "totalTracks": 1,
     "type": "single",
@@ -469,6 +523,7 @@
     "artistsPopularity": 49,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736d1aa909d61831b930253e58",
     "releaseDate": "2023-09-15",
+    "tags": [],
     "title": "Якби не ти",
     "totalTracks": 1,
     "type": "single",
@@ -488,6 +543,9 @@
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737053eccf4bd130c9e103acf3",
     "releaseDate": "2023-06-29",
+    "tags": [
+      "belarus"
+    ],
     "title": "Пазл",
     "totalTracks": 1,
     "type": "single",
@@ -507,6 +565,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d9beb6bd3cedcf9985f046da",
     "releaseDate": "2023-05-25",
+    "tags": [
+      "pop",
+      "popsa"
+    ],
     "title": "Горобина ніч",
     "totalTracks": 1,
     "type": "single",
@@ -526,6 +588,9 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732cc0ec7a4d7e62adba8852ba",
     "releaseDate": "2023-04-20",
+    "tags": [
+      "pop"
+    ],
     "title": "А липи цвітуть",
     "totalTracks": 1,
     "type": "single",
@@ -544,6 +609,7 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739d5894f969d5fd1b7fa030d9",
     "releaseDate": "2023-02-28",
+    "tags": [],
     "title": "Парова машина",
     "totalTracks": 1,
     "type": "single",
@@ -563,6 +629,7 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27333c95ed301c247a12a54920d",
     "releaseDate": "2023-02-17",
+    "tags": [],
     "title": "Відьма",
     "totalTracks": 1,
     "type": "single",
@@ -582,6 +649,9 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dda6aaa61b9e327ef0e30165",
     "releaseDate": "2023-02-10",
+    "tags": [
+      "pop"
+    ],
     "title": "Розмова з тобою",
     "totalTracks": 1,
     "type": "single",
@@ -601,6 +671,7 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27308f5c0b2d89d4cecb62f3d10",
     "releaseDate": "2023-01-17",
+    "tags": [],
     "title": "Ти щаслива будеш (Dance Version)",
     "totalTracks": 1,
     "type": "single",
@@ -619,6 +690,7 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273914b76097ad436d9f320c82c",
     "releaseDate": "2022-12-27",
+    "tags": [],
     "title": "А калина не верба",
     "totalTracks": 1,
     "type": "single",
@@ -637,6 +709,7 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732505bd7c5a333a11fb05439f",
     "releaseDate": "2022-12-14",
+    "tags": [],
     "title": "Ой, мамо, люблю Гриця",
     "totalTracks": 1,
     "type": "single",
@@ -656,6 +729,9 @@
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734f3f2a49e750382bf5ba9877",
     "releaseDate": "2022-10-21",
+    "tags": [
+      "belarus"
+    ],
     "title": "Мрієшся (Kolaba Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -676,6 +752,11 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b480ab7099b9beb7871c9714",
     "releaseDate": "2022-10-07",
+    "tags": [
+      "youtubers",
+      "pop",
+      "indie pop"
+    ],
     "title": "Теплий дощ (Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -695,6 +776,9 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731aec29ff70f1d6e9b81d3dc2",
     "releaseDate": "2022-09-16",
+    "tags": [
+      "pop"
+    ],
     "title": "Осінній сад (Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -714,6 +798,9 @@
     "artistsPopularity": 46,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27323d5b822b6754339b51f97ec",
     "releaseDate": "2022-09-09",
+    "tags": [
+      "pop"
+    ],
     "title": "Ванька-Встанька (Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -733,6 +820,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a87b57d730bd7e3abba7dc51",
     "releaseDate": "2022-09-02",
+    "tags": [
+      "electronic",
+      "dance"
+    ],
     "title": "Патрон пес DANCE",
     "totalTracks": 1,
     "type": "single",
@@ -752,6 +843,7 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27350ee764e354994e18246de26",
     "releaseDate": "2022-06-27",
+    "tags": [],
     "title": "Байрактар (Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -771,6 +863,7 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273333a02e617f9137b311fc9e1",
     "releaseDate": "2022-06-24",
+    "tags": [],
     "title": "Літо без війни",
     "totalTracks": 1,
     "type": "single",
@@ -790,6 +883,7 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737979056dbd7a0910834ff42a",
     "releaseDate": "2022-04-19",
+    "tags": [],
     "title": "Шо ви пацики на моциках (Крипак Владислав Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -808,6 +902,7 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b882efbf1547476fff6e42f9",
     "releaseDate": "2022-04-19",
+    "tags": [],
     "title": "Ой у лузі червона калина",
     "totalTracks": 1,
     "type": "single",
@@ -826,6 +921,7 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f3db1f4c8033c562549c0e34",
     "releaseDate": "2022-04-14",
+    "tags": [],
     "title": "Шо ви пацики на моциках",
     "totalTracks": 1,
     "type": "single",

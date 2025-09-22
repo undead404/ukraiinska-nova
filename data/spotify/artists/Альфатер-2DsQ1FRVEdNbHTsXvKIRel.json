@@ -6,10 +6,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Альфатер"],
+    "artists": [
+      "Альфатер"
+    ],
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e15c6051aedd44a7f1065003",
     "releaseDate": "2024-12-06",
+    "tags": [
+      "emo",
+      "emoviolence",
+      "screamo"
+    ],
     "title": "Колись все мине",
     "totalTracks": 6,
     "type": "single",

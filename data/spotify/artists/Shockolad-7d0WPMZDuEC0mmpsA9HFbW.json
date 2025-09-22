@@ -13,6 +13,9 @@
     "artistsPopularity": 8,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b1df6db24e5a450fff1ff83b",
     "releaseDate": "2018-10-10",
+    "tags": [
+      "jazz"
+    ],
     "title": "Ivasyuk",
     "totalTracks": 10,
     "type": "album",
@@ -32,6 +35,9 @@
     "artistsPopularity": 7,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27323a7269fb421ece0bfe34976",
     "releaseDate": "2016-11-01",
+    "tags": [
+      "jazz"
+    ],
     "title": "Nova",
     "totalTracks": 7,
     "type": "album",
@@ -50,6 +56,9 @@
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730e563d61cbff8f89e4813b07",
     "releaseDate": "2012-11-10",
+    "tags": [
+      "jazz"
+    ],
     "title": "World",
     "totalTracks": 7,
     "type": "album",
@@ -68,6 +77,9 @@
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e8a3352f6eaf3a5e103a9a66",
     "releaseDate": "2010-11-10",
+    "tags": [
+      "jazz"
+    ],
     "title": "Щедрий вечір з добрим jazzoм",
     "totalTracks": 9,
     "type": "album",
@@ -86,6 +98,9 @@
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273858eb5a297f9b973773d739b",
     "releaseDate": "2009-05-01",
+    "tags": [
+      "jazz"
+    ],
     "title": "Pokosy",
     "totalTracks": 11,
     "type": "album",
@@ -104,6 +119,9 @@
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d49cd5aa017cc84f091c65c0",
     "releaseDate": "2008-06-12",
+    "tags": [
+      "jazz"
+    ],
     "title": "Number One",
     "totalTracks": 4,
     "type": "album",
@@ -122,6 +140,9 @@
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730edcf18ace8d4a7a5e021571",
     "releaseDate": "2022-01-06",
+    "tags": [
+      "jazz"
+    ],
     "title": "Бог ся рождає",
     "totalTracks": 1,
     "type": "single",

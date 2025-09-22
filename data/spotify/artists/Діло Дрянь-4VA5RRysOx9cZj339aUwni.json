@@ -6,10 +6,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Діло Дрянь"],
+    "artists": [
+      "Діло Дрянь"
+    ],
     "artistsPopularity": 6,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cdec32c766d70ac43f2feea2",
     "releaseDate": "2025-04-10",
+    "tags": [],
     "title": "Діло Дрянь",
     "totalTracks": 15,
     "type": "album",

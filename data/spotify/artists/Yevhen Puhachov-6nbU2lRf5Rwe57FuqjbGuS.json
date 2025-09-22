@@ -14,6 +14,10 @@
     "artistsPopularity": 12,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27336552e8757f11aa573aa6137",
     "releaseDate": "2025-04-04",
+    "tags": [
+      "jazz",
+      "contemporary jazz"
+    ],
     "title": "Breakdown",
     "totalTracks": 1,
     "type": "single",
@@ -34,6 +38,10 @@
     "artistsPopularity": 12,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27351811c71f5a533f9b5df75ef",
     "releaseDate": "2025-04-04",
+    "tags": [
+      "jazz",
+      "contemporary jazz"
+    ],
     "title": "Bastard",
     "totalTracks": 1,
     "type": "single",
@@ -53,6 +61,10 @@
     "artistsPopularity": 14,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ba09965705d483fcda49aa7e",
     "releaseDate": "2024-07-19",
+    "tags": [
+      "jazz",
+      "indie pop"
+    ],
     "title": "Sashenka",
     "totalTracks": 1,
     "type": "single",
@@ -71,6 +83,9 @@
     "artistsPopularity": 12,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738634fbdaf3140b84cea4d2b5",
     "releaseDate": "2024-06-14",
+    "tags": [
+      "jazz"
+    ],
     "title": "Tension",
     "totalTracks": 2,
     "type": "single",
@@ -90,6 +105,12 @@
     "artistsPopularity": 20,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27309f51e03e5f126517a9e773b",
     "releaseDate": "2024-05-31",
+    "tags": [
+      "folk",
+      "ambient",
+      "electronic",
+      "idm"
+    ],
     "title": "Веснянки",
     "totalTracks": 2,
     "type": "single",
@@ -109,6 +130,12 @@
     "artistsPopularity": 20,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d903cf00f10c8317667e19f4",
     "releaseDate": "2024-01-05",
+    "tags": [
+      "folk",
+      "ambient",
+      "electronic",
+      "idm"
+    ],
     "title": "Що й святоє…",
     "totalTracks": 5,
     "type": "single",
@@ -127,6 +154,9 @@
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273907056aa17ee52ec295dce4b",
     "releaseDate": "2025-04-04",
+    "tags": [
+      "contemporary jazz"
+    ],
     "title": "NTFS, Vol.1",
     "totalTracks": 5,
     "type": "single",
