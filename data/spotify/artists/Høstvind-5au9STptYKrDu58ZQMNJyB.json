@@ -12,6 +12,9 @@
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27326d3d962a9be3216131d582b",
     "releaseDate": "2024-03-24",
+    "tags": [
+      "black metal"
+    ],
     "title": "Høstvind",
     "totalTracks": 7,
     "type": "album",
@@ -30,9 +33,33 @@
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273345f0ce2816b9c7ebf1accaf",
     "releaseDate": "2024-09-22",
+    "tags": [
+      "black metal"
+    ],
     "title": "Legenda",
     "totalTracks": 6,
     "type": "single",
     "url": "https://open.spotify.com/album/1mDJbNd42cQGuAsDzuMhk4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-22T22:21:16.083Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Høstvind"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738da02c025c78bc13ed0e1f08",
+    "releaseDate": "2025-09-20",
+    "tags": [
+      "black metal"
+    ],
+    "title": "Nebokraj",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1xgeG6aDI5ovHOHCm41N9w"
   }
 ]

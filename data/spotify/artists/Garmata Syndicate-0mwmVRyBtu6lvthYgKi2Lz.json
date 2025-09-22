@@ -12,6 +12,10 @@
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734ad3e13386d6498208972cf7",
     "releaseDate": "2024-10-18",
+    "tags": [
+      "metalcore",
+      "hardcore"
+    ],
     "title": "Вокальний не дебютний лонг плей, а компіляція нулів в пін кодах",
     "totalTracks": 30,
     "type": "album",
@@ -30,6 +34,10 @@
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734448e50a053efafd18be321a",
     "releaseDate": "2023-05-19",
+    "tags": [
+      "metalcore",
+      "hardcore"
+    ],
     "title": "Не дебютний лонг плей, а компіляція нулів в пін кодах",
     "totalTracks": 11,
     "type": "album",
@@ -49,6 +57,11 @@
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273efa78586160d4881f8630c79",
     "releaseDate": "2025-07-18",
+    "tags": [
+      "metalcore",
+      "hardcore",
+      "alternative metal"
+    ],
     "title": "Ікла",
     "totalTracks": 1,
     "type": "single",
@@ -69,6 +82,12 @@
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d4653235ac254ec035a8e030",
     "releaseDate": "2025-02-28",
+    "tags": [
+      "metalcore",
+      "future funk",
+      "screamo",
+      "hardcore"
+    ],
     "title": "потужна",
     "totalTracks": 1,
     "type": "single",
@@ -88,6 +107,12 @@
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c7f5e3c9e9eccef4afaf0d70",
     "releaseDate": "2024-06-14",
+    "tags": [
+      "metalcore",
+      "hardcore",
+      "indie pop",
+      "synth pop"
+    ],
     "title": "Знов і знов (rework)",
     "totalTracks": 1,
     "type": "single",
@@ -108,6 +133,15 @@
     "artistsPopularity": 20,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737fe867e2077324d95eee0882",
     "releaseDate": "2024-05-17",
+    "tags": [
+      "metalcore",
+      "hardcore",
+      "rap",
+      "hip hop",
+      "rap rock",
+      "hardcore hip hop",
+      "electronic"
+    ],
     "title": "REACTOR (remix)",
     "totalTracks": 1,
     "type": "single",
@@ -127,6 +161,10 @@
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a5e1efd3881e325d018034e6",
     "releaseDate": "2023-09-08",
+    "tags": [
+      "metalcore",
+      "hardcore"
+    ],
     "title": "Rtut`",
     "totalTracks": 1,
     "type": "single",

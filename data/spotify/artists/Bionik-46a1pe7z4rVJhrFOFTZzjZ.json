@@ -12,6 +12,9 @@
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e2b24543aa55725668e699a9",
     "releaseDate": "2007-06-27",
+    "tags": [
+      "alternative"
+    ],
     "title": "BioNik",
     "totalTracks": 14,
     "type": "album",
@@ -30,6 +33,9 @@
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734b434556409508547fe580a7",
     "releaseDate": "2023-12-22",
+    "tags": [
+      "alternative"
+    ],
     "title": "Щедрик",
     "totalTracks": 1,
     "type": "single",
@@ -48,6 +54,9 @@
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bdcbe69f9026803cba5c63d5",
     "releaseDate": "2023-10-06",
+    "tags": [
+      "alternative"
+    ],
     "title": "Boogie Shred",
     "totalTracks": 1,
     "type": "single",
@@ -66,6 +75,9 @@
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730b9093531ba9beaa659cb7a5",
     "releaseDate": "2023-06-09",
+    "tags": [
+      "alternative"
+    ],
     "title": "Hot Summer",
     "totalTracks": 1,
     "type": "single",
@@ -84,6 +96,9 @@
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cf0da7c02e8966bc864b9227",
     "releaseDate": "2023-05-12",
+    "tags": [
+      "alternative"
+    ],
     "title": "Романтично (Acoustic Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -103,6 +118,10 @@
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ed574e7ed6b99b75a2b3c576",
     "releaseDate": "2023-03-31",
+    "tags": [
+      "rap",
+      "alternative"
+    ],
     "title": "Дике Поле (Acoustic Remix by BioNik)",
     "totalTracks": 1,
     "type": "single",
@@ -121,6 +140,7 @@
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f631e66406d5d12c8e070f2",
     "releaseDate": "2023-04-21",
+    "tags": [],
     "title": "Seeds Will Grow (Acoustic Remix)",
     "totalTracks": 1,
     "type": "single",

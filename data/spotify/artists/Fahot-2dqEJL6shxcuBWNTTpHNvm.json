@@ -13,6 +13,13 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ff59b031dca64bcec7bdef2e",
     "releaseDate": "2023-05-12",
+    "tags": [
+      "funk",
+      "pop",
+      "Hip-Hop",
+      "hip hop",
+      "rap"
+    ],
     "title": "Godmode",
     "totalTracks": 9,
     "type": "album",
@@ -32,6 +39,12 @@
     "artistsPopularity": 14,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273753e04722292b47e4d87f78e",
     "releaseDate": "2025-08-28",
+    "tags": [
+      "funk",
+      "pop",
+      "hip hop",
+      "rap"
+    ],
     "title": "Хорт. Перший Характерник",
     "totalTracks": 1,
     "type": "single",
@@ -50,6 +63,12 @@
     "artistsPopularity": 14,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27398ca628a04cafe50d6f1e051",
     "releaseDate": "2025-07-03",
+    "tags": [
+      "funk",
+      "pop",
+      "hip hop",
+      "rap"
+    ],
     "title": "Skarb",
     "totalTracks": 1,
     "type": "single",
@@ -69,6 +88,13 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736fd2f348f565f7536b291906",
     "releaseDate": "2025-03-05",
+    "tags": [
+      "funk",
+      "pop",
+      "Hip-Hop",
+      "hip hop",
+      "rap"
+    ],
     "title": "Гроші",
     "totalTracks": 1,
     "type": "single",
@@ -88,6 +114,13 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b10f0193efc092afde3f2b0a",
     "releaseDate": "2024-03-27",
+    "tags": [
+      "funk",
+      "pop",
+      "Hip-Hop",
+      "hip hop",
+      "rap"
+    ],
     "title": "Honor",
     "totalTracks": 1,
     "type": "single",
@@ -107,6 +140,13 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273426546f4eac5f29d47325934",
     "releaseDate": "2022-10-14",
+    "tags": [
+      "funk",
+      "pop",
+      "Hip-Hop",
+      "hip hop",
+      "rap"
+    ],
     "title": "Моя зброя",
     "totalTracks": 1,
     "type": "single",
@@ -126,6 +166,13 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273da07f1af8c7ebba5ffff9930",
     "releaseDate": "2022-08-19",
+    "tags": [
+      "funk",
+      "pop",
+      "Hip-Hop",
+      "hip hop",
+      "rap"
+    ],
     "title": "MANTRA",
     "totalTracks": 1,
     "type": "single",
@@ -144,6 +191,12 @@
     "artistsPopularity": 14,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c7e0b6f73b596786d1718605",
     "releaseDate": "2022-07-15",
+    "tags": [
+      "funk",
+      "pop",
+      "hip hop",
+      "rap"
+    ],
     "title": "Енергодар - це Україна!",
     "totalTracks": 1,
     "type": "single",
@@ -162,6 +215,9 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a3b642c08158d8b4fa98a992",
     "releaseDate": "2021-03-12",
+    "tags": [
+      "Hip-Hop"
+    ],
     "title": "Весну (Radio Edit)",
     "totalTracks": 4,
     "type": "single",
@@ -180,6 +236,9 @@
     "artistsPopularity": 40,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a609ce33a20a9f1207590fe5",
     "releaseDate": "2021-03-05",
+    "tags": [
+      "Hip-Hop"
+    ],
     "title": "Весну",
     "totalTracks": 4,
     "type": "single",
@@ -198,6 +257,9 @@
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27375a45c380b0bb836ff8b02e2",
     "releaseDate": "2013-09-28",
+    "tags": [
+      "electronic"
+    ],
     "title": "Bygone",
     "totalTracks": 11,
     "type": "album",
@@ -216,6 +278,9 @@
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d8c501a6d39e911b727c79a4",
     "releaseDate": "2014-09-14",
+    "tags": [
+      "electronic"
+    ],
     "title": "Bygone (New Version)",
     "totalTracks": 14,
     "type": "album",

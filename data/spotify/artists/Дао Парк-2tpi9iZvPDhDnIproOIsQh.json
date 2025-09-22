@@ -12,6 +12,11 @@
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c912b9630c07eeb92f074412",
     "releaseDate": "2020-06-01",
+    "tags": [
+      "pop",
+      "funk",
+      "Neo-Soul"
+    ],
     "title": "Подорож",
     "totalTracks": 10,
     "type": "album",
@@ -30,6 +35,11 @@
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739d1be1c4d19c44a500d433b3",
     "releaseDate": "2018-07-03",
+    "tags": [
+      "pop",
+      "funk",
+      "Neo-Soul"
+    ],
     "title": "Буду такою",
     "totalTracks": 1,
     "type": "single",
@@ -48,6 +58,11 @@
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27395e29b0632a87a27c8d1eee3",
     "releaseDate": "2017-12-01",
+    "tags": [
+      "pop",
+      "funk",
+      "Neo-Soul"
+    ],
     "title": "Не згорає",
     "totalTracks": 5,
     "type": "single",
@@ -66,6 +81,11 @@
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736f83d1d172529291295e4634",
     "releaseDate": "2017-02-01",
+    "tags": [
+      "pop",
+      "funk",
+      "Neo-Soul"
+    ],
     "title": "Дао Парк",
     "totalTracks": 4,
     "type": "single",

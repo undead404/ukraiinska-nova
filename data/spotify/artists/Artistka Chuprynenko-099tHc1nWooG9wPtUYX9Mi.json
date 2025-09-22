@@ -13,6 +13,9 @@
     "artistsPopularity": 20,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f8806280cd3b1ed011dc355e",
     "releaseDate": "2025-04-25",
+    "tags": [
+      "dark folk"
+    ],
     "title": "Міріам",
     "totalTracks": 1,
     "type": "single",
@@ -31,6 +34,9 @@
     "artistsPopularity": 20,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a0221de04a6d51468610a196",
     "releaseDate": "2025-03-14",
+    "tags": [
+      "dark folk"
+    ],
     "title": "Дощ",
     "totalTracks": 1,
     "type": "single",
@@ -49,6 +55,9 @@
     "artistsPopularity": 20,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c1ce0ba5c37876d850168a17",
     "releaseDate": "2024-10-04",
+    "tags": [
+      "dark folk"
+    ],
     "title": "Пил",
     "totalTracks": 1,
     "type": "single",
@@ -67,6 +76,9 @@
     "artistsPopularity": 20,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731c3714219a2b1374c5f32d5d",
     "releaseDate": "2024-03-11",
+    "tags": [
+      "dark folk"
+    ],
     "title": "Степ",
     "totalTracks": 1,
     "type": "single",
@@ -85,6 +97,9 @@
     "artistsPopularity": 20,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273af87e764f598a515376ea05a",
     "releaseDate": "2023-05-16",
+    "tags": [
+      "dark folk"
+    ],
     "title": "пісня",
     "totalTracks": 1,
     "type": "single",
@@ -103,6 +118,9 @@
     "artistsPopularity": 20,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273104caed988610872cfe5d4d1",
     "releaseDate": "2023-05-13",
+    "tags": [
+      "dark folk"
+    ],
     "title": "Нравишся",
     "totalTracks": 1,
     "type": "single",
@@ -121,6 +139,9 @@
     "artistsPopularity": 20,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bfc2202bfb3d8841a0b5877b",
     "releaseDate": "2022-08-01",
+    "tags": [
+      "dark folk"
+    ],
     "title": "Серце (Acoustic)",
     "totalTracks": 1,
     "type": "single",
@@ -139,6 +160,9 @@
     "artistsPopularity": 20,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b0d570e5899c6f7a22488736",
     "releaseDate": "2022-03-31",
+    "tags": [
+      "dark folk"
+    ],
     "title": "Легко",
     "totalTracks": 1,
     "type": "single",
@@ -157,6 +181,10 @@
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733c700e9248bd4c6c9bf6bfb4",
     "releaseDate": "2023-10-13",
+    "tags": [
+      "folk",
+      "folk pop"
+    ],
     "title": "ГУРМА",
     "totalTracks": 16,
     "type": "album",

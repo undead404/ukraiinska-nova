@@ -12,6 +12,10 @@
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734d9d73620e627ec4f59e55d0",
     "releaseDate": "2010-02-16",
+    "tags": [
+      "female vocalists",
+      "hard rock"
+    ],
     "title": "Про тебе…",
     "totalTracks": 10,
     "type": "album",
@@ -30,6 +34,10 @@
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fae7e0e220aaeeecf77589f3",
     "releaseDate": "2006-12-17",
+    "tags": [
+      "female vocalists",
+      "hard rock"
+    ],
     "title": "Зайві слова",
     "totalTracks": 14,
     "type": "album",
@@ -48,6 +56,10 @@
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ea002095b74955a9b01dd9d8",
     "releaseDate": "2024-10-04",
+    "tags": [
+      "female vocalists",
+      "hard rock"
+    ],
     "title": "Sempre na Luta",
     "totalTracks": 1,
     "type": "single",
@@ -66,6 +78,7 @@
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c00d512c79fbe87d7fed684d",
     "releaseDate": "2013-12-01",
+    "tags": [],
     "title": "Quimikoz 1.0",
     "totalTracks": 9,
     "type": "album",
@@ -84,6 +97,7 @@
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c30b0b4430589b23402da025",
     "releaseDate": "2025-05-21",
+    "tags": [],
     "title": "Por do Sol",
     "totalTracks": 1,
     "type": "single",

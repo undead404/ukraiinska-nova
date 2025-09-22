@@ -13,6 +13,12 @@
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27343361cdc3eba66b5f8b0c210",
     "releaseDate": "2023-08-24",
+    "tags": [
+      "pop",
+      "folktronica",
+      "folk",
+      "electronic"
+    ],
     "title": "Vorozhyla",
     "totalTracks": 1,
     "type": "single",
@@ -33,6 +39,10 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27325f7f8caa86b1e9a51f0d875",
     "releaseDate": "2021-07-13",
+    "tags": [
+      "pop",
+      "Female fronted metal"
+    ],
     "title": "Play/Rec",
     "totalTracks": 3,
     "type": "single",
@@ -53,6 +63,10 @@
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369266321acbfaef58f3f9af7",
     "releaseDate": "2019-11-01",
+    "tags": [
+      "pop",
+      "Female fronted metal"
+    ],
     "title": "Svit Song",
     "totalTracks": 1,
     "type": "single",
@@ -73,6 +87,13 @@
     "artistsPopularity": 60,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a9e01202aebf85912bba1d59",
     "releaseDate": "2024-09-06",
+    "tags": [
+      "Melodic House",
+      "folktronica",
+      "folk",
+      "House",
+      "electronic"
+    ],
     "title": "Vorozhyla",
     "totalTracks": 1,
     "type": "single",
@@ -91,6 +112,7 @@
     "artistsPopularity": 31,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273505d680dcab77237f0bf1bcf",
     "releaseDate": "2025-08-22",
+    "tags": [],
     "title": "КЕМП 2.0",
     "totalTracks": 19,
     "type": "album",
@@ -109,6 +131,7 @@
     "artistsPopularity": 20,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273940d99c9875bead9288addc0",
     "releaseDate": "2025-09-05",
+    "tags": [],
     "title": "Альбом Памʼяті",
     "totalTracks": 17,
     "type": "album",
@@ -127,6 +150,7 @@
     "artistsPopularity": 12,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735f818e09f98bb3ac392a8b83",
     "releaseDate": "2021-12-10",
+    "tags": [],
     "title": "111111111111111111111111111111",
     "totalTracks": 6,
     "type": "single",
@@ -145,6 +169,9 @@
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273768e02559765afba4af04cc3",
     "releaseDate": "2022-09-16",
+    "tags": [
+      "trip-hop"
+    ],
     "title": "Змістовно Різні",
     "totalTracks": 9,
     "type": "album",

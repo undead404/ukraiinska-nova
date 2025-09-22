@@ -12,6 +12,10 @@
     "artistsPopularity": 22,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27327be351d1d70989346b25d50",
     "releaseDate": "1997-10-05",
+    "tags": [
+      "techno",
+      "eurodance"
+    ],
     "title": "Без контролю",
     "totalTracks": 11,
     "type": "album",
@@ -30,6 +34,10 @@
     "artistsPopularity": 22,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273269433173b395108151d0d5f",
     "releaseDate": "1996-10-05",
+    "tags": [
+      "techno",
+      "eurodance"
+    ],
     "title": "Зоряні війни",
     "totalTracks": 9,
     "type": "album",
@@ -49,6 +57,14 @@
     "artistsPopularity": 37,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737b46999c3dd6489d775d80d9",
     "releaseDate": "2023-06-06",
+    "tags": [
+      "techno",
+      "chillout",
+      "House",
+      "dance",
+      "electronic",
+      "eurodance"
+    ],
     "title": "Двоє (Maver Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -67,6 +83,10 @@
     "artistsPopularity": 22,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27386a0f32cfff668c321ec584b",
     "releaseDate": "2020-10-07",
+    "tags": [
+      "techno",
+      "eurodance"
+    ],
     "title": "Невидане",
     "totalTracks": 4,
     "type": "single",

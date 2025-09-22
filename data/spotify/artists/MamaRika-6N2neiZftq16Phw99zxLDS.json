@@ -12,6 +12,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d97a493dfd5d0dc1a531216d",
     "releaseDate": "2017-10-07",
+    "tags": [
+      "pop"
+    ],
     "title": "Кач",
     "totalTracks": 11,
     "type": "album",
@@ -30,6 +33,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ead558dd32b0142ba3fc78bf",
     "releaseDate": "2025-08-13",
+    "tags": [
+      "pop"
+    ],
     "title": "Одне питання",
     "totalTracks": 1,
     "type": "single",
@@ -49,6 +55,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739aba675b61208e582f662ef2",
     "releaseDate": "2025-04-28",
+    "tags": [
+      "pop"
+    ],
     "title": "ПІДСНІЖНИК",
     "totalTracks": 1,
     "type": "single",
@@ -67,6 +76,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27396eeeaea1829de6f791f5834",
     "releaseDate": "2025-03-30",
+    "tags": [
+      "pop"
+    ],
     "title": "ЗВ'ЯЗОК",
     "totalTracks": 1,
     "type": "single",
@@ -85,6 +97,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27366803977b71f8facf077bc06",
     "releaseDate": "2025-02-27",
+    "tags": [
+      "pop"
+    ],
     "title": "МАМИТАТИ",
     "totalTracks": 1,
     "type": "single",
@@ -103,6 +118,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bbe88c4dd050f4daf19d646e",
     "releaseDate": "2025-01-02",
+    "tags": [
+      "pop"
+    ],
     "title": "КОЛИШНЯ",
     "totalTracks": 1,
     "type": "single",
@@ -121,6 +139,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273052182231a51a3943e2f0b42",
     "releaseDate": "2024-11-14",
+    "tags": [
+      "pop"
+    ],
     "title": "НЕ ЙДИ",
     "totalTracks": 1,
     "type": "single",
@@ -139,6 +160,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27336ac740b51abddd23836cd1e",
     "releaseDate": "2024-10-29",
+    "tags": [
+      "pop"
+    ],
     "title": "Maemo (Sedoy Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -157,6 +181,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27303ef4245e46819b381ab06e2",
     "releaseDate": "2024-09-11",
+    "tags": [
+      "pop"
+    ],
     "title": "КАЖАНИ",
     "totalTracks": 1,
     "type": "single",
@@ -176,6 +203,11 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273374552cd1ec7130fd687fb92",
     "releaseDate": "2024-07-15",
+    "tags": [
+      "pop",
+      "chillout",
+      "ambient"
+    ],
     "title": "Шепоче дощ",
     "totalTracks": 1,
     "type": "single",
@@ -195,6 +227,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733af649ded316b11f6921b1dc",
     "releaseDate": "2024-04-11",
+    "tags": [
+      "pop"
+    ],
     "title": "Мріяла",
     "totalTracks": 1,
     "type": "single",
@@ -213,6 +248,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273737d80f2b3affa3c1c6a5fdf",
     "releaseDate": "2024-04-04",
+    "tags": [
+      "pop"
+    ],
     "title": "Хтось йде",
     "totalTracks": 1,
     "type": "single",
@@ -231,6 +269,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a98481c9002ac90525e2bd0a",
     "releaseDate": "2024-01-25",
+    "tags": [
+      "pop"
+    ],
     "title": "Замело",
     "totalTracks": 1,
     "type": "single",
@@ -250,6 +291,10 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731e14bf7f04a86b4ec72ba0b1",
     "releaseDate": "2023-10-05",
+    "tags": [
+      "pop",
+      "dream pop"
+    ],
     "title": "Достатньо",
     "totalTracks": 1,
     "type": "single",
@@ -268,6 +313,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733c7d8ed263351ad2a4eca6b3",
     "releaseDate": "2023-08-10",
+    "tags": [
+      "pop"
+    ],
     "title": "Останній день",
     "totalTracks": 1,
     "type": "single",
@@ -286,6 +334,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736a9aeb6460c9c3b01d5c7996",
     "releaseDate": "2023-06-14",
+    "tags": [
+      "pop"
+    ],
     "title": "Серце",
     "totalTracks": 1,
     "type": "single",
@@ -304,6 +355,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d4058bb500a42fe55c186c16",
     "releaseDate": "2023-05-11",
+    "tags": [
+      "pop"
+    ],
     "title": "Сльози і Пісні",
     "totalTracks": 1,
     "type": "single",
@@ -323,6 +377,9 @@
     "artistsPopularity": 51,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27328cdfcee43d8619accc0c2b5",
     "releaseDate": "2023-02-16",
+    "tags": [
+      "pop"
+    ],
     "title": "Люди",
     "totalTracks": 1,
     "type": "single",
@@ -341,6 +398,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27343cb5ba9b2e9b33201bc97e3",
     "releaseDate": "2022-12-09",
+    "tags": [
+      "pop"
+    ],
     "title": "Зоря",
     "totalTracks": 1,
     "type": "single",
@@ -359,6 +419,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734e23c79ead95b743aba6dfc4",
     "releaseDate": "2022-11-10",
+    "tags": [
+      "pop"
+    ],
     "title": "Лелека",
     "totalTracks": 1,
     "type": "single",
@@ -377,6 +440,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27398d9c9b681644414ea77deec",
     "releaseDate": "2022-10-06",
+    "tags": [
+      "pop"
+    ],
     "title": "Щастя",
     "totalTracks": 1,
     "type": "single",
@@ -395,6 +461,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273827248b3f90a95f99d52f6cb",
     "releaseDate": "2022-07-06",
+    "tags": [
+      "pop"
+    ],
     "title": "Як ти там живеш",
     "totalTracks": 1,
     "type": "single",
@@ -413,6 +482,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f894084dc26475916be85ac",
     "releaseDate": "2022-05-04",
+    "tags": [
+      "pop"
+    ],
     "title": "Сину",
     "totalTracks": 1,
     "type": "single",
@@ -431,6 +503,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27324573e9ee06101dd122ecf52",
     "releaseDate": "2022-02-03",
+    "tags": [
+      "pop"
+    ],
     "title": "На руках",
     "totalTracks": 1,
     "type": "single",
@@ -451,6 +526,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27343f9c6bbb78dff985446e079",
     "releaseDate": "2021-09-05",
+    "tags": [
+      "pop"
+    ],
     "title": "Дурненька (Shnaps & Sanya Dymov Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -469,6 +547,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f0ca164a6146ae23ea09dd57",
     "releaseDate": "2021-09-05",
+    "tags": [
+      "pop"
+    ],
     "title": "Дурненька",
     "totalTracks": 1,
     "type": "single",
@@ -488,6 +569,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c54d890e0b28003ea93b4699",
     "releaseDate": "2021-08-12",
+    "tags": [
+      "pop"
+    ],
     "title": "Kava (Shnaps Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -506,6 +590,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d54e55e67ee850c2ba9013c9",
     "releaseDate": "2021-06-24",
+    "tags": [
+      "pop"
+    ],
     "title": "Kava",
     "totalTracks": 1,
     "type": "single",
@@ -525,6 +612,10 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27330d951ff187ee7794ef2036f",
     "releaseDate": "2021-04-02",
+    "tags": [
+      "Hip-Hop",
+      "pop"
+    ],
     "title": "Серце стукає стукає стукає",
     "totalTracks": 1,
     "type": "single",
@@ -543,6 +634,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f78e285a1ec2f3c863bebf7f",
     "releaseDate": "2020-10-27",
+    "tags": [
+      "pop"
+    ],
     "title": "Mavka",
     "totalTracks": 1,
     "type": "single",
@@ -561,6 +655,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273913a221251dd4514c9414f28",
     "releaseDate": "2020-09-29",
+    "tags": [
+      "pop"
+    ],
     "title": "Скажене дівчисько",
     "totalTracks": 1,
     "type": "single",
@@ -581,6 +678,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734ed367fc969a113a0d8c5f9b",
     "releaseDate": "2020-04-05",
+    "tags": [
+      "pop"
+    ],
     "title": "Maemo (Shnaps & Sanya Dymov Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -599,6 +699,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d4cf7cb4cd0fa12ab957655d",
     "releaseDate": "2020-03-13",
+    "tags": [
+      "pop"
+    ],
     "title": "Maemo",
     "totalTracks": 1,
     "type": "single",
@@ -617,6 +720,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c319b17367f55b64ab269b8b",
     "releaseDate": "2019-09-19",
+    "tags": [
+      "pop"
+    ],
     "title": "Я полум'я",
     "totalTracks": 1,
     "type": "single",
@@ -635,6 +741,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab06338321ff5183493b4810",
     "releaseDate": "2019-07-18",
+    "tags": [
+      "pop"
+    ],
     "title": "Prolisky (Summer Mix)",
     "totalTracks": 1,
     "type": "single",
@@ -653,6 +762,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273033a0d62018392e0afec415d",
     "releaseDate": "2019-03-05",
+    "tags": [
+      "pop"
+    ],
     "title": "Prolisky",
     "totalTracks": 1,
     "type": "single",
@@ -671,6 +783,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730c8dcb28d5f422aab4feb88e",
     "releaseDate": "2019-01-18",
+    "tags": [
+      "pop"
+    ],
     "title": "Дай нам Боже",
     "totalTracks": 1,
     "type": "single",
@@ -690,6 +805,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c301673c6e9a17d266791d24",
     "releaseDate": "2018-11-15",
+    "tags": [
+      "pop"
+    ],
     "title": "Зайві (CbIP Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -708,6 +826,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369c6f97f04bb9a410ea27c69",
     "releaseDate": "2018-10-26",
+    "tags": [
+      "pop"
+    ],
     "title": "Зайві",
     "totalTracks": 1,
     "type": "single",
@@ -727,6 +848,11 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736bc225596bd250a1a075434c",
     "releaseDate": "2018-06-27",
+    "tags": [
+      "pop",
+      "electronic",
+      "idm"
+    ],
     "title": "Fayno (Summer Edit)",
     "totalTracks": 1,
     "type": "single",
@@ -745,6 +871,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f35b7c8b0cf70c7ef280a113",
     "releaseDate": "2018-06-27",
+    "tags": [
+      "pop"
+    ],
     "title": "Fayno",
     "totalTracks": 1,
     "type": "single",
@@ -764,6 +893,12 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f479aad62e5d453aa8daa020",
     "releaseDate": "2018-05-25",
+    "tags": [
+      "pop",
+      "hardcore",
+      "blues",
+      "electronic"
+    ],
     "title": "ХХДД (Roland Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -782,6 +917,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27370310c347c30527e5bf018f2",
     "releaseDate": "2018-05-09",
+    "tags": [
+      "pop"
+    ],
     "title": "ХХДД (Acoustic Version) [Live]",
     "totalTracks": 1,
     "type": "single",
@@ -801,6 +939,10 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c60ea96c6dd0d3f02dc65fc3",
     "releaseDate": "2018-04-24",
+    "tags": [
+      "pop",
+      "electromusic"
+    ],
     "title": "ХХДД (Gidro Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -819,6 +961,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735cf2461444ac8d52f6fb7c52",
     "releaseDate": "2017-10-25",
+    "tags": [
+      "pop"
+    ],
     "title": "ХХДД",
     "totalTracks": 1,
     "type": "single",
@@ -839,6 +984,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273127dc7e81935a66d71c444b1",
     "releaseDate": "2017-08-18",
+    "tags": [
+      "pop"
+    ],
     "title": "Ти і я (IPunkz & Gonibez Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -858,6 +1006,10 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27301d64115b94d83ad9afeadb4",
     "releaseDate": "2017-06-27",
+    "tags": [
+      "pop",
+      "House"
+    ],
     "title": "Кач (Dj Jedy Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -876,6 +1028,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f93dfc9de2ec085ca4f00d3d",
     "releaseDate": "2017-05-31",
+    "tags": [
+      "pop"
+    ],
     "title": "Ти і я",
     "totalTracks": 1,
     "type": "single",
@@ -894,6 +1049,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ef689796da8def2770e6d6d3",
     "releaseDate": "2017-04-27",
+    "tags": [
+      "pop"
+    ],
     "title": "Кач",
     "totalTracks": 1,
     "type": "single",
@@ -912,6 +1070,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b646f85f9a31ca8cf474013c",
     "releaseDate": "2017-02-01",
+    "tags": [
+      "pop"
+    ],
     "title": "We Are One",
     "totalTracks": 1,
     "type": "single",
@@ -930,6 +1091,9 @@
     "artistsPopularity": 50,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27329dc94569e3a98b23acd6a55",
     "releaseDate": "2016-07-08",
+    "tags": [
+      "pop"
+    ],
     "title": "Мама Ріка",
     "totalTracks": 5,
     "type": "single",
