@@ -12,6 +12,10 @@
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733b59d007980c0bd2750489aa",
     "releaseDate": "2024-05-21",
+    "tags": [
+      "ska",
+      "folk"
+    ],
     "title": "Навіки!",
     "totalTracks": 13,
     "type": "album",
@@ -30,6 +34,7 @@
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27330c433f3dc3e7f9c57d47273",
     "releaseDate": "2024-09-13",
+    "tags": [],
     "title": "Цікавить воскресіння!",
     "totalTracks": 7,
     "type": "album",
@@ -48,6 +53,7 @@
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27348e44dba67e5d364cee2c58a",
     "releaseDate": "2024-08-11",
+    "tags": [],
     "title": "Франківське танго",
     "totalTracks": 7,
     "type": "album",

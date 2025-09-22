@@ -14,6 +14,11 @@
     "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739541432f242e4acce8de9f1c",
     "releaseDate": "2025-08-28",
+    "tags": [
+      "pop",
+      "folk pop",
+      "indie folk"
+    ],
     "title": "Черкаський ліс",
     "totalTracks": 1,
     "type": "single",
@@ -32,6 +37,11 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739f17931614ba8f252f3277ba",
     "releaseDate": "2025-06-19",
+    "tags": [
+      "pop",
+      "folk pop",
+      "indie folk"
+    ],
     "title": "Кіловати",
     "totalTracks": 1,
     "type": "single",
@@ -52,6 +62,12 @@
     "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273383f06c77a3e66a48c4b0501",
     "releaseDate": "2025-04-11",
+    "tags": [
+      "pop",
+      "Mytro",
+      "folk pop",
+      "indie folk"
+    ],
     "title": "Відпускай",
     "totalTracks": 1,
     "type": "single",
@@ -70,6 +86,11 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a2190914f8f5d32ca21c5961",
     "releaseDate": "2025-03-21",
+    "tags": [
+      "pop",
+      "folk pop",
+      "indie folk"
+    ],
     "title": "Випадкові",
     "totalTracks": 3,
     "type": "single",
@@ -88,6 +109,11 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ffafe07d04b107398d4a16fc",
     "releaseDate": "2025-01-14",
+    "tags": [
+      "pop",
+      "folk pop",
+      "indie folk"
+    ],
     "title": "Живи",
     "totalTracks": 1,
     "type": "single",
@@ -106,6 +132,11 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738008d87347dde87f404bc793",
     "releaseDate": "2024-12-04",
+    "tags": [
+      "pop",
+      "folk pop",
+      "indie folk"
+    ],
     "title": "Точка перетину",
     "totalTracks": 1,
     "type": "single",
@@ -125,6 +156,11 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d33690c1f48efec9cbe99883",
     "releaseDate": "2024-08-28",
+    "tags": [
+      "pop",
+      "folk pop",
+      "indie folk"
+    ],
     "title": "Єдине, що вічне",
     "totalTracks": 1,
     "type": "single",
@@ -143,6 +179,7 @@
     "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273505d680dcab77237f0bf1bcf",
     "releaseDate": "2025-08-22",
+    "tags": [],
     "title": "КЕМП 2.0",
     "totalTracks": 19,
     "type": "album",
@@ -161,6 +198,7 @@
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737d71f265adca005d897dcaa5",
     "releaseDate": "2025-09-05",
+    "tags": [],
     "title": "Сяйво Останніх Вуглин",
     "totalTracks": 10,
     "type": "album",
@@ -179,6 +217,7 @@
     "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d3da92deb5681ed4058401ea",
     "releaseDate": "2025-04-11",
+    "tags": [],
     "title": "За її лаштунками, Vol.1",
     "totalTracks": 5,
     "type": "single",
@@ -197,6 +236,7 @@
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a1c5ff5d6b802be1ba6ca882",
     "releaseDate": "2025-06-27",
+    "tags": [],
     "title": "Шкереберть",
     "totalTracks": 1,
     "type": "single",

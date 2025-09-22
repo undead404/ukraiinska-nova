@@ -6,10 +6,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Володимир Івасюк"],
+    "artists": [
+      "Володимир Івасюк"
+    ],
     "artistsPopularity": 26,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737347b98ff5be686dff84649c",
     "releaseDate": "2025-09-01",
+    "tags": [
+      "pop"
+    ],
     "title": "Балада про дві скрипки",
     "totalTracks": 1,
     "type": "single",
@@ -22,10 +27,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Володимир Івасюк"],
+    "artists": [
+      "Володимир Івасюк"
+    ],
     "artistsPopularity": 26,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731604f6ab624d6f13f63e66f9",
     "releaseDate": "2025-06-26",
+    "tags": [
+      "pop"
+    ],
     "title": "Водограй",
     "totalTracks": 1,
     "type": "single",
@@ -38,10 +48,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Володимир Івасюк"],
+    "artists": [
+      "Володимир Івасюк"
+    ],
     "artistsPopularity": 26,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27338060dbaaa8e53f02a1480b0",
     "releaseDate": "2025-05-21",
+    "tags": [
+      "pop"
+    ],
     "title": "Балада про мальви",
     "totalTracks": 1,
     "type": "single",
@@ -54,10 +69,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Володимир Івасюк"],
+    "artists": [
+      "Володимир Івасюк"
+    ],
     "artistsPopularity": 26,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735b71f830279b6772a4bbcb44",
     "releaseDate": "2025-03-24",
+    "tags": [
+      "pop"
+    ],
     "title": "Пісня буде поміж нас (Live)",
     "totalTracks": 1,
     "type": "single",
@@ -70,10 +90,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Володимир Івасюк"],
+    "artists": [
+      "Володимир Івасюк"
+    ],
     "artistsPopularity": 26,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ff2f13a94bb2cf9cbd7c76d2",
     "releaseDate": "2025-02-17",
+    "tags": [
+      "pop"
+    ],
     "title": "Я піду в далекі гори",
     "totalTracks": 1,
     "type": "single",
@@ -86,10 +111,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Володимир Івасюк"],
+    "artists": [
+      "Володимир Івасюк"
+    ],
     "artistsPopularity": 26,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fd8a9c76859ab9396275d969",
     "releaseDate": "2024-12-12",
+    "tags": [
+      "pop"
+    ],
     "title": "Червона рута",
     "totalTracks": 1,
     "type": "single",

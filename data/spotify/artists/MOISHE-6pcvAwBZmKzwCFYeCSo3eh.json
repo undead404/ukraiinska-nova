@@ -12,6 +12,7 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731015cb567c18a9796c026517",
     "releaseDate": "2025-07-23",
+    "tags": [],
     "title": "Лише",
     "totalTracks": 1,
     "type": "single",
@@ -31,6 +32,9 @@
     "artistsPopularity": 35,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730d4f7e8a37da7bdf4252df0f",
     "releaseDate": "2025-09-19",
+    "tags": [
+      "indie pop"
+    ],
     "title": "Нелюбов",
     "totalTracks": 1,
     "type": "single",

@@ -6,10 +6,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Джозерс"],
+    "artists": [
+      "Джозерс"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731420b62973f5391a3014fc28",
     "releaseDate": "2024-06-07",
+    "tags": [
+      "indie pop"
+    ],
     "title": "Прокляття двадцятих",
     "totalTracks": 7,
     "type": "album",
@@ -22,10 +27,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Джозерс"],
+    "artists": [
+      "Джозерс"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736b4b6df600af8410f96be30c",
     "releaseDate": "2023-05-31",
+    "tags": [
+      "indie pop"
+    ],
     "title": "Абсолютна брехня",
     "totalTracks": 9,
     "type": "album",
@@ -38,10 +48,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Джозерс"],
+    "artists": [
+      "Джозерс"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a851a02ed5aab6e8ebb14b81",
     "releaseDate": "2023-04-28",
+    "tags": [
+      "indie pop"
+    ],
     "title": "Ускладнений машинний біт",
     "totalTracks": 15,
     "type": "album",
@@ -54,10 +69,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Джозерс"],
+    "artists": [
+      "Джозерс"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27380a469ce1900989637ce260a",
     "releaseDate": "2020-11-20",
+    "tags": [
+      "indie pop"
+    ],
     "title": "Післямова",
     "totalTracks": 12,
     "type": "album",
@@ -70,10 +90,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Джозерс"],
+    "artists": [
+      "Джозерс"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734cd1d0c5d95e292b7e3a334e",
     "releaseDate": "2025-09-12",
+    "tags": [
+      "indie pop"
+    ],
     "title": "Останнє прощавай II",
     "totalTracks": 2,
     "type": "single",
@@ -86,10 +111,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Джозерс"],
+    "artists": [
+      "Джозерс"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ae318fb3c52738871d2b2244",
     "releaseDate": "2024-09-27",
+    "tags": [
+      "indie pop"
+    ],
     "title": "Як ми колись",
     "totalTracks": 1,
     "type": "single",
@@ -102,10 +132,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Джозерс", "Козачок"],
+    "artists": [
+      "Джозерс",
+      "Козачок"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b776318f4cd48363b2a56724",
     "releaseDate": "2024-03-01",
+    "tags": [
+      "indie pop",
+      "rap",
+      "hip hop"
+    ],
     "title": "Читати реп",
     "totalTracks": 1,
     "type": "single",
@@ -118,10 +156,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Джозерс", "Люсі"],
+    "artists": [
+      "Джозерс",
+      "Люсі"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c4282965749529da54dc4326",
     "releaseDate": "2024-02-09",
+    "tags": [
+      "indie pop",
+      "synthpop"
+    ],
     "title": "СННС",
     "totalTracks": 1,
     "type": "single",
@@ -134,10 +179,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Джозерс", "паліндром"],
+    "artists": [
+      "Джозерс",
+      "паліндром"
+    ],
     "artistsPopularity": 37,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a2fe4d7447db1d04d53acd68",
     "releaseDate": "2023-12-15",
+    "tags": [
+      "indie pop",
+      "synthpop",
+      "dream pop"
+    ],
     "title": "Таблетки",
     "totalTracks": 1,
     "type": "single",
@@ -150,10 +203,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Джозерс", "Джон Дір"],
+    "artists": [
+      "Джозерс",
+      "Джон Дір"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736fbe3107a9e9aed2f2d5dfa1",
     "releaseDate": "2023-11-17",
+    "tags": [
+      "indie pop",
+      "hip hop",
+      "rap"
+    ],
     "title": "Епілог для двох",
     "totalTracks": 1,
     "type": "single",
@@ -166,10 +227,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Джозерс"],
+    "artists": [
+      "Джозерс"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732041aa9089ea8647d1b314f5",
     "releaseDate": "2023-09-08",
+    "tags": [
+      "indie pop"
+    ],
     "title": "Контроль",
     "totalTracks": 1,
     "type": "single",
@@ -182,10 +248,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Джозерс"],
+    "artists": [
+      "Джозерс"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d42078e705595abdb5d03793",
     "releaseDate": "2023-05-19",
+    "tags": [
+      "indie pop"
+    ],
     "title": "Смерть",
     "totalTracks": 2,
     "type": "single",
@@ -198,10 +269,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Джозерс"],
+    "artists": [
+      "Джозерс"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ea4e6ef8289760041eb594bd",
     "releaseDate": "2023-05-10",
+    "tags": [
+      "indie pop"
+    ],
     "title": "Зів'яле листя",
     "totalTracks": 3,
     "type": "single",
@@ -214,10 +290,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Джозерс"],
+    "artists": [
+      "Джозерс"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27308dab01d3d00da7efe97d217",
     "releaseDate": "2023-04-14",
+    "tags": [
+      "indie pop"
+    ],
     "title": "Любов",
     "totalTracks": 4,
     "type": "single",
@@ -230,10 +311,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Джозерс"],
+    "artists": [
+      "Джозерс"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27327df50371b8141f2bc7c3a44",
     "releaseDate": "2023-04-05",
+    "tags": [
+      "indie pop"
+    ],
     "title": "Хоча би ще раз",
     "totalTracks": 1,
     "type": "single",
@@ -246,10 +332,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Джозерс", "sportcafé"],
+    "artists": [
+      "Джозерс",
+      "sportcafé"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731aeb3bb76fd9ac9d15996184",
     "releaseDate": "2022-12-21",
+    "tags": [
+      "indie pop",
+      "new wave"
+    ],
     "title": "Поки ти чекаєш чудеса",
     "totalTracks": 1,
     "type": "single",
@@ -262,10 +355,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Джозерс"],
+    "artists": [
+      "Джозерс"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b8edfdc0bd0a6aad0072ce2c",
     "releaseDate": "2022-11-23",
+    "tags": [
+      "indie pop"
+    ],
     "title": "Примара",
     "totalTracks": 2,
     "type": "single",
@@ -278,10 +376,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Джозерс", "SadSvit", "Sad Novelist"],
+    "artists": [
+      "Джозерс",
+      "SadSvit",
+      "Sad Novelist"
+    ],
     "artistsPopularity": 56,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732855a6f7c7e469791bf5e2a3",
     "releaseDate": "2022-09-21",
+    "tags": [
+      "indie pop",
+      "post-punk"
+    ],
     "title": "Додому (Xenjes Remix)",
     "totalTracks": 2,
     "type": "single",
@@ -294,10 +400,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Джозерс", "kvitla"],
+    "artists": [
+      "Джозерс",
+      "kvitla"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27361e895e3cb9eb728a249b838",
     "releaseDate": "2022-08-10",
+    "tags": [
+      "indie pop"
+    ],
     "title": "Зеро",
     "totalTracks": 1,
     "type": "single",
@@ -310,10 +422,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Джозерс", "Ницо Потворно"],
+    "artists": [
+      "Джозерс",
+      "Ницо Потворно"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b749cf194102b512d8bb3449",
     "releaseDate": "2022-07-13",
+    "tags": [
+      "indie pop",
+      "hip hop"
+    ],
     "title": "Піф паф файє",
     "totalTracks": 1,
     "type": "single",
@@ -326,10 +445,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Джозерс", "SadSvit", "Sad Novelist"],
+    "artists": [
+      "Джозерс",
+      "SadSvit",
+      "Sad Novelist"
+    ],
     "artistsPopularity": 56,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738068db9a96341ffddfab8a47",
     "releaseDate": "2022-05-20",
+    "tags": [
+      "indie pop",
+      "post-punk"
+    ],
     "title": "Додому",
     "totalTracks": 1,
     "type": "single",
@@ -342,10 +469,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Джозерс"],
+    "artists": [
+      "Джозерс"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e63468cf74b7c37f1d0f1da3",
     "releaseDate": "2022-05-09",
+    "tags": [
+      "indie pop"
+    ],
     "title": "Бачити щось трохи далі долоні II",
     "totalTracks": 2,
     "type": "single",
@@ -358,10 +490,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Джозерс"],
+    "artists": [
+      "Джозерс"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735b6bc540289efad59fff3f21",
     "releaseDate": "2022-03-31",
+    "tags": [
+      "indie pop"
+    ],
     "title": "Нехай усе згорить",
     "totalTracks": 1,
     "type": "single",
@@ -374,10 +511,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Джозерс"],
+    "artists": [
+      "Джозерс"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b861f4a7e85afcec193ba6bf",
     "releaseDate": "2022-02-09",
+    "tags": [
+      "indie pop"
+    ],
     "title": "Це дурня, а не любов",
     "totalTracks": 1,
     "type": "single",
@@ -390,10 +532,19 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Джозерс", "drimandr"],
+    "artists": [
+      "Джозерс",
+      "drimandr"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fcada86c89d8e0a0d4141123",
     "releaseDate": "2021-12-17",
+    "tags": [
+      "indie pop",
+      "post-punk",
+      "Lo-Fi",
+      "bedroom pop"
+    ],
     "title": "Мінус",
     "totalTracks": 1,
     "type": "single",
@@ -406,10 +557,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Джозерс"],
+    "artists": [
+      "Джозерс"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a65622d5046e31a574945aea",
     "releaseDate": "2021-10-27",
+    "tags": [
+      "indie pop"
+    ],
     "title": "Дурний",
     "totalTracks": 1,
     "type": "single",
@@ -422,10 +578,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Джозерс"],
+    "artists": [
+      "Джозерс"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735fadfc4c74174d535b21abe4",
     "releaseDate": "2020-10-16",
+    "tags": [
+      "indie pop"
+    ],
     "title": "Зайвий персонаж",
     "totalTracks": 1,
     "type": "single",
@@ -438,10 +599,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Джозерс"],
+    "artists": [
+      "Джозерс"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ee5e6b6b43c9d65f81865a93",
     "releaseDate": "2020-07-08",
+    "tags": [
+      "indie pop"
+    ],
     "title": "Останнє прощавай",
     "totalTracks": 1,
     "type": "single",
@@ -454,10 +620,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["The Nietzsche"],
+    "artists": [
+      "The Nietzsche"
+    ],
     "artistsPopularity": 8,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737ece254a2356dac5a02a4078",
     "releaseDate": "2023-11-17",
+    "tags": [
+      "mathcore"
+    ],
     "title": "Finals​.​: The Definitive Edition",
     "totalTracks": 25,
     "type": "album",
@@ -470,10 +641,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Юрій Бондарчук"],
+    "artists": [
+      "Юрій Бондарчук"
+    ],
     "artistsPopularity": 9,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731445a44e1a2d03531367b352",
     "releaseDate": "2019-06-14",
+    "tags": [
+      "rap"
+    ],
     "title": "Екзиль",
     "totalTracks": 8,
     "type": "album",
@@ -486,10 +662,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["77PID’YIZD"],
+    "artists": [
+      "77PID’YIZD"
+    ],
     "artistsPopularity": 6,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733eabc95ed55aebde793cc4c3",
     "releaseDate": "2020-10-24",
+    "tags": [
+      "new wave"
+    ],
     "title": "Нескінченний Сон",
     "totalTracks": 1,
     "type": "single",

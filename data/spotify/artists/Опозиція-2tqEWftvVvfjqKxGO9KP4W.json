@@ -12,6 +12,9 @@
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273743a5581b3d748f61cbfa065",
     "releaseDate": "2015-10-06",
+    "tags": [
+      "hardcore"
+    ],
     "title": "Один із тисяч",
     "totalTracks": 11,
     "type": "album",
@@ -30,6 +33,9 @@
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d81da033f6bd21765523b158",
     "releaseDate": "2015-09-28",
+    "tags": [
+      "hardcore"
+    ],
     "title": "Проти системи",
     "totalTracks": 10,
     "type": "album",

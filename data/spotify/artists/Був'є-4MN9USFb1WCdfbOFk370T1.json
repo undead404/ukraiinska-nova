@@ -6,10 +6,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Був'є"],
+    "artists": [
+      "Був'є"
+    ],
     "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733d345b130c960b756c4798d8",
     "releaseDate": "2022-10-21",
+    "tags": [
+      "rapcore",
+      "alternative rock"
+    ],
     "title": "12 пісень, якими БУВ‘Є наповнювався впродовж семи років",
     "totalTracks": 12,
     "type": "album",
@@ -22,10 +28,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Був'є"],
+    "artists": [
+      "Був'є"
+    ],
     "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aff275ca31d63d72e0422d43",
     "releaseDate": "2019-04-15",
+    "tags": [
+      "rapcore",
+      "alternative rock"
+    ],
     "title": "12 пісень, якими був‘є не хоче нікому нічого доводити",
     "totalTracks": 12,
     "type": "album",
@@ -38,10 +50,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Був'є"],
+    "artists": [
+      "Був'є"
+    ],
     "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738f9d285d0ebdcd30fa96756b",
     "releaseDate": "2017-07-19",
+    "tags": [
+      "rapcore",
+      "alternative rock"
+    ],
     "title": "12 пісень, якими був’є сповіщає про своє існування",
     "totalTracks": 12,
     "type": "album",
@@ -54,10 +72,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Олександр Положинський", "Був'є"],
+    "artists": [
+      "Олександр Положинський",
+      "Був'є"
+    ],
     "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ad1631875edebcee3fb5b309",
     "releaseDate": "2022-05-05",
+    "tags": [
+      "rock",
+      "rapcore",
+      "alternative rock"
+    ],
     "title": "Клаптики холодного вогню",
     "totalTracks": 1,
     "type": "single",
@@ -70,10 +96,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Олександр Положинський", "Був'є"],
+    "artists": [
+      "Олександр Положинський",
+      "Був'є"
+    ],
     "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27330288ff1d725e733833e0157",
     "releaseDate": "2022-01-25",
+    "tags": [
+      "rock",
+      "rapcore",
+      "alternative rock"
+    ],
     "title": "Моєї дискотеки треки",
     "totalTracks": 1,
     "type": "single",
@@ -86,10 +120,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Олександр Положинський", "Був'є"],
+    "artists": [
+      "Олександр Положинський",
+      "Був'є"
+    ],
     "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f4715aceb008d20cd316a1b8",
     "releaseDate": "2021-11-05",
+    "tags": [
+      "rock",
+      "rapcore",
+      "alternative rock"
+    ],
     "title": "Гасли ми",
     "totalTracks": 1,
     "type": "single",
@@ -102,10 +144,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Був'є"],
+    "artists": [
+      "Був'є"
+    ],
     "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273539e3aa2ae82fff500c5e329",
     "releaseDate": "2021-10-19",
+    "tags": [
+      "rapcore",
+      "alternative rock"
+    ],
     "title": "Хтось",
     "totalTracks": 1,
     "type": "single",
@@ -118,10 +166,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Був'є"],
+    "artists": [
+      "Був'є"
+    ],
     "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27333c3dc0c1a33fa3dd9fd7f84",
     "releaseDate": "2019-01-25",
+    "tags": [
+      "rapcore",
+      "alternative rock"
+    ],
     "title": "Ось тобі моя рука",
     "totalTracks": 1,
     "type": "single",
@@ -134,10 +188,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Був'є"],
+    "artists": [
+      "Був'є"
+    ],
     "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f27a1afbf0ac072f8a6d3a1d",
     "releaseDate": "2018-08-20",
+    "tags": [
+      "rapcore",
+      "alternative rock"
+    ],
     "title": "Легіон",
     "totalTracks": 1,
     "type": "single",
@@ -150,10 +210,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Був'є"],
+    "artists": [
+      "Був'є"
+    ],
     "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27354f98cf280c8b41549ddcbcc",
     "releaseDate": "2018-07-02",
+    "tags": [
+      "rapcore",
+      "alternative rock"
+    ],
     "title": "Сонечко шкварить",
     "totalTracks": 1,
     "type": "single",
@@ -166,10 +232,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Був'є"],
+    "artists": [
+      "Був'є"
+    ],
     "artistsPopularity": 30,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737edf25c2b4aca6426dc428a6",
     "releaseDate": "2017-07-21",
+    "tags": [
+      "rapcore",
+      "alternative rock"
+    ],
     "title": "Закохані (Жити OST)",
     "totalTracks": 2,
     "type": "single",

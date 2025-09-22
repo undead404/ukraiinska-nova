@@ -6,10 +6,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Гурт \"КУЛІ\""],
+    "artists": [
+      "Гурт \"КУЛІ\""
+    ],
     "artistsPopularity": 18,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273794b8a2f769e64d9d39698f1",
     "releaseDate": "2010",
+    "tags": [],
     "title": "ПОСВЯТА ВОЇНАМ АТО",
     "totalTracks": 14,
     "type": "album",
@@ -22,10 +25,19 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Гурт \"КУЛІ\"", "MAVER"],
+    "artists": [
+      "Гурт \"КУЛІ\"",
+      "MAVER"
+    ],
     "artistsPopularity": 37,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730fdc1f0b69fefa963746d0aa",
     "releaseDate": "2023-08-24",
+    "tags": [
+      "chillout",
+      "House",
+      "dance",
+      "electronic"
+    ],
     "title": "Слава Україні! (Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -38,10 +50,13 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Гурт \"КУЛІ\""],
+    "artists": [
+      "Гурт \"КУЛІ\""
+    ],
     "artistsPopularity": 18,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bb944e2722e575f6703a695a",
     "releaseDate": "2018",
+    "tags": [],
     "title": "Мамо не плач (Live Version)",
     "totalTracks": 1,
     "type": "single",

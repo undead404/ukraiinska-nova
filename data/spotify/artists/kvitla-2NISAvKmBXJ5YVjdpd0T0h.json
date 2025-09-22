@@ -13,6 +13,11 @@
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fb402d756d001bfdbc1dd163",
     "releaseDate": "2022-05-04",
+    "tags": [
+      "techno",
+      "ambient",
+      "idm"
+    ],
     "title": "Географія Особистості",
     "totalTracks": 9,
     "type": "album",
@@ -32,6 +37,9 @@
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27361e895e3cb9eb728a249b838",
     "releaseDate": "2022-08-10",
+    "tags": [
+      "indie pop"
+    ],
     "title": "Зеро",
     "totalTracks": 1,
     "type": "single",
@@ -51,6 +59,10 @@
     "artistsPopularity": 16,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273898061609618789b6696985a",
     "releaseDate": "2021-01-22",
+    "tags": [
+      "dubstep",
+      "electronic"
+    ],
     "title": "Znyknuty",
     "totalTracks": 1,
     "type": "single",
@@ -69,6 +81,7 @@
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732631b1d5677f0febab8e3dc7",
     "releaseDate": "2020-11-11",
+    "tags": [],
     "title": "Поки не скінчиться кисень",
     "totalTracks": 5,
     "type": "single",
@@ -87,6 +100,9 @@
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736b4b6df600af8410f96be30c",
     "releaseDate": "2023-05-31",
+    "tags": [
+      "indie pop"
+    ],
     "title": "Абсолютна брехня",
     "totalTracks": 9,
     "type": "album",
@@ -105,6 +121,9 @@
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ea4e6ef8289760041eb594bd",
     "releaseDate": "2023-05-10",
+    "tags": [
+      "indie pop"
+    ],
     "title": "Зів'яле листя",
     "totalTracks": 3,
     "type": "single",
@@ -123,6 +142,11 @@
     "artistsPopularity": 8,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736ad221180c8678008c9e358a",
     "releaseDate": "2021-01-07",
+    "tags": [
+      "techno",
+      "ambient",
+      "idm"
+    ],
     "title": "Коляда",
     "totalTracks": 1,
     "type": "single",
@@ -141,6 +165,7 @@
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273694303a882cbd31b49398983",
     "releaseDate": "2023-10-01",
+    "tags": [],
     "title": "любов",
     "totalTracks": 6,
     "type": "single",
@@ -159,6 +184,10 @@
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739c2e130333df50a8828cd6b7",
     "releaseDate": "2023-05-16",
+    "tags": [
+      "ambient",
+      "noise"
+    ],
     "title": "Harmonisation",
     "totalTracks": 27,
     "type": "album",
@@ -177,6 +206,11 @@
     "artistsPopularity": 8,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273734139f90533bb5b2aea4746",
     "releaseDate": "2020-07-01",
+    "tags": [
+      "techno",
+      "ambient",
+      "idm"
+    ],
     "title": "Noncommon Sense",
     "totalTracks": 5,
     "type": "single",

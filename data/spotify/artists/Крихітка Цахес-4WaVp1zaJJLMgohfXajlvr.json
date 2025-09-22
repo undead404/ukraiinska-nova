@@ -6,10 +6,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Крихітка Цахес"],
+    "artists": [
+      "Крихітка Цахес"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ae5dfcfea5e8d1fde23428f8",
     "releaseDate": "2005-06-06",
+    "tags": [
+      "female vocalists",
+      "Pop-Rock"
+    ],
     "title": "На Першому Місці",
     "totalTracks": 15,
     "type": "album",
@@ -22,10 +28,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Крихітка Цахес"],
+    "artists": [
+      "Крихітка Цахес"
+    ],
     "artistsPopularity": 27,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735509b844d8a5ae596522cabe",
     "releaseDate": "2003-11-12",
+    "tags": [
+      "female vocalists",
+      "Pop-Rock"
+    ],
     "title": "Лисиця",
     "totalTracks": 2,
     "type": "single",
