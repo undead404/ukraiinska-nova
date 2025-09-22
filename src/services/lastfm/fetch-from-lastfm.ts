@@ -1,8 +1,8 @@
 import type { BaseIssue, BaseSchema } from 'valibot';
 
-import fetchWithSchema from '../../helpers/fetch-with-schema';
+import fetchWithSchema from '../../helpers/fetch-with-schema.js';
 
-import { errorResponseSchema } from './schemata';
+import { errorResponseSchema } from './schemata.js';
 
 const DEFAULT_PARAMETERS = {
   format: 'json',
