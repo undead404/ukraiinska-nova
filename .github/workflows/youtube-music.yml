@@ -97,7 +97,7 @@ jobs:
       - name: Add changes
         run: |
           git add data
-          git diff --cached --quiet || git commit -m "chore: auto-commit docs folder"
+          git diff --cached --quiet || git commit -m "chore: auto-commit data folder"
 
       - name: Pull latest changes
         run: git pull origin ${{ github.ref_name }}
