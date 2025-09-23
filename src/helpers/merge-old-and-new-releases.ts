@@ -34,7 +34,6 @@ export default function mergeOldAndNewReleases(
             },
           ],
           artistsPopularity: matchingFreshRelease.artistsPopularity,
-          tags: matchingFreshRelease.tags,
         });
       } else {
         mergedReleases.push(oldRelease);
