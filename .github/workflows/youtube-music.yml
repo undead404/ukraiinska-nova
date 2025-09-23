@@ -96,8 +96,8 @@ jobs:
 
       - name: Add changes
         run: |
-          git add data
-          git diff --cached --quiet || git commit -m "chore: auto-commit data folder"
+          git add data/youtube-music
+          git diff --cached --quiet || git commit -m "chore: auto-commit data/youtube-music folder"
 
       - name: Pull latest changes
         run: git pull origin ${{ github.ref_name }} --no-rebase
