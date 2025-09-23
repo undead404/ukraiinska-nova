@@ -1,0 +1,82 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T21:20:11.449Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Міра Капітан"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734d84826ba35d621b29e3d7c4",
+    "releaseDate": "2025-08-28",
+    "tags": [],
+    "title": "Жінка в пісках",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1RpFUsOY34NhAukoo4xi4t"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T21:20:11.449Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Міра Капітан"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736060667829a3556ddad5b837",
+    "releaseDate": "2023-07-06",
+    "tags": [],
+    "title": "Київ-техно",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0dZVy9t0qyWng3OPu1GdBs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T21:20:11.449Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Olive Taud",
+      "Міра Капітан"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27335a94c733f2bf68d028a76fd",
+    "releaseDate": "2023-05-11",
+    "tags": [],
+    "title": "Пекло",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0swwpp9QLp5a6ZyJr3iTUC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T21:20:11.449Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Юрій Бондарчук",
+      "Міра Капітан"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27375164a6348595137e76e3a4c",
+    "releaseDate": "2022-01-27",
+    "tags": [
+      "rap"
+    ],
+    "title": "Живуть і працюють у Києві",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/58RqBFEoAwW0nruqPoxoEU"
+  }
+]

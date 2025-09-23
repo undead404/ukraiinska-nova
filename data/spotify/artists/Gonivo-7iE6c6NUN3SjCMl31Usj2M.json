@@ -1,0 +1,26 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T21:22:01.034Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Тоня Матвієнко",
+      "Gonivo"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738987ee4deefc7cdcbcc74efa",
+    "releaseDate": "2019-07-24",
+    "tags": [
+      "folk",
+      "pop",
+      "ua"
+    ],
+    "title": "Не двоє (Gonivo Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7lfGxAUbu7ihP2TxA1wSIm"
+  }
+]
