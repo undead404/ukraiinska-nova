@@ -1,0 +1,43 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T08:22:31.490Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "UB Jasky"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f6e4c5ce7e64d1495b3e209b",
+    "releaseDate": "2025-04-04",
+    "tags": [],
+    "title": "Only U",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2XylEhNJ89cbCs4S23t4yV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T08:22:31.490Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kabul"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273081f1c114360a138ffbb34d2",
+    "releaseDate": "2025-03-14",
+    "tags": [
+      "folk",
+      "finnish"
+    ],
+    "title": "Emiliana",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2DZ3bKpiLkYiMvify8RYW9"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T08:22:33.465Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Чумацький Шлях (CH.SH)"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731b8179bb29011e1d854da785",
+    "releaseDate": "2018-02-02",
+    "tags": [
+      "folk metal"
+    ],
+    "title": "Віддай",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6CtaOSkg5lMWrZfKKBLvaM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T08:22:33.465Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CH.SH."
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27358e57c8a56dba2c5fae7b2a8",
+    "releaseDate": "2018-02-02",
+    "tags": [],
+    "title": "Viddai",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5pA3OYXtfUmh9MCyZTE3U1"
+  }
+]
