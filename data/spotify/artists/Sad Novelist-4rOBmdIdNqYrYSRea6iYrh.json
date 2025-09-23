@@ -36,10 +36,10 @@
     "releaseDate": "2024-09-13",
     "tags": [
       "post-punk",
-      "pop",
       "rap",
-      "rnb",
-      "hip hop"
+      "pop",
+      "hip hop",
+      "rnb"
     ],
     "title": "губи покусані",
     "totalTracks": 1,
@@ -197,8 +197,8 @@
     "tags": [
       "post-punk",
       "indie pop",
-      "hyperpop",
-      "deezer"
+      "deezer",
+      "hyperpop"
     ],
     "title": "Ближче",
     "totalTracks": 4,
@@ -225,8 +225,8 @@
       "hip hop",
       "post-punk",
       "rock",
-      "alternative rock",
-      "punk rock"
+      "punk rock",
+      "alternative rock"
     ],
     "title": "Реквієм",
     "totalTracks": 1,
@@ -578,8 +578,8 @@
     "releaseDate": "2022-08-26",
     "tags": [
       "indie pop",
-      "hyperpop",
-      "deezer"
+      "deezer",
+      "hyperpop"
     ],
     "title": "СМУГА",
     "totalTracks": 9,
@@ -644,8 +644,8 @@
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735630e8c0390abf2522623955",
     "releaseDate": "2022-09-30",
     "tags": [
-      "hip hop",
       "rap",
+      "hip hop",
       "phonk"
     ],
     "title": "Кров",

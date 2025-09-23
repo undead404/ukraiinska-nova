@@ -1,0 +1,97 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T15:25:05.031Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SVIATOSLAV"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730d7a2a3c69a729fd7706a135",
+    "releaseDate": "2023-08-23",
+    "tags": [],
+    "title": "Русь іде",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6XU83KESC72uA08SOkd7u4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T15:25:05.031Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SVIATOSLAV"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738aae5aeb2251c8a24a13f750",
+    "releaseDate": "2023-05-26",
+    "tags": [],
+    "title": "Добровольці",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5byO18moAPKiLEtzaEgnLR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T15:25:05.031Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SVIATOSLAV"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273301eed51568072a117037e50",
+    "releaseDate": "2022-01-27",
+    "tags": [],
+    "title": "Тройзілля",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/01k2I8tj9Z150y3W9lrTXD"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T15:25:05.031Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SVIATOSLAV"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27340c60869af96fe2acc81251f",
+    "releaseDate": "2020-10-09",
+    "tags": [],
+    "title": "Пам'ятаю",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/02e3u5egz3p1GqekktbXcg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T15:25:05.031Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SVIATOSLAV"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735bd494fe4bf22643f3634443",
+    "releaseDate": "2020-02-15",
+    "tags": [],
+    "title": "Святий Вечір",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6Nc8bLUxNxxarnst2RUTu2"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T15:21:35.349Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олександр Положинський",
+      "Три Троянди"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fd7aa917fe044a1b488047bf",
+    "releaseDate": "2021-05-07",
+    "tags": [
+      "rock"
+    ],
+    "title": "Несподівано",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6F2f0Fm3Ynr7Gqi9EoFZKE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T15:21:35.349Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олександр Положинський"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27361249ff3ba03dc7fe505f706",
+    "releaseDate": "2023-04-06",
+    "tags": [
+      "rock"
+    ],
+    "title": "Попри Все",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3nv8mTwKM387zSfhxMxeTV"
+  }
+]

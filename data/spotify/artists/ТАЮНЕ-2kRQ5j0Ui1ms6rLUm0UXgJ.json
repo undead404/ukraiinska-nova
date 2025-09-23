@@ -1,0 +1,140 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T15:21:15.257Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Olegg Vynnyk (Олег Винник)",
+      "ТАЮНЕ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734d63d49996b025855a660bb3",
+    "releaseDate": "2025-08-22",
+    "tags": [],
+    "title": "Тихо над річкою",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0hwUTyBD6wo8muCL4Rmu3w"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T15:21:15.257Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ТАЮНЕ"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27347e73e4afc8a0415e6cdf482",
+    "releaseDate": "2025-02-14",
+    "tags": [],
+    "title": "Вільна",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4M3IKrDu0I2kGk3rQMwWHC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T15:21:15.257Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ТАЮНЕ"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273175a5d37016edbe612af5668",
+    "releaseDate": "2021-09-24",
+    "tags": [],
+    "title": "Подруга",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1nslu1tm1RifwJqs8mIG9G"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T15:21:15.257Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Olegg Vynnyk (Олег Винник)",
+      "Олександр Пономарьов",
+      "ТАЮНЕ"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273db171fdd3dcd61d52901efc4",
+    "releaseDate": "2020-12-25",
+    "tags": [
+      "pop"
+    ],
+    "title": "Добрий вечір тобі, пане господарю",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6z3anecg4Qydpas2mPzCzq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T15:21:15.257Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Olegg Vynnyk (Олег Винник)"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731b000e113f0723f3da861a39",
+    "releaseDate": "2018-05-13",
+    "tags": [],
+    "title": "Як жити без тебе",
+    "totalTracks": 16,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2zv31yH6MuNtnBKRBWkdPm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T15:21:15.257Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Olegg Vynnyk (Олег Винник)"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c449bfc18a15527a58bde0d4",
+    "releaseDate": "2015-09-08",
+    "tags": [],
+    "title": "Я не устану",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1xwdSO2j41czPQbD8WwdNS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T15:21:15.257Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Olegg Vynnyk (Олег Винник)"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273454d3a1393187f8568a686fb",
+    "releaseDate": "2018-05-19",
+    "tags": [],
+    "title": "Ты в курсе",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0JqyjDQs1Ya52il0OmZ80N"
+  }
+]
