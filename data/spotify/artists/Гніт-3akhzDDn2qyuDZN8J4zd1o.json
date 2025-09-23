@@ -1,0 +1,68 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T04:20:41.114Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гніт"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27313d0e8a8d8ab339596418e22",
+    "releaseDate": "2021-04-16",
+    "tags": [
+      "hardcore",
+      "hardcore punk"
+    ],
+    "title": "Сьогодні",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0OLa66oGL0NFzhCNHOuRnO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T04:20:41.114Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гніт"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273df7c2d5333e97d55a9c978fe",
+    "releaseDate": "2020-10-07",
+    "tags": [
+      "hardcore",
+      "hardcore punk"
+    ],
+    "title": "Відчай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1jLMWXD9vNk0BrN5S8AX0I"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T04:20:41.114Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гніт"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731a7d83070ff1965f38a2ee3b",
+    "releaseDate": "2020-07-22",
+    "tags": [
+      "hardcore",
+      "hardcore punk"
+    ],
+    "title": "Маленькі вбивці",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5Yu2eTawPrJdzFAgRO3gzS"
+  }
+]

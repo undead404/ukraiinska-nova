@@ -1,0 +1,102 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T04:21:04.150Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ритмовар"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e6241722ff4e8f0b21dba792",
+    "releaseDate": "2025-01-23",
+    "tags": [],
+    "title": "Шлях",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/71WrfOB0f4il1IngD1q7Tu"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T04:21:04.150Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ритмовар"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ae74b13e8d1ffd0ac188c626",
+    "releaseDate": "2024-06-14",
+    "tags": [],
+    "title": "Шлях",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2Kpdg4sCPisZHt7ii7P8pz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T04:21:04.150Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Максі кренк",
+      "Ритмовар"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27367019c39c03de70d1756c97b",
+    "releaseDate": "2023-12-04",
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "underground rap"
+    ],
+    "title": "Паспорт",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0iZKtr2u1dMe4cS2kMBFab"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T04:21:04.150Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ритмовар"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731ad85b84566b874695d5ba96",
+    "releaseDate": "2022-12-27",
+    "tags": [],
+    "title": "Табун",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4WJC2HVi5Ijlxt8v9zZpXQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T04:21:04.150Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ритмовар"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e854e2716de740bba66a6795",
+    "releaseDate": "2022-08-05",
+    "tags": [],
+    "title": "Не Один",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3LLZaTJojAGIfu92HfMnTm"
+  }
+]

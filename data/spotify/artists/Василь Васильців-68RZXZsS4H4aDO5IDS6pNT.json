@@ -1,0 +1,44 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T04:20:38.974Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Василь Васильців"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734e81c0a4eeae5a429efa6446",
+    "releaseDate": "2022-08-06",
+    "tags": [
+      "synthpop"
+    ],
+    "title": "Дуже близько",
+    "totalTracks": 16,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6YUkZO5yBmEYDgvzrq8SoO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T04:20:38.974Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Василь Васильців"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739c43b9658cb510e989d63c7e",
+    "releaseDate": "2022-08-06",
+    "tags": [
+      "synthpop"
+    ],
+    "title": "Skačky",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4fS5UxnPljwKwF6ukGIrVa"
+  }
+]

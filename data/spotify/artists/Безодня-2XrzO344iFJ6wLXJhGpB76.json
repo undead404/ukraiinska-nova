@@ -1,0 +1,86 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T04:20:35.793Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Безодня"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27364829032163faa1477e057e0",
+    "releaseDate": "2014-05-23",
+    "tags": [
+      "alternative"
+    ],
+    "title": "Радіохулігани",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1qBj8qf4msVJC3ij9etb3h"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T04:20:35.793Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Безодня"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a19675aa52b712545d8311fe",
+    "releaseDate": "2008-03-19",
+    "tags": [
+      "alternative"
+    ],
+    "title": "Не Мовчи!",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0Ml1KxSBuSh3qFCySxN5Gs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T04:20:35.793Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Безодня"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737ee22f4d99c71330c43bf510",
+    "releaseDate": "2018-06-29",
+    "tags": [
+      "alternative"
+    ],
+    "title": "Анатомуй",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5CEmZtAfHlgYahJLN9QlyD"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T04:20:35.793Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Безодня"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ef98ac705f08d28c68fd256b",
+    "releaseDate": "2016-11-25",
+    "tags": [
+      "alternative"
+    ],
+    "title": "Пліч-о-пліч",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6Ue9MkeG06fQFodh9aTPLS"
+  }
+]
