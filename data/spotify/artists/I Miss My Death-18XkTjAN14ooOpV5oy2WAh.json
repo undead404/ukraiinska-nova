@@ -30,14 +30,22 @@
       {
         "time": "2025-09-22T12:24:34.899Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-09-23T12:25:23.682Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "I Miss My Death"
     ],
-    "artistsPopularity": 9,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736f72131d9a347bbda90a73ac",
     "releaseDate": "2014-07-08",
+    "tags": [
+      "Gothic Metal",
+      "doom metal"
+    ],
     "title": "In Memories",
     "totalTracks": 12,
     "type": "album",
@@ -158,6 +166,10 @@
       {
         "time": "2025-09-22T12:24:34.899Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-09-23T12:25:23.682Z",
+        "type": "LOST"
       }
     ],
     "artists": [

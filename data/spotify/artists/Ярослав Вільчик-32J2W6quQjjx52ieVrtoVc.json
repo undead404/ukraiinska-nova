@@ -1,0 +1,46 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T12:24:01.863Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олександр Положинський",
+      "Олександр Лозовський",
+      "Ярослав Вільчик"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736be997cc42991bfa47250e15",
+    "releaseDate": "2021-09-17",
+    "tags": [
+      "rock"
+    ],
+    "title": "Марунові берети",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/12I42wpFYp49ScB9Bi1PKI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T12:24:01.863Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олександр Положинський"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27361249ff3ba03dc7fe505f706",
+    "releaseDate": "2023-04-06",
+    "tags": [
+      "rock"
+    ],
+    "title": "Попри Все",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3nv8mTwKM387zSfhxMxeTV"
+  }
+]
