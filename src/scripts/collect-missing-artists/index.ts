@@ -16,7 +16,7 @@ async function main() {
       artist.spotifyId,
       artist.name,
     );
-    for (const release of releases) {
+    for (const release of releases || []) {
       for (const releaseArtist of release.artists) {
         if (
           releaseArtist !== artist.name &&
