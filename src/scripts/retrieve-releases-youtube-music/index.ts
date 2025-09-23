@@ -73,12 +73,12 @@ async function main(): Promise<void> {
         releases,
       );
       const { new: newReleases, merged: mergedReleases } =
-        mergeOldAndNewReleases(oldReleases, enhancedReleases);
+        mergeOldAndNewReleases(oldReleases || [], enhancedReleases);
       tasksForLater.push(() =>
         saveReleases(folder, artist.id, artist.name, mergedReleases),
       );
 
-      if (oldReleases.length > 0) {
+      if (oldReleases) {
         // otherwise, the artist itself is newly found
         allNewReleases.push(...newReleases);
       }

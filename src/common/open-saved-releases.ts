@@ -21,7 +21,7 @@ export default async function openSavedReleases(
   folder: string,
   artistId: string,
   artistName: string,
-): Promise<MusicReleaseRecord[]> {
+): Promise<MusicReleaseRecord[] | undefined> {
   console.log(`openSavedReleases("${artistId}", "${artistName}")`);
   const filename = normalizeFilename(`${artistName}-${artistId}.json`);
   const filePath = path.join(folder, filename);
@@ -32,7 +32,7 @@ export default async function openSavedReleases(
   } catch (error) {
     if (isFileNotFoundError(error) || isValiError(error)) {
       console.error(error);
-      return [];
+      return undefined;
     } else throw error;
   }
 }
