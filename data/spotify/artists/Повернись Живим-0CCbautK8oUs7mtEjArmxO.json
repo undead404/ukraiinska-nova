@@ -1,0 +1,24 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T18:23:02.381Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ницо Потворно",
+      "Повернись Живим"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738b195f550373ecd695b963af",
+    "releaseDate": "2023-06-09",
+    "tags": [
+      "hip hop"
+    ],
+    "title": "Таймлайн ПЖ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4pfYTNAIsPMT43gTPoLniE"
+  }
+]

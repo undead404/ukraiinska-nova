@@ -1,0 +1,97 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T18:22:27.273Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "михаль",
+      "Кухар Шон",
+      "Pidch",
+      "veresk"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273309ce34d86aaccf0f15da19d",
+    "releaseDate": "2025-08-31",
+    "tags": [
+      "emo"
+    ],
+    "title": "Reload",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7o5slsilWYiUOrgMCmPVfy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T18:22:27.273Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "рома майк",
+      "Кухар Шон",
+      "Воха"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737e1b286d28765831726f6796",
+    "releaseDate": "2025-02-14",
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "underground hip-hop",
+      "underground rap"
+    ],
+    "title": "Хованки 2025",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/17LaJDwRW37RV39m5MSBdc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T18:22:27.273Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "рома майк",
+      "Воха",
+      "Кухар Шон"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27322c34fa49cd0e3086ed0763c",
+    "releaseDate": "2025-01-15",
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "underground hip-hop",
+      "underground rap"
+    ],
+    "title": "Хованки",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5fCpZiUNuPXEJrTcQMXQHE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T18:22:27.273Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PANAMA CYPHER"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fd418d790569f36da677dd1d",
+    "releaseDate": "2025-01-13",
+    "tags": [],
+    "title": "PRIME",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1qBvCsxzghrjqYyahxYSgc"
+  }
+]

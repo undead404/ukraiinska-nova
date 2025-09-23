@@ -1,0 +1,25 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T18:22:15.108Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ігор Білозір",
+      "Піккардійська терція"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ffa5066d2ff946a34ca2605d",
+    "releaseDate": "2025-05-28",
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "title": "Квіти у росі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6u5c7CW9dUIlICmlB9A9pY"
+  }
+]

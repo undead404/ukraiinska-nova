@@ -1,0 +1,88 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T18:21:53.324Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "рома майк",
+      "Віктор Винник"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a038f6e35173c6f590c521d1",
+    "releaseDate": "2023-05-05",
+    "tags": [
+      "pop",
+      "rap",
+      "rock",
+      "male vocalists"
+    ],
+    "title": "New Era",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4LV3fkwt17HS3S6KM1WkAm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T18:21:53.324Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "рома майк"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c3a7c8f14116f67878f60c03",
+    "releaseDate": "2023-08-17",
+    "tags": [
+      "rap"
+    ],
+    "title": "New Era",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0jSBeMjnL4ZHopnkagM4lw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T18:21:53.324Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Rock-H"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27336ece25881938efbf012c7e3",
+    "releaseDate": "2016-03-01",
+    "tags": [
+      "folk rock"
+    ],
+    "title": "Співаночки про любов",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4L5jgUTnMp7f6DLOa8CRkA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T18:21:53.324Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Evgeniy Starzhynskiy"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ed040afdf11ddb21c76f4a8d",
+    "releaseDate": "2023-12-04",
+    "tags": [],
+    "title": "Зроби свій вибір",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6CZXDAppNB3zt91qNAovXI"
+  }
+]

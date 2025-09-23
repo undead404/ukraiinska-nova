@@ -57,8 +57,8 @@
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27307ad4ba519f063c7a711245d",
     "releaseDate": "2025-08-22",
     "tags": [
-      "rock",
-      "rap"
+      "rap",
+      "rock"
     ],
     "title": "Вовк",
     "totalTracks": 1,
@@ -122,8 +122,8 @@
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735ab11e0bd62909b2a0fd7e5c",
     "releaseDate": "2025-01-31",
     "tags": [
-      "rock",
-      "rap"
+      "rap",
+      "rock"
     ],
     "title": "Як хотів",
     "totalTracks": 1,
@@ -187,8 +187,8 @@
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734be812fbb0130ae2e2e82e5c",
     "releaseDate": "2024-08-09",
     "tags": [
-      "rock",
-      "rap"
+      "rap",
+      "rock"
     ],
     "title": "Кенсел",
     "totalTracks": 1,
@@ -210,8 +210,8 @@
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ea9303d1a8943d24124c2b65",
     "releaseDate": "2024-05-28",
     "tags": [
-      "rock",
-      "rap"
+      "rap",
+      "rock"
     ],
     "title": "Зелена зрада",
     "totalTracks": 1,
@@ -300,5 +300,27 @@
     "totalTracks": 11,
     "type": "album",
     "url": "https://open.spotify.com/album/1rrDJEhixhPT8ufuWM2UIM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T18:21:59.291Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гаррі Шульц",
+      "Хук"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27321d979a4ef710a89cbb53803",
+    "releaseDate": "2025-09-23",
+    "tags": [
+      "rock"
+    ],
+    "title": "Вугледар",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5gUXe6YS9N57hCukyeMNnO"
   }
 ]
