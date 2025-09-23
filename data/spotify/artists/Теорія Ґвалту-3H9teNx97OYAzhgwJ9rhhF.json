@@ -1,0 +1,46 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T03:25:29.068Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Теорія Ґвалту"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c777f60b2e0e82e039fbf8b9",
+    "releaseDate": "2016-10-13",
+    "tags": [
+      "ska-punk",
+      "ska"
+    ],
+    "title": "Кармалюк",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0pUq1rFLb0frYLFbJjhoWa"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T03:25:29.068Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Теорія Ґвалту"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ebca108cb8a3ee2dab90bf8e",
+    "releaseDate": "2011-08-01",
+    "tags": [
+      "ska-punk",
+      "ska"
+    ],
+    "title": "Три стріли",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5US4b4Xcy0IN8MMJxYRdWS"
+  }
+]

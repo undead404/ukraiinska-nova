@@ -1,0 +1,44 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T03:23:55.591Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ВІДСІЧ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d2fbf6765a7342452333f318",
+    "releaseDate": "2025-05-20",
+    "tags": [
+      "hardcore"
+    ],
+    "title": "Відсіч",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0Bjxpx89RNq6wDTxDq8LHx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T03:23:55.591Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ВІДСІЧ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27350d7d5e55936fe18105683ab",
+    "releaseDate": "2022-05-08",
+    "tags": [
+      "hardcore"
+    ],
+    "title": "Пліч-о-пліч",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2Kps8VN1YVysoiYVDz8G7u"
+  }
+]

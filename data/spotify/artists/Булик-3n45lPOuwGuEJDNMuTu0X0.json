@@ -1,0 +1,108 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T03:23:53.799Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Булик"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27306fface59be81cf35685ca45",
+    "releaseDate": "2016-02-21",
+    "tags": [
+      "underground rap"
+    ],
+    "title": "Без дна",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0xA8YcGrdiIYipJQ0W5HQW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T03:23:53.799Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АрХангел"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732c44c93c0e193f2efa1c2da2",
+    "releaseDate": "2015-05-24",
+    "tags": [
+      "Macedonian"
+    ],
+    "title": "Джиу Джитсу",
+    "totalTracks": 17,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2YvTdnv7nSe2M8pjwBI3Nr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T03:23:53.799Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АрХангел"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a16a7c5f8e730fc00144178d",
+    "releaseDate": "2014-05-04",
+    "tags": [
+      "Macedonian"
+    ],
+    "title": "Чернила",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2ayMyvcdHPTSsE9uPpE6xk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T03:23:53.799Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kof"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273de7afafe65f195435817fa8e",
+    "releaseDate": "2013-08-05",
+    "tags": [
+      "Hip-Hop",
+      "underground hip-hop"
+    ],
+    "title": "Тр3тий",
+    "totalTracks": 17,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5Qq8hWXRNhqIfpx2F4PRCP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T03:23:53.799Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Парадный Ветер"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b832a909451a6388b10b8914",
+    "releaseDate": "2023-09-15",
+    "tags": [
+      "underground rap"
+    ],
+    "title": "По Старинке",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/71Wv55w56aML7SXX1692OD"
+  }
+]

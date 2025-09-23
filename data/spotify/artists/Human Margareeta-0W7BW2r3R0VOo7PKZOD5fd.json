@@ -1,0 +1,65 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T03:26:04.612Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Human Margareeta"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aae5d8bf911775e0dd13f598",
+    "releaseDate": "2025-04-03",
+    "tags": [
+      "techno"
+    ],
+    "title": "Broken",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7CQZI0m6CWmZcroXsnwBJL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T03:26:04.612Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Human Margareeta"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27399d5bc681a75e2f16ee7ec53",
+    "releaseDate": "2025-02-07",
+    "tags": [
+      "techno"
+    ],
+    "title": "You Can't Break What's Broken",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5kkzuRajIDi0SUhIQsMfKc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T03:26:04.612Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Human Margareeta"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739ef38b4e5cd955e57981c52d",
+    "releaseDate": "2024-11-22",
+    "tags": [
+      "techno"
+    ],
+    "title": "Kryshtal",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6NaEWpaZd9roQt7WJhL9JX"
+  }
+]

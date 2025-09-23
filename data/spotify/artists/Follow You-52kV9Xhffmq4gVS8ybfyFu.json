@@ -1,0 +1,87 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T03:25:58.967Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Follow You",
+      "Cosmic Rain"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735108dc2741074c288f30e53a",
+    "releaseDate": "2025-05-23",
+    "tags": [
+      "Nu Metal"
+    ],
+    "title": "Slow Mo",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/26uOMGDtHGgrOurLxULSRM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T03:25:58.967Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Follow You"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27352e73a35b886571585ceaa6a",
+    "releaseDate": "2025-03-11",
+    "tags": [
+      "Nu Metal"
+    ],
+    "title": "Nerv",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4Grv7Q5fFUYRPxXxwKZ30D"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T03:25:58.967Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Follow You"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bab1a757d4a2dfc2fdac12e2",
+    "releaseDate": "2024-12-19",
+    "tags": [
+      "Nu Metal"
+    ],
+    "title": "Flashback",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/14Y0ozTOv3f11bM5JSQlnO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T03:25:58.967Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Follow You"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a8ac4515ce53e1df5755c7df",
+    "releaseDate": "2024-10-16",
+    "tags": [
+      "Nu Metal"
+    ],
+    "title": "Fear",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0aM9gbiwafjEgFS6R8OKlq"
+  }
+]

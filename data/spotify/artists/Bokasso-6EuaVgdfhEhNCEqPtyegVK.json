@@ -1,0 +1,23 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T03:25:41.199Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Bokasso"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c4616ee5f6bcda0295e34889",
+    "releaseDate": "2020-03-20",
+    "tags": [
+      "Post-Metal"
+    ],
+    "title": "Bokasso",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6r26gwprriKo67HonRWGDG"
+  }
+]

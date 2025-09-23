@@ -1,0 +1,145 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T03:23:59.001Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Діджей Хокаге",
+      "XenjeS"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736c2e6639e9ee7232ba822f83",
+    "releaseDate": "2023-05-19",
+    "tags": [
+      "rap",
+      "hip hop",
+      "electronic"
+    ],
+    "title": "Ранкове марево (XenjeS Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1U9u620Ik0DHwuqVv8UWkm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T03:23:59.001Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Діджей Хокаге",
+      "Ницо Потворно"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273004948cd419b194429410b1f",
+    "releaseDate": "2023-05-03",
+    "tags": [
+      "rap",
+      "hip hop",
+      "electronic"
+    ],
+    "title": "Темнота у Кло (2023 Rework)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0bbJbKG0oItDhoGX5Z68Xt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T03:23:59.001Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Діджей Хокаге",
+      "The Nietzsche"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b61d2678d2dc1eb97217298a",
+    "releaseDate": "2022-08-24",
+    "tags": [
+      "rap",
+      "hip hop",
+      "mathcore",
+      "electronic"
+    ],
+    "title": "Vasyl (2022 Rework)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1ykbbtivHBSgg2V2l7V6Hr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T03:23:59.001Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Діджей Хокаге",
+      "паліндром"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735ca39fe5405836355a5d73b4",
+    "releaseDate": "2022-08-17",
+    "tags": [
+      "rap",
+      "hip hop",
+      "synthpop",
+      "dream pop",
+      "electronic"
+    ],
+    "title": "Сонце (2022 Rework)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3AgSzkBmJuKYjRQIt1pTKP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T03:23:59.001Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Діджей Хокаге"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27326992c1a820fcf8d2ab6221a",
+    "releaseDate": "2021-06-04",
+    "tags": [
+      "rap",
+      "hip hop",
+      "electronic"
+    ],
+    "title": "Стрільба з водяного пістолета",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6tKdA7BpoB9FTc5PJWgJTu"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T03:23:59.001Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "The Nietzsche"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737ece254a2356dac5a02a4078",
+    "releaseDate": "2023-11-17",
+    "tags": [
+      "mathcore"
+    ],
+    "title": "Finals​.​: The Definitive Edition",
+    "totalTracks": 25,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2EyQtJG6g1q7ly77pTSUaT"
+  }
+]

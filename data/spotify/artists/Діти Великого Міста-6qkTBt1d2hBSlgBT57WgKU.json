@@ -1,0 +1,23 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T03:24:00.671Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Діти Великого Міста"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273043d448221073c1f06ff917d",
+    "releaseDate": "2010",
+    "tags": [
+      "ska punk"
+    ],
+    "title": "Ска на холодном снегу",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3OCjyikxnKlwYzZ4P7wERr"
+  }
+]
