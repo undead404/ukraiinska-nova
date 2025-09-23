@@ -1,0 +1,114 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T13:22:48.937Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Козачок",
+      "Доместос",
+      "Принц Загробний"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27349204ed31a9ff091e9b05cba",
+    "releaseDate": "2020-02-20",
+    "tags": [
+      "rap",
+      "hip hop"
+    ],
+    "title": "Вестуха",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5zdrAG0V1xzBRFGEqpFA0A"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T13:22:48.937Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Козачок"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a81416e24972eef614e61261",
+    "releaseDate": "2020-08-19",
+    "tags": [
+      "rap",
+      "hip hop"
+    ],
+    "title": "Реслінг спорт справжніх чоловіків",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6oWVkKlB2vpSi18YwXyv0W"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T13:22:48.937Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Козачок"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27365bc3b8edc2e490738007547",
+    "releaseDate": "2022-09-28",
+    "tags": [
+      "rap",
+      "hip hop"
+    ],
+    "title": "Макарони",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3RjlVLnqulXTWFyce6RYxK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T13:22:48.937Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Козачок"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a3f73961d959bc1f8d3c193f",
+    "releaseDate": "2020-06-16",
+    "tags": [
+      "rap",
+      "hip hop"
+    ],
+    "title": "Степан Бандера",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6Vly3kOAuddAdXN38Q7Uqc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T13:22:48.937Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Козачок"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739f727166ffe572ef6537e005",
+    "releaseDate": "2020-07-10",
+    "tags": [
+      "rap",
+      "hip hop"
+    ],
+    "title": "Король діскотек",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3zQQ9vz8XaLX6hDoHYAhZ2"
+  }
+]
