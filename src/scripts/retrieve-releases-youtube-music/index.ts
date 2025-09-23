@@ -74,11 +74,9 @@ async function main(): Promise<void> {
       );
       const { new: newReleases, merged: mergedReleases } =
         mergeOldAndNewReleases(oldReleases || [], enhancedReleases);
-      if (mergedReleases.length > 0) {
-        tasksForLater.push(() =>
-          saveReleases(folder, artist.id, artist.name, mergedReleases),
-        );
-      }
+      tasksForLater.push(() =>
+        saveReleases(folder, artist.id, artist.name, mergedReleases),
+      );
 
       if (oldReleases) {
         // otherwise, the artist itself is newly found
