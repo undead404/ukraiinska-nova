@@ -1,0 +1,86 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T00:37:38.283Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Пан Пупец`"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27372ce7f884c8f8aa3ff14648b",
+    "releaseDate": "2014-01-01",
+    "tags": [
+      "Grunge"
+    ],
+    "title": "Дабудай",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3A3934cDHskXrEbd2YDA2P"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T00:37:38.283Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Пан Пупец`"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273619590135bf487a1b2805dbd",
+    "releaseDate": "2006-10-10",
+    "tags": [
+      "Grunge"
+    ],
+    "title": "Пан Пупец`",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0gEJ8NNUzmK9axGY2W0ejN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T00:37:38.283Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Пан Пупец`"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733656f0725f87a79dfa99e790",
+    "releaseDate": "2021-01-21",
+    "tags": [
+      "Grunge"
+    ],
+    "title": "2004-2017",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7o7FARq7uSg3J4VVDpKbgY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T00:37:38.283Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Viscula"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27320f19e535392ef86773722c7",
+    "releaseDate": "2012-12-31",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "Завжди Молодий",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5KEpH0RtrUeQ669H3oRTFt"
+  }
+]

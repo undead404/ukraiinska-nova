@@ -1,0 +1,44 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T00:39:55.825Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Reproduczia"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732a24598bea45dc715088cb21",
+    "releaseDate": "2024-04-21",
+    "tags": [
+      "abstract hip-hop"
+    ],
+    "title": "Марципанова дезінформація",
+    "totalTracks": 16,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1etSPU1NwemLtdF8pK2bRb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T00:39:55.825Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Reproduczia"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738c7adbbedec5808659a9075d",
+    "releaseDate": "2013-02-10",
+    "tags": [
+      "abstract hip-hop"
+    ],
+    "title": "10 лет терпения",
+    "totalTracks": 26,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0WdmTHVJfXpYjgD2igZAPA"
+  }
+]

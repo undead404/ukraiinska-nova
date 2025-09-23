@@ -1,0 +1,43 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T00:36:03.504Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "03472"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27309524948496978b0eedead6d",
+    "releaseDate": "2024-05-04",
+    "tags": [],
+    "title": "Реп про РЕБ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5M6IbR8FQBTuqhzOEdGrwy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T00:36:03.504Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YAMAMOTO",
+      "Notnow Tunes"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27368d2858ad1f28f8ff844aa23",
+    "releaseDate": "2025-02-02",
+    "tags": [
+      "electronic"
+    ],
+    "title": "ATTAKAI",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4ECbvBwKgMQQD9ajeVFZbL"
+  }
+]

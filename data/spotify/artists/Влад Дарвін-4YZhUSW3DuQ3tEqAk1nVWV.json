@@ -1,0 +1,53 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T00:36:25.664Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Анжеліка Рудницька",
+      "Маргарита Мелешко",
+      "Влад Дарвін",
+      "MAVER"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273697f2642329cd2aee7acf9d8",
+    "releaseDate": "2025-01-07",
+    "tags": [
+      "pop",
+      "chillout",
+      "House",
+      "dance",
+      "electronic"
+    ],
+    "title": "Територія РіздвА. Дух нескорених. Спи, Ісусе, спи (Maver Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3ZORrKXhtel30oF2BP6M3e"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T00:36:25.664Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Анжеліка Рудницька",
+      "Маргарита Мелешко",
+      "Влад Дарвін"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27317ce147dc9d760610085d6c0",
+    "releaseDate": "2024-11-29",
+    "tags": [
+      "pop"
+    ],
+    "title": "Територія РіздвА. Дух нескорених. Спи, Ісусе, спи",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7J4VGQVMDjkGnhoOIR5AAv"
+  }
+]

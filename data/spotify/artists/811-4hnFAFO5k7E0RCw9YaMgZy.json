@@ -1,0 +1,26 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T00:36:19.778Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "811"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731b203aba333732b00053a5af",
+    "releaseDate": "2024-09-01",
+    "tags": [
+      "punk rock",
+      "melodic hardcore",
+      "melodic punk",
+      "melodic punk rock"
+    ],
+    "title": "Eight-eleven",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6ns4jmgG6cNqY28VUROsoX"
+  }
+]

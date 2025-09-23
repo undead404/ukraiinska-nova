@@ -1,0 +1,22 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T00:38:00.685Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Білий Бо",
+      "Тася"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730ca15fa7e6d21e9da2d719ca",
+    "releaseDate": "2021-09-28",
+    "tags": [],
+    "title": "Там де горизонт",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5ecLpTWpVjFZo0xXU5S1YD"
+  }
+]

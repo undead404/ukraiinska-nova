@@ -1,0 +1,25 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T00:38:26.699Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DYKTOR",
+      "BADDPRODUCER"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739f240518f00ecf9c18dccb68",
+    "releaseDate": "2021-09-17",
+    "tags": [
+      "hip hop",
+      "rap"
+    ],
+    "title": "MONPACIE",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0LuRRMgl81iMJWR8hJLdn0"
+  }
+]

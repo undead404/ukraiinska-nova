@@ -1,0 +1,98 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T00:40:22.188Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DA HOOD PLAY3R",
+      "Sonyachna"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b88ceb5b50d4288c8215b978",
+    "releaseDate": "2025-07-19",
+    "tags": [],
+    "title": "Matrix",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5IqtSLUcUsXI8mPL4SvxXB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T00:40:22.188Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sonyachna"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f0592739ef54c1b12bbff40e",
+    "releaseDate": "2025-06-20",
+    "tags": [],
+    "title": "VIDMA",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1pTc5ODjmi21tEvxgGRC5J"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T00:40:22.188Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sonyachna"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733f19d9adb38f53b0dd1f4f46",
+    "releaseDate": "2025-06-13",
+    "tags": [],
+    "title": "ZVIR (Speed Up)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/17RsLPDZMaUWbVrmkSENuW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T00:40:22.188Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sonyachna"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27336da81ab6d012d915086c151",
+    "releaseDate": "2025-05-02",
+    "tags": [],
+    "title": "ZVIR",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6H9TFFq8WQKDPOC1MnPsua"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T00:40:22.188Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sonyachna"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736d373c2288c54c76d27e92a5",
+    "releaseDate": "2025-04-14",
+    "tags": [],
+    "title": "Ти Близько?",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3rzilqQBfDodhk8kPeobvW"
+  }
+]

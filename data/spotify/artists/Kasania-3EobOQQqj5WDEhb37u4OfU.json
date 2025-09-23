@@ -1,0 +1,59 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T00:38:29.016Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kasania"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734a1b8024d0d39eb595fad871",
+    "releaseDate": "2025-08-02",
+    "tags": [],
+    "title": "Знати де ти",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4X1aFawDvM7KFC148Eg6gh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T00:38:29.016Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kasania"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b25a84a0977a4b0a033394b6",
+    "releaseDate": "2025-04-19",
+    "tags": [],
+    "title": "Все що лишилось мені",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5YOk3Sd95WaLrJ1pZztZ96"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T00:38:29.016Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kasania"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735d7c48f0c2242b34c6ec5a37",
+    "releaseDate": "2025-02-21",
+    "tags": [],
+    "title": "Поділені Ми",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0Yf0MqiApdYfBspeNcDI2i"
+  }
+]

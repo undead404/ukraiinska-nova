@@ -1,0 +1,44 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T00:37:35.367Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Оркестр Че"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27361de29a07e85b1141b133f23",
+    "releaseDate": "2016-03-01",
+    "tags": [
+      "art-rock"
+    ],
+    "title": "Нахуй",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5aGB5AGAblNG2tfsh96JqB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T00:37:35.367Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Оркестр Че"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27338ac0bc43416c65a2ec894e1",
+    "releaseDate": "2017-02-27",
+    "tags": [
+      "art-rock"
+    ],
+    "title": "Що вони бачили",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1Jcd0U7Oed2wIJRaSlHyl3"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T00:36:58.694Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Інший День"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f2a6b35f9ddbe370fa81587b",
+    "releaseDate": "2023-09-22",
+    "tags": [
+      "Pop-Rock"
+    ],
+    "title": "Mon ami (Radio Edit)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3hiV413va5o4IFhJWG1n5R"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T00:36:58.694Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Інший День"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273127ecbf037111fb854c4b9c4",
+    "releaseDate": "2023-03-17",
+    "tags": [
+      "Pop-Rock"
+    ],
+    "title": "Інший день",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1SA0NruJLBalZT9q6g84nZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T00:36:58.694Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Інший День"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aaf18f4f7ff3de6ccc67d1e4",
+    "releaseDate": "2019-11-28",
+    "tags": [
+      "Pop-Rock"
+    ],
+    "title": "Світ — це коло",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6paniBI3jIRYYpiCYN7ne0"
+  }
+]

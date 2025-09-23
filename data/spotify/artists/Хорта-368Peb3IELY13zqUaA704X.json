@@ -1,0 +1,43 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T00:38:15.949Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Хорта"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dcc108c79ffcf5b387fdc1d7",
+    "releaseDate": "2018-11-07",
+    "tags": [
+      "folk",
+      "Hip-Hop"
+    ],
+    "title": "Зоряне борошно",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6svU8xTP5q0zqVMuNtlS9T"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T00:38:15.949Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VSE.SVIT"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27340954a296e47bad81b708fb1",
+    "releaseDate": "2016-07-27",
+    "tags": [],
+    "title": "#3",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5iuZAKKjWH8fbp1vpU62R1"
+  }
+]
