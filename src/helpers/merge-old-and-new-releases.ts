@@ -41,7 +41,7 @@ export default function mergeOldAndNewReleases(
       }
     } else {
       if (matchingFreshRelease) {
-        mergedReleases.push({ ...oldRelease, tags: matchingFreshRelease.tags });
+        mergedReleases.push(oldRelease);
       } else {
         const lostRelease = {
           ...oldRelease,
