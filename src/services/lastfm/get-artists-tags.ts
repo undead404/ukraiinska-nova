@@ -34,7 +34,12 @@ export async function getArtistsTags(apiKey: string, artists: string[]) {
     }
   }
   // sort tags by count, descending
-  tags.sort((a, b) => b.count - a.count);
+  tags.sort((a, b) => {
+    if (b.count !== a.count) {
+      return b.count - a.count;
+    }
+    return a.name.localeCompare(b.name);
+  });
   // remove duplicates
   const uniqueTags: { name: string; count: number }[] = [];
   for (const tag of tags) {
