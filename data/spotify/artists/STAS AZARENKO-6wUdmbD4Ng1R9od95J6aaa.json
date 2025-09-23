@@ -1,978 +1,1354 @@
 [
   {
-    "artists": ["STAS AZARENKO"],
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:24:35.157Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "Шостка",
-    "releaseDate": "2025-07-18",
-    "type": "album",
-    "totalTracks": 7,
-    "url": "https://open.spotify.com/album/1oomwby8CCm4covtSBEVxf",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735b3a670a54a09124869105fb",
+    "releaseDate": "2025-07-18",
+    "tags": [
+      "rap"
+    ],
+    "title": "Шостка",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1oomwby8CCm4covtSBEVxf"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO"],
+    ],
+    "artists": [
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "#СПРАВЖНІЙ",
-    "releaseDate": "2024-06-14",
-    "type": "album",
-    "totalTracks": 14,
-    "url": "https://open.spotify.com/album/3FGWQuGf9DB4NdcnVz0XCU",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a41ccd48191e448fe7bf20f3",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:24:35.157Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Driplla", "FORCEGNG", "STAS AZARENKO"],
-    "artistsPopularity": 21,
-    "title": "Trapp Hero 1.0",
-    "releaseDate": "2023-12-08",
+    "releaseDate": "2024-06-14",
+    "tags": [
+      "rap"
+    ],
+    "title": "#СПРАВЖНІЙ",
+    "totalTracks": 14,
     "type": "album",
-    "totalTracks": 9,
-    "url": "https://open.spotify.com/album/0H8NzWjkV0qOE1rEEv22e6",
+    "url": "https://open.spotify.com/album/3FGWQuGf9DB4NdcnVz0XCU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:24:35.157Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Driplla",
+      "FORCEGNG",
+      "STAS AZARENKO"
+    ],
+    "artistsPopularity": 21,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cf1408d7dd1d29f381e615eb",
+    "releaseDate": "2023-12-08",
+    "tags": [
+      "rap"
+    ],
+    "title": "Trapp Hero 1.0",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0H8NzWjkV0qOE1rEEv22e6"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO", "032nimble"],
+    ],
+    "artists": [
+      "STAS AZARENKO",
+      "032nimble"
+    ],
     "artistsPopularity": 24,
-    "title": "HOT WIGGA",
-    "releaseDate": "2025-08-29",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6zT8BGpfQNeqlCIIhMCyMb",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732f7bdbd2cf9dc2486f04c58a",
+    "releaseDate": "2025-08-29",
+    "tags": [
+      "rap"
+    ],
+    "title": "HOT WIGGA",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6zT8BGpfQNeqlCIIhMCyMb"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO", "4ERDAK"],
+    ],
+    "artists": [
+      "STAS AZARENKO",
+      "4ERDAK"
+    ],
     "artistsPopularity": 25,
-    "title": "Back Home",
-    "releaseDate": "2025-07-04",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/18yUSqJJJnMcl1wpUjH2Qe",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731885330d7628052bc519e417",
+    "releaseDate": "2025-07-04",
+    "tags": [
+      "rap",
+      "trap"
+    ],
+    "title": "Back Home",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/18yUSqJJJnMcl1wpUjH2Qe"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO"],
+    ],
+    "artists": [
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "Ми",
-    "releaseDate": "2025-06-20",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6CWDYA9pJxeqa16fcY7hxP",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aee15fb875fe73bab0144494",
+    "releaseDate": "2025-06-20",
+    "tags": [
+      "rap"
+    ],
+    "title": "Ми",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6CWDYA9pJxeqa16fcY7hxP"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO"],
+    ],
+    "artists": [
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "ЗАТОЧКА",
-    "releaseDate": "2025-05-16",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5XJX0BKGfkxz90qRskoD8P",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733df059f6fb8dc4dca15a8da6",
+    "releaseDate": "2025-05-16",
+    "tags": [
+      "rap"
+    ],
+    "title": "ЗАТОЧКА",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5XJX0BKGfkxz90qRskoD8P"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO"],
+    ],
+    "artists": [
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "20.12.24",
-    "releaseDate": "2025-05-08",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/334Rm5vTCghrmOkl55cQic",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731ceb899f96c00020f7d5dd40",
+    "releaseDate": "2025-05-08",
+    "tags": [
+      "rap"
+    ],
+    "title": "20.12.24",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/334Rm5vTCghrmOkl55cQic"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO"],
+    ],
+    "artists": [
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "непросто",
-    "releaseDate": "2025-04-25",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5lC5iq4cPOpJBeNFcPIEJn",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e28946084858933b4840d28a",
+    "releaseDate": "2025-04-25",
+    "tags": [
+      "rap"
+    ],
+    "title": "непросто",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5lC5iq4cPOpJBeNFcPIEJn"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Lay", "STAS AZARENKO"],
+    ],
+    "artists": [
+      "Lay",
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "A MILLI",
-    "releaseDate": "2025-02-07",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4rCE8VaCStvh5rKiBS0HWG",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27311f5e3b176c31241161ccedf",
+    "releaseDate": "2025-02-07",
+    "tags": [
+      "chinese",
+      "rap",
+      "C-pop"
+    ],
+    "title": "A MILLI",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4rCE8VaCStvh5rKiBS0HWG"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO", "FORCEGNG"],
+    ],
+    "artists": [
+      "STAS AZARENKO",
+      "FORCEGNG"
+    ],
     "artistsPopularity": 21,
-    "title": "Кішка",
-    "releaseDate": "2025-01-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4RLGFKXFiJhf4HC5ES0wn3",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e91109ed0e7f36b472cb9055",
+    "releaseDate": "2025-01-24",
+    "tags": [
+      "rap"
+    ],
+    "title": "Кішка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4RLGFKXFiJhf4HC5ES0wn3"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO", "FORCEGNG", "Lay"],
+    ],
+    "artists": [
+      "STAS AZARENKO",
+      "FORCEGNG",
+      "Lay"
+    ],
     "artistsPopularity": 21,
-    "title": "Аптека",
-    "releaseDate": "2025-01-10",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6NZIH9igcR5ukaKZg1NfR2",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273817e84c1516e64c0254bf24a",
+    "releaseDate": "2025-01-10",
+    "tags": [
+      "rap",
+      "chinese",
+      "C-pop"
+    ],
+    "title": "Аптека",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6NZIH9igcR5ukaKZg1NfR2"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO", "Liesad"],
+    ],
+    "artists": [
+      "STAS AZARENKO",
+      "Liesad"
+    ],
     "artistsPopularity": 21,
-    "title": "З Новим Роком!",
-    "releaseDate": "2024-12-27",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4RG346cEBxExL9snmP362v",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dee83b20089687c65c6cd638",
+    "releaseDate": "2024-12-27",
+    "tags": [
+      "rap"
+    ],
+    "title": "З Новим Роком!",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4RG346cEBxExL9snmP362v"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO"],
+    ],
+    "artists": [
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "#почуття",
-    "releaseDate": "2024-12-20",
-    "type": "single",
-    "totalTracks": 2,
-    "url": "https://open.spotify.com/album/4TY8BmOwafhuAIyOzJmRBV",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734d5ba5c1680904c0103b32cb",
+    "releaseDate": "2024-12-20",
+    "tags": [
+      "rap"
+    ],
+    "title": "#почуття",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4TY8BmOwafhuAIyOzJmRBV"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO"],
+    ],
+    "artists": [
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "BlaBlaCar",
-    "releaseDate": "2024-12-06",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2qZCkz6Mkg5avNhm96MH4i",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737b194fce632c1af77e3eed2b",
+    "releaseDate": "2024-12-06",
+    "tags": [
+      "rap"
+    ],
+    "title": "BlaBlaCar",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2qZCkz6Mkg5avNhm96MH4i"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO"],
+    ],
+    "artists": [
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "ENKO flow",
-    "releaseDate": "2024-11-15",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4ESVxnODQD1Pnq0sBJCVqW",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c419da1eb26c2f84b57d3c7e",
+    "releaseDate": "2024-11-15",
+    "tags": [
+      "rap"
+    ],
+    "title": "ENKO flow",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4ESVxnODQD1Pnq0sBJCVqW"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO"],
+    ],
+    "artists": [
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "Востаннє",
-    "releaseDate": "2024-08-29",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0Q249Cx32Pso1qlzORCReH",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27332f765839e233d68058986c6",
+    "releaseDate": "2024-08-29",
+    "tags": [
+      "rap"
+    ],
+    "title": "Востаннє",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0Q249Cx32Pso1qlzORCReH"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Райчу", "STAS AZARENKO"],
+    ],
+    "artists": [
+      "Райчу",
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 25,
-    "title": "Пам'ятаю",
-    "releaseDate": "2024-08-16",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5W3FqAGevl6iwlzWcwoApk",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a90b652f0e18b0a024513b9f",
+    "releaseDate": "2024-08-16",
+    "tags": [
+      "pop",
+      "electropop",
+      "rap"
+    ],
+    "title": "Пам'ятаю",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5W3FqAGevl6iwlzWcwoApk"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO"],
+    ],
+    "artists": [
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "Кратом Флоу",
-    "releaseDate": "2024-08-02",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5rR7qs4tqEN3ReHPczdWKE",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a0aefa1d727afcbce00292d4",
+    "releaseDate": "2024-08-02",
+    "tags": [
+      "rap"
+    ],
+    "title": "Кратом Флоу",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5rR7qs4tqEN3ReHPczdWKE"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO", "Liesad"],
+    ],
+    "artists": [
+      "STAS AZARENKO",
+      "Liesad"
+    ],
     "artistsPopularity": 21,
-    "title": "НАРОДЖЕНІ ЛІТАТИ",
-    "releaseDate": "2024-07-12",
-    "type": "single",
-    "totalTracks": 4,
-    "url": "https://open.spotify.com/album/4i6xqNez3oGzrhiKq0AOk0",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739bcce241d39e1cc0d42c9e86",
+    "releaseDate": "2024-07-12",
+    "tags": [
+      "rap"
+    ],
+    "title": "НАРОДЖЕНІ ЛІТАТИ",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4i6xqNez3oGzrhiKq0AOk0"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO"],
+    ],
+    "artists": [
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "ЩЕ ГІРШЕ",
-    "releaseDate": "2024-07-05",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7Bx2MSMIFCoB13U1ryWcqM",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273075399b87f6f9e9fe9b8c459",
+    "releaseDate": "2024-07-05",
+    "tags": [
+      "rap"
+    ],
+    "title": "ЩЕ ГІРШЕ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7Bx2MSMIFCoB13U1ryWcqM"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO"],
+    ],
+    "artists": [
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "Братан, за нами пасуть",
-    "releaseDate": "2024-05-31",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5o1pTp2Gsb6e1PGv3Sp7Q7",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27379150691e632970c2531567a",
+    "releaseDate": "2024-05-31",
+    "tags": [
+      "rap"
+    ],
+    "title": "Братан, за нами пасуть",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5o1pTp2Gsb6e1PGv3Sp7Q7"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO"],
+    ],
+    "artists": [
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "Vanbios",
-    "releaseDate": "2024-04-05",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0ZeNwIOJ5VzIAFdm38Uczp",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732419b14199cd38df8990be3e",
+    "releaseDate": "2024-04-05",
+    "tags": [
+      "rap"
+    ],
+    "title": "Vanbios",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0ZeNwIOJ5VzIAFdm38Uczp"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO", "FORCEGNG"],
+    ],
+    "artists": [
+      "STAS AZARENKO",
+      "FORCEGNG"
+    ],
     "artistsPopularity": 21,
-    "title": "2headed Goat",
-    "releaseDate": "2024-03-29",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6gx8Keo18O3lKaoW0hpK1T",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27316579888ad1bc09b799964c9",
+    "releaseDate": "2024-03-29",
+    "tags": [
+      "rap"
+    ],
+    "title": "2headed Goat",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6gx8Keo18O3lKaoW0hpK1T"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO"],
+    ],
+    "artists": [
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "99 Problem",
-    "releaseDate": "2024-03-15",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6iXxBkhaOz3hi20UcrvWlO",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733d4f162c1178b08f6e47c4f4",
+    "releaseDate": "2024-03-15",
+    "tags": [
+      "rap"
+    ],
+    "title": "99 Problem",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6iXxBkhaOz3hi20UcrvWlO"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO"],
+    ],
+    "artists": [
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "Діти",
-    "releaseDate": "2024-03-01",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2dN5o5dRaEsRQkHCrKphxk",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bd11736ae143213304e2b2c5",
+    "releaseDate": "2024-03-01",
+    "tags": [
+      "rap"
+    ],
+    "title": "Діти",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2dN5o5dRaEsRQkHCrKphxk"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO", "WAGGONKID"],
+    ],
+    "artists": [
+      "STAS AZARENKO",
+      "WAGGONKID"
+    ],
     "artistsPopularity": 21,
-    "title": "Що?",
-    "releaseDate": "2024-02-16",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3rdG73t5DGqdKWfFOKNTz5",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b65636f85ba6782a4fddfb52",
+    "releaseDate": "2024-02-16",
+    "tags": [
+      "rap"
+    ],
+    "title": "Що?",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3rdG73t5DGqdKWfFOKNTz5"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Defy Def", "STAS AZARENKO"],
+    ],
+    "artists": [
+      "Defy Def",
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "На мені",
-    "releaseDate": "2024-02-02",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/21PYUEnvkZ4zTgTQZEOQ3A",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d464ced9d56ea9671f8f4bd1",
+    "releaseDate": "2024-02-02",
+    "tags": [
+      "rap"
+    ],
+    "title": "На мені",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/21PYUEnvkZ4zTgTQZEOQ3A"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["MARATTI", "Passway", "STAS AZARENKO"],
+    ],
+    "artists": [
+      "MARATTI",
+      "Passway",
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "ЗДОРОВІ ПАЧКИ",
-    "releaseDate": "2024-01-26",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5fcKxybBK0TShgB37TQRx1",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d6afe247b84ddda85a5932a1",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:24:35.157Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO", "LiL Flash$"],
-    "artistsPopularity": 41,
-    "title": "K City",
     "releaseDate": "2024-01-26",
-    "type": "single",
+    "tags": [
+      "rap"
+    ],
+    "title": "ЗДОРОВІ ПАЧКИ",
     "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7lGr2e6NixKPUB2ths7JyJ",
+    "type": "single",
+    "url": "https://open.spotify.com/album/5fcKxybBK0TShgB37TQRx1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:24:35.157Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "STAS AZARENKO",
+      "LiL Flash$"
+    ],
+    "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731dfcb84f7e71db4e25c6ede2",
+    "releaseDate": "2024-01-26",
+    "tags": [
+      "rap"
+    ],
+    "title": "K City",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7lGr2e6NixKPUB2ths7JyJ"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO"],
+    ],
+    "artists": [
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "Ти розбила мені серце (та ні, навряд чи)",
-    "releaseDate": "2024-01-12",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1sou9wU5QWvvGpIAYFvwG8",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27362e7a956971a16ff69e17471",
+    "releaseDate": "2024-01-12",
+    "tags": [
+      "rap"
+    ],
+    "title": "Ти розбила мені серце (та ні, навряд чи)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1sou9wU5QWvvGpIAYFvwG8"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Moor", "STAS AZARENKO"],
+    ],
+    "artists": [
+      "Moor",
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "Ярема",
-    "releaseDate": "2023-12-22",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3rzjBxzYabCnnnZHpVIlzY",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f1f322643950f7aa5eb03d1e",
+    "releaseDate": "2023-12-22",
+    "tags": [
+      "black metal",
+      "rap"
+    ],
+    "title": "Ярема",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3rzjBxzYabCnnnZHpVIlzY"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["ZODIAC X", "STAS AZARENKO"],
+    ],
+    "artists": [
+      "ZODIAC X",
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "Як ти там?",
-    "releaseDate": "2023-12-15",
-    "type": "single",
-    "totalTracks": 5,
-    "url": "https://open.spotify.com/album/2VSLdbyIaiw8EDgYrjZaA6",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27375c72b39055c850d9465f79d",
+    "releaseDate": "2023-12-15",
+    "tags": [
+      "rap"
+    ],
+    "title": "Як ти там?",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2VSLdbyIaiw8EDgYrjZaA6"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["spaalm", "STAS AZARENKO"],
+    ],
+    "artists": [
+      "spaalm",
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "Lifeis4bitch",
-    "releaseDate": "2023-12-01",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6kpkRWJ3NcR65gypMUh8yH",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734e7b93f3f9c1d048e8bde0f7",
+    "releaseDate": "2023-12-01",
+    "tags": [
+      "cloud rap",
+      "rap"
+    ],
+    "title": "Lifeis4bitch",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6kpkRWJ3NcR65gypMUh8yH"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO"],
+    ],
+    "artists": [
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "Генг",
-    "releaseDate": "2023-11-17",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4vCk5R60lTVfXRbc3tJM6r",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a380213372a46ef612ecbbbc",
+    "releaseDate": "2023-11-17",
+    "tags": [
+      "rap"
+    ],
+    "title": "Генг",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4vCk5R60lTVfXRbc3tJM6r"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Driplla", "FORCEGNG", "STAS AZARENKO"],
+    ],
+    "artists": [
+      "Driplla",
+      "FORCEGNG",
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "3mg",
-    "releaseDate": "2023-10-27",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2LDr6HccsrGSM03bLytiDk",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b1d1c20c3d97b2a79211258a",
+    "releaseDate": "2023-10-27",
+    "tags": [
+      "rap"
+    ],
+    "title": "3mg",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2LDr6HccsrGSM03bLytiDk"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO"],
+    ],
+    "artists": [
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "Mbappe",
-    "releaseDate": "2023-10-06",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2JfMgYqBu5fPiuTziFlBDR",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27377032eefe0775a4c9e571d19",
+    "releaseDate": "2023-10-06",
+    "tags": [
+      "rap"
+    ],
+    "title": "Mbappe",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2JfMgYqBu5fPiuTziFlBDR"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO"],
+    ],
+    "artists": [
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "Jonar",
-    "releaseDate": "2023-09-29",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5aAozLThfuelfSk8Sbvl08",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27366d2d076a75a5c8f2b98fbd8",
+    "releaseDate": "2023-09-29",
+    "tags": [
+      "rap"
+    ],
+    "title": "Jonar",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5aAozLThfuelfSk8Sbvl08"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO"],
+    ],
+    "artists": [
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "Sexy",
-    "releaseDate": "2023-07-21",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/53FDS3IUwznd4YnQr944Ak",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ec2cdd1db426798dd7d7d1fc",
+    "releaseDate": "2023-07-21",
+    "tags": [
+      "rap"
+    ],
+    "title": "Sexy",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/53FDS3IUwznd4YnQr944Ak"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["солджаа", "STAS AZARENKO"],
+    ],
+    "artists": [
+      "солджаа",
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "Xanax",
-    "releaseDate": "2023-06-16",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/43nXsR5nhBvpoG33mW03DL",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273234a01a01f7ac5a6da9c5bd8",
+    "releaseDate": "2023-06-16",
+    "tags": [
+      "rap"
+    ],
+    "title": "Xanax",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/43nXsR5nhBvpoG33mW03DL"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["OKAYSAMMY", "STAS AZARENKO"],
+    ],
+    "artists": [
+      "OKAYSAMMY",
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "Nemo",
-    "releaseDate": "2023-06-02",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3XLphpMaxuuYBMC2AlTyeN",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27361f735b4da651f09c8a35fe1",
+    "releaseDate": "2023-06-02",
+    "tags": [
+      "rap"
+    ],
+    "title": "Nemo",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3XLphpMaxuuYBMC2AlTyeN"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Nia Barbia", "STAS AZARENKO"],
+    ],
+    "artists": [
+      "Nia Barbia",
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "Need You",
-    "releaseDate": "2023-04-28",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4shCsB7rBbG1QbGROmEyA7",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27383aed85cbefa4a64f395129b",
+    "releaseDate": "2023-04-28",
+    "tags": [
+      "electronic",
+      "indie pop",
+      "rap",
+      "art pop"
+    ],
+    "title": "Need You",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4shCsB7rBbG1QbGROmEyA7"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["LIL MOREDOP3", "STAS AZARENKO"],
+    ],
+    "artists": [
+      "LIL MOREDOP3",
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "Картина",
-    "releaseDate": "2023-03-03",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2xfUTGkbn8CyupqlWfpOAz",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27320fbf806445e518e2be928ff",
+    "releaseDate": "2023-03-03",
+    "tags": [
+      "rap"
+    ],
+    "title": "Картина",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2xfUTGkbn8CyupqlWfpOAz"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["TOXIC", "STAS AZARENKO"],
+    ],
+    "artists": [
+      "TOXIC",
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "Kozlina Flow",
-    "releaseDate": "2023-01-19",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3gMWf9SVmRjZPZfR5HJ6X8",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273895616b343314b0415d6da22",
+    "releaseDate": "2023-01-19",
+    "tags": [
+      "psytrance",
+      "rap"
+    ],
+    "title": "Kozlina Flow",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3gMWf9SVmRjZPZfR5HJ6X8"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["35cake", "STAS AZARENKO"],
+    ],
+    "artists": [
+      "35cake",
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "CLAP",
-    "releaseDate": "2023-01-06",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1iltfcaQe2MWlHboXQyVG0",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733f198a7a45ed5baed8d1ed0b",
+    "releaseDate": "2023-01-06",
+    "tags": [
+      "rap"
+    ],
+    "title": "CLAP",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1iltfcaQe2MWlHboXQyVG0"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO"],
+    ],
+    "artists": [
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "Вухуху",
-    "releaseDate": "2022-12-23",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0b1ws5WiMx6FBAsN9BDZx4",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27308c64da56a64a7dfa1572f40",
+    "releaseDate": "2022-12-23",
+    "tags": [
+      "rap"
+    ],
+    "title": "Вухуху",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0b1ws5WiMx6FBAsN9BDZx4"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Zodiac X", "STAS AZARENKO"],
+    ],
+    "artists": [
+      "Zodiac X",
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "Де ти?",
-    "releaseDate": "2022-11-25",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/78RDVSTyiwCQGk0vziLS92",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c2b07ec01fa57483132becef",
+    "releaseDate": "2022-11-25",
+    "tags": [
+      "rap"
+    ],
+    "title": "Де ти?",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/78RDVSTyiwCQGk0vziLS92"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["LIL MOREDOP3", "STAS AZARENKO"],
+    ],
+    "artists": [
+      "LIL MOREDOP3",
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "Час",
-    "releaseDate": "2022-11-04",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3id77UHMuQNm2EaqorNquM",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f0d1542111965e5606a387c1",
+    "releaseDate": "2022-11-04",
+    "tags": [
+      "rap"
+    ],
+    "title": "Час",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3id77UHMuQNm2EaqorNquM"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO"],
+    ],
+    "artists": [
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "Люблю висіти",
-    "releaseDate": "2022-10-21",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2nikb6bLHjtQ6WpkAB8E6m",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735a6f8b00787a5f1550b08306",
+    "releaseDate": "2022-10-21",
+    "tags": [
+      "rap"
+    ],
+    "title": "Люблю висіти",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2nikb6bLHjtQ6WpkAB8E6m"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO", "FORCEGNG"],
+    ],
+    "artists": [
+      "STAS AZARENKO",
+      "FORCEGNG"
+    ],
     "artistsPopularity": 21,
-    "title": "BLA BLA BLA",
-    "releaseDate": "2022-09-30",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5s2OVuOLBeFuHJqfeCNDUA",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732c960ace12130ffa7bc5e7f3",
+    "releaseDate": "2022-09-30",
+    "tags": [
+      "rap"
+    ],
+    "title": "BLA BLA BLA",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5s2OVuOLBeFuHJqfeCNDUA"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO"],
+    ],
+    "artists": [
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "СПРАВЖНІЙ",
-    "releaseDate": "2022-09-02",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5uuR5BkptCjF55raUDLFNK",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273961a2d1b865f8b31f27893dc",
+    "releaseDate": "2022-09-02",
+    "tags": [
+      "rap"
+    ],
+    "title": "СПРАВЖНІЙ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5uuR5BkptCjF55raUDLFNK"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["FORCEGNG", "STAS AZARENKO", "CW1LL"],
+    ],
+    "artists": [
+      "FORCEGNG",
+      "STAS AZARENKO",
+      "CW1LL"
+    ],
     "artistsPopularity": 21,
-    "title": "GOATED",
-    "releaseDate": "2022-07-15",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5X8rA3R1pd2LtLyjzZlQDs",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e2ee2e89134c0aaae6d0e293",
+    "releaseDate": "2022-07-15",
+    "tags": [
+      "rap"
+    ],
+    "title": "GOATED",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5X8rA3R1pd2LtLyjzZlQDs"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO"],
+    ],
+    "artists": [
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "Эй Стас ты где?",
-    "releaseDate": "2022-05-06",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5jy5XbnB1w8gVtVe7B1Qde",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e9518c159af94ee02d8bc2f1",
+    "releaseDate": "2022-05-06",
+    "tags": [
+      "rap"
+    ],
+    "title": "Эй Стас ты где?",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5jy5XbnB1w8gVtVe7B1Qde"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO"],
+    ],
+    "artists": [
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "You Say",
-    "releaseDate": "2021-12-10",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/23lV0rHotlu0J6tvsHJcDS",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f4489a5b91d8bc4df380a15",
+    "releaseDate": "2021-12-10",
+    "tags": [
+      "rap"
+    ],
+    "title": "You Say",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/23lV0rHotlu0J6tvsHJcDS"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO"],
+    ],
+    "artists": [
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "В моменте",
-    "releaseDate": "2021-11-19",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2QDmQG9h3z0WpWVyI6G987",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27357e8f816a4f365f18b47bf0c",
+    "releaseDate": "2021-11-19",
+    "tags": [
+      "rap"
+    ],
+    "title": "В моменте",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2QDmQG9h3z0WpWVyI6G987"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Асадай", "47size", "STAS AZARENKO", "G Glizzie"],
+    ],
+    "artists": [
+      "Асадай",
+      "47size",
+      "STAS AZARENKO",
+      "G Glizzie"
+    ],
     "artistsPopularity": 21,
-    "title": "4 сыра (Prod. by ANGELILUVYOU)",
-    "releaseDate": "2021-08-01",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3YzqgpvNLWYMVryuwvlpp8",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c5e678fd6b40d3a03c2587c3",
+    "releaseDate": "2021-08-01",
+    "tags": [
+      "rap"
+    ],
+    "title": "4 сыра (Prod. by ANGELILUVYOU)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3YzqgpvNLWYMVryuwvlpp8"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO"],
+    ],
+    "artists": [
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "Basketball Ass (Prod. by ERROR696)",
-    "releaseDate": "2021-06-28",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2kuBgveTquIHNku1dlyprN",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27330f9fa597742c3e2f2b4afca",
+    "releaseDate": "2021-06-28",
+    "tags": [
+      "rap"
+    ],
+    "title": "Basketball Ass (Prod. by ERROR696)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2kuBgveTquIHNku1dlyprN"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO", "Асадай"],
+    ],
+    "artists": [
+      "STAS AZARENKO",
+      "Асадай"
+    ],
     "artistsPopularity": 21,
-    "title": "Wake Up",
-    "releaseDate": "2021-06-12",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3mZBBt62b0ebN9nQdRQET8",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737cc62671efdccd1309ee07bb",
+    "releaseDate": "2021-06-12",
+    "tags": [
+      "rap"
+    ],
+    "title": "Wake Up",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3mZBBt62b0ebN9nQdRQET8"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO"],
+    ],
+    "artists": [
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "Курю дерьмо",
-    "releaseDate": "2021-06-01",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4CK4QJlZZXpdKutVitztFP",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e32e586876bfe6f3b8104ff3",
+    "releaseDate": "2021-06-01",
+    "tags": [
+      "rap"
+    ],
+    "title": "Курю дерьмо",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4CK4QJlZZXpdKutVitztFP"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["STAS AZARENKO"],
+    ],
+    "artists": [
+      "STAS AZARENKO"
+    ],
     "artistsPopularity": 21,
-    "title": "Wave",
-    "releaseDate": "2020-11-23",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3FRBiPpxc6XTy8oKh8M5Qd",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273543afe5edf9a0d1c40d29f6b",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:24:35.157Z",
-        "type": "FOUND"
-      }
-    ]
+    "releaseDate": "2020-11-23",
+    "tags": [
+      "rap"
+    ],
+    "title": "Wave",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3FRBiPpxc6XTy8oKh8M5Qd"
   },
   {
-    "artists": ["STAS AZARENKO"],
-    "artistsPopularity": 21,
-    "title": "Made in Ua",
-    "releaseDate": "2020-09-14",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4AJoLFYS77UItl6aOdM7Rv",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733b252f846e2593e88e819843",
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
       }
-    ]
+    ],
+    "artists": [
+      "STAS AZARENKO"
+    ],
+    "artistsPopularity": 21,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733b252f846e2593e88e819843",
+    "releaseDate": "2020-09-14",
+    "tags": [
+      "rap"
+    ],
+    "title": "Made in Ua",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4AJoLFYS77UItl6aOdM7Rv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T07:24:33.255Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "STAS AZARENKO"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a81f4c5d611bc20cf679812e",
+    "releaseDate": "2023-08-11",
+    "tags": [
+      "rap"
+    ],
+    "title": "Mood Swings",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/64UXeorjt3Tp6JRN414w8U"
   }
 ]

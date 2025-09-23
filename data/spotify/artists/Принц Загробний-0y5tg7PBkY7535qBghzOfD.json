@@ -1,0 +1,48 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T07:21:23.639Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Козачок",
+      "Доместос",
+      "Принц Загробний"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27349204ed31a9ff091e9b05cba",
+    "releaseDate": "2020-02-20",
+    "tags": [
+      "rap",
+      "hip hop"
+    ],
+    "title": "Вестуха",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5zdrAG0V1xzBRFGEqpFA0A"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T07:21:23.639Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Козачок"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27365bc3b8edc2e490738007547",
+    "releaseDate": "2022-09-28",
+    "tags": [
+      "rap",
+      "hip hop"
+    ],
+    "title": "Макарони",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3RjlVLnqulXTWFyce6RYxK"
+  }
+]

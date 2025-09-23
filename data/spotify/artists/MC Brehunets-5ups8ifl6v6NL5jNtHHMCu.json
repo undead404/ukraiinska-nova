@@ -1,18 +1,25 @@
 [
   {
-    "artists": ["MC Brehunets"],
-    "artistsPopularity": 7,
-    "title": "Крисмас",
-    "releaseDate": "2023-12-22",
-    "type": "album",
-    "totalTracks": 11,
-    "url": "https://open.spotify.com/album/4WDjDhbqbzwLcrLGZU8aZ6",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27399ae89f9c44a8cd60cdeb0dd",
     "appearanceLog": [
       {
         "time": "2025-09-17T07:23:49.378Z",
         "type": "FOUND"
       }
-    ]
+    ],
+    "artists": [
+      "MC Brehunets"
+    ],
+    "artistsPopularity": 7,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27399ae89f9c44a8cd60cdeb0dd",
+    "releaseDate": "2023-12-22",
+    "tags": [
+      "electronic",
+      "new wave",
+      "post-punk"
+    ],
+    "title": "Крисмас",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4WDjDhbqbzwLcrLGZU8aZ6"
   }
 ]

@@ -1,0 +1,78 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T07:21:18.918Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Польовий"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273330d298e3b9facf27b9d148a",
+    "releaseDate": "2025-01-07",
+    "tags": [],
+    "title": "З днем народження, Віка!",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/27mMSxTfFi614sxHE0DIEq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T07:21:18.918Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Польовий"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733d5723c749789ff4ad91391c",
+    "releaseDate": "2024-04-26",
+    "tags": [],
+    "title": "23:59",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5dWPbbtjRG2CMvLLFNngsx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T07:21:18.918Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Польовий"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731b6b16f4cb674a98009446a7",
+    "releaseDate": "2022-11-01",
+    "tags": [],
+    "title": "я з повіями не дружу",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/37UjEIVRimi1f44oFivC9v"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T07:21:18.918Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Мілан"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27340dc9584ff082c9c1e87ee67",
+    "releaseDate": "2023-03-01",
+    "tags": [],
+    "title": "Happy Builder",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3gYspiMQVzf4KIcTGK6wJJ"
+  }
+]

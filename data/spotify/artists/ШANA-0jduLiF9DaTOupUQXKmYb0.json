@@ -1,82 +1,115 @@
 [
   {
-    "artists": ["ШANA"],
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:22:36.693Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ШANA"
+    ],
     "artistsPopularity": 0,
-    "title": "Молюсь",
-    "releaseDate": "2016-01-29",
-    "type": "album",
-    "totalTracks": 10,
-    "url": "https://open.spotify.com/album/3W9g1hnEtgqXKFpRhOjxuc",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737ebba2f25ef9dd3c2832d4a1",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:22:36.693Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["ШANA", "saymory"],
-    "artistsPopularity": 22,
-    "title": "Мій теплий дім",
-    "releaseDate": "2023-04-14",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5DtjO6be6eZXl528TVciEg",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b0fe5ee3273719cc9f5bd7db",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:22:36.693Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["ШANA"],
-    "artistsPopularity": 0,
-    "title": "Як ти?",
-    "releaseDate": "2023-02-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4VgczfP5FsGo10NQgh7oKI",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bd63049dc58fa1c90a224c1a",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:22:36.693Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["ШANA"],
-    "artistsPopularity": 0,
-    "title": "Тато",
-    "releaseDate": "2022-01-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2yimFxuhIqlKauZMRkwnz9",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733bab5bcde77a0d54a69cbf8c",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:22:36.693Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["ШANA"],
-    "artistsPopularity": 0,
+    "releaseDate": "2016-01-29",
+    "tags": [
+      "folk rock",
+      "alternative rock"
+    ],
     "title": "Молюсь",
-    "releaseDate": "2015",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/79LoQ33kcUyErcABLeXbEA",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736c8935f776b7a931047045bb",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3W9g1hnEtgqXKFpRhOjxuc"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:22:36.693Z",
         "type": "FOUND"
       }
-    ]
+    ],
+    "artists": [
+      "ШANA",
+      "saymory"
+    ],
+    "artistsPopularity": 22,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b0fe5ee3273719cc9f5bd7db",
+    "releaseDate": "2023-04-14",
+    "tags": [
+      "folk rock",
+      "alternative rock",
+      "ambient",
+      "electronic"
+    ],
+    "title": "Мій теплий дім",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5DtjO6be6eZXl528TVciEg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:22:36.693Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ШANA"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bd63049dc58fa1c90a224c1a",
+    "releaseDate": "2023-02-24",
+    "tags": [
+      "folk rock",
+      "alternative rock"
+    ],
+    "title": "Як ти?",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4VgczfP5FsGo10NQgh7oKI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:22:36.693Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ШANA"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733bab5bcde77a0d54a69cbf8c",
+    "releaseDate": "2022-01-24",
+    "tags": [
+      "folk rock",
+      "alternative rock"
+    ],
+    "title": "Тато",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2yimFxuhIqlKauZMRkwnz9"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:22:36.693Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ШANA"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736c8935f776b7a931047045bb",
+    "releaseDate": "2015",
+    "tags": [
+      "folk rock",
+      "alternative rock"
+    ],
+    "title": "Молюсь",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/79LoQ33kcUyErcABLeXbEA"
   }
 ]

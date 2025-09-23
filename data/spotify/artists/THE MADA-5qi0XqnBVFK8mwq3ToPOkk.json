@@ -1,290 +1,358 @@
 [
   {
-    "artists": ["AVRIN", "THE MADA"],
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:24:50.829Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "AVRIN",
+      "THE MADA"
+    ],
     "artistsPopularity": 10,
-    "title": "Дуже Літній Трек",
-    "releaseDate": "2023-07-21",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5Wi4v59YzLKoEd82cdtest",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fa1924ab966e8c3aee85a224",
+    "releaseDate": "2023-07-21",
+    "tags": [],
+    "title": "Дуже Літній Трек",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5Wi4v59YzLKoEd82cdtest"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:50.829Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["THE MADA", "PURPLEH00D"],
+    ],
+    "artists": [
+      "THE MADA",
+      "PURPLEH00D"
+    ],
     "artistsPopularity": 17,
-    "title": "Гоп!Ца-ца!",
-    "releaseDate": "2023-03-03",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3jIEbdPmREj3csI4SYlg5G",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f8017d77ab6781db77c56bab",
+    "releaseDate": "2023-03-03",
+    "tags": [],
+    "title": "Гоп!Ца-ца!",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3jIEbdPmREj3csI4SYlg5G"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:50.829Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["THE MADA", "KEYSEE"],
+    ],
+    "artists": [
+      "THE MADA",
+      "KEYSEE"
+    ],
     "artistsPopularity": 10,
-    "title": "М'ята",
-    "releaseDate": "2023-01-06",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5LGljNEjMdLf6H0NcLTpG0",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369c41ddadccfaa5266ba1dee",
+    "releaseDate": "2023-01-06",
+    "tags": [],
+    "title": "М'ята",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5LGljNEjMdLf6H0NcLTpG0"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:50.829Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["paashee", "THE MADA"],
+    ],
+    "artists": [
+      "paashee",
+      "THE MADA"
+    ],
     "artistsPopularity": 44,
-    "title": "WhoYou",
-    "releaseDate": "2022-11-04",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2Q4C1CZQPETVhApjqO9kZy",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273adb4131e45a151ae9188076a",
+    "releaseDate": "2022-11-04",
+    "tags": [
+      "rap"
+    ],
+    "title": "WhoYou",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2Q4C1CZQPETVhApjqO9kZy"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:50.829Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["THE MADA"],
+    ],
+    "artists": [
+      "THE MADA"
+    ],
     "artistsPopularity": 10,
-    "title": "CandyShop",
-    "releaseDate": "2022-10-14",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7dS4qX1NCUv3NfVROHXdIl",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a3f53f771f561a9393f94c8d",
+    "releaseDate": "2022-10-14",
+    "tags": [],
+    "title": "CandyShop",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7dS4qX1NCUv3NfVROHXdIl"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:50.829Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["THE MADA"],
+    ],
+    "artists": [
+      "THE MADA"
+    ],
     "artistsPopularity": 10,
-    "title": "Не літній",
-    "releaseDate": "2022-08-26",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4Asj6S9Xn73HPz7QTG0Gj7",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27309892a6b9f0f8987f4e0dd39",
+    "releaseDate": "2022-08-26",
+    "tags": [],
+    "title": "Не літній",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4Asj6S9Xn73HPz7QTG0Gj7"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:50.829Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["AVRIN", "THE MADA"],
+    ],
+    "artists": [
+      "AVRIN",
+      "THE MADA"
+    ],
     "artistsPopularity": 10,
-    "title": "Про кохання",
-    "releaseDate": "2022-07-13",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6tfu0REYc1FrTqs4YjwZ8w",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c2dda409030c837453db04f7",
+    "releaseDate": "2022-07-13",
+    "tags": [],
+    "title": "Про кохання",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6tfu0REYc1FrTqs4YjwZ8w"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:50.829Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["THE MADA"],
+    ],
+    "artists": [
+      "THE MADA"
+    ],
     "artistsPopularity": 10,
-    "title": "4.5.0., Pt. 1",
-    "releaseDate": "2022-04-19",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6t31jnviuTJgrMCQYClhfF",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c95deec163bd19bcee13bf50",
+    "releaseDate": "2022-04-19",
+    "tags": [],
+    "title": "4.5.0., Pt. 1",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6t31jnviuTJgrMCQYClhfF"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:50.829Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["THE MADA"],
+    ],
+    "artists": [
+      "THE MADA"
+    ],
     "artistsPopularity": 10,
-    "title": "Культурний дім",
-    "releaseDate": "2021-11-26",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5YidYTMB3XcePD8RmQJ2KW",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735ca5fadfe6b43c25952eeff9",
+    "releaseDate": "2021-11-26",
+    "tags": [],
+    "title": "Культурний дім",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5YidYTMB3XcePD8RmQJ2KW"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:50.829Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["THE MADA"],
+    ],
+    "artists": [
+      "THE MADA"
+    ],
     "artistsPopularity": 10,
-    "title": "Big Mac",
-    "releaseDate": "2021-07-30",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4510dOZz4zw4tpSdmol019",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e60502c039b2c3046a9b64fb",
+    "releaseDate": "2021-07-30",
+    "tags": [],
+    "title": "Big Mac",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4510dOZz4zw4tpSdmol019"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:50.829Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["THE MADA", "Panini"],
+    ],
+    "artists": [
+      "THE MADA",
+      "Panini"
+    ],
     "artistsPopularity": 16,
-    "title": "Let’s Go",
-    "releaseDate": "2021-05-13",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2TSS0JaXzsxdFlESsUaFPD",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eaf48465f8720841b8e29055",
+    "releaseDate": "2021-05-13",
+    "tags": [],
+    "title": "Let’s Go",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2TSS0JaXzsxdFlESsUaFPD"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:50.829Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["THE MADA", "Forlen"],
+    ],
+    "artists": [
+      "THE MADA",
+      "Forlen"
+    ],
     "artistsPopularity": 11,
-    "title": "Сумна Пісня (Forlen Remix)",
-    "releaseDate": "2021-04-30",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2YQ3R3YF0ql8So9cLf3eMI",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733c5409e6442ab5530f357a9b",
+    "releaseDate": "2021-04-30",
+    "tags": [],
+    "title": "Сумна Пісня (Forlen Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2YQ3R3YF0ql8So9cLf3eMI"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:50.829Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["THE MADA"],
+    ],
+    "artists": [
+      "THE MADA"
+    ],
     "artistsPopularity": 10,
-    "title": "Сумна пісня",
-    "releaseDate": "2021-02-17",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/71vJYIp2MIWSUHJkwrkpr8",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c63b53c59f2cac514a056ee8",
+    "releaseDate": "2021-02-17",
+    "tags": [],
+    "title": "Сумна пісня",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/71vJYIp2MIWSUHJkwrkpr8"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:50.829Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["THE MADA", "lvovskiy"],
+    ],
+    "artists": [
+      "THE MADA",
+      "lvovskiy"
+    ],
     "artistsPopularity": 10,
-    "title": "Перстень",
-    "releaseDate": "2020-12-19",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4VwfD9OTM9u1SoFWKqSKGl",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273073ededdbfe1d2c8f6e2fe27",
+    "releaseDate": "2020-12-19",
+    "tags": [],
+    "title": "Перстень",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4VwfD9OTM9u1SoFWKqSKGl"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:50.829Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["THE MADA"],
+    ],
+    "artists": [
+      "THE MADA"
+    ],
     "artistsPopularity": 10,
-    "title": "Sold Out",
-    "releaseDate": "2020-11-12",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5vNjkl4YCYABgj2GhyJNTa",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ff898c31ce72a1a2de7f7d04",
+    "releaseDate": "2020-11-12",
+    "tags": [],
+    "title": "Sold Out",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5vNjkl4YCYABgj2GhyJNTa"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:50.829Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["THE MADA", "MC Петя"],
+    ],
+    "artists": [
+      "THE MADA",
+      "MC Петя"
+    ],
     "artistsPopularity": 18,
-    "title": "Багами",
-    "releaseDate": "2020-08-21",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6ahzcxjHQyxR1gxd0cOROM",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273107e7516362ed6d696b60e0b",
+    "releaseDate": "2020-08-21",
+    "tags": [
+      "rap",
+      "clown"
+    ],
+    "title": "Багами",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6ahzcxjHQyxR1gxd0cOROM"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:50.829Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["THE MADA"],
+    ],
+    "artists": [
+      "THE MADA"
+    ],
     "artistsPopularity": 10,
-    "title": "Літній",
-    "releaseDate": "2020-07-18",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7rk6sjWcYSmTDaKiZbfirh",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a95a9f6ff247295fcbdf02cd",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:24:50.829Z",
-        "type": "FOUND"
-      }
-    ]
+    "releaseDate": "2020-07-18",
+    "tags": [],
+    "title": "Літній",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7rk6sjWcYSmTDaKiZbfirh"
   },
   {
-    "artists": ["THE MADA"],
-    "artistsPopularity": 10,
-    "title": "Мені похуй хто твій батя",
-    "releaseDate": "2019-12-26",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7hoKfSeFnsGFnBz4faGatG",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27322b046c04723c6dd49616cda",
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:50.829Z",
         "type": "FOUND"
       }
-    ]
+    ],
+    "artists": [
+      "THE MADA"
+    ],
+    "artistsPopularity": 10,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27322b046c04723c6dd49616cda",
+    "releaseDate": "2019-12-26",
+    "tags": [],
+    "title": "Мені похуй хто твій батя",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7hoKfSeFnsGFnBz4faGatG"
   }
 ]

@@ -1,210 +1,280 @@
 [
   {
-    "artists": ["Do Sliz"],
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:23:06.635Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Do Sliz"
+    ],
     "artistsPopularity": 37,
-    "title": "Але якщо ти...",
-    "releaseDate": "2025-08-15",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5Fyebkxq95Y4Sdp3R9H13G",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c134096999ef22c8ac7fe3f3",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:23:06.635Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Do Sliz"],
-    "artistsPopularity": 37,
-    "title": "Ice Through Eyes",
     "releaseDate": "2025-08-15",
-    "type": "single",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Але якщо ти...",
     "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1cLoffysHg7EL6X3GwMLrR",
+    "type": "single",
+    "url": "https://open.spotify.com/album/5Fyebkxq95Y4Sdp3R9H13G"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:23:06.635Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Do Sliz"
+    ],
+    "artistsPopularity": 37,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734e94bb8dc8c6643b46a5ac5a",
+    "releaseDate": "2025-08-15",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Ice Through Eyes",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1cLoffysHg7EL6X3GwMLrR"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:23:06.635Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Do Sliz"],
+    ],
+    "artists": [
+      "Do Sliz"
+    ],
     "artistsPopularity": 37,
-    "title": "Ватра",
-    "releaseDate": "2025-05-16",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4eRdb5rdijtSGYQeT8hIWy",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734c7f4ba42bf0306b6f6281de",
+    "releaseDate": "2025-05-16",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Ватра",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4eRdb5rdijtSGYQeT8hIWy"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:23:06.635Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Do Sliz"],
+    ],
+    "artists": [
+      "Do Sliz"
+    ],
     "artistsPopularity": 37,
-    "title": "Серцебиття",
-    "releaseDate": "2025-03-07",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5MlpaSB5L7h40HWIme9Rgh",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273075f1b19cec7ad496839e977",
+    "releaseDate": "2025-03-07",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Серцебиття",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5MlpaSB5L7h40HWIme9Rgh"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:23:06.635Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Do Sliz"],
+    ],
+    "artists": [
+      "Do Sliz"
+    ],
     "artistsPopularity": 37,
-    "title": "По колу",
-    "releaseDate": "2025-01-17",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6VocF3CyRFvjvboIV4PGT5",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733cd363215601523d98b7e684",
+    "releaseDate": "2025-01-17",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "По колу",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6VocF3CyRFvjvboIV4PGT5"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:23:06.635Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Do Sliz"],
+    ],
+    "artists": [
+      "Do Sliz"
+    ],
     "artistsPopularity": 37,
-    "title": "Палає світ",
-    "releaseDate": "2024-11-29",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1Np05mpO4vDkLA2Y2OJDsT",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731552025a1c6cb13400e6fbbb",
+    "releaseDate": "2024-11-29",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Палає світ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1Np05mpO4vDkLA2Y2OJDsT"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:23:06.635Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Do Sliz"],
+    ],
+    "artists": [
+      "Do Sliz"
+    ],
     "artistsPopularity": 37,
-    "title": "Що якщо",
-    "releaseDate": "2024-09-26",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4dt1RncTIV5GOV9ANMtecF",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27344ee05873d0a690ff0f475f5",
+    "releaseDate": "2024-09-26",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Що якщо",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4dt1RncTIV5GOV9ANMtecF"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:23:06.635Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Do Sliz"],
+    ],
+    "artists": [
+      "Do Sliz"
+    ],
     "artistsPopularity": 37,
-    "title": "Літосінь",
-    "releaseDate": "2024-08-08",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6zwQScFqObr21OcWHqq6MI",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27326129b2a90d8015460d441a3",
+    "releaseDate": "2024-08-08",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Літосінь",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6zwQScFqObr21OcWHqq6MI"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:23:06.635Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Do Sliz"],
+    ],
+    "artists": [
+      "Do Sliz"
+    ],
     "artistsPopularity": 37,
-    "title": "Пішли на секонд",
-    "releaseDate": "2024-06-28",
-    "type": "single",
-    "totalTracks": 2,
-    "url": "https://open.spotify.com/album/4GQfa63ghCM0f34i0z3cry",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27393a51cf6752c0baa464a2223",
+    "releaseDate": "2024-06-28",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Пішли на секонд",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4GQfa63ghCM0f34i0z3cry"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:23:06.635Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Апатія", "Do Sliz"],
+    ],
+    "artists": [
+      "Апатія",
+      "Do Sliz"
+    ],
     "artistsPopularity": 37,
-    "title": "Стань моїм вбивцею",
-    "releaseDate": "2024-05-10",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0cA8QY6e0FnqJAY8Cnumve",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27343fc549db7b05e17ef8975be",
+    "releaseDate": "2024-05-10",
+    "tags": [
+      "emo",
+      "indie pop",
+      "alternative rock"
+    ],
+    "title": "Стань моїм вбивцею",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0cA8QY6e0FnqJAY8Cnumve"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:23:06.635Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Do Sliz"],
+    ],
+    "artists": [
+      "Do Sliz"
+    ],
     "artistsPopularity": 37,
-    "title": "Кошенята",
-    "releaseDate": "2024-04-05",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0Ttcj9hFr2X2gz8HQmzETd",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273863f40989efbb4366dfc7894",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:23:06.635Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["SadSvit", "Do Sliz"],
-    "artistsPopularity": 56,
-    "title": "Луги",
-    "releaseDate": "2024-01-19",
-    "type": "single",
+    "releaseDate": "2024-04-05",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Кошенята",
     "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7rFdDzZpQkzXw48uhQ7Owm",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738b003cc2b0646bc16b785f21",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:23:06.635Z",
-        "type": "FOUND"
-      }
-    ]
+    "type": "single",
+    "url": "https://open.spotify.com/album/0Ttcj9hFr2X2gz8HQmzETd"
   },
   {
-    "artists": ["SadSvit"],
-    "artistsPopularity": 56,
-    "title": "Цвіт магнолії",
-    "releaseDate": "2024-11-14",
-    "type": "album",
-    "totalTracks": 11,
-    "url": "https://open.spotify.com/album/3KyAaHsjONfqFvEe9UtfCb",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735fefe877a3be922418c509f6",
     "appearanceLog": [
       {
         "time": "2025-09-17T07:23:06.635Z",
         "type": "FOUND"
       }
-    ]
+    ],
+    "artists": [
+      "SadSvit",
+      "Do Sliz"
+    ],
+    "artistsPopularity": 56,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738b003cc2b0646bc16b785f21",
+    "releaseDate": "2024-01-19",
+    "tags": [
+      "post-punk",
+      "indie pop"
+    ],
+    "title": "Луги",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7rFdDzZpQkzXw48uhQ7Owm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:23:06.635Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SadSvit"
+    ],
+    "artistsPopularity": 56,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735fefe877a3be922418c509f6",
+    "releaseDate": "2024-11-14",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Цвіт магнолії",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3KyAaHsjONfqFvEe9UtfCb"
   }
 ]

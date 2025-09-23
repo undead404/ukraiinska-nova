@@ -1,66 +1,90 @@
 [
   {
-    "artists": ["Полюси"],
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:22:32.806Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Полюси"
+    ],
     "artistsPopularity": 0,
-    "title": "Всі пісні",
-    "releaseDate": "2021-10-30",
-    "type": "album",
-    "totalTracks": 23,
-    "url": "https://open.spotify.com/album/0DdvcLMdLwCDPvQ0c7xXHG",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739051ebe4dcc920784905c769",
+    "releaseDate": "2021-10-30",
+    "tags": [
+      "alternative rock"
+    ],
+    "title": "Всі пісні",
+    "totalTracks": 23,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0DdvcLMdLwCDPvQ0c7xXHG"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:22:32.806Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Airport", "Полюси"],
+    ],
+    "artists": [
+      "Airport",
+      "Полюси"
+    ],
     "artistsPopularity": 9,
-    "title": "Любові корабель",
-    "releaseDate": "2024-09-11",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0v7hHH0GW1JCnEoOZraxZN",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d422c1a2ebdf0688abebae9e",
+    "releaseDate": "2024-09-11",
+    "tags": [
+      "rock",
+      "alternative rock",
+      "japanese",
+      "alternative"
+    ],
+    "title": "Любові корабель",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0v7hHH0GW1JCnEoOZraxZN"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:22:32.806Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Полюси"],
+    ],
+    "artists": [
+      "Полюси"
+    ],
     "artistsPopularity": 0,
-    "title": "Cолодкий перший сніг 2023",
-    "releaseDate": "2023-12-11",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/45FyfdfDAS6wQXQ9jcsbup",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ddd7b1fa0ae7887ad5292b0f",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:22:32.806Z",
-        "type": "FOUND"
-      }
-    ]
+    "releaseDate": "2023-12-11",
+    "tags": [
+      "alternative rock"
+    ],
+    "title": "Cолодкий перший сніг 2023",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/45FyfdfDAS6wQXQ9jcsbup"
   },
   {
-    "artists": ["Полюси"],
-    "artistsPopularity": 0,
-    "title": "Схоже",
-    "releaseDate": "2021-04-02",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/10UEyjXBD2NK6nPXK3lqlI",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27363f8e480cb385628fd1f1665",
     "appearanceLog": [
       {
         "time": "2025-09-17T07:22:32.806Z",
         "type": "FOUND"
       }
-    ]
+    ],
+    "artists": [
+      "Полюси"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27363f8e480cb385628fd1f1665",
+    "releaseDate": "2021-04-02",
+    "tags": [
+      "alternative rock"
+    ],
+    "title": "Схоже",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/10UEyjXBD2NK6nPXK3lqlI"
   }
 ]

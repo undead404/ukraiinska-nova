@@ -1,546 +1,723 @@
 [
   {
-    "artists": ["Wellboy"],
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:25:17.397Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Wellboy"
+    ],
     "artistsPopularity": 47,
-    "title": "8 марабу",
-    "releaseDate": "2022-12-16",
-    "type": "album",
-    "totalTracks": 8,
-    "url": "https://open.spotify.com/album/2Q0kX7go1YkwNVix8e1Chw",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730af07d4c10ffdae04e3049ee",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:25:17.397Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Wellboy"],
-    "artistsPopularity": 47,
-    "title": "Міняй УЄ",
-    "releaseDate": "2025-09-04",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1xTCi76RlvOACAkzzao0rZ",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b7661103f14a67c427a3944d",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:25:17.397Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Wellboy"],
-    "artistsPopularity": 47,
-    "title": "Люди на Землі",
-    "releaseDate": "2025-08-20",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0fGoKyDblK44FJPiZZcmqH",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c6f65d85e451d307e4e9b25d",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:25:17.397Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Wellboy"],
-    "artistsPopularity": 47,
-    "title": "Аяуаска",
-    "releaseDate": "2025-07-09",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/30Bta9AfqUCI5Rbrvyw6fd",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27359d05ce49a9893ec09f0dbbc",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:25:17.397Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Wellboy"],
-    "artistsPopularity": 47,
-    "title": "В Душевном Криму",
-    "releaseDate": "2025-05-08",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0rfwHzYVtMoYD7d192Q2xU",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737c60d4c82765d962da3fac9d",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:25:17.397Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Wellboy"],
-    "artistsPopularity": 47,
-    "title": "Ґуля",
-    "releaseDate": "2025-03-21",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2rcbkIaNrOWlVZm2rYz1AU",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a78837e5ea33eb65e1ec08df",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:25:17.397Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Wellboy"],
-    "artistsPopularity": 47,
-    "title": "тоша",
-    "releaseDate": "2024-12-06",
-    "type": "single",
-    "totalTracks": 5,
-    "url": "https://open.spotify.com/album/4T6Cd1vobRyq5MRByzFMN7",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733514c51b1a492e8fd2a62a81",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:25:17.397Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Wellboy", "Уляна Шуба"],
-    "artistsPopularity": 47,
-    "title": "Без пожалуста",
-    "releaseDate": "2024-11-08",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3WO8pfTA4JG3ohrG8N5J97",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bd3609fbbfeca67e75e7f073",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:25:17.397Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Wellboy", "KUGATESSA"],
-    "artistsPopularity": 47,
-    "title": "Мені так треба",
-    "releaseDate": "2024-10-16",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2bWFRYbngnlthr4arQJGsz",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273525cd571c097277a9f2ab4df",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:25:17.397Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Quest Pistols", "Wellboy", "Parfeniuk"],
-    "artistsPopularity": 52,
-    "title": "ДІВ ЧИНА",
-    "releaseDate": "2024-08-16",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1SttK8SE9WKqZiX2IrUMfX",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736065602dc6ec969b5321d83b",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:25:17.397Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Wellboy"],
-    "artistsPopularity": 47,
-    "title": "Цифри",
-    "releaseDate": "2024-05-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7bPfY6hvwfXzn3p6MjqsRv",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273466931d63c9427058673567c",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:25:17.397Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["BRYKULETS", "Wellboy"],
-    "artistsPopularity": 49,
-    "title": "Перший крок",
-    "releaseDate": "2024-05-17",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0V476irIPRBpdoTMYhpOIo",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27356f96dc420f61f07ef957296",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:25:17.397Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Wellboy", "Parfeniuk"],
-    "artistsPopularity": 52,
-    "title": "Забий",
-    "releaseDate": "2024-02-16",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4diYnGIkyPOK6icZwTt6rM",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27326f0c2b754381093f7617ab2",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:25:17.397Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Wellboy"],
-    "artistsPopularity": 47,
-    "title": "Життя",
-    "releaseDate": "2023-12-12",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1CzeqMvPbHCoyIuIJ1fbCG",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27306b4633d1156dab75749aa63",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:25:17.397Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Wellboy"],
-    "artistsPopularity": 47,
-    "title": "Обняв-припідняв",
-    "releaseDate": "2023-11-17",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3OBIVfNkxtznt33GXq2R9l",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27379e3804420e8123763e703d3",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:25:17.397Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Wellboy"],
-    "artistsPopularity": 47,
-    "title": "Вовча ягода",
-    "releaseDate": "2023-10-06",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0GvgSE88aNh5pPXi2dwevn",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27347729b689693e3bcf6fe32fb",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:25:17.397Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Wellboy"],
-    "artistsPopularity": 47,
-    "title": "Очі",
-    "releaseDate": "2023-10-05",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2DXbeKI8cOS27VnbYptV4X",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273da22264ae8a16ed0c9bf969c",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:25:17.397Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Wellboy"],
-    "artistsPopularity": 47,
-    "title": "Пустоцвіт",
-    "releaseDate": "2023-07-28",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7qFKSHDKrJ5asSrjZMU9ug",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27357f67c53c30cfa8b54088998",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:25:17.397Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Wellboy"],
-    "artistsPopularity": 47,
-    "title": "Документи у Дії",
-    "releaseDate": "2023-06-15",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5dzXVhaDHytYMqTzPC1up2",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d9b4da88ad6e89427f4b1c66",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:25:17.397Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Wellboy"],
-    "artistsPopularity": 47,
-    "title": "Вишні (New Year Version)",
-    "releaseDate": "2022-12-30",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2cKmWxYZmqblULCShFrSbR",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27382836f19ab227729b18f84a2",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:25:17.397Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Wellboy"],
-    "artistsPopularity": 47,
-    "title": "Gęsi",
     "releaseDate": "2022-12-16",
-    "type": "single",
+    "tags": [
+      "pop"
+    ],
+    "title": "8 марабу",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2Q0kX7go1YkwNVix8e1Chw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:25:17.397Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Wellboy"
+    ],
+    "artistsPopularity": 47,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b7661103f14a67c427a3944d",
+    "releaseDate": "2025-09-04",
+    "tags": [
+      "pop"
+    ],
+    "title": "Міняй УЄ",
     "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7zKSmnYUHWb2VnoKdh3OWp",
+    "type": "single",
+    "url": "https://open.spotify.com/album/1xTCi76RlvOACAkzzao0rZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:25:17.397Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Wellboy"
+    ],
+    "artistsPopularity": 47,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c6f65d85e451d307e4e9b25d",
+    "releaseDate": "2025-08-20",
+    "tags": [
+      "pop"
+    ],
+    "title": "Люди на Землі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0fGoKyDblK44FJPiZZcmqH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:25:17.397Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Wellboy"
+    ],
+    "artistsPopularity": 47,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27359d05ce49a9893ec09f0dbbc",
+    "releaseDate": "2025-07-09",
+    "tags": [
+      "pop"
+    ],
+    "title": "Аяуаска",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/30Bta9AfqUCI5Rbrvyw6fd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:25:17.397Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Wellboy"
+    ],
+    "artistsPopularity": 47,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737c60d4c82765d962da3fac9d",
+    "releaseDate": "2025-05-08",
+    "tags": [
+      "pop"
+    ],
+    "title": "В Душевном Криму",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0rfwHzYVtMoYD7d192Q2xU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:25:17.397Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Wellboy"
+    ],
+    "artistsPopularity": 47,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a78837e5ea33eb65e1ec08df",
+    "releaseDate": "2025-03-21",
+    "tags": [
+      "pop"
+    ],
+    "title": "Ґуля",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2rcbkIaNrOWlVZm2rYz1AU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:25:17.397Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Wellboy"
+    ],
+    "artistsPopularity": 47,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733514c51b1a492e8fd2a62a81",
+    "releaseDate": "2024-12-06",
+    "tags": [
+      "pop"
+    ],
+    "title": "тоша",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4T6Cd1vobRyq5MRByzFMN7"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:25:17.397Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Wellboy",
+      "Уляна Шуба"
+    ],
+    "artistsPopularity": 47,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bd3609fbbfeca67e75e7f073",
+    "releaseDate": "2024-11-08",
+    "tags": [
+      "pop"
+    ],
+    "title": "Без пожалуста",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3WO8pfTA4JG3ohrG8N5J97"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:25:17.397Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Wellboy",
+      "KUGATESSA"
+    ],
+    "artistsPopularity": 47,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273525cd571c097277a9f2ab4df",
+    "releaseDate": "2024-10-16",
+    "tags": [
+      "pop",
+      "indie pop"
+    ],
+    "title": "Мені так треба",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2bWFRYbngnlthr4arQJGsz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:25:17.397Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quest Pistols",
+      "Wellboy",
+      "Parfeniuk"
+    ],
+    "artistsPopularity": 52,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736065602dc6ec969b5321d83b",
+    "releaseDate": "2024-08-16",
+    "tags": [
+      "pop",
+      "dance"
+    ],
+    "title": "ДІВ ЧИНА",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1SttK8SE9WKqZiX2IrUMfX"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:25:17.397Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Wellboy"
+    ],
+    "artistsPopularity": 47,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273466931d63c9427058673567c",
+    "releaseDate": "2024-05-24",
+    "tags": [
+      "pop"
+    ],
+    "title": "Цифри",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7bPfY6hvwfXzn3p6MjqsRv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:25:17.397Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BRYKULETS",
+      "Wellboy"
+    ],
+    "artistsPopularity": 49,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27356f96dc420f61f07ef957296",
+    "releaseDate": "2024-05-17",
+    "tags": [
+      "hip hop",
+      "pop"
+    ],
+    "title": "Перший крок",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0V476irIPRBpdoTMYhpOIo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:25:17.397Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Wellboy",
+      "Parfeniuk"
+    ],
+    "artistsPopularity": 52,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27326f0c2b754381093f7617ab2",
+    "releaseDate": "2024-02-16",
+    "tags": [
+      "pop"
+    ],
+    "title": "Забий",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4diYnGIkyPOK6icZwTt6rM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:25:17.397Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Wellboy"
+    ],
+    "artistsPopularity": 47,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27306b4633d1156dab75749aa63",
+    "releaseDate": "2023-12-12",
+    "tags": [
+      "pop"
+    ],
+    "title": "Життя",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1CzeqMvPbHCoyIuIJ1fbCG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:25:17.397Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Wellboy"
+    ],
+    "artistsPopularity": 47,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27379e3804420e8123763e703d3",
+    "releaseDate": "2023-11-17",
+    "tags": [
+      "pop"
+    ],
+    "title": "Обняв-припідняв",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3OBIVfNkxtznt33GXq2R9l"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:25:17.397Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Wellboy"
+    ],
+    "artistsPopularity": 47,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27347729b689693e3bcf6fe32fb",
+    "releaseDate": "2023-10-06",
+    "tags": [
+      "pop"
+    ],
+    "title": "Вовча ягода",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0GvgSE88aNh5pPXi2dwevn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:25:17.397Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Wellboy"
+    ],
+    "artistsPopularity": 47,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273da22264ae8a16ed0c9bf969c",
+    "releaseDate": "2023-10-05",
+    "tags": [
+      "pop"
+    ],
+    "title": "Очі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2DXbeKI8cOS27VnbYptV4X"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:25:17.397Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Wellboy"
+    ],
+    "artistsPopularity": 47,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27357f67c53c30cfa8b54088998",
+    "releaseDate": "2023-07-28",
+    "tags": [
+      "pop"
+    ],
+    "title": "Пустоцвіт",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7qFKSHDKrJ5asSrjZMU9ug"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:25:17.397Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Wellboy"
+    ],
+    "artistsPopularity": 47,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d9b4da88ad6e89427f4b1c66",
+    "releaseDate": "2023-06-15",
+    "tags": [
+      "pop"
+    ],
+    "title": "Документи у Дії",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5dzXVhaDHytYMqTzPC1up2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:25:17.397Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Wellboy"
+    ],
+    "artistsPopularity": 47,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27382836f19ab227729b18f84a2",
+    "releaseDate": "2022-12-30",
+    "tags": [
+      "pop"
+    ],
+    "title": "Вишні (New Year Version)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2cKmWxYZmqblULCShFrSbR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:25:17.397Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Wellboy"
+    ],
+    "artistsPopularity": 47,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27375ce48f069c3619db6c19011",
+    "releaseDate": "2022-12-16",
+    "tags": [
+      "pop"
+    ],
+    "title": "Gęsi",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7zKSmnYUHWb2VnoKdh3OWp"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:25:17.397Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Wellboy"],
+    ],
+    "artists": [
+      "Wellboy"
+    ],
     "artistsPopularity": 47,
-    "title": "Стиль",
-    "releaseDate": "2022-10-21",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3ZvEOLDCG2zOQijzFTctCZ",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733de15ecef58b5f8f53cdd999",
+    "releaseDate": "2022-10-21",
+    "tags": [
+      "pop"
+    ],
+    "title": "Стиль",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3ZvEOLDCG2zOQijzFTctCZ"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:25:17.397Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Wellboy"],
+    ],
+    "artists": [
+      "Wellboy"
+    ],
     "artistsPopularity": 47,
-    "title": "Ворогів на ножі",
-    "releaseDate": "2022-07-13",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4H2e5D719YMfdrLY2X69Us",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735266ca5a0ff329d033273f43",
+    "releaseDate": "2022-07-13",
+    "tags": [
+      "pop"
+    ],
+    "title": "Ворогів на ножі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4H2e5D719YMfdrLY2X69Us"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:25:17.397Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Wellboy"],
+    ],
+    "artists": [
+      "Wellboy"
+    ],
     "artistsPopularity": 47,
-    "title": "Просто ми (із к/ф \"Я, \"Побєда\" і Берлін\")",
-    "releaseDate": "2022-04-27",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2rGHkf5CMwVq34ZP21ygbm",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f1e2cc3db904381819cfd2d4",
+    "releaseDate": "2022-04-27",
+    "tags": [
+      "pop"
+    ],
+    "title": "Просто ми (із к/ф \"Я, \"Побєда\" і Берлін\")",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2rGHkf5CMwVq34ZP21ygbm"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:25:17.397Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Wellboy"],
+    ],
+    "artists": [
+      "Wellboy"
+    ],
     "artistsPopularity": 47,
-    "title": "Nozzy Bossy",
-    "releaseDate": "2022-02-11",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4qnzD6h1ESoAHuFbAwHyHt",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738199ca10b50b401ad52c882c",
+    "releaseDate": "2022-02-11",
+    "tags": [
+      "pop"
+    ],
+    "title": "Nozzy Bossy",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4qnzD6h1ESoAHuFbAwHyHt"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:25:17.397Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Wellboy"],
+    ],
+    "artists": [
+      "Wellboy"
+    ],
     "artistsPopularity": 47,
-    "title": "Вишнi",
-    "releaseDate": "2021-10-22",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0npmuVcGDzW4y5CS5wnwBV",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f1dadb4a2c5c9a2b16b3093e",
+    "releaseDate": "2021-10-22",
+    "tags": [
+      "pop"
+    ],
+    "title": "Вишнi",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0npmuVcGDzW4y5CS5wnwBV"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:25:17.397Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Wellboy"],
+    ],
+    "artists": [
+      "Wellboy"
+    ],
     "artistsPopularity": 47,
-    "title": "Не колемось",
-    "releaseDate": "2020-03-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/43PsTWszWpA9ZHNw78aj5U",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273557992220e009ed2f1e5be6c",
+    "releaseDate": "2020-03-24",
+    "tags": [
+      "pop"
+    ],
+    "title": "Не колемось",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/43PsTWszWpA9ZHNw78aj5U"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:25:17.397Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Wellboy"],
+    ],
+    "artists": [
+      "Wellboy"
+    ],
     "artistsPopularity": 47,
-    "title": "Баба Мороз",
-    "releaseDate": "2019-12-27",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/13Yz0QbN3IkJ1zCssmRjM9",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27325af3ad07330fe97576d3406",
+    "releaseDate": "2019-12-27",
+    "tags": [
+      "pop"
+    ],
+    "title": "Баба Мороз",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/13Yz0QbN3IkJ1zCssmRjM9"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:25:17.397Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Wellboy"],
+    ],
+    "artists": [
+      "Wellboy"
+    ],
     "artistsPopularity": 47,
-    "title": "Вітер",
-    "releaseDate": "2019-12-11",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/15nV9gTquXQYbPbswmqL9A",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27349793162ba5d15e426441bc3",
+    "releaseDate": "2019-12-11",
+    "tags": [
+      "pop"
+    ],
+    "title": "Вітер",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/15nV9gTquXQYbPbswmqL9A"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:25:17.397Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Wellboy"],
+    ],
+    "artists": [
+      "Wellboy"
+    ],
     "artistsPopularity": 47,
-    "title": "Красивіше людей",
-    "releaseDate": "2019-11-29",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1UKNOqCl0UGwh4y2Ni17ty",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731dba2871051ad233441d151d",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:25:17.397Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Tina Karol"],
-    "artistsPopularity": 50,
-    "title": "Independence Day of Ukraine",
-    "releaseDate": "2023-08-24",
-    "type": "album",
-    "totalTracks": 30,
-    "url": "https://open.spotify.com/album/4zVg7y0XiEB2IBHlS33Fvn",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273772aae9152253b4ac90c2ef0",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:25:17.397Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Vaib UA"],
-    "artistsPopularity": 10,
-    "title": "Ой да мені сниться",
-    "releaseDate": "2025-07-30",
-    "type": "single",
+    "releaseDate": "2019-11-29",
+    "tags": [
+      "pop"
+    ],
+    "title": "Красивіше людей",
     "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2SRw4zVyFPgRoU9ja8IVCy",
+    "type": "single",
+    "url": "https://open.spotify.com/album/1UKNOqCl0UGwh4y2Ni17ty"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:25:17.397Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Tina Karol"
+    ],
+    "artistsPopularity": 50,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273772aae9152253b4ac90c2ef0",
+    "releaseDate": "2023-08-24",
+    "tags": [
+      "pop"
+    ],
+    "title": "Independence Day of Ukraine",
+    "totalTracks": 30,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4zVg7y0XiEB2IBHlS33Fvn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:25:17.397Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vaib UA"
+    ],
+    "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27330a3ab13397833b067368b00",
+    "releaseDate": "2025-07-30",
+    "tags": [],
+    "title": "Ой да мені сниться",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2SRw4zVyFPgRoU9ja8IVCy"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:25:17.397Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Tina Karol"],
+    ],
+    "artists": [
+      "Tina Karol"
+    ],
     "artistsPopularity": 50,
-    "title": "Українські пісні",
-    "releaseDate": "2022-03-25",
-    "type": "album",
-    "totalTracks": 22,
-    "url": "https://open.spotify.com/album/7gEapZ5kT3iXEH2iD4coHB",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738a07ba3f96b667c3d7ae81c5",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:25:17.397Z",
-        "type": "FOUND"
-      }
-    ]
+    "releaseDate": "2022-03-25",
+    "tags": [
+      "pop"
+    ],
+    "title": "Українські пісні",
+    "totalTracks": 22,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7gEapZ5kT3iXEH2iD4coHB"
   },
   {
-    "artists": ["Tina Karol"],
-    "artistsPopularity": 50,
-    "title": "Молода кров",
-    "releaseDate": "2021-08-20",
-    "type": "album",
-    "totalTracks": 7,
-    "url": "https://open.spotify.com/album/1Sbcj2v05TKMqOVEsT7WYJ",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ff5f8a94ba63dfd387b5467c",
     "appearanceLog": [
       {
         "time": "2025-09-17T07:25:17.397Z",
         "type": "FOUND"
       }
-    ]
+    ],
+    "artists": [
+      "Tina Karol"
+    ],
+    "artistsPopularity": 50,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ff5f8a94ba63dfd387b5467c",
+    "releaseDate": "2021-08-20",
+    "tags": [
+      "pop"
+    ],
+    "title": "Молода кров",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1Sbcj2v05TKMqOVEsT7WYJ"
   }
 ]

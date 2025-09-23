@@ -1,338 +1,462 @@
 [
   {
-    "artists": ["Riffmaster"],
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:24:00.417Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Riffmaster"
+    ],
     "artistsPopularity": 26,
-    "title": "Тихо Прийшов Тихо Пішов",
-    "releaseDate": "2023-02-24",
-    "type": "album",
-    "totalTracks": 9,
-    "url": "https://open.spotify.com/album/43mfi5UzFvhUPxD4p0lbGk",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735ed5830f6bf74f174f48d9bd",
+    "releaseDate": "2023-02-24",
+    "tags": [
+      "alternative rock",
+      "rock"
+    ],
+    "title": "Тихо Прийшов Тихо Пішов",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/43mfi5UzFvhUPxD4p0lbGk"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:00.417Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Riffmaster"],
+    ],
+    "artists": [
+      "Riffmaster"
+    ],
     "artistsPopularity": 26,
-    "title": "Котлета по-киевски",
-    "releaseDate": "2015-02-10",
-    "type": "album",
-    "totalTracks": 13,
-    "url": "https://open.spotify.com/album/5NKDjiLLAgpiKrFYsCNnJm",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273775ddab7207696b8a204237f",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:24:00.417Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Riffmaster"],
-    "artistsPopularity": 26,
-    "title": "Beautiful Day",
-    "releaseDate": "2008-04-07",
+    "releaseDate": "2015-02-10",
+    "tags": [
+      "alternative rock",
+      "rock"
+    ],
+    "title": "Котлета по-киевски",
+    "totalTracks": 13,
     "type": "album",
-    "totalTracks": 11,
-    "url": "https://open.spotify.com/album/2CrNnrZGfLe8dEUP5xCaHb",
+    "url": "https://open.spotify.com/album/5NKDjiLLAgpiKrFYsCNnJm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:24:00.417Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Riffmaster"
+    ],
+    "artistsPopularity": 26,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273df0b0e8b11b10bfa1e4d069e",
+    "releaseDate": "2008-04-07",
+    "tags": [
+      "alternative rock",
+      "rock"
+    ],
+    "title": "Beautiful Day",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2CrNnrZGfLe8dEUP5xCaHb"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:00.417Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Riffmaster"],
+    ],
+    "artists": [
+      "Riffmaster"
+    ],
     "artistsPopularity": 26,
-    "title": "Зграя (Acoustic)",
-    "releaseDate": "2025-09-12",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1592U6WpxhD5xBdkKiRrpZ",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737a3d277466deadfbb3e0b37c",
+    "releaseDate": "2025-09-12",
+    "tags": [
+      "alternative rock",
+      "rock"
+    ],
+    "title": "Зграя (Acoustic)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1592U6WpxhD5xBdkKiRrpZ"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:00.417Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Riffmaster"],
+    ],
+    "artists": [
+      "Riffmaster"
+    ],
     "artistsPopularity": 26,
-    "title": "Зграя",
-    "releaseDate": "2025-07-11",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/32mR4jhYk4nNaEHcOFv73G",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e3b29396b2324b8a837cc2a1",
+    "releaseDate": "2025-07-11",
+    "tags": [
+      "alternative rock",
+      "rock"
+    ],
+    "title": "Зграя",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/32mR4jhYk4nNaEHcOFv73G"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:00.417Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Riffmaster"],
+    ],
+    "artists": [
+      "Riffmaster"
+    ],
     "artistsPopularity": 26,
-    "title": "Промені факелів",
-    "releaseDate": "2023-07-21",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6YRqy8by8ZhwtH7CfyG3DU",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c3355d7ec0a9d6b60ff2d052",
+    "releaseDate": "2023-07-21",
+    "tags": [
+      "alternative rock",
+      "rock"
+    ],
+    "title": "Промені факелів",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6YRqy8by8ZhwtH7CfyG3DU"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:00.417Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Riffmaster"],
+    ],
+    "artists": [
+      "Riffmaster"
+    ],
     "artistsPopularity": 26,
-    "title": "Земля",
-    "releaseDate": "2023-06-23",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0eme79ycXx2NAFGszt6Bwp",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273997e8b34e8c08497109633e2",
+    "releaseDate": "2023-06-23",
+    "tags": [
+      "alternative rock",
+      "rock"
+    ],
+    "title": "Земля",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0eme79ycXx2NAFGszt6Bwp"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:00.417Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Riffmaster"],
+    ],
+    "artists": [
+      "Riffmaster"
+    ],
     "artistsPopularity": 26,
-    "title": "Beautiful",
-    "releaseDate": "2022-12-26",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5tkjiFBp19VwG0YSh48DAR",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a920e8a79140066c8dcd6c63",
+    "releaseDate": "2022-12-26",
+    "tags": [
+      "alternative rock",
+      "rock"
+    ],
+    "title": "Beautiful",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5tkjiFBp19VwG0YSh48DAR"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:00.417Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Riffmaster"],
+    ],
+    "artists": [
+      "Riffmaster"
+    ],
     "artistsPopularity": 26,
-    "title": "Поважають всі наган",
-    "releaseDate": "2022-11-02",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5s1aRwpOMOZtJ0kFXOWMDR",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bafdf543657b05ed504af62c",
+    "releaseDate": "2022-11-02",
+    "tags": [
+      "alternative rock",
+      "rock"
+    ],
+    "title": "Поважають всі наган",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5s1aRwpOMOZtJ0kFXOWMDR"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:00.417Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Riffmaster"],
+    ],
+    "artists": [
+      "Riffmaster"
+    ],
     "artistsPopularity": 26,
-    "title": "Новий день (Право на життя)",
-    "releaseDate": "2022-09-01",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6JTiFZqiYCx1CFTUjZfDX3",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732763479c399b99710c1d555d",
+    "releaseDate": "2022-09-01",
+    "tags": [
+      "alternative rock",
+      "rock"
+    ],
+    "title": "Новий день (Право на життя)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6JTiFZqiYCx1CFTUjZfDX3"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:00.417Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Riffmaster", "CJ Mars"],
+    ],
+    "artists": [
+      "Riffmaster",
+      "CJ Mars"
+    ],
     "artistsPopularity": 26,
-    "title": "Р.В.К.И.Н.Х. (CJ Mars Edit)",
-    "releaseDate": "2022-08-17",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5Z10oOJYXbcMZaR8ftYhbI",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ca563b74a071d4b04b3b1dc2",
+    "releaseDate": "2022-08-17",
+    "tags": [
+      "alternative rock",
+      "rock"
+    ],
+    "title": "Р.В.К.И.Н.Х. (CJ Mars Edit)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5Z10oOJYXbcMZaR8ftYhbI"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:00.417Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Riffmaster"],
+    ],
+    "artists": [
+      "Riffmaster"
+    ],
     "artistsPopularity": 26,
-    "title": "Герої",
-    "releaseDate": "2022-06-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4OI706IaAsZXGhOTysI2QE",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27383b91749b68843c582d51350",
+    "releaseDate": "2022-06-24",
+    "tags": [
+      "alternative rock",
+      "rock"
+    ],
+    "title": "Герої",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4OI706IaAsZXGhOTysI2QE"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:00.417Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Riffmaster"],
+    ],
+    "artists": [
+      "Riffmaster"
+    ],
     "artistsPopularity": 26,
-    "title": "Р.В.К.И.Н.Х.",
-    "releaseDate": "2022-03-28",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6rPCEL5NXaH2TxpNWUxBed",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27328f79a4a853e256c1c212ccd",
+    "releaseDate": "2022-03-28",
+    "tags": [
+      "alternative rock",
+      "rock"
+    ],
+    "title": "Р.В.К.И.Н.Х.",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6rPCEL5NXaH2TxpNWUxBed"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:00.417Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Riffmaster"],
+    ],
+    "artists": [
+      "Riffmaster"
+    ],
     "artistsPopularity": 26,
-    "title": "Було й не загуло",
-    "releaseDate": "2022-02-04",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2hyKleyNYBHf5k69dXMnWx",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273213d8a3794005022fcf25d1e",
+    "releaseDate": "2022-02-04",
+    "tags": [
+      "alternative rock",
+      "rock"
+    ],
+    "title": "Було й не загуло",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2hyKleyNYBHf5k69dXMnWx"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:00.417Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Riffmaster"],
+    ],
+    "artists": [
+      "Riffmaster"
+    ],
     "artistsPopularity": 26,
-    "title": "WAG DA DOG",
-    "releaseDate": "2021-09-07",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1212yPmHNayRoLi7OK39Ys",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27349f2c0f30b9ff2cecea78966",
+    "releaseDate": "2021-09-07",
+    "tags": [
+      "alternative rock",
+      "rock"
+    ],
+    "title": "WAG DA DOG",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1212yPmHNayRoLi7OK39Ys"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:00.417Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Riffmaster"],
+    ],
+    "artists": [
+      "Riffmaster"
+    ],
     "artistsPopularity": 26,
-    "title": "Важелі",
-    "releaseDate": "2019-12-06",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5jA5b5YcTEwcVPRJDZ4QwH",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27337a3fd5e3dd8c193b89608d0",
+    "releaseDate": "2019-12-06",
+    "tags": [
+      "alternative rock",
+      "rock"
+    ],
+    "title": "Важелі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5jA5b5YcTEwcVPRJDZ4QwH"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:00.417Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Riffmaster"],
+    ],
+    "artists": [
+      "Riffmaster"
+    ],
     "artistsPopularity": 26,
-    "title": "Воїни життя",
-    "releaseDate": "2019-10-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0OXhZX3yDwtiYLI1nfM8gS",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731d74af0ae82c6887f5c9662f",
+    "releaseDate": "2019-10-24",
+    "tags": [
+      "alternative rock",
+      "rock"
+    ],
+    "title": "Воїни життя",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0OXhZX3yDwtiYLI1nfM8gS"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:00.417Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Riffmaster"],
+    ],
+    "artists": [
+      "Riffmaster"
+    ],
     "artistsPopularity": 26,
-    "title": "Тихо прийшов, тихо пішов або пісня спеціального значення",
-    "releaseDate": "2017-10-12",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0vl80hqSQxJxldS8BR5OV9",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27334b0cc874ede3e44aacf0a1a",
+    "releaseDate": "2017-10-12",
+    "tags": [
+      "alternative rock",
+      "rock"
+    ],
+    "title": "Тихо прийшов, тихо пішов або пісня спеціального значення",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0vl80hqSQxJxldS8BR5OV9"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:00.417Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["Riffmaster"],
+    ],
+    "artists": [
+      "Riffmaster"
+    ],
     "artistsPopularity": 26,
-    "title": "Земля feat. Сашко Положинський",
-    "releaseDate": "2014-07-31",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2ACSCIt5juSQYJWvS6gMsa",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273126cc96304a336ef9b4963cf",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:24:00.417Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["Riffmaster"],
-    "artistsPopularity": 26,
-    "title": "Sens",
-    "releaseDate": "2013-12-18",
-    "type": "single",
+    "releaseDate": "2014-07-31",
+    "tags": [
+      "alternative rock",
+      "rock"
+    ],
+    "title": "Земля feat. Сашко Положинський",
     "totalTracks": 1,
-    "url": "https://open.spotify.com/album/0wJdP4qHuNzbNKl9IvX3Nt",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f4df7b6ca7b709461b9d9ab1",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:24:00.417Z",
-        "type": "FOUND"
-      }
-    ]
+    "type": "single",
+    "url": "https://open.spotify.com/album/2ACSCIt5juSQYJWvS6gMsa"
   },
   {
-    "artists": ["Tastysound"],
-    "artistsPopularity": 0,
-    "title": "Do You Feel The Love",
-    "releaseDate": "2007-04-03",
-    "type": "single",
-    "totalTracks": 2,
-    "url": "https://open.spotify.com/album/5adW2J9BjtqUzMhliK8Spg",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f48609cbc85e7e1552d85041",
     "appearanceLog": [
       {
         "time": "2025-09-17T07:24:00.417Z",
         "type": "FOUND"
       }
-    ]
+    ],
+    "artists": [
+      "Riffmaster"
+    ],
+    "artistsPopularity": 26,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f4df7b6ca7b709461b9d9ab1",
+    "releaseDate": "2013-12-18",
+    "tags": [
+      "alternative rock",
+      "rock"
+    ],
+    "title": "Sens",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0wJdP4qHuNzbNKl9IvX3Nt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:24:00.417Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Tastysound"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f48609cbc85e7e1552d85041",
+    "releaseDate": "2007-04-03",
+    "tags": [],
+    "title": "Do You Feel The Love",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5adW2J9BjtqUzMhliK8Spg"
   }
 ]

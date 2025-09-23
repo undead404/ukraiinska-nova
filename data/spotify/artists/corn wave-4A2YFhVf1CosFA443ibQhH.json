@@ -1,322 +1,417 @@
 [
   {
-    "artists": ["corn wave"],
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:23:02.015Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "corn wave"
+    ],
     "artistsPopularity": 42,
-    "title": "unreleased demos vol. 1",
-    "releaseDate": "2024-12-05",
-    "type": "album",
-    "totalTracks": 17,
-    "url": "https://open.spotify.com/album/2FVrY3temtD5IaXsW8Ks3E",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27358264cc5a676844266e243b5",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:23:02.015Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["corn wave"],
-    "artistsPopularity": 42,
-    "title": "elephant entertainment",
-    "releaseDate": "2023-10-13",
-    "type": "album",
-    "totalTracks": 13,
-    "url": "https://open.spotify.com/album/1TlH1qTh5aGWcY5IajqTBJ",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369b0012d58d2b1bb68d9b0a3",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:23:02.015Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["corn wave"],
-    "artistsPopularity": 42,
-    "title": "philosophy of structures",
-    "releaseDate": "2022-02-04",
-    "type": "album",
-    "totalTracks": 13,
-    "url": "https://open.spotify.com/album/5ctToyKIrOHFNkGZMl6beJ",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a1846d9c04988371b6cf0a29",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:23:02.015Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["corn wave"],
-    "artistsPopularity": 42,
-    "title": "some junk tapes from outer space",
-    "releaseDate": "2020-08-01",
-    "type": "album",
-    "totalTracks": 13,
-    "url": "https://open.spotify.com/album/4A871wnTViqCg8IEPsA1Zk",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731bb17e5d378ca65a62d8fd7a",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:23:02.015Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["corn wave"],
-    "artistsPopularity": 42,
-    "title": "dudeness",
-    "releaseDate": "2020-01-28",
-    "type": "album",
-    "totalTracks": 13,
-    "url": "https://open.spotify.com/album/5Ce6a195VtbbUwiQUfxN2u",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fd28287fcdbb400b36e1c397",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:23:02.015Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["corn wave"],
-    "artistsPopularity": 42,
-    "title": "old releases",
-    "releaseDate": "2019-09-15",
-    "type": "album",
+    "releaseDate": "2024-12-05",
+    "tags": [
+      "dream pop"
+    ],
+    "title": "unreleased demos vol. 1",
     "totalTracks": 17,
-    "url": "https://open.spotify.com/album/6A1KB8X5epAsFSJfAyLr8T",
+    "type": "album",
+    "url": "https://open.spotify.com/album/2FVrY3temtD5IaXsW8Ks3E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:23:02.015Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "corn wave"
+    ],
+    "artistsPopularity": 42,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369b0012d58d2b1bb68d9b0a3",
+    "releaseDate": "2023-10-13",
+    "tags": [
+      "dream pop"
+    ],
+    "title": "elephant entertainment",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1TlH1qTh5aGWcY5IajqTBJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:23:02.015Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "corn wave"
+    ],
+    "artistsPopularity": 42,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a1846d9c04988371b6cf0a29",
+    "releaseDate": "2022-02-04",
+    "tags": [
+      "dream pop"
+    ],
+    "title": "philosophy of structures",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5ctToyKIrOHFNkGZMl6beJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:23:02.015Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "corn wave"
+    ],
+    "artistsPopularity": 42,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731bb17e5d378ca65a62d8fd7a",
+    "releaseDate": "2020-08-01",
+    "tags": [
+      "dream pop"
+    ],
+    "title": "some junk tapes from outer space",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4A871wnTViqCg8IEPsA1Zk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:23:02.015Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "corn wave"
+    ],
+    "artistsPopularity": 42,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fd28287fcdbb400b36e1c397",
+    "releaseDate": "2020-01-28",
+    "tags": [
+      "dream pop"
+    ],
+    "title": "dudeness",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5Ce6a195VtbbUwiQUfxN2u"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:23:02.015Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "corn wave"
+    ],
+    "artistsPopularity": 42,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27350aed1fb84ff3fec049b3d2d",
+    "releaseDate": "2019-09-15",
+    "tags": [
+      "dream pop"
+    ],
+    "title": "old releases",
+    "totalTracks": 17,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6A1KB8X5epAsFSJfAyLr8T"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:23:02.015Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["corn wave"],
+    ],
+    "artists": [
+      "corn wave"
+    ],
     "artistsPopularity": 42,
-    "title": "places i should go",
-    "releaseDate": "2025-02-28",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3yfgGPoOVQRqoDO30gGDPW",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c965cd7706d3cfa7272c81aa",
+    "releaseDate": "2025-02-28",
+    "tags": [
+      "dream pop"
+    ],
+    "title": "places i should go",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3yfgGPoOVQRqoDO30gGDPW"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:23:02.015Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["corn wave"],
+    ],
+    "artists": [
+      "corn wave"
+    ],
     "artistsPopularity": 42,
-    "title": "hong kong milk tea",
-    "releaseDate": "2025-01-31",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6FUREFResaS7efanhxWlY8",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739b2f1c1c7310b418356b5a35",
+    "releaseDate": "2025-01-31",
+    "tags": [
+      "dream pop"
+    ],
+    "title": "hong kong milk tea",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6FUREFResaS7efanhxWlY8"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:23:02.015Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["corn wave"],
+    ],
+    "artists": [
+      "corn wave"
+    ],
     "artistsPopularity": 42,
-    "title": "new year theme 2025",
-    "releaseDate": "2024-12-31",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2wFQQYiYt5LqH31Zxnt9ne",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cc1a9746c0d4de608f33ba43",
+    "releaseDate": "2024-12-31",
+    "tags": [
+      "dream pop"
+    ],
+    "title": "new year theme 2025",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2wFQQYiYt5LqH31Zxnt9ne"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:23:02.015Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["corn wave"],
+    ],
+    "artists": [
+      "corn wave"
+    ],
     "artistsPopularity": 42,
-    "title": "new year theme 2024",
-    "releaseDate": "2024-01-01",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5cqcx71SD26xeXbHlX3I9j",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f15eb0894ef3a4dfa5b81339",
+    "releaseDate": "2024-01-01",
+    "tags": [
+      "dream pop"
+    ],
+    "title": "new year theme 2024",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5cqcx71SD26xeXbHlX3I9j"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:23:02.015Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["corn wave"],
+    ],
+    "artists": [
+      "corn wave"
+    ],
     "artistsPopularity": 42,
-    "title": "warm place",
-    "releaseDate": "2023-05-19",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5dowrB91xDcmAViu1HnkfU",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735c03c0394599b58eb4574974",
+    "releaseDate": "2023-05-19",
+    "tags": [
+      "dream pop"
+    ],
+    "title": "warm place",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5dowrB91xDcmAViu1HnkfU"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:23:02.015Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["corn wave"],
+    ],
+    "artists": [
+      "corn wave"
+    ],
     "artistsPopularity": 42,
-    "title": "tibet holiday",
-    "releaseDate": "2021-08-11",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5QKgSG94p2Md73WfcRCMJc",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ecc6526fb1dea2c193ef5e35",
+    "releaseDate": "2021-08-11",
+    "tags": [
+      "dream pop"
+    ],
+    "title": "tibet holiday",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5QKgSG94p2Md73WfcRCMJc"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:23:02.015Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["corn wave"],
+    ],
+    "artists": [
+      "corn wave"
+    ],
     "artistsPopularity": 42,
-    "title": "national geographic",
-    "releaseDate": "2021-05-14",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6hvNq4bRg0MNSJMZRUQkaP",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273122130e6a766873def9dd4d0",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:23:02.015Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["flowers in your eyes"],
-    "artistsPopularity": 12,
-    "title": "Заплакать и уснуть",
-    "releaseDate": "2020-11-27",
-    "type": "album",
-    "totalTracks": 9,
-    "url": "https://open.spotify.com/album/4m9IHkt7mwOIbARyAcK9f5",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738574961bd546c2ff6a60ea1a",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:23:02.015Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["поливокс"],
-    "artistsPopularity": 2,
-    "title": "Машиностроение",
-    "releaseDate": "2020-08-28",
-    "type": "single",
-    "totalTracks": 4,
-    "url": "https://open.spotify.com/album/73n7GGyTQ0jZsr9v2SQAdh",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735be12f1af16290568377ea48",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:23:02.015Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["last past."],
-    "artistsPopularity": 7,
-    "title": "everywhere, but not somewhere",
-    "releaseDate": "2022-10-24",
-    "type": "single",
-    "totalTracks": 3,
-    "url": "https://open.spotify.com/album/171yr5u5lyzURMHAXqsCjf",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733c52dc7e5ab11e2b14221f8e",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:23:02.015Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["syayvo"],
-    "artistsPopularity": 3,
-    "title": "Memories of warm times",
-    "releaseDate": "2024-01-12",
-    "type": "album",
-    "totalTracks": 18,
-    "url": "https://open.spotify.com/album/3AmGRRHuJLghAZcAbPyhsL",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ff6255fe510a5cc22c19adfb",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:23:02.015Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["электроник"],
-    "artistsPopularity": 2,
-    "title": "Звёздная Пыль",
-    "releaseDate": "2021-03-26",
-    "type": "single",
-    "totalTracks": 3,
-    "url": "https://open.spotify.com/album/0S6Iiq7d3GkPJnYzwE9boc",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c718519ee34aa3f64f7769f2",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:23:02.015Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["if we could stay"],
-    "artistsPopularity": 0,
-    "title": "有时像是言语的间隙",
-    "releaseDate": "2025-05-25",
-    "type": "single",
-    "totalTracks": 4,
-    "url": "https://open.spotify.com/album/1OqoDhDdKgUV2onvivsUKM",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27384325925c63158ebf3fd24e2",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:23:02.015Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["if we could stay"],
-    "artistsPopularity": 0,
-    "title": "on high in blue tomorrows",
-    "releaseDate": "2025-02-16",
-    "type": "single",
+    "releaseDate": "2021-05-14",
+    "tags": [
+      "dream pop"
+    ],
+    "title": "national geographic",
     "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4VKW4z7tvXJ0eFgiBN9eAx",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273019a4a705b3e0a1411f17833",
+    "type": "single",
+    "url": "https://open.spotify.com/album/6hvNq4bRg0MNSJMZRUQkaP"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:23:02.015Z",
         "type": "FOUND"
       }
-    ]
+    ],
+    "artists": [
+      "flowers in your eyes"
+    ],
+    "artistsPopularity": 12,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738574961bd546c2ff6a60ea1a",
+    "releaseDate": "2020-11-27",
+    "tags": [
+      "dream pop"
+    ],
+    "title": "Заплакать и уснуть",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4m9IHkt7mwOIbARyAcK9f5"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:23:02.015Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "поливокс"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735be12f1af16290568377ea48",
+    "releaseDate": "2020-08-28",
+    "tags": [],
+    "title": "Машиностроение",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/73n7GGyTQ0jZsr9v2SQAdh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:23:02.015Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "last past."
+    ],
+    "artistsPopularity": 7,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733c52dc7e5ab11e2b14221f8e",
+    "releaseDate": "2022-10-24",
+    "tags": [
+      "shoegaze",
+      "indie rock"
+    ],
+    "title": "everywhere, but not somewhere",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/171yr5u5lyzURMHAXqsCjf"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:23:02.015Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "syayvo"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ff6255fe510a5cc22c19adfb",
+    "releaseDate": "2024-01-12",
+    "tags": [
+      "shoegaze"
+    ],
+    "title": "Memories of warm times",
+    "totalTracks": 18,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3AmGRRHuJLghAZcAbPyhsL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:23:02.015Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "электроник"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c718519ee34aa3f64f7769f2",
+    "releaseDate": "2021-03-26",
+    "tags": [
+      "dream pop"
+    ],
+    "title": "Звёздная Пыль",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0S6Iiq7d3GkPJnYzwE9boc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:23:02.015Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "if we could stay"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27384325925c63158ebf3fd24e2",
+    "releaseDate": "2025-05-25",
+    "tags": [],
+    "title": "有时像是言语的间隙",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1OqoDhDdKgUV2onvivsUKM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:23:02.015Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "if we could stay"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273019a4a705b3e0a1411f17833",
+    "releaseDate": "2025-02-16",
+    "tags": [],
+    "title": "on high in blue tomorrows",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4VKW4z7tvXJ0eFgiBN9eAx"
   }
 ]

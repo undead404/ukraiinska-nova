@@ -1,322 +1,420 @@
 [
   {
-    "artists": ["VERLOKA"],
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:25:05.908Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VERLOKA"
+    ],
     "artistsPopularity": 36,
-    "title": "Останній день літа",
-    "releaseDate": "2025-08-21",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4YyB7EbTRwgEiUENm4Owu3",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f58243ae78c0eb020decbe29",
+    "releaseDate": "2025-08-21",
+    "tags": [],
+    "title": "Останній день літа",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4YyB7EbTRwgEiUENm4Owu3"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:25:05.908Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["VERLOKA", "TAB"],
+    ],
+    "artists": [
+      "VERLOKA",
+      "TAB"
+    ],
     "artistsPopularity": 36,
-    "title": "Бермуди",
-    "releaseDate": "2025-05-15",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6dHUMyUp4jAz5IvFRvF7Ds",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ef38af2117d13bc90dd3a742",
+    "releaseDate": "2025-05-15",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Бермуди",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6dHUMyUp4jAz5IvFRvF7Ds"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:25:05.908Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["VERLOKA"],
+    ],
+    "artists": [
+      "VERLOKA"
+    ],
     "artistsPopularity": 36,
-    "title": "Нецілована",
-    "releaseDate": "2025-03-06",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3i0zHY53V4vRwyJQeRKVJA",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27337797488cce0c6c0e306dad3",
+    "releaseDate": "2025-03-06",
+    "tags": [],
+    "title": "Нецілована",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3i0zHY53V4vRwyJQeRKVJA"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:25:05.908Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["VERLOKA"],
+    ],
+    "artists": [
+      "VERLOKA"
+    ],
     "artistsPopularity": 36,
-    "title": "Наосліп",
-    "releaseDate": "2025-01-30",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6Cju7OkeQ2ylufWTcAouU1",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734bd3a9da513e5b8c7a5cc8b9",
+    "releaseDate": "2025-01-30",
+    "tags": [],
+    "title": "Наосліп",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6Cju7OkeQ2ylufWTcAouU1"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:25:05.908Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["VERLOKA", "NICHKA"],
+    ],
+    "artists": [
+      "VERLOKA",
+      "NICHKA"
+    ],
     "artistsPopularity": 36,
-    "title": "Мій рай",
-    "releaseDate": "2024-12-18",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6Vn8ZIUlV503tXtNZSmrcX",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27307e001e9e8c0ec6a21309523",
+    "releaseDate": "2024-12-18",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Мій рай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6Vn8ZIUlV503tXtNZSmrcX"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:25:05.908Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["VERLOKA", "HOLLY", "TAB"],
+    ],
+    "artists": [
+      "VERLOKA",
+      "HOLLY",
+      "TAB"
+    ],
     "artistsPopularity": 36,
-    "title": "Саме ту",
-    "releaseDate": "2024-06-20",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3hP01fTR9FkbhuyvcvZZTQ",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735d5f70cfa9f20204768e7cb0",
+    "releaseDate": "2024-06-20",
+    "tags": [
+      "electronic",
+      "Hip-Hop"
+    ],
+    "title": "Саме ту",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3hP01fTR9FkbhuyvcvZZTQ"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:25:05.908Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["VERLOKA", "HOLLY"],
+    ],
+    "artists": [
+      "VERLOKA",
+      "HOLLY"
+    ],
     "artistsPopularity": 36,
-    "title": "Листопад",
-    "releaseDate": "2024-05-16",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5Ydo9v0cXTvcbrGMT5ZIQy",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27348baef2b87321b0cee84127b",
+    "releaseDate": "2024-05-16",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Листопад",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5Ydo9v0cXTvcbrGMT5ZIQy"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:25:05.908Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["VERLOKA", "HOLLY"],
+    ],
+    "artists": [
+      "VERLOKA",
+      "HOLLY"
+    ],
     "artistsPopularity": 36,
-    "title": "Піджаки",
-    "releaseDate": "2024-04-18",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/25dDquF4xyPWyxzdrKridv",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ee53fc6552a209766c99e899",
+    "releaseDate": "2024-04-18",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Піджаки",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/25dDquF4xyPWyxzdrKridv"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:25:05.908Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["VERLOKA", "HOLLY"],
+    ],
+    "artists": [
+      "VERLOKA",
+      "HOLLY"
+    ],
     "artistsPopularity": 36,
-    "title": "Надія є",
-    "releaseDate": "2024-03-28",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/6jMubkCz5s9umXyTg00KVI",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b5f978cab8b5f3a5b8660460",
+    "releaseDate": "2024-03-28",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Надія є",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6jMubkCz5s9umXyTg00KVI"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:25:05.908Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["VERLOKA", "HOLLY"],
+    ],
+    "artists": [
+      "VERLOKA",
+      "HOLLY"
+    ],
     "artistsPopularity": 36,
-    "title": "Dnipro",
-    "releaseDate": "2023-12-14",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2E3wrALtMTDYM1HoYv1AdF",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739c5e775cfa2d81075ec3048b",
+    "releaseDate": "2023-12-14",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Dnipro",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2E3wrALtMTDYM1HoYv1AdF"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:25:05.908Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["VERLOKA", "HOLLY"],
+    ],
+    "artists": [
+      "VERLOKA",
+      "HOLLY"
+    ],
     "artistsPopularity": 36,
-    "title": "Бруківка",
-    "releaseDate": "2023-11-16",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4ovIAcRpIdJvDK59IDv8Gg",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f6f00220a233ccbff5fd4746",
+    "releaseDate": "2023-11-16",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Бруківка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4ovIAcRpIdJvDK59IDv8Gg"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:25:05.908Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["VERLOKA", "HOLLY"],
+    ],
+    "artists": [
+      "VERLOKA",
+      "HOLLY"
+    ],
     "artistsPopularity": 36,
-    "title": "Хімія",
-    "releaseDate": "2023-10-19",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1Rg3VSfYavAFbq9dQ4QNZj",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27323608a6157a6508c1eca42e7",
+    "releaseDate": "2023-10-19",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Хімія",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1Rg3VSfYavAFbq9dQ4QNZj"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:25:05.908Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["NICHKA", "VERLOKA"],
+    ],
+    "artists": [
+      "NICHKA",
+      "VERLOKA"
+    ],
     "artistsPopularity": 36,
-    "title": "Поштарі",
-    "releaseDate": "2023-10-12",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/1hQxg8eUbjFiFIEzZKPRUT",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cf09ccbb9ac7c1906e27c1f5",
+    "releaseDate": "2023-10-12",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Поштарі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1hQxg8eUbjFiFIEzZKPRUT"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:25:05.908Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["VERLOKA", "NICHKA"],
+    ],
+    "artists": [
+      "VERLOKA",
+      "NICHKA"
+    ],
     "artistsPopularity": 36,
-    "title": "Остання ніч",
-    "releaseDate": "2023-08-24",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/5wdTksS6u2bNYD0uttRgGY",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731b22503e757b127a22e26c52",
+    "releaseDate": "2023-08-24",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Остання ніч",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5wdTksS6u2bNYD0uttRgGY"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:25:05.908Z",
         "type": "FOUND"
       }
-    ]
-  },
-  {
-    "artists": ["VERLOKA", "Golubenko"],
+    ],
+    "artists": [
+      "VERLOKA",
+      "Golubenko"
+    ],
     "artistsPopularity": 44,
-    "title": "Просто",
-    "releaseDate": "2023-05-11",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/4cgAgU8uelrI3Xu6gkiTDe",
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27337a788bc99c718abec910913",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:25:05.908Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["VERLOKA"],
-    "artistsPopularity": 36,
-    "title": "по Північному",
-    "releaseDate": "2023-03-23",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/43zhb4cmrFx8buutlodvUd",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735bf2a56ebef0c41304167a78",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:25:05.908Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["VERLOKA"],
-    "artistsPopularity": 36,
-    "title": "Тримай (feat. SANA)",
-    "releaseDate": "2023-03-09",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/444CPKgi7PVyR8GQuOR2pp",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736c713e6a2ffe9c6cd4e5521d",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:25:05.908Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["VERLOKA"],
-    "artistsPopularity": 36,
-    "title": "Розкажи",
-    "releaseDate": "2023-02-02",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/3v0MMhqeujLLfQeKhLJ16a",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735e444a2ade607b4ec1055b51",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:25:05.908Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["VERLOKA"],
-    "artistsPopularity": 36,
-    "title": "18",
-    "releaseDate": "2022-11-11",
-    "type": "single",
-    "totalTracks": 1,
-    "url": "https://open.spotify.com/album/2Bn1iGQiWhymIi1FAbPTs3",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730258b009e62443740eab41f4",
-    "appearanceLog": [
-      {
-        "time": "2025-09-17T07:25:05.908Z",
-        "type": "FOUND"
-      }
-    ]
-  },
-  {
-    "artists": ["VERLOKA"],
-    "artistsPopularity": 36,
+    "releaseDate": "2023-05-11",
+    "tags": [
+      "pop"
+    ],
     "title": "Просто",
-    "releaseDate": "2022-09-29",
-    "type": "single",
     "totalTracks": 1,
-    "url": "https://open.spotify.com/album/7JpjJ76Yf5Kz6Du237t2Dq",
-    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b2dc0507bef42d4676680628",
+    "type": "single",
+    "url": "https://open.spotify.com/album/4cgAgU8uelrI3Xu6gkiTDe"
+  },
+  {
     "appearanceLog": [
       {
         "time": "2025-09-17T07:25:05.908Z",
         "type": "FOUND"
       }
-    ]
+    ],
+    "artists": [
+      "VERLOKA"
+    ],
+    "artistsPopularity": 36,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735bf2a56ebef0c41304167a78",
+    "releaseDate": "2023-03-23",
+    "tags": [],
+    "title": "по Північному",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/43zhb4cmrFx8buutlodvUd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:25:05.908Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VERLOKA"
+    ],
+    "artistsPopularity": 36,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736c713e6a2ffe9c6cd4e5521d",
+    "releaseDate": "2023-03-09",
+    "tags": [],
+    "title": "Тримай (feat. SANA)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/444CPKgi7PVyR8GQuOR2pp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:25:05.908Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VERLOKA"
+    ],
+    "artistsPopularity": 36,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735e444a2ade607b4ec1055b51",
+    "releaseDate": "2023-02-02",
+    "tags": [],
+    "title": "Розкажи",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3v0MMhqeujLLfQeKhLJ16a"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:25:05.908Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VERLOKA"
+    ],
+    "artistsPopularity": 36,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730258b009e62443740eab41f4",
+    "releaseDate": "2022-11-11",
+    "tags": [],
+    "title": "18",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2Bn1iGQiWhymIi1FAbPTs3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-17T07:25:05.908Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VERLOKA"
+    ],
+    "artistsPopularity": 36,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b2dc0507bef42d4676680628",
+    "releaseDate": "2022-09-29",
+    "tags": [],
+    "title": "Просто",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7JpjJ76Yf5Kz6Du237t2Dq"
   }
 ]
