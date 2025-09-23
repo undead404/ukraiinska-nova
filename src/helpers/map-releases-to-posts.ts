@@ -3,7 +3,6 @@ import type { EnhancedMusicRelease, Post } from '../types/index.js';
 import hashtagify from './hashtagify.js';
 import joinArtists from './join-artists.js';
 import translateAlbumType from './translate-album-type.js';
-import translatePopularity from './translate-popularity.js';
 
 const DOMAIN_TO_TITLE = [
   ['open.spotify.com', 'SPOTIFY'],
@@ -28,7 +27,7 @@ export default function mapReleasesToPosts(releases: EnhancedMusicRelease[]) {
         url: release.url,
       },
     ],
-    text: `${translatePopularity(release.artistsPopularity)}🎤 ${joinArtists(release.artists)}\n💿 ${release.title} (${translateAlbumType(
+    text: `🎤 ${joinArtists(release.artists)}\n💿 ${release.title} (${translateAlbumType(
       release.type,
     )}, ${release.releaseDate})\n${release.tags?.length ? '\n' : ''}${release.tags?.map((tag) => hashtagify(tag)).join(' ')}`,
   }));
