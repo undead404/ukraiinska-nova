@@ -1,0 +1,97 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T20:34:50.299Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "smoothie UZI"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27389a45370d18aac71673b7192",
+    "releaseDate": "2022-12-30",
+    "tags": [],
+    "title": "Далеко",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7tLse8AgnRDFq8lZnVQq64"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T20:34:50.299Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "smoothie UZI"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273025b8e42ff6eb67a85a36b1a",
+    "releaseDate": "2022-12-23",
+    "tags": [],
+    "title": "Худі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/564slPBrSwObjgsPO3CjSg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T20:34:50.299Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "smoothie UZI"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739f9d7990e176567742f357e1",
+    "releaseDate": "2022-12-23",
+    "tags": [],
+    "title": "Вицепив",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/34ei9utgRZbl3YyMU66F5z"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T20:34:50.299Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "smoothie UZI"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c79c0b60096f5c4454e6acd4",
+    "releaseDate": "2022-12-16",
+    "tags": [],
+    "title": "Busy",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2mTZW0Mkq1utSQ0hMT8QId"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T20:34:50.299Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "smoothie UZI"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27312c3e87108180da1871b2cd5",
+    "releaseDate": "2022-10-14",
+    "tags": [],
+    "title": "Мем",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5LrpNWJUGTW2WZCjQ1YWIL"
+  }
+]
