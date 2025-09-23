@@ -1,0 +1,107 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:49:03.015Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Відстань"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736d35d294788abc07206e4e94",
+    "releaseDate": "2023-06-04",
+    "tags": [
+      "rock"
+    ],
+    "title": "Немає можливого",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0VaV1CV5rZAOaMRff1cGUC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:49:03.015Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Відстань"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736110aa2fc993210bd776d708",
+    "releaseDate": "2023-06-04",
+    "tags": [
+      "rock"
+    ],
+    "title": "Лети",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0aI3GQhkBO61JjejrYWC3A"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:49:03.015Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Відстань"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273088345701c8b261e0dd9292e",
+    "releaseDate": "2023-05-27",
+    "tags": [
+      "rock"
+    ],
+    "title": "Людина чи Раб",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4xF5RvJGwA6G23vVH82V5J"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:49:03.015Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Відстань"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736c9e9f53ff069fa45b2fd6b9",
+    "releaseDate": "2023-05-22",
+    "tags": [
+      "rock"
+    ],
+    "title": "Більше ніякої музики",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6xq5juUUROOvy9MwpY9UpY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:49:03.015Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Відстань"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734e23f31bcbcc0e11825ac8eb",
+    "releaseDate": "2023-05-22",
+    "tags": [
+      "rock"
+    ],
+    "title": "32",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/760ziPQ9NvowkxgADdC3KP"
+  }
+]

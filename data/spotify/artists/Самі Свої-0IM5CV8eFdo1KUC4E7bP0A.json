@@ -1,0 +1,26 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:50:43.212Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Самі Свої"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e0dd87c0723659ef17fc7d1a",
+    "releaseDate": "2009-08-01",
+    "tags": [
+      "rock",
+      "folk",
+      "folk-rock",
+      "Patriotic"
+    ],
+    "title": "Чому вниз?",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/47asP8bpjTlnDkbCzy4K6f"
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:52:10.243Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "INGVARR MARO"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ebd00460d42e86ac649b5f86",
+    "releaseDate": "2022-04-13",
+    "tags": [],
+    "title": "Voice Message",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2gHfaLimYVyLnPTh42Ay1O"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:52:10.243Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "INGVARR MARO"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731c92d4d2154ab1a1154a52f7",
+    "releaseDate": "2022-03-14",
+    "tags": [],
+    "title": "Ukraine",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7nCBDgTUViwpVZYscSvgDb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:52:10.243Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ХАС",
+      "INGVARR MARO"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ccd9e2cfce38d9a5bbdeac92",
+    "releaseDate": "2020-11-04",
+    "tags": [],
+    "title": "Там, де ти… (INGVARR MARO REMIX)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0sQouHCk6pNNvsen5s3c8X"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:52:10.243Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "INGVARR MARO"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739f8eaf9a0d02c4757c4c0987",
+    "releaseDate": "2020-04-19",
+    "tags": [],
+    "title": "Mantra Materia",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5ZtzXNQbI27Anjt1h89RZh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:52:10.243Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ZBSband",
+      "INGVARR MARO"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e7a1fc8d952aa22b5c63efd6",
+    "releaseDate": "2019-11-14",
+    "tags": [],
+    "title": "Netusil",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/28IbEIYStdRNfRPkaHkAH4"
+  }
+]

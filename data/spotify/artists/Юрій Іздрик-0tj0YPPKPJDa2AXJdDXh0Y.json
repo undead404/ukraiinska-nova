@@ -1,0 +1,45 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:51:00.953Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Мертвий півень",
+      "Юрій Іздрик"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27378231366421d8a1b8195f5f0",
+    "releaseDate": "2025-03-19",
+    "tags": [
+      "rock",
+      "Audiobook",
+      "folk-rock"
+    ],
+    "title": "Страх",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4KNb9sKbO9btOxVqXLwAkH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:51:00.953Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "OLVIA"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27376f32a2997fb09c834513c60",
+    "releaseDate": "2021-09-29",
+    "tags": [],
+    "title": "Губи липкі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4qLeRPbazh9M8TAb4BSBhG"
+  }
+]

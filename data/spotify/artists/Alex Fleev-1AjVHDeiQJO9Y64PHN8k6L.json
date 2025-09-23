@@ -1,0 +1,24 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:51:02.846Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Віктор Павлік",
+      "Alex Fleev"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731810e60ec357f3552de3b571",
+    "releaseDate": "2025-06-26",
+    "tags": [
+      "pop"
+    ],
+    "title": "Білі Черемхи (Alex Fleev Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5MM2m8RIh3wM0U31419QVk"
+  }
+]

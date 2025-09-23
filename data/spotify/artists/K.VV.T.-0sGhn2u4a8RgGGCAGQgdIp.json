@@ -1,0 +1,69 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:52:14.387Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KARTA SVITU",
+      "K.VV.T."
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e7a516b9804d04573a0cfc4f",
+    "releaseDate": "2021-12-03",
+    "tags": [
+      "rock",
+      "pop rock"
+    ],
+    "title": "Лопес (K.Vv.T. Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4Th1oRlpUipUWWxZ7XXgNQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:52:14.387Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Біла Вежа",
+      "K.VV.T.",
+      "FDR"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731390aaa1559c7273e8c6cf54",
+    "releaseDate": "2017-12-04",
+    "tags": [
+      "heavy metal",
+      "greece",
+      "electronic"
+    ],
+    "title": "Відбитки (FDR & K.VV.T. Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5hiStm6FFzh9daVKnUMmMv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:52:14.387Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VIDVERTO"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fdcad83b4b8c41a61dfc074b",
+    "releaseDate": "2018-08-22",
+    "tags": [],
+    "title": "Не дай мені піти",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3X15f3hj6qfrK7qVVEqiqt"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:49:15.871Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гурт Вертеп",
+      "Лірник Сашко",
+      "Юрай Курай"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273408276e002745e2f384aae95",
+    "releaseDate": "2016-10-08",
+    "tags": [],
+    "title": "Radio Friendly. Джингли перемоги",
+    "totalTracks": 21,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5zflutKDWbbCSt9dJWn2ds"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:49:15.871Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гурт Вертеп"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273defed34dbc5b769d95c3c860",
+    "releaseDate": "2015-03-07",
+    "tags": [],
+    "title": "МАМАЙ. Гайдамацькі пісні",
+    "totalTracks": 20,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0mp3bD1OmiwD0luscOPOik"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:49:15.871Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гурт Вертеп"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a841f1787b20164c0c060942",
+    "releaseDate": "2011-03-05",
+    "tags": [],
+    "title": "Зельоно. Приворотні пісні",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4ge3hWzlFl2RpIGqXOvNDJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:49:15.871Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гурт Вертеп"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738ba3bc67472a6ac994366cbb",
+    "releaseDate": "2024-08-03",
+    "tags": [],
+    "title": "Баба Христина",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6cdb8F2wuUVAAaVaUhKNtt"
+  }
+]

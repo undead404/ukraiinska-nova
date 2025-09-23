@@ -1,0 +1,91 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:52:04.293Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Hellfire Sox"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bbd80ac3b1c6c10896c45a87",
+    "releaseDate": "2011-09-10",
+    "tags": [
+      "horror punk",
+      "punk rock"
+    ],
+    "title": "Hellville",
+    "totalTracks": 14,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4RomxYRalyifNQa0j1tbHz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:52:04.293Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Hellfire Sox"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734e13e47c8d1d530e9e9e3c17",
+    "releaseDate": "2023-09-09",
+    "tags": [
+      "horror punk",
+      "punk rock"
+    ],
+    "title": "Захлинись",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4RCkpmevXfxBOjj7PtAoQx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:52:04.293Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Hellfire Sox"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27352185b882b0eb3df6ff13978",
+    "releaseDate": "2023-01-10",
+    "tags": [
+      "horror punk",
+      "punk rock"
+    ],
+    "title": "Як ти можеш спати",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1nPIefzUvfRPAFLa4mMnN7"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:52:04.293Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНГАР 18",
+      "Hellfire Sox"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27316c475b46678576d0e2f4de7",
+    "releaseDate": "2012-09-01",
+    "tags": [
+      "punk rock",
+      "horror punk"
+    ],
+    "title": "The Mess",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1cM1CgkpVBEqUsQ5ACcIBJ"
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:54:09.587Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VovaZiLvova",
+      "Zbaraski"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731ab57b87637810535f9a4174",
+    "releaseDate": "2021-07-16",
+    "tags": [
+      "Hip-Hop",
+      "soul",
+      "lounge",
+      "indie pop",
+      "electronic"
+    ],
+    "title": "Танці замість церкви",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/466xXX9FLddEgM1w4c5mIh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:54:09.587Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VovaZiLvova"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c2af8f0de8d0740896017b83",
+    "releaseDate": "2023-12-29",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Маленький український реп альманах",
+    "totalTracks": 16,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0WVARo8tcylcdUu07YNry0"
+  }
+]

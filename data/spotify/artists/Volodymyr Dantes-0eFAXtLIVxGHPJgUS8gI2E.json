@@ -1,0 +1,661 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:53:48.416Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Volodymyr Dantes"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730b5615a0c35a0af02e85f198",
+    "releaseDate": "2023-08-18",
+    "tags": [
+      "pop"
+    ],
+    "title": "Кити",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2xfLbYkzTxp7nwlr1zOtTa"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:53:48.416Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Volodymyr Dantes"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f6c38c3b7b3d7f56028c7194",
+    "releaseDate": "2021-06-25",
+    "tags": [
+      "pop"
+    ],
+    "title": "Твоя любимая музыка",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6lpgqzNdCZMWDauaEe2slI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:53:48.416Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Volodymyr Dantes"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735863522a137266811ea6bbf6",
+    "releaseDate": "2025-06-24",
+    "tags": [
+      "pop"
+    ],
+    "title": "Ти не забудь",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3lBII7L0zzVnIi0HsXrlDg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:53:48.416Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Volodymyr Dantes",
+      "DEMA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732922506f70898a262de58025",
+    "releaseDate": "2025-04-30",
+    "tags": [
+      "pop",
+      "techno",
+      "minimal techno"
+    ],
+    "title": "Пісня, яку має виконати чоловік",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3OsTsWE808ZosPMkQt8ea6"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:53:48.416Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Volodymyr Dantes"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a0ced8d9d8ab0d356d084a6f",
+    "releaseDate": "2025-01-24",
+    "tags": [
+      "pop"
+    ],
+    "title": "Одинокая",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5mQGTBGVtsQNGltcXd4oKf"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:53:48.416Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Khrystyna Soloviy",
+      "Volodymyr Dantes"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734cffb1dd07b05939d82f95ba",
+    "releaseDate": "2024-12-19",
+    "tags": [
+      "pop",
+      "folk pop"
+    ],
+    "title": "Дівчино мила",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/56tumGGNr0xMkgVj6vXbJq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:53:48.416Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Volodymyr Dantes"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f5e262603e680dff56fa5fb3",
+    "releaseDate": "2024-10-30",
+    "tags": [
+      "pop"
+    ],
+    "title": "Руда вода",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3GIuVfp98SSJkPGFbHD4dk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:53:48.416Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Міша Правильний",
+      "Volodymyr Dantes"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273984743b07c7d13927e8cccc4",
+    "releaseDate": "2024-09-11",
+    "tags": [
+      "rap",
+      "pop"
+    ],
+    "title": "Честер",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2rDRBKyMrXyY0eETN0Zke3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:53:48.416Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Volodymyr Dantes"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a66a7d03761bc84fe2fa9f88",
+    "releaseDate": "2024-08-16",
+    "tags": [
+      "pop"
+    ],
+    "title": "Стожари",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7jHJ6fvYiXOECSDPkuxJwD"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:53:48.416Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Jerry Heil",
+      "Volodymyr Dantes"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27301c759af4d1a4c0cf8039905",
+    "releaseDate": "2024-08-02",
+    "tags": [
+      "pop"
+    ],
+    "title": "ГУБИ У ГУБАХ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6tQZvNossLgcJ8GUzzkwEQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:53:48.416Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Volodymyr Dantes"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dc6095285c0070135eb5bdbb",
+    "releaseDate": "2024-06-28",
+    "tags": [
+      "pop"
+    ],
+    "title": "Live session",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4FwVYED7igUZdvFWwB8sZk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:53:48.416Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Volodymyr Dantes"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733ba8e17f0f3cf390e48a3a4b",
+    "releaseDate": "2024-05-29",
+    "tags": [
+      "pop"
+    ],
+    "title": "Дура",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5l1YHOL7W8ZtuQlDit95Hv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:53:48.416Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Volodymyr Dantes"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f66e43c9865f34b660413a8b",
+    "releaseDate": "2024-03-29",
+    "tags": [
+      "pop"
+    ],
+    "title": "Я залишусь молодим",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6RpPwRSbdZOGjDcQekrFcY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:53:48.416Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Volodymyr Dantes"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bc029aec9e3fa173b2cbeb1a",
+    "releaseDate": "2023-07-14",
+    "tags": [
+      "pop"
+    ],
+    "title": "Оля",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/51BqULGHaVXosYZ7a77FmL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:53:48.416Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Volodymyr Dantes"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731a0f1d1193f9b15f04e993ce",
+    "releaseDate": "2023-06-16",
+    "tags": [
+      "pop"
+    ],
+    "title": "Чуєш",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0ZNbX8wkasIB1KYobRBoQO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:53:48.416Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Volodymyr Dantes"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273539742d92aac7136307d48dd",
+    "releaseDate": "2022-09-02",
+    "tags": [
+      "pop"
+    ],
+    "title": "Not A Refugee",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/25zg5ImiUScRzn2eB2pkV0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:53:48.416Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Volodymyr Dantes"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aeac9c66f3b6d9f5c44fd4fa",
+    "releaseDate": "2022-06-28",
+    "tags": [
+      "pop"
+    ],
+    "title": "Тільки ми",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3H8kpito6YxIJU8FDfsehh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:53:48.416Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Volodymyr Dantes"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f367a0c2415d56e7f46ba2da",
+    "releaseDate": "2022-04-29",
+    "tags": [
+      "pop"
+    ],
+    "title": "Обійми",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0a0nPTq17RaPuvZ4Xsit9x"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:53:48.416Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Volodymyr Dantes"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732abec0d328f1cb58e7138758",
+    "releaseDate": "2022-02-14",
+    "tags": [
+      "pop"
+    ],
+    "title": "ветер Надежды",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0OJtbwgc866QpB4wTgbIHZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:53:48.416Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Volodymyr Dantes"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e4dcd298dc4ddb646a9458ca",
+    "releaseDate": "2021-10-22",
+    "tags": [
+      "pop"
+    ],
+    "title": "Грустные танцы",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2Tgv9VtemF52S8UmtTJhD6"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:53:48.416Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Volodymyr Dantes"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c1f721edd20feac941b87559",
+    "releaseDate": "2021-03-19",
+    "tags": [
+      "pop"
+    ],
+    "title": "Sasha",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3VtbtcV0kxMPm8o4bPzviZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:53:48.416Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Volodymyr Dantes"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ec8bd65fb8d981f3ee098082",
+    "releaseDate": "2020-11-12",
+    "tags": [
+      "pop"
+    ],
+    "title": "Если бы",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6vNHKIW22SsQnS88TQSAZn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:53:48.416Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Volodymyr Dantes"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b3364f35278b57316e5e3235",
+    "releaseDate": "2020-08-18",
+    "tags": [
+      "pop"
+    ],
+    "title": "Одноклассница",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5lTecXUQjvV5ziTsnekTk8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:53:48.416Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Volodymyr Dantes"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273841e522f684f54f85cc89516",
+    "releaseDate": "2020-02-07",
+    "tags": [
+      "pop"
+    ],
+    "title": "Более или Менее",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6GJWBoeYlGV2njqVAMmGJL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:53:48.416Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Volodymyr Dantes"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f21b395d0a4af66b841a0679",
+    "releaseDate": "2019-10-10",
+    "tags": [
+      "pop"
+    ],
+    "title": "Теперь тебе 30",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5xjbEFZR6Ux9005LYREKAT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:53:48.416Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MONATIK"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d9512c352ddd40252959e6d1",
+    "releaseDate": "2025-09-09",
+    "tags": [
+      "pop"
+    ],
+    "title": "Вічно Танцююча Людина",
+    "totalTracks": 32,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5gBKxnzXdF8eR8M5yos90c"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:53:48.416Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Міша Правильний",
+      "Гоня"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a852a4135dfc601d00f81b1d",
+    "releaseDate": "2025-02-28",
+    "tags": [
+      "rap"
+    ],
+    "title": "Шо ти мелеш?",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7aO3iSpPX7Ny9UEW1TQk5H"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:53:48.416Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Міша Правильний"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f49464d8166b62fa72842505",
+    "releaseDate": "2024-10-11",
+    "tags": [
+      "rap"
+    ],
+    "title": "Всі імена вигадані",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6dOgN9RpKkX78eGv5kKYJh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:53:48.416Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROXOLANA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273269970bbf1dd8b3ad6fe2623",
+    "releaseDate": "2023-12-08",
+    "tags": [
+      "pop"
+    ],
+    "title": "настрій: колядувати",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5rniOXFVzlpHL8VgyZNXTh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:53:48.416Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "dity inzheneriv"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734e30a9e40d1c111aeeaa0475",
+    "releaseDate": "2025-04-14",
+    "tags": [
+      "alternative rock",
+      "post-punk"
+    ],
+    "title": "++",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0h33eZfdygKnE9TKgSz28Z"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:53:48.416Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Igor Kirilenko"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735f818e09f98bb3ac392a8b83",
+    "releaseDate": "2021-12-10",
+    "tags": [],
+    "title": "111111111111111111111111111111",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4B8hduuQSHNI4Y1Xd4naDL"
+  }
+]

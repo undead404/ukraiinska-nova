@@ -1,0 +1,23 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:50:41.473Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Плесо"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734a67e05b8a6f7d4af562388d",
+    "releaseDate": "2022-12-18",
+    "tags": [
+      "lviv"
+    ],
+    "title": "Грози",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1bn2EloqVoIDhsr1u6BPCd"
+  }
+]

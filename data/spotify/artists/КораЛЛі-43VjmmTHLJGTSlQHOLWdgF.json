@@ -1,0 +1,68 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:50:04.507Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "КораЛЛі",
+      "KOMU VNYZ"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27352683ba19c501b6ebfd84263",
+    "releaseDate": "2025-07-15",
+    "tags": [
+      "folk",
+      "Gothic Rock"
+    ],
+    "title": "З золотим левиком на рукаві",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7Bp9qr239JuaqA6IYT5QlK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:50:04.507Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "КораЛЛі"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273886fdc92f61e56dba54cf561",
+    "releaseDate": "2024-11-20",
+    "tags": [
+      "folk"
+    ],
+    "title": "Рок-коліДа",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0zcmgb1OdC2PxovytUsZb0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:50:04.507Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "The Doox"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c521fa08cb45b6133d8b9afc",
+    "releaseDate": "2024-09-17",
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "title": "Меланка",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4tlJS52goHDutXFraF6CAe"
+  }
+]

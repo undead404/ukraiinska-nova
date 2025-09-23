@@ -1,0 +1,166 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:49:00.413Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Бетон"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b9584269a9619cd42c9c4d50",
+    "releaseDate": "2025-04-01",
+    "tags": [
+      "rock"
+    ],
+    "title": "Юніті",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1ayiBxP282OyXsldmBErpl"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:49:00.413Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Бетон"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c275396f171dd88a785a0c93",
+    "releaseDate": "2021-02-17",
+    "tags": [
+      "rock"
+    ],
+    "title": "Тільки для своїх",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3KE9sqUnlKzsrDCGV4bFBR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:49:00.413Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Бетон"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e9ff8b982f8d4a0476bc1c82",
+    "releaseDate": "2019-02-06",
+    "tags": [
+      "rock"
+    ],
+    "title": "Нічого святого",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6tnWYwNAwobsBGVqK1Vejh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:49:00.413Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Бетон"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fc83dabcffafe5fd8cd6eda0",
+    "releaseDate": "2017-09-14",
+    "tags": [
+      "rock"
+    ],
+    "title": "Йди сюда!",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/57XYHaoVeSE5dtdqU5mYAb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:49:00.413Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Бетон"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273be5854ba3d7ee26b4b4a43d3",
+    "releaseDate": "2023-11-21",
+    "tags": [
+      "rock"
+    ],
+    "title": "46",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5WOAAS241tfxpXSBNNGfYP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:49:00.413Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Бетон"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738931b1782bbee4dc777f02df",
+    "releaseDate": "2022-03-20",
+    "tags": [
+      "rock"
+    ],
+    "title": "Kyiv Calling",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2LUMovJ8UEpvpTdupMAq6x"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:49:00.413Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "100% BAVOVNA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27322be43ce607e69afa1a78133",
+    "releaseDate": "2025-06-26",
+    "tags": [],
+    "title": "Нехай горить!",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1BCyegdItHuIyCV39P61Ps"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:49:00.413Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "100% BAVOVNA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736b7c24a9f1cedb7fd66b89a0",
+    "releaseDate": "2022-08-17",
+    "tags": [],
+    "title": "Бавовна",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5W4FzfboJOMjjLqc7gUvkI"
+  }
+]

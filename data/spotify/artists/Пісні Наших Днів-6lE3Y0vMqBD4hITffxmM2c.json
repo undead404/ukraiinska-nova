@@ -1,0 +1,23 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:50:34.892Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Пісні Наших Днів"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734529763e686abfd53fa583a6",
+    "releaseDate": "2016-11-04",
+    "tags": [
+      "acoustic"
+    ],
+    "title": "Про Любов",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3igAcqW941oxz9IKDQWPHr"
+  }
+]

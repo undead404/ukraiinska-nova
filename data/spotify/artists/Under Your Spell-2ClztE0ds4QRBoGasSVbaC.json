@@ -1,0 +1,67 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:53:36.393Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Under Your Spell"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736853de13b65a729ed88b3c6d",
+    "releaseDate": "2025-01-10",
+    "tags": [
+      "shoegaze",
+      "Grunge",
+      "alternative rock"
+    ],
+    "title": "Drive",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4FXZ4ayHlFsuL3ruXoZp7n"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:53:36.393Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Under Your Spell"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733ab7976ce7bb5781511a21d1",
+    "releaseDate": "2024-08-23",
+    "tags": [
+      "shoegaze",
+      "Grunge",
+      "alternative rock"
+    ],
+    "title": "Завжди",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2JBM4VMnPHRT3Ivv0OToRX"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:53:36.393Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ocean cuts"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bfd235370547324bd06ec01a",
+    "releaseDate": "2025-04-02",
+    "tags": [],
+    "title": "ocean cuts live",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/14K6Py4C24boGE1icLZAOP"
+  }
+]

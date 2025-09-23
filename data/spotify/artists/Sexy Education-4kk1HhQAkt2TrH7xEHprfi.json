@@ -1,0 +1,82 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:53:27.249Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sexy Education",
+      "Love, Mary"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273957a0f9ae08b6b2fc0ec1373",
+    "releaseDate": "2025-09-08",
+    "tags": [
+      "soul",
+      "electropop"
+    ],
+    "title": "БЕЗ ЗАЙВИХ СЛІВ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2kpeI2wNXMaEagsO2rUfYh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:53:27.249Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sexy Education"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739927358ffb2a46823266a334",
+    "releaseDate": "2025-04-18",
+    "tags": [],
+    "title": "Ностальгія",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0ZOzbRQz81LZT0wphWWWHd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:53:27.249Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sexy Education"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c8d19fbc53e43d9d43f5cdb9",
+    "releaseDate": "2024-04-26",
+    "tags": [],
+    "title": "Пліч-о-пліч",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3wZsv7BIvg0WOANKCAd740"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T01:53:27.249Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sexy Education"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ce2c2c8ac6edf188079e6b4b",
+    "releaseDate": "2024-03-08",
+    "tags": [],
+    "title": "Цілу ніч",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1Er3XYKF9OlJNRha5cjgp4"
+  }
+]
