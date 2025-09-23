@@ -1,0 +1,90 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T05:23:12.090Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Octopus Kraft"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c5a94abfb19c2845c6d7b196",
+    "releaseDate": "2020-11-20",
+    "tags": [
+      "Post-Metal",
+      "Sludge"
+    ],
+    "title": "Null",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1aZr3BAJZVYzPiQjaRB26h"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T05:23:12.090Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Octopus Kraft"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273549382bca8fcca8aedd637b6",
+    "releaseDate": "2016-08-08",
+    "tags": [
+      "Post-Metal",
+      "Sludge"
+    ],
+    "title": "Through A Thousand Woods",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1F7SuC7ikPWT1Gorce7Z7X"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T05:23:12.090Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Octopus Kraft"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ee6fe72696faa2ac5fe5691d",
+    "releaseDate": "2014-08-27",
+    "tags": [
+      "Post-Metal",
+      "Sludge"
+    ],
+    "title": "Нутро",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0ULKwIgvcZhK81BzazyjWF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T05:23:12.090Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Octopus Kraft"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27315540ecf724c0a82cfa7c77d",
+    "releaseDate": "2014-09-25",
+    "tags": [
+      "Post-Metal",
+      "Sludge"
+    ],
+    "title": "Краплини",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6a86dZlpRF4EN0X7p9o0ar"
+  }
+]

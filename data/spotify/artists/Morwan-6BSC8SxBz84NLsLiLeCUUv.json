@@ -1,0 +1,86 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T05:23:00.277Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Morwan"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730d5674e4139c20260f3fd25c",
+    "releaseDate": "2023-04-28",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Світає, палає",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/45uscMZNmrnlA6XI6XsBHH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T05:23:00.277Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Morwan"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273632c354fc39ae964ecf77eb2",
+    "releaseDate": "2025-09-10",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Не чекай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/56KppVVg0uTNPTEpVtTHtx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T05:23:00.277Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Morwan"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732034c8863882d74131db0739",
+    "releaseDate": "2023-04-19",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Журба",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7jV3sRiKypswAK9B8DA6bX"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T05:23:00.277Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Morwan"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732c703ec7762504cb70aa5119",
+    "releaseDate": "2020-10-16",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Зола-Земля",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4uF0hGTNOPNCHbDloAlLvl"
+  }
+]

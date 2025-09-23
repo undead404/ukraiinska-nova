@@ -1,0 +1,65 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T05:21:01.676Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ЯК-НЕБУДЬ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d0985a90165dd0d6252b1d5d",
+    "releaseDate": "2025-03-07",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "Біоритми",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1oBWD7Kh2ffigR5zujAExU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T05:21:01.676Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ЯК-НЕБУДЬ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a31d046c43870e0747713e98",
+    "releaseDate": "2024-12-13",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "Не чекай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/613YBsUYK8tiYjdx6xiuKo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T05:21:01.676Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ЯК-НЕБУДЬ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273843c64c3a158dc55c63bd42f",
+    "releaseDate": "2024-10-24",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "Танцюрист",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2ID2IB555Wd2atQ9L6hMQS"
+  }
+]

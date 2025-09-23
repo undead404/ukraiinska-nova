@@ -1,0 +1,45 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T05:20:22.792Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Міша Крупін",
+      "Сергій Притула"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b687aebc26934e22177f9240",
+    "releaseDate": "2024-04-30",
+    "tags": [
+      "pop"
+    ],
+    "title": "Ї**ти *усню 24/7",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2Lynq1vGAto9Oejl8ZB3dC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T05:20:22.792Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Клей Угрюмого"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27373199e84f7ea5162359bd9cd",
+    "releaseDate": "2017-05-25",
+    "tags": [
+      "reggae"
+    ],
+    "title": "Я на неї запав",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1unzu3R8rUC4cJUxh9WMjZ"
+  }
+]

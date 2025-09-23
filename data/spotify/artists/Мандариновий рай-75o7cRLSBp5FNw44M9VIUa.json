@@ -1,0 +1,23 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T05:19:58.582Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Мандариновий рай"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732fff68567de8b8e846ba895d",
+    "releaseDate": "2010-11-02",
+    "tags": [
+      "pop"
+    ],
+    "title": "Подивись у вікно",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7IPcMksbwFUFXspOotrkR3"
+  }
+]

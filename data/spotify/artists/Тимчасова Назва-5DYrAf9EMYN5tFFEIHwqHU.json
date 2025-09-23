@@ -1,0 +1,139 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T05:20:25.927Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Тимчасова Назва"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f0344bd7370a9e19d10c8aa2",
+    "releaseDate": "2022-05-31",
+    "tags": [],
+    "title": "Чорна музика",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6x6WR4HcBPylIwDwxkIxiZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T05:20:25.927Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Тимчасова Назва"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737ea2e4675f47c407f666f969",
+    "releaseDate": "2021-06-02",
+    "tags": [],
+    "title": "Темні Часи / Наші Часи",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5F3PELLD3kTjlKzgaWMrvI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T05:20:25.927Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Тимчасова Назва"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731347a3fe0c593d329451dabd",
+    "releaseDate": "2020-08-12",
+    "tags": [],
+    "title": "Кораблетрощі",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3YG6CQOsdMkaSdPWm9y2Ak"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T05:20:25.927Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Тимчасова Назва"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a1a9500dd4b8c6c18d9b6222",
+    "releaseDate": "2019-07-08",
+    "tags": [],
+    "title": "Бути соняшником",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4Ez9h3EXD4QfFadlB4vMoX"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T05:20:25.927Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Тимчасова Назва"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c9c36d52e2b6f9bbaf3c3bb7",
+    "releaseDate": "2021-01-25",
+    "tags": [],
+    "title": "Незворотність",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/44oig17CGQbEAmwp0jqPRL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T05:20:25.927Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Shopping Hour"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27302de7630f5fe57dbfd878399",
+    "releaseDate": "2022-12-30",
+    "tags": [
+      "acid jazz"
+    ],
+    "title": "Залізобетоном",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4itdpVbn1V6WOkuEGYUzzK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T05:20:25.927Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Shopping Hour"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733257d0fe3bee87f78a5bf374",
+    "releaseDate": "2023-05-08",
+    "tags": [
+      "acid jazz"
+    ],
+    "title": "Землевпорядник",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5OPPHQ43VLFWKIX5zWA7VR"
+  }
+]

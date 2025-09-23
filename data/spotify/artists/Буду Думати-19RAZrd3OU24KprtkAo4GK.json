@@ -1,0 +1,48 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T05:19:45.774Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Буду Думати"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ed3742ad00f1bf79493b803b",
+    "releaseDate": "2023-09-09",
+    "tags": [
+      "noise",
+      "ambient"
+    ],
+    "title": "Пусті Думки",
+    "totalTracks": 5,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2C158Jmd0e1ycl6SugKBd0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T05:19:45.774Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Буду Думати",
+      "anton malynovskyi"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cd7ec79404f5752680cc131e",
+    "releaseDate": "2025-01-14",
+    "tags": [
+      "noise",
+      "ambient",
+      "electronic"
+    ],
+    "title": "Синдром Подразненого Кишківника",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/48z9iwLym8WOXlQrpF6MUs"
+  }
+]

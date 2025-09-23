@@ -1,0 +1,78 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T05:23:52.580Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sequencing"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732b7a081cf1534f5e350dbb35",
+    "releaseDate": "2022-12-22",
+    "tags": [],
+    "title": "Segment",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0yjFC9s5c2mZIm6P4JBYnJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T05:23:52.580Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sequencing"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d1210aafa8f7537a1fff7731",
+    "releaseDate": "2022-12-22",
+    "tags": [],
+    "title": "Beyond the Abyss",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/325oGsQdI9f65JYNUz7FFf"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T05:23:52.580Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sequencing"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732faa7f1331fe837d1533cb9b",
+    "releaseDate": "2022-10-10",
+    "tags": [],
+    "title": "Spectrum",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4Sfp847stW4w1Sb9E00v80"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T05:23:52.580Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sequencing"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c19a4e467585a5e1807d6f37",
+    "releaseDate": "2022-09-19",
+    "tags": [],
+    "title": "Abstract Theory",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/52ueSPI4lDKtcyjFn84Bmp"
+  }
+]

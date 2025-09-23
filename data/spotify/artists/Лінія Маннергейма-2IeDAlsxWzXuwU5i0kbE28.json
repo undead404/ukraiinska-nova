@@ -1,0 +1,86 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T05:19:56.765Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Лінія Маннергейма"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732200dd25490791a4cdf6c98d",
+    "releaseDate": "2020-03-02",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Конфіскат",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0Vs7qAAg1Si4xyAKkXnuEz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T05:19:56.765Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Лінія Маннергейма"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27363af3a25fbde8ba7a9a2aa5b",
+    "releaseDate": "2021-03-05",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Зима / Сніг",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0czRkuw4811UyNL5aClmCu"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T05:19:56.765Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Лінія Маннергейма"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273979a62f38d3482c6ce1d8876",
+    "releaseDate": "2018-09-14",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Бої без правил",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0lxrLKh0UcEruyUED7dwtW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T05:19:56.765Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Лінія Маннергейма"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27373f3f0e429e03fd55af42d00",
+    "releaseDate": "2018-03-30",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Де твоя лінія?",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3mEPxk0SNpkx3ePEPpvCx4"
+  }
+]
