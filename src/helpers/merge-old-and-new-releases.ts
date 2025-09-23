@@ -34,14 +34,13 @@ export default function mergeOldAndNewReleases(
             },
           ],
           artistsPopularity: matchingFreshRelease.artistsPopularity,
-          tags: matchingFreshRelease.tags,
         });
       } else {
         mergedReleases.push(oldRelease);
       }
     } else {
       if (matchingFreshRelease) {
-        mergedReleases.push({ ...oldRelease, tags: matchingFreshRelease.tags });
+        mergedReleases.push(oldRelease);
       } else {
         const lostRelease = {
           ...oldRelease,
