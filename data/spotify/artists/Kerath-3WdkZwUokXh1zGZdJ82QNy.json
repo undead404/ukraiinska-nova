@@ -1,0 +1,65 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T02:40:45.311Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "kerath"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731371eaf1927e6d8ade6fd7b9",
+    "releaseDate": "2025-01-01",
+    "tags": [
+      "jazzcore"
+    ],
+    "title": "Gloomy side of Amnesia",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3GlaDQqxjQysXKb76GJAN5"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T02:40:45.311Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "kerath"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273627405b3c6e8db354cb8588b",
+    "releaseDate": "2024-10-29",
+    "tags": [
+      "jazzcore"
+    ],
+    "title": "Skutigera",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3G1YAS52AvZhet80NZNVqz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T02:40:45.311Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "kerath"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b430eae98a7fd32a0640f52d",
+    "releaseDate": "2023-12-10",
+    "tags": [
+      "jazzcore"
+    ],
+    "title": "I",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6iBXT0LaO0sGXo5TI80RXB"
+  }
+]

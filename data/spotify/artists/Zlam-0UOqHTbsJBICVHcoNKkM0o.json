@@ -1,0 +1,108 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T02:42:14.831Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Zlam"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27385c58d49bf50fcb6ed4869d1",
+    "releaseDate": "2014-06-24",
+    "tags": [
+      "mathcore"
+    ],
+    "title": "Бачив як вдихають горе",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3vs7sJ23Pa1cCVIrZ5amO5"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T02:42:14.831Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Zlam"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ad32e29ae68e8fa35749f4fc",
+    "releaseDate": "2012",
+    "tags": [
+      "mathcore"
+    ],
+    "title": "Під тиском набутих образів",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3n18yazAgn9OJIjH20ykKB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T02:42:14.831Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Zlam"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731e9522fdfd75814d4f80cf29",
+    "releaseDate": "2016-03-23",
+    "tags": [
+      "mathcore"
+    ],
+    "title": "Відчуття як тисячі до цього",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5KTqqjTgHdxGO6wA8YI9vz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T02:42:14.831Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "D3Z"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738fc8f85be68cde94c8232d2f",
+    "releaseDate": "2017-03-08",
+    "tags": [
+      "idm",
+      "breakcore",
+      "industrial",
+      "Drum and bass"
+    ],
+    "title": "Patterns Of Grace And Mercy",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1AI3n4rwWIQ5PlFVr3Buoo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T02:42:14.831Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Guero Noize"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273512e9d81c7040f57e0b9683f",
+    "releaseDate": "2022-05-17",
+    "tags": [],
+    "title": "M.O.E",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1AafdF9JKEMTtDRyVrQ0BN"
+  }
+]

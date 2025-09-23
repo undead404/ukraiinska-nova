@@ -1,0 +1,159 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T02:42:11.909Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YAD band"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739de96967537f7eb88d9d9456",
+    "releaseDate": "2025-04-03",
+    "tags": [
+      "rock",
+      "metal",
+      "Pop Metal"
+    ],
+    "title": "Антистрес",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3oKPMmmXyDfubC6PgJ2ieP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T02:42:11.909Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Dius Nefesh",
+      "YAD band"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b502aa13eff9dcd29e7788ee",
+    "releaseDate": "2025-03-22",
+    "tags": [
+      "rock",
+      "metal",
+      "Pop Metal"
+    ],
+    "title": "Голосове Повідомлення",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5JX1yZubhSk667WNOdEhFw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T02:42:11.909Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "andkrava",
+      "YAD band"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d3279b89b0d74b88e710d122",
+    "releaseDate": "2024-03-29",
+    "tags": [
+      "rock",
+      "metal",
+      "Pop Metal"
+    ],
+    "title": "333 (DNB Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5c1BmA7QVGmJPF5yavshCB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T02:42:11.909Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YAD band"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fb4cc31b8720a130877099e1",
+    "releaseDate": "2023-09-27",
+    "tags": [
+      "rock",
+      "metal",
+      "Pop Metal"
+    ],
+    "title": "Нова Релігія",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/23Oj3QiEva2rLMdReiQoXe"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T02:42:11.909Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YAD band"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f29f3df1d4428a76d4141e61",
+    "releaseDate": "2022-12-09",
+    "tags": [
+      "rock",
+      "metal",
+      "Pop Metal"
+    ],
+    "title": "333 (гімн артилериста)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1DOrejGHck6lHBEamHlcSE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T02:42:11.909Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "The Bull Dozzer"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bfd58f1b998effdc6543a909",
+    "releaseDate": "2022-11-04",
+    "tags": [],
+    "title": "Херсон",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/55nrbmfd3tGCSc0sfhcHu6"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T02:42:11.909Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Incomer"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734c4da1e6cf2947ed5ad082ba",
+    "releaseDate": "2023-12-22",
+    "tags": [
+      "hardcore"
+    ],
+    "title": "SAWS",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0yNPlqgemSGan8TgMox4j0"
+  }
+]

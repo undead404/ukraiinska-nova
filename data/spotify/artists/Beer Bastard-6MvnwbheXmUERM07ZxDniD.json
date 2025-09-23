@@ -1,0 +1,59 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T02:40:11.299Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Beer Bastard"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737b4ea8a437b74ea1375d22ff",
+    "releaseDate": "2025-05-30",
+    "tags": [],
+    "title": "Drink Faster to get Bastard",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0m7l1UGjjro7u88Gx1Jwm5"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T02:40:11.299Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Beer Bastard"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733be71363868d992f03f9b425",
+    "releaseDate": "2025-07-30",
+    "tags": [],
+    "title": "12414",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/68MJ9KEcY1qf3MMT79zanw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T02:40:11.299Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Beer Bastard"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273117ba9ec3c17ba1567a3a9f0",
+    "releaseDate": "2025-02-12",
+    "tags": [],
+    "title": "Red Plague",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0bnddHXgtCw9iKHrrhL6xo"
+  }
+]

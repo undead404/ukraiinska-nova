@@ -1,0 +1,67 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T02:38:16.373Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Бакі г'юберт"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ad71acd12b5eacfef1002e89",
+    "releaseDate": "2025-07-04",
+    "tags": [
+      "rap"
+    ],
+    "title": "Фужери Вщент",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/53YP882lMruVQQklUN4SOj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T02:38:16.373Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "аппекс",
+      "Бакі г'юберт"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ca81d4db5f461f8b83a252f5",
+    "releaseDate": "2024-06-14",
+    "tags": [
+      "abstract hip-hop",
+      "rap"
+    ],
+    "title": "Іскри",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2zjqaowEv9Kk772JKeCJt3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T02:38:16.373Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Бакі г'юберт"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c563903dda69726ea6576271",
+    "releaseDate": "2021-06-18",
+    "tags": [
+      "rap"
+    ],
+    "title": "Розради калі",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1itveyHSSYUhAupf5zGiYx"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T02:40:35.922Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Grupa Vuha"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a83b24ccb86987f7e7871aca",
+    "releaseDate": "2023-12-31",
+    "tags": [
+      "hip hop",
+      "rap"
+    ],
+    "title": "Новий Рік",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2fwUnydpgNhfglp6h9aR2O"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T02:40:35.922Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Grupa Vuha"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737b8f8dcd0d2fb1c5ff3821c6",
+    "releaseDate": "2023-10-23",
+    "tags": [
+      "hip hop",
+      "rap"
+    ],
+    "title": "Жир",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7nHzu9HF4yXbmIg91ZBGCm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T02:40:35.922Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Grupa Vuha"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27321cd7d438deb18f00267e671",
+    "releaseDate": "2023-09-25",
+    "tags": [
+      "hip hop",
+      "rap"
+    ],
+    "title": "Конфлікт",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3ObvWBQ8iF5TNqMYkQDV5O"
+  }
+]

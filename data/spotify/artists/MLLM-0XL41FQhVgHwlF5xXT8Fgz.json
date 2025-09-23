@@ -1,0 +1,25 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T02:40:59.451Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MLLM"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273254e197c3a9e8256462c84e0",
+    "releaseDate": "2023-09-19",
+    "tags": [
+      "rock",
+      "pop rock",
+      "alternative"
+    ],
+    "title": "Pegou, pagou! (Speed up, speed Dow)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4xX7j1msDZrRrsVeTovBQ0"
+  }
+]

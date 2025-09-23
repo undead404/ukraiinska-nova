@@ -1,0 +1,23 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T02:38:18.284Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ГАЛЯК"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27329fd7e7f46d163d2894bb510",
+    "releaseDate": "2017-06-23",
+    "tags": [
+      "punk rock"
+    ],
+    "title": "МУЗЛО",
+    "totalTracks": 14,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6rJnkXaarrNjbBFvpE0Sl5"
+  }
+]

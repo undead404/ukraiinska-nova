@@ -1,0 +1,68 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T02:39:22.687Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Максі кренк",
+      "Мітяй"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a2e6cfca15449016c365e029",
+    "releaseDate": "2022-09-29",
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "underground rap"
+    ],
+    "title": "Не лети",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2eZgJNrSSsXwa9bxdnTKUC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T02:39:22.687Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Мітяй"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730151f3974bb0f0b0d8aa7453",
+    "releaseDate": "2022-08-01",
+    "tags": [],
+    "title": "Серце на карті",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/65siakbN6cULw8XhPcL4bs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T02:39:22.687Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Максі кренк"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730362436c2ff775c44214d563",
+    "releaseDate": "2022-06-24",
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "underground rap"
+    ],
+    "title": "У7",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6pgYg8b4QKJPCGtJ7lIQFt"
+  }
+]
