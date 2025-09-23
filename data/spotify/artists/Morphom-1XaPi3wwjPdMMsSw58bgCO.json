@@ -1792,5 +1792,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/78xZQGilLJzScj4g9FCZ9o"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T22:24:37.356Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Morphom"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f0f92c2444d9e8e48c74ed8b",
+    "releaseDate": "2025-09-23",
+    "tags": [
+      "hip hop",
+      "indie pop"
+    ],
+    "title": "Під осіннім дощем",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6uLNJZziForm5dFjn7GVTA"
   }
 ]

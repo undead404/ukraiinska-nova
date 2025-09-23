@@ -639,12 +639,16 @@
       {
         "time": "2025-09-20T22:22:58.624Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-09-23T22:20:14.793Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Tartak"
     ],
-    "artistsPopularity": 42,
+    "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730e448901bbdd34af9f08c3d2",
     "releaseDate": "2017-09-03",
     "title": "Знаєш мій день",

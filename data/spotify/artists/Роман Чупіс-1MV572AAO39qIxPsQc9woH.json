@@ -1,0 +1,25 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T22:20:57.085Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Скрябін",
+      "Роман Чупіс"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738cef2df8fd3675e2fe7e9ff4",
+    "releaseDate": "2021-12-24",
+    "tags": [
+      "synthpop",
+      "Pop-Rock"
+    ],
+    "title": "Тарасик, тролейбус і Святий Миколай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0uL02fJyaaTQIGNsbcO8FM"
+  }
+]
