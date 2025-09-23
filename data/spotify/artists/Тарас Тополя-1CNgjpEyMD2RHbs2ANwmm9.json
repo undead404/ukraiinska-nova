@@ -1,0 +1,115 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T14:21:07.713Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олександр Пономарьов",
+      "Михайло Хома",
+      "Тарас Тополя"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e1e76e4e7ddc967420989b93",
+    "releaseDate": "2024-05-03",
+    "tags": [
+      "pop"
+    ],
+    "title": "Темна нічка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1etcJUwe75Sk8twBw5gL5U"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T14:21:07.713Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олександр Пономарьов",
+      "Тарас Тополя",
+      "ALEKSEEV"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aaca5d59cea43bd6f17badd5",
+    "releaseDate": "2023-08-25",
+    "tags": [
+      "pop"
+    ],
+    "title": "Миліша",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5bD9ufBkGRPcwyULZuGigO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T14:21:07.713Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олександр Пономарьов",
+      "Михайло Хома",
+      "Тарас Тополя"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27374129b56c84423316896b208",
+    "releaseDate": "2022-08-24",
+    "tags": [
+      "pop"
+    ],
+    "title": "На землі, в повітрі і на морі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7IOhucm35B68Cmy4H7jkic"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T14:21:07.713Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олександр Пономарьов",
+      "Михайло Хома",
+      "Тарас Тополя"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a9040e029b48d6ec8d1c4a18",
+    "releaseDate": "2022-04-25",
+    "tags": [
+      "pop"
+    ],
+    "title": "Україна переможе!",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0fmvANmgFNJ8gMlubnX4Gb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T14:21:07.713Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олександр Пономарьов"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27377292721e429f0a591dd3bfd",
+    "releaseDate": "2021-05-07",
+    "tags": [
+      "pop"
+    ],
+    "title": "Христос воскрес",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/16968nSrz7L7Sa5Ad9WpOq"
+  }
+]
