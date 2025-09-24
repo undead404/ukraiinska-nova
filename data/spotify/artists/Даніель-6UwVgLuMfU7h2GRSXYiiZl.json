@@ -1,0 +1,65 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T08:21:19.792Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Даніель"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cd13cd35a55f190f5a557e87",
+    "releaseDate": "2024-12-09",
+    "tags": [],
+    "title": "Дівчина Радість",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6SHfGHT0fIdgAWrorJOQTi"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T08:21:19.792Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Даніель"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b00bd1682f83427d05d66da6",
+    "releaseDate": "2023-02-03",
+    "tags": [],
+    "title": "Карпатський край",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5RK4We1zYnxiwH4gAv6rPF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T08:21:19.792Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Степан Гіга",
+      "Квітослава",
+      "Steve G",
+      "Даніель"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e0150276e73322a8e6482f58",
+    "releaseDate": "2021-10-01",
+    "tags": [
+      "male vocalists",
+      "nsbm"
+    ],
+    "title": "Хай Ісус мале дитя",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5RUZhQyNNLZSaLM3tv5Zs1"
+  }
+]
