@@ -1,0 +1,99 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T12:23:22.141Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Настя Борщ",
+      "Шугар"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736a2aeaea6c9230a8daa4168b",
+    "releaseDate": "2025-08-14",
+    "tags": [],
+    "title": "Йо-йо",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5pqT70zEsZdcJf0vTgCsGq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T12:23:22.141Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Настя Борщ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b66cdeb48d96f699527cb0e4",
+    "releaseDate": "2025-06-12",
+    "tags": [],
+    "title": "Кордони",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/51GZY8xThCnKx5vMQ8pTLB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T12:23:22.141Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Настя Борщ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27363a5bc205f1f0c7bb9d85ea4",
+    "releaseDate": "2025-02-14",
+    "tags": [],
+    "title": "Хованки",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1KpMOfxfab3QC3uJWL5uVV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T12:23:22.141Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Шугар",
+      "Настя Борщ"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273166ec1d018b302757bda46b3",
+    "releaseDate": "2024-12-05",
+    "tags": [],
+    "title": "Тікток",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/65dQ9H9gZOsRzWDHCbVHwz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T12:23:22.141Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MAKEMD"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273358acd3eac9d76e17c15cd00",
+    "releaseDate": "2025-08-27",
+    "tags": [],
+    "title": "Йо-Йо (Dark Dance Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7fApOTrDhAWyqNPHPjY0Yr"
+  }
+]

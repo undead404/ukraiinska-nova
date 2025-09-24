@@ -1,0 +1,120 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T12:28:55.275Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Artem Pivovarov",
+      "The Вуса",
+      "Ziferblat"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c027e23eb219138b90eec7f1",
+    "releaseDate": "2025-09-19",
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "title": "Будь здоров",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1QnS3qbNDB7e8d6dRGpx6F"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T12:28:55.275Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Artem Pivovarov",
+      "The Вуса",
+      "Iryna Bilyk"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733647ebc5305fe9eb17716902",
+    "releaseDate": "2025-08-01",
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "title": "YABADABADU",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5ZtKCBQ3yw6I5xRSpi3q8g"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T12:28:55.275Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Artem Pivovarov",
+      "The Вуса",
+      "Kalush Orchestra"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273af503b4baee100071714be28",
+    "releaseDate": "2025-03-07",
+    "tags": [
+      "folk",
+      "pop",
+      "rap"
+    ],
+    "title": "Підманула",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1nDY8FMopZ8BLb6Bc6KSw6"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T12:28:55.275Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Artem Pivovarov",
+      "The Вуса"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273857f6f25c486b99f09b13afc",
+    "releaseDate": "2024-03-15",
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "title": "О, Панно!",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/59Tat8dLMpsK6MvVmg0G5Y"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T12:28:55.275Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Artem Pivovarov"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27378aed5a849ad080b2d8f0908",
+    "releaseDate": "2024-05-27",
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "title": "THE BEST",
+    "totalTracks": 20,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0IYlHtB8Mvf8d445ocJFB9"
+  }
+]
