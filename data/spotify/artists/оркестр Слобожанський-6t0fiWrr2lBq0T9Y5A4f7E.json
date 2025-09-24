@@ -1,0 +1,24 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T13:23:27.129Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ТНМК",
+      "оркестр Слобожанський"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737ead91085aa6a825e7d3058d",
+    "releaseDate": "2015-02-14",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Симфо хiп-хоп",
+    "totalTracks": 17,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3y0vjqXRzZyzeVwFvUmfAo"
+  }
+]
