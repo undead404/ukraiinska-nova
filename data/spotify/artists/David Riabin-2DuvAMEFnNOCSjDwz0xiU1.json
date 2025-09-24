@@ -1,0 +1,85 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T05:23:22.723Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "LOVERA BREAUX",
+      "David Riabin",
+      "на її основі"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f1103050ca7c3f07202701bf",
+    "releaseDate": "2025-09-12",
+    "tags": [],
+    "title": "Тихий шторм",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/70WwAZcLLwOPUe11NEMlst"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T05:23:22.723Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Скажи щось погане",
+      "David Riabin",
+      "на її основі"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27367cd7e52d8c745b18e22de22",
+    "releaseDate": "2025-08-29",
+    "tags": [
+      "new wave",
+      "Psychedelic Rock"
+    ],
+    "title": "Голий",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5H5auVNlggktT4kWQVojfx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T05:23:22.723Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "на її основі"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273505d680dcab77237f0bf1bcf",
+    "releaseDate": "2025-08-22",
+    "tags": [],
+    "title": "КЕМП 2.0",
+    "totalTracks": 19,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4az2VmofKIkuN4VMFGJiDV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T05:23:22.723Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "на її основі"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734a288f0d19e78a8dd3a6b359",
+    "releaseDate": "2025-09-12",
+    "tags": [],
+    "title": "За її лаштунками, Vol. 3",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2MHxLMtc6pKp3KJxxv8ZIj"
+  }
+]

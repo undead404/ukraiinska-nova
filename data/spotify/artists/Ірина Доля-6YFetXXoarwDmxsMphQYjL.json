@@ -1,0 +1,137 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T20:29:36.825Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ірина Доля"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27322398dbe7d99da77ca526505",
+    "releaseDate": "2018-12-12",
+    "tags": [],
+    "title": "Ще раз",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5kegUXsxZTIbdQnw1tiDew"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T20:29:36.825Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ірина Доля"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738ac96b3d8661026ffea7b558",
+    "releaseDate": "2022-04-28",
+    "tags": [],
+    "title": "Ми разом",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4nJ4Hlt0VQgkDiPDz2ZbzD"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T20:29:36.825Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ірина Доля"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273186120d972a62ef5d44fd2c9",
+    "releaseDate": "2018-12-12",
+    "tags": [],
+    "title": "Слова",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5H8XRQnjrNhoEy39he3EEP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T20:29:36.825Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ірина Доля"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735e1ef4fa1d159ad0515f0236",
+    "releaseDate": "2018-12-12",
+    "tags": [],
+    "title": "Колискова для Іванка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3NeBTDefUMdBp2FFi5nGr1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T20:29:36.825Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ірина Доля",
+      "ХАС"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273501a51741a7be6cb4769063b",
+    "releaseDate": "2018-12-12",
+    "tags": [],
+    "title": "Біла зима",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1UeCplx6h1GpeKJiuJbYDv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T20:29:36.825Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ірина Доля"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731774d802cc8e6e70e6a3c482",
+    "releaseDate": "2018-12-11",
+    "tags": [],
+    "title": "Різдвяний вальс",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3ttckT6sZ3L8yIjdSRDD9O"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T20:29:36.825Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ірина Доля",
+      "Павло Ільницький"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733e4f77986634469d78992a56",
+    "releaseDate": "2018-12-11",
+    "tags": [],
+    "title": "Номер готелю",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5RT1WqLo29vSb6CNUfLub5"
+  }
+]

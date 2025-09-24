@@ -1,0 +1,26 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T05:20:42.154Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Степан Гіга",
+      "Квітослава",
+      "Степан Гіга Молодший"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731537ef127dd2511d0dc867da",
+    "releaseDate": "2009",
+    "tags": [
+      "male vocalists",
+      "nsbm"
+    ],
+    "title": "Друзі мої 2",
+    "totalTracks": 21,
+    "type": "album",
+    "url": "https://open.spotify.com/album/36ZWJyJBhptabSDkVKLIdg"
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T04:25:14.178Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VSE.SVIT"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27340954a296e47bad81b708fb1",
+    "releaseDate": "2016-07-27",
+    "tags": [],
+    "title": "#3",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5iuZAKKjWH8fbp1vpU62R1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T04:25:14.178Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VSE.SVIT"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c24105336a07937685d5567f",
+    "releaseDate": "2016-07-27",
+    "tags": [],
+    "title": "#2",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0JHgI80jnbTgrNruBRIT9G"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T04:25:14.178Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VSE.SVIT"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27317059db185c1247d731a4a1b",
+    "releaseDate": "2016-07-27",
+    "tags": [],
+    "title": "#1",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4gamrIPahSURDcneSpYfOy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T04:25:14.178Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VSE.SVIT"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731eac5882617e2083a9d980f4",
+    "releaseDate": "2015-12-01",
+    "tags": [],
+    "title": "World Support Ukraine",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3tY2VnSPsFJsRyJU6A6YZc"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T07:20:12.114Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Скрябін",
+      "ZLATA OGNEVICH",
+      "Женя Толочний"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739f0f0898ca74799d629d08de",
+    "releaseDate": "2016-12-08",
+    "tags": [
+      "Eurovision",
+      "synthpop",
+      "Pop-Rock"
+    ],
+    "title": "ВодаВогонь",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1YSNay9jmG5fw3784IXbom"
+  }
+]

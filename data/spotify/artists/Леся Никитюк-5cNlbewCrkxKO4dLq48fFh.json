@@ -1,0 +1,61 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T22:20:48.388Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Леся Никитюк"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273984b78716670fce66695a39e",
+    "releaseDate": "2020-03-04",
+    "tags": [],
+    "title": "Ями",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5hBrowcVFqdBuPZ6HMvidO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T22:20:48.388Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олександр Пономарьов"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27322dcba4e00317618f77ae28d",
+    "releaseDate": "2021-12-25",
+    "tags": [
+      "pop"
+    ],
+    "title": "Христос Народився",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4iiA9hs9wTQXD3q6CECt1M"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T22:20:48.388Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Oleg Kenzov"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739b6ed34e5aa298b0a31c57d2",
+    "releaseDate": "2020-12-21",
+    "tags": [],
+    "title": "Кое-что ещё",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5T72s3N96eRbSAasSClFO7"
+  }
+]

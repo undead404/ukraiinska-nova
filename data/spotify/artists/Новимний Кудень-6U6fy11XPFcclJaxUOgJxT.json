@@ -1,0 +1,42 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T07:20:29.943Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Новимний Кудень"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27349871508d055efcf46f2f79d",
+    "releaseDate": "2022-08-16",
+    "tags": [
+      "heavy metal"
+    ],
+    "title": "Український щит",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4G2fkvHpJtp3W0U8GEs1ud"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T07:20:29.943Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Etterion"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731c1391c213d0b9c376688bfc",
+    "releaseDate": "2025-01-25",
+    "tags": [],
+    "title": "Не сльози, а лють",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2AlwWbP2pF5RELOgO0ii2y"
+  }
+]

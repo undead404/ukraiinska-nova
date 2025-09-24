@@ -1,0 +1,77 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T01:49:50.566Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "рома майк",
+      "Ешелон",
+      "Воха"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27354a346cd820f348118e1a001",
+    "releaseDate": "2020-05-12",
+    "tags": [
+      "heavy metal",
+      "Hip-Hop",
+      "rap",
+      "underground hip-hop",
+      "underground rap"
+    ],
+    "title": "Колишні Люди",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6mBonk9ucgYxZM3FkAWCMU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T01:49:50.566Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ешелон"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c12edb9d12996e8b1eb0d04d",
+    "releaseDate": "2022-03-22",
+    "tags": [
+      "heavy metal"
+    ],
+    "title": "Перепайка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/04dfJ0ZGqflnERvH6IvQGN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T01:49:50.566Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "рома майк",
+      "Воха",
+      "Ешелон"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a1826c3ba835e63064a1dc4f",
+    "releaseDate": "2018",
+    "tags": [
+      "heavy metal",
+      "Hip-Hop",
+      "rap",
+      "underground hip-hop",
+      "underground rap"
+    ],
+    "title": "Терапія / Мріяв",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5ZaT2TTegHxGlugA3PBA6i"
+  }
+]

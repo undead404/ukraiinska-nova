@@ -1,0 +1,79 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T23:22:34.984Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "EDGAR TI"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fe43cf813adad719c74da064",
+    "releaseDate": "2025-08-19",
+    "tags": [],
+    "title": "Здається люблю",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6lVxipwLAld9iA8Awpw7zu"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T23:22:34.984Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олена Тополя",
+      "EDGAR TI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d5c277ef452dde393dfe842d",
+    "releaseDate": "2025-03-07",
+    "tags": [],
+    "title": "Чуєш",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/38Tlckkuq3hTgcl95TLQUI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T23:22:34.984Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "EDGAR TI"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dbe6760f01438d47d49fdcae",
+    "releaseDate": "2024-07-22",
+    "tags": [],
+    "title": "Шедевр",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4lb62OdLnj6tpx4xovh0Eq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T23:22:34.984Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "EDGAR TI"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734c4a7a6af654281508c5c7a5",
+    "releaseDate": "2023-11-21",
+    "tags": [],
+    "title": "Літаю",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7D8RrA8NmYlEArI6eyFdLq"
+  }
+]

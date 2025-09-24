@@ -1,0 +1,41 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T22:25:01.952Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олена Тополя",
+      "Raga Dub"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27393c59de9824dd651cbadee9e",
+    "releaseDate": "2017-10-06",
+    "tags": [],
+    "title": "Калина (RagaDub Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0pWUgM5oDwVG7yYhjfCDnA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-23T22:25:01.952Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олена Тополя"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27370fa859cca383f1cbacbacf9",
+    "releaseDate": "2017-12-25",
+    "tags": [],
+    "title": "Маленький секрет",
+    "totalTracks": 18,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6JDRGGhB7bKUMMBoiPb3e6"
+  }
+]
