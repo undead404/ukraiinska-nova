@@ -1,0 +1,109 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T17:20:34.143Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Хонест",
+      "KRSTN",
+      "Спорта"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bd0237e66a3c1e1660e15c4e",
+    "releaseDate": "2023-05-26",
+    "tags": [
+      "rap"
+    ],
+    "title": "Heart Livin",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/59A7h2q4ZwlzJLSK6sKriF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T17:20:34.143Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Спорта"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a04bc3d5129ce347a8c707c3",
+    "releaseDate": "2021-11-16",
+    "tags": [],
+    "title": "Storm On The Underground",
+    "totalTracks": 5,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4gTDlHGDpymExNytmaEAyc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T17:20:34.143Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Хонест",
+      "Спорта"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27301ec68b853959d63c9a967ef",
+    "releaseDate": "2023-04-07",
+    "tags": [
+      "rap"
+    ],
+    "title": "я - порожній будинок",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0JBMUro9oX7oBUOGT5tn7u"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T17:20:34.143Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Спорта",
+      "Хонест"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fefb7c8b132bbbc7cf36eded",
+    "releaseDate": "2023-02-24",
+    "tags": [
+      "rap"
+    ],
+    "title": "на землі «Пілігрим»",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/03IGWu5AiFhXkzvyMb0I3W"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T17:20:34.143Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Хонест"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273def93a576ed132c4463e4cd0",
+    "releaseDate": "2023-10-27",
+    "tags": [
+      "rap"
+    ],
+    "title": "трекосховище",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1dkfaX4jROKQfVWil9BMcA"
+  }
+]
