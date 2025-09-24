@@ -194,6 +194,7 @@ const BLACKLISTED_SUBSTRINGS = [
   'ukrain',
   'russia',
   'kiev',
+  'nsbm',
 ];
 
 const MIN_TAG_NAME_LENGTH = 2;
