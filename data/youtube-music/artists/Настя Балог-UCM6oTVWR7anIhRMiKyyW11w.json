@@ -262,5 +262,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k1B2P_P6K1nkkTvwien3ZQPdPqx52JIXg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T12:58:19.166Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Настя Балог"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/Cyd_biklQp5NnEgs5bIiiIie_Iye4yg_XeQ3YZ8rPa45TgMMkZjW4CwALWWqzwC4s-yLNQI2l7mqm4FF6Q=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "female vocalists",
+      "pop"
+    ],
+    "title": "На швидкості",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_npaScC0lfsK6ol4a5HlzOGUU9vopO2E5s"
   }
 ]
