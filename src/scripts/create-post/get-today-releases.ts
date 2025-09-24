@@ -1,10 +1,10 @@
 import { readFile } from 'node:fs/promises';
 
-import areDatesSameDay from 'src/helpers/are-dates-same-day.js';
 import { array, parse } from 'valibot';
 
 import enhanceRelease from '../../common/enhance-release.js';
 import { releaseRecordSchema } from '../../common/schemata.js';
+import areDatesSameDay from '../../helpers/are-dates-same-day.js';
 import getJsonFiles from '../../helpers/get-json-files.js';
 import getReleaseAppearanceTime from '../../helpers/get-release-appearance-time.js';
 import type { EnhancedMusicRelease } from '../../types/index.js';
