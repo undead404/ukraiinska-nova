@@ -418,5 +418,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kQkSKj2tNQz5F_TSE4Nkwr1tpEQIRSxn4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T22:46:30.680Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kulshenka"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/39PrYWODQX9lp8QATCr7B3VAq0xf7tsQcApuvKGozwMZauzJ6nj_JwAPO1bz9WROZvccTO4mTpvBx3eT=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "female vocalists"
+    ],
+    "title": "Море моє",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_luD13ofOx4g07t6EyaW65kzBTXrx0j3Pw"
   }
 ]
