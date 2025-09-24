@@ -1,0 +1,46 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T18:22:49.306Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BOTASHE",
+      "ТИША"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739bc121772c52360f9090489d",
+    "releaseDate": "2023-10-05",
+    "tags": [
+      "rap",
+      "Hip-Hop"
+    ],
+    "title": "Птахи",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4wzktVfBswhh22fD67M7lF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T18:22:49.306Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Шершень"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27389ad197d8761794b31a47ece",
+    "releaseDate": "2024-10-31",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Сумую",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1VLHjSCWGeZfXJiFeg0feU"
+  }
+]

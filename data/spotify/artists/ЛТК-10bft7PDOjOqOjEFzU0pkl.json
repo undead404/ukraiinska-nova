@@ -1,0 +1,112 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T18:21:58.047Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ЛТК",
+      "Твій зайчик пише"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736cc99f2e90f171cf9888903b",
+    "releaseDate": "2024-05-24",
+    "tags": [
+      "indie pop",
+      "pop"
+    ],
+    "title": "Забирай моє тіло",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5cRDZaQRqmKTksbF9w6RbH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T18:21:58.047Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ЛТК"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738a1c1dfe8bbba7dd75cbd110",
+    "releaseDate": "2024-03-29",
+    "tags": [
+      "indie pop",
+      "pop"
+    ],
+    "title": "Поза законом",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6PqLUnkwLtBXZwjAl2X3xN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T18:21:58.047Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ЛТК"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273de4fc6f9dc3f0a013ab42b60",
+    "releaseDate": "2023-11-10",
+    "tags": [
+      "indie pop",
+      "pop"
+    ],
+    "title": "Осінь",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/05YiXU3MTJevxai8eMpqjB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T18:21:58.047Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ЛТК"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d42f4a3621dbd6c3b4381ea4",
+    "releaseDate": "2023-10-13",
+    "tags": [
+      "indie pop",
+      "pop"
+    ],
+    "title": "Міжгалактичні Танці",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7ybPKZG9kSFNxdLi1fkLpa"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T18:21:58.047Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yagoda"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cf7710dba9ae2916ecf5951f",
+    "releaseDate": "2018-11-02",
+    "tags": [
+      "ukranian"
+    ],
+    "title": "Будь",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7HRovAwnDnCoMb7S9k6fwP"
+  }
+]

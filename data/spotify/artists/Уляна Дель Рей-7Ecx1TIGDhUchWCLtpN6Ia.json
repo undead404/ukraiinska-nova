@@ -299,5 +299,26 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/74CqWj01bo9KWI5mYFpI3B"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T18:22:54.688Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Уляна Дель Рей"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fb0069f0eb8ae83f73492430",
+    "releaseDate": "2025-09-24",
+    "tags": [
+      "pop punk"
+    ],
+    "title": "Мамині світлиці (Bunroud Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6TSUxzBpCbTiTtZUogbYfw"
   }
 ]

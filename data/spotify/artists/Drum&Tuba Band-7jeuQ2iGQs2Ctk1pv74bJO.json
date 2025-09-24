@@ -1,0 +1,21 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T18:24:52.808Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Drum&Tuba Band"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27361f6bcf1e631577549c0b5dc",
+    "releaseDate": "2024-02-21",
+    "tags": [],
+    "title": "Пам'ять",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2yFtJKvkMw8RRl1y6W7MFU"
+  }
+]
