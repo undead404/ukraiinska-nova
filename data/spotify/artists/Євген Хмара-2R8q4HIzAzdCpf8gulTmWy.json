@@ -1,0 +1,157 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T22:20:24.262Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TINA PETRIV",
+      "Євген Хмара"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ba5ec672b83f954a793fea58",
+    "releaseDate": "2025-03-14",
+    "tags": [],
+    "title": "Мирні ночі ясні дні",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3D9E511ahmHZSJ8Qfaof9e"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T22:20:24.262Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Анна Буткевич",
+      "Євген Хмара"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732a1f32e8d172585c60f5a152",
+    "releaseDate": "2023-09-21",
+    "tags": [
+      "pop",
+      "ukranian"
+    ],
+    "title": "ROMANCE",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1AViyQvlt2fQhdm3sYshur"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T22:20:24.262Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ірина Федишин",
+      "Євген Хмара"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b6ee5ef4158bdadfbd9a7595",
+    "releaseDate": "2022-05-04",
+    "tags": [
+      "new wave"
+    ],
+    "title": "Нас весна не там зустріла",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6NrE47lvTuxgczCWkVPROD"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T22:20:24.262Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Artem Pivovarov",
+      "Євген Хмара",
+      "Павло Шилько"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732e521ff30dd12c6e74894bf6",
+    "releaseDate": "2021-08-24",
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "title": "Арфами, арфами",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0S4LXT9ZEn05CKJmL6o2C6"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T22:20:24.262Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Artem Pivovarov"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739013a25e1a64e1c4f729d166",
+    "releaseDate": "2023-03-10",
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "title": "Твої Вірші, Мої Ноти PT.1",
+    "totalTracks": 17,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5WNjZdBlj83NeNSJF3xgrJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T22:20:24.262Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Artem Pivovarov"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730fc10349032d77fa6bbb58ae",
+    "releaseDate": "2022-11-04",
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "title": "The Best (UA)",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5mM1lTjE0J6uIqqE9TmCs9"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T22:20:24.262Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ANNA MARIA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273036f88f81c0ebfe11be6c3b0",
+    "releaseDate": "2015-12-07",
+    "tags": [
+      "jazz",
+      "polish"
+    ],
+    "title": "Різні",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2S3EZhTIN6L7yjaXUbKZlA"
+  }
+]

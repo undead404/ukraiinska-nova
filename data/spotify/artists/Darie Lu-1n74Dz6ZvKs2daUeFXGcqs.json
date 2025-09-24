@@ -352,5 +352,26 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/33uSLUnxIvXeWSz2geQqL5"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T22:21:18.240Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Darie Lu"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e2ebc8319b4e7856ca2ae3f5",
+    "releaseDate": "2025-09-24",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Дивний спокій",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5iDgRFXFgVftXqPB1P2ha4"
   }
 ]
