@@ -505,5 +505,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1Lz1FMhRwTupVxNmnQOWI1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T15:23:58.726Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kulshenka"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a08a38d8a53f397148982b5d",
+    "releaseDate": "2025-09-24",
+    "tags": [
+      "female vocalists"
+    ],
+    "title": "Море моє",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7GHg64f9vwPb78zcPS3VvS"
   }
 ]

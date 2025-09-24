@@ -1,0 +1,27 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T15:21:22.955Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Резидент",
+      "Юрій Бондарчук"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27330eeeadc90c630db852b42b8",
+    "releaseDate": "2022-09-30",
+    "tags": [
+      "indie rock",
+      "poetry",
+      "rap",
+      "spoken"
+    ],
+    "title": "Вишня",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0viBJSKIEiQp51sHWowep5"
+  }
+]
