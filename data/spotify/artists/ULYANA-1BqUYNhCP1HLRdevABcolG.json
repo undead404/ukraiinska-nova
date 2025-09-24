@@ -1,0 +1,26 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T20:27:19.945Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ALEKSEEV",
+      "ULYANA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735a35410ff38f4362e39508b3",
+    "releaseDate": "2024-12-05",
+    "tags": [
+      "ambient",
+      "electronic",
+      "pop"
+    ],
+    "title": "Вальс",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2bYIm5ZvFlQg7y75vFNl0E"
+  }
+]

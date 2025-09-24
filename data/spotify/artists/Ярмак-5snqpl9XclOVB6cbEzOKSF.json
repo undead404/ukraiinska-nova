@@ -1,0 +1,48 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T20:23:14.873Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Artem Pivovarov",
+      "Ярмак"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733bd980691bb31c1f6b43c6ef",
+    "releaseDate": "2021-05-20",
+    "tags": [
+      "folk",
+      "Hip-Hop",
+      "pop"
+    ],
+    "title": "Минають дні, минають ночі (Acoustic Live)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5n8as9gWWQBfpOxS4OVNyB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T20:23:14.873Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Artem Pivovarov"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730fc10349032d77fa6bbb58ae",
+    "releaseDate": "2022-11-04",
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "title": "The Best (UA)",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5mM1lTjE0J6uIqqE9TmCs9"
+  }
+]

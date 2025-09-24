@@ -1,0 +1,70 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T20:22:27.198Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Artem Pivovarov",
+      "Євген Хмара",
+      "Павло Шилько"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732e521ff30dd12c6e74894bf6",
+    "releaseDate": "2021-08-24",
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "title": "Арфами, арфами",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0S4LXT9ZEn05CKJmL6o2C6"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T20:22:27.198Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Artem Pivovarov"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739013a25e1a64e1c4f729d166",
+    "releaseDate": "2023-03-10",
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "title": "Твої Вірші, Мої Ноти PT.1",
+    "totalTracks": 17,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5WNjZdBlj83NeNSJF3xgrJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T20:22:27.198Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Artem Pivovarov"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730fc10349032d77fa6bbb58ae",
+    "releaseDate": "2022-11-04",
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "title": "The Best (UA)",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5mM1lTjE0J6uIqqE9TmCs9"
+  }
+]

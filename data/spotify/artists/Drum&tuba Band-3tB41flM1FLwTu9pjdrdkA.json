@@ -1,0 +1,41 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T20:24:09.134Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Drum&tuba Band",
+      "Makoviya"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736dbe7a044661d724eb8d52e9",
+    "releaseDate": "2024-01-22",
+    "tags": [],
+    "title": "Чую там, чую тут!",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6dRHfEMvP0nU5dr9kbWrNZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T20:24:09.134Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Drum&tuba Band"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731e18638e594e5819d646afc4",
+    "releaseDate": "2023-11-21",
+    "tags": [],
+    "title": "Чую там, чую тут!",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3jR5VkYstjZDqIL5WMp7cn"
+  }
+]
