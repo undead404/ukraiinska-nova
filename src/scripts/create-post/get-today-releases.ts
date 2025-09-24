@@ -1,5 +1,6 @@
 import { readFile } from 'node:fs/promises';
 
+import areDatesSameDay from 'src/helpers/are-dates-same-day.js';
 import { array, parse } from 'valibot';
 
 import enhanceRelease from '../../common/enhance-release.js';
@@ -15,7 +16,7 @@ export default async function* getTodayReleases(
   folder: string,
 ): AsyncGenerator<EnhancedMusicRelease> {
   const artistFiles = await getJsonFiles(folder);
-  const today = new Date().toDateString();
+  const now = new Date();
   for (const artistFileName of artistFiles) {
     const data = await readFile(artistFileName);
     const releases = parse(
@@ -30,7 +31,7 @@ export default async function* getTodayReleases(
         releaseAppearanceTime &&
         releaseAppearanceTime.getTime() !==
           earliestReleaseAppearanceTime!.getTime() &&
-        releaseAppearanceTime.toDateString() === today
+        areDatesSameDay(releaseAppearanceTime, now)
       ) {
         yield release.tags
           ? release
