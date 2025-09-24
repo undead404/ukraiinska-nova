@@ -1,0 +1,84 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T09:22:50.718Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MISHA SCORPION"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27334c46b1a913219933e7e67c7",
+    "releaseDate": "2025-07-28",
+    "tags": [],
+    "title": "Туман",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3538HBnnIBzGJz2CJyFcWs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T09:22:50.718Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MISHA SCORPION"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e30a5849539ccbf4cec40b45",
+    "releaseDate": "2025-02-24",
+    "tags": [],
+    "title": "Брати/Сам",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2NM2ugLDnqtiy71AiEWVxp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T09:22:50.718Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Tom Strobe",
+      "MISHA SCORPION"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273465a59632e55ef6c6bdf46bd",
+    "releaseDate": "2023-10-04",
+    "tags": [
+      "chillout",
+      "dubstep"
+    ],
+    "title": "Там, де...",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3aFnSA7rxjPpWAjN1uzJ7X"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T09:22:50.718Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Мюслі UA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f0c88b6244be97fe133da71",
+    "releaseDate": "2023-10-27",
+    "tags": [
+      "dance"
+    ],
+    "title": "ЗА ТЕРИКОНАМИ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6jyifzmU6bzMY15qfCRyUj"
+  }
+]
