@@ -18,18 +18,22 @@ function getTitleFromUrl(url: string): string {
   throw new Error(`Domain unknown: ${url}`);
 }
 
-export default function mapReleasesToPosts(releases: EnhancedMusicRelease[]) {
-  const posts: Post[] = releases.map((release) => ({
-    imageUrl: release.imageUrl,
-    links: [
-      {
-        title: getTitleFromUrl(release.url),
-        url: release.url,
-      },
-    ],
-    text: `🎤 ${joinArtists(release.artists)}\n💿 ${release.title} (${translateAlbumType(
-      release.type,
-    )}, ${release.releaseDate})\n${release.tags?.length ? '\n' : ''}${release.tags?.map((tag) => hashtagify(tag)).join(' ')}`,
-  }));
+export default function mapReleasesToPosts(
+  releases: EnhancedMusicRelease[],
+  includeType = true,
+) {
+  const posts: Post[] = releases.map((release) => {
+    const typePart = includeType ? `${translateAlbumType(release.type)}, ` : '';
+    return {
+      imageUrl: release.imageUrl,
+      links: [
+        {
+          title: getTitleFromUrl(release.url),
+          url: release.url,
+        },
+      ],
+      text: `${joinArtists(release.artists)} – ${release.title} (${typePart}${release.releaseDate})\n${release.tags?.length ? '\n' : ''}${release.tags?.map((tag) => hashtagify(tag)).join(' ')}`,
+    };
+  });
   return posts;
 }
