@@ -1,0 +1,128 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T21:22:30.753Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NAVKA",
+      "Mordax Bastards",
+      "Jay Filler"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e5d1d3f243b941ae63754c7c",
+    "releaseDate": "2021-10-29",
+    "tags": [],
+    "title": "Фея (Mordax Bastards & Jay Filler Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0XztDyMmTRsUN607yWeWsg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T21:22:30.753Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Jay Filler"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731b7bc40775179239a35ff2ab",
+    "releaseDate": "2020-10-14",
+    "tags": [],
+    "title": "Like This",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/63WZlxdGzLPUby93CBuEpW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T21:22:30.753Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Shnaps",
+      "Jay Filler"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736c8167a788b6940eaf824a61",
+    "releaseDate": "2019-09-26",
+    "tags": [],
+    "title": "Feel the Same",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2J6YfWvxxITMdXXv8M2P8l"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T21:22:30.753Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Artem Pivovarov",
+      "Shnaps",
+      "Jay Filler"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273afcf50b97befa3f31eeeffe8",
+    "releaseDate": "2018-11-01",
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "title": "Відчуй (Shnaps & Jay Filler Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6SpJYRs6Ho6knQUATouDqU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T21:22:30.753Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Франциско",
+      "Shnaps",
+      "Jay Filler"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a3b35840899905fddfab3d5e",
+    "releaseDate": "2017-10-24",
+    "tags": [],
+    "title": "Neon (Shnaps & Jay Filler Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1vUTvYh7mQML7JVRIBrH7V"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T21:22:30.753Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lissat & Voltaxx"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735e4d457d1579430b52789fa5",
+    "releaseDate": "2019-04-12",
+    "tags": [
+      "House"
+    ],
+    "title": "Sunglasses At Night",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1ew3iWom3UeSnpcMYaeFgr"
+  }
+]
