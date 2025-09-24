@@ -1,0 +1,24 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T19:19:15.827Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Шершень",
+      "Анастасія Венгринович"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27333c42c0f3b378ad573be78d7",
+    "releaseDate": "2020-08-02",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Хто Є Хто",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7x0MK7zKxk0fKV8pXC1sBF"
+  }
+]

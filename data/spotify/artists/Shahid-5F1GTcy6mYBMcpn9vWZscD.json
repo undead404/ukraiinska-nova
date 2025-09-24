@@ -1,0 +1,46 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T19:23:57.976Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Хонест",
+      "Shahid"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cc1db099b344aa27eeb3da0c",
+    "releaseDate": "2022-06-24",
+    "tags": [
+      "hardcore",
+      "rap",
+      "rock",
+      "death metal"
+    ],
+    "title": "Все на свої місця",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4Yi4C9eFoUNfsrHCzzGp0f"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T19:23:57.976Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "LEX Pun Intended"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a7b6283283914ed8f15f0baf",
+    "releaseDate": "2019-06-01",
+    "tags": [],
+    "title": "Relex",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0ClaLQRitjTxwvXizWSZec"
+  }
+]
