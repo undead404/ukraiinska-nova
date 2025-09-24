@@ -1,0 +1,91 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T15:20:28.174Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Вщент"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733042e12b988d8a0effdb2275",
+    "releaseDate": "2024-03-01",
+    "tags": [
+      "rap"
+    ],
+    "title": "Гармидер",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1by7i2by6vW5bMWdXg8CQC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T15:20:28.174Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Вщент",
+      "Lasta"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27389ddcc88518488eee2fcb604",
+    "releaseDate": "2025-07-08",
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "underground hip-hop"
+    ],
+    "title": "С.М.Т.",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7EsbW6bBu0gfDRNdH8XLXA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T15:20:28.174Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Вщент"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a80747d250ec093eb56984dd",
+    "releaseDate": "2025-02-28",
+    "tags": [
+      "rap"
+    ],
+    "title": "Лячно",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3VjiaSLxf1LZbsVaIhjpZA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T15:20:28.174Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Pero Culture Crew",
+      "Bob Croma",
+      "Вщент"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731a93508957861e5ff618717e",
+    "releaseDate": "2025-02-09",
+    "tags": [
+      "rap"
+    ],
+    "title": "Gold Diggers",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4lQW2oANPX5eiAivwna4CT"
+  }
+]
