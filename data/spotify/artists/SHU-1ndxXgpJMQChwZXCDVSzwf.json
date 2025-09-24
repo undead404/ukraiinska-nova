@@ -1,0 +1,43 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T11:33:46.391Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SHU"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273121d9a3568057f6b70f13bf0",
+    "releaseDate": "2025-07-04",
+    "tags": [],
+    "title": "Дай п'ять",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5kIEmhSVqm75NAX0Aa49Ri"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T11:33:46.391Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SHU",
+      "Богдан Купер"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27331970b2edce06026a6e3fae4",
+    "releaseDate": "2024-05-31",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Київ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/34LZWhN6EEn4gB0LW5n9ey"
+  }
+]

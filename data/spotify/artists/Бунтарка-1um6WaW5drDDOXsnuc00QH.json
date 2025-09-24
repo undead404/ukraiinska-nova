@@ -6,7 +6,9 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Бунтарка"],
+    "artists": [
+      "Бунтарка"
+    ],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730d295e0331a49050fe946851",
     "releaseDate": "2021-03-08",
@@ -22,7 +24,9 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Бунтарка"],
+    "artists": [
+      "Бунтарка"
+    ],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e4d3b65d01f01bdae2fd1c27",
     "releaseDate": "2021-01-13",
@@ -38,7 +42,9 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Бунтарка"],
+    "artists": [
+      "Бунтарка"
+    ],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735a8c12fb37edeb0aa7ab0c31",
     "releaseDate": "2020-09-15",

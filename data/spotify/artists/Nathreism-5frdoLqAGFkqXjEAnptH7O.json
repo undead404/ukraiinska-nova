@@ -16,5 +16,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/49eBSQ979nHGyHH82jahCN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T11:33:29.190Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Nathreism"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27300fae29bf97b0fdd3b0b556d",
+    "releaseDate": "2025-08-11",
+    "tags": [
+      "black metal"
+    ],
+    "title": "Архаїчні Сни",
+    "totalTracks": 6,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7mRHsoTHkI8me8kBWrPSK1"
   }
 ]

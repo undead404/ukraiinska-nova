@@ -914,6 +914,10 @@
       {
         "time": "2025-09-19T11:25:04.959Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-09-24T11:32:59.566Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -927,5 +931,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6BfrevHuKjWXGZhyVvdyb2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T11:32:59.566Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Наталія Могилевська",
+      "Lely45"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f4a670409b0f8893ec6a3c63",
+    "releaseDate": "2025-09-19",
+    "tags": [
+      "pop"
+    ],
+    "title": "Відправила Message (New Version)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7f8TLce95xA1BNPzJLx68n"
   }
 ]

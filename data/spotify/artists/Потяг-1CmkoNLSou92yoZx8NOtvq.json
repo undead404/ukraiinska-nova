@@ -1,0 +1,107 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T11:29:49.983Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sanya Shik",
+      "Потяг"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c553dced90298cec97d9f499",
+    "releaseDate": "2024-06-14",
+    "tags": [],
+    "title": "Тут і зараз",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1B9d6ak80F8y3F7882zSQD"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T11:29:49.983Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "AveKucher",
+      "Потяг"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732776d62f3e690300900882ff",
+    "releaseDate": "2024-05-30",
+    "tags": [],
+    "title": "Ритм",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6ddnR431I6RlaKTxUybeTR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T11:29:49.983Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Waldemar"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fe16ea1527c0c5f744c997fd",
+    "releaseDate": "2025-01-17",
+    "tags": [
+      "folk",
+      "indie rock",
+      "art rock",
+      "folk rock"
+    ],
+    "title": "Rap.ua",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5OkcJozZIubevWwtZ3H1b0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T11:29:49.983Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KONO"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738616ef41f0c57a55117c0137",
+    "releaseDate": "2021-09-24",
+    "tags": [
+      "House",
+      "Audioware Recordings"
+    ],
+    "title": "Мистецтво",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2KuEK0guF331PaddXAGbS5"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T11:29:49.983Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Bossia"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b0a28fcc23ef7d00c7bffa04",
+    "releaseDate": "2023-10-17",
+    "tags": [],
+    "title": "Відірватись від землі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7aMMzF0vTcVjxSfD81UOC6"
+  }
+]

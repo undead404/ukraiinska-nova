@@ -1,0 +1,86 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T11:29:12.505Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Степан Гіга",
+      "Лєра Мандзюк"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27384059c774b34cd2eb6564cd9",
+    "releaseDate": "2024-02-12",
+    "tags": [
+      "male vocalists"
+    ],
+    "title": "Цей сон (Уроки толерантності OST)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1pPXQotw24WYRk3dfRhPJu"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T11:29:12.505Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Artem Pivovarov",
+      "The Вуса",
+      "Iryna Bilyk"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733647ebc5305fe9eb17716902",
+    "releaseDate": "2025-08-01",
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "title": "YABADABADU",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5ZtKCBQ3yw6I5xRSpi3q8g"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T11:29:12.505Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sasha Chemerov"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27319cf6a997e36ddc859d299bb",
+    "releaseDate": "2024-11-29",
+    "tags": [],
+    "title": "Біполярник",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6W9wasKWPGoyYJVcu47gTu"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T11:29:12.505Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sasha Chemerov"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cfdb4ee8fd95bbb029275bbd",
+    "releaseDate": "2024-08-09",
+    "tags": [],
+    "title": "Франкор",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6HRXdySeKvoUlgzomMczWZ"
+  }
+]

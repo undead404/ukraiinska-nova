@@ -6,7 +6,9 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Андерсон"],
+    "artists": [
+      "Андерсон"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737de3217c51b25016e0dd7aa3",
     "releaseDate": "2011-05-10",
@@ -22,7 +24,9 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Андерсон"],
+    "artists": [
+      "Андерсон"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27322d9447a7069446ab594c058",
     "releaseDate": "2008-05-13",
@@ -38,7 +42,9 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Андерсон"],
+    "artists": [
+      "Андерсон"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733faa9b34575056756aaf6c48",
     "releaseDate": "2021",
@@ -54,7 +60,9 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Андерсон"],
+    "artists": [
+      "Андерсон"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27309b60714558e7fbbb9398d75",
     "releaseDate": "2020-04-03",
@@ -70,7 +78,9 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Андерсон"],
+    "artists": [
+      "Андерсон"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27391c2f7edb5df5985b13a7c5a",
     "releaseDate": "2018",
@@ -86,7 +96,9 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Андерсон"],
+    "artists": [
+      "Андерсон"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b21f01690c773d4d3c5bf0f4",
     "releaseDate": "2017-02-01",
@@ -102,7 +114,9 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Omega"],
+    "artists": [
+      "Omega"
+    ],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736e61291fc92e1e90044eb531",
     "releaseDate": "2020-12-01",

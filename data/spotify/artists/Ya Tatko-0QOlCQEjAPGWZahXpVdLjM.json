@@ -1,0 +1,69 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T11:34:34.119Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ya Tatko",
+      "Vopli Vidopliassova"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c6a9de992b19bcc7c7474e6f",
+    "releaseDate": "2020-07-30",
+    "tags": [
+      "rock"
+    ],
+    "title": "Vesna (Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1vjWhT7oxDWPb22PNTdKnm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T11:34:34.119Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ya Tatko",
+      "ТНМК"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732688d1f29eb474e8613f6ac4",
+    "releaseDate": "2020-06-25",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Zroby Meni Hip Hop (Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/67VRa6mf9ch3HCk4irOzOq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T11:34:34.119Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ya Tatko",
+      "alyona alyona"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273285285579e419f2dfbf1e1ae",
+    "releaseDate": "2020-05-29",
+    "tags": [
+      "rap",
+      "Hip-Hop"
+    ],
+    "title": "Rybky (Ya Tatko Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2PcQ8en11VVnJUUZ4pJ9dS"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T11:30:11.338Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Анжеліка Рудницька",
+      "Павло Зібров",
+      "Юлія Куба Сідорова"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cf1706cbfc01978bb205e1fc",
+    "releaseDate": "2024-11-27",
+    "tags": [
+      "pop",
+      "proto-punk",
+      "hardcore punk"
+    ],
+    "title": "Територія РіздвА. Дух нескорених. Ой чи є, чи нема пан-господар дома",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/36cZpcxX7HgdEWMgIUGCSl"
+  }
+]

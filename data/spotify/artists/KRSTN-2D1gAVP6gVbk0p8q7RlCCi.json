@@ -1,0 +1,311 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T11:32:42.056Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Хонест",
+      "KRSTN",
+      "Спорта"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bd0237e66a3c1e1660e15c4e",
+    "releaseDate": "2023-05-26",
+    "tags": [
+      "rap"
+    ],
+    "title": "Heart Livin",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/59A7h2q4ZwlzJLSK6sKriF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T11:32:42.056Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KRSTN"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739318298802017df19cdc713f",
+    "releaseDate": "2025-06-05",
+    "tags": [],
+    "title": "Threshold",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5PxEB1LejjxC5NzxfAGdwP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T11:32:42.056Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KRSTN"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bd563614c8736f35f1eb28c7",
+    "releaseDate": "2025-01-05",
+    "tags": [],
+    "title": "Нись",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2QwZUxdn80Lo4ggaCuvUbd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T11:32:42.056Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KRSTN"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738489a5e96d37d5d04ea61bf3",
+    "releaseDate": "2025-01-03",
+    "tags": [],
+    "title": "All of my fears",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6tNpMPYrbTBSJ7PU4nz9vS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T11:32:42.056Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KRSTN"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e6183dc9d833e54c1807ef1b",
+    "releaseDate": "2024-12-20",
+    "tags": [],
+    "title": "Symptoms",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/28M8ZimgzQS7ETPtfKSGJg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T11:32:42.056Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KRSTN"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d90d7381b2858a9911d4117f",
+    "releaseDate": "2024-11-20",
+    "tags": [],
+    "title": "Street dance",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0oVAjoC2AsLsrYj7VFOhH8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T11:32:42.056Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KRSTN"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bee24dc1c62ff0473d55864a",
+    "releaseDate": "2024-11-15",
+    "tags": [],
+    "title": "Isolation",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6eoIWhO6YZ7Y7sRxW339WW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T11:32:42.056Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KRSTN"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273918e96b41aa00f816d568a7b",
+    "releaseDate": "2024-11-08",
+    "tags": [],
+    "title": "Disconnected",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5Mmr9MYv8YczKQa8Mr4poy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T11:32:42.056Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KRSTN"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734ff0b374c3ee46812a432ae0",
+    "releaseDate": "2024-10-22",
+    "tags": [],
+    "title": "Сонце в калюжі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2z5OK1aHvBFC77wqaJoldp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T11:32:42.056Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KRSTN"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27343a0add22794359a7ccfc0ce",
+    "releaseDate": "2024-10-22",
+    "tags": [],
+    "title": "Allergy",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2md03RuAf4OOStmbaJIvM4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T11:32:42.056Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KRSTN"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731ee62adea0f5078ab0c28fd9",
+    "releaseDate": "2024-10-18",
+    "tags": [],
+    "title": "High mountain fog",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1R32cyf59KERMQv8MZn2a2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T11:32:42.056Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KRSTN"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b0180e8720a7c9c904472208",
+    "releaseDate": "2024-09-24",
+    "tags": [],
+    "title": "KLX - on the surface",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3Eyvq0YjJQtB4cfx4RXOkD"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T11:32:42.056Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KRSTN"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735ddb61a02828a428a0b4b891",
+    "releaseDate": "2022-03-04",
+    "tags": [],
+    "title": "Слів таємниці",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0RCpKZ1XxtwbKtH9pAdfNm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T11:32:42.056Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KRSTN"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273413fb82e24f008ed154032ee",
+    "releaseDate": "2022-01-21",
+    "tags": [],
+    "title": "TRAUMA",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/68SZ0tXKEZtrIxiXv5VglT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T11:32:42.056Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KRSTN",
+      "Валентин Тютюнник"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732f87b52d5324289341644672",
+    "releaseDate": "2021-09-15",
+    "tags": [],
+    "title": "Бракує сліз",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7FIgc7klbRUqMrv3x2JJTV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T11:32:42.056Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KRSTN"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273300c379724ea46da588f5c8d",
+    "releaseDate": "2021-08-17",
+    "tags": [],
+    "title": "Будемо живими",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0O7SCUEOLxAZRj8d7E9ivm"
+  }
+]
