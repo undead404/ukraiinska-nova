@@ -1,0 +1,25 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T23:20:18.190Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Adam",
+      "Ловка"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27338903deb1e2701eee24eb3ad",
+    "releaseDate": "2023-05-14",
+    "tags": [
+      "dark electro",
+      "ebm"
+    ],
+    "title": "Як малі діти",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5NhG0Fh9HQjlBtEHByfKnS"
+  }
+]

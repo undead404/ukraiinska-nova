@@ -267,5 +267,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6jY3pbgzRkPOg6BzQ7fObN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T23:20:50.001Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Настя Балог"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27345fff699f5501f9581b07bea",
+    "releaseDate": "2025-09-24",
+    "tags": [
+      "female vocalists",
+      "pop"
+    ],
+    "title": "На швидкості",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4wLrXaVXlX6utD4ZkkTA1d"
   }
 ]
