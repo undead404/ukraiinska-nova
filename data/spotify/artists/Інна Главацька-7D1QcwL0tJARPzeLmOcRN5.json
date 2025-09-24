@@ -440,5 +440,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5wnMPqv4ygQlEIhIuloomI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T08:21:30.378Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Інна Главацька"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bc82afa89db802a93eea835a",
+    "releaseDate": "2025-09-23",
+    "tags": [],
+    "title": "Коло млину, коло броду",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5vSJe3ROcEg34FUW0jNJlg"
   }
 ]

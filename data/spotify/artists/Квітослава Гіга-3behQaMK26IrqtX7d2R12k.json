@@ -1,0 +1,105 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T08:21:33.350Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Квітослава Гіга"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e81994dbc2946209a8644b72",
+    "releaseDate": "2020",
+    "tags": [],
+    "title": "Квітка легенда",
+    "totalTracks": 17,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3B4PrF7bffgKMeHhOF53mw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T08:21:33.350Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Квітослава Гіга"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27384b8917da782354525b6c879",
+    "releaseDate": "2021-11-15",
+    "tags": [],
+    "title": "Я не твоя",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5G6RrXaHzeSEaYHsF5THc3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T08:21:33.350Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Квітослава Гіга"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737d0a3c94ad7824159551404a",
+    "releaseDate": "2021-07-27",
+    "tags": [],
+    "title": "Для тата",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4dCuzr6lIcAE1TafCbp3s8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T08:21:33.350Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Степан Гіга"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732b358367cebf43324a22e4ea",
+    "releaseDate": "2001",
+    "tags": [
+      "male vocalists",
+      "nsbm"
+    ],
+    "title": "Друзі мої",
+    "totalTracks": 17,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1sJbM5P7wjDuIfZYXS4oAs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T08:21:33.350Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Степан Гіга",
+      "Квітослава",
+      "Степан Гіга Молодший"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731537ef127dd2511d0dc867da",
+    "releaseDate": "2009",
+    "tags": [
+      "male vocalists",
+      "nsbm"
+    ],
+    "title": "Друзі мої 2",
+    "totalTracks": 21,
+    "type": "album",
+    "url": "https://open.spotify.com/album/36ZWJyJBhptabSDkVKLIdg"
+  }
+]

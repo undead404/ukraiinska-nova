@@ -314,5 +314,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7DQna3s26DQKV0FfQsJDup"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T08:25:46.833Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SPOKUSY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b1fb76fe2ea0390a99767ceb",
+    "releaseDate": "2025-09-24",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "SLAY",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2pLcWqlHU1gkzhyGDfUhTA"
   }
 ]
