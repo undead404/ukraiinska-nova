@@ -1,0 +1,44 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T09:21:07.755Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "хейтспіч",
+      "киця має кігті"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ce892dce4de2bef73829c28e",
+    "releaseDate": "2022-07-22",
+    "tags": [
+      "dance-punk",
+      "punk rock"
+    ],
+    "title": "вороги",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/78El9U5DjI71kOZLTutXk0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T09:21:07.755Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "киця має кігті"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a445c4a38cf4b304d99e82b5",
+    "releaseDate": "2022-06-22",
+    "tags": [],
+    "title": "Русофобка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3DqpgQerUZTPghXkha2AKp"
+  }
+]
