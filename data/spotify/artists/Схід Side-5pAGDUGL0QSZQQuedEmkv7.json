@@ -1,0 +1,64 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T05:20:44.461Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Схід Side"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27322cc76afab287fb8646c638a",
+    "releaseDate": "2013-11-20",
+    "tags": [],
+    "title": "Skhidsidemen",
+    "totalTracks": 6,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2YmfS64o0glo0RtNiPhIK1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T05:20:44.461Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ТНМК",
+      "Схід Side"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273af69d00e5737663b199a0642",
+    "releaseDate": "2004-09-18",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Jazzy (Live)",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0C9ZWUqYN5zgfadtxrSwtH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T05:20:44.461Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ТНМК"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27381f76e6bd12d2a79386bc12f",
+    "releaseDate": "2005-12-07",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Сила",
+    "totalTracks": 21,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0Wdj7bx2UqX6f9H7AtP4wI"
+  }
+]

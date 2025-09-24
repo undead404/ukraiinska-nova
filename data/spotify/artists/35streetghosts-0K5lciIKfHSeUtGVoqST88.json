@@ -1,0 +1,77 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T05:19:53.852Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "35streetghosts"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733bc5011523168ad89697480c",
+    "releaseDate": "2025-05-24",
+    "tags": [
+      "Hip-Hop",
+      "Lo-Fi",
+      "jazz-hop",
+      "nujazz"
+    ],
+    "title": "I'm running after u",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0zFXV1MNr5dmeGM6xAxU0c"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T05:19:53.852Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "35streetghosts",
+      "Покам"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739905e319578ebd5ad4a5d4bf",
+    "releaseDate": "2024-07-19",
+    "tags": [
+      "Hip-Hop",
+      "Lo-Fi",
+      "rap",
+      "Boombap",
+      "jazz-hop",
+      "nujazz"
+    ],
+    "title": "ВАГА",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3QJEV71wmOOegTppKTZft2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-24T05:19:53.852Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "35streetghosts"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734de38f32f67cb32e0382f742",
+    "releaseDate": "2023-06-29",
+    "tags": [
+      "Hip-Hop",
+      "Lo-Fi",
+      "jazz-hop",
+      "nujazz"
+    ],
+    "title": "PLACES",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4UksIIG2DiR2eblWZqCZfT"
+  }
+]
