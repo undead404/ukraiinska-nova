@@ -858,5 +858,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2S1IWZVfQHfq4G3uqW3Qsa"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T12:24:48.130Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Parfeniuk"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fc2f03fa76cb1ed3b1131243",
+    "releaseDate": "2025-09-25",
+    "tags": [
+      "pop"
+    ],
+    "title": "Душа",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5LnwXkNDzBXOxR9HSmM0pW"
   }
 ]
