@@ -1,0 +1,109 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T08:25:23.124Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Burned Time Machine",
+      "NOSIK",
+      "sadparade!"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e1ba266cf1140e7a8b290333",
+    "releaseDate": "2025-09-05",
+    "tags": [
+      "metal",
+      "metalcore"
+    ],
+    "title": "Стіни (альтернативна версія)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2nVFtzCn4K7ozW5CytkB69"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T08:25:23.124Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "sadparade!",
+      "Demian"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273823ce88b3fdbe57e9b87dd16",
+    "releaseDate": "2024-10-25",
+    "tags": [
+      "Psychedelic Rock",
+      "classic rock"
+    ],
+    "title": "Fake Love",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3LjjcpE2CWwulFl6vwHx6w"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T08:25:23.124Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "sadparade!"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c132df468802700c354e7f93",
+    "releaseDate": "2024-09-13",
+    "tags": [],
+    "title": "Стіни",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7KiXF2TEuVFT85Q22MycEd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T08:25:23.124Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "sadparade!"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738ee4e79adcc41389dceb2f96",
+    "releaseDate": "2024-02-23",
+    "tags": [],
+    "title": "S.O.S.",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6E3qvnVfaaUHDVpSb6k0Xq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T08:25:23.124Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YARAY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731c83b617735ad0a71fb28e42",
+    "releaseDate": "2024-10-18",
+    "tags": [
+      "metal",
+      "metalcore"
+    ],
+    "title": "І я тону",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3e63fnfqtCVaP0T1k4dZRq"
+  }
+]

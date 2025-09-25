@@ -659,5 +659,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7HRovAwnDnCoMb7S9k6fwP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T09:25:36.030Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yagoda"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27313ffecbc64bf0abea4bc6f6b",
+    "releaseDate": "2025-09-25",
+    "tags": [
+      "ukranian"
+    ],
+    "title": "Закохалась дико",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4Alf1H1Rkewt4qiliGi6Ul"
   }
 ]
