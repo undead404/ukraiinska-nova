@@ -313,5 +313,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mQUJw_j2PD3sYFTrVHiocG-uRVr0_lRo0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T22:45:12.684Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Berliner Doner"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/zg9W7zvyvhle6oCAVHj_iqJgJYWBTx0LNkJG0Wxty-_t8ijRmjXxmPfkWMMoxIfyulm2qZyyOvhHIaqGrg=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "noise pop"
+    ],
+    "title": "кфс/адідас",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lw0DFgzMtumMgoamIZAJ1LaEdWBsQr-QQ"
   }
 ]
