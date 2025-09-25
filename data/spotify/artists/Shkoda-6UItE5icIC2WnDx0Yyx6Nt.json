@@ -435,5 +435,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7zw4vSzulxsdNqoSykDzUC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T15:24:46.469Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Shkoda"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27368b2ed888867bf662dacdf04",
+    "releaseDate": "2025-07-19",
+    "tags": [],
+    "title": "Полон свобода надія",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/089NCh0F6wCIwlbfPv9n13"
   }
 ]
