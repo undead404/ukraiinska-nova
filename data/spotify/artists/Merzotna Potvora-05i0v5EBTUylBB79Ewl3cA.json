@@ -103,5 +103,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4fULk0qtNoL7PHAoGh70hN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T04:24:28.505Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Merzotna Potvora"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e0b6662b9958e699647b5cf7",
+    "releaseDate": "2025-09-25",
+    "tags": [
+      "black metal"
+    ],
+    "title": "Merzotna Potvora / Obrij (Split)",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5uOQcpKVNVSworTxVmNu77"
   }
 ]
