@@ -1,0 +1,78 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T02:42:50.699Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "adm:t",
+      "тері фао"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735de9c58202a465f5b463fa77",
+    "releaseDate": "2025-03-13",
+    "tags": [
+      "electropop",
+      "folk",
+      "pop",
+      "new wave",
+      "synth-pop",
+      "indie rock",
+      "pop rock"
+    ],
+    "title": "течія",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3B8ADJo2JenYdfYujLhMJ7"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T02:42:50.699Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "тері фао"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c600834eea059353112a2eaa",
+    "releaseDate": "2020-11-20",
+    "tags": [
+      "electropop",
+      "pop",
+      "new wave",
+      "synth-pop"
+    ],
+    "title": "Запах моря",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1qCPggTiRuFisSXkoZ5GWC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T02:42:50.699Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "тері фао"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b94c0060443af49f96544c85",
+    "releaseDate": "2020-02-29",
+    "tags": [
+      "electropop",
+      "pop",
+      "new wave",
+      "synth-pop"
+    ],
+    "title": "Титри",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7haQcMs1QPmhbzFlcIBLhz"
+  }
+]
