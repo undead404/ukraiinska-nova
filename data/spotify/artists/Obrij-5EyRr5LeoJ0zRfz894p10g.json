@@ -416,5 +416,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4bVJJTzYum6ZFEqYR1ZAPu"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T13:27:11.657Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Obrij"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d597c868423e5f9cc50bce45",
+    "releaseDate": "2025-09-25",
+    "tags": [
+      "death metal",
+      "metal"
+    ],
+    "title": "Split with Merzotna Potvora",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6QjLfg54jS3OjGhoRMfpKb"
   }
 ]
