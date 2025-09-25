@@ -150,5 +150,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0gG8y0glNmsZJpkfaF35Qx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T14:21:39.380Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ЯВА"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e127e917d3f2a9b7d28b7292",
+    "releaseDate": "2025-09-25",
+    "tags": [],
+    "title": "степові квіти",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/05uj91rBrIdCuAlY6bqALd"
   }
 ]
