@@ -1,0 +1,74 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T11:09:45.676Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Francuz"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27379dc16f164785cfea088bcdf",
+    "releaseDate": "2025-04-18",
+    "tags": [
+      "funk",
+      "rap",
+      "undeground"
+    ],
+    "title": "ТНЕ РАШ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/42DHjJNm3uxZ3X0BKEiVvc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T11:09:45.676Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Francuz"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27364f61a60d741ae58635c7f51",
+    "releaseDate": "2024-10-03",
+    "tags": [
+      "funk",
+      "rap",
+      "undeground"
+    ],
+    "title": "Вогонь",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2axuWdJjJBowuxCp3xH3cb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T11:09:45.676Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Francuz",
+      "Balsam"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e9a63365ead44d4cbd04fa2a",
+    "releaseDate": "2024-07-19",
+    "tags": [
+      "ambient",
+      "chillout",
+      "funk",
+      "rap",
+      "undeground"
+    ],
+    "title": "Катарсис",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6RMUC3uosjYdAnGiSJtoHg"
+  }
+]
