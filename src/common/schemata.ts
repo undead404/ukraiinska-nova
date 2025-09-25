@@ -31,7 +31,7 @@ export const releaseSchema = object({
   imageUrl: optional(pipe(string(), url())),
   releaseDate: dateSchema,
   title: pipe(string(), nonEmpty()),
-  totalTracks: nullable(pipe(number(), minValue(1))),
+  totalTracks: nullable(pipe(number(), minValue(0))),
   type: picklist(['album', 'compilation', 'single']),
   url: pipe(string(), url()),
 });
