@@ -602,5 +602,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2bnX0sjZYINrdytuodSsmg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T19:21:05.328Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Сусіди Стерплять"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e8b6a97ea54959273ce5ce8d",
+    "releaseDate": "2025-09-25",
+    "tags": [
+      "indie rock",
+      "Lo-Fi"
+    ],
+    "title": "Сольова альтушка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0LRhiQSCJ6XRd9tI00bqEK"
   }
 ]
