@@ -1,0 +1,48 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T09:22:13.986Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alexander Chorny",
+      "Yelyzaveta Komnatska",
+      "VERA KEKELIA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273edc6296b5b3dc59b792a8f71",
+    "releaseDate": "2024-08-31",
+    "tags": [
+      "pop",
+      "Eurovision"
+    ],
+    "title": "Конотопська відьма (Original Motion Picture Soundtrack)",
+    "totalTracks": 25,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4jhsUJ5uI1zbv1NxHiVR8g"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T09:22:13.986Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alexander Chorny",
+      "Alla Zagaykevych"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273782611e5e0d3b3d64ab81b93",
+    "releaseDate": "2023-09-19",
+    "tags": [
+      "contemporary classical"
+    ],
+    "title": "Довбуш (Original Motion Picture Soundrack)",
+    "totalTracks": 27,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3KwGBvwfQMp0nOTNR3Fl2S"
+  }
+]
