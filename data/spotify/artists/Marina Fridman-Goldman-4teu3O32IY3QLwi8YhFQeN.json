@@ -1,0 +1,104 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T01:53:20.690Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Marina Fridman-Goldman"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ec6c60e1da1ed70eb7f2d0a8",
+    "releaseDate": "2024-05-10",
+    "tags": [],
+    "title": "Plynie",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5BbFNaF3d1mNhZm6tIPUjS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T01:53:20.690Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Marina Fridman-Goldman",
+      "Alla Zagaykevych"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b6da919ae57d70f7d5817327",
+    "releaseDate": "2024-05-10",
+    "tags": [
+      "contemporary classical"
+    ],
+    "title": "Lord of Silence",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5FUTufmJzNnTdGI2pH3Wbx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T01:53:20.690Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Marina Fridman-Goldman"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27309ba19f876ed4dd713ae6073",
+    "releaseDate": "2024-05-10",
+    "tags": [],
+    "title": "Dedication",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7B5yOr87vG2CFbnvv1NTRw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T01:53:20.690Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Marina Fridman-Goldman",
+      "Alla Zagaykevych"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734bde8607792fa0060cd3aa6d",
+    "releaseDate": "2024-05-10",
+    "tags": [
+      "contemporary classical"
+    ],
+    "title": "2TODAY",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6DoXd2aVOgaVRUrF6NYqWM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T01:53:20.690Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Marina Fridman-Goldman",
+      "Hagai Yodan"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27355aa0c24d31fa01ef637fcd6",
+    "releaseDate": "2023-03-23",
+    "tags": [],
+    "title": "Eye",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0grXLXV7FBQnYPltmGUAdW"
+  }
+]

@@ -182,5 +182,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7CknR57XyGNVDSuVtEaMww"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T01:53:42.804Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Parking Spot"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27360192ad5af542e0d2e734c0e",
+    "releaseDate": "2025-09-05",
+    "tags": [
+      "ambient",
+      "electronic",
+      "idm",
+      "techno"
+    ],
+    "title": "Moai!",
+    "totalTracks": 0,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5HGhY7YLJz0eAoRnFSsu17"
   }
 ]

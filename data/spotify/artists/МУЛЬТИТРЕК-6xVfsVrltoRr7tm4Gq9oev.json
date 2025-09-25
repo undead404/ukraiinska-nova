@@ -1,0 +1,483 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T01:50:35.731Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гошуля",
+      "МУЛЬТИТРЕК"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d8951abd0cc37bfec294c59d",
+    "releaseDate": "2025-09-11",
+    "tags": [],
+    "title": "Обезбол",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2aGEdhQEpOaGaTSndTDH4D"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T01:50:35.731Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АЗІЗА",
+      "МУЛЬТИТРЕК"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273436a6f73ef7af6cd187d73ae",
+    "releaseDate": "2025-09-11",
+    "tags": [
+      "pop"
+    ],
+    "title": "Ну хоч слово",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7tjcKzp8sfx1Kq7xkgzc6A"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T01:50:35.731Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Єгор Андрюшин",
+      "МУЛЬТИТРЕК"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27326bd7a820c333b097e91d370",
+    "releaseDate": "2024-07-04",
+    "tags": [
+      "dance",
+      "pop"
+    ],
+    "title": "Ти не знайдеш кохання",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1oCm1Rj1Xc5BBAqACGgSp5"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T01:50:35.731Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lera Fatforest",
+      "МУЛЬТИТРЕК"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273883a4f6de48e34389c4c00fb",
+    "releaseDate": "2024-07-04",
+    "tags": [],
+    "title": "Перса",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3fyKNZwcs6yDWOdZmdBwkE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T01:50:35.731Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Кажанна",
+      "МУЛЬТИТРЕК"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27343727570c8217f277ca11ca4",
+    "releaseDate": "2024-07-04",
+    "tags": [
+      "art pop"
+    ],
+    "title": "Магія",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7EmpWAchBpFUt8U3yHWELv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T01:50:35.731Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko",
+      "МУЛЬТИТРЕК"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27333c3a1f82e96397c0e17b188",
+    "releaseDate": "2024-06-13",
+    "tags": [
+      "pop"
+    ],
+    "title": "Розчиняюсь",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5cwGedq93vArxoIPgYHtLm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T01:50:35.731Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Настя Гонцул",
+      "МУЛЬТИТРЕК"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27300426bdbf9316b7c1323c819",
+    "releaseDate": "2024-06-13",
+    "tags": [
+      "indie pop",
+      "piano"
+    ],
+    "title": "Потяг",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6O8KnrazyK5SynLvfKQmXC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T01:50:35.731Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KOZAK SIROMAHA",
+      "МУЛЬТИТРЕК"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27334f81cf50a1c09ec5fda5eec",
+    "releaseDate": "2024-06-13",
+    "tags": [
+      "folk"
+    ],
+    "title": "Ватра",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5h37uFgGMFKCJwf66JKDzc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T01:50:35.731Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "МУЛЬТИТРЕК"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c6496502bdf73194c7b320d9",
+    "releaseDate": "2024-05-24",
+    "tags": [],
+    "title": "Інтро",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4V26ojoVuvxGzQXckakQP6"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T01:50:35.731Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Adam",
+      "МУЛЬТИТРЕК"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732920a77ee3d011750b0a4001",
+    "releaseDate": "2024-05-16",
+    "tags": [
+      "dark electro",
+      "ebm"
+    ],
+    "title": "Цілуй",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4j3Zg22aQBr2R61zVe2LRC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T01:50:35.731Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SKYLERR",
+      "МУЛЬТИТРЕК"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737edcd4174bb739fb1386c78e",
+    "releaseDate": "2024-05-16",
+    "tags": [
+      "booba",
+      "Vidbir 2024 long-list"
+    ],
+    "title": "Потяги-дороги",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3wUZlhtiouI5iVqM8aqrMj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T01:50:35.731Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ann in Black",
+      "МУЛЬТИТРЕК"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732e4ce3db20b42111cef43128",
+    "releaseDate": "2024-05-16",
+    "tags": [],
+    "title": "Жінка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6yH1JQ93k3LAo6CCk16VBo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T01:50:35.731Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ALEKSEEV",
+      "МУЛЬТИТРЕК"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fb30d6ca4aabd9411eab8058",
+    "releaseDate": "2024-03-08",
+    "tags": [
+      "pop"
+    ],
+    "title": "Срібло",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6X6DV31xpPhConC1IaF7Fu"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T01:50:35.731Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lely45",
+      "МУЛЬТИТРЕК"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273acb3c7dbfba8cd54a0b387a9",
+    "releaseDate": "2024-03-08",
+    "tags": [
+      "pop"
+    ],
+    "title": "Морфін",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5DtsStnlK3DylzDxDn9xf6"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T01:50:35.731Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KAZKA",
+      "МУЛЬТИТРЕК"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27315d912fdd137eb4ed17d4775",
+    "releaseDate": "2024-01-12",
+    "tags": [
+      "pop",
+      "indie pop"
+    ],
+    "title": "Тону",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4rlPesNYp4JQhDnGFqgh0g"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T01:50:35.731Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ZLATA OGNEVICH",
+      "МУЛЬТИТРЕК"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27360c08f887fa68e25abee7f5a",
+    "releaseDate": "2024-01-12",
+    "tags": [
+      "Eurovision"
+    ],
+    "title": "Співаю (Ла-ла-ла)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6eORybWYMpXGQbGrNByJ4P"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T01:50:35.731Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Анна Трінчер",
+      "МУЛЬТИТРЕК"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27367b6ba0899f4dd7378815c7e",
+    "releaseDate": "2023-12-29",
+    "tags": [
+      "pop"
+    ],
+    "title": "Боляче",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/58LPD9uQhHJLEMtsfotV8G"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T01:50:35.731Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "POSITIFF",
+      "МУЛЬТИТРЕК"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ce925c7bbb12b54de06fa1f6",
+    "releaseDate": "2023-12-29",
+    "tags": [
+      "pop",
+      "pop rock"
+    ],
+    "title": "Taxi",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1ePP8hALJY9cQsGGnYY1Rz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T01:50:35.731Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "МУЛЬТИТРЕК",
+      "Parfeniuk"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735be10589e352ec1b31d4b1c2",
+    "releaseDate": "2023-12-22",
+    "tags": [
+      "pop"
+    ],
+    "title": "Накоїли",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/24HlefjKeKXhqEDXXlHMdu"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T01:50:35.731Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MAYOROVA",
+      "МУЛЬТИТРЕК"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a480a8ad8cf9e89cab683312",
+    "releaseDate": "2023-12-22",
+    "tags": [
+      "pop"
+    ],
+    "title": "Don't fuck my brain",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/43KIj6ddW1hOQ4GuDgGqWz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T01:50:35.731Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CHEEV",
+      "МУЛЬТИТРЕК"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ef59d70b9f409dad52b871d5",
+    "releaseDate": "2023-12-15",
+    "tags": [
+      "belarus"
+    ],
+    "title": "Перший день",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2xcwDkaoBE6nurXgrLyJap"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T01:50:35.731Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KOLA",
+      "МУЛЬТИТРЕК"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732bc4b81330c1fa8ba83b2cc4",
+    "releaseDate": "2023-12-15",
+    "tags": [
+      "pop"
+    ],
+    "title": "А шо я?",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4qqkZuIv7wfLvQCWcxnH13"
+  }
+]
