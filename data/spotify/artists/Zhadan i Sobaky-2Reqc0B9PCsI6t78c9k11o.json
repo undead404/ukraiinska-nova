@@ -196,6 +196,10 @@
       {
         "time": "2025-09-20T16:26:57.699Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-09-25T16:26:06.204Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -652,5 +656,49 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7HSgpYJ9clScUq7Xc4jx5A"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T16:26:06.204Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Zhadan i Sobaky"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273359af8aa68cd163dcc97544a",
+    "releaseDate": "2025-09-25",
+    "tags": [
+      "rock"
+    ],
+    "title": "Роботопес",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0y3QGxB6zxsy7t4hPCmelf"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T16:26:06.204Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Мертвий півень",
+      "Zhadan i Sobaky"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ce61284818ab0fcab9d456a5",
+    "releaseDate": "2023-12-20",
+    "tags": [
+      "rock",
+      "folk-rock"
+    ],
+    "title": "Переваги окупаційного режиму",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7lMzVkIe16wdVmQ5KZYDDT"
   }
 ]

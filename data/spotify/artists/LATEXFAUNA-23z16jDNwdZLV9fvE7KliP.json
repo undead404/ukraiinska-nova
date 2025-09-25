@@ -942,5 +942,26 @@
     "totalTracks": 11,
     "type": "album",
     "url": "https://open.spotify.com/album/2VwdPblVkdRu2PEUABPT1x"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T16:23:28.783Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "LATEXFAUNA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d3737f852ef1f1c46c1ed546",
+    "releaseDate": "2025-09-25",
+    "tags": [
+      "funk"
+    ],
+    "title": "City",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/34HGkiow2z1TpgAm5CmDU6"
   }
 ]

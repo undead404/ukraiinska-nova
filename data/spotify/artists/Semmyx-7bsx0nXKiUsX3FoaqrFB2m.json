@@ -1,0 +1,86 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T16:24:32.353Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Semmyx"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a3a2652b9ea447d40ab29fb8",
+    "releaseDate": "2023-09-01",
+    "tags": [],
+    "title": "1 Veresnia",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7u6zDQ1QrFDQ5fetxGpvES"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T16:24:32.353Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Clonnex",
+      "Semmyx"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27396638f1bac6f30fd5b506020",
+    "releaseDate": "2023-07-28",
+    "tags": [
+      "rap"
+    ],
+    "title": "Roblox",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7yBYzshkg3DN0TatLvZjVp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T16:24:32.353Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Clonnex",
+      "Semmyx"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738e96dbd23ba16fe6e162e943",
+    "releaseDate": "2022-12-19",
+    "tags": [
+      "rap"
+    ],
+    "title": "Pitbull",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6GuUPreF3jqO2zYpxSybGK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T16:24:32.353Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Clonnex"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27330a7f176661f0f1d6d693a1d",
+    "releaseDate": "2023-06-30",
+    "tags": [
+      "rap"
+    ],
+    "title": "MEDIV Ultimate Victim",
+    "totalTracks": 41,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7LNeDJea66ehJsmzVC4i3e"
+  }
+]
