@@ -210,5 +210,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1YEtJInzMNiridd7UVk4Hi"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T18:26:37.519Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "LADA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27350459108ecec56c72f5095b8",
+    "releaseDate": "2025-09-25",
+    "tags": [
+      "techno"
+    ],
+    "title": "WITH YOU",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/30yEoKUQoYAMTfimTQ4zw3"
   }
 ]

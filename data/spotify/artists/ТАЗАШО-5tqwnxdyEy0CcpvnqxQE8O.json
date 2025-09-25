@@ -1,0 +1,70 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T18:23:03.500Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ТАЗАШО",
+      "Skameyka Moloko"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736812b89ee0e3ce6bc3c4b132",
+    "releaseDate": "2025-08-08",
+    "tags": [
+      "hyperpop",
+      "indie rock",
+      "cloud rap"
+    ],
+    "title": "Бідна я",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4kGTjuwV0ZJJqZqSdCJNH4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T18:23:03.500Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ТАЗАШО",
+      "CRUSHGLAD"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730b1f7c8de15da133bde3f1d6",
+    "releaseDate": "2024-05-03",
+    "tags": [
+      "hyperpop",
+      "indie rock"
+    ],
+    "title": "4 Дворфа",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2QeWrGKo9AYbUjDUyRiOg5"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T18:23:03.500Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ТАЗАШО"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731bc97ed8f8f50b27f0a4fcf6",
+    "releaseDate": "2020-10-07",
+    "tags": [
+      "hyperpop"
+    ],
+    "title": "Клубный дьявол",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/14Y4IEEmIzVPlQjvgve5rc"
+  }
+]
