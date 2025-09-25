@@ -1,0 +1,100 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T06:23:21.832Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ТОРІЯ"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27361a4b61f367e96dee0c9d399",
+    "releaseDate": "2025-09-04",
+    "tags": [],
+    "title": "Твої слова",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6x6UIEpYcgUSlMzNjouL9g"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T06:23:21.832Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ТОРІЯ"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273573f4f803611367d6d619efc",
+    "releaseDate": "2025-07-04",
+    "tags": [],
+    "title": "Лікуй",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/07xmf9cdZvE48gUzNXM3Sa"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T06:23:21.832Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Шугар",
+      "ТОРІЯ"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ad5a77ba266cfcf03c1ee678",
+    "releaseDate": "2023-10-19",
+    "tags": [],
+    "title": "Ромашки",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1j7V3OgNm367YdRzQ9ZyK8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T06:23:21.832Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Шугар",
+      "ТОРІЯ"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bd538d7598b79760c944c541",
+    "releaseDate": "2023-04-27",
+    "tags": [],
+    "title": "Дим",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2bBrG3YXZ5HeJ9DZn2hsHe"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T06:23:21.832Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Two Are",
+      "ТОРІЯ"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27379e18fc67bd92a7a8db55e39",
+    "releaseDate": "2022-12-23",
+    "tags": [],
+    "title": "Tuman Yarom | Oi Tam",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6lUcLrJdattaUFYvWrQcTM"
+  }
+]

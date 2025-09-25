@@ -1,0 +1,81 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T06:24:28.321Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Elis Jake",
+      "Kira Jake"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27367dd377e99a88a1c5340a827",
+    "releaseDate": "2025-09-17",
+    "tags": [],
+    "title": "Transuje",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5iRHjZ0SHL7MqK50IYfm34"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T06:24:28.321Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Elis Jake",
+      "Kira Jake"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733c3d4cbb69983163bab09d9b",
+    "releaseDate": "2025-04-11",
+    "tags": [],
+    "title": "Punisher",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0q1INUt33gmtig80laH5SN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T06:24:28.321Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Elis Jake",
+      "Kira Jake"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b752773fc31bc0d64c3aafd1",
+    "releaseDate": "2024-09-13",
+    "tags": [],
+    "title": "По ночах",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3trzBGgt8EITNx75yba0RR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T06:24:28.321Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Elis Jake"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273710197be90db0833ec064cae",
+    "releaseDate": "2017-12-11",
+    "tags": [],
+    "title": "Trying",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2RNwsEqRs0jJq1NWh82XVW"
+  }
+]

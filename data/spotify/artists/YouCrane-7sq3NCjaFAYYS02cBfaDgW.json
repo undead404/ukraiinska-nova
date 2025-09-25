@@ -1,0 +1,23 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T06:26:49.393Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YouCrane"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27327dec243fe8d329b1e08a87e",
+    "releaseDate": "2012-01-01",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "Коли ми будем знайомі",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2Mfqnwv85I1vtZz714nWaG"
+  }
+]

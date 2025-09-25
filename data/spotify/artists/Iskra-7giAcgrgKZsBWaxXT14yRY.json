@@ -1,0 +1,71 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T06:25:28.612Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Iskra"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27308c73c578c73ef3790a41e7d",
+    "releaseDate": "1981-02-01",
+    "tags": [
+      "Crust",
+      "blackened crust",
+      "black metal"
+    ],
+    "title": "Zustrich Svitanku",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6gRuCTsQJ0Mqu1pxwlTH6T"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T06:25:28.612Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Iskra"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d66814280fbb2a3e7068ad62",
+    "releaseDate": "1979-02-01",
+    "tags": [
+      "Crust",
+      "blackened crust",
+      "black metal"
+    ],
+    "title": "Iskra",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2tTp1YVq9TouIFGrTGjMy8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T06:25:28.612Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Iskra"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ceb7ea62754d0cfe0d9ccb55",
+    "releaseDate": "1983-02-01",
+    "tags": [
+      "Crust",
+      "blackened crust",
+      "black metal"
+    ],
+    "title": "A Journey Through Ukraine",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6rKt8EeGDaSgntFy5LaVNA"
+  }
+]

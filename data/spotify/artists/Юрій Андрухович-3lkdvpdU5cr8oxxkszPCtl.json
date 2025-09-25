@@ -1,0 +1,46 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T06:23:37.893Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Мертвий півень",
+      "Юрій Андрухович"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738d8426338580a2bc44a7b0b8",
+    "releaseDate": "2008-01-01",
+    "tags": [
+      "jazz",
+      "poetry",
+      "rock",
+      "folk-rock"
+    ],
+    "title": "Кримінальні сонети",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7EzEGC3YUBaZRmGN8ls2JK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T06:23:37.893Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Соломія Чубай"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ccff79188ad1048ce8fac8b3",
+    "releaseDate": "2019-09-20",
+    "tags": [],
+    "title": "Poety",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5wccWwAes2jwZsYAddH0lo"
+  }
+]

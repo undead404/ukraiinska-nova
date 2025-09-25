@@ -1,0 +1,86 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T06:21:56.773Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гуцул Каліпсо"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27392775b732079753d36002831",
+    "releaseDate": "2018-12-14",
+    "tags": [
+      "ska"
+    ],
+    "title": "Рекєт гангстєра",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5vF2ErDTZIuxITL2rsWKwv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T06:21:56.773Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гуцул Каліпсо"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736bb7ff1e4b88a6a29e68f2bb",
+    "releaseDate": "2018-11-21",
+    "tags": [
+      "ska"
+    ],
+    "title": "Най Бог бороне",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2nwPaCy4dYqFduepXTtNOn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T06:21:56.773Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гуцул Каліпсо"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cd2d854b43037c9c41f768d4",
+    "releaseDate": "2020-10-27",
+    "tags": [
+      "ska"
+    ],
+    "title": "Сантехнік зі Сторожинця",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2vdWyUOahbjfQd92YhCfmB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T06:21:56.773Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гуцул Каліпсо"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273413c97de83ffd065f52e1d6d",
+    "releaseDate": "2020-10-27",
+    "tags": [
+      "ska"
+    ],
+    "title": "Афени",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3C0BaoaDkKKocgW4XCVR8Z"
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T06:24:52.168Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "GERALD 032"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273926b346a4695238b66b92b79",
+    "releaseDate": "2025-09-05",
+    "tags": [],
+    "title": "Master Bedroom",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0Mt61KyMyxjPhlbwLING5n"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T06:24:52.168Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "GERALD 032"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273164d56201fc126482b483830",
+    "releaseDate": "2025-02-21",
+    "tags": [],
+    "title": "Покажи мені",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4GcpcZema8Vslp0fSCXHry"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T06:24:52.168Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "GERALD 032"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b446941faf0fbf12769ef7c5",
+    "releaseDate": "2024-08-29",
+    "tags": [],
+    "title": "Забудь",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6GfgKqQCHBhmcl6Gq246aG"
+  }
+]
