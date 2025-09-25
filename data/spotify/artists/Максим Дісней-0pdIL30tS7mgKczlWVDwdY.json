@@ -1,0 +1,63 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T22:20:17.079Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Максим Дісней"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273788aca1aba3e9de06cec6310",
+    "releaseDate": "2024-08-25",
+    "tags": [],
+    "title": "The Burning Heart",
+    "totalTracks": 16,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7p4YuQ3ttypXfBG6V0yRPi"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T22:20:17.079Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "IVANKA",
+      "Максим Дісней"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a8791486f321fabccdb0462b",
+    "releaseDate": "2025-06-21",
+    "tags": [
+      "pop",
+      "female vocalists"
+    ],
+    "title": "ПІНК ФЛОЙД",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3Ndb4HOgIkrjZfbUiwtyLn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T22:20:17.079Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Максим Дісней"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739838a23dbb6aa579bff1395c",
+    "releaseDate": "2022-04-27",
+    "tags": [],
+    "title": "До бою",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0Y6IrqDqqtIMQIGGSPx2IR"
+  }
+]
