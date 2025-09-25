@@ -1,0 +1,46 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T08:22:37.744Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Chekson",
+      "BLONS",
+      "OKS"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f74da1079ce9f4cba36ba818",
+    "releaseDate": "2022-06-24",
+    "tags": [
+      "female vocalists",
+      "rap"
+    ],
+    "title": "Бунтарі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7gvnZrmXb6LzAvu0x1eJ9L"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T08:22:37.744Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BLONS",
+      "PLAN BEAR"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27309400f7f22074643bc457284",
+    "releaseDate": "2021-10-08",
+    "tags": [],
+    "title": "Не двигай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4VlGRVxAw0ToVMY6lBh11W"
+  }
+]

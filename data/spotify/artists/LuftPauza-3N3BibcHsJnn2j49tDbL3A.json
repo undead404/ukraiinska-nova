@@ -187,5 +187,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7jXz9JmQwEQv4l7fDv0bnO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T08:24:40.122Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "LuftPauza"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27304a7545d79690c002b57d0fc",
+    "releaseDate": "2025-09-24",
+    "tags": [
+      "rock"
+    ],
+    "title": "Хвилина для щастя",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5TBg80AX58sMM78Qw1ZyB5"
   }
 ]
