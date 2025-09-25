@@ -1,0 +1,87 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T05:20:05.947Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ліл чіпсік"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27391de9df2921a570b969951a2",
+    "releaseDate": "2022-12-16",
+    "tags": [],
+    "title": "пофіг",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7BHpeEyhVblheJTkB8UiKv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T05:20:05.947Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ліл чіпсік",
+      "YungKerya"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b168e036fdfcdeff8e1cffa1",
+    "releaseDate": "2022-11-04",
+    "tags": [
+      "hip hop",
+      "rap"
+    ],
+    "title": "Називай тато",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1CMJYqN7j7WhqHmFrWhToa"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T05:20:05.947Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ліл чіпсік",
+      "blessbaby",
+      "YungKerya"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734a4630e1d95bca31655b6919",
+    "releaseDate": "2022-08-31",
+    "tags": [
+      "hip hop",
+      "rap"
+    ],
+    "title": "ліл чіпсік",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/21FsLCfCzTir1rjSluwqma"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T05:20:05.947Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ЛЁ ХАН"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c7042def899807a017cb5176",
+    "releaseDate": "2022-12-28",
+    "tags": [],
+    "title": "На тренлі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7ITRtIZjcrlCLBM3WNELzg"
+  }
+]

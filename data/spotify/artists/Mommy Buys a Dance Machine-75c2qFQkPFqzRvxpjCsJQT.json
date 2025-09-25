@@ -1,0 +1,44 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T05:24:26.909Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Mommy Buys a Dance Machine"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ea00057796c9108ed03a2b44",
+    "releaseDate": "2024-07-18",
+    "tags": [
+      "electronic"
+    ],
+    "title": "FRAGMENTS",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2VwdPblVkdRu2PEUABPT1x"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T05:24:26.909Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Mommy Buys a Dance Machine"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cfa74e1c8adfc1004de718b5",
+    "releaseDate": "2016-08-22",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Poglyad",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/00AA6196b1zPGSAlidNXg1"
+  }
+]
