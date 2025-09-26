@@ -513,5 +513,26 @@
     "totalTracks": 15,
     "type": "album",
     "url": "https://open.spotify.com/album/481lHtjfizUW8fY2tLxVzr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T08:26:58.672Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "rockceleba"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b9b8b6553057f6eeda5a9b6a",
+    "releaseDate": "2025-09-26",
+    "tags": [
+      "pop rock"
+    ],
+    "title": "1996",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0cYtB3sfJ7PGCT4Q9yk7Dc"
   }
 ]
