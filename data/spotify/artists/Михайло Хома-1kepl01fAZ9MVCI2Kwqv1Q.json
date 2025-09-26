@@ -1,0 +1,151 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T00:37:27.033Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олександр Пономарьов",
+      "Михайло Хома",
+      "Тарас Тополя"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e1e76e4e7ddc967420989b93",
+    "releaseDate": "2024-05-03",
+    "tags": [
+      "pop"
+    ],
+    "title": "Темна нічка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1etcJUwe75Sk8twBw5gL5U"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T00:37:27.033Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Анна-Марія Герман",
+      "Михайло Хома"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d2efbae9c3854057cd14b9f9",
+    "releaseDate": "2023-11-17",
+    "tags": [],
+    "title": "Ліхтарики",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7Bm2QPtp4qcmnRjq1ogrj0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T00:37:27.033Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олександр Пономарьов",
+      "Михайло Хома",
+      "Тарас Тополя"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27374129b56c84423316896b208",
+    "releaseDate": "2022-08-24",
+    "tags": [
+      "pop"
+    ],
+    "title": "На землі, в повітрі і на морі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7IOhucm35B68Cmy4H7jkic"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T00:37:27.033Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олександр Пономарьов",
+      "Михайло Хома",
+      "Тарас Тополя"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a9040e029b48d6ec8d1c4a18",
+    "releaseDate": "2022-04-25",
+    "tags": [
+      "pop"
+    ],
+    "title": "Україна переможе!",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0fmvANmgFNJ8gMlubnX4Gb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T00:37:27.033Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Михайло Хома"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27349d665a6bf6418f3b28dee25",
+    "releaseDate": "2022-04-04",
+    "tags": [],
+    "title": "Марічка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6rGbCEXdJb9mfnQceMVn0P"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T00:37:27.033Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олександр Пономарьов",
+      "Михайло Хома"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738e20a884638d52a264d2b0ff",
+    "releaseDate": "2021-12-03",
+    "tags": [
+      "pop"
+    ],
+    "title": "Пазли",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1zGqTmJXYXGIPhMkedByBU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T00:37:27.033Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Михайло Хома"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27351dafc63685637bd0a66d39a",
+    "releaseDate": "2021-08-24",
+    "tags": [],
+    "title": "Стоїть гора високая",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6c6lLmKdEN2QguoDlpsJs7"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T00:40:56.803Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Gvozdini",
+      "Solex (UA)",
+      "Forse"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27363429c467679ceb90e1e1141",
+    "releaseDate": "2023-10-06",
+    "tags": [
+      "Progressive House"
+    ],
+    "title": "Океан (Solex UA & Forse Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3vI4CrzkZXDde6C25nDdys"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T00:40:56.803Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "LATEXFAUNA",
+      "Solex (UA)",
+      "Gooch Brown"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f09b665c9a62c6a166e9fb8b",
+    "releaseDate": "2023-03-10",
+    "tags": [
+      "funk"
+    ],
+    "title": "Bounty (Solex UA & Gooch Brown Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/21eiuIMytcbWV8cI5uHGFu"
+  }
+]
