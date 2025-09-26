@@ -910,5 +910,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0xPawtJ2lZVOynAvvY92z3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T15:23:05.247Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "iNEBO"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273101d84d5ae32107b8535267b",
+    "releaseDate": "2025-09-26",
+    "tags": [],
+    "title": "Від Сяну до Дону",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/601uV3KHk0QaEsLaL2YYBD"
   }
 ]

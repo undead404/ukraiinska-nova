@@ -989,5 +989,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0eZjFwMb7cCEjEbb5EUj3Q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T15:21:46.035Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "хейтспіч"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730467754c7941f3d539350bd2",
+    "releaseDate": "2025-09-26",
+    "tags": [
+      "dance-punk",
+      "punk rock"
+    ],
+    "title": "ЮНІТІ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2c5Rgo9D3eBNqXJGOmSGye"
   }
 ]
