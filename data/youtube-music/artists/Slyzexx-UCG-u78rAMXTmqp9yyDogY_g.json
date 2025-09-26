@@ -1885,6 +1885,10 @@
       {
         "time": "2025-09-21T21:14:39.833Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-09-26T21:46:34.034Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1898,5 +1902,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lke1JpMASov2RHOyWzLhYgiipuG1fZoHE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T21:46:34.034Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/eJvldbrYG5KdSEzNq6vPaFU41ya1c9r3ACOobOG9HpgiR9YJKHp53lyCFCdAZzzVaJxgDBPqLYaG3b7Q=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Darling",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n8J4MFDzDfzhH5zqA-GlT4GTNomGnRCnY"
   }
 ]
