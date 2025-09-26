@@ -759,5 +759,30 @@
     "totalTracks": 12,
     "type": "album",
     "url": "https://open.spotify.com/album/7qahCGu2ewfxldCyc1tqg4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T07:24:17.139Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SKYLERR",
+      "BURLA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733ecd60c223b8806ea980622c",
+    "releaseDate": "2025-09-26",
+    "tags": [
+      "booba",
+      "Hip-Hop",
+      "rap",
+      "Vidbir 2024 long-list"
+    ],
+    "title": "Ренесанс",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/11ect5CS5bZE2gCVxhEnqV"
   }
 ]

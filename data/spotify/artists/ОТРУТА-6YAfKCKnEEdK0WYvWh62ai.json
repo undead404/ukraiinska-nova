@@ -207,5 +207,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0sCo5NRcthAT9ZwjwmD3g2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T07:20:29.264Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ОТРУТА"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d3e6489a62579dd327e943be",
+    "releaseDate": "2025-09-26",
+    "tags": [],
+    "title": "лікарі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4bPOg5ND3m54tZ8l6TWH9z"
   }
 ]

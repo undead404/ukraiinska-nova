@@ -1912,5 +1912,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3wKekbBfeqvhm9DUbLw4hm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T07:21:14.098Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ARCHEZ"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273443b1c461a3f0e73ffd1cc87",
+    "releaseDate": "2025-09-26",
+    "tags": [
+      "phonk"
+    ],
+    "title": "never in heaven",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4870hbccv42X0sPl7nqc7S"
   }
 ]
