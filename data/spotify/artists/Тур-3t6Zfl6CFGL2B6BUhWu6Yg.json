@@ -297,5 +297,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0L8o96bc4d4bSIILyfmBO0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T06:23:36.938Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Тур"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737cdd746e96a56c465f529093",
+    "releaseDate": "2025-09-26",
+    "tags": [],
+    "title": "День відкритих дверей",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2rdEo7MF1SWv9FCEYfPZj2"
   }
 ]
