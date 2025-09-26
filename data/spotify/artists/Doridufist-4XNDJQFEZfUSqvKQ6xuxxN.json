@@ -956,5 +956,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4R87hdfokFzWbYwyRpYJhi"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T04:22:29.634Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Doridufist"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27374e8c18fd7212494abc050c2",
+    "releaseDate": "2025-09-26",
+    "tags": [],
+    "title": "Life's Journey",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4NUPCZcR5EbjPgt5RCin9n"
   }
 ]
