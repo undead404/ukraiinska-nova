@@ -43,6 +43,7 @@ export default async function fetchFromLastfm<T>(
       }
     },
     {
+      factor: 2,
       onFailedAttempt: async () => {
         await delay(200);
       },
