@@ -313,5 +313,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lidOdiDk2nbp4sbC2q6485od7VJAiJz0o"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T01:07:34.787Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SPOKUSY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/4PtsnBEPrwZreGUXYz-z9V0ddtjKx3KuOMcxFAE5Fb9Xy4QLHL471l8xvWlUd53s_qvahDPJ309hKqL-Ig=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "SLAY",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mdNytA3cWclLA5tle7Rh8j0c1-RI9ruWo"
   }
 ]
