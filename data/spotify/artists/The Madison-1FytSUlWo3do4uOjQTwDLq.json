@@ -1024,6 +1024,10 @@
       {
         "time": "2025-09-24T01:54:25.425Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-09-26T01:54:21.324Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1045,5 +1049,26 @@
     "totalTracks": 6,
     "type": "single",
     "url": "https://open.spotify.com/album/1cXpS2NqRoFk3hEFQWsnhl"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T01:54:21.324Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Anjunabeats"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739ef3f3851dfe6434858f7d7b",
+    "releaseDate": "2021-12-15",
+    "tags": [
+      "trance"
+    ],
+    "title": "Anjunabeats Rising 2021 Collection",
+    "totalTracks": 36,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2Xyx8Rmf49MRCa5qRl5uiO"
   }
 ]
