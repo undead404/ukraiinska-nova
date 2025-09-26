@@ -336,5 +336,26 @@
     "totalTracks": 19,
     "type": "album",
     "url": "https://open.spotify.com/album/4az2VmofKIkuN4VMFGJiDV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T20:23:30.025Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Berliner Döner"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a4470860ddd75a23a0383399",
+    "releaseDate": "2025-09-26",
+    "tags": [
+      "rap"
+    ],
+    "title": "кфс/адідас",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/77zFI6GJwqBA3TiAgM91Le"
   }
 ]

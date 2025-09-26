@@ -1,0 +1,46 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T20:27:29.266Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sklyane oko",
+      "Fuji Moodji"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735692f05dd2b7de9188c7e188",
+    "releaseDate": "2024-07-05",
+    "tags": [
+      "indie pop",
+      "indie rock"
+    ],
+    "title": "Ikigai",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1TI5WEXtpFdWL4qQseGmi1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T20:27:29.266Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sklyane oko"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27350a0c81da619e96904c9c63c",
+    "releaseDate": "2024-02-17",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Pan",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0QPlgY3dHJ6DEbyB2aTkF8"
+  }
+]
