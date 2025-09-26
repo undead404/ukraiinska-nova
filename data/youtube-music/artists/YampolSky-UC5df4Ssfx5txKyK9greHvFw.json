@@ -587,5 +587,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_meTT56UViRBr-RljnyO1IijGQbtAqF9GM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T18:49:47.771Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YampolSky"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/V5uUgyDSbjenCG29iham70H0UwwfMxdZ_kyXfE9YtJMwmL49ghdgTBvTmebeOwekAOhZTR-x0kBfD0s=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Mirage",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lax2ZFtkpqNre82iD_eAg1nf1VjwkTzhQ"
   }
 ]
