@@ -1,0 +1,105 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T21:23:46.139Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Spin Symmetry",
+      "K Real"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ebbc79b6e2394f2439333c9e",
+    "releaseDate": "2021-12-27",
+    "tags": [],
+    "title": "Head of the Club",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3Y4rYYCwH1RMSEhpXT3H2E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T21:23:46.139Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Andy Grem",
+      "Spin Symmetry"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a36892d8f5610e041ff536e1",
+    "releaseDate": "2021-02-20",
+    "tags": [],
+    "title": "Dynamite",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0mJLd5gypDMOwcNGnD8zdv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T21:23:46.139Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DOVI",
+      "Spin Symmetry"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27379f1d6e3c37281c4c1b562df",
+    "releaseDate": "2020-08-17",
+    "tags": [
+      "dream pop"
+    ],
+    "title": "More Than I Feel (Spin Symmetry Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4GBUw01gQIpPrMZJVWgA3V"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T21:23:46.139Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Spin Symmetry"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737490f121c6c5607584e3ca11",
+    "releaseDate": "2020-08-10",
+    "tags": [],
+    "title": "Through the Fog",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/63ZPSsDR3TACejHWu3HgoV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T21:23:46.139Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Morphom"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27364a0eb05756a382e8291fc37",
+    "releaseDate": "2024-07-22",
+    "tags": [
+      "hip hop",
+      "indie pop"
+    ],
+    "title": "Хатина (Remix)",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0TQekQziMgmsulfZJfes1g"
+  }
+]
