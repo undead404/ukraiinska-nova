@@ -1,0 +1,48 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T03:28:35.737Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "AveKucher",
+      "Loovr",
+      "IHRYK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d606108539c0968c8fc75867",
+    "releaseDate": "2022-06-10",
+    "tags": [
+      "hip hop",
+      "Hip-Hop"
+    ],
+    "title": "Псятшість",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6wJtu97sdjBCt3zi9ENJnU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T03:28:35.737Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "7even",
+      "Loovr"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27330f07dc71e123edd4a13acae",
+    "releaseDate": "2021-11-19",
+    "tags": [
+      "trance"
+    ],
+    "title": "P.U.O.T.B",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/21ELTfh9KueFJ5lkNnXzO1"
+  }
+]

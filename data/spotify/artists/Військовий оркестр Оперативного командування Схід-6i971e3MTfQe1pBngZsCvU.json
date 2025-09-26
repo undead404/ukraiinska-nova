@@ -1,0 +1,81 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T03:24:19.742Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Військовий оркестр Оперативного командування \"Схід\""
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733f16e150230ca39978ee9c50",
+    "releaseDate": "2022-09-12",
+    "tags": [],
+    "title": "Гей, соколи!",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0f1lW6Qz25jxdD2UkZf0aq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T03:24:19.742Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Тінь Сонця",
+      "Військовий оркестр Оперативного командування \"Схід\""
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e680b96dfa0b4b0cc8d0fb75",
+    "releaseDate": "2022-08-29",
+    "tags": [
+      "folk metal"
+    ],
+    "title": "За Вкраїну-неньку",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3YScAfbK767Ydy5HO9wGVz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T03:24:19.742Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Військовий оркестр Оперативного командування \"Схід\""
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27356e9a0c2d59575cc90f61907",
+    "releaseDate": "2022-07-29",
+    "tags": [],
+    "title": "Гімн Оперативного командування \"Схід\"",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/28hrSqaHmW34S1ffYXZFBS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T03:24:19.742Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Військовий оркестр Оперативного командування \"Схід\""
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d75326bc2ab181e5d0a30fdb",
+    "releaseDate": "2022-07-25",
+    "tags": [],
+    "title": "Ой у лузі червона калина",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1Cl7n146IH8lcE02XAAu2U"
+  }
+]
