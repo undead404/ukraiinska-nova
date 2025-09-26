@@ -565,5 +565,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kw_TOl7wnyKkIMyxoEvLCB6zSXMJvPKqM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T07:45:40.983Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Domiy"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/PrkS3fQBo6S-MfyqBaAJVEvyLojUb8t4kGBxaWD1I6glkxj35fEdoMujEZvdG5gUA0-Tj6X-Ear19lAh=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop"
+    ],
+    "title": "Дитина (feat. БумБокс)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k-o3UE09H95nin6uUgjc-Vd4vcygnQEQU"
   }
 ]
