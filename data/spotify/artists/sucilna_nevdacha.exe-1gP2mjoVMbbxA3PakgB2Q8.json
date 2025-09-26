@@ -361,5 +361,26 @@
     "totalTracks": 14,
     "type": "album",
     "url": "https://open.spotify.com/album/0UFLvHROZBTb7PRvOfn2Gp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T08:26:12.009Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Джозерс"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731dc9c8fa8aea6c2c63105265",
+    "releaseDate": "2025-09-26",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Листи для самотніх душ",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3fAB3iyQpRRiqgH1g2HbYs"
   }
 ]

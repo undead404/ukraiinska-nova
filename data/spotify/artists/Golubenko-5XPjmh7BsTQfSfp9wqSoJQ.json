@@ -1046,5 +1046,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7rop61RWEVCexVD6qYt1jd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T08:23:17.188Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Libenson"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27331e3e37ad7db582225d98bad",
+    "releaseDate": "2023-11-17",
+    "tags": [
+      "pop",
+      "rnb",
+      "alternative rnb"
+    ],
+    "title": "Місто Q (Deluxe)",
+    "totalTracks": 30,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2VvmDnJUqFMRJocyu9l4dm"
   }
 ]

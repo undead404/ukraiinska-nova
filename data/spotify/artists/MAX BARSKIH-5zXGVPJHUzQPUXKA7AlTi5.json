@@ -1742,5 +1742,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6gZAtSTCMgLugdO2Xt3Otw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T08:25:01.741Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MAX BARSKIH"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736ca8be560990fe0f02975384",
+    "releaseDate": "2025-09-26",
+    "tags": [
+      "pop"
+    ],
+    "title": "Все ОК",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6DPgv4tEq94XScj0MrJbgH"
   }
 ]
