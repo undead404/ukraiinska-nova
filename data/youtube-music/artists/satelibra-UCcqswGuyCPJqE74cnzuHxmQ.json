@@ -682,5 +682,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lAQLcZD-TN2CwByu7UzVeO0HzI_VcKQmY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T08:49:48.990Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "satelibra"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/qJDXIUuae91lXaNipLAJlTytKRcBbmHg0_JF5j3OXLm38F2-dQzOG9XmSaz4oKZ8xP-eiPuooL7YKUwL=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Уно",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kE2ZD9Gegl4v4SVxzqPKgfjEnSBsbnRzk"
   }
 ]
