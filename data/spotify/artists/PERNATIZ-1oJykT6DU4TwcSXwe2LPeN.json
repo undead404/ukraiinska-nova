@@ -1,0 +1,101 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T03:29:37.233Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PERNATIZ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d3f132d9af4debe367e3f403",
+    "releaseDate": "2020-03-20",
+    "tags": [],
+    "title": "Бейдевінд",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6W1nRZYp6XS2Hqf2GjUkeP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T03:29:37.233Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PERNATIZ",
+      "alyona alyona"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27331d0fcc164907f547cdc2c97",
+    "releaseDate": "2023-07-27",
+    "tags": [
+      "rap",
+      "Hip-Hop"
+    ],
+    "title": "Поклик Племенi",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6oaR4XhFQxHOKhIHfdb5vO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T03:29:37.233Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PERNATIZ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d3fab97de7a6045c6016b189",
+    "releaseDate": "2022-03-28",
+    "tags": [],
+    "title": "ПЕРЕПРОШУЮ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1K9Uf7uB2u8eakn2nt0Ruk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T03:29:37.233Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PERNATIZ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731189efab2b4bac93fe40863b",
+    "releaseDate": "2019-07-01",
+    "tags": [],
+    "title": "Крила",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1NdDKxB02UoBbBoZ0XIGwN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T03:29:37.233Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kolovertnykh"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27374586c30ca0007451a7b14b2",
+    "releaseDate": "2025-02-28",
+    "tags": [],
+    "title": "Find you",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0PqoNyM1o1GttcmvAbZpfV"
+  }
+]

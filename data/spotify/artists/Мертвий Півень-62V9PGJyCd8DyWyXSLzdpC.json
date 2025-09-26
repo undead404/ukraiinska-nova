@@ -430,6 +430,10 @@
       {
         "time": "2025-09-19T19:21:42.982Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-09-25T19:20:19.921Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -535,5 +539,28 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/4pr24sQ338IYGsS4xi8oAQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T19:20:19.921Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Мертвий півень",
+      "Zhadan i Sobaky"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ce61284818ab0fcab9d456a5",
+    "releaseDate": "2023-12-20",
+    "tags": [
+      "rock",
+      "folk-rock"
+    ],
+    "title": "Переваги окупаційного режиму",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7lMzVkIe16wdVmQ5KZYDDT"
   }
 ]

@@ -336,5 +336,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2prrb8bd1gGqV6tRiMNvYX"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T04:23:56.363Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KILL! KILL! KILL!"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735921ec1224adea79515d20a6",
+    "releaseDate": "2025-09-26",
+    "tags": [
+      "Garage Punk",
+      "Garage Rock",
+      "indie rock",
+      "post-punk"
+    ],
+    "title": "Ramona",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/63JlHplOt5RM7SA4UUpjdx"
   }
 ]

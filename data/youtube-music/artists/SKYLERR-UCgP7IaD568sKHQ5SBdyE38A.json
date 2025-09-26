@@ -702,5 +702,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mEl-UqI_T7vqmJIVNvNvTaRUTTIdomfP4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T04:48:10.900Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SKYLERR"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/qTR2_rrYV3jreOroKk5ZlfKuGH1cfZrhE01bpCAIhWAsM7h970Hd6B5Pao554t2GUj9pWeV8tF1k5Jg=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "booba",
+      "Vidbir 2024 long-list"
+    ],
+    "title": "Ренесанс",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_khk-f8kIoaf40leuI4-5qCF2Z8qI6BEeE"
   }
 ]

@@ -1,0 +1,117 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T03:26:50.790Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "AQUADREAMR"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731c65e42edc4d13f6049f9436",
+    "releaseDate": "2021-03-11",
+    "tags": [],
+    "title": "Trypillya",
+    "totalTracks": 16,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6f8Vd14iP4oZKwgQyYH7f4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T03:26:50.790Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "AQUADREAMR",
+      "Petrovychi"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f1cc9a84b5f84211a0a8671",
+    "releaseDate": "2022-02-22",
+    "tags": [],
+    "title": "Podolyanka",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7mUGNxzafEEdZDCPDdX72X"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T03:26:50.790Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "AQUADREAMR"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732e6e16835e771795fb7cacdb",
+    "releaseDate": "2022-02-01",
+    "tags": [],
+    "title": "LIVOBEREZHNA",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/75bsoZC0PU8JaHMLTgXzlf"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T03:26:50.790Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "AQUADREAMR"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27328205eac7544cd4a93235f6e",
+    "releaseDate": "2017-11-17",
+    "tags": [],
+    "title": "Cosmic Dance",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1HMACleKKO0z8SgAZ33irY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T03:26:50.790Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "AQUADREAMR"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27335999e7431fc6a204a6a5a1d",
+    "releaseDate": "2017-08-18",
+    "tags": [],
+    "title": "Kyiv",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5NkCHV553V3ialD15vFwKA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T03:26:50.790Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "AQUADREAMR"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27387111621ffa8cd226ba4a3e0",
+    "releaseDate": "2017-01-04",
+    "tags": [],
+    "title": "Transcedental",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0v4bUFCya77Jy9icWfamms"
+  }
+]

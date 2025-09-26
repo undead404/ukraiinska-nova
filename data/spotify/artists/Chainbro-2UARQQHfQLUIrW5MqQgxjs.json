@@ -1,0 +1,51 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T03:27:02.084Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гоня",
+      "Yaski",
+      "Chainbro"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cadd93b670693e55c5965dc0",
+    "releaseDate": "2024-07-26",
+    "tags": [
+      "rap"
+    ],
+    "title": "Сальто вперед (Chainbro Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/25HvTvUHfZh2tF1uI6zRPM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T03:27:02.084Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Adam",
+      "BRYKULETS",
+      "Gooch Brown",
+      "Chainbro"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bcce440a0773f69e3def3331",
+    "releaseDate": "2024-04-19",
+    "tags": [
+      "dark electro",
+      "hip hop",
+      "ebm"
+    ],
+    "title": "Мрій (Gooch Brown & Chainbro Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/614nWiBIi3QnTs1vYKLeRh"
+  }
+]

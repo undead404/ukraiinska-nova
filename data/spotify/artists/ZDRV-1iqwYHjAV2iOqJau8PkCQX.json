@@ -1,0 +1,128 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T23:27:02.740Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One",
+      "ZDRV"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730e19efd99ad993b40e070302",
+    "releaseDate": "2024-05-03",
+    "tags": [
+      "rap"
+    ],
+    "title": "Звички вуличні",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6nmzunasauv0L0sQIpbgKL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T23:27:02.740Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ZDRV"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dd40446b3c1f18fcad9ab3a1",
+    "releaseDate": "2022-09-27",
+    "tags": [],
+    "title": "Дій",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7JxBBgLb5vo5HuqS5ZJ2yn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T23:27:02.740Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ZDRV"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731d747f2dd361e622a6a01871",
+    "releaseDate": "2022-07-08",
+    "tags": [],
+    "title": "Новий день",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/32Xvemb1sd9nSx2liq69iv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T23:27:02.740Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a5dd74e2c4a6cb9fd227201d",
+    "releaseDate": "2025-05-30",
+    "tags": [
+      "rap"
+    ],
+    "title": "DISSONANCE",
+    "totalTracks": 18,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4eBQ20kjmhZWaKHnOBYg9r"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T23:27:02.740Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273211068c483709c3b03eb21d9",
+    "releaseDate": "2024-05-10",
+    "tags": [
+      "rap"
+    ],
+    "title": "Звички Вуличні ч.2",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0SJsTHY4GEc5UgdwNtUsb8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T23:27:02.740Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ВАТАГА"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27395998d9757788ffc5003c5ab",
+    "releaseDate": "2023-06-13",
+    "tags": [
+      "hip hop",
+      "rap",
+      "Hip-Hop",
+      "underground hip-hop"
+    ],
+    "title": "ПСАЙФЕР",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4HmUHPMpRmuthtKU45A89l"
+  }
+]

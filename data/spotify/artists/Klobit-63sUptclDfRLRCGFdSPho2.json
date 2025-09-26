@@ -1,0 +1,121 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T13:26:00.249Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Klobit"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d5aa1a92aea4968ec436e843",
+    "releaseDate": "2025-08-01",
+    "tags": [],
+    "title": "Звідкіля бажання?",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/44U9sVAtdcY4BLGxQY6uIW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T13:26:00.249Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Klobit"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738120f2950e332d67631fc0d8",
+    "releaseDate": "2024-10-13",
+    "tags": [],
+    "title": "Хай буде легко",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1jV4SH8Jw6MClm90nKF17p"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T13:26:00.249Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "C23",
+      "Klobit"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732e9ec48fd6df2879d301dd93",
+    "releaseDate": "2024-10-11",
+    "tags": [
+      "hip hop",
+      "rap",
+      "dubstep"
+    ],
+    "title": "Триптих \"Цикл\"",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5vMCaCE9VWuMq1r8cIDCXY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T13:26:00.249Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Klobit"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733b7333f95b968fc9600e3b7d",
+    "releaseDate": "2024-01-12",
+    "tags": [],
+    "title": "Astatine",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2VEooiiqdbuvntN5ZFv50A"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T13:26:00.249Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Klobit"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27373e19938a02c78ecb3b06007",
+    "releaseDate": "2023-12-31",
+    "tags": [],
+    "title": "Встигаєш Тільки Втомитися",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4g3FbxOc8wcZYhRCmUfCDB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-25T13:26:00.249Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Zlele"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27344062a9f8d038d7a3adefa1b",
+    "releaseDate": "2024-04-17",
+    "tags": [],
+    "title": "Чому такий сумний",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7ksBPxGqPSmsjDyVYaINzy"
+  }
+]
