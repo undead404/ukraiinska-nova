@@ -643,5 +643,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2hCnGqnaDbB1IlqIDSopnF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-27T10:24:28.099Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KOZAK SIROMAHA",
+      "SIROMAG"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273937f7bba4d56d60ebbfb7553",
+    "releaseDate": "2025-09-25",
+    "tags": [
+      "folk"
+    ],
+    "title": "Утопія",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5w2zXC21lw0a7fQHUh19OV"
   }
 ]
