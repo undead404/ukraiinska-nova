@@ -427,5 +427,26 @@
     "totalTracks": 20,
     "type": "album",
     "url": "https://open.spotify.com/album/5NOtvCunduKmOkwC9mUwyz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-27T02:38:42.006Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Domiy"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b6f52245c42fab493618e301",
+    "releaseDate": "2025-09-26",
+    "tags": [
+      "pop"
+    ],
+    "title": "Дитина",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4q4W0axKHyVNci0umlwUIW"
   }
 ]
