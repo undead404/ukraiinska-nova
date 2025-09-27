@@ -910,5 +910,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nKv3sx6V0T2rPRLAUTHXbqxN23hjRQBjg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-27T12:55:34.997Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "iNEBO"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/n5i9mZsH2z0eB3IEamgrsKSrUeDf9MsJN5SkmkaumN_0aztdohKHSHafhc3kBvymyB2zN8g1DalYafZd=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Від Сяну до Дону",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nTs6djCVNV3CWWxRve3aKlb9wgK_eB-wY"
   }
 ]
