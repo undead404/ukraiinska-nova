@@ -1,0 +1,42 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-27T01:52:00.335Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Emeri",
+      "Eric Deray",
+      "Cool 7rack"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a767ac57e5c2ae4f8bcd85b2",
+    "releaseDate": "2024-07-12",
+    "tags": [],
+    "title": "Знаю сам (Remix)",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5QSk5jSSDhaxG0yK8S8lBl"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-27T01:52:00.335Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Emeri"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c41e3053fc6c8685a222bcfb",
+    "releaseDate": "2024-06-15",
+    "tags": [],
+    "title": "Знаю сам",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1G9iBxITIwFMlbDg7DTfOx"
+  }
+]

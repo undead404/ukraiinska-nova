@@ -682,5 +682,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7fpixolm4eHzJjG6qLKxqR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-27T09:23:56.328Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "satelibra"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735575f717bf17eeb37be105e7",
+    "releaseDate": "2025-09-26",
+    "tags": [],
+    "title": "Уно",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5sdicEJSDoXDlITQzJ05WC"
   }
 ]

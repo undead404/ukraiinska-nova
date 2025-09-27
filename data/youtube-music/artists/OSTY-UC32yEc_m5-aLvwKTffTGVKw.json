@@ -306,5 +306,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_modThGkHwigW71KRkR0w3OSMYj_QvNN6E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-27T03:02:29.955Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "OSTY"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/8-TWzGjbBj1565gjHMp1T3U3FzkxY3xab8dfmptVe5mUpeX8P-jB-H4j4e9xCi9yIkGKt_cT6TG1z1A=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "electropop",
+      "pop"
+    ],
+    "title": "Nirvana",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k0f7XInlQSTVZ0GMW8Xur0VWzoAE70BI4"
   }
 ]

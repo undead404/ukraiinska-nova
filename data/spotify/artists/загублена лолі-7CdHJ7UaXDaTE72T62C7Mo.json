@@ -353,5 +353,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0jUEIYHbDW9e3ls5wU17Oo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-27T13:21:22.177Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VOOICE"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273791aff3c19a4fc3044d16e3b",
+    "releaseDate": "2025-09-26",
+    "tags": [],
+    "title": "Попіл Свідомості",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5kkhn6ml7vKXeyptB862Su"
   }
 ]

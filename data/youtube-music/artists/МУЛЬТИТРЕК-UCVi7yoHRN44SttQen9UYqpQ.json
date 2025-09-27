@@ -397,5 +397,43 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mIbLEeLP5e9-3b1nyArOzsrYM7GB3TlEY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T20:45:36.556Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "МУЛЬТИТРЕК"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/709zXP06iV9Sq22P_DsUSRB6-IgB0xQf4VGgwfGe-_EjMVOk3Ndu8RYRk4MD4gn-mUXY_3bjrYjZImNL=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "СМЕРЕКИ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lC0W8fae_B_NipTzxrxCq-LMVHRt0U-dE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T20:45:36.556Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "МУЛЬТИТРЕК"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/P4Tn5jBEBu9c83OBR6G446_9OHJQC_Bxl7gA0g2gvfsuxja2pkVJspOrzwGWPof-fyP_ai6ynLL37qyRjw=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Захворів",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lgaOeD9CqIaRJYUjjaeGApezAgO7xgDyA"
   }
 ]

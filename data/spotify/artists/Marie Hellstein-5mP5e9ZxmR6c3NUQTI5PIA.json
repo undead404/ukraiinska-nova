@@ -305,5 +305,24 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/0kGg34FBsDXGbr1r5N0qyY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-27T12:27:54.129Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Marie Hellstein"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27377a1056384370940cb7f4adc",
+    "releaseDate": "2025-09-26",
+    "tags": [],
+    "title": "Не любить",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6JAPMmXAb1NA73tsriu0RD"
   }
 ]

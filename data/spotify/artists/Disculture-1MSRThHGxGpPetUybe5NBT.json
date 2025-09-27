@@ -1,0 +1,43 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-27T07:21:07.397Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "EDNY",
+      "Disculture"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732719486e0f895ea7b6c43f25",
+    "releaseDate": "2021-07-30",
+    "tags": [
+      "Brutal Death Metal"
+    ],
+    "title": "поруч (Disculture Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1CO9RgOiWG3pkNiavEv9Y7"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-27T07:21:07.397Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Rixan"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736b4045316be6663db12b089c",
+    "releaseDate": "2022-10-07",
+    "tags": [],
+    "title": "Need You",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6BCFTWczlqwpzncLTjGFaC"
+  }
+]

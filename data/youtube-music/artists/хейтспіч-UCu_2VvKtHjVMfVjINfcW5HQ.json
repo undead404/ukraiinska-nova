@@ -768,5 +768,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mgEjZg7fJbGwJUDAWkuuqSiNJM-4NmDRc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-27T12:54:38.964Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "хейтспіч"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/trmRDYz8LDbTpQ9k1QEMl51KboLfyVqh0rSx4nrTJLIou4GtKXBB9tgdof9LKGzz7UJQPAr6bFA9eL7rhg=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "dance-punk",
+      "punk rock"
+    ],
+    "title": "ЮНІТІ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ks0Bfih_9Zxe84_ZGge90OhR8n7YfURlg"
   }
 ]

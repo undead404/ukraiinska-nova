@@ -540,5 +540,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5BbAlv1X8RSJ1vzNTtUKor"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-26T17:23:10.836Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "G Grizzie"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731715789e75992c2bdec804f0",
+    "releaseDate": "2025-09-26",
+    "tags": [],
+    "title": "HOOD CLASSIC 2",
+    "totalTracks": 16,
+    "type": "album",
+    "url": "https://open.spotify.com/album/30NBzuUj66i0rr9lyOhYEv"
   }
 ]

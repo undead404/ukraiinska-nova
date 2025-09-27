@@ -1350,5 +1350,26 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/64UXeorjt3Tp6JRN414w8U"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-27T07:23:53.165Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "STAS AZARENKO"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273516323993dbdd317a97a849a",
+    "releaseDate": "2025-09-27",
+    "tags": [
+      "rap"
+    ],
+    "title": "Hopnik",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7IqrhadfUYflSqUwciaDbM"
   }
 ]

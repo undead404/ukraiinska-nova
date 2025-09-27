@@ -886,5 +886,27 @@
     "totalTracks": 12,
     "type": "album",
     "url": "https://open.spotify.com/album/23MxsXE6dIvAdouTMoCYrM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-27T01:50:34.238Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Monsto"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735bf4d0696cc945dd54631b93",
+    "releaseDate": "2020",
+    "tags": [
+      "hard rock",
+      "Stoner Rock"
+    ],
+    "title": "CHANGES",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2AvyKY3U5wnAlzJNdFWeYu"
   }
 ]

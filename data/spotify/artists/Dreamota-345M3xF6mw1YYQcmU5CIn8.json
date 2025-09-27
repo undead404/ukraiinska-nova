@@ -1,0 +1,40 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-27T01:51:58.032Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Dreamota"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ad24178a072ede514a90ac3d",
+    "releaseDate": "2020-01-24",
+    "tags": [],
+    "title": "Відпусти",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7drGdznYW4G1bRroKMqoOR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-27T01:51:58.032Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Dreamota"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f9d3be6e63bfc35e33ee4f83",
+    "releaseDate": "2020-01-24",
+    "tags": [],
+    "title": "Vidpusty (Extended Mix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/45swPn8KY5LmmMVeNUr6xy"
+  }
+]
