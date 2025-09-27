@@ -1,0 +1,63 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-27T00:41:56.346Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vilna Kasa"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273117832b64d05e8109d6c072a",
+    "releaseDate": "2025-08-01",
+    "tags": [],
+    "title": "А ми як діти",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7jHERHNszGXJTktra6eDyi"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-27T00:41:56.346Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vilna Kasa",
+      "Ula"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27383b8e009c1f0a840b17fc0fe",
+    "releaseDate": "2020-05-31",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Viter",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5vNVYkJskzNybuL0ZGWxHS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-27T00:41:56.346Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DJ MalYar",
+      "Vilna Kasa"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273597f9488f80667b7fb70d783",
+    "releaseDate": "2017-11-10",
+    "tags": [],
+    "title": "Не для тебе",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4rputq06d84zKDw458ajdl"
+  }
+]

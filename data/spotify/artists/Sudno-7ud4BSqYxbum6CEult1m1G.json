@@ -756,5 +756,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1wOAUJiiTC8u2mYYrDJQnW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-27T00:40:56.400Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sudno"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273da6ab73f1f96c3da9c590b1d",
+    "releaseDate": "2025-09-26",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Слово",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3bgPWKbDY9pf7DB8cZogCa"
   }
 ]
