@@ -1,0 +1,94 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-27T04:25:31.255Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Renevich"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273765416bd0cc701817a4d4966",
+    "releaseDate": "2020-08-03",
+    "tags": [
+      "emo",
+      "Lo-Fi"
+    ],
+    "title": "Сингли",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0Mtqmkpv94psRO2LOcHobk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-27T04:25:31.255Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "drimandr",
+      "Renevich"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27363228abd3e36a5cf6c608d05",
+    "releaseDate": "2020-07-10",
+    "tags": [
+      "emo",
+      "Lo-Fi",
+      "post-punk",
+      "bedroom pop"
+    ],
+    "title": "Krychaty",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5w3kbYT5iombiuKNQmUZpg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-27T04:25:31.255Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Fakeholder"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ccf289fc7b99d4822324cc51",
+    "releaseDate": "2021-02-28",
+    "tags": [
+      "midwest emo",
+      "screamo"
+    ],
+    "title": "Тайник",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2zkDFFnD1YUlIwEVzPMQxC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-27T04:25:31.255Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Whaler"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733e1f95f79b4719587a09a31e",
+    "releaseDate": "2021-05-10",
+    "tags": [
+      "ambient",
+      "techno",
+      "idm"
+    ],
+    "title": "Місто",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/46dqzwrgMoiCAJoyLwzWpY"
+  }
+]
