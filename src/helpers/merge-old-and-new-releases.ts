@@ -4,16 +4,50 @@ import type { EnhancedMusicRelease } from '../types/index.js';
 import calculateReleaseIdentity from './calculate-release-identity.js';
 import isReleaseRecordObsolete from './is-release-record-obsolete.js';
 
-export default function mergeOldAndNewReleases(
+function discriminateByLatestYear(releases: EnhancedMusicRelease[]): {
+  new: MusicReleaseRecord[];
+  merged: MusicReleaseRecord[];
+} {
+  const newReleases: MusicReleaseRecord[] = [];
+  const mergedReleases: MusicReleaseRecord[] = [];
+  const isoTime = new Date().toISOString();
+  let latestYear = '0000';
+  for (const release of releases) {
+    if (release.releaseDate > latestYear) {
+      latestYear = release.releaseDate.slice(0, 4);
+    }
+  }
+
+  for (const release of releases) {
+    const newReleaseRecord: MusicReleaseRecord = {
+      ...release,
+      appearanceLog: [
+        {
+          time: isoTime,
+          type: 'FOUND' as const,
+        },
+      ],
+    };
+    if (release.releaseDate.startsWith(latestYear)) {
+      console.log(`New release: ${calculateReleaseIdentity(release)}`);
+      newReleases.push(newReleaseRecord);
+    }
+    mergedReleases.push(newReleaseRecord);
+  }
+  return {
+    new: newReleases,
+    merged: mergedReleases,
+  };
+}
+
+function discriminateOldReleaseRecords(
   oldReleases: MusicReleaseRecord[],
   freshReleases: EnhancedMusicRelease[],
 ): {
   lost: MusicReleaseRecord[];
-  new: MusicReleaseRecord[];
   merged: MusicReleaseRecord[];
 } {
   const lostReleases: MusicReleaseRecord[] = [];
-  const newReleases: MusicReleaseRecord[] = [];
   const mergedReleases: MusicReleaseRecord[] = [];
   const isoTime = new Date().toISOString();
   for (const oldRelease of oldReleases) {
@@ -58,6 +92,19 @@ export default function mergeOldAndNewReleases(
       }
     }
   }
+  return {
+    lost: lostReleases,
+    merged: mergedReleases,
+  };
+}
+
+function discriminateFreshReleases(
+  oldReleases: MusicReleaseRecord[],
+  freshReleases: EnhancedMusicRelease[],
+) {
+  const newReleases: MusicReleaseRecord[] = [];
+  const mergedReleases: MusicReleaseRecord[] = [];
+  const isoTime = new Date().toISOString();
   for (const freshRelease of freshReleases) {
     const freshReleaseIdentity = calculateReleaseIdentity(freshRelease);
     const matchingOldRelease = oldReleases.find(
@@ -80,8 +127,32 @@ export default function mergeOldAndNewReleases(
     }
   }
   return {
-    lost: lostReleases,
     new: newReleases,
     merged: mergedReleases,
+  };
+}
+
+export default function mergeOldAndNewReleases(
+  oldReleases: MusicReleaseRecord[],
+  freshReleases: EnhancedMusicRelease[],
+): {
+  lost: MusicReleaseRecord[];
+  new: MusicReleaseRecord[];
+  merged: MusicReleaseRecord[];
+} {
+  if (oldReleases.length === 0) {
+    // This can mean Youtube Music API suddenly remembered about this artist.
+    // Return only latest year's releases as fresh
+    return { ...discriminateByLatestYear(freshReleases), lost: [] };
+  }
+  const { lost: lostRecords, merged: mergedOldRecords } =
+    discriminateOldReleaseRecords(oldReleases, freshReleases);
+  const { new: newRecords, merged: mergedNewRecords } =
+    discriminateFreshReleases(oldReleases, freshReleases);
+
+  return {
+    lost: lostRecords,
+    new: newRecords,
+    merged: [...mergedOldRecords, ...mergedNewRecords],
   };
 }
