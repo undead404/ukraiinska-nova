@@ -3439,5 +3439,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5goGbs6IKosOlCHyYduQ8F"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-27T03:28:56.729Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27303a55f19679b3ea82672f9d9",
+    "releaseDate": "2025-09-26",
+    "tags": [],
+    "title": "Darling",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/10MSa0InGQwjajuIZwRI4D"
   }
 ]

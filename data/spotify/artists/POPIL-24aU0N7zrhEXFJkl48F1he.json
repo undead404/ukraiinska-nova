@@ -368,5 +368,26 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/3RrX5A4x5RoDNfrMmc6Ahr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-27T03:27:54.435Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "POPIL"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27320150601e0d9293f5bca98a6",
+    "releaseDate": "2025-09-26",
+    "tags": [
+      "shoegaze"
+    ],
+    "title": "Наше місто просинається",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6mxUQ87MACkyrBZibqQk4O"
   }
 ]
