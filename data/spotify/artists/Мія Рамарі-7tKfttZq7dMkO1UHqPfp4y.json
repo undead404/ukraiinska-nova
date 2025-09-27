@@ -487,5 +487,26 @@
     "totalTracks": 7,
     "type": "album",
     "url": "https://open.spotify.com/album/3ede9zqUxVUQkJ7KPwLbRV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-27T09:20:49.576Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Мія Рамарі"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273caf61ed8348f647ae4783fec",
+    "releaseDate": "2025-09-26",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Не знаю",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7cnEHAu2hTg4FSa90LAuM5"
   }
 ]
