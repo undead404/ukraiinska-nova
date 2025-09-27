@@ -1582,5 +1582,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1hFuLq8UGGsCnt5I13Y066"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-27T12:26:08.401Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "drwncvnt"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735cd9332f5366124187ae7528",
+    "releaseDate": "2025-09-26",
+    "tags": [
+      "electronic"
+    ],
+    "title": "¡bang!",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0I6VV6SzdpxtOa8zWx0vYs"
   }
 ]
