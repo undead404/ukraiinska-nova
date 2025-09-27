@@ -103,5 +103,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5YwoK3pQnPaB9bQZ60wBf1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-27T01:51:45.368Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BANDERSTADT"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e1bd89a1f7c1d49bdaa983f4",
+    "releaseDate": "2025-09-26",
+    "tags": [
+      "folk rock"
+    ],
+    "title": "Червоне | Red",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6REg47prZ4NH3JCH2BdsU3"
   }
 ]
