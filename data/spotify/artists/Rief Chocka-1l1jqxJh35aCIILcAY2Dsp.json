@@ -1020,6 +1020,10 @@
       {
         "time": "2025-09-22T23:24:14.971Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-09-27T23:24:47.340Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1035,5 +1039,26 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/1gVbtGqscdkl4D760x4U43"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-27T23:24:47.341Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Pero Culture Crew"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aa4462267b02ef7b25fca59e",
+    "releaseDate": "2024-03-01",
+    "tags": [
+      "rap"
+    ],
+    "title": "Kick It",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2XF9WmdBJJXmTOfSUuX2h6"
   }
 ]
