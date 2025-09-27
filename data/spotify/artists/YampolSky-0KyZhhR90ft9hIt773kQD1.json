@@ -724,5 +724,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6GukwDx8oByST8gtrkQ1GC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-27T11:26:02.804Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YampolSky",
+      "Alan Wools",
+      "Etonika"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273971fe358b2c448288d5b8b6f",
+    "releaseDate": "2025-09-26",
+    "tags": [
+      "tech-house"
+    ],
+    "title": "Mirage",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/24YVVnLAVIRyEl2oGBOm1O"
   }
 ]
