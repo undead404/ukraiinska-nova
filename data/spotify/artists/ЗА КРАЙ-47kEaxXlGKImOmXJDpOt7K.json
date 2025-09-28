@@ -205,5 +205,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5FYbWBoYi4euYHxrEgRhbV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-28T01:50:17.925Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ЗА КРАЙ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273417536c23f5f4e43ee8709d3",
+    "releaseDate": "2025-09-27",
+    "tags": [
+      "alternative",
+      "rock",
+      "pop rock"
+    ],
+    "title": "Не каюсь",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1jzc6e7oji86xqrCr0lyb2"
   }
 ]
