@@ -614,5 +614,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mbvtqh_WT-q7qF3_6ekw-WHVRP2-mcOns"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-29T06:52:09.043Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KAVA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/TsThNxTGqTEoJW21H2fkMxqwZuhasHS9-9nXN4XCLyKhNZmpJiNwZqSQgP7tuqENKCEva5J2jjMpSzwl=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "breakbeatz",
+      "Gugginger"
+    ],
+    "title": "Все ще стою",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mMUXqrcKZmtNFlXVvqLUSEnyi49cBu_EI"
   }
 ]

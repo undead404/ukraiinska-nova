@@ -1043,5 +1043,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0jgkb94AuQPe9zLs2CLONL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-28T10:20:05.473Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Андріана"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732ed220312249db2f0b0f15ec",
+    "releaseDate": "2025-02-24",
+    "tags": [
+      "pop"
+    ],
+    "title": "Після війни",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0Cop8lkOCY75UMVaBIaN3g"
   }
 ]

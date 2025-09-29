@@ -759,5 +759,29 @@
     "totalTracks": 38,
     "type": "album",
     "url": "https://open.spotify.com/album/3bKgg4BKYVLgNAFL6z3md5"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-28T20:27:33.996Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Easy Listening Music Club",
+      "Hong Kong Sunset Lounge Bar",
+      "The Cocktail Lounge Players"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732c79b30435e35a8f568c47c9",
+    "releaseDate": "2015-10-07",
+    "tags": [
+      "chillout",
+      "world"
+    ],
+    "title": "Lounge Jazz Easy Listening",
+    "totalTracks": 40,
+    "type": "album",
+    "url": "https://open.spotify.com/album/21GuTiNq4sxdUemHzHiOtV"
   }
 ]

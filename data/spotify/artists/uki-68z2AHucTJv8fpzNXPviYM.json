@@ -119,5 +119,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0Z67Q1nd8NFre75hSjXiYK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-28T20:27:57.955Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "uki"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27332c06a6df871f20b906c636f",
+    "releaseDate": "2025-09-28",
+    "tags": [
+      "easy listening",
+      "rock",
+      "chillout",
+      "japanese"
+    ],
+    "title": "dead.slay",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0IGy5TbOx0gPTG30qBpqmt"
   }
 ]
