@@ -811,5 +811,26 @@
     "totalTracks": 7,
     "type": "album",
     "url": "https://open.spotify.com/album/2oJfkR9R4HfV6XLUcc8lUp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-29T04:20:46.375Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Андріана"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273435771093a2c29c22339b28b",
+    "releaseDate": "2025-09-29",
+    "tags": [
+      "pop"
+    ],
+    "title": "Саша",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1xx5nCVRUu34zDzCm1kteW"
   }
 ]
