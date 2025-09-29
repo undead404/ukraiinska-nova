@@ -1340,5 +1340,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5sfNur4AGMsLM7gnUua7CM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-29T18:27:29.849Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KAVA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738571636182661140aaf04680",
+    "releaseDate": "2025-09-28",
+    "tags": [
+      "breakbeatz",
+      "Gugginger"
+    ],
+    "title": "Все ще стою",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1nsfkpTljajxAoQG6sDWOj"
   }
 ]
