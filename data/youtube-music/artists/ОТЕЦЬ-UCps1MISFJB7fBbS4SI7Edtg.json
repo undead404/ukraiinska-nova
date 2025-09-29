@@ -271,5 +271,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nb3X2gyOl3mr1CyTlaR35SqQCBDVu9HGI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-29T14:46:36.099Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ОТЕЦЬ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/kGv3c48M2NNkaLvEhwfTWX8ywPzPnHO7E5pVXcrIIPUIV7TLTRP3xYeemA3k2LZ4h_eYO8FNDyoBCrtf=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "metal"
+    ],
+    "title": "Fin",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m3ZnHzf82UudH10xHpP2000c4UZSCZE0c"
   }
 ]
