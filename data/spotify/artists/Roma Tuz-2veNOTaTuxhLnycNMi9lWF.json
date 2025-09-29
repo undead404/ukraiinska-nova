@@ -417,5 +417,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2UZ99wOKZ3VHFryOEKYV8W"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-29T22:24:12.376Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Roma Tuz"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737068134789adc4497c111442",
+    "releaseDate": "2025-09-29",
+    "tags": [
+      "female vocalists",
+      "pop"
+    ],
+    "title": "ПАРИЖ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0f5k92O6RraZP17gRtVClu"
   }
 ]
