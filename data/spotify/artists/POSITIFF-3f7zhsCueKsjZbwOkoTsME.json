@@ -460,5 +460,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3UAOV8OCaf7Jjo4EbbrpAd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-29T19:26:02.257Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kvartal 95"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a9fc9bae20038e3e0d529be9",
+    "releaseDate": "2020-03-28",
+    "tags": [],
+    "title": "Вечерний Квартал 28 Марта 2020",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1EQQl7JSXniCzJhShi2Fvq"
   }
 ]
