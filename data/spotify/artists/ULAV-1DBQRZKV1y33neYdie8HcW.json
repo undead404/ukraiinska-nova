@@ -240,5 +240,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7eED1I3nlOEm0jGFUVgWbs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-29T17:25:39.156Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "U:LAV"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737219adcafc5f0e23764a482d",
+    "releaseDate": "2025-09-29",
+    "tags": [
+      "folk",
+      "female vocalists"
+    ],
+    "title": "Колискова(Kolyskova)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2SDBcQRodOb5Vjc2dLPh15"
   }
 ]
