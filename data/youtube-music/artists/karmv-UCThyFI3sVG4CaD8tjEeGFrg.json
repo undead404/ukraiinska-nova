@@ -283,5 +283,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l2Tl-OPl5APjMuu0RQob0oX4Dvey0KVus"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-30T04:47:18.110Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "karmv"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/5u9TprLylf724Xiju9L10UgWrYiSeNltSD3wafMpa8ZFcoGcWEfE-7WLbOeoruRQEVyD14LK9JLJSNA=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "LONELY",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kcNsMnfXnfZrFL7hZRU0muWsyyhzGFg6k"
   }
 ]
