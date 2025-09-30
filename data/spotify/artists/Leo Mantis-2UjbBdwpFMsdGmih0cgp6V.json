@@ -1,0 +1,96 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-30T18:27:10.874Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KALUSH",
+      "Leo Mantis"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f1d046cc76188ff3ac4c5f74",
+    "releaseDate": "2023-06-30",
+    "tags": [
+      "rap",
+      "soul",
+      "blues rock",
+      "ukranian"
+    ],
+    "title": "ХМАРИ (feat. Leo Mantis)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4e7oVYfz2etFccIJf9DTIU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-30T18:27:10.874Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Leo Mantis"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273812863c62e885050a03dd821",
+    "releaseDate": "2018-04-05",
+    "tags": [
+      "soul",
+      "blues rock",
+      "ukranian"
+    ],
+    "title": "Вільна",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3aJxIYlPj4vF4bNBomTa4N"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-30T18:27:10.874Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Leo Mantis"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732e670108eca765e43cac7d51",
+    "releaseDate": "2017-03-10",
+    "tags": [
+      "soul",
+      "blues rock",
+      "ukranian"
+    ],
+    "title": "Na So E Dey Dey",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6MDKSBMehvvCoffdYbhvWD"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-30T18:27:10.874Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Leo Mantis"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27363cd5fcc2e283ee159b42137",
+    "releaseDate": "2016-12-22",
+    "tags": [
+      "soul",
+      "blues rock",
+      "ukranian"
+    ],
+    "title": "Листи",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1bIFaO8o7eZIcxZVeSHNVy"
+  }
+]
