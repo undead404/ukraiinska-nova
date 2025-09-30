@@ -1,0 +1,62 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-30T13:26:31.272Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Just Name",
+      "Chillinwith"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27366889390a06395fdb2bfa755",
+    "releaseDate": "2022-01-31",
+    "tags": [
+      "rap"
+    ],
+    "title": "Місто",
+    "totalTracks": 14,
+    "type": "album",
+    "url": "https://open.spotify.com/album/39ugZh0GNemxPgiWRFoQt9"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-30T13:26:31.272Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Chillinwith"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273de0b3b6538a987e08c37c46c",
+    "releaseDate": "2020-06-02",
+    "tags": [],
+    "title": "Day",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6dGrQPL8LTtJQrUW5YI18i"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-30T13:26:31.272Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Chillinwith"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739ba9a968545be5df550abd0b",
+    "releaseDate": "2018-03-24",
+    "tags": [],
+    "title": "Tomf",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1BQBXdM6HPw1ctWaMjRp6H"
+  }
+]
