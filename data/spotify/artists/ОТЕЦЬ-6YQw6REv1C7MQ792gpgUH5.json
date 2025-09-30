@@ -271,5 +271,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2QbrGJaRFI95eHYFfddE8z"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-30T03:26:07.972Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ОТЕЦЬ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730f1fc86478b112e9d818977a",
+    "releaseDate": "2025-09-29",
+    "tags": [
+      "metal"
+    ],
+    "title": "Fin",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2ZQodvOR0pXrzEjUU3Zi8U"
   }
 ]
