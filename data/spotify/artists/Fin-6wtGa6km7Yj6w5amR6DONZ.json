@@ -1,0 +1,23 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-30T17:23:40.966Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Fin"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738700e9fdb61d04361a62c18f",
+    "releaseDate": "2021-08-01",
+    "tags": [
+      "black metal"
+    ],
+    "title": "Замок З Піску",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0pTVwKWdwL2nYqt6xISiLk"
+  }
+]
