@@ -1309,5 +1309,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ns02E1ihDnukekyhVUa1piFMakmBAgO_U"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-30T17:45:35.861Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Колін"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/BsY-pYpjKnZfvsuQ83pdy5fdpoxsn_DUTb77l2Odc40NJGP9Z2CXz1GscjQHO9ZlWUrNI7VttQAL4fkBHQ=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Лисиця",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k47xq3yhI4nZnEGkkJLPn3kppYNjWlDxA"
   }
 ]
