@@ -1857,5 +1857,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1SPGjphUWAjNKX310QSc9d"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-30T08:25:12.396Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "karmv"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738f8edb64fccadb42a987cb12",
+    "releaseDate": "2025-09-30",
+    "tags": [],
+    "title": "LONELY",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/71qnEUKLCop13BYmgwoeHC"
   }
 ]
