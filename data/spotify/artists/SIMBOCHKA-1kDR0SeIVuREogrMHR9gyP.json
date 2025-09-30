@@ -1,0 +1,84 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-30T16:25:30.646Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kalush Orchestra",
+      "SIMBOCHKA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737b921d9d95f5795be72d4a05",
+    "releaseDate": "2025-07-31",
+    "tags": [
+      "rap"
+    ],
+    "title": "Чому",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4sUoJAZwMYzK87F12artM6"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-30T16:25:30.646Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SIMBOCHKA"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736ee3fdc88cbb2252389accb6",
+    "releaseDate": "2023-12-08",
+    "tags": [],
+    "title": "твій голос",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6cNjB2MBidffZuDwGPwYa1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-30T16:25:30.646Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VERONIKA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27361f9f2b36cc6ff62ca6db29b",
+    "releaseDate": "2025-01-23",
+    "tags": [
+      "pop",
+      "techno"
+    ],
+    "title": "чекала більше року",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1GIUh9RFy1PBiR4GZ5cXj7"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-30T16:25:30.646Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SILIRADA"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f7afba478a2fc2f7d5c76ec5",
+    "releaseDate": "2025-02-25",
+    "tags": [],
+    "title": "Запах ладана",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6fABIooQdIOogWHgZrBuuY"
+  }
+]
