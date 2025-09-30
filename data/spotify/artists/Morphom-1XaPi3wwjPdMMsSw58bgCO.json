@@ -1814,5 +1814,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6uLNJZziForm5dFjn7GVTA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-30T22:24:18.482Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Morphom"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735d7984c25eb7eaee273cbff1",
+    "releaseDate": "2025-09-30",
+    "tags": [
+      "hip hop",
+      "indie pop"
+    ],
+    "title": "Мавка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4J2g6d9tLRyRpQYfb9Wea9"
   }
 ]
