@@ -1705,6 +1705,10 @@
       {
         "time": "2025-09-24T05:22:22.056Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-09-30T05:22:44.571Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1901,5 +1905,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/33JFwl77V9LJ2dug2tenkO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-30T05:22:44.572Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Nastya Kraynova",
+      "Andi Vax"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736d18208134156fd8e84e0504",
+    "releaseDate": "2016",
+    "tags": [
+      "electro house",
+      "House"
+    ],
+    "title": "Бешеные панды (Andi Vax Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2AuMklWAUwQq48npIgjGx6"
   }
 ]
