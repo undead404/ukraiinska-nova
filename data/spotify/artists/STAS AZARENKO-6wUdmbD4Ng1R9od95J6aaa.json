@@ -222,6 +222,10 @@
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-09-30T07:26:15.566Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1371,5 +1375,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7IqrhadfUYflSqUwciaDbM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-30T07:26:15.567Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "STAS AZARENKO",
+      "FRCGNG"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e91109ed0e7f36b472cb9055",
+    "releaseDate": "2025-01-24",
+    "tags": [
+      "rap"
+    ],
+    "title": "Кішка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4RLGFKXFiJhf4HC5ES0wn3"
   }
 ]
