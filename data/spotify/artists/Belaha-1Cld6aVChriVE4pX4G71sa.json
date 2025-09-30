@@ -1,0 +1,82 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-30T19:22:07.533Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Belaha",
+      "Jamala"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ba4bdf6a8491309d30d479b0",
+    "releaseDate": "2024-05-10",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
+    "title": "1944 (Jamala's song Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3hrojAsdGSv5rpO5x6zaJi"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-30T19:22:07.533Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Belaha"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273faec5f3ee9558636a232b7b3",
+    "releaseDate": "2015-05-14",
+    "tags": [],
+    "title": "Destiny",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6ZLuNNA6qVbWvCeqZnN8Ob"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-30T19:22:07.533Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Norman Shelest"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273af812c64421419f4fb9bf92a",
+    "releaseDate": "2020-05-15",
+    "tags": [],
+    "title": "Любов б'є",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6WYogE2z9QmPu40wxcHwi8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-30T19:22:07.533Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Various Artists"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273291f9e1af58e20b1e17af2b2",
+    "releaseDate": "2015-07-08",
+    "tags": [],
+    "title": "Monerhold White Spring 2015",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1M5QBe7ZoH9Zg4vwO5TYmC"
+  }
+]

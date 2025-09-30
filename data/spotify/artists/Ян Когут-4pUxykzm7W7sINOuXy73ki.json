@@ -1,0 +1,61 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-30T19:21:35.164Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KARYOTYPE",
+      "Ян Когут",
+      "на її основі"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739edb1a52e48329646f3ba71a",
+    "releaseDate": "2025-09-12",
+    "tags": [],
+    "title": "Знебарвлені думки",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4MmX8gTxyFDPr2MMAA9tfS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-30T19:21:35.164Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "на її основі"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273505d680dcab77237f0bf1bcf",
+    "releaseDate": "2025-08-22",
+    "tags": [],
+    "title": "КЕМП 2.0",
+    "totalTracks": 19,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4az2VmofKIkuN4VMFGJiDV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-30T19:21:35.164Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "на її основі"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734a288f0d19e78a8dd3a6b359",
+    "releaseDate": "2025-09-12",
+    "tags": [],
+    "title": "За її лаштунками, Vol. 3",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2MHxLMtc6pKp3KJxxv8ZIj"
+  }
+]
