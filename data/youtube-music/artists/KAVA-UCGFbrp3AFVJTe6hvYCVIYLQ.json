@@ -636,5 +636,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mMUXqrcKZmtNFlXVvqLUSEnyi49cBu_EI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T06:50:55.336Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KAVA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/rIbfSsPoLhSpi5Uuq9fP-n7XD3t42aSzqMak_pJiIwrl6hCqwYOWyh6B_-fJSzy8N0e0xwxgbrD0rIA6Gw=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "breakbeatz",
+      "Gugginger"
+    ],
+    "title": "Знову ніч",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mZHh4kHnoUsy9PaRyWpMCYiktrR6Ml4R8"
   }
 ]
