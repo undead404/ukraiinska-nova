@@ -1876,5 +1876,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/71qnEUKLCop13BYmgwoeHC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T08:25:12.399Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "karmv"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f765d2c74a249852bb5c2350",
+    "releaseDate": "2025-10-01",
+    "tags": [],
+    "title": "Днями буду п'яна я (BRE PETRUNKO)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/58smNSeZO8HgHKDdxlHPjZ"
   }
 ]
