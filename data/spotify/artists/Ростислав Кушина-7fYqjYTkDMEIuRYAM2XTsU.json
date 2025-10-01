@@ -152,5 +152,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6bT3aMRy9A2jAp8TwBD0RU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T11:20:57.175Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ростислав Кушина"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e2b3fafecb3ad6a3598b2a0f",
+    "releaseDate": "2025-10-01",
+    "tags": [],
+    "title": "Хвилина мовчання",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5lsYCuAnG0NokKYX5JAK32"
   }
 ]
