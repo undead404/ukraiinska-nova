@@ -1,0 +1,109 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T01:53:05.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NAIMES",
+      "BEREZA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c0f7fe51bc5733e285fa2c80",
+    "releaseDate": "2025-09-11",
+    "tags": [
+      "pop-rap"
+    ],
+    "title": "Актриса",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3X8z49sFVDVcUGr1gxL4gN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T01:53:05.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KALUSH",
+      "BEREZA"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737406e5a2ac86f709cd462bc4",
+    "releaseDate": "2025-08-14",
+    "tags": [
+      "rap"
+    ],
+    "title": "Бульбашки",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6Gs7Ng4VSlRLVCPKny66aN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T01:53:05.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KALUSH",
+      "BEREZA"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a9049e818fec8eae9add0477",
+    "releaseDate": "2025-05-15",
+    "tags": [
+      "rap"
+    ],
+    "title": "Парашут",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0RwdJkrDDdX1kVvHykfNcA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T01:53:05.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BEREZA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273170ef45b35bfe0f6c1eed4fc",
+    "releaseDate": "2025-03-20",
+    "tags": [],
+    "title": "Ти моя потреба",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/48RSjoRUYIN9kTVqTCjavp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T01:53:05.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KALUSH",
+      "BEREZA"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a4db27033adcf73a2dd0d34b",
+    "releaseDate": "2025-02-27",
+    "tags": [
+      "rap"
+    ],
+    "title": "Покохав",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1A4n2hkgquIqzerhj0pxr7"
+  }
+]

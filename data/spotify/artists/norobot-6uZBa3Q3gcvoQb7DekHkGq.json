@@ -1,0 +1,40 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T04:25:31.199Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "norobot"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b2bdeedd0a894d7a2d8fbe62",
+    "releaseDate": "2022-08-18",
+    "tags": [],
+    "title": "ДЕМОкратія",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3fg9Sv2oNrEhcU0iAubluG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T04:25:31.199Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "norobot"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27357f4508c3b80d0d67be0cb7f",
+    "releaseDate": "2022-08-11",
+    "tags": [],
+    "title": "Плями",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2TSxvCUnidJOd3C4Z8FMTd"
+  }
+]

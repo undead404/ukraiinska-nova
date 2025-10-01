@@ -1,0 +1,143 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T08:22:52.831Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Gerdan Theatre",
+      "Aniel Arin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734bb8ab2e641dd041bab7eddc",
+    "releaseDate": "2025-04-25",
+    "tags": [
+      "folk",
+      "traditional"
+    ],
+    "title": "По-за ночі (Версія)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3hx4Pxh7rXi6faOvdGGKIv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T08:22:52.831Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KAZKA",
+      "Aniel Arin"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739f159702257436ce4933ba64",
+    "releaseDate": "2025-03-28",
+    "tags": [
+      "pop",
+      "indie pop"
+    ],
+    "title": "Мушлі (Aniel Arin Remix)",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/34YPHzesRFNRwXEG27Tznz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T08:22:52.831Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Aniel Arin"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f7868f9cdcfbf7bc209a1ea4",
+    "releaseDate": "2024-09-06",
+    "tags": [],
+    "title": "The Moment",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6Ucumc9wDVtafadJyyx3uC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T08:22:52.831Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Aniel Arin"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369ba5eaa40b79655790a2de4",
+    "releaseDate": "2023-11-17",
+    "tags": [],
+    "title": "texture/color",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1P53i9AGUW6eor2uhn8kji"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T08:22:52.831Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Aniel Arin"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eca928a44e3335abfe611918",
+    "releaseDate": "2023-10-27",
+    "tags": [],
+    "title": "close/far",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/417uwf9kR3g0nHht1vPkyX"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T08:22:52.831Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Aniel Arin"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735fa2649f8fcc7916104537eb",
+    "releaseDate": "2023-09-08",
+    "tags": [],
+    "title": "Ivy",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/14thNBwmuP8ByClnuk2tWZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T08:22:52.831Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Aniel Arin"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737fc68583c5dc455b508298a7",
+    "releaseDate": "2023-07-28",
+    "tags": [],
+    "title": "Waves",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/36IarZVtQjM6lyil8mP7yq"
+  }
+]

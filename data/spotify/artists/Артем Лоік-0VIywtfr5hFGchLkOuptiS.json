@@ -1596,5 +1596,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/284GJFjXt525nQa3GufZMN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-30T19:19:32.980Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Artem Loik",
+      "Валерія Сокол"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737068d909f9920072342bfad0",
+    "releaseDate": "2025-09-30",
+    "tags": [],
+    "title": "Захищаю тебе",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5lvIP1jFhkbguhxHcBuFKg"
   }
 ]

@@ -1,0 +1,97 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T00:47:17.876Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SanYan",
+      "Aref",
+      "karmv"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734be0604e55a472770b1c7814",
+    "releaseDate": "2025-06-01",
+    "tags": [
+      "ambient",
+      "Iranian",
+      "noise"
+    ],
+    "title": "ХУЛІГАН (Karmv Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2DKQmLUPi8FN4cHwShFcEK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T00:47:17.876Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SanYan",
+      "Aref"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730c3932eba30ca5c0e995e351",
+    "releaseDate": "2025-05-02",
+    "tags": [
+      "ambient",
+      "Iranian",
+      "noise"
+    ],
+    "title": "Танець повільний",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0myNap95uPIyJmpTjk2wLy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T00:47:17.876Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SanYan"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fa17919b3ee6f034f09cfab3",
+    "releaseDate": "2025-01-10",
+    "tags": [
+      "ambient",
+      "noise"
+    ],
+    "title": "Падав сніг",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2JNp1yuVzHnIMWBWfG8GVn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T00:47:17.876Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SanYan",
+      "Aref"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cb4f7df05d78d25741f88974",
+    "releaseDate": "2024-12-27",
+    "tags": [
+      "ambient",
+      "Iranian",
+      "noise"
+    ],
+    "title": "Збережи",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6LQwUFkgQhN17L4RfLNFim"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-30T11:25:35.292Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Karoon",
+      "Roksolaniya"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27336ca4ae82eb91c2c0971828c",
+    "releaseDate": "2023-01-06",
+    "tags": [
+      "darkwave"
+    ],
+    "title": "Сидить Миколай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3jBA2EA372K6onwSjwoqxs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-30T11:25:35.292Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Karoon",
+      "Roksolaniya",
+      "Roland (UA)"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a8c924e76b27b0c2ab599c00",
+    "releaseDate": "2022-09-02",
+    "tags": [
+      "darkwave"
+    ],
+    "title": "Українська завзята (Roland UA Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4r76AUXygIwOXVbCxRYgsk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-30T11:25:35.292Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Karoon",
+      "Roksolaniya",
+      "Soundpill"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f1d55f357b5aea208ff6b5d",
+    "releaseDate": "2022-06-14",
+    "tags": [
+      "darkwave"
+    ],
+    "title": "Українська завзята (Soundpill Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2NDeK1KZdQoSbm8mD4Q8JM"
+  }
+]

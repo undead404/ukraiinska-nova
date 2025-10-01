@@ -1,0 +1,47 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T08:25:52.623Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "M1SHKA",
+      "MOSTOVA",
+      "Kelavra"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27366d102702615df557273a71f",
+    "releaseDate": "2023-03-10",
+    "tags": [
+      "hip hop",
+      "rap"
+    ],
+    "title": "Онлі Френдс",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6TBzg2untkQT7uPvfZ7xNK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T08:25:52.623Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Green House"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c986c5eb3f9e76d825c91769",
+    "releaseDate": "2022-11-25",
+    "tags": [
+      "underground hip-hop"
+    ],
+    "title": "Зелений альбом",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5ab7AysSLuWqn6eQUFlYap"
+  }
+]

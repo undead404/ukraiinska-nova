@@ -1,0 +1,24 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-30T23:24:58.007Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Marichka"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d34ce2c4629b6d89017b462b",
+    "releaseDate": "2024-04-30",
+    "tags": [
+      "Soundtrack",
+      "Gypsy"
+    ],
+    "title": "Сонечко",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0gLUTH0ZUENgGfalRCdUEE"
+  }
+]

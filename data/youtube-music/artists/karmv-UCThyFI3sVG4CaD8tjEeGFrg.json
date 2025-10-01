@@ -302,5 +302,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kcNsMnfXnfZrFL7hZRU0muWsyyhzGFg6k"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T04:47:25.641Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "karmv"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/LMWYAUnZ_shPjyDkTycFuv7IgbuvRhCRcscyhGGNg8qivcwYkwJs_BBjeK1pdtprrFsHCBSIA_O6715Grg=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Днями буду п'яна я (BRE PETRUNKO)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nKs8cGvWMdvwFC4s4rZSMvNf5jQQaukI4"
   }
 ]

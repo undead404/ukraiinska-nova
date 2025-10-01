@@ -1193,5 +1193,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1oQPl9ZDqabvHjVOxwSNmb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T03:32:58.012Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Анжеліка Рудницька"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fd733dc5cfec5ad8436a4e5a",
+    "releaseDate": "2025-09-30",
+    "tags": [
+      "pop"
+    ],
+    "title": "Червона рута",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6wX8I3EuUC2tL0xxfgglIG"
   }
 ]

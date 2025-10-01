@@ -1,0 +1,46 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-30T18:28:29.219Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KOZAK SIROMAHA",
+      "SIROMAG"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273937f7bba4d56d60ebbfb7553",
+    "releaseDate": "2025-09-25",
+    "tags": [
+      "folk"
+    ],
+    "title": "Утопія",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5w2zXC21lw0a7fQHUh19OV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-09-30T18:28:29.219Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KOZAK SIROMAHA",
+      "SIROMAG"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273695906c8beaaf66849e9bbab",
+    "releaseDate": "2025-08-27",
+    "tags": [
+      "folk"
+    ],
+    "title": "Нормально",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3aUP6QoTa0us1U1z4j47PM"
+  }
+]

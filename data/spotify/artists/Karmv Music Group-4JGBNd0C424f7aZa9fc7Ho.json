@@ -1,0 +1,44 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T02:50:44.852Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "kavabanga Depo kolibri",
+      "Karmv Music Group"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d1a87d8efefc2d9fdf19f053",
+    "releaseDate": "2025-07-15",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Сон (karmv remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2gYpJcciQZRDMDbG7kjvrC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T02:50:44.852Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "karmv",
+      "Karmv Music Group"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cee03ea17ddc48b9c825a2c7",
+    "releaseDate": "2024-04-29",
+    "tags": [],
+    "title": "Квіти у волоссі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1jwnQWYXgFJ2GfRW2cujJ3"
+  }
+]
