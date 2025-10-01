@@ -439,5 +439,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mo-DfP_79oQJUlUgpXfFzVJkl0EApgH9E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T04:46:36.522Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Мія Рамарі"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/5XhY7cPSM8iF2rIQQ8VWIkYe1YlAYOhXSlCDoDuSzV7mPSUAANIlkDj0LBPV9dc2q63T7nGOrjZGZFE=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Не знаю",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lUijGyhwoFlA6_U0d7ddIjCBIPpctqydY"
   }
 ]
