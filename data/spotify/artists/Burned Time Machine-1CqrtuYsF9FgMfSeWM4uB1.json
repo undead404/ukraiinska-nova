@@ -641,5 +641,27 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/6GpCPBpdkdVWXBpuBrFgAp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T19:22:18.479Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Burned Time Machine"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e9c84ceb50afbfb8daf6980c",
+    "releaseDate": "2025-10-01",
+    "tags": [
+      "metal",
+      "metalcore"
+    ],
+    "title": "Sublimation (Deluxe Edition)",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/18c7EgbePsRKA1xsR5jL3K"
   }
 ]

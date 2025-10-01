@@ -1,0 +1,23 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T19:25:32.550Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Roman Ramus",
+      "DENNYMO",
+      "Levyy MC"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a67b3dbb20fc6067111aa488",
+    "releaseDate": "2021-12-29",
+    "tags": [],
+    "title": "Басу",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0FlHhRjRb7C3wyW2ewpIQm"
+  }
+]

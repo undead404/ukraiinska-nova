@@ -789,12 +789,16 @@
       {
         "time": "2025-09-26T19:21:44.332Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-10-01T19:22:06.650Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Homero Espinosa"
     ],
-    "artistsPopularity": 32,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273961496fc505b4b8d226d3012",
     "releaseDate": "2021-11-12",
     "tags": [
