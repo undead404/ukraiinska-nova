@@ -157,5 +157,24 @@
     "totalTracks": 15,
     "type": "album",
     "url": "https://open.spotify.com/album/55zzcSPXEYRzWDHixaDPMU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T02:47:26.195Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Два Два Дев'ять"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734700864e23c676bb813de71d",
+    "releaseDate": "2022",
+    "tags": [],
+    "title": "Бест Оф Зе Бест",
+    "totalTracks": 29,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5gMsUgxPjMO45AtFjKdWL2"
   }
 ]

@@ -1293,5 +1293,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6sD5H0BWe2ASqxXVTtbYSC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T02:48:12.822Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Колін"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735dc4eb03dec5e603b86bf215",
+    "releaseDate": "2025-09-30",
+    "tags": [],
+    "title": "Лисиця",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3ahSIv56iPPuxxEXOkDll7"
   }
 ]
