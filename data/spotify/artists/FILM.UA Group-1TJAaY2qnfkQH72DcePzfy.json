@@ -1,0 +1,24 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T21:22:22.233Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Leléka",
+      "FILM.UA Group"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739a13f610f4aebc477bfcc712",
+    "releaseDate": "2020-10-16",
+    "tags": [
+      "jazz"
+    ],
+    "title": "І будуть люди - LELÉKA",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3aNII7ln6UNAfKJLNgIdKE"
+  }
+]
