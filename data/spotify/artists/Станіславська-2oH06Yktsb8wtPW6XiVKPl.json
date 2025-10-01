@@ -1,0 +1,62 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T07:20:49.539Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Станіславська"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273842513719ed2c819cb6a796c",
+    "releaseDate": "2024-02-09",
+    "tags": [],
+    "title": "Відпускаю",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5Z1DnIc8fDPUY8GOmA3nm6"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T07:20:49.539Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Станіславська"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e22aa7830c36eaa74bae00f4",
+    "releaseDate": "2023-09-22",
+    "tags": [],
+    "title": "Грай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6qmGwuZJ6WJJve8h0pdrBO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T07:20:49.539Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KALUSH",
+      "Станіславська"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738276fa7d356ce7c87946f277",
+    "releaseDate": "2021-03-26",
+    "tags": [
+      "rap"
+    ],
+    "title": "Пірнаю (feat. Станіславська)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4PGK8R2oCPuTrk0U8RlPfp"
+  }
+]
