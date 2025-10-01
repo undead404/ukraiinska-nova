@@ -1,0 +1,88 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T18:27:48.682Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Anna Kindzerska",
+      "Oleksandr Kasprov"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733b27f89feed30095a70dbba9",
+    "releaseDate": "2024-06-14",
+    "tags": [],
+    "title": "Мости",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3ihsMTw22SFik3vvofQotd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T18:27:48.682Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Laura Marti",
+      "Oleksandr Kasprov",
+      "Olha Chernyshova",
+      "J Scope"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733b8bf17948ff95c874dfc20e",
+    "releaseDate": "2023-02-24",
+    "tags": [
+      "jazz"
+    ],
+    "title": "Mriya",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4X9DGPG0vCp2ZB1OQRmpwI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T18:27:48.682Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Laura Marti",
+      "Oleksandr Kasprov"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737f9fe2b073364bd7900cd270",
+    "releaseDate": "2023-01-27",
+    "tags": [
+      "jazz"
+    ],
+    "title": "Love Will Save the World",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7KZrS5opWj2bvqVTtuOocH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T18:27:48.682Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Anna Kindzerska",
+      "Oleksandr Kasprov"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27300ecaef23e96a8b595a668a9",
+    "releaseDate": "2023-01-12",
+    "tags": [],
+    "title": "Не втрачай в собі дитину",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1MsPki2Cdm4zjgVprsIrqi"
+  }
+]
