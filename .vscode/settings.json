@@ -1,4 +1,7 @@
 {
+  "[csv]": {
+    "github.copilot.nextEditSuggestions.enabled": false // now is deprecated
+  },
   "[dotenv]": {
     "editor.defaultFormatter": "foxundermoon.shell-format"
   },
@@ -53,6 +56,10 @@
     "javascript.mjs",
     "javascript.cjs"
   ],
+  "github.copilot.enable": {
+    "csv": false,
+    "txt": false
+  },
   "npm.packageManager": "pnpm",
   "search.exclude": {
     "**/dist": true,
