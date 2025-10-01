@@ -1,0 +1,68 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T04:20:28.612Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Андріана",
+      "5ROCK"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e6e0937a3ad7b32514693ce3",
+    "releaseDate": "2025-05-21",
+    "tags": [
+      "pop"
+    ],
+    "title": "Лети (5Rocr Rmx)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3p4LAZKr2cRRK6ZsYX0WBr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T04:20:28.612Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Андріана",
+      "5ROCK"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f0ca18460340fb069cd9ad5a",
+    "releaseDate": "2025-01-30",
+    "tags": [
+      "pop"
+    ],
+    "title": "Снігопадом (5Rock Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3kMomDjeIBsmV1snWLzrSI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T04:20:28.612Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Андріана",
+      "5ROCK"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730f49137ce75d14b836f60cd9",
+    "releaseDate": "2024-11-29",
+    "tags": [
+      "pop"
+    ],
+    "title": "Зорі падали (5Rock Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/546QA5L7NqRVCnPy1YwyxJ"
+  }
+]
