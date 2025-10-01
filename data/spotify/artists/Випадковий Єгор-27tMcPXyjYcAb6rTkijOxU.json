@@ -1,0 +1,27 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T06:21:22.906Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "XXV кадр",
+      "Випадковий Єгор",
+      "Kelavra"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d4ef63c519c7965e034f6d48",
+    "releaseDate": "2022-08-26",
+    "tags": [
+      "hip hop",
+      "rap",
+      "Hip-Hop"
+    ],
+    "title": "Молодий Сковорода",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/45eVlLuvwIjOB7aeflpDim"
+  }
+]
