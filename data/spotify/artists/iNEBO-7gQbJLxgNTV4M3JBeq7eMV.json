@@ -929,5 +929,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/601uV3KHk0QaEsLaL2YYBD"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T15:24:17.466Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "iNEBO"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27368cfc565ac3c2fb86f967e94",
+    "releaseDate": "2025-10-02",
+    "tags": [],
+    "title": "Реве та стогне Дніпр широкий",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6TGQwcgHZLq12OQlRBiuNM"
   }
 ]
