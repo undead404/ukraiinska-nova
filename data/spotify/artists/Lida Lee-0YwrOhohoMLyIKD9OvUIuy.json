@@ -390,5 +390,26 @@
     "totalTracks": 28,
     "type": "album",
     "url": "https://open.spotify.com/album/6fZKXui3qION7I0n2dFDyG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T05:23:48.978Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lida Lee"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b948ed36a74259999b5ff4c5",
+    "releaseDate": "2025-10-02",
+    "tags": [
+      "rnb"
+    ],
+    "title": "Літай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/26eV54Mg2rEa8nNZKWBl4Y"
   }
 ]
