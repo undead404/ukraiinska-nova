@@ -784,5 +784,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0HV5rzFt5dwj4rST2drH9Q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T23:24:30.880Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ian Chung"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d551c406a09dae0fd3e4c8ea",
+    "releaseDate": "2025-10-02",
+    "tags": [],
+    "title": "You",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/03OjuqQq8JkTfdiX8I7kEJ"
   }
 ]
