@@ -488,5 +488,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1soMmW2q0KEXrjxxs93pYp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T20:23:23.667Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Юля Юріна",
+      "BADWOR7H"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735abb4fd68aabbefeacd36ee6",
+    "releaseDate": "2025-10-02",
+    "tags": [
+      "electronic",
+      "folk",
+      "breakbeat"
+    ],
+    "title": "Многая літа",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/32BE4EaSBfk5McC9Z9SKAE"
   }
 ]
