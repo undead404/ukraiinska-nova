@@ -1,0 +1,67 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T07:24:31.660Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "LATEXFAUNA",
+      "Vadim Shuttle",
+      "Osvit"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a7ccdce292d1d94ace1fbc64",
+    "releaseDate": "2017-12-20",
+    "tags": [
+      "funk",
+      "techno",
+      "bongos"
+    ],
+    "title": "Surfer (Osshu aka Vadim Shuttle & Osvit Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0ZOzfFeJQRur1oEJFSgZmU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T07:24:31.660Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "LATEXFAUNA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f048ee3d3998340d328f8015",
+    "releaseDate": "2018-05-11",
+    "tags": [
+      "funk"
+    ],
+    "title": "Ajahuaska",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0bc98Rgl6H71m7LfCQgN6i"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T07:24:31.660Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Minube"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e4f420651c727a6b0a4e080a",
+    "releaseDate": "2025-06-18",
+    "tags": [],
+    "title": "Flip EP",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3182IaflQRNln3IcUAFJTo"
+  }
+]
