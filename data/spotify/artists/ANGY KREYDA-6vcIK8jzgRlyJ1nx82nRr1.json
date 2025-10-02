@@ -809,5 +809,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/35FWW1sLxlikm3zJvmZBkv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T12:25:01.920Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ANGY KREYDA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c955b11fe2a3b97a9603bd1f",
+    "releaseDate": "2025-10-01",
+    "tags": [
+      "pop"
+    ],
+    "title": "ANGY KREYDA",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2UZNr5CxweHjPYv2XHUdCw"
   }
 ]
