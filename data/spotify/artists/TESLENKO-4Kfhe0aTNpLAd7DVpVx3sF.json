@@ -1081,5 +1081,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0LxWZ7JQuw2tr8dO67RxV8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T08:27:04.094Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TESLENKO"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cde2ead6293090981427b626",
+    "releaseDate": "2025-10-02",
+    "tags": [
+      "pop",
+      "Vidbir 2024 long-list"
+    ],
+    "title": "Компасом",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2gRWC5B23A8zbDBsZa5SF6"
   }
 ]
