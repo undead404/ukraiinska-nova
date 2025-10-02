@@ -20,5 +20,27 @@
     "totalTracks": 10,
     "type": "album",
     "url": "https://open.spotify.com/album/0tDSRc6ggY4KtDUAMZArPt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T00:41:12.216Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Stryvigor"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a521f5bc1b997008ea23e270",
+    "releaseDate": "2014-09-13",
+    "tags": [
+      "black metal",
+      "atmospheric black metal"
+    ],
+    "title": "Forgotten by Ages",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3nOO1ZiF8OJ80lJVyPhh7J"
   }
 ]

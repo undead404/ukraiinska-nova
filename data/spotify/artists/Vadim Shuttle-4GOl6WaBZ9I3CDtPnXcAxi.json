@@ -1,0 +1,105 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T00:42:12.917Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vadim Shuttle",
+      "Profundo",
+      "Gomes",
+      "Dani Corbalan"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a73aaacd60ba182194e6712c",
+    "releaseDate": "2014-08-22",
+    "tags": [
+      "pop",
+      "spanish"
+    ],
+    "title": "Beach House Mjuzieek - Volumen Cuatro - Sampler 2",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3Wps1FPuYD4JTASF1Ia37s"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T00:42:12.917Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vadim Shuttle"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aa39cca2068ed2b20895d93b",
+    "releaseDate": "2012-02-14",
+    "tags": [],
+    "title": "Twisted EP",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5aCFfEXanNTQDmkFQiCxVb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T00:42:12.917Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vadim Shuttle"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273caaed84a3d30f39aba982fa0",
+    "releaseDate": "2010-09-01",
+    "tags": [],
+    "title": "Come On!",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0Nl2Wcy3F0krGdiJ2jHyBP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T00:42:12.917Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vadim Shuttle"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27356331c79a74a1645706fc90b",
+    "releaseDate": "2010-04-04",
+    "tags": [],
+    "title": "Black Tunnel",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4kRtya7pSbwXbAMBJjOTzw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T00:42:12.917Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "My Digital Enemy"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273307a97c45cde8d112fce9899",
+    "releaseDate": "2011-03-29",
+    "tags": [
+      "House"
+    ],
+    "title": "Fallen Angel",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/48D7cs0am4LpeOYo4IpdWB"
+  }
+]

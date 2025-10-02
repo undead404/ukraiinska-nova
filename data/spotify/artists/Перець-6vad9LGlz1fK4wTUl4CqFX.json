@@ -1,0 +1,53 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T21:21:23.087Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Дискурс",
+      "Перець",
+      "LYKHO"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f918e77b18194420e03e35f4",
+    "releaseDate": "2024-10-11",
+    "tags": [
+      "Garage Punk",
+      "Garage Rock",
+      "post-punk",
+      "indie pop",
+      "indie rock"
+    ],
+    "title": "Комахи",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5ggGH76vJ2rnFBoiaFX0iS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T21:21:23.087Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Перець"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737461daded2ca5f96953c1325",
+    "releaseDate": "2023-12-08",
+    "tags": [
+      "Garage Punk",
+      "Garage Rock",
+      "indie pop",
+      "indie rock"
+    ],
+    "title": "Де у цьому ти?",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5i8I2onKfjrGRRjWczIblB"
+  }
+]

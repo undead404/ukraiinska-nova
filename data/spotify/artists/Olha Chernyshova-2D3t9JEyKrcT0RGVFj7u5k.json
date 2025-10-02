@@ -1,0 +1,26 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T18:27:57.088Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Laura Marti",
+      "Oleksandr Kasprov",
+      "Olha Chernyshova",
+      "J Scope"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733b8bf17948ff95c874dfc20e",
+    "releaseDate": "2023-02-24",
+    "tags": [
+      "jazz"
+    ],
+    "title": "Mriya",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4X9DGPG0vCp2ZB1OQRmpwI"
+  }
+]

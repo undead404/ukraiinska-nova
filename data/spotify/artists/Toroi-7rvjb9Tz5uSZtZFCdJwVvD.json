@@ -1,0 +1,62 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T01:55:38.336Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Toroi"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273024b38c7420fc134671d4860",
+    "releaseDate": "2022-04-15",
+    "tags": [],
+    "title": "Go F Yourself",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/72bmizU7ggbo8O4SwiNYtx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T01:55:38.336Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "LATEXFAUNA",
+      "Toroi"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a0b100f62bb79e6aa478313d",
+    "releaseDate": "2021-06-18",
+    "tags": [
+      "funk"
+    ],
+    "title": "Bounty (Toroi Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5DKOfw4uZyehS49tiWA0xh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T01:55:38.336Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Toroi"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732c60f55839bab4c6e19b1908",
+    "releaseDate": "2019-11-02",
+    "tags": [],
+    "title": "Win Win",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1CJy4UeXhb1Q0lpa0Vl34e"
+  }
+]

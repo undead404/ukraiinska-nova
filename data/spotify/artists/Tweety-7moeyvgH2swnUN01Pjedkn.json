@@ -1,0 +1,25 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T04:26:39.425Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Levyy MC",
+      "Tweety"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273408706c8a370156c95b4e47e",
+    "releaseDate": "2022-06-17",
+    "tags": [
+      "k-pop",
+      "pop"
+    ],
+    "title": "Хатина",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/007TOtlJHkq3PXhqCyd1wK"
+  }
+]

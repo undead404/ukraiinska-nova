@@ -1,0 +1,24 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T19:23:38.689Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Leléka",
+      "Maksym Berezhniuk"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a18ccc6021be4685283784a6",
+    "releaseDate": "2023-10-27",
+    "tags": [
+      "jazz"
+    ],
+    "title": "Bil'",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0s1RgsHJktdqd6l9d3oqMY"
+  }
+]

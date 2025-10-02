@@ -1,0 +1,133 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T03:27:46.581Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Jasmine319",
+      "Lizzzard",
+      "Lui007"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ebc10b79b6ae5101e3c54ec8",
+    "releaseDate": "2020-12-25",
+    "tags": [
+      "rap",
+      "zhyvchyk"
+    ],
+    "title": "Мольфари",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7M7R3gnkjWM9sfL5s9W3xz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T03:27:46.581Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lizzzard"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273455204fe81b3ca4c73a83d4b",
+    "releaseDate": "2021-07-23",
+    "tags": [
+      "rap",
+      "zhyvchyk"
+    ],
+    "title": "Живчик",
+    "totalTracks": 14,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1IZyrbV1hgVwpWJ4yV2S1W"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T03:27:46.581Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kayuk"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273855aa883b4fa19b795e299b8",
+    "releaseDate": "2023-12-22",
+    "tags": [],
+    "title": "Legend",
+    "totalTracks": 14,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5DlQdaia4tYQspGE493T2B"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T03:27:46.581Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lizzzard"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ded72f79bc76a3644a1f1d71",
+    "releaseDate": "2020-09-18",
+    "tags": [
+      "rap",
+      "zhyvchyk"
+    ],
+    "title": "BABKA",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5TriHJgnjihKIxHfqoJEyJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T03:27:46.581Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lizzzard"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273367284fde8f353310edd3120",
+    "releaseDate": "2021-12-24",
+    "tags": [
+      "rap",
+      "zhyvchyk"
+    ],
+    "title": "Promenade",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5OGQeFvViyo4sEzCSiSQlC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T03:27:46.581Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lizzzard"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730c09bf0f04d8c52b71bd1260",
+    "releaseDate": "2022-07-24",
+    "tags": [
+      "rap",
+      "zhyvchyk"
+    ],
+    "title": "808Gloria Family Interlude",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7cc74S1aaDxv0HJ4V5Ddsn"
+  }
+]

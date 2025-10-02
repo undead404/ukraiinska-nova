@@ -737,5 +737,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/209ux9NWkObztiXTb5s9c2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T05:21:37.286Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alena Omargalieva",
+      "MamaRika"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f0298e0e54aa0268f8501dc",
+    "releaseDate": "2025-10-01",
+    "tags": [
+      "pop"
+    ],
+    "title": "Не ходи",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3LYf26FM7A3VyzNHdWWpXv"
   }
 ]

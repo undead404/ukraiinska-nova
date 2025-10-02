@@ -1,0 +1,53 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T07:24:33.494Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Libenson",
+      "Nadeen",
+      "Reborn"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27337c06f1822e75f6d91a92f3d",
+    "releaseDate": "2025-08-08",
+    "tags": [
+      "Drum and bass",
+      "folk",
+      "pop",
+      "rnb",
+      "alternative rnb",
+      "neofolk"
+    ],
+    "title": "5 секунд",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0Uw7h2Zdf6vFioalrX4ddR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T07:24:33.494Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Reborn"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ba97ad4b1c5c40af52bea593",
+    "releaseDate": "2024-12-13",
+    "tags": [
+      "Drum and bass",
+      "folk",
+      "neofolk"
+    ],
+    "title": "044",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5gi8DdnoT5sslGmsykIp1n"
+  }
+]

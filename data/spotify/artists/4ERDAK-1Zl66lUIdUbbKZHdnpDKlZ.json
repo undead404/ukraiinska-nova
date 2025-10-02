@@ -836,5 +836,24 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/2dxf0039SU14V6Ff2v1Csb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T06:21:23.642Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Fanke"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737de1521fbdd86edd3fb0134b",
+    "releaseDate": "2024-06-07",
+    "tags": [],
+    "title": "Laika",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/25qgqkgdEEwh2wKR4Nzg15"
   }
 ]

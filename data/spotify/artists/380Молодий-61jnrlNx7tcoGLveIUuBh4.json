@@ -1,0 +1,106 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T17:19:43.197Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "380Молодий",
+      "Lizzzard"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f32ed7648b2b5dc2c57cfcb3",
+    "releaseDate": "2023-08-18",
+    "tags": [
+      "rap",
+      "zhyvchyk"
+    ],
+    "title": "GORILKA",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0pd6R45fFKvwCBUeYDZYGF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T17:19:43.197Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lizzzard",
+      "380Молодий"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27388d1a6c0f49496611702a9e9",
+    "releaseDate": "2023-07-14",
+    "tags": [
+      "rap",
+      "zhyvchyk"
+    ],
+    "title": "ПЕРЕЛОМ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7u8GFKiWBxKTmTHtVrqsvd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T17:19:43.197Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "LEX Pun Intended",
+      "380Молодий"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730561e2d468621fed559bbadc",
+    "releaseDate": "2023-01-09",
+    "tags": [],
+    "title": "Leanь",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7BkzXTVrHSlC1oPTuDIQO2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T17:19:43.197Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "380Молодий"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fd91a14597cac10470bc2bc7",
+    "releaseDate": "2022-07-27",
+    "tags": [],
+    "title": "London",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7Kidbt16snEbkW8NabxORr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-01T17:19:43.197Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "380Молодий"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e24281234d9e43df40153a76",
+    "releaseDate": "2022-06-10",
+    "tags": [],
+    "title": "Стриманий",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1gUzeqKqRz5ViiINWknB95"
+  }
+]
