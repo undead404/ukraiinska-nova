@@ -312,5 +312,53 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/67HoMeNQG66Ssjsz0D5E8B"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T00:35:31.692Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Група Корба"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739e2303da44f32a954de24fa1",
+    "releaseDate": "2022-12-13",
+    "tags": [
+      "alternative rock",
+      "post-grunge",
+      "indie rock",
+      "punk rock"
+    ],
+    "title": "Туман",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4RrRYfqNm4pjnsygBH6z7U"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T00:35:31.692Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Група Корба"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273364cc2998274996d1d809e4b",
+    "releaseDate": "2022-11-01",
+    "tags": [
+      "alternative rock",
+      "post-grunge",
+      "indie rock",
+      "punk rock"
+    ],
+    "title": "Неук",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1enYzZdvCOV9e1B108SCLn"
   }
 ]
