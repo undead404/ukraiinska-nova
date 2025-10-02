@@ -334,5 +334,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_neAHhbXiWIoP6YHfqmu5mz3Fmj09M-XvQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T11:46:29.638Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lida Lee"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/ncqlOB-uHvy_mmIbJQjhys2fvtjlirYGb2jPLLQrAYN6gspK-G24uRKdB-z8SEa6rt_llXdjxz7owdja=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rnb"
+    ],
+    "title": "Літай",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nRmPJxMvTHsDu2qqL_HRpu3LyskCyaZ8Q"
   }
 ]
