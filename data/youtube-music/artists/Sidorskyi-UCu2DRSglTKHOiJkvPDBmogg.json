@@ -207,5 +207,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kPXTSVCi6Lqfdt6OwGuNBVTCgd-3wZ5OQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T05:47:46.108Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sidorskyi"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/dhROJCxjkaMQ2fypjkuLo01wbGk0f7d8OO6IYcrexqPoJyVpWyM-3umuS0kQRrE8lkaoJ5mqx-D_M2_9Rg=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Осінні спіралі (feat. ЧервоноЧорний)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lwAyKrOts7RJXSeW0Zk3ZP9FeWrIenj4o"
   }
 ]
