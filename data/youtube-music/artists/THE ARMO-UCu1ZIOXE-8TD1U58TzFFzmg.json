@@ -412,5 +412,28 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mJjTBWyoWYVkri8qZcEhYXtKkxFd2B2nE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T11:46:54.312Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "THE ARMO"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/rjhdZb2zaPAhItNoxLTvPyYH9hcREoWXldKqZs4w5syqNTul7E3MpUMffKGfmoAasZSVy4LT6AXUP2I-=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop",
+      "pop rock",
+      "hyperpop"
+    ],
+    "title": "Я номер 2",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kX15GA5YyamPKOhDiXsDaOnbwgx785dDg"
   }
 ]
