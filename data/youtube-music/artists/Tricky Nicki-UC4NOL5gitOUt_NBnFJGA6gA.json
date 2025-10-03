@@ -814,5 +814,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kMWjNTZCm4T3oVw79vTStnAeL46BHN11E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T22:47:25.318Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Tricky Nicki"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/cOYNO_-lAW43rKH58PwnFfsDkeOpL1bjmnHYy-Bi5LXaBbopc0e9x0GC0OQJ8lZumMwGNPD9C22KyzcAAw=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap",
+      "Hip-Hop"
+    ],
+    "title": "Who want smoke?",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kAIQhxpuj5NYf6dt0oIIZHnYihICmg850"
   }
 ]
