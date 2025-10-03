@@ -346,5 +346,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0eaoch58NFzTbZt9KRwurk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T06:26:14.139Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Teddy Trapped"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f18d495abbe3834c3e085d6",
+    "releaseDate": "2025-10-03",
+    "tags": [],
+    "title": "Альтернативна вечірка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6HbazUp4aTEUi8N3HHRuIL"
   }
 ]
