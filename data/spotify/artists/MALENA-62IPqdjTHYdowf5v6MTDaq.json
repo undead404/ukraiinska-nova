@@ -152,5 +152,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1bFYG0iaqBoMk7Xe6TGLGG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T09:23:24.054Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Velunova"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273faeb1cdbc380d577dcefbd47",
+    "releaseDate": "2025-10-03",
+    "tags": [],
+    "title": "BEZMEZHNO",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2J9ZolkXGK3VcNCaDzwQJh"
   }
 ]

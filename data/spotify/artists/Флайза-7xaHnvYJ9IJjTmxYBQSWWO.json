@@ -369,5 +369,27 @@
     "totalTracks": 18,
     "type": "album",
     "url": "https://open.spotify.com/album/1msWufo6XtLuIv8zna4s3H"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T14:21:07.462Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Флайза"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737f7fa7c1e433ede81dac1d86",
+    "releaseDate": "2025-10-02",
+    "tags": [
+      "reggae",
+      "ska"
+    ],
+    "title": "ФЛАЙЗА В РЕМІКСАХ. Невидане раніше.",
+    "totalTracks": 19,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0RR2FDfpekOhB00taAd1hk"
   }
 ]

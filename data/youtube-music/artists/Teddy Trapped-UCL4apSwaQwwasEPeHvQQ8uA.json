@@ -321,5 +321,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_liCtQpeH6_2bJTPfBzo84ON8yf20ZiFEU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T19:46:17.677Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Teddy Trapped"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/eWdj8zI38n_fkocvzahDtBg_Wj6amFRETPYfbLI4by-H8zuA741BrcELpc5s5F_qYcbqRLXNpcwTjJ4=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Альтернативна вечірка",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m5BI7Q3uSRDlyp9g5ytecJdH_5nr1a-hg"
   }
 ]

@@ -793,6 +793,10 @@
       {
         "time": "2025-10-01T19:22:06.650Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-03T19:22:15.337Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -829,5 +833,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4q4W0axKHyVNci0umlwUIW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T19:22:15.337Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Boombox"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273249b5179de8841faf17a4bd3",
+    "releaseDate": "1986-01-01",
+    "tags": [
+      "funk",
+      "Hip-Hop"
+    ],
+    "title": "Killing Love (Remastered)",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5fxM8ul0pLn7ZQ0UZlM99i"
   }
 ]

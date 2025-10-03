@@ -555,5 +555,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1ewfqrSXstEIYWkuA5ZWHL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T13:26:37.031Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MOLODOY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737e03dcc3aa5cb1bb00b76c8f",
+    "releaseDate": "2025-10-03",
+    "tags": [
+      "rap"
+    ],
+    "title": "Доза",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5d8jV5IpUXa7lGV73m5kej"
   }
 ]

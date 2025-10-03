@@ -307,5 +307,25 @@
     "totalTracks": 7,
     "type": "album",
     "url": "https://open.spotify.com/album/6AFtV6zqcVsZqjoS4bZsCR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T11:24:51.347Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Olivan",
+      "Lirusha"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fa6dea3c2594468d0d91aee3",
+    "releaseDate": "2025-10-03",
+    "tags": [],
+    "title": "Квартира",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2vDU05tRfoIfUIehEhdHvF"
   }
 ]

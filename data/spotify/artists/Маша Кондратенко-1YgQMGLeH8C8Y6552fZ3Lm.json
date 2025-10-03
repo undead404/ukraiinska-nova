@@ -532,5 +532,27 @@
     "totalTracks": 9,
     "type": "album",
     "url": "https://open.spotify.com/album/23mMnEAHqiMyeod0V1EA5a"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T11:20:07.230Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Маша Кондратенко",
+      "Міша Крупін"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d920f33fe3dda2aa543134b7",
+    "releaseDate": "2025-10-03",
+    "tags": [
+      "pop"
+    ],
+    "title": "мадам",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0GM5h6BNoQm6garAtev6ZC"
   }
 ]

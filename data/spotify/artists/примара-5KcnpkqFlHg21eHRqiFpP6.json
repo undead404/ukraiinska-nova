@@ -1350,5 +1350,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6IFmQB2ID5zGnTmozbAybF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T13:23:28.038Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "примара"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e883917bbf80e185a095ee18",
+    "releaseDate": "2025-10-03",
+    "tags": [
+      "rap",
+      "phonk"
+    ],
+    "title": "EauDeVie",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4C2oEj5SxmNISrSF8t426E"
   }
 ]

@@ -674,5 +674,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7d6NKKBt231yjo4Si8wq4z"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T19:25:06.211Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Patsyki Z Franeka"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27399e5fb5574105bcd1f1f579c",
+    "releaseDate": "2025-10-03",
+    "tags": [
+      "pop"
+    ],
+    "title": "Серце",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0IhuBgspYIfP1yTgzCAGTr"
   }
 ]

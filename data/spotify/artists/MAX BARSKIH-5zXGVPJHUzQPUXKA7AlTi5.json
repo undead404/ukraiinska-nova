@@ -1763,5 +1763,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6DPgv4tEq94XScj0MrJbgH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T08:24:58.756Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MAX BARSKIH"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273650d85de46e4469e5264232a",
+    "releaseDate": "2025-10-03",
+    "tags": [
+      "pop"
+    ],
+    "title": "Кохай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/05uJu8vnUDWhbiyL0IVBUd"
   }
 ]

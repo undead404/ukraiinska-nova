@@ -357,5 +357,26 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/4oqIGlexnFC4itANsBPbfV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T09:23:47.348Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Omut"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27385959f8c875252655d1df5dc",
+    "releaseDate": "2025-10-03",
+    "tags": [
+      "folk metal"
+    ],
+    "title": "Речовина",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1vZ3o0BHAPMcPz61hTbooM"
   }
 ]

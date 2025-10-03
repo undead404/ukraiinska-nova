@@ -256,5 +256,27 @@
     "totalTracks": 32,
     "type": "album",
     "url": "https://open.spotify.com/album/5gBKxnzXdF8eR8M5yos90c"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T17:25:25.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Phil It"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730f7c0d1d2fdfc31cbdfab069",
+    "releaseDate": "2025-10-03",
+    "tags": [
+      "electronic",
+      "electropop"
+    ],
+    "title": "Пірнаю",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2JfCISFgwJ4jlfn7LCv1YF"
   }
 ]

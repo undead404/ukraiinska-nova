@@ -161,5 +161,27 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/5ZakTKIa6878133FPqgneT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T11:24:31.093Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NOSIK",
+      "MIRABLVCK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369f26000370cb0ebd6972f06",
+    "releaseDate": "2025-10-03",
+    "tags": [
+      "metal"
+    ],
+    "title": "(напів)розпад",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/55whUaveh05gJ1WhLBxirA"
   }
 ]

@@ -237,5 +237,24 @@
     "totalTracks": 7,
     "type": "album",
     "url": "https://open.spotify.com/album/3338qkCi4Tu3iIqdbGOd22"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T08:25:31.969Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "REDENGY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273293ac40b571b4089f47be863",
+    "releaseDate": "2025-10-03",
+    "tags": [],
+    "title": "нс",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5d2LF31GkKC77zT7lfSLVv"
   }
 ]

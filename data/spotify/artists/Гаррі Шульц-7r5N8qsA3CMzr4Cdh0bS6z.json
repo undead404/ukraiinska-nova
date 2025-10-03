@@ -322,5 +322,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5gUXe6YS9N57hCukyeMNnO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T18:21:20.504Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гаррі Шульц"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730a964e5658068c2c5163bcc5",
+    "releaseDate": "2025-10-03",
+    "tags": [
+      "rap",
+      "rock",
+      "Hip-Hop"
+    ],
+    "title": "На крові",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5UQ5V9xUxMndHW1fuBUVCF"
   }
 ]

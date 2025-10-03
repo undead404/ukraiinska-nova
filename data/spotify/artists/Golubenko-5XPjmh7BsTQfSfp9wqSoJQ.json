@@ -1073,5 +1073,26 @@
     "totalTracks": 30,
     "type": "album",
     "url": "https://open.spotify.com/album/2VvmDnJUqFMRJocyu9l4dm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T08:23:16.029Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739a0224f876c405b7eefc3675",
+    "releaseDate": "2025-10-02",
+    "tags": [
+      "pop"
+    ],
+    "title": "Хто з нас",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4elb0rs5AuQ5WfxO71wLhn"
   }
 ]

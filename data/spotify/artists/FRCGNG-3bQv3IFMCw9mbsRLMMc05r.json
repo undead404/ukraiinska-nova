@@ -45,5 +45,30 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4RLGFKXFiJhf4HC5ES0wn3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T11:22:21.382Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "STAS AZARENKO",
+      "FRCGNG",
+      "Lay"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27306179b7b883e4397fe86a1d0",
+    "releaseDate": "2025-01-10",
+    "tags": [
+      "chinese",
+      "rap",
+      "C-pop"
+    ],
+    "title": "Аптека",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6NZIH9igcR5ukaKZg1NfR2"
   }
 ]

@@ -556,5 +556,28 @@
     "totalTracks": 6,
     "type": "single",
     "url": "https://open.spotify.com/album/2ugMDGzuF3lshdnS84FC9V"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T10:27:52.336Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "THE ARMO"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273055c1a894db5d71afa59855c",
+    "releaseDate": "2025-10-03",
+    "tags": [
+      "pop",
+      "pop rock",
+      "hyperpop"
+    ],
+    "title": "Я номер 2",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/061LVlFYdRGdQIjGnPW0qU"
   }
 ]
