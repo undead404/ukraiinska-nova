@@ -330,5 +330,27 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/6QWPR74AFLbMmLYNlYKc6E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T09:22:31.895Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Cepasa",
+      "DJ Chiff"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734c1b97859245d1811f798893",
+    "releaseDate": "2025-10-03",
+    "tags": [
+      "House"
+    ],
+    "title": "Where Are You Now (DJ Chiff Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0kdYR3H94OBqrEQpWVNbQp"
   }
 ]

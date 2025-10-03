@@ -680,5 +680,157 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4Alf1H1Rkewt4qiliGi6Ul"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T09:25:44.080Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yagoda"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b34c1c67e9a673730468d7a9",
+    "releaseDate": "2023-12-20",
+    "tags": [],
+    "title": "Пʼяна",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1tNMdGswUheyahCEdAQ4yn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T09:25:44.080Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yagoda"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d352e1c367ee78305da199a8",
+    "releaseDate": "2023-12-01",
+    "tags": [],
+    "title": "Я не така",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4L4wMMfwr9A0KarGXEijOA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T09:25:44.080Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yagoda"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c88a4cd9e91c3cc8ce135dbb",
+    "releaseDate": "2023-12-01",
+    "tags": [],
+    "title": "Сон",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/07NVdpkM5hyCgVoLStXYeh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T09:25:44.080Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yagoda"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730b0574016af543d5b3aa71de",
+    "releaseDate": "2023-12-01",
+    "tags": [],
+    "title": "Сама",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1L9bWbRJQ5aNPht6bNEtIm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T09:25:44.080Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yagoda"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739364b7bc50bd87258fa32c51",
+    "releaseDate": "2023-12-01",
+    "tags": [],
+    "title": "Знов і Знов",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/34LZZhGSF0MVoiQG55QvB1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T09:25:44.080Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yagoda"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27326fa3c3df8f53029cb280f17",
+    "releaseDate": "2023-12-01",
+    "tags": [],
+    "title": "Запах Кропиви",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4wh1yGKV49mtln9p2RjQqe"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T09:25:44.080Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yagoda"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a524049e751ca8ca99fb14e8",
+    "releaseDate": "2023-03-23",
+    "tags": [],
+    "title": "Пообіцяй (Dudinski Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7efATFac0w6T35qdgM0eLU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T09:25:44.080Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yagoda"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27317d6e34a9b700db95f350903",
+    "releaseDate": "2022-02-18",
+    "tags": [],
+    "title": "Чапля (DRED Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5lA0QnTJsl4y19oCUBw93U"
   }
 ]
