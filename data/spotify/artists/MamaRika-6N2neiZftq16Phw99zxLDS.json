@@ -1120,5 +1120,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3LYf26FM7A3VyzNHdWWpXv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T22:22:34.963Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MamaRika"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b4e987002f46917f73ec987d",
+    "releaseDate": "2021-09-05",
+    "tags": [
+      "pop"
+    ],
+    "title": "Дурненька (Shnaps & Sanya Dymov Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1bEBAL9aca1AnOQLOrOO6S"
   }
 ]
