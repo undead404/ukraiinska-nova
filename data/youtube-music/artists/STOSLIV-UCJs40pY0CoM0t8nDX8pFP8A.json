@@ -878,5 +878,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m7O4x7oUmfvvFOEVjYB0V7-U6a1asqQnc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T06:50:55.698Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "STOSLIV"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/cOYNO_-lAW43rKH58PwnFfsDkeOpL1bjmnHYy-Bi5LXaBbopc0e9x0GC0OQJ8lZumMwGNPD9C22KyzcAAw=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "hip hop",
+      "rap"
+    ],
+    "title": "Who want smoke?",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kAIQhxpuj5NYf6dt0oIIZHnYihICmg850"
   }
 ]
