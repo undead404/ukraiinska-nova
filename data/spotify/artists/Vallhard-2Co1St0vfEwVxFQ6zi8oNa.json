@@ -382,5 +382,28 @@
     "totalTracks": 8,
     "type": "single",
     "url": "https://open.spotify.com/album/0AUCvDSoElDvGru0v4nYmr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T16:26:27.469Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Mirami",
+      "Vallhard"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fc04e26afb2f755554441df6",
+    "releaseDate": "2025-10-03",
+    "tags": [
+      "dance",
+      "pop"
+    ],
+    "title": "Ecstasy (Vallhard Remix)",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/01noPFuKusq9dgbcpeGOeR"
   }
 ]
