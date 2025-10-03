@@ -774,5 +774,26 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/3gd6Z1yUzlZUCGPqtMmZyk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T01:52:02.658Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SESTRA BLYZNYUCHKA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732f1e04798f5884a46b1cfdcb",
+    "releaseDate": "2025-10-03",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "фахівчиня з кохання",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/27zd3qxg5kumpKRlX84lbY"
   }
 ]
