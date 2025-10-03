@@ -1003,5 +1003,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/04dfJ0ZGqflnERvH6IvQGN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T19:20:57.223Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Матвій М."
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e7dd695dd320636a53fc043c",
+    "releaseDate": "2025-10-03",
+    "tags": [
+      "rnb",
+      "alternative rnb",
+      "Neo-Soul"
+    ],
+    "title": "Думи",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2rIWhIXTYBk7lV5pgzvYou"
   }
 ]
