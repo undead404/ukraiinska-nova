@@ -1,5 +1,6 @@
 import type { EnhancedMusicRelease, Post } from '../types/index.js';
 
+import doesPostContainRussian from './does-post-contain-russian.js';
 import hashtagify from './hashtagify.js';
 import joinArtists from './join-artists.js';
 import translateAlbumType from './translate-album-type.js';
@@ -22,18 +23,22 @@ export default function mapReleasesToPosts(
   releases: EnhancedMusicRelease[],
   includeType = true,
 ) {
-  const posts: Post[] = releases.map((release) => {
-    const typePart = includeType ? `${translateAlbumType(release.type)}, ` : '';
-    return {
-      imageUrl: release.imageUrl,
-      links: [
-        {
-          title: getTitleFromUrl(release.url),
-          url: release.url,
-        },
-      ],
-      text: `${joinArtists(release.artists)} – ${release.title} (${typePart}${release.releaseDate})\n${release.tags?.length ? '\n' : ''}${release.tags?.map((tag) => hashtagify(tag)).join(' ')}`,
-    };
-  });
+  const posts: Post[] = releases
+    .map((release) => {
+      const typePart = includeType
+        ? `${translateAlbumType(release.type)}, `
+        : '';
+      return {
+        imageUrl: release.imageUrl,
+        links: [
+          {
+            title: getTitleFromUrl(release.url),
+            url: release.url,
+          },
+        ],
+        text: `${joinArtists(release.artists)} – ${release.title} (${typePart}${release.releaseDate})\n${release.tags?.length ? '\n' : ''}${release.tags?.map((tag) => hashtagify(tag)).join(' ')}`,
+      };
+    })
+    .filter((post) => !doesPostContainRussian(post));
   return posts;
 }
