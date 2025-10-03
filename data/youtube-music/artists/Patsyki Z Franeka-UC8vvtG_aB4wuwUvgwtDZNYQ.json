@@ -586,5 +586,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kgrpwOKMnrAvMZJ3dAa11KpGsr3kJpevA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T05:47:21.971Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PATSYKI Z FRANEKA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/_tdk0kU7_MkHRzPezKVzY0Nu3KcEvWLWEW_1NiGSn2fQLe4n-gjmwXZ1kHFWXIdMM0gupniX7rRgWnv1=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop"
+    ],
+    "title": "Серце",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m9i-kzisG78EYbm1TeiS6Gaol4zl-2c2o"
   }
 ]
