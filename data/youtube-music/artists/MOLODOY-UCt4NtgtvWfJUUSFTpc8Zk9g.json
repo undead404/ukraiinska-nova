@@ -460,5 +460,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lwxQAGS00gcCK9UYka7EX7_95fj8t3DLA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T23:46:40.209Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MOLODOY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/mG9H11UZTBMrgsVez2FeAnPdt9RS3qKdC3mJfRixnxht4-cYEBwISvYafy5sslHEmLPNlbclyso9r70=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap"
+    ],
+    "title": "Доза",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nJLU_FzGcIr0I8qOTRdx5RZuVMBe2DAWg"
   }
 ]

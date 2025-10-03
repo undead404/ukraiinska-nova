@@ -720,5 +720,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lg4RVGvD2J7KisnCqSxzcQwY_JiqKcfPs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T23:44:30.918Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "100лиця"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/5KjCefy2lgCwTR1LBZwSsS32ftTOsmfwsZWpKUiM4PiYTthanZ281FgAZTDsI5dgEVgzzb-QH_rsg_aWuQ=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Тобою не п'яний",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kmp9Ezi5Xq2HNNPgG2JR5gEGS5wrIfhMU"
   }
 ]
