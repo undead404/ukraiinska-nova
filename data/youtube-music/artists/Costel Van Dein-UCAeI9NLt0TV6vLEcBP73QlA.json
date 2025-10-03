@@ -1861,5 +1861,51 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m1cvu75HyLKPHUD_dW-rvY9Ri8YZm1rg0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T19:45:21.203Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Costel Van Dein"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/NXAmZwMtfK350RacJbOI-l0cNdO9yxLECARcZy6vMZrSalraZCZraabY77uIbCmtswoZ44uLKyD0rRMG=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "House",
+      "dance",
+      "electronic"
+    ],
+    "title": "TEKNO Vibe",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lejai0-aU2YFKt2DLItQLhy8jof62Sas0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T19:45:21.203Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Costel Van Dein"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/8v0LqvOKZKrQVkPe8PuhQ_UEoGjQQ2UcPxzoV3kv2angu_6ACM8RrkgncILULx8D6EpZGiaZQbrSKM9b-A=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "House",
+      "dance",
+      "electronic"
+    ],
+    "title": "TEKNO Vibe",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kbyjBRtafG1fuh0-dUaMEgI6lSHz1wrIY"
   }
 ]
