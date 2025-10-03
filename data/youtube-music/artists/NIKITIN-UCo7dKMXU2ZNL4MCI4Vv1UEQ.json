@@ -394,5 +394,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n-gkcqIve2vQPSxwpi69lVXlDKc2pcXjg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T14:47:55.832Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NIKITIN"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/KPg3iOUzWYkbtNiXhgGuy4JypuJ_IjmcZsATASqk6JHxYswkkgU0ALuVdGfCIPgz73KO8YrwdnmrWV18=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "dance",
+      "Nikitin and Semikashev"
+    ],
+    "title": "Літаю",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mA99XTylFzys2RdTIBtSjo_zNjK83rbWY"
   }
 ]

@@ -1179,5 +1179,51 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4RvJF40fnUGvMrgzWRz2Yf"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T07:23:07.838Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KRBK"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737d42a1abc1ac33192e65cf04",
+    "releaseDate": "2025-10-03",
+    "tags": [
+      "rap"
+    ],
+    "title": "Записка 8",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5Q09yaoyFDnOAh4OrcikMR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T07:23:07.838Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KRBK",
+      "4atty Aka Tilla",
+      "dim.slavyanin",
+      "denimbeatzz"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273055da0a0d4d3bd52a70ba97b",
+    "releaseDate": "2025-09-29",
+    "tags": [
+      "rap",
+      "underground hip-hop"
+    ],
+    "title": "Новый (Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6hOPZpwQkUY6BkqznfTRVX"
   }
 ]

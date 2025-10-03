@@ -238,5 +238,27 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/1SOaEGPbVRSu2E8Ojrrek2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T00:42:47.505Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vøvk"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273794ca50b928a73de84b16a29",
+    "releaseDate": "2025-10-03",
+    "tags": [
+      "Progressive rock",
+      "rock"
+    ],
+    "title": "Litera",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7e1rsYIq1gIuViDx5KrUbP"
   }
 ]

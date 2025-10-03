@@ -1,0 +1,24 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T09:22:38.985Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MamaRika",
+      "CbIP"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c301673c6e9a17d266791d24",
+    "releaseDate": "2018-11-15",
+    "tags": [
+      "pop"
+    ],
+    "title": "Зайві (CbIP Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7nBV8wjYuvCTqujyRpHY8N"
+  }
+]

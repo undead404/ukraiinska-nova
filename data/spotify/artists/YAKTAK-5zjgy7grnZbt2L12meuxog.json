@@ -998,5 +998,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3YOI9oQZgSHUgxexxHo4yw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T07:26:34.945Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YAKTAK"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731bd2a6a5514a2aaffe3debbb",
+    "releaseDate": "2025-10-02",
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "title": "Селяві",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3hAhBzpwWqQfUaGoCXGLvT"
   }
 ]

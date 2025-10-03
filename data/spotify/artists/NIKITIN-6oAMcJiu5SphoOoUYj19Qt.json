@@ -397,5 +397,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5uo0RvbsYvm4lFD3Cy9xIG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T02:42:18.465Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Дмитро Бабак",
+      "NIKITIN"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b95bf5e964aa9b8471ab1a68",
+    "releaseDate": "2025-10-02",
+    "tags": [
+      "dance",
+      "Nikitin and Semikashev"
+    ],
+    "title": "Літаю",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1zvdjfGwEVvmCWvckvlgep"
   }
 ]

@@ -308,5 +308,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0dDXbH8BsZisJMNPFBQTry"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T18:28:34.059Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sidorskyi"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737c94c60fd4997489f0d88024",
+    "releaseDate": "2025-10-01",
+    "tags": [],
+    "title": "Осінні спіралі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0yJk8ygHfNl6Ebn3Pgp0BX"
   }
 ]

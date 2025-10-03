@@ -293,6 +293,10 @@
       {
         "time": "2025-09-23T03:26:10.970Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-03T03:27:10.074Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -312,6 +316,10 @@
       {
         "time": "2025-09-23T03:26:10.970Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-03T03:27:10.074Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -331,6 +339,10 @@
       {
         "time": "2025-09-23T03:26:10.970Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-03T03:27:10.074Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -382,5 +394,74 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6LR89hspwmbn4eNvlXrnrj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T03:27:10.075Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DVN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736384065515ac114f5ae8585f",
+    "releaseDate": "2022-02-04",
+    "tags": [
+      "hardcore",
+      "rap",
+      "speedcore"
+    ],
+    "title": "Первый раз",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5sYZkgaYgZ0zlrlGdmpxzI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T03:27:10.075Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DVN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e03985e70b15ae6e142b59ee",
+    "releaseDate": "2021-12-24",
+    "tags": [
+      "hardcore",
+      "rap",
+      "speedcore"
+    ],
+    "title": "Она звезда (Emil Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4jGk6HbJHGHE69hfDmgIW5"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T03:27:10.075Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DVN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273facc756b653ac8b4fd12becd",
+    "releaseDate": "2021-05-07",
+    "tags": [
+      "hardcore",
+      "rap",
+      "speedcore"
+    ],
+    "title": "Это я тебе написал",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5BBxKno5dUymZTjp7r3kno"
   }
 ]

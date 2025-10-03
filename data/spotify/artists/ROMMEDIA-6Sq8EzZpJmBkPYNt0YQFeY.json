@@ -1,0 +1,51 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T09:24:48.018Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "kavabanga Depo kolibri",
+      "KAVA",
+      "ROMMEDIA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734e813c275172f4d43ea7666b",
+    "releaseDate": "2024-09-09",
+    "tags": [
+      "breakbeatz",
+      "Hip-Hop",
+      "Gugginger"
+    ],
+    "title": "Аромат (KAVA, ROMMEDIA REMIX)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1Q3qsdQO8aLaoE4a77SKLR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T09:24:48.018Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Dubky",
+      "KAVA",
+      "ROMMEDIA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273774fdeda75ef23818e93f697",
+    "releaseDate": "2023-12-22",
+    "tags": [
+      "breakbeatz",
+      "Gugginger"
+    ],
+    "title": "Не любиш (Kava & Rommedia Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3uwfRTKFWOstQvmgOoi94Z"
+  }
+]

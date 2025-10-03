@@ -838,5 +838,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k2Dby2BQh9PG6PMzKKnYaq-bx14AvGn58"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T07:46:08.343Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Фрай"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/457dQfxvkjtxUEq_x-BzUaYPb9PXcht5K14LzomipIrWCyPmQjEX049zVupoSgVMuoOB7YUL3nNVY5MtnQ=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "blues"
+    ],
+    "title": "Між нами",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kDvwDgL-0V1lAP2F810JHW4CJySWuVJAA"
   }
 ]

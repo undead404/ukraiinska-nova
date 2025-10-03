@@ -1071,5 +1071,24 @@
     "totalTracks": 17,
     "type": "album",
     "url": "https://open.spotify.com/album/0ZvPyWg6FizQ5wI8B22Euy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T12:23:22.582Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олена Тополя"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273616d9bc21b7fab746ec3e912",
+    "releaseDate": "2025-10-02",
+    "tags": [],
+    "title": "Обеззброєна",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/70WUvSoQNdwZIbQ7oBk0zA"
   }
 ]

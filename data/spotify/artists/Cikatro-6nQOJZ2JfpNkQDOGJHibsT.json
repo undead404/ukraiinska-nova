@@ -1,0 +1,64 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T09:22:41.202Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Cikatro"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273894540b612b99fbde1cf4285",
+    "releaseDate": "2025-04-04",
+    "tags": [],
+    "title": "Human",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7lA2shuttd5vK9O5rLEYyj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T09:22:41.202Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "LATEXFAUNA",
+      "Cikatro"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a706794a9e5da7b5f1a751c3",
+    "releaseDate": "2024-08-22",
+    "tags": [
+      "funk"
+    ],
+    "title": "Makoterchyk (Cikatro Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4YdRjen3RBdobTqvVs8QoB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T09:22:41.202Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "LATEXFAUNA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733a79a2c8cdc514b0a7d202e7",
+    "releaseDate": "2024-12-04",
+    "tags": [
+      "funk"
+    ],
+    "title": "Remixes",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1rP0mkF3LrdqecFbKQSl4D"
+  }
+]

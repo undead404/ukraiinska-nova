@@ -17,5 +17,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7eSsexqmbr7jMWqXcvEKEq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T01:52:55.487Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Irön Bütcher"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27383424005da1645f22ef1a5fc",
+    "releaseDate": "2025-10-02",
+    "tags": [],
+    "title": "Чорні Чорти",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3HHO787iGsce8jWtFbqHWd"
   }
 ]

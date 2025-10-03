@@ -420,5 +420,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2YCiCOx8Ue1ZHH4tg2WXxB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-02T23:20:17.244Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Лея"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273565ec579ce7ec240722dc205",
+    "releaseDate": "2025-10-02",
+    "tags": [
+      "folk rock"
+    ],
+    "title": "Супротив",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3eWmOJZKvqXFRD5mZZ22JG"
   }
 ]

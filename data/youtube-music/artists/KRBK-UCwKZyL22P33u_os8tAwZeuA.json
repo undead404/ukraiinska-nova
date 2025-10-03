@@ -1157,5 +1157,47 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lA7ABR2ZBFENsUTSKRiSD3NTnYcXNLPhw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T07:47:09.860Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KRBK"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/-Krbvi_iPLL1_yiDbBEn58bNCoIAPVkBl6h8yqZvOAWWWOFFD7F3CjJTQBotdCbJ9WI_fLVnIzShXr0q=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap"
+    ],
+    "title": "Записка 8",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lRJpY8FhdcZmStcJI0gDwSa8bxnIoIE18"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T07:47:09.860Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KRBK"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/OWN3ZPXKl3xuGfdczAp7mNxdxH1RGB_9YwFJUnewah2fhOShiQcsQl0FOH6lRBSC-95tO3HxYwPFgvVKLw=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap"
+    ],
+    "title": "Новый (Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nRzypbuEJ3QEyRJ56LKeqn4Gj6r7SsUiA"
   }
 ]
