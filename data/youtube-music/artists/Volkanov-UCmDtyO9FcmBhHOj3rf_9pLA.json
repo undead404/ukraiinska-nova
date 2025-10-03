@@ -997,5 +997,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m6NEJg0G_53E4z8fpB7g1yXVZL5fVrBes"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T15:48:12.121Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Volkanov"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/GrM7tbeaFB4UCknN0XoK3WmwTNkvSHEi9i_7608yyrd7OahmCP2psCr1uQU2E-5AQKH4qgUDM7ZEQiKw=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Сімейний альбом",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nF-J9-1-WnOgt5_UxHjFps_hzIoPGwd8Q"
   }
 ]
