@@ -1944,5 +1944,28 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/7pcmjt4eZVA87egJZmXTCg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T10:22:27.878Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Costel Van Dein"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273755717b90b01538c973688d2",
+    "releaseDate": "2025-10-03",
+    "tags": [
+      "House",
+      "dance",
+      "electronic"
+    ],
+    "title": "TEKNO Vibe",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2maEkewCAqQfvjrTwOcZoh"
   }
 ]
