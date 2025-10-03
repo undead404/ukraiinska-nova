@@ -1091,5 +1091,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0lGRJECOEXgMNuELa1LIr6"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T17:27:17.785Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "XSERGO"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27328356e2e915133ef960598db",
+    "releaseDate": "2025-10-03",
+    "tags": [],
+    "title": "Неземна",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4wLxBVFsRWMU6WocFvAETL"
   }
 ]

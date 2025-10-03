@@ -412,5 +412,24 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/5Pt3cTarfbHuvmOu5aeHIP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T17:24:56.114Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lil 8"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273957196fe9efad992643245d4",
+    "releaseDate": "2025-10-03",
+    "tags": [],
+    "title": "Скучаю",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5sLhqNs3gWQpICtNaE9M0a"
   }
 ]
