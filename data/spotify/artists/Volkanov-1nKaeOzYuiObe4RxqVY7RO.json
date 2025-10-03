@@ -710,5 +710,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3lZGi0Jj0nLdgk7blhiwaq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T12:29:48.126Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Volkanov"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738e06d78dfd4dda98b0bcebfa",
+    "releaseDate": "2025-10-03",
+    "tags": [],
+    "title": "Сімейний альбом",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1pu7GDxt99tx5P48dykXRw"
   }
 ]

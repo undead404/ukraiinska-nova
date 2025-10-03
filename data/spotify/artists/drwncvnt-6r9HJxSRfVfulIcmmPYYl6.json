@@ -1603,5 +1603,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0I6VV6SzdpxtOa8zWx0vYs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T12:26:00.813Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "drwncvnt"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739f68c97431c8ce88f7423531",
+    "releaseDate": "2025-10-03",
+    "tags": [
+      "electronic"
+    ],
+    "title": "creepy&cute",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1vuACLCjrala6uAChERB36"
   }
 ]
