@@ -458,5 +458,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/089NCh0F6wCIwlbfPv9n13"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T15:26:31.031Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Oleks Bar",
+      "Shkoda"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bc3b2157d235464751d21029",
+    "releaseDate": "2025-10-03",
+    "tags": [],
+    "title": "Оркестру 36 обрмп",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3XoosQWpXlrFOuLFYUd5RS"
   }
 ]
