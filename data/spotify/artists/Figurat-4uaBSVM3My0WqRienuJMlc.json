@@ -285,5 +285,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2vUXxaPaGJQ4e6tm2Ewm53"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T21:21:47.456Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Figurat"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f7ed7a0e533a0c4d36567476",
+    "releaseDate": "2025-10-03",
+    "tags": [
+      "funk",
+      "indie pop",
+      "indie rock"
+    ],
+    "title": "Квіти",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0u1W8UzE8fg9oZzcgyTYnm"
   }
 ]

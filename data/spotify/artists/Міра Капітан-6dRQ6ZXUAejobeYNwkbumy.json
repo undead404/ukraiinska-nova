@@ -78,5 +78,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/58RqBFEoAwW0nruqPoxoEU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T21:19:55.530Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Міра Капітан"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27371e9b40871f4fee77b883ac8",
+    "releaseDate": "2025-10-03",
+    "tags": [],
+    "title": "Почекай-почекай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0HFBEj01ClIsiARyUgQCiG"
   }
 ]
