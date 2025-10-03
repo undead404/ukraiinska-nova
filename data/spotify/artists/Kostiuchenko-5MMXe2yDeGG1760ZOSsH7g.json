@@ -771,5 +771,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/63hKYNcHcv0lyeQLJysAJ1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T13:25:51.619Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kostiuchenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273662d60b1285aaee92653ab55",
+    "releaseDate": "2025-10-03",
+    "tags": [
+      "trap"
+    ],
+    "title": "бурштином",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3kC0xViYuZIt72wZefF6vG"
   }
 ]

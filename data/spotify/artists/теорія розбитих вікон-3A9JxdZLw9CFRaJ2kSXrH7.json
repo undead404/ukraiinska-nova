@@ -254,5 +254,26 @@
     "totalTracks": 7,
     "type": "album",
     "url": "https://open.spotify.com/album/1sy0g5njTJBTuu6XmHe1k1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T13:23:53.088Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "теорія розбитих вікон"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27336250e0974c8778077346d29",
+    "releaseDate": "2025-10-03",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "На розі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/61gSsWBKw3sR15k734Q1mp"
   }
 ]

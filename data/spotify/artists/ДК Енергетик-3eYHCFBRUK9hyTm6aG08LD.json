@@ -463,5 +463,28 @@
     "totalTracks": 10,
     "type": "album",
     "url": "https://open.spotify.com/album/1YquLz5kuF9EsfIaheqLhq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T13:22:15.686Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Третя Штурмова",
+      "ДК Енергетик"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730e086d94464490f2562e1e9e",
+    "releaseDate": "2025-10-03",
+    "tags": [
+      "post-punk",
+      "rock"
+    ],
+    "title": "Востаннє востаннє",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4Wcljd3ZGwLoZKfoI9pqt1"
   }
 ]
