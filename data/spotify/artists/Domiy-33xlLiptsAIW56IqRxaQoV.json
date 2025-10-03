@@ -448,5 +448,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4q4W0axKHyVNci0umlwUIW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T02:39:45.962Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Domiy"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737b8ccd4efd2da7937775e0a5",
+    "releaseDate": "2023-05-30",
+    "tags": [
+      "pop"
+    ],
+    "title": "Рани Зацвітають",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4ywKHVrjPdmk94xuBoJNmo"
   }
 ]

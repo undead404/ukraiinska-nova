@@ -1129,6 +1129,10 @@
       {
         "time": "2025-09-25T02:45:27.991Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-03T02:41:29.814Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1147,5 +1151,27 @@
     "totalTracks": 65,
     "type": "album",
     "url": "https://open.spotify.com/album/2CDPWhJuTvqkkgMCgMXy1G"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T02:41:29.814Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Markus Schulz"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d81fbe664c34fafdc2ed6745",
+    "releaseDate": "2025-09-29",
+    "tags": [
+      "trance",
+      "progressive trance"
+    ],
+    "title": "In Search Of Sunrise 21 (Mixed by Markus Schulz)",
+    "totalTracks": 53,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0fqADTYY1DZrlsgUaDF29e"
   }
 ]
