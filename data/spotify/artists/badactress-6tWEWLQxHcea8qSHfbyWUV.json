@@ -396,5 +396,27 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/72yF73XgWCSONBxgBnwCsM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T05:22:06.363Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "badactress"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a0cf55cf59c5ea31d18e4bc2",
+    "releaseDate": "2025-10-03",
+    "tags": [
+      "pop",
+      "art pop"
+    ],
+    "title": "вірити в людей",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4H9nsri8AaiQqAbFwSOca3"
   }
 ]
