@@ -919,5 +919,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/34ei9utgRZbl3YyMU66F5z"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T18:23:16.696Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Фрай"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273298a260e9094f35d431f0962",
+    "releaseDate": "2025-10-03",
+    "tags": [
+      "blues"
+    ],
+    "title": "Між нами",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5nYGyXELWdJo3e4x8KYQa6"
   }
 ]

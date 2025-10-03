@@ -566,5 +566,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0GdSSp0BDrn21Iz04v7GMj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T18:25:27.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Nahappa",
+      "Green House"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273568a5384ab9f217ebee720b6",
+    "releaseDate": "2025-10-03",
+    "tags": [
+      "underground hip-hop"
+    ],
+    "title": "Bombay",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/27itvPwNILWvgl8RP2rtN2"
   }
 ]

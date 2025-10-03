@@ -631,5 +631,24 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/3SqQURM5TV3u6oXJA9LVfT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T18:27:26.039Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Roland (UA)"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732cfa31d2ab7373d6a7a589de",
+    "releaseDate": "2025-10-03",
+    "tags": [],
+    "title": "Get Down!",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4402hKbnZTtNkfjVXKg9Gz"
   }
 ]
