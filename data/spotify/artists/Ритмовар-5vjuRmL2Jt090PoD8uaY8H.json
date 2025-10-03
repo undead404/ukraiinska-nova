@@ -98,5 +98,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3LLZaTJojAGIfu92HfMnTm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-03T04:21:30.105Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ВАТАГА"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ad464a8b18f9f7ab5542101b",
+    "releaseDate": "2025-10-03",
+    "tags": [
+      "hip hop",
+      "rap",
+      "Hip-Hop",
+      "underground hip-hop"
+    ],
+    "title": "ЗБІР НА РЕБ (M-Squad)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5kVsYvhRXmDyhQ3dreoaPO"
   }
 ]
