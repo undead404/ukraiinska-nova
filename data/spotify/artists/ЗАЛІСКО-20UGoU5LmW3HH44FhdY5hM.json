@@ -1049,6 +1049,10 @@
       {
         "time": "2025-09-28T10:20:05.473Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-04T10:20:11.337Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1064,5 +1068,28 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/0Cop8lkOCY75UMVaBIaN3g"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-04T10:20:11.338Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ЗАЛІСКО"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273396fb7a33b73a71fe598155b",
+    "releaseDate": "2025-10-04",
+    "tags": [
+      "chanson",
+      "happy hardcore",
+      "male vocalists"
+    ],
+    "title": "Гірко, гірко!",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6HWc1416GYFepY7142bddo"
   }
 ]
