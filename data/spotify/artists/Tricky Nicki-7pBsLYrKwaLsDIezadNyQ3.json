@@ -959,5 +959,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5PSVQUzif38x4yp55TTxAg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-04T00:40:32.444Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Tricky Nicki",
+      "STOSLIV"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732d0210f31a7ac896be01179a",
+    "releaseDate": "2025-10-03",
+    "tags": [
+      "rap",
+      "Hip-Hop"
+    ],
+    "title": "Who want smoke?",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3WgVhd8UQk2Y0J9niH8QIO"
   }
 ]

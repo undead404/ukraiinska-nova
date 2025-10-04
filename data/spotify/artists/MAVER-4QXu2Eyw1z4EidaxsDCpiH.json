@@ -2609,5 +2609,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0jxxNOmTNEbuTnMYv9mGl9"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-04T00:38:21.084Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MAVER"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273694c2ad9c90ec35a86c58ad6",
+    "releaseDate": "2025-10-03",
+    "tags": [
+      "chillout",
+      "House",
+      "dance",
+      "electronic"
+    ],
+    "title": "Гаєм, гаєм зелененьким",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1YhTliO2IS7Ax9RIXjWyrn"
   }
 ]

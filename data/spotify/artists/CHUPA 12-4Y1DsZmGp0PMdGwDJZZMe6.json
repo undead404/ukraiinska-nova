@@ -1006,5 +1006,24 @@
     "totalTracks": 6,
     "type": "single",
     "url": "https://open.spotify.com/album/61gkbVA5RzGOOx7PEomFQG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-04T00:36:48.753Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "kkuziaa"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734a18b2238d9f667c7774fe76",
+    "releaseDate": "2025-10-02",
+    "tags": [],
+    "title": "Солодких Снів",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6pU8IBJ62YuyMS1tquyMWi"
   }
 ]

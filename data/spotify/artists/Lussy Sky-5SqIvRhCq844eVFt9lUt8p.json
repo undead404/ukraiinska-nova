@@ -200,5 +200,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3poh78vNbnXxJ1irXmox7p"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-04T00:37:42.634Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lussy Sky",
+      "Raks"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736280d3a546e9869583d5ea56",
+    "releaseDate": "2025-10-03",
+    "tags": [
+      "garage"
+    ],
+    "title": "UA Style",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3VlXj4XXE6nZlu1YjNphJb"
   }
 ]

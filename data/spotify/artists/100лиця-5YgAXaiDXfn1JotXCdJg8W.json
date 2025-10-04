@@ -828,5 +828,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2uVHBrk9ta0oZZKBGAw0q3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-04T00:33:52.834Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "100лиця"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27305e3daef7a5cebe179614cdf",
+    "releaseDate": "2025-10-03",
+    "tags": [],
+    "title": "Тобою не п'яний",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/49TMOdkm5WfQuDOrWk9Jbm"
   }
 ]
