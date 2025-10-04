@@ -83,5 +83,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0aM9gbiwafjEgFS6R8OKlq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-04T03:24:27.903Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Follow You"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f894235b95cc69473ae41c12",
+    "releaseDate": "2025-10-03",
+    "tags": [
+      "Nu Metal"
+    ],
+    "title": "Humans",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0JfrWgLI4xIY5hFXDBmTD0"
   }
 ]
