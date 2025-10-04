@@ -732,5 +732,27 @@
     "totalTracks": 30,
     "type": "album",
     "url": "https://open.spotify.com/album/5JsjFSHYDSWfBHAnucPiNV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-04T01:50:45.207Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олег Скрипка"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d8a622361ef5b6b6bbde7714",
+    "releaseDate": "2025-10-03",
+    "tags": [
+      "rock",
+      "blues rock"
+    ],
+    "title": "Любов (Violin Version)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1Sy5bmSMp90I9LYiGdS7GE"
   }
 ]
