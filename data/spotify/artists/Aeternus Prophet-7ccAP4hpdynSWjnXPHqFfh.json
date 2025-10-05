@@ -29,12 +29,16 @@
       {
         "time": "2025-09-17T09:23:18.618Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-10-05T09:21:19.173Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Aeternus Prophet"
     ],
-    "artistsPopularity": 0,
+    "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c51a7f7f86f9fdc27b92d9f8",
     "releaseDate": "2016-06-10",
     "title": "Exclusion of Non-Dominated Material",
@@ -47,6 +51,10 @@
       {
         "time": "2025-09-17T09:23:18.618Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-05T09:21:19.173Z",
+        "type": "LOST"
       }
     ],
     "artists": [

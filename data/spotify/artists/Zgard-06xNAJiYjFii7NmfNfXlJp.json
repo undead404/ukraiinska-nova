@@ -130,5 +130,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1Jitd0pmEyohIv5wgfg9m3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-05T09:25:31.297Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Zgard"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735be68a02de473ac76026903c",
+    "releaseDate": "2014-06-23",
+    "tags": [
+      "black metal",
+      "atmospheric black metal"
+    ],
+    "title": "Contemplation",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/50PwdSV05IgwDdVXeFko7e"
   }
 ]

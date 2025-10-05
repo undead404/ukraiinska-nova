@@ -1368,5 +1368,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6Lw9SjFYQywIk06VEwwcjS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-05T09:20:04.958Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Iryna Bilyk"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ac44458ce35c98480bdbb1f0",
+    "releaseDate": "2003-06-10",
+    "tags": [
+      "pop"
+    ],
+    "title": "Країна",
+    "totalTracks": 14,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2NsYDW5kC4NpmR5syjN3SB"
   }
 ]
