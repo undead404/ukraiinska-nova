@@ -2395,5 +2395,26 @@
     "totalTracks": 25,
     "type": "album",
     "url": "https://open.spotify.com/album/5Nc0O2XRbWKfydh4mHCZZl"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-05T03:36:38.813Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alena Cherny"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a35bce250da2d2dc783eb935",
+    "releaseDate": "2024-12-20",
+    "tags": [
+      "Classical"
+    ],
+    "title": "For You 2 - More Best-Loved Piano Music",
+    "totalTracks": 28,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1AmMgHzbzydbPctq42ZINg"
   }
 ]

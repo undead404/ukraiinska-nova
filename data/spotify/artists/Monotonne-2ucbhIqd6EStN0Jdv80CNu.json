@@ -400,5 +400,24 @@
     "totalTracks": 9,
     "type": "album",
     "url": "https://open.spotify.com/album/5HGhY7YLJz0eAoRnFSsu17"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-05T03:33:04.553Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lola Cola"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730125ebfb75fd279943d57ffe",
+    "releaseDate": "2025-10-04",
+    "tags": [],
+    "title": "Інтересно",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1lKWMtLEcSFHydvNmbvjsJ"
   }
 ]
