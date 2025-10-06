@@ -568,5 +568,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0JKlYZFALkyaJpZA7jBd8k"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-06T20:28:37.119Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Targan"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fb9cd48d524083384fc9339e",
+    "releaseDate": "2025-10-06",
+    "tags": [
+      "singer-songwriter",
+      "sadcore"
+    ],
+    "title": "кіт, не пригай / якщо ти здохнеш - я тебе вб'ю.",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/72o2nwRvKq6TMT9hCk1hAL"
   }
 ]
