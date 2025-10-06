@@ -87,5 +87,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4lQW2oANPX5eiAivwna4CT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-06T15:20:32.253Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Вщент"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dc5256c608a850907d982cb3",
+    "releaseDate": "2023-06-09",
+    "tags": [
+      "rap"
+    ],
+    "title": "Своє",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0K2IGRSlxN3Ptc7Yxkku7q"
   }
 ]
