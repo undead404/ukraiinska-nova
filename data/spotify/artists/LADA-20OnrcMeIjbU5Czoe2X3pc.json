@@ -231,5 +231,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/30yEoKUQoYAMTfimTQ4zw3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-06T18:27:13.873Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "LADA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27301585c36618b962e3ad55e51",
+    "releaseDate": "2022-02-16",
+    "tags": [
+      "techno"
+    ],
+    "title": "Stronger",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4VToLY2VVtPcBEi0urZzT1"
   }
 ]
