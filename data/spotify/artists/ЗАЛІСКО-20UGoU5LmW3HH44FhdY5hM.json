@@ -1091,5 +1091,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6HWc1416GYFepY7142bddo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-06T10:20:35.111Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ірена"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730c10553a65a8cb8d86b686ea",
+    "releaseDate": "2020-10-26",
+    "tags": [],
+    "title": "Я не зраджу тобі ніколи",
+    "totalTracks": 21,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5G8qcmkfLVaufTyZGyEFi7"
   }
 ]
