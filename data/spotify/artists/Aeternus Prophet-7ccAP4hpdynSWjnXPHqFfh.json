@@ -33,6 +33,10 @@
       {
         "time": "2025-10-05T09:21:19.173Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-06T09:22:57.514Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -55,12 +59,16 @@
       {
         "time": "2025-10-05T09:21:19.173Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-10-06T09:22:57.514Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Aeternus Prophet"
     ],
-    "artistsPopularity": 0,
+    "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f2efdac9e1142b79c1e86536",
     "releaseDate": "2016-06-24",
     "tags": [
