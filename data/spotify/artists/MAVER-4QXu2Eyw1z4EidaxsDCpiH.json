@@ -2633,5 +2633,53 @@
     "totalTracks": 8,
     "type": "album",
     "url": "https://open.spotify.com/album/1YhTliO2IS7Ax9RIXjWyrn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-06T00:42:21.665Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MAVER"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f3cab26f8281b62ae06c366a",
+    "releaseDate": "2025-10-05",
+    "tags": [
+      "chillout",
+      "House",
+      "dance",
+      "electronic"
+    ],
+    "title": "Ой у вишневому саду",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5R40UGEvy5r7vQGaZtXA6r"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-06T00:42:21.665Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MAVER"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27365d1a9c015251f310d6210e5",
+    "releaseDate": "2022-11-15",
+    "tags": [
+      "chillout",
+      "House",
+      "dance",
+      "electronic"
+    ],
+    "title": "Trap",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5iAzYMLjJAYHIOHvalZ3GG"
   }
 ]
