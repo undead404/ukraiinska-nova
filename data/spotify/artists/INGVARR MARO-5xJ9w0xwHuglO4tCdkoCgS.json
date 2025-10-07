@@ -95,5 +95,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/28IbEIYStdRNfRPkaHkAH4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-07T01:53:27.401Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "INGVARR MARO",
+      "Gio"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27318d3eb14e08e399eef9ba835",
+    "releaseDate": "2019-05-04",
+    "tags": [
+      "rap"
+    ],
+    "title": "Falling in Future",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1DZnJtuJh3ZZNVxZcYJtPq"
   }
 ]
