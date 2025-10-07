@@ -150,5 +150,26 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/3gWpw3pjs4hrt7gp0DSsaV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-07T14:26:27.878Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vyr Muk"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731e71eb835e8ebb93e80d247e",
+    "releaseDate": "2025-10-06",
+    "tags": [
+      "black metal"
+    ],
+    "title": "Stillborn Sin",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0rkKXKktmYQNsr1zeLdYh9"
   }
 ]
