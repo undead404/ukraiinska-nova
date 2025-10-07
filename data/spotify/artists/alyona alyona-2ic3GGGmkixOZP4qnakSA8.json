@@ -1399,5 +1399,34 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4K4Sh0hessVSUqG5karoJw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-07T17:23:12.690Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TARABAROVA",
+      "alyona alyona",
+      "Суспільне Євробачення"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e4a412277704d2d4b3df42bd",
+    "releaseDate": "2025-10-07",
+    "tags": [
+      "Eurovision",
+      "pop",
+      "rap",
+      "Hip-Hop",
+      "electronic",
+      "female vocalists",
+      "synthpop"
+    ],
+    "title": "МРІЙ СМІЛИВО",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/76aFvN0FXHm3WMg7El1tzh"
   }
 ]
