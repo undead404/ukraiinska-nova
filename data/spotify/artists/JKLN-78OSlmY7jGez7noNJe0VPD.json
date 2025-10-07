@@ -738,5 +738,24 @@
     "totalTracks": 6,
     "type": "single",
     "url": "https://open.spotify.com/album/5BwWNc5yXOdEjuisdmFnq1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-07T10:25:00.587Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "JKLN"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737941be0561be7d29a693248d",
+    "releaseDate": "2025-10-07",
+    "tags": [],
+    "title": "I Need U",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6Dvlqz8R7P6Wt7An6ViTNO"
   }
 ]
