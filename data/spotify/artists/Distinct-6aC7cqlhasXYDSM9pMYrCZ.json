@@ -468,5 +468,24 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/7Cm35HwB5Xw3rIpHLZiQQd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-07T22:21:45.742Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Paper Cleveland"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27324e77723b931524a05774624",
+    "releaseDate": "2025-10-07",
+    "tags": [],
+    "title": "HOMESICK",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1ohpWag6uJfB0C8IBJ5Zka"
   }
 ]

@@ -1836,5 +1836,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4J2g6d9tLRyRpQYfb9Wea9"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-07T22:24:17.948Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Morphom",
+      "VovaZiLvova"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27395db96ea11d94f4fede341d3",
+    "releaseDate": "2025-10-07",
+    "tags": [
+      "Hip-Hop",
+      "indie pop"
+    ],
+    "title": "Математика (Любити дорівнює)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/45oRWSYcUOADJg6gJBdFZ3"
   }
 ]
