@@ -372,5 +372,26 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/5vKZTpgwPbHcSaKQWw2Mc3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-07T00:38:31.282Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Хамерман Знищує Віруси"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c293e51027c7c1154e11665d",
+    "releaseDate": "2025-10-05",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Жовто-блакитний підводний човен",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1NChf1rR4D37UKxo7W7aOG"
   }
 ]

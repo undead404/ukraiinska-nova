@@ -2681,5 +2681,149 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5iAzYMLjJAYHIOHvalZ3GG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-07T00:41:16.675Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MAVER"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735aa01ddc0e7e94f6a474fddc",
+    "releaseDate": "2022-11-17",
+    "tags": [
+      "chillout",
+      "House",
+      "dance",
+      "electronic"
+    ],
+    "title": "Phonk",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/76SMphuF0DG8spMW0TgnHk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-07T00:41:16.675Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MAVER"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ddcbee733bb1c6b5fa9ea651",
+    "releaseDate": "2023-03-07",
+    "tags": [
+      "chillout",
+      "House",
+      "dance",
+      "electronic"
+    ],
+    "title": "Гуцульські мелодії",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0pYWwiW06OXfnOyhpzUeRy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-07T00:41:16.675Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MAVER"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f80edfbe10698882cad4bcfa",
+    "releaseDate": "2023-03-04",
+    "tags": [
+      "chillout",
+      "House",
+      "dance",
+      "electronic"
+    ],
+    "title": "Гуцульський вайб",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/72PLp4USMpza9zazeoCLVt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-07T00:41:16.675Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MAVER"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e772c2c19ff60cc9a346163c",
+    "releaseDate": "2022-11-23",
+    "tags": [
+      "chillout",
+      "House",
+      "dance",
+      "electronic"
+    ],
+    "title": "Faded",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/03UdlBoDYVbmuUFMmzwjtf"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-07T00:41:16.675Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MAVER"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734a880e561c5d70f43b64a347",
+    "releaseDate": "2022-11-14",
+    "tags": [
+      "chillout",
+      "House",
+      "dance",
+      "electronic"
+    ],
+    "title": "Phonk",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1pme3o17jnqYIHFkhyx6X5"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-07T00:41:16.675Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MAVER"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735b538f849147afa88a5b77c0",
+    "releaseDate": "2020-08-09",
+    "tags": [
+      "chillout",
+      "House",
+      "dance",
+      "electronic"
+    ],
+    "title": "Cry of Soul",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6BRb7hgKc1aCQ2c5XQ9Kbl"
   }
 ]
