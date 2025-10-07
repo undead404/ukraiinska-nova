@@ -82,5 +82,26 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/4uF0hGTNOPNCHbDloAlLvl"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-07T05:24:03.970Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Morwan"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734a6d1863a2b84562f0df7a8d",
+    "releaseDate": "2025-10-07",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Без обличчя",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/57eZSzfkXTkRXVMMJVcngm"
   }
 ]
