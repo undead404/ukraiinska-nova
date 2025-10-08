@@ -1145,5 +1145,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1bEBAL9aca1AnOQLOrOO6S"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-08T22:24:34.691Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MamaRika"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735e47175d0644882d1dbc7a5b",
+    "releaseDate": "2018-05-09",
+    "tags": [
+      "pop"
+    ],
+    "title": "ХХДД (Acoustic Version)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5l8GSXgQP3R3AU7KoDxNOv"
   }
 ]
