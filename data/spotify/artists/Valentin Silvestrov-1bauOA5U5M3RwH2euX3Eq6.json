@@ -1614,6 +1614,10 @@
       {
         "time": "2025-09-23T03:29:42.510Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-08T03:32:36.859Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2416,5 +2420,30 @@
     "totalTracks": 28,
     "type": "album",
     "url": "https://open.spotify.com/album/1AmMgHzbzydbPctq42ZINg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-08T03:32:36.860Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Valentin Silvestrov",
+      "Johannes Moser",
+      "Vadim Gluzman",
+      "Andrei Korobeinikov"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27317d973e4ebedba2ecf7fd2eb",
+    "releaseDate": "2023-12-08",
+    "tags": [
+      "Classical",
+      "contemporary classical"
+    ],
+    "title": "Fugitive Visions of Mozart: III. Allegro",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2zxuCfyV0IH4DDGJVAsHYs"
   }
 ]
