@@ -891,5 +891,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kAa7ZRwXvP1vVtb6EX8yfwTG3F5GrEUZA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-08T18:50:57.225Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DORIDUFIST"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://lh3.googleusercontent.com/7yjMxcVR047c8u-1nLM5cpF8RrqNoadme4uIk4M7iIL9vIyRvtIdBl7iY9aWif1_yI5_T7tBquQL2fU=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Ambient Relax",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lDC1pPXJe5oqPM9XRBPQ6Et2T9FLfHgOw"
   }
 ]
