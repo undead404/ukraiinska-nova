@@ -1,0 +1,78 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-08T20:30:04.822Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Nebokrai"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736c0051605457a3fdf8fd5ab1",
+    "releaseDate": "2025-08-16",
+    "tags": [],
+    "title": "поринути",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/77bTOUKwXlGt8r0DyZTVq3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-08T20:30:04.822Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Nebokrai"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dd9f7f4cfd9837c2da25230b",
+    "releaseDate": "2025-04-05",
+    "tags": [],
+    "title": "Драйв",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/08pm7e0CUwWqa5Uvgeq6LP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-08T20:30:04.822Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Nebokrai"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273afdcebf77d295b5e08b30d40",
+    "releaseDate": "2025-01-24",
+    "tags": [],
+    "title": "Небокрай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0JcqDoJiMYOYB3xvNx7P5c"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-08T20:30:04.822Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Nebokrai"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27361602aa8126d9b6f84af320b",
+    "releaseDate": "2024-12-05",
+    "tags": [],
+    "title": "Збожеволів",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2k2uTejIwOl9Rq09r1nbbh"
+  }
+]
