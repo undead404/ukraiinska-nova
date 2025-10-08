@@ -1353,5 +1353,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7xiDuT3Zfn2lCohkbpVJiH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-08T23:21:51.637Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Павло Зібров"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732d8e9b7a205e264216acd976",
+    "releaseDate": "2025-10-08",
+    "tags": [
+      "proto-punk",
+      "hardcore punk"
+    ],
+    "title": "Диско Зібрембо",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3x4ZtYOVYBnd043XQNCdcG"
   }
 ]
