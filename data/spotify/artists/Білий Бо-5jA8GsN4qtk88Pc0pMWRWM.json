@@ -857,5 +857,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5amHPC0PPxol0DnoSHuLxg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-08T18:21:54.179Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Білий Бо",
+      "ПРОБЛИСК"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27304fb75d78587fcdb9e53d79b",
+    "releaseDate": "2023-02-14",
+    "tags": [],
+    "title": "Слів немає",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2YvHmjclzWMEGYEJt7tS9E"
   }
 ]
