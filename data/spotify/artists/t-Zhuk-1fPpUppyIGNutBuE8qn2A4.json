@@ -1,0 +1,27 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-08T14:26:01.350Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kolya Liner",
+      "t-Zhuk",
+      "Funkyboyz",
+      "DJ Light"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732396d61a2e73bf46001d999f",
+    "releaseDate": "2020-10-12",
+    "tags": [
+      "instrumental",
+      "electro house"
+    ],
+    "title": "Smoke & Fly",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5oixTjYcOLjh0UKYN1trPj"
+  }
+]
