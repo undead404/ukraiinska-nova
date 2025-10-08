@@ -1318,5 +1318,26 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/5kI7ubrqmUBsbuYTrWJBRI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-08T02:41:29.574Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Gvozdini"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737581d3318218d4c837041553",
+    "releaseDate": "2012-08-08",
+    "tags": [
+      "Progressive House"
+    ],
+    "title": "Sunset",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0fBGFaPKoQWkZtjzpcaWdx"
   }
 ]
