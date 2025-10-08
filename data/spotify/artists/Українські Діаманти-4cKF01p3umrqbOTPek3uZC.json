@@ -811,5 +811,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1MQlEPDxFuSjXOuGTrkmNx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-08T09:22:08.079Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Українські Діаманти"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273457718555040d18162cdfe39",
+    "releaseDate": "2025-10-07",
+    "tags": [],
+    "title": "Горіла сосна (Рімейк 2025)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4iJ71cTCo8lQczF3XyGcin"
   }
 ]
