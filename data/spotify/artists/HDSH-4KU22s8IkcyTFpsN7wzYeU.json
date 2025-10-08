@@ -215,5 +215,27 @@
     "totalTracks": 8,
     "type": "album",
     "url": "https://open.spotify.com/album/4CekipEKF3vV7tn5VL5eAJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-08T11:23:43.202Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "HDSH"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733c8029ea7104d8913d61d446",
+    "releaseDate": "2025-10-08",
+    "tags": [
+      "Hip-Hop",
+      "rap"
+    ],
+    "title": "Легаси грязь #1",
+    "totalTracks": 27,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3GQ8k2NVVqOauUbqvRyRmE"
   }
 ]
