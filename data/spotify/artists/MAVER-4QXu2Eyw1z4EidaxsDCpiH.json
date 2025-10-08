@@ -2825,5 +2825,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6BRb7hgKc1aCQ2c5XQ9Kbl"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-08T00:40:33.048Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MAVER"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273798ef8f377e416e9e449c05f",
+    "releaseDate": "2025-10-07",
+    "tags": [
+      "chillout",
+      "House",
+      "dance",
+      "electronic"
+    ],
+    "title": "Не летів би, але мушу",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6wjjzJ8zRYEYCVL7kopx5e"
   }
 ]
