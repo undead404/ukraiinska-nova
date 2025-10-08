@@ -975,5 +975,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4NUPCZcR5EbjPgt5RCin9n"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-08T04:23:48.617Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Doridufist"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273faf7bf7e5bea48343333ea36",
+    "releaseDate": "2025-10-08",
+    "tags": [],
+    "title": "Ambient Relax",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3D7nR09W2w5K1o4SSWvZh7"
   }
 ]
