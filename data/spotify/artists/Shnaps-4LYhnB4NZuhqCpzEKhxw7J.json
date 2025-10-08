@@ -48,6 +48,10 @@
       {
         "time": "2025-09-27T10:26:01.797Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-08T10:27:50.041Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1091,5 +1095,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1vUTvYh7mQML7JVRIBrH7V"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-08T10:27:50.041Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "RKTKOSS",
+      "Shnaps"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735b56be284a2968740904af7d",
+    "releaseDate": "2023-12-29",
+    "tags": [],
+    "title": "Lucky Face New (Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7oc1DTpSDYiAEoQFxpCoSo"
   }
 ]
