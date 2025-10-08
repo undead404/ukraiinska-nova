@@ -1271,5 +1271,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mnELlyH-5hNzuydp00z2JTbljpVOAL3eM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-08T15:48:49.107Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/xH1nUpghQ4HJNbkfgZbtjtHxPgbCkoErdIMclFNb1s1sBvcpiYoTPfi4o-NTxNLVxPMRD9RU5EU5-MZv=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Stellar Groove",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nb38DhivJFfaGKCwsVr5fhglWU9eTPlZo"
   }
 ]
