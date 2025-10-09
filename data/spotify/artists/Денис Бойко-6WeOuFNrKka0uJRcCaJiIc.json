@@ -342,5 +342,24 @@
     "totalTracks": 9,
     "type": "album",
     "url": "https://open.spotify.com/album/7KTwQhwvyuMFQa7lndB1Ie"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-09T23:19:29.338Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Денис Бойко"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27351e95e31129b8caf2d7f8a4b",
+    "releaseDate": "2025-10-09",
+    "tags": [],
+    "title": "без зайвих слів (Remix Sexy Education & Love, Mary)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1tGTqa5lNONxJiClJVXDiH"
   }
 ]
