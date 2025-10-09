@@ -1,0 +1,45 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-09T07:22:27.331Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "The Doox",
+      "FIZRUK"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fa1c1f0c823288227bb95bb7",
+    "releaseDate": "2024-09-23",
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "title": "Try Korysti Radosti",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1NM18VGL116uDpjICdbjM3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-09T07:22:27.331Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "EYRA",
+      "FIZRUK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fb17e29104a58177dd6d1409",
+    "releaseDate": "2021-08-26",
+    "tags": [],
+    "title": "Гарна карма (Fizruk Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2hyRIO0zZ9NM3QrfT59e4T"
+  }
+]
