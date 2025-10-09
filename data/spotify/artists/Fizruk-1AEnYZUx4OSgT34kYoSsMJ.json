@@ -21,5 +21,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6q6b24SSSLX2Qbjo1M3vet"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-09T20:25:26.907Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "The Doox"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b32d35aaa7e1dc0bddfa31a7",
+    "releaseDate": "2021",
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "title": "Три Користі Радості (Fizruk Remix)",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/06yWESplvJktpTg2agxg4D"
   }
 ]
