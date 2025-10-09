@@ -1,0 +1,108 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-09T01:56:04.014Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MBreeze",
+      "TrueStory",
+      "Dj Dima Vlasov"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bf6daf9115a4b6d00e4cae39",
+    "releaseDate": "2023-03-10",
+    "tags": [
+      "pop"
+    ],
+    "title": "Доні (DJ Dima Vlasov Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1Pf8wAUsvZ5BhtrtZdhtEL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-09T01:56:04.014Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MBreeze"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d2a2fb4880b8b8697cc723d0",
+    "releaseDate": "2024-08-16",
+    "tags": [
+      "pop"
+    ],
+    "title": "Послання",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7ecSZesGZuQWe1BFSmKqPo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-09T01:56:04.014Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MBreeze"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b32e8a555aabde51b319c7a1",
+    "releaseDate": "2022-08-12",
+    "tags": [
+      "pop"
+    ],
+    "title": "Доні",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3BIunxK6mfoM4N8Fy1SpGd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-09T01:56:04.014Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DNice"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736c2277acdf25cb6f917c5cc3",
+    "releaseDate": "2018-12-07",
+    "tags": [
+      "rap",
+      "Hip-Hop"
+    ],
+    "title": "Project Youngin",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3VzW9SZcCAU4RL0twzahzV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-09T01:56:04.014Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "LangstonHues"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e7d70dad4c11d73c9cdd2f6f",
+    "releaseDate": "2020-12-22",
+    "tags": [],
+    "title": "Book of Hues",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/34OBdBW7WI4iC02xA6djvr"
+  }
+]
