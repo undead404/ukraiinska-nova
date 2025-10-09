@@ -607,5 +607,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kXWU5hsSn2a9VM57o3CjNn8SQyJP7KQBo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-09T05:46:09.514Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Околиця"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/niiXA-iow_VEHqZlBEVD77B14y0NOlCdttw89BZrA4Ju4HwkFLDYkADnzvzjZkS_AeEtTikYojiM2RE=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "dream pop"
+    ],
+    "title": "мій авангард",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_moSEqvJU1EuntuGv7aUGPFLTBX1NaKfnI"
   }
 ]
