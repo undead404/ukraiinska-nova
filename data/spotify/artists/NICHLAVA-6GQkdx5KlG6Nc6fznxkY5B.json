@@ -152,5 +152,100 @@
     "totalTracks": 18,
     "type": "album",
     "url": "https://open.spotify.com/album/2kU1We8fMu07jgOXqaXQvV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-09T22:26:01.600Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NICHLAVA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273370a47cc773e1ad39eb1bef6",
+    "releaseDate": "2025-06-25",
+    "tags": [],
+    "title": "Epigramma",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/15QCViCWCZAqx97ZI2JzKw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-09T22:26:01.600Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NICHLAVA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c09b92fbfc96b0da2241e8a6",
+    "releaseDate": "2018",
+    "tags": [],
+    "title": "Казковий мій полон",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4gmsi1WQkPpLQk11SNO7ku"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-09T22:26:01.600Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NICHLAVA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e9e143cfd6b795bcc2755e5a",
+    "releaseDate": "2017",
+    "tags": [],
+    "title": "На віки",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/44DDblYSUCHqd5AnfdL416"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-09T22:26:01.600Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NICHLAVA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bfd10c63d1b4273f600b66d8",
+    "releaseDate": "1997",
+    "tags": [],
+    "title": "Сонце і Місяць",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6ZI4NvCm2HXS7qazBWh9a0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-09T22:26:01.600Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NICHLAVA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27390ca55a02d682ee42fe5de56",
+    "releaseDate": "1996",
+    "tags": [],
+    "title": "Ти мене знайди",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/41ozfwrLE4vI0JCFHFF4uT"
   }
 ]

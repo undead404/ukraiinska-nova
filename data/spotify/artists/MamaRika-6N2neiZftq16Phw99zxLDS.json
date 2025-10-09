@@ -1166,5 +1166,48 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5l8GSXgQP3R3AU7KoDxNOv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-09T22:24:53.677Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MamaRika"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734f1a4c0c4c7bdfcc7397d60d",
+    "releaseDate": "2021-08-12",
+    "tags": [
+      "pop"
+    ],
+    "title": "Kava (Shnaps Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5RveH4rEnkFovYd3580i6G"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-09T22:24:53.677Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MamaRika",
+      "Roland UA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d431dcc42818d7b60754811b",
+    "releaseDate": "2018-05-25",
+    "tags": [
+      "pop"
+    ],
+    "title": "ХХДД (Roland Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5GPLuhDjFV01rw3LbCgWDP"
   }
 ]
