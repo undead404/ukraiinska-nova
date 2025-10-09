@@ -1252,5 +1252,26 @@
     "totalTracks": 17,
     "type": "album",
     "url": "https://open.spotify.com/album/6Q6UFRhNHjsmjdNaYIifqW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-09T17:20:07.815Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АСАФАТОV"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736deaa2f2ee16abe8f2e9fcd4",
+    "releaseDate": "2025-10-08",
+    "tags": [
+      "pop"
+    ],
+    "title": "Пес Друг",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/22MCHlnSNpDMubxZ6YTN8o"
   }
 ]
