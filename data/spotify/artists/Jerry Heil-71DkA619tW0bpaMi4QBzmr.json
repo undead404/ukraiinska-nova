@@ -1430,5 +1430,26 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/4ZgaFSgnsC0lnz8EkvkRBL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-09T16:24:13.334Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Jerry Heil"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ca9648739e735b6d7e4b065a",
+    "releaseDate": "2025-10-09",
+    "tags": [
+      "pop"
+    ],
+    "title": "Додай гучності (12 points) [Cabaret Version]",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5pwP60nJmGpAnk4GqEI7pd"
   }
 ]
