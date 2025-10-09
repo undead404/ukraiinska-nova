@@ -1560,5 +1560,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5kVsYvhRXmDyhQ3dreoaPO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-09T03:26:34.406Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Довгий Пес"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e1af3564805fb59d699199e0",
+    "releaseDate": "2025-10-09",
+    "tags": [
+      "rap"
+    ],
+    "title": "Шишка із Закарпаття",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4lkWiLViLC6H1ZVM0KUDjz"
   }
 ]

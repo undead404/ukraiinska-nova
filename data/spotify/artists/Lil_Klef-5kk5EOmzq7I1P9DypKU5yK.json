@@ -1,0 +1,43 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-09T03:30:14.952Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lil_Klef"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c43d1b2e5109e70c1e36130c",
+    "releaseDate": "2021-01-06",
+    "tags": [],
+    "title": "Щедрик",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/28NswkwcIJFsul4C6FJ4Ok"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-09T03:30:14.952Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MC Петя",
+      "Lil_Klef"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734160ef8d90189c6856eb032b",
+    "releaseDate": "2020-11-14",
+    "tags": [
+      "rap"
+    ],
+    "title": "Спорт Сила",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3RDHrF9DRncfX6QGruxbtJ"
+  }
+]
