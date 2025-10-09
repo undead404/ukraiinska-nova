@@ -1,0 +1,64 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-09T11:20:35.311Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MC Петя",
+      "МС Соня"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732b54a94994cba9cede0b335f",
+    "releaseDate": "2020-12-25",
+    "tags": [
+      "rap"
+    ],
+    "title": "Боні і Клайд",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0OqOrsDBRQlIiHw4xZH1JG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-09T11:20:35.311Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "МС Соня"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27300723f941ee5ade547a8e2ec",
+    "releaseDate": "2020-09-09",
+    "tags": [],
+    "title": "Дай Мені Рево",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/39Saw5k16Um5ubFcgXO1KV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-09T11:20:35.311Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MC Петя"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736b61047a66779f5b4d004281",
+    "releaseDate": "2021-11-08",
+    "tags": [
+      "rap"
+    ],
+    "title": "Геній Репу",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4QF3WZQgHA208f8asVkJeF"
+  }
+]
