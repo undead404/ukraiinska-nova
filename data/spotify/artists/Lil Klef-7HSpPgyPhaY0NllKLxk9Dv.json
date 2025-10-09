@@ -1,0 +1,61 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-09T19:23:16.858Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lil Klef"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27373cfdcc3b4887b8522e409c6",
+    "releaseDate": "2025-04-25",
+    "tags": [],
+    "title": "Casablanca",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0AsY8Uc4Jc5XfHTK6di0Vc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-09T19:23:16.858Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lil Klef"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739a1acecab0c9e537901a5465",
+    "releaseDate": "2022-02-24",
+    "tags": [],
+    "title": "Батько наш Бандера",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1T0iVhaAIL76Wrr4kgXJfI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-09T19:23:16.858Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MC Петя"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736b61047a66779f5b4d004281",
+    "releaseDate": "2021-11-08",
+    "tags": [
+      "rap"
+    ],
+    "title": "Геній Репу",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4QF3WZQgHA208f8asVkJeF"
+  }
+]

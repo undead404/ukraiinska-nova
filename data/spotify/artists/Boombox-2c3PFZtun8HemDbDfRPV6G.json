@@ -612,6 +612,10 @@
       {
         "time": "2025-09-19T19:22:43.685Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-09T19:22:15.682Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -855,5 +859,27 @@
     "totalTracks": 6,
     "type": "single",
     "url": "https://open.spotify.com/album/5fxM8ul0pLn7ZQ0UZlM99i"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-09T19:22:15.683Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Basta"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736f0a01add4eb444d0e376960",
+    "releaseDate": "2010-01-01",
+    "tags": [
+      "german",
+      "Oi"
+    ],
+    "title": "Баста 3",
+    "totalTracks": 20,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4b1xXlme2q5EeIZXK9JHUp"
   }
 ]
