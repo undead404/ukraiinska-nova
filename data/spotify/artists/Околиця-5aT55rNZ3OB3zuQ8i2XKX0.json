@@ -665,5 +665,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7KJOmynKigltsT9wH2njvm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-09T14:20:49.274Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Околиця"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fc697bbe24e79b03b6f9ce37",
+    "releaseDate": "2025-10-09",
+    "tags": [
+      "dream pop"
+    ],
+    "title": "мій авангард",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5atJMYtiR9t97rh1iFBhj2"
   }
 ]

@@ -1570,5 +1570,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/60NF0ithZ6z5E1c56bTSua"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-09T14:26:10.927Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ZLATA OGNEVICH"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733536cca5c9a855da39459c42",
+    "releaseDate": "2025-10-09",
+    "tags": [
+      "Eurovision"
+    ],
+    "title": "Не чіпляй",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2ifEBuE9HOMeifZDg235Mu"
   }
 ]
