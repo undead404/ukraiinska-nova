@@ -625,5 +625,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nyaY2EjRDPb_7NXlGfO5zLweeWIf5RbZ0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T16:49:41.383Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SAMCHUK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/LAkYe19JxCV_lTbj6nhoh2Nq8DJOz8ysvjv0xFXo27CVC2tpfG3MzrigdqnOe-XUXXgx1G3N_M12qop_EQ=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Зорі",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l0XBoNyb9x6bx01DV1NYyfVpHMO6Ysrtw"
   }
 ]
