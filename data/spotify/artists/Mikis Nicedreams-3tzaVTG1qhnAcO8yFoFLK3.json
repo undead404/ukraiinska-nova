@@ -1,0 +1,84 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T20:27:10.962Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MOLODOY",
+      "Mikis Nicedreams"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732b925c43a5156a8c8c4669d7",
+    "releaseDate": "2025-07-18",
+    "tags": [
+      "rap"
+    ],
+    "title": "Вуста",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6AyMlDaovKpNpey9uSqVtt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T20:27:10.962Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Mikis Nicedreams"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c6fd590b12a247301d7ff566",
+    "releaseDate": "2024-01-19",
+    "tags": [],
+    "title": "Ця зима",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4OXL5twL4AC1rqrYahnVgd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T20:27:10.962Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MOLODOY",
+      "Mikis Nicedreams"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ad4b40a9087b05fdaf441f77",
+    "releaseDate": "2023-11-10",
+    "tags": [
+      "rap"
+    ],
+    "title": "Між хвиль",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1bbno88Me8t8K9THUeSdRO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T20:27:10.962Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "IgotIt"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27328495ce663fff288ba0fca00",
+    "releaseDate": "2024-11-25",
+    "tags": [],
+    "title": "Durug",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5NpSfO1KBU3LjrNhpqbH95"
+  }
+]
