@@ -1024,6 +1024,10 @@
       {
         "time": "2025-09-17T08:22:25.473Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-10T08:30:05.340Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1040,5 +1044,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0UL2dlt53GkjYXa3Zjp34l"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T08:30:05.340Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ustym Buk",
+      "Бук"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732ad434afa7b269597bd7f850",
+    "releaseDate": "2022-07-08",
+    "tags": [
+      "Hip-Hop",
+      "rap"
+    ],
+    "title": "RAPLIKA",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2dZ1952dmE8CDocswcUB4o"
   }
 ]

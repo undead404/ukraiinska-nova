@@ -1784,5 +1784,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/05uJu8vnUDWhbiyL0IVBUd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T08:27:29.404Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MAX BARSKIH"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273709d93d5a12897869fd3ebf2",
+    "releaseDate": "2025-10-10",
+    "tags": [
+      "pop"
+    ],
+    "title": "Місто дощів",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5fN2YHkJ5TqcmN7ZS5w1Xw"
   }
 ]
