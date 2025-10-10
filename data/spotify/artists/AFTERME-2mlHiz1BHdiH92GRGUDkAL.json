@@ -148,5 +148,26 @@
     "totalTracks": 9,
     "type": "album",
     "url": "https://open.spotify.com/album/5kkhn6ml7vKXeyptB862Su"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T10:21:17.966Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "AFTERME"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273699d111da8151192dea9881a",
+    "releaseDate": "2025-10-10",
+    "tags": [
+      "metalcore"
+    ],
+    "title": "pure",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0aB2m52rEq03AKiaYJX5x4"
   }
 ]
