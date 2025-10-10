@@ -2849,5 +2849,29 @@
     "totalTracks": 9,
     "type": "album",
     "url": "https://open.spotify.com/album/6wjjzJ8zRYEYCVL7kopx5e"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T00:41:10.775Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MAVER"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27399c04ed1036cb8f10e2bc22b",
+    "releaseDate": "2025-10-09",
+    "tags": [
+      "chillout",
+      "House",
+      "dance",
+      "electronic"
+    ],
+    "title": "Гай зелененький",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5B9CjGkhD3kI7SzzJWjRa7"
   }
 ]
