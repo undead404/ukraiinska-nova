@@ -2760,5 +2760,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1pV0T5KOvQrnIbEKL91F1y"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T12:27:20.564Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "kavabanga Depo kolibri"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fd336d1f330ee7bb020cc88a",
+    "releaseDate": "2025-10-10",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "На вишневих губах",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4ayO2jbCgxf8knj0k07wBt"
   }
 ]

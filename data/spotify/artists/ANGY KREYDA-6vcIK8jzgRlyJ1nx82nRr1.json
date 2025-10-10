@@ -851,5 +851,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/390KV6lTHlxfw38eLgn6on"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T12:25:10.562Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ANGY KREYDA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734cc7f068bea1f4ea6e70654f",
+    "releaseDate": "2025-10-10",
+    "tags": [
+      "pop"
+    ],
+    "title": "Краш (Версія 2025)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/51r2I1kRBN5tKMLWIh6LlN"
   }
 ]
