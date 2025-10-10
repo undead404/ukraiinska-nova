@@ -36,5 +36,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3HHO787iGsce8jWtFbqHWd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T01:53:01.093Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Irön Bütcher"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734b37d945ac7e803b5a50e8ee",
+    "releaseDate": "2025-10-09",
+    "tags": [],
+    "title": "Demo",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6q0Dn4yiAHTy0xkZ5QtWuQ"
   }
 ]
