@@ -607,5 +607,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mKpKeQIak5LQj5HyM3OWYH-XvLrPXjNkc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T21:46:20.639Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BaWN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/E-V7YL72R5qGgZqBeEmZHA0gayQXcNenMFwe_ZlVo-9jlM1RK2AZVEJak4UOov7OUm4iFjuqRjTj0QP19A=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Ти моє щастя",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n5-RVJE4PRJTdRlu8HX090ESGF-06f5To"
   }
 ]

@@ -2658,6 +2658,10 @@
       {
         "time": "2025-10-06T21:47:45.398Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-10T21:47:46.393Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2721,5 +2725,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n8J4MFDzDfzhH5zqA-GlT4GTNomGnRCnY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T21:47:46.394Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/Ll93AzJc74VY-UANv8v6HFJDXiGTH_BvLVCLYNGN3v8M5dpVq3Ow61osVij98FXmGDj8y_cv1kvdgPK5iw=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Give up",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m4eBk41N2HRsb_vdJe6IWDomthvSUE19E"
   }
 ]
