@@ -475,5 +475,25 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/5BBxKno5dUymZTjp7r3kno"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T03:29:21.770Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Шугар",
+      "IVAN LIULENOV"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f3ffd6f547242960747df6a8",
+    "releaseDate": "2025-10-09",
+    "tags": [],
+    "title": "Панічка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5imAkr90LOwuSvI809ijor"
   }
 ]

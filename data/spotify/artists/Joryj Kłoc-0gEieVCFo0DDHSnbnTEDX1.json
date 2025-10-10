@@ -187,5 +187,47 @@
     "totalTracks": 13,
     "type": "album",
     "url": "https://open.spotify.com/album/0oDD34rV5zxEGjWena5Hwp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T03:29:26.091Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Joryj Kłoc"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273733c9902159b5bece2142032",
+    "releaseDate": "2024-12-12",
+    "tags": [
+      "folk rock"
+    ],
+    "title": "WOŁOCHY (remastered)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6hdl581Krk1p0Edyg8U1tt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T03:29:26.091Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Joryj Kłoc"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a9e564e5ead0183b9022bd48",
+    "releaseDate": "2018-10-11",
+    "tags": [
+      "folk rock"
+    ],
+    "title": "Wolochy (Live from Kilkim Žaibu XIX)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1hVbbwXVLSOQfQ5oQH61Ye"
   }
 ]
