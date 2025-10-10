@@ -881,5 +881,27 @@
     "totalTracks": 20,
     "type": "album",
     "url": "https://open.spotify.com/album/4b1xXlme2q5EeIZXK9JHUp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T19:22:10.358Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Boombox"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273635122f59828b4de824683d2",
+    "releaseDate": "2025-10-10",
+    "tags": [
+      "funk",
+      "Hip-Hop"
+    ],
+    "title": "Живий",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/67jdkyzs56Pq6qx9XJhu9f"
   }
 ]
