@@ -359,5 +359,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_muNNXHNEDDV2xan5xWI_Bw2LKIF_0ivMU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T02:14:15.499Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "УЛЯНА ШУБА"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/7B39GWYwECraqg1VmFp2abju6wuk8c8RI7l3ST3yA4whUjQnrYttA-_TVxI3_mnNRpyWgprG1Pmn6LKG9Q=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "БЕСТІ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lQlAvnwQc3Ef83lhWo-Vovd7D1yTo7GlE"
   }
 ]
