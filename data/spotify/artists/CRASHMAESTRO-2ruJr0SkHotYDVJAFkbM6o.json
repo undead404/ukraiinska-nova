@@ -780,5 +780,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6Mt31D6XMIgZ3jcSZaJj6q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T05:22:34.002Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "echotone",
+      "CRASHMAESTRO"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aa1737d9ae75ab7829030dad",
+    "releaseDate": "2025-10-10",
+    "tags": [
+      "dubstep",
+      "Hip-Hop"
+    ],
+    "title": "BASS PARTY",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4VtNTuZKrME7mgKLikG5L7"
   }
 ]
