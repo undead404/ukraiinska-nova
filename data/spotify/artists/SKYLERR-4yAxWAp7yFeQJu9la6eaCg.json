@@ -784,5 +784,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/11ect5CS5bZE2gCVxhEnqV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T07:24:17.626Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "alyona alyona",
+      "SKYLERR"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27356b7543897992d18ce886531",
+    "releaseDate": "2025-10-09",
+    "tags": [
+      "rap",
+      "Hip-Hop"
+    ],
+    "title": "Лети",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1cfwDB5TOWTGqD6aNolGkw"
   }
 ]

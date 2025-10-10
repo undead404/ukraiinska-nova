@@ -145,5 +145,26 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/1ajaO534vkmeni8zjIknZQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T07:20:18.969Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ОНІСУКА ТАЙГЕР"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b1edb64d5fdeaa67aac01e1e",
+    "releaseDate": "2025-10-10",
+    "tags": [
+      "Garage Rock"
+    ],
+    "title": "як горить любов",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/74c01fXrITjnXNyvlQZsga"
   }
 ]

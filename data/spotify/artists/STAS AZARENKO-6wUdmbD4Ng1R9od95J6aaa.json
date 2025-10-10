@@ -1426,5 +1426,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6NZIH9igcR5ukaKZg1NfR2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T07:24:47.063Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Райчу",
+      "STAS AZARENKO"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27363f76c7692048ba7a3c52ad0",
+    "releaseDate": "2025-10-10",
+    "tags": [
+      "electropop",
+      "pop",
+      "rap"
+    ],
+    "title": "Чи хотілося тобі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2IC7oQLGYegbFrOxulHu0t"
   }
 ]

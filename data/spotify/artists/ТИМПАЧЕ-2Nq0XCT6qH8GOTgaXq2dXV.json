@@ -130,5 +130,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6qMKBMCHpCAvuhtPBLGpzf"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T07:20:39.195Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ТИМПАЧЕ"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dc4fcf00ff99610e77363272",
+    "releaseDate": "2025-10-10",
+    "tags": [
+      "pop",
+      "synthpop"
+    ],
+    "title": "привіт-привіт",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3CnTKG4sM5cKSet4kVr6iD"
   }
 ]
