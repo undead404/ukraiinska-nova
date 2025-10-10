@@ -678,5 +678,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6AX3L7gf1Vi599QhCRNFWB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T17:22:53.427Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "AveKucher"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273280d54cdc64d2b8d1595ba64",
+    "releaseDate": "2025-10-09",
+    "tags": [],
+    "title": "Errday Freestyle",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3dNIN1iitaI6kFg2iLXzWb"
   }
 ]
