@@ -333,5 +333,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/66UMFXFM0BJBHDJFR0F3Ip"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T11:19:21.088Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "77PID’YIZD"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eb2dbfc5457d2e7a87a52daf",
+    "releaseDate": "2025-10-10",
+    "tags": [
+      "new wave"
+    ],
+    "title": "Immortale",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4U5n4ztZdjfGVANhpYL3Ue"
   }
 ]

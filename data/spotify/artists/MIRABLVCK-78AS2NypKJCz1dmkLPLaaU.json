@@ -183,5 +183,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/55whUaveh05gJ1WhLBxirA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T11:24:55.286Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ONI INC.",
+      "MIRABLVCK"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731e6211a2c455655200c215d7",
+    "releaseDate": "2025-10-10",
+    "tags": [
+      "metal",
+      "metalcore",
+      "rap"
+    ],
+    "title": "Paint It Black",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6JwS44dGwflx9hyAtg86Uj"
   }
 ]
