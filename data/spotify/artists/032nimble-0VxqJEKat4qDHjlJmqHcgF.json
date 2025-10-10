@@ -503,5 +503,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5cY4jVUwmkJTtICvqmg4jK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T04:20:34.676Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "flowflow3r"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735ba8e9f3d86d90eab3dbd93c",
+    "releaseDate": "2025-08-15",
+    "tags": [],
+    "title": "Sigma Shrek",
+    "totalTracks": 21,
+    "type": "album",
+    "url": "https://open.spotify.com/album/76bCEH1x4WprnHfvf1SX47"
   }
 ]

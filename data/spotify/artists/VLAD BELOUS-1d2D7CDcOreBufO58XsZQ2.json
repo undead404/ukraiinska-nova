@@ -477,5 +477,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6TnA8fSjOLxGkTCYcZtLRI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T04:26:42.650Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VLAD BELOUS"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730be637a99a3743295458e221",
+    "releaseDate": "2025-10-10",
+    "tags": [],
+    "title": "Boom Boom",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3VC9CVsqnn9Bx5KDsMpowF"
   }
 ]

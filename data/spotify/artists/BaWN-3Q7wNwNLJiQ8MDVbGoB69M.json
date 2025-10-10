@@ -686,5 +686,26 @@
     "totalTracks": 11,
     "type": "album",
     "url": "https://open.spotify.com/album/5BnlgF6coLfw0dcCAqTHzU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T04:22:39.728Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BaWN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731859f7b2f9e8bffbe55248f5",
+    "releaseDate": "2025-10-10",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Ти моє щастя",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1xW1LyaFhwjyEK9GDVXURz"
   }
 ]
