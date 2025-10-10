@@ -7,7 +7,7 @@ import readFileArtists from './read-artists';
 // Helper for mock restore
 const originalReadFile = readFile;
 
-vi.mock('fs/promises', () => ({
+vi.mock('node:fs/promises', () => ({
   readFile: vi.fn(),
 }));
 

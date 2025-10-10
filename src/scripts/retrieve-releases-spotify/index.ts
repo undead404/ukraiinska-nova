@@ -7,6 +7,7 @@ import postToTelegram from '../../common/post-to-telegram.js';
 import readFileArtistIds from '../../common/read-artist-ids.js';
 import { SPOTIFY_RELEASES_DATA_FOLDER } from '../../constants.js';
 import chooseArtists from '../../helpers/choose-artists.js';
+import ignoreOldReleases from '../../helpers/ignore-old-releases.js';
 import mapReleasesToPosts from '../../helpers/map-releases-to-posts.js';
 import mergeOldAndNewReleases from '../../helpers/merge-old-and-new-releases.js';
 import { SpotifyService } from '../../services/spotify.js';
@@ -103,7 +104,7 @@ async function main(): Promise<void> {
     console.log(`Знайдено ${allNewReleases.length} нових релізів`);
 
     if (allNewReleases.length > 0) {
-      const posts = mapReleasesToPosts(allNewReleases);
+      const posts = mapReleasesToPosts(ignoreOldReleases(allNewReleases));
       await postToBluesky(
         environment.BLUESKY_IDENTIFIER_FOR_SPOTIFY,
         environment.BLUESKY_PASSWORD_FOR_SPOTIFY,

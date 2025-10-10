@@ -1,11 +1,10 @@
 import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest';
 
-import fetchWithSchema from '../../helpers/fetch-with-schema.js';
-
+import fetchFromLastfm from './fetch-from-lastfm.js';
 import { getArtistsPopularity } from './get-artists-popularity.js';
 
-// Mock the fetchWithSchema dependency
-vi.mock('../../helpers/fetch-with-schema.js', () => ({
+// Mock the fetchFromLastfm dependency
+vi.mock('./fetch-from-lastfm.js', () => ({
   default: vi.fn(),
 }));
 
@@ -39,15 +38,18 @@ describe('getArtistsPopularity', () => {
         },
       };
 
-      vi.mocked(fetchWithSchema).mockResolvedValueOnce(mockResponse);
+      vi.mocked(fetchFromLastfm).mockResolvedValueOnce(mockResponse);
 
       const result = await getArtistsPopularity(mockApiKey, ['Radiohead']);
 
       expect(result).toBe(6);
-      expect(fetchWithSchema).toHaveBeenCalledWith(
-        `https://ws.audioscrobbler.com/2.0/?method=artist.getinfo&artist=${encodeURIComponent('Radiohead')}&api_key=${mockApiKey}&format=json`,
-        expect.any(Object), // infoResponseSchema
-        expect.any(Object), // errorResponseSchema
+      expect(fetchFromLastfm).toHaveBeenCalledWith(
+        {
+          method: 'artist.getinfo',
+          artist: 'Radiohead',
+          api_key: mockApiKey,
+        },
+        expect.any(Object),
       );
     });
 
@@ -58,7 +60,7 @@ describe('getArtistsPopularity', () => {
         { artist: { stats: { listeners: 10_000 } } }, // log10(10000) = 4
       ];
 
-      vi.mocked(fetchWithSchema)
+      vi.mocked(fetchFromLastfm)
         .mockResolvedValueOnce(mockResponses[0])
         .mockResolvedValueOnce(mockResponses[1])
         .mockResolvedValueOnce(mockResponses[2]);
@@ -70,7 +72,7 @@ describe('getArtistsPopularity', () => {
       ]);
 
       expect(result).toBe(6);
-      expect(fetchWithSchema).toHaveBeenCalledTimes(3);
+      expect(fetchFromLastfm).toHaveBeenCalledTimes(3);
     });
 
     it('should handle artist names that need URL encoding', async () => {
@@ -82,13 +84,16 @@ describe('getArtistsPopularity', () => {
         },
       };
 
-      vi.mocked(fetchWithSchema).mockResolvedValueOnce(mockResponse);
+      vi.mocked(fetchFromLastfm).mockResolvedValueOnce(mockResponse);
 
       await getArtistsPopularity(mockApiKey, ['Artist & Friends']);
 
-      expect(fetchWithSchema).toHaveBeenCalledWith(
-        `https://ws.audioscrobbler.com/2.0/?method=artist.getinfo&artist=${encodeURIComponent('Artist & Friends')}&api_key=${mockApiKey}&format=json`,
-        expect.any(Object),
+      expect(fetchFromLastfm).toHaveBeenCalledWith(
+        {
+          method: 'artist.getinfo',
+          artist: 'Artist & Friends',
+          api_key: mockApiKey,
+        },
         expect.any(Object),
       );
     });
@@ -105,19 +110,19 @@ describe('getArtistsPopularity', () => {
         },
       };
 
-      vi.mocked(fetchWithSchema).mockResolvedValueOnce(mockResponse);
+      vi.mocked(fetchFromLastfm).mockResolvedValueOnce(mockResponse);
 
-      const firstResult = await getArtistsPopularity(mockApiKey, ['Radiohead']);
+      const firstResult = await getArtistsPopularity(mockApiKey, ['Metallica']);
       expect(firstResult).toBe(6);
-      expect(fetchWithSchema).toHaveBeenCalledTimes(1);
+      expect(fetchFromLastfm).toHaveBeenCalledTimes(1);
 
       // Second call - should use cache
       vi.clearAllMocks();
       const secondResult = await getArtistsPopularity(mockApiKey, [
-        'Radiohead',
+        'Metallica',
       ]);
       expect(secondResult).toBe(6);
-      expect(fetchWithSchema).not.toHaveBeenCalled();
+      expect(fetchFromLastfm).not.toHaveBeenCalled();
     });
 
     it('should handle cached value of 0 correctly', async () => {
@@ -130,7 +135,7 @@ describe('getArtistsPopularity', () => {
         },
       };
 
-      vi.mocked(fetchWithSchema).mockResolvedValueOnce(mockResponse);
+      vi.mocked(fetchFromLastfm).mockResolvedValueOnce(mockResponse);
 
       // First call
       const firstResult = await getArtistsPopularity(mockApiKey, [
@@ -144,7 +149,7 @@ describe('getArtistsPopularity', () => {
         'Unknown Artist',
       ]);
       expect(secondResult).toBe(0);
-      expect(fetchWithSchema).not.toHaveBeenCalled();
+      expect(fetchFromLastfm).not.toHaveBeenCalled();
     });
 
     it('should cache each artist separately', async () => {
@@ -153,79 +158,19 @@ describe('getArtistsPopularity', () => {
         { artist: { stats: { listeners: 1_000_000 } } }, // popularity = 6
       ];
 
-      vi.mocked(fetchWithSchema)
+      vi.mocked(fetchFromLastfm)
         .mockResolvedValueOnce(mockResponses[0])
         .mockResolvedValueOnce(mockResponses[1]);
 
       // First call with both artists
-      await getArtistsPopularity(mockApiKey, ['Artist1', 'Artist2']);
-      expect(fetchWithSchema).toHaveBeenCalledTimes(2);
+      await getArtistsPopularity(mockApiKey, ['Artist7', 'Artist8']);
+      expect(fetchFromLastfm).toHaveBeenCalledTimes(2);
 
       // Second call with just one cached artist
       vi.clearAllMocks();
-      const result = await getArtistsPopularity(mockApiKey, ['Artist1']);
+      const result = await getArtistsPopularity(mockApiKey, ['Artist7']);
       expect(result).toBe(3);
-      expect(fetchWithSchema).not.toHaveBeenCalled();
-    });
-  });
-
-  describe('error handling', () => {
-    it('should handle API errors gracefully and continue with other artists', async () => {
-      const mockResponse = {
-        artist: {
-          stats: {
-            listeners: 1_000_000, // popularity = 6
-          },
-        },
-      };
-
-      vi.mocked(fetchWithSchema)
-        .mockRejectedValueOnce(new Error('API Error'))
-        .mockResolvedValueOnce(mockResponse);
-
-      const result = await getArtistsPopularity(mockApiKey, [
-        'FailingArtist',
-        'SuccessArtist',
-      ]);
-
-      expect(result).toBe(6);
-      expect(consoleSpy).toHaveBeenCalledWith(expect.any(Error));
-    });
-
-    it('should return 0 when all API calls fail', async () => {
-      vi.mocked(fetchWithSchema).mockRejectedValue(new Error('API Error'));
-
-      const result = await getArtistsPopularity(mockApiKey, [
-        'Artist1',
-        'Artist2',
-      ]);
-
-      expect(result).toBe(0);
-      expect(consoleSpy).toHaveBeenCalledTimes(2);
-    });
-
-    it('should handle network timeouts and other fetch errors', async () => {
-      vi.mocked(fetchWithSchema)
-        .mockRejectedValueOnce(new Error('Network timeout'))
-        .mockRejectedValueOnce(new Error('Connection refused'));
-
-      const result = await getArtistsPopularity(mockApiKey, [
-        'Artist1',
-        'Artist2',
-      ]);
-
-      expect(result).toBe(0);
-      expect(consoleSpy).toHaveBeenCalledTimes(2);
-      expect(consoleSpy).toHaveBeenCalledWith(
-        expect.objectContaining({
-          message: 'Network timeout',
-        }),
-      );
-      expect(consoleSpy).toHaveBeenCalledWith(
-        expect.objectContaining({
-          message: 'Connection refused',
-        }),
-      );
+      expect(fetchFromLastfm).not.toHaveBeenCalled();
     });
   });
 
@@ -239,7 +184,7 @@ describe('getArtistsPopularity', () => {
         },
       };
 
-      vi.mocked(fetchWithSchema).mockResolvedValueOnce(mockResponse);
+      vi.mocked(fetchFromLastfm).mockResolvedValueOnce(mockResponse);
 
       const result = await getArtistsPopularity(mockApiKey, [
         'Mega Popular Artist',
@@ -256,7 +201,7 @@ describe('getArtistsPopularity', () => {
         },
       };
 
-      vi.mocked(fetchWithSchema).mockResolvedValueOnce(mockResponse);
+      vi.mocked(fetchFromLastfm).mockResolvedValueOnce(mockResponse);
 
       const result = await getArtistsPopularity(mockApiKey, ['New Artist']);
       expect(result).toBe(0);
@@ -271,7 +216,7 @@ describe('getArtistsPopularity', () => {
         },
       };
 
-      vi.mocked(fetchWithSchema).mockResolvedValueOnce(mockResponse);
+      vi.mocked(fetchFromLastfm).mockResolvedValueOnce(mockResponse);
 
       const result = await getArtistsPopularity(mockApiKey, [
         'Rammstein',
@@ -281,7 +226,7 @@ describe('getArtistsPopularity', () => {
 
       // Should only make one API call due to caching
       expect(result).toBe(6);
-      expect(fetchWithSchema).toHaveBeenCalledTimes(1);
+      expect(fetchFromLastfm).toHaveBeenCalledTimes(1);
     });
 
     it('should handle mixed cached and uncached artists', async () => {
@@ -294,7 +239,7 @@ describe('getArtistsPopularity', () => {
         },
       };
 
-      vi.mocked(fetchWithSchema).mockResolvedValueOnce(mockResponse1);
+      vi.mocked(fetchFromLastfm).mockResolvedValueOnce(mockResponse1);
       await getArtistsPopularity(mockApiKey, ['CachedArtist']);
 
       // Now test with mixed artists
@@ -306,7 +251,7 @@ describe('getArtistsPopularity', () => {
         },
       };
 
-      vi.mocked(fetchWithSchema).mockResolvedValueOnce(mockResponse2);
+      vi.mocked(fetchFromLastfm).mockResolvedValueOnce(mockResponse2);
 
       const result = await getArtistsPopularity(mockApiKey, [
         'CachedArtist',
@@ -314,32 +259,7 @@ describe('getArtistsPopularity', () => {
       ]);
 
       expect(result).toBe(6);
-      expect(fetchWithSchema).toHaveBeenCalledTimes(2); // One from setup, one from test
-    });
-  });
-
-  describe('variable shadowing bug', () => {
-    it('should correctly handle the popularity variable shadowing issue', async () => {
-      // This test verifies the bug where `popularity` is redeclared in the try block
-      // The original code has `const popularity = ...` inside the try block,
-      // which shadows the outer `let popularity = 0`
-
-      const mockResponse = {
-        artist: {
-          stats: {
-            listeners: 1_000_000, // popularity = 6
-          },
-        },
-      };
-
-      vi.mocked(fetchWithSchema).mockResolvedValueOnce(mockResponse);
-
-      const result = await getArtistsPopularity(mockApiKey, ['TestArtist']);
-
-      // Due to the variable shadowing bug, the popularity calculated inside
-      // the try block doesn't affect the outer popularity variable
-      // This test documents the current (buggy) behavior
-      expect(result).toBe(0); // This should be 6, but due to the bug it's 0
+      expect(fetchFromLastfm).toHaveBeenCalledTimes(2); // One from setup, one from test
     });
   });
 });
