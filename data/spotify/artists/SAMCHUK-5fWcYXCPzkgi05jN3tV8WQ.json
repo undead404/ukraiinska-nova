@@ -680,5 +680,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6uoq0XFcdx2AdkiVR0eueV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T22:25:07.769Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Averin",
+      "SAMCHUK"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d5258a53b9360ef5257700f9",
+    "releaseDate": "2025-10-10",
+    "tags": [],
+    "title": "Зорі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4QGpdkO0NiqZ00uGx0cUNG"
   }
 ]
