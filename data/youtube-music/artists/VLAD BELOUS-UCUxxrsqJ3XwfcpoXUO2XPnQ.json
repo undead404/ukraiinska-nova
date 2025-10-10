@@ -435,5 +435,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l83pFQ2POoiapm3fCaQJc5Bvqjwc7lAaY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T22:48:18.533Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VLAD BELOUS"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/W0TzgyO_vESlt9dvUkBfdw4u5bszhukhEAz0BVGaF-iYzKQZxNd1SZ-xX48YMN2FWj_oShfQodb6jyw=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Boom Boom",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lNoWMfy2_hqyltmssJuay1rreuDQG1LFU"
   }
 ]

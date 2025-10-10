@@ -245,5 +245,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kQVuO4iK62VBn1QcWeka27jDfT75wR8XY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T22:45:13.567Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ДІЛЯ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/_0gfm6jxNJxmgTKoEyOOQ2gLkeTTvKfVA-qE_Cja7Mao0FQa9OXuV3NF_RuIU4Hau8mj5j0_4GsoKFbx=w544-h544-l90-rj",
+    "releaseDate": "2016",
+    "tags": [],
+    "title": "Ді.Ор",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nrCS6Be1BNwx4P0TOCpnP_fUlAAFdBkFI"
   }
 ]
