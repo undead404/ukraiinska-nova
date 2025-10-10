@@ -492,6 +492,10 @@
       {
         "time": "2025-10-09T14:25:25.325Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-10-10T14:25:22.489Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1382,5 +1386,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/77VVxJiKaMpm5Yr5bWFsSe"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T14:25:22.490Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "t-Zhuk"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273099e744cb53216de0a0e224c",
+    "releaseDate": "2025-10-10",
+    "tags": [],
+    "title": "Avenue Of Dreams",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6Aw9r5SZvcQuN2YYg3ssPE"
   }
 ]

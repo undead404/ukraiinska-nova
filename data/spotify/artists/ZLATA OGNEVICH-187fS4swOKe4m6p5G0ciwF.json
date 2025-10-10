@@ -1591,5 +1591,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2ifEBuE9HOMeifZDg235Mu"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T14:26:07.518Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ZLATA OGNEVICH",
+      "Гоня",
+      "ANIRA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273975e5d8a4be53c76bdeda95f",
+    "releaseDate": "2025-10-10",
+    "tags": [
+      "Eurovision",
+      "rap"
+    ],
+    "title": "Бийся, пташко (З к/ф \"Каховський обʼєкт\")",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/78XNbysQdrB3hNYbJSKRf5"
   }
 ]

@@ -161,5 +161,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/453mUxsHUIvvrVwQAWzO09"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T14:21:44.654Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "cryapachy",
+      "SDU"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734705b9f4e9706f71369807c1",
+    "releaseDate": "2025-10-10",
+    "tags": [],
+    "title": "АРТАН",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2FWu6ZDFPGZfo3xM2DLHAR"
   }
 ]
