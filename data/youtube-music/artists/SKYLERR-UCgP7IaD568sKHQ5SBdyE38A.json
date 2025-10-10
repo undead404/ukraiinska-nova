@@ -724,5 +724,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_khk-f8kIoaf40leuI4-5qCF2Z8qI6BEeE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T04:48:30.665Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SKYLERR"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/EkVbJYN625qY0za5Ji_2rRswaNOtK9RxdjAwC5t8-Dpx0QGq2vBEMxy_9WPV42aI6zHdrdYa0pc4_32q=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Лети",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nKlLxjxJcoP3Uvhy0lZ0ee8TBlEJpEanE"
   }
 ]
