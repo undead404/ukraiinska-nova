@@ -511,5 +511,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k5yX-te1cwn9hmtpGmXG1NiRJ51RV26ps"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T23:46:14.272Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "EDWAРД"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/sVtBY0dwrhXTynLzUJk_Rqsfz0zizSa1ibvCyCXTAo9-86M4QQqDw0Xk0OdIaCqP6jVqwfhiYEhnri135g=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Під дощем",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kh6PHmp2m-hg-DeopiytwxD-2Jneytok4"
   }
 ]
