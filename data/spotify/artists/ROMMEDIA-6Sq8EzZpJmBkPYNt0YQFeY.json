@@ -47,5 +47,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3uwfRTKFWOstQvmgOoi94Z"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T09:25:13.798Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROMMEDIA"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731b29c7556173d104787c5d80",
+    "releaseDate": "2025-10-08",
+    "tags": [],
+    "title": "Вона",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1lfyA8zLzpIFMoFSDJmkbn"
   }
 ]

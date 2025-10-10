@@ -889,5 +889,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_loblea1NVSZPb5abDiTADx9lNJw2ga4HE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T15:46:00.678Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Шугар"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/UOk9zI--ALjEnrLU6pYxOPsnPC1q35zSPoGFBNGwpKA39cvv03ojL0uKeHji2oLoUkr0AJlsUpoKvLMwSQ=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Панічка",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nMovE2PmhnQklQiK68pl-oPWkUbuHpPMU"
   }
 ]

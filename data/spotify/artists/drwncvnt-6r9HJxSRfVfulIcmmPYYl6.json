@@ -1624,5 +1624,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1vuACLCjrala6uAChERB36"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T12:26:05.281Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "drwncvnt"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273607fb2d2846a0e850bcaf7db",
+    "releaseDate": "2025-10-10",
+    "tags": [
+      "electronic"
+    ],
+    "title": "wrong password",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6SSh60JqXgD9sWIf4WKqDi"
   }
 ]

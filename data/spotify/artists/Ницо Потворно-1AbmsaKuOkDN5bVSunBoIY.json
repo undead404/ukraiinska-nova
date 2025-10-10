@@ -528,5 +528,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/55b8DsLkBE4ogaCPCKjo8U"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T16:21:08.493Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ницо Потворно"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27348874987be81310a3ea4a491",
+    "releaseDate": "2025-10-10",
+    "tags": [
+      "rap"
+    ],
+    "title": "Нормальне Літо 25",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6BY8DR5U3i1pNXWHAn4yUc"
   }
 ]

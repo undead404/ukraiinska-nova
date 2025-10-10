@@ -168,5 +168,30 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4zUo4cEYpygjgD0czfy6Iv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T18:20:59.657Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "артилерія",
+      "Valentyn Pereverza"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738fc03d7d27b2b5565b52271a",
+    "releaseDate": "2025-10-10",
+    "tags": [
+      "alternative rock",
+      "pop",
+      "indie rock",
+      "pop rock"
+    ],
+    "title": "Lungs",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0mU5e3ZwYMDDAhk8rUvSnt"
   }
 ]

@@ -419,5 +419,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1QQnxeiOw1AUSqhcFTvmoU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T16:20:59.583Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Настя Гонцул"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739dc7910d8e4e31868f810b5f",
+    "releaseDate": "2025-10-10",
+    "tags": [
+      "indie pop",
+      "piano"
+    ],
+    "title": "ти підеш",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5jZ5nUhuuTui47esfRq3c7"
   }
 ]

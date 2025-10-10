@@ -696,5 +696,26 @@
     "totalTracks": 6,
     "type": "single",
     "url": "https://open.spotify.com/album/3fAB3iyQpRRiqgH1g2HbYs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T13:22:28.019Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Джозерс"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a399ba18538f5f3f3feb138b",
+    "releaseDate": "2025-10-10",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Капітан мовчить II",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/03CUkEya0i7zhDWPtYdJp7"
   }
 ]

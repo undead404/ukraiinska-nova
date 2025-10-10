@@ -1219,5 +1219,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/098H8kFruK6dToBCNeARtF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T09:26:55.932Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YOXDEN",
+      "Gario Nells"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732fb6f5f7cceeff3b82fe9dd1",
+    "releaseDate": "2025-10-10",
+    "tags": [
+      "dance",
+      "electronic"
+    ],
+    "title": "ЦЕЙ СВІТ ПРИРЕЧЕНИЙ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2zfgOKDzmie83ZCaH9mHRu"
   }
 ]

@@ -675,5 +675,31 @@
     "totalTracks": 12,
     "type": "album",
     "url": "https://open.spotify.com/album/6GBhCDGgRAPK5KFamHmAqd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T12:27:59.940Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Libenson",
+      "The Curly"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273919e7c0afc8141fd2ec35eed",
+    "releaseDate": "2025-10-10",
+    "tags": [
+      "pop",
+      "rap",
+      "rnb",
+      "alternative rnb",
+      "indie pop"
+    ],
+    "title": "Essay",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5qASmtDscY2s34aaAbyZbK"
   }
 ]

@@ -588,5 +588,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/27itvPwNILWvgl8RP2rtN2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T18:26:39.052Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Nahappa",
+      "Green House"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27319b19579289e6c8f6e6e5055",
+    "releaseDate": "2025-10-10",
+    "tags": [
+      "underground hip-hop"
+    ],
+    "title": "Золото сонця",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1sqIFaxJAp1bef6WxPOVNr"
   }
 ]

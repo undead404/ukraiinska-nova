@@ -320,5 +320,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6TSUxzBpCbTiTtZUogbYfw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T18:23:55.862Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Уляна Дель Рей"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734271716280c83b5ed70edcc4",
+    "releaseDate": "2025-10-10",
+    "tags": [
+      "pop punk"
+    ],
+    "title": "Я старію",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4J1JRwE5bFJfuMh5LusxmL"
   }
 ]

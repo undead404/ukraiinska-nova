@@ -566,5 +566,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3oWS5ii4G0LYJgOQ7XKKjR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T14:20:27.133Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Нікіта Кісельов"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c0ce1942c318cdebb732c392",
+    "releaseDate": "2025-10-10",
+    "tags": [],
+    "title": "ОБЕРЕЖНО! ЛЮБОВ",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1xAgbQNosZVRX2t0APajNy"
   }
 ]

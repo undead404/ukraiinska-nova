@@ -340,5 +340,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6CZY15eSt2dZyrt2hbsWtZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T08:26:17.439Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Hyphen Dash"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731b787c5cbb26ab8b81859744",
+    "releaseDate": "2025-10-10",
+    "tags": [
+      "post-rock"
+    ],
+    "title": "LATE",
+    "totalTracks": 16,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2dl5H8xsW4ABlqhVxORLqj"
   }
 ]

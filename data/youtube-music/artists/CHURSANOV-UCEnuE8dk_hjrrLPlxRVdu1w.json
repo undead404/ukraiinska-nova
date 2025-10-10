@@ -644,5 +644,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kVBVmP-OfQpCMQkt6tPSPw7tehba21O0E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T13:47:50.198Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CHURSANOV"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/WNe3MZkD3ZXqKte8XP33dCAFWjw_L4PmSJubdTzRwu2n76SUSF3OxNRh33h8hxQ7HH60jDxFqBLezx_P=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Видихай",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lLYWqoKO6UA0NFyO-E32fdhGboeZkVxRI"
   }
 ]
