@@ -676,5 +676,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2RaAdXUY4FKsAKU3KNyTmf"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T18:25:17.873Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ZORIN",
+      "Yewi",
+      "CHURSANOV"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273faa060e7fec77f49ec2b0106",
+    "releaseDate": "2025-10-10",
+    "tags": [
+      "idm"
+    ],
+    "title": "Видихай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1jJRk74LdSR05jMWtSwerK"
   }
 ]

@@ -276,5 +276,27 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/5MFlAKcvaveAu8ukf3xPVb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T18:25:31.869Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alice Change"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a98aecd0e06892a98ebe555b",
+    "releaseDate": "2025-10-10",
+    "tags": [
+      "indie pop",
+      "indie rock"
+    ],
+    "title": "ALICE CHALLENGE",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4Zs9kx1otUIR3yweUhdWE0"
   }
 ]

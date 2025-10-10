@@ -407,5 +407,24 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/4T6Cd1vobRyq5MRByzFMN7"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T18:24:10.454Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Уляна Шуба"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d26d0e878992ceec105791e3",
+    "releaseDate": "2025-10-09",
+    "tags": [],
+    "title": "БЕСТІ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0rhC3Dd8FA0IYobwgGv7U3"
   }
 ]
