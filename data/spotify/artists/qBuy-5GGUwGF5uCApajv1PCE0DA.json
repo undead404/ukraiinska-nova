@@ -272,5 +272,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6633W9k53j7kIFkmv9FmXV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T23:25:38.611Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "qBuy"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dae797a18c1a56464c599082",
+    "releaseDate": "2025-10-10",
+    "tags": [],
+    "title": "SKANK",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3V0UB9vTSaxgspJrsFs75Y"
   }
 ]

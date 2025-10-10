@@ -894,5 +894,26 @@
     "totalTracks": 11,
     "type": "album",
     "url": "https://open.spotify.com/album/2VwdPblVkdRu2PEUABPT1x"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T23:22:01.724Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ship Her Son"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e0ddbee667f434902b8aa161",
+    "releaseDate": "2025-10-10",
+    "tags": [
+      "industrial"
+    ],
+    "title": "Саундтрек до порядку денного",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7ndAbKhr4gLB6Bc1UMwLjd"
   }
 ]

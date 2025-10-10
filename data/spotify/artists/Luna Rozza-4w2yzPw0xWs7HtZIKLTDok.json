@@ -406,5 +406,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6MYdmRcduVsHLDTzNn5Y2G"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T23:24:40.702Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Luna Rozza"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e124113451291445431be176",
+    "releaseDate": "2025-10-10",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "про бачення",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4ldYCzkHgAyRuHU2HK0RH2"
   }
 ]

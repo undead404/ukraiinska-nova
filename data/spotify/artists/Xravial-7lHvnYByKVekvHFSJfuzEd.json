@@ -1672,5 +1672,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1O7E3LJJ6W60rY1eX2RV53"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-10T23:28:14.834Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Xravial"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f039e672efdfc88a2c944f8e",
+    "releaseDate": "2025-10-10",
+    "tags": [
+      "rap",
+      "Hip-Hop"
+    ],
+    "title": "RENESIS",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2UfHvYbQ7m2uYy0PLVlS2s"
   }
 ]
