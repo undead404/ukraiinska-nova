@@ -1142,5 +1142,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lecvEo3iwNT4r2lpge-RpyA7RiL7R4Cpk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T03:03:13.487Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yoxden"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/UPSwuRfqCBboM3qSLkc0UDw2MLHzeChJOW4io7jZVl4qFpt3mV8Q1BFoFgAyabYhEfnkh7-trPrPyMJR=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "dance",
+      "electronic"
+    ],
+    "title": "ЦЕЙ СВІТ ПРИРЕЧЕНИЙ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k1csPsuYDeuuHA-iA6YYOYpAtNfucSxOQ"
   }
 ]
