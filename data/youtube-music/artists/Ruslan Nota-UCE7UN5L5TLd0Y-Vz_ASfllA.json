@@ -948,5 +948,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n9JFdMiJmM2eYiUwNiWnbYYi4BjCLzI70"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T23:47:45.258Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ruslan Nota"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/LkMrCwjbVOxrwXzLPkQ-afrsSbycQ8uY7WCnv7xnHjTF194hXtlguBD2pWz3lmXKhE9ng1mpGuO3zP7waA=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Орчата",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mXL1JCdlKHukayw0ODEy5PiQfubEMl6ss"
   }
 ]
