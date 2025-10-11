@@ -372,5 +372,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mYQi9pg0lT8YBOpFyJ1-5sslcSXsRsRu8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T01:05:44.964Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Настя Гонцул"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/cgE-zsfbVx96H5s8ND4YwYrNNXM5DeRWGnBfEjDBM46ro62OUVeK-WrK-NV7um1wXkf2qCAK7rclHr27=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "indie pop",
+      "piano"
+    ],
+    "title": "ти підеш",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lg5F7rTb-X5E46y9OHFcc5Ml6L3RERMMk"
   }
 ]
