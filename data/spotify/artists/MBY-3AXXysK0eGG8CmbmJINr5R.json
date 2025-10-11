@@ -539,5 +539,27 @@
     "totalTracks": 8,
     "type": "album",
     "url": "https://open.spotify.com/album/35yqHMnm7hAL8qGtWp3tbk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T00:39:57.885Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MBY"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738aceca2e75978294b5ea11b1",
+    "releaseDate": "2025-10-10",
+    "tags": [
+      "rap",
+      "electronic"
+    ],
+    "title": "Парами",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6OZ0wn7cA8ecXmdyJI7IPl"
   }
 ]

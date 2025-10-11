@@ -40,5 +40,26 @@
     "totalTracks": 26,
     "type": "album",
     "url": "https://open.spotify.com/album/0WdmTHVJfXpYjgD2igZAPA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T00:40:31.840Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Reproduczia"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a736063420631f59ec5c55c1",
+    "releaseDate": "2025-10-10",
+    "tags": [
+      "folk"
+    ],
+    "title": "Гильгамеш",
+    "totalTracks": 16,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3Dw6EEzVyForIcIkKeDLYe"
   }
 ]

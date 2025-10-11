@@ -1,0 +1,62 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T00:38:32.714Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KOVA.LSKA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d7579b518053e7969019b548",
+    "releaseDate": "2025-08-01",
+    "tags": [],
+    "title": "Варто",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/59GUMMNzGt3JK53EtYh1ik"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T00:38:32.714Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KOVA.LSKA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c28964692f5fd7a2e6894101",
+    "releaseDate": "2025-01-10",
+    "tags": [],
+    "title": "Незнаному",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6dXW0ho7xNfWguw6wdXzOe"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T00:38:32.714Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KOVA.LSKA",
+      "MONATIK"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27381f1df76acca07762eb59e9f",
+    "releaseDate": "2024-10-10",
+    "tags": [
+      "pop"
+    ],
+    "title": "кохаєш?",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0ffPyHkrSKW6GhNJOae1kr"
+  }
+]
