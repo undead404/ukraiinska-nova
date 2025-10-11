@@ -1634,5 +1634,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0Fntjsvg8rjAwrPt6ATYl7"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T05:24:41.636Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ruslan Nota"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273edf83621519a6690b573b67a",
+    "releaseDate": "2025-10-08",
+    "tags": [],
+    "title": "Орчата",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2mVot7iKTcTYRgoyeKT0XT"
   }
 ]
