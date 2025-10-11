@@ -1,0 +1,71 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T15:24:26.332Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NAPILNIK",
+      "ZLATA OGNEVICH",
+      "POSITIFF"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eae918bceef485b9d1a04c07",
+    "releaseDate": "2025-06-14",
+    "tags": [
+      "Eurovision",
+      "pop",
+      "pop rock"
+    ],
+    "title": "Амбасадор Дитинства",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0VkunKpOJsxCIjDHijqsR8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T15:24:26.332Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NAPILNIK",
+      "Дядя Вадя",
+      "Dima PROKOPOV"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27374074e9ae8491ffdcc640805",
+    "releaseDate": "2025-02-24",
+    "tags": [],
+    "title": "Хмельниччина",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0TKtUrzuRm8RU15oMZXQSp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T15:24:26.332Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Потап",
+      "Дядя Вадя",
+      "NAPILNIK"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730897537c57fc11d025101b76",
+    "releaseDate": "2023-12-06",
+    "tags": [
+      "rnb"
+    ],
+    "title": "Артан",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3KZj8DnHKpX6zbTu2RmvfU"
+  }
+]
