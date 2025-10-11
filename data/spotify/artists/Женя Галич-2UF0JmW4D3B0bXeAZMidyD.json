@@ -208,5 +208,26 @@
     "totalTracks": 15,
     "type": "album",
     "url": "https://open.spotify.com/album/4lr81PM44qG54yIJyP28Y5"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T03:22:59.592Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Женя Галич"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273af04b08f08989b5f40d557dd",
+    "releaseDate": "2025-10-10",
+    "tags": [
+      "rock"
+    ],
+    "title": "Коли ти плачеш",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0HJ2q77XaxzQoIht3HE0Gf"
   }
 ]

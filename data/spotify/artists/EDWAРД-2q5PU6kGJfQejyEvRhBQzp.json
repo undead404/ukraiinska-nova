@@ -525,5 +525,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/02QFfTK4fYUUtWesmHCRtI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T03:24:55.146Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "EDWAРД"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ecf2b2427d51a4dfbd0942fb",
+    "releaseDate": "2025-10-10",
+    "tags": [],
+    "title": "Під дощем",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3g4kqBNmf4SeiiIPAiJ15W"
   }
 ]

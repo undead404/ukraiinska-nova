@@ -113,5 +113,29 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/65pIh6U9UIUI2zB8PEhzha"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T03:24:45.753Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "D016",
+      "Kova97"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27381aa916fad7ceab51323695b",
+    "releaseDate": "2025-10-10",
+    "tags": [
+      "indie pop",
+      "indie rock",
+      "Lo-Fi"
+    ],
+    "title": "Зробимо це тут",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3Pm79LpFC9URu1xxj4KZP0"
   }
 ]
