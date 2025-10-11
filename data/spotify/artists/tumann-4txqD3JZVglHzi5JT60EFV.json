@@ -1,0 +1,21 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T16:25:47.550Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "tumann"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734202a57c79b635cd1a89e3bb",
+    "releaseDate": "2025-10-10",
+    "tags": [],
+    "title": "Подзвони",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5Q0HWztL6EsByzYfZvdQn8"
+  }
+]
