@@ -1,0 +1,119 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T01:54:22.320Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Pivovarov Prod",
+      "PTASHKIN",
+      "MLB"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27343cb9ac63e95dcac4138ef6f",
+    "releaseDate": "2025-05-07",
+    "tags": [
+      "electropop",
+      "Grunge"
+    ],
+    "title": "100 років",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3A15pJA9T22OKyQLRcw1sm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T01:54:22.320Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Pivovarov Prod",
+      "NAZVA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273086866dbf3374fe62c6f6856",
+    "releaseDate": "2024-11-22",
+    "tags": [
+      "electropop",
+      "folk",
+      "folk pop"
+    ],
+    "title": "Ток Ток",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0txrU8PGZu2G9mLU6k5kKI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T01:54:22.320Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Pivovarov Prod",
+      "KOLA",
+      "Geed"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d3da48a13e0e7ca8d3ebaa03",
+    "releaseDate": "2024-08-02",
+    "tags": [
+      "pop",
+      "electropop"
+    ],
+    "title": "Темно-синій",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2FPPjxFCZBKM7wboKRKw87"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T01:54:22.320Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Pivovarov Prod",
+      "PRIANA",
+      "Вікторія Деркач"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eb910a1a49c31639171fca36",
+    "releaseDate": "2024-06-14",
+    "tags": [
+      "electropop"
+    ],
+    "title": "Очі (Choir Live)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1CNv0Mkyo3K6fyF8Lktvib"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T01:54:22.320Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Artem Pivovarov"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273da8ca6a4ac932845282b0aac",
+    "releaseDate": "2024-11-29",
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "title": "Твої Вірші, Мої Ноти PT.2",
+    "totalTracks": 17,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4NYbJJwI4ylj4DLOTuhD1E"
+  }
+]

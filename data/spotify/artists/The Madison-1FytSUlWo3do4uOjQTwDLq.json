@@ -1082,5 +1082,27 @@
     "totalTracks": 36,
     "type": "album",
     "url": "https://open.spotify.com/album/2Xyx8Rmf49MRCa5qRl5uiO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T01:55:28.489Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "The Madison"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273266559820e0132aeb3486a8b",
+    "releaseDate": "2025-10-10",
+    "tags": [
+      "trance",
+      "progressive trance"
+    ],
+    "title": "Як Зорі",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3OwJpsvauIhbExvsipGast"
   }
 ]

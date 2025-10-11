@@ -17,5 +17,24 @@
     "totalTracks": 11,
     "type": "album",
     "url": "https://open.spotify.com/album/0JtUDIqbmEGnQ5qBkzTqdP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T01:50:03.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "край мене"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736d87047cc47ad7161f63aebf",
+    "releaseDate": "2023-06-20",
+    "tags": [],
+    "title": "27 - EP",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/28VqfaScEeLKQP9sddavR6"
   }
 ]

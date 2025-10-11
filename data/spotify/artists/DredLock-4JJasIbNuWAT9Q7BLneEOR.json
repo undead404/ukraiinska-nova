@@ -1,0 +1,85 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T01:52:45.534Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Morphom",
+      "DredLock",
+      "CRYBYE"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27316704a757fbff11f9cbbddbf",
+    "releaseDate": "2024-04-16",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Воля",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4eNsng5mVoehgvrOLMHnrh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T01:52:45.534Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Morphom",
+      "DredLock"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730d5429765fe8ba35fd75d82d",
+    "releaseDate": "2023-04-27",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Колискова",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5JbgD2w6gSUcYn9gWDuYFU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T01:52:45.534Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Romario Punch"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dc9947ef7d07a46cf96280cc",
+    "releaseDate": "2024-09-12",
+    "tags": [],
+    "title": "Session: Season 1",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/33YohqgZJO3piWA0Xraq2H"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T01:52:45.534Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Zamunda Futuristic"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f67a919c425fdca300574c67",
+    "releaseDate": "2023-09-01",
+    "tags": [],
+    "title": "777 Effect (Deluxe Version)",
+    "totalTracks": 14,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3j2jAEYvOMGKCy8SaJnLHf"
+  }
+]
