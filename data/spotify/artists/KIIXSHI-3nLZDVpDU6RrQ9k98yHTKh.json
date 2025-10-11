@@ -1349,5 +1349,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0TwAp1jAUFp1PQtdDlDDW3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T02:40:07.519Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KIIXSHI",
+      "D4C"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736cf2ef663b800a6240273ab4",
+    "releaseDate": "2025-10-10",
+    "tags": [],
+    "title": "SENTE A PRESSÃO",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4xuUuy9ue3ZWuZTEk5AFT1"
   }
 ]
