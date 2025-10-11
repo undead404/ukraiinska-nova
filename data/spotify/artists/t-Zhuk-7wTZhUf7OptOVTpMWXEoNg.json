@@ -349,6 +349,10 @@
       {
         "time": "2025-10-09T14:25:25.325Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-10-11T14:24:25.977Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1405,5 +1409,46 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/6Aw9r5SZvcQuN2YYg3ssPE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T14:24:25.977Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "t-Zhuk"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738923f4f5383a9c53d1cbfb1b",
+    "releaseDate": "2023-03-31",
+    "tags": [],
+    "title": "Betata",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3k3JOLEkZ8NsMAQVHlaIRM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T14:24:25.977Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "t-Zhuk",
+      "Monniker",
+      "F/Theme",
+      "isayiam"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273baca64a53125e38c78838172",
+    "releaseDate": "2022-07-29",
+    "tags": [],
+    "title": "Track Ids",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1GtGparruNrrVASGI3D3Uh"
   }
 ]
