@@ -245,5 +245,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lFa4FAYO4g09vnOOcBiMmNo8tDa_pJ-dU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T02:11:56.344Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "qBuy"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/XUlN-PtmAG5i3Sr3z0gGd1Ia_4_7HY-PHtnNh6utlyfu8CEuJXzy3nx6HB1yKEkAxtjICilakcabq2h7=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "SKANK",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mUa5PAuFCcYpfcOPQ68Cw_MnnRfY3YF_E"
   }
 ]
