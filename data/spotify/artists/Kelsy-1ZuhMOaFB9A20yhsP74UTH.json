@@ -1,0 +1,48 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-12T21:23:35.519Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ostrovskyi",
+      "MOLODI",
+      "Kelsy"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739312473d04024bdbf0cd8d86",
+    "releaseDate": "2022-09-22",
+    "tags": [
+      "pop"
+    ],
+    "title": "Незалежність (Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2BAh1HfaC3BXQHIvYyW1nx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-12T21:23:35.519Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ostrovskyi",
+      "MOLODI",
+      "Kelsy"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730e00467404a9a0a115ff8f25",
+    "releaseDate": "2022-08-05",
+    "tags": [
+      "pop"
+    ],
+    "title": "Незалежність",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3k7W6bYW0qiYR8on0exqJk"
+  }
+]

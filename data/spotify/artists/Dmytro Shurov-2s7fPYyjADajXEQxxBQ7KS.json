@@ -1,0 +1,24 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-12T21:22:19.278Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Dmytro Shurov",
+      "Pianoboy"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732e5a71df8ba1cd63d17974db",
+    "releaseDate": "2017-03-30",
+    "tags": [
+      "piano"
+    ],
+    "title": "Вітчизна",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4CdiHsdxwQ1cRk8Z7ik1mU"
+  }
+]
