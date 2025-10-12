@@ -1,0 +1,119 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-12T01:54:10.034Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "oppi mpanda",
+      "DJ Shon"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d2774a65e32efab83c1cde6b",
+    "releaseDate": "2022-01-30",
+    "tags": [
+      "instrumental hip-hop"
+    ],
+    "title": "Шабля",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7HailjAHtvXS5yzdOZpgYD"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-12T01:54:10.034Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "oppi mpanda"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f24c8cee40e7e8ad78d2c6c6",
+    "releaseDate": "2021-12-18",
+    "tags": [],
+    "title": "димим",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5I249B08uDHqjdclf7x87a"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-12T01:54:10.034Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Improvise Beats"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dd629a35922fd0e9238dfb1c",
+    "releaseDate": "2024-06-01",
+    "tags": [],
+    "title": "Капуста",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/11Mv0OajKLmIVJwXIF0jeb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-12T01:54:10.034Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Improvise Beats"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f8c69190a8ee2cb4834ac5d0",
+    "releaseDate": "2019-01-07",
+    "tags": [],
+    "title": "репу шоб повно",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4M9McLLUjzbHI9iSKsFmWv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-12T01:54:10.034Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Improvise Beats"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f7d464fa6898b75431b69db5",
+    "releaseDate": "2024-12-25",
+    "tags": [],
+    "title": "Mic Attack",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6mBOVTxFIjuz2EiI6GWLsx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-12T01:54:10.034Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Improvise Beats"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738c6c53994b119b8f591f531f",
+    "releaseDate": "2011-08-26",
+    "tags": [],
+    "title": "клинок правди 2011",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7zrZvJlXon7SEzduWoJ7tV"
+  }
+]
