@@ -564,6 +564,10 @@
       {
         "time": "2025-09-19T22:24:56.988Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-11T22:23:15.121Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -888,6 +892,10 @@
       {
         "time": "2025-09-19T22:24:56.988Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-11T22:23:15.121Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -913,6 +921,10 @@
       {
         "time": "2025-09-19T22:24:56.988Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-11T22:23:15.121Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1193,6 +1205,10 @@
       {
         "time": "2025-10-09T22:24:53.677Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-11T22:23:15.121Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1230,5 +1246,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3VKdu2u6JgWXCgWdM1o5yu"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T22:23:15.122Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MamaRika",
+      "Roland (UA)"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d431dcc42818d7b60754811b",
+    "releaseDate": "2018-05-25",
+    "tags": [
+      "pop"
+    ],
+    "title": "ХХДД (Roland Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5GPLuhDjFV01rw3LbCgWDP"
   }
 ]

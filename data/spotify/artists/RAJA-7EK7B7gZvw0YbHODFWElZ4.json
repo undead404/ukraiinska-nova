@@ -631,5 +631,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2kyMFXcLEklKjSdy9223z5"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-12T15:25:46.008Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "RAJA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c3a91c089f0f2aec27c0abe1",
+    "releaseDate": "2025-10-12",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Guru EP",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7s5Dhzn9zle1u40Wie7s4J"
   }
 ]

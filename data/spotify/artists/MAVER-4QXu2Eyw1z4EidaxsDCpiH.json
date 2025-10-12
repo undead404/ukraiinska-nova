@@ -2873,5 +2873,29 @@
     "totalTracks": 9,
     "type": "album",
     "url": "https://open.spotify.com/album/5B9CjGkhD3kI7SzzJWjRa7"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-12T00:43:17.484Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MAVER"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273677296ac1c576d190391a1bf",
+    "releaseDate": "2025-10-11",
+    "tags": [
+      "chillout",
+      "House",
+      "dance",
+      "electronic"
+    ],
+    "title": "Ой у лузі червона калина",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7GNuY0FozZmT7zE3DuPSpr"
   }
 ]

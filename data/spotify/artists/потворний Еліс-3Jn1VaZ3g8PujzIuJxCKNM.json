@@ -1,0 +1,62 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T13:22:22.880Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "потворний Еліс"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f6bd085de1118e7f66fd4705",
+    "releaseDate": "2025-06-06",
+    "tags": [],
+    "title": "Голос",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/59DBHU1PwYXFKLqLB1SHNv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T13:22:22.880Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "morgendie",
+      "потворний Еліс"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273962b3991fe38ae6e596c5dc2",
+    "releaseDate": "2025-08-25",
+    "tags": [
+      "darkwave"
+    ],
+    "title": "Шум",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5rdkUP9gITx5kUA9OrdQ6T"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T13:22:22.880Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "потворний Еліс"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730d70b32d70ef420e048da8f4",
+    "releaseDate": "2025-04-04",
+    "tags": [],
+    "title": "Мій дім",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2EU4r7E6H5b1k3SDOLrGPq"
+  }
+]

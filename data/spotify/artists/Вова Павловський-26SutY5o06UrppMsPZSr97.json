@@ -1,0 +1,97 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T09:19:57.087Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гурт Дно",
+      "Вова Павловський"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27303786b05767c923f08b0ff3a",
+    "releaseDate": "2025-02-17",
+    "tags": [
+      "indie pop",
+      "indie rock",
+      "Avant-Pop"
+    ],
+    "title": "дуже хочу",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5oWnrJtj4o6O4N0dJkS8wf"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T09:19:57.087Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Moann",
+      "Вова Павловський",
+      "Гурт Дно"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734654c340783b1885a16048f6",
+    "releaseDate": "2023-09-07",
+    "tags": [
+      "indie pop",
+      "indie rock",
+      "Avant-Pop"
+    ],
+    "title": "Дні",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1DUalbyfJrlY3pCPIRpe9e"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T09:19:57.087Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гурт Дно",
+      "Вова Павловський",
+      "Abo Ofo"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27351a2cca56b129596a3dcecac",
+    "releaseDate": "2023-05-26",
+    "tags": [
+      "indie pop",
+      "indie rock",
+      "Avant-Pop"
+    ],
+    "title": "Пріоритети",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/52DOB2NZK0WR2RB4GDUDDn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T09:19:57.087Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Moann"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273579af0b1b0f5ca99b925841b",
+    "releaseDate": "2024-03-22",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "повітряний змій",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1ysTEDNsCRQyVyz9QbIRLg"
+  }
+]

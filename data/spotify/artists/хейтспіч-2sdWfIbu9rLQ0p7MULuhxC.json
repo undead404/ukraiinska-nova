@@ -937,12 +937,16 @@
       {
         "time": "2025-10-06T15:22:35.432Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-10-12T15:21:47.157Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Alex Yarmak"
     ],
-    "artistsPopularity": 33,
+    "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d7a91499acae36e7ed65b365",
     "releaseDate": "2023-06-15",
     "tags": [

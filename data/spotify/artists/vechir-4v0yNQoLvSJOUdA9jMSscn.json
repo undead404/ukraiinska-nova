@@ -1,0 +1,40 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T13:27:12.008Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "vechir"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735e055872c218e3fb480b6374",
+    "releaseDate": "2020-05-07",
+    "tags": [],
+    "title": "Светлые Мысли",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1KyklHSJF2DMtXvjiOoilz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T13:27:12.008Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "vechir"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27324a0a0559dc1d6152753f524",
+    "releaseDate": "2019",
+    "tags": [],
+    "title": "Як той",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3IzxEA1ilIdQ8kVSChRGtd"
+  }
+]

@@ -343,5 +343,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4Fm9C8pS2n1Vjb6LMUjhFP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-11T08:22:04.768Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Юрій Йосифович"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a5e44af5d097e261447993d7",
+    "releaseDate": "2025-10-10",
+    "tags": [
+      "folk"
+    ],
+    "title": "Ой по горі роман цвіте (ЙОСИФОВИЧ LIVE)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0h9GzxWL3eky3WazWQlfMf"
   }
 ]

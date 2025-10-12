@@ -994,5 +994,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3D7nR09W2w5K1o4SSWvZh7"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-12T04:23:06.193Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Doridufist"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27394241b3bcad9fe701a168511",
+    "releaseDate": "2025-10-12",
+    "tags": [],
+    "title": "Skrrt",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1dAgUny3g7Yqm99XBLeb63"
   }
 ]
