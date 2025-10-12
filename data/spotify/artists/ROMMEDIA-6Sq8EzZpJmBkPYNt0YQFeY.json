@@ -66,5 +66,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1lfyA8zLzpIFMoFSDJmkbn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-12T09:24:40.815Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROMMEDIA"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27301bb3d5220fb022dd311d6d1",
+    "releaseDate": "2025-10-10",
+    "tags": [],
+    "title": "Кохай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5xpoUhSzSDyJg30blnpeLG"
   }
 ]
