@@ -1,0 +1,61 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-12T20:23:16.700Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "REQUITIR",
+      "BOXCVTTER"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f03eb3e6f29f7be9c93f5c90",
+    "releaseDate": "2023-06-14",
+    "tags": [],
+    "title": "Моє море темне (каттер вершн)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3fvkSCD7VIu8LUuGrvA73P"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-12T20:23:16.700Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "lilslavnyy",
+      "BOXCVTTER"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e29af87f948138420a148c46",
+    "releaseDate": "2023-03-31",
+    "tags": [],
+    "title": "GTA RP",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4pDw5ILr6Y4FRGDWBp8xAH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-12T20:23:16.700Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BOXCVTTER"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273507ad3f6f56c85b83a2d42c5",
+    "releaseDate": "2022-12-23",
+    "tags": [],
+    "title": "альтуха!",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1mNa1iW0v5eU9Cmt26vpa8"
+  }
+]
