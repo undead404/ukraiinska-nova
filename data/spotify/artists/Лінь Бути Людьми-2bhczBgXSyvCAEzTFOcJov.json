@@ -1,0 +1,43 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-12T00:39:38.509Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Лінь Бути Людьми"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b0b3bc5be8fd496b46f5b150",
+    "releaseDate": "2023-03-01",
+    "tags": [],
+    "title": "Моє ім'я",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1yEx3eO6VtSEpxHf9LEjwy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-12T00:39:38.509Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Лінь Бути Людьми",
+      "Nockonsep"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736743b8d8938ae1d1f7862e34",
+    "releaseDate": "2023-02-15",
+    "tags": [
+      "rap"
+    ],
+    "title": "Київська Традиція",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7lZbeJxIBRbcDuAptTqhtZ"
+  }
+]
