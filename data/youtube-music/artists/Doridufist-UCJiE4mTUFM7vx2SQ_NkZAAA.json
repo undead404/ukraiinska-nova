@@ -910,5 +910,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lDC1pPXJe5oqPM9XRBPQ6Et2T9FLfHgOw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-12T18:47:20.696Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DORIDUFIST"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://lh3.googleusercontent.com/3jKTOxWVnkBPFXv0UeWShXJ9bpvDTQOJnasmBK1EN24-WnOfca8O7U8zG1qr1g7fnJD4f68fegmXmFw=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Skrrt",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lHv2Spyh_rPd4iFdQveIbfHxmeBca3zW8"
   }
 ]
