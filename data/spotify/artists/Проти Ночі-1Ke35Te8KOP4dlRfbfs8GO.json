@@ -108,5 +108,27 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/00xCjpv2Rf3pdysrBt1chT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-12T16:21:24.517Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Проти Ночі"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ceba333964c24265853f76cc",
+    "releaseDate": "2025-10-11",
+    "tags": [
+      "rock",
+      "funk"
+    ],
+    "title": "Майбуття",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1vv1FbNCDhU0YpUCyYbUGM"
   }
 ]
