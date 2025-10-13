@@ -1,0 +1,117 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-13T08:26:11.414Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PAAT",
+      "RUSIIICK"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273632d847ac141dc1feece0a0c",
+    "releaseDate": "2023-08-23",
+    "tags": [
+      "post-punk",
+      "rap",
+      "hardcore hip hop",
+      "rap rock",
+      "finnish"
+    ],
+    "title": "Київ воєнний (remix compilation)",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6YR1rv3aqWfOwuCakyzOJo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-13T08:26:11.414Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PAAT"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27311ec179d9523411ea5376420",
+    "releaseDate": "2023-05-23",
+    "tags": [
+      "post-punk",
+      "finnish"
+    ],
+    "title": "Alone",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4MV5DPdRyAOiFDm9RrgoVu"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-13T08:26:11.414Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "RUSIIICK",
+      "PAAT"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b383ea4d5e42ce33d87ba5b5",
+    "releaseDate": "2022-10-21",
+    "tags": [
+      "post-punk",
+      "rap",
+      "hardcore hip hop",
+      "rap rock",
+      "finnish"
+    ],
+    "title": "Київ воєнний",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6CCyU3eQJo7jURGc0Tlydp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-13T08:26:11.414Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Oi FUSK"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d01d13fd43a7a3d78036a7ed",
+    "releaseDate": "2023-04-02",
+    "tags": [
+      "Grime",
+      "indie pop"
+    ],
+    "title": "ЛОГОС",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/24kcupCGXotsxNSGBgGqzi"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-13T08:26:11.414Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "C.W.M"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27312f163e8af9ec705d20080f5",
+    "releaseDate": "2023-10-20",
+    "tags": [],
+    "title": "Let Him Cook",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5xlLBhfIBOPyIq3BTIpoqr"
+  }
+]
