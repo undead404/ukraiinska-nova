@@ -75,5 +75,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7D8RrA8NmYlEArI6eyFdLq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-13T23:32:01.367Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "EDGAR TI"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734b9266030c072d8bb87845e2",
+    "releaseDate": "2025-10-13",
+    "tags": [],
+    "title": "Ізабелла",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/69Smvim3E6wVpUsk2MVFiY"
   }
 ]
