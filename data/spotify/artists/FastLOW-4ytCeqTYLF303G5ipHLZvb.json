@@ -1,0 +1,78 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-13T22:25:41.467Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "FastLOW"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27351a91bbc1c67b5d23b282ccc",
+    "releaseDate": "2020-04-17",
+    "tags": [],
+    "title": "Trap & Rap",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4y2QCioNpHV6ZMFibanWlZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-13T22:25:41.467Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "FastLOW"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735bb3d286d9fa668c6eb20211",
+    "releaseDate": "2025-02-07",
+    "tags": [],
+    "title": "Царь-бімба",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0dDPrelGacHeGkFEYnYRAz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-13T22:25:41.467Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "FastLOW"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733d5d06b9c843bc40e21e2624",
+    "releaseDate": "2023-04-17",
+    "tags": [],
+    "title": "Остаток убитого вдохновения",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2DYP5qQ89mVGjWalSplSVb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-13T22:25:41.467Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "FastLOW"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736d2486552b7609fb9958accf",
+    "releaseDate": "2020-07-31",
+    "tags": [],
+    "title": "Race Phonk",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4F57xAJNoXyJTwS1kbpBaX"
+  }
+]
