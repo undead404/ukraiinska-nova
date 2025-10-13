@@ -1,0 +1,41 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-13T18:26:40.044Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Freddy Marx Street"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c4c803f4df12bcd178a43eb2",
+    "releaseDate": "2014-05-18",
+    "tags": [],
+    "title": "To Go With You",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/630QeFBkOQyo5veLU0w5mr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-13T18:26:40.044Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Freddy Marx Street",
+      "PANCHYSHYN"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c6ff06853604b3ca2f28b0a1",
+    "releaseDate": "2015-12-17",
+    "tags": [],
+    "title": "Зозуленька",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6DsBs70xdYoY1iwRruyaDL"
+  }
+]
