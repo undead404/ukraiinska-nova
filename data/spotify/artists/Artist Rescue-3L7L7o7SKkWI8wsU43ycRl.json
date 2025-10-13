@@ -1,0 +1,66 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-13T06:24:00.898Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PVNCH",
+      "Artist Rescue"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a67c85eb8d7a93b91b1793ff",
+    "releaseDate": "2022-11-11",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "SKOP",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6Drj8kfhoUK7Ro5lUFDboP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-13T06:24:00.898Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PVNCH"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b7d5dc31517d860a92498918",
+    "releaseDate": "2021-06-21",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Переживем",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6iRa6bAjxaZyLRGbzjI0k0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-13T06:24:00.898Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PVNCH"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27342906aa3d2b711bbb757209d",
+    "releaseDate": "2021-04-23",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Цi",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6SWgK5WtW79R2wnw907h3g"
+  }
+]
