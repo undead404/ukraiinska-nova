@@ -641,5 +641,26 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/7bPWo631QkwtxpVDlNbdFQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-13T21:39:54.664Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "AnalogMonks"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aa7b42a99c357bd221b9f9b2",
+    "releaseDate": "2012-10-01",
+    "tags": [
+      "electro"
+    ],
+    "title": "AnalogMonks",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5B5g3O2fvRGlNUHCKFa4V4"
   }
 ]
