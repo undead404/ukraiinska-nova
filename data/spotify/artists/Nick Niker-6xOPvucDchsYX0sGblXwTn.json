@@ -1,0 +1,150 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-13T12:28:00.761Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Nick Niker"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730fe88f4c0ca521a8d7ac91fe",
+    "releaseDate": "2023-09-13",
+    "tags": [],
+    "title": "THE ARTIST (Original Motion Picture Soundtrack)",
+    "totalTracks": 25,
+    "type": "album",
+    "url": "https://open.spotify.com/album/56YUQjeEN8haf9ybWs85eS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-13T12:28:00.761Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Uppbeat",
+      "Nick Niker"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735ad1759d59c466ffc845de40",
+    "releaseDate": "2024-09-25",
+    "tags": [],
+    "title": "One last time",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6tVzCTNBWhHho4GQgS08vt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-13T12:28:00.761Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "O.Torvald",
+      "Nick Niker"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a25eb32dde31c4da0d9c5974",
+    "releaseDate": "2015-09-18",
+    "tags": [
+      "alternative rock",
+      "pop punk"
+    ],
+    "title": "Все це знов (Nick Niker Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2QeKWfHBtoPz7SaAymfIGo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-13T12:28:00.761Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "O.Torvald"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273599b5c0f72e0696e9ae696df",
+    "releaseDate": "2016-12-30",
+    "tags": [
+      "alternative rock",
+      "pop punk"
+    ],
+    "title": "#нашілюдивсюди",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1Gp7pcul3aXlw1dKL6LGXd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-13T12:28:00.761Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "O.Torvald"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fe2023eee1464caa395fec15",
+    "releaseDate": "2017-10-12",
+    "tags": [
+      "alternative rock",
+      "pop punk"
+    ],
+    "title": "Бісайди",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1XBECcWlC6VOGwLEmVyHy5"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-13T12:28:00.761Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Jetvillains"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27383c9c2ffeea3e4927bc67ef4",
+    "releaseDate": "2016-10-05",
+    "tags": [],
+    "title": "VILLAINS UNITED 2",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5vKQPa7vmT9q01SAJKFN5R"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-13T12:28:00.761Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PLC"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f5c1b7521fb6671396516a75",
+    "releaseDate": "2017-04-17",
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "underground hip-hop"
+    ],
+    "title": "Глаза (Nick Niker Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2XqMwxOnJT760XaF5xFCGn"
+  }
+]
