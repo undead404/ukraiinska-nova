@@ -1,0 +1,108 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-13T05:23:14.175Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Tina Karol",
+      "Boosin",
+      "Bloodless"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733b9fa3720d85a096108cbee6",
+    "releaseDate": "2023-12-05",
+    "tags": [
+      "House",
+      "pop",
+      "techno",
+      "thrash metal",
+      "melodic techno",
+      "Progressive House"
+    ],
+    "title": "НЕ СВЯТІ (Boosin & Bloodless Disco Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/74umfw71kXFUPd6LaaM3sv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-13T05:23:14.175Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Tina Karol"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732aee518232043a7579e45ff4",
+    "releaseDate": "2024-04-12",
+    "tags": [
+      "pop"
+    ],
+    "title": "ТРОЯНДИ",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1AblCVBxy5ZmoStcS0OMyD"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-13T05:23:14.175Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Shinra Tensei"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27303d10bf2bea20f24fd2f55dd",
+    "releaseDate": "2023-01-20",
+    "tags": [],
+    "title": "The Ghost Of The Uchiha",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7JY6uWtnWcSPMqsSFjKWVF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-13T05:23:14.175Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Shinra Tensei"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273703dbe8387a8729175b73c5e",
+    "releaseDate": "2021-10-08",
+    "tags": [],
+    "title": "Betray your village",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3jjtMn5fbZERPp7WyjNidM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-13T05:23:14.175Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Badlxck"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735d036f8cb089a40e0394f215",
+    "releaseDate": "2020-12-11",
+    "tags": [],
+    "title": "Fxck the Hype",
+    "totalTracks": 21,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7uRkTPdzEB2Xq3ttt18vdl"
+  }
+]
