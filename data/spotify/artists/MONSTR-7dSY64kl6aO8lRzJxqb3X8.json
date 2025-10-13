@@ -1,0 +1,111 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-13T15:25:57.656Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MONSTR",
+      "PVNCH"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27374ed105cf712fa30464668bf",
+    "releaseDate": "2023-06-30",
+    "tags": [
+      "dubstep",
+      "Hip-Hop"
+    ],
+    "title": "Повільно",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6csvE6ILEtxXL2qz67CBLJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-13T15:25:57.656Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MONSTR"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27324f18b1a9fbb21332d228072",
+    "releaseDate": "2023-06-02",
+    "tags": [
+      "dubstep"
+    ],
+    "title": "Сусід",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4idK2roKjDzKsNmYQHz3FQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-13T15:25:57.656Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MONSTR"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27339099c49fa9f19eab8b0271d",
+    "releaseDate": "2023-03-31",
+    "tags": [
+      "dubstep"
+    ],
+    "title": "Вірю",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/200Kzyg4AkUozxojOEJOVQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-13T15:25:57.656Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ВАТАГА"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27395998d9757788ffc5003c5ab",
+    "releaseDate": "2023-06-13",
+    "tags": [
+      "rap",
+      "Hip-Hop",
+      "underground hip-hop"
+    ],
+    "title": "ПСАЙФЕР",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4HmUHPMpRmuthtKU45A89l"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-13T15:25:57.656Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DAKAYAK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739049209fec58380e11fdca3e",
+    "releaseDate": "2021-06-25",
+    "tags": [
+      "rap"
+    ],
+    "title": "Надвоє",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4Lt5KYVimRXBSjboOTT145"
+  }
+]
