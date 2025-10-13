@@ -1,0 +1,46 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-13T14:26:38.226Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Postsense",
+      "Taras Kozak"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739d4b0037568c121bbe7d1bca",
+    "releaseDate": "2021-07-01",
+    "tags": [
+      "alternative"
+    ],
+    "title": "Чорний лист (Taras Kozak Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4F4t6h8CGhEdZz4Rh9Nq0y"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-13T14:26:38.226Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Postsense",
+      "Taras Kozak"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732eb10afb0038d113c2debbcb",
+    "releaseDate": "2019-11-13",
+    "tags": [
+      "alternative"
+    ],
+    "title": "Що ж то, мамо, за дерево (Taras Kozak Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6wfySX35cHdWJWLYpl77vt"
+  }
+]
