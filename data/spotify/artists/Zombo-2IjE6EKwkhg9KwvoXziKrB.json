@@ -839,5 +839,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0NIcORzmL5kLMX8H8oSBpA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-14T12:31:30.305Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Zombo"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ef27b13f3c1b2b24a46b619a",
+    "releaseDate": "2025-10-14",
+    "tags": [],
+    "title": "На розі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6NfWhEQpduz8u6BXu56dox"
   }
 ]
