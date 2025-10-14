@@ -158,5 +158,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/12QG9ZiJbsT0kHEsks4Ylm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-14T16:23:36.401Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "iSKra"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b2f6f65fff979403f8c2bce6",
+    "releaseDate": "2025-10-14",
+    "tags": [
+      "Crust",
+      "blackened crust",
+      "black metal"
+    ],
+    "title": "Збирай мене",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5yPX7pHhaeQCqTLKbBTmuZ"
   }
 ]
