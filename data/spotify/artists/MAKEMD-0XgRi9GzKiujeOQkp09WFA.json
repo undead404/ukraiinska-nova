@@ -682,5 +682,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4HY5vsNCxbtqqwqv2W8JH9"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-14T03:33:03.643Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MAKEMD"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27353d4accdc0f269d5367d0515",
+    "releaseDate": "2025-10-13",
+    "tags": [],
+    "title": "Where you are",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0unwIgNo26dWJMnvbzyA2N"
   }
 ]
