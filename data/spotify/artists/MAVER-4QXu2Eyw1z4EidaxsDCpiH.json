@@ -2897,5 +2897,29 @@
     "totalTracks": 9,
     "type": "album",
     "url": "https://open.spotify.com/album/7GNuY0FozZmT7zE3DuPSpr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-14T00:46:02.763Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MAVER"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27311785bf8146ebdc7d8af2355",
+    "releaseDate": "2025-10-13",
+    "tags": [
+      "chillout",
+      "House",
+      "dance",
+      "electronic"
+    ],
+    "title": "В саду гуляла",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2AVZ725uNBN4OpWacZgJ6m"
   }
 ]
