@@ -93,6 +93,10 @@
       {
         "time": "2025-09-20T23:23:46.805Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-14T23:22:52.771Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -236,5 +240,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5gsrtQIaCGy3C3Gp0GpvBE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-14T23:22:52.771Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ПРОКЛЯТИЙ ***"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fcc4be0bd1a2dd650d1949c3",
+    "releaseDate": "2023-11-17",
+    "tags": [
+      "punk rock"
+    ],
+    "title": "DAMN END",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3EVPoSfESLroROqgJGLeJX"
   }
 ]
