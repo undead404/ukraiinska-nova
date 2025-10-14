@@ -1859,5 +1859,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/45oRWSYcUOADJg6gJBdFZ3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-14T22:24:55.744Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Maryna Krut",
+      "Sofia Leshyshak",
+      "Valeriia Vovk",
+      "Morphom"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e8352f382744b4e299e933c6",
+    "releaseDate": "2025-10-14",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Світлом до світла",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0t6zkrStknDaOuQlcc9li2"
   }
 ]
