@@ -724,5 +724,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mGmIIsqwNk3LSInqVXY15KS-Dp3pqLb6E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-14T23:46:39.557Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MakeMD"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/x8RjgGcpgudBNZ9OBDLKb_pSAdJ8zhp5suiGVQFHgkulPYxKzCuEApqf_sS18G1wAgbAmPVGAFmQfjj3=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Where you are",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k8xx8aSllYwqrQEq2wQOgX0d25FskODOI"
   }
 ]
