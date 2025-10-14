@@ -1028,12 +1028,16 @@
       {
         "time": "2025-10-10T08:30:05.340Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-10-14T08:31:27.796Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Deepwine"
     ],
-    "artistsPopularity": 1,
+    "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27387e06a1e68fd1db21155bbb3",
     "releaseDate": "2018-12-26",
     "tags": [
@@ -1050,6 +1054,10 @@
       {
         "time": "2025-10-10T08:30:05.340Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-14T08:31:27.796Z",
+        "type": "LOST"
       }
     ],
     "artists": [
