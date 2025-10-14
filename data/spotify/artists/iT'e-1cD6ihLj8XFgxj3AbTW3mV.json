@@ -210,5 +210,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0KCy7n0cis7T2c1kx69Mer"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-14T14:23:31.644Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "1661 Big Stepa"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c50033550e0f4274a0d85de0",
+    "releaseDate": "2025-10-14",
+    "tags": [],
+    "title": "TOPIM ZA TRUEEE",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6ieagAHuhOpB2F1HMl9jwl"
   }
 ]
