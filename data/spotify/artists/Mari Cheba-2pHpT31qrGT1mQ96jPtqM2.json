@@ -464,5 +464,30 @@
     "totalTracks": 8,
     "type": "album",
     "url": "https://open.spotify.com/album/5gcA7MGPIMIreLxq8THgX2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-14T19:24:15.391Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NORD DIVISION",
+      "Slavik Cherep",
+      "Mari Cheba"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739fb2f3991486184e3e2982f0",
+    "releaseDate": "2025-10-14",
+    "tags": [
+      "electronic",
+      "rap",
+      "trip-hop"
+    ],
+    "title": "ЗОЛОТО",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6mdpFfci2xFbEhtBg6Jo0F"
   }
 ]
