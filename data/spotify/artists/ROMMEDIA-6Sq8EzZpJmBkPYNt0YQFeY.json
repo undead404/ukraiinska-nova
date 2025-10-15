@@ -93,5 +93,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5xpoUhSzSDyJg30blnpeLG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-15T09:25:36.269Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROMMEDIA"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730cbe4a28947dceebf925dcc3",
+    "releaseDate": "2025-10-11",
+    "tags": [],
+    "title": "Порушую режим",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/62LzhdTD5BDlC5NFXAJGVy"
   }
 ]
