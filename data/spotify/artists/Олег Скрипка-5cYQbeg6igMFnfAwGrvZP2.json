@@ -754,5 +754,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1Sy5bmSMp90I9LYiGdS7GE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-15T01:51:29.998Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олег Скрипка",
+      "Джаз-кабаре \"Забава\""
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273468df81797b9e2f1f82b75a0",
+    "releaseDate": "2025-10-14",
+    "tags": [
+      "rock",
+      "blues rock"
+    ],
+    "title": "Вибране (2025 Version)",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/416zQUkBDjY6UJTLbeuRwT"
   }
 ]
