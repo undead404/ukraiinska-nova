@@ -812,5 +812,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mt60QK2bkcGl0WzhoKcx5VrNn9763kVkQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-15T20:47:45.141Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Adam"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/xR_9ms-hMjcCCy7nXx24u0lJyk9OCaFBV1v1bPDNRwwC7ou5umF8VLDmxZs5E_g3ljoTZYj0bYyyvK_c=w544-h544-l90-rj",
+    "releaseDate": "2018",
+    "tags": [
+      "dark electro",
+      "ebm"
+    ],
+    "title": "Метелица",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nxBvSFNqBPcQsdwQ93la6fHvdpxGUVuQo"
   }
 ]
