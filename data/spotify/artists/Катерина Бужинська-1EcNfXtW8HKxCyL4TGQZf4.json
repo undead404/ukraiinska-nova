@@ -967,5 +967,24 @@
     "totalTracks": 16,
     "type": "album",
     "url": "https://open.spotify.com/album/04MZkxftu0yH15m5FZFgub"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-15T15:20:58.672Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Катерина Бужинська"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273192e88d2f4a212d1ace35220",
+    "releaseDate": "2025-10-15",
+    "tags": [],
+    "title": "Вириваюсь з любові",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/31bAJUTuX715Niib2q3Hvy"
   }
 ]
