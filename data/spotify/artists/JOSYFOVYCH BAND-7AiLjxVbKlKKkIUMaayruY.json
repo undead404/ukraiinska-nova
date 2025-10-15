@@ -152,5 +152,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1YxHnka29UoIhPItibeIbR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-15T17:24:47.268Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Юрій Йосифович",
+      "JOSYFOVYCH BAND"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d810daa6d38eacc0c5e8e656",
+    "releaseDate": "2025-10-09",
+    "tags": [
+      "folk"
+    ],
+    "title": "Щось чорніє",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7KrurqtLJ80gvay3NMYj1o"
   }
 ]
