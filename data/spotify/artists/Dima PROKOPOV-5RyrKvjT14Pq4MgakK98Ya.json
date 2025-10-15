@@ -662,5 +662,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0VkunKpOJsxCIjDHijqsR8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-15T10:23:12.269Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Dima PROKOPOV"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739445a29fdd276eb1d03cc008",
+    "releaseDate": "2025-10-15",
+    "tags": [],
+    "title": "Любов останньою ніколи не буває",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4KXom1Tf54KhRMXZUl0exw"
   }
 ]
