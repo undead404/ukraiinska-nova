@@ -830,5 +830,43 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4iJ71cTCo8lQczF3XyGcin"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T09:22:16.157Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Українські Діаманти"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27393780ea626eea9ae7a90682b",
+    "releaseDate": "2025-10-15",
+    "tags": [],
+    "title": "Ой на горі два дубки",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1puxG032MeXg1ZCK4R4Qoo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T09:22:16.157Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Українські Діаманти"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27302ee3244e6a40e3a7c0b0ef6",
+    "releaseDate": "2025-10-15",
+    "tags": [],
+    "title": "Лілія",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0sSaYnbfU6RRuAkyNScSB3"
   }
 ]
