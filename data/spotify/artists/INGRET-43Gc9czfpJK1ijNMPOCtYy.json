@@ -368,5 +368,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/15VDpiXwfORAMP4us7kbeA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T06:25:18.415Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "INGRET"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bdccc6c3071d30a6b5f019b7",
+    "releaseDate": "2025-10-16",
+    "tags": [
+      "pop"
+    ],
+    "title": "Могутня Фігура (Acoustic Live)",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3xjXrBDNiQtVNz7T3LReAo"
   }
 ]
