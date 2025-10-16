@@ -1,0 +1,40 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T20:26:28.407Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KOVDRA"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f1181d8dee6b6d2c66a41553",
+    "releaseDate": "2025-06-20",
+    "tags": [],
+    "title": "Орбіта",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/30GpyIT99TmCu0WLLY3wji"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T20:26:28.407Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KOVDRA"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273333d1d6ad5e60a3a0ac5b5b8",
+    "releaseDate": "2025-03-30",
+    "tags": [],
+    "title": "Кубиком льоду",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6qXUnDCvWN3jmUBxKDyRbm"
+  }
+]
