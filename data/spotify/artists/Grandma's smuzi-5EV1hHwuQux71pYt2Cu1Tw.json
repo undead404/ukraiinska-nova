@@ -692,5 +692,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5speCIwymBWnqhn9scg1fn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T12:26:35.216Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Grandma's Smuzi"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734fc26ed740263e8cddcca9aa",
+    "releaseDate": "2025-10-16",
+    "tags": [
+      "rock"
+    ],
+    "title": "Лабіринти Душ",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6VX9vG1cTzPOHvnHhzFdRx"
   }
 ]

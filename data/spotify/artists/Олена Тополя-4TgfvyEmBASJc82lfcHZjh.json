@@ -1090,5 +1090,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/70WUvSoQNdwZIbQ7oBk0zA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T12:23:33.103Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олена Тополя"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b1c24167a3779a4b85850813",
+    "releaseDate": "2025-10-16",
+    "tags": [],
+    "title": "Обеззброєна (Acoustic Version)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7FCGY91HXqQM7PSR24HWUy"
   }
 ]
