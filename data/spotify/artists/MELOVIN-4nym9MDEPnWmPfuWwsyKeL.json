@@ -790,5 +790,26 @@
     "totalTracks": 16,
     "type": "album",
     "url": "https://open.spotify.com/album/52fiihNuFYJmhalWNQ8QKp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T19:24:02.636Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f4fe7e2ef01de25a112722f6",
+    "releaseDate": "2025-10-16",
+    "tags": [
+      "pop"
+    ],
+    "title": "просто лети",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4B5BbkKTfD24NZC4VuMWUT"
   }
 ]
