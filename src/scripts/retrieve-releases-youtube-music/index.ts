@@ -88,7 +88,10 @@ async function main(): Promise<void> {
     console.log(`Знайдено ${allNewReleases.length} нових релізів`);
 
     if (allNewReleases.length > 0) {
-      const posts = mapReleasesToPosts(ignoreOldReleases(allNewReleases));
+      const posts = mapReleasesToPosts(
+        ignoreOldReleases(allNewReleases),
+        false,
+      );
       await postToBluesky(
         environment.BLUESKY_IDENTIFIER_FOR_YOUTUBE_MUSIC,
         environment.BLUESKY_PASSWORD_FOR_YOUTUBE_MUSIC,
