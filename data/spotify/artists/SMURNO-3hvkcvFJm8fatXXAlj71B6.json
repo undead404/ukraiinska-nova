@@ -1,0 +1,107 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T22:25:59.986Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SMURNO"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d34ff480cf2e1b34041a2085",
+    "releaseDate": "2025-01-31",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Холодно",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5JurKArOH3mKWIafkCSLgN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T22:25:59.986Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SMURNO"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730f5b8aea38a4bd31c7c8cdb3",
+    "releaseDate": "2024-11-29",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "По колу",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7sjqN9695SPAYEaXGc42qD"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T22:25:59.986Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SMURNO"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27378e99687e2a4f4dd97ea9e90",
+    "releaseDate": "2024-11-08",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Леза",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2nZbeyK11YrLaupuD0XIn8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T22:25:59.986Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SMURNO"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27363736cf691b3cfaba1d8886e",
+    "releaseDate": "2021-12-05",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Море дерев",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7I9ljeWuE9nrDlzo3HDmHh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T22:25:59.986Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SMURNO"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273deb19a31cdda46a91d75eb7e",
+    "releaseDate": "2021-05-07",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Скло",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/383xOTOeBQJJAovQyczXg4"
+  }
+]

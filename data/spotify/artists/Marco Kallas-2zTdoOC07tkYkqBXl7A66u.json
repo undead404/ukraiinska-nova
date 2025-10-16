@@ -1,0 +1,52 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T22:23:28.654Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SKAI",
+      "Marco Kallas",
+      "Smile (UA)"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737d6554fd246f2e4cdc8a18e8",
+    "releaseDate": "2023-04-14",
+    "tags": [
+      "rock",
+      "techno",
+      "dj"
+    ],
+    "title": "Подаруй Світло [Marco Kallas & Smile (UA) Remix]",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7t8wyEVkfIB0qC4nmiV4nH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T22:23:28.654Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SKAI",
+      "Marco Kallas",
+      "Smile (UA)"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b2226e2f08826ae64c64e707",
+    "releaseDate": "2022-11-18",
+    "tags": [
+      "rock",
+      "techno",
+      "dj"
+    ],
+    "title": "Легковажна [Marco Kallas & Smile (UA) Remix]",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3x7Time4wvdaNya1yEnrYy"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T22:20:21.162Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ubrave",
+      "Інна Іщенко",
+      "Moisei"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735ab6707e047bd5c946bcb15c",
+    "releaseDate": "2024-10-25",
+    "tags": [],
+    "title": "Колискова",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5jnqYRwFPpPXT7hrRXqMbh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T22:20:21.162Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Інна Іщенко",
+      "Марія Петровська",
+      "Любов Шіпілюк"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734ebe6b501595b08608ba9825",
+    "releaseDate": "2024-07-04",
+    "tags": [],
+    "title": "Чарівна скрипка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4WmQzGvVeFHI74worNxt59"
+  }
+]

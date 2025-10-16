@@ -1,0 +1,78 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T22:26:22.684Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "STELMAN"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cda9e3fcdb1f4f1e6c8ae057",
+    "releaseDate": "2023-05-19",
+    "tags": [],
+    "title": "Як там ти?",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6uoq0XFcdx2AdkiVR0eueV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T22:26:22.684Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "STELMAN"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27306f95db8cb524e12a2a5f866",
+    "releaseDate": "2022-09-08",
+    "tags": [],
+    "title": "Війнонька",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5cH4DsR4srHuxDr3OBQDJv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T22:26:22.684Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "STELMAN"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735c0c81a27273ce7d81612b4e",
+    "releaseDate": "2022-06-14",
+    "tags": [],
+    "title": "Нене",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5yDgiLvLn0JiWtElC9fuDd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T22:26:22.684Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "STELMAN"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735decb999d475e9b13efa9a69",
+    "releaseDate": "2022-04-07",
+    "tags": [],
+    "title": "Хмара",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/51JKEJiAyZSdl3ul3ZKqj5"
+  }
+]

@@ -176,5 +176,26 @@
     "totalTracks": 9,
     "type": "album",
     "url": "https://open.spotify.com/album/77vSXrW7mSEMJHD3g4wV1P"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T22:23:48.115Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Monokate"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ed02b320d5f07c456b8aeba6",
+    "releaseDate": "2025-10-16",
+    "tags": [
+      "pop"
+    ],
+    "title": "Пахнеш",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/273sbtQHbOK85f4XMRBA3q"
   }
 ]
