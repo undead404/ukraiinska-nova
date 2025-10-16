@@ -1,0 +1,42 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T23:26:58.744Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VIN I VONA",
+      "Nytram",
+      "Sparko"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c79b5c5dd6995af8add36fb8",
+    "releaseDate": "2023-09-29",
+    "tags": [],
+    "title": "Журавлі (Sparko Remix)",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2uejlSV5HtOxAoDHh7o3ds"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T23:26:58.744Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Eech"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273890582984da1bf1df2621916",
+    "releaseDate": "2020-01-24",
+    "tags": [],
+    "title": "Eech Forever, Vol. 2",
+    "totalTracks": 20,
+    "type": "album",
+    "url": "https://open.spotify.com/album/07tOZVLzw1AXOigctMhiGh"
+  }
+]
