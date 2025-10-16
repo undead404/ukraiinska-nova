@@ -572,5 +572,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4cZvFpG3loteSsz8EkFpgK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T13:25:42.937Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Село Близнюків"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e1b1bfab99162151817adfe9",
+    "releaseDate": "2025-10-16",
+    "tags": [
+      "indie rock",
+      "Psychedelic Rock"
+    ],
+    "title": "Закінчилась Любов",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0wGQT7rKDjxPIa0POSrBIQ"
   }
 ]

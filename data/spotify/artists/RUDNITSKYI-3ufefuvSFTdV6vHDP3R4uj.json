@@ -1,0 +1,68 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T13:29:52.670Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "RUDNITSKYI"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273589cc932e606e312288ba923",
+    "releaseDate": "2024-08-23",
+    "tags": [],
+    "title": "Як те не любити?",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2L2xLrQKCQVfkaMLeZmI7C"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T13:29:52.670Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "The Budchuk",
+      "RUDNITSKYI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dfbd92e5995d028b14e19b8f",
+    "releaseDate": "2024-02-02",
+    "tags": [
+      "pop",
+      "electropop",
+      "folk pop"
+    ],
+    "title": "Ой там на горі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1Q5f8C1VZDV8IKUPVP02HB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T13:29:52.670Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lil O",
+      "RUDNITSKYI"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27328602b15fd5a5f904aa9cefe",
+    "releaseDate": "2023-06-23",
+    "tags": [
+      "Dirty South",
+      "Houston"
+    ],
+    "title": "Hey",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2GngUcGC1tHOFSFQZHXEmF"
+  }
+]
