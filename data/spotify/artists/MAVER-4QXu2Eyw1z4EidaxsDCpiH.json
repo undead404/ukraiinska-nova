@@ -2921,5 +2921,29 @@
     "totalTracks": 9,
     "type": "album",
     "url": "https://open.spotify.com/album/2AVZ725uNBN4OpWacZgJ6m"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T00:42:42.783Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MAVER"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273deffb2c9b93cb6e0645de73b",
+    "releaseDate": "2025-10-15",
+    "tags": [
+      "chillout",
+      "House",
+      "dance",
+      "electronic"
+    ],
+    "title": "Ой у полі криниченька",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4Nn9hXnp6z1V0D1v1ELID6"
   }
 ]
