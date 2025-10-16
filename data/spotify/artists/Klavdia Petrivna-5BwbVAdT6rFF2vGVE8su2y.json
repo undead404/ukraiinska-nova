@@ -561,5 +561,26 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/3QA37wntQu5x4zBzG62kRW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T04:25:18.881Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Klavdia Petrivna"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27391c2a0fa06e4ccd75cbb3dd2",
+    "releaseDate": "2025-10-16",
+    "tags": [
+      "pop"
+    ],
+    "title": "Осінь",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3WfrPLMXxD1k2r8HUsL5xK"
   }
 ]
