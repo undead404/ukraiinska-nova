@@ -250,5 +250,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mT-EfzyMadf9GYhKPofP8L12ujmv0Tri4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T11:45:34.732Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "bulovinova"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/cQ-mNCDRR9Wgl0up6Ki4vQ1odxFxmLip_GsSLwWPugaVr5EJimGQGJcBqKFFNMQxy8gU52jaWaoZcjyzXw=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "перетвори наш дім",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lDBBJGFsKLc0je6XopsebtiJFiUc8DFJA"
   }
 ]
