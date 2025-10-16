@@ -308,5 +308,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/06p39abrcNaOV97Dc41vs8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T08:23:15.751Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "bulovinova"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738ce7c1e4ea9fb43d5fbf1381",
+    "releaseDate": "2025-10-16",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "перетвори наш дім",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6Ha4gJvRPxZVlt1Cg8VUfD"
   }
 ]
