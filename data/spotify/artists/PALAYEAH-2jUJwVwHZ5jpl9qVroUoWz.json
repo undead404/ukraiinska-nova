@@ -1,0 +1,119 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T18:29:14.183Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PALAYEAH"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735dcb6913540ee8208d98400c",
+    "releaseDate": "2021-03-18",
+    "tags": [],
+    "title": "Вуду",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3rVl896dgqA38yhDA9cTMu"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T18:29:14.183Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PALAYEAH"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730d2fb57507f6b7fe03a4ea64",
+    "releaseDate": "2021-02-16",
+    "tags": [],
+    "title": "Хмари",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2YaD6bxOuDas2eA3GeeHLp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T18:29:14.183Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PALAYEAH"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273efdd6c4015c512349c1efad6",
+    "releaseDate": "2020-12-02",
+    "tags": [],
+    "title": "Не клич",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4rQNUriw2SYPc2wi1IkihA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T18:29:14.183Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PALAYEAH",
+      "VovaZiLvova"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bab4c9d3bfc033187c043b59",
+    "releaseDate": "2020-10-06",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Грає",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/32fdoPH65vmNM3g8tyLARI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T18:29:14.183Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PALAYEAH"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27350c289274179a9fd4426598c",
+    "releaseDate": "2020-06-01",
+    "tags": [],
+    "title": "Молодість (Forse & Allegro Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0HGpQNVuH0SyCp01INGMqp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T18:29:14.183Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PALAYEAH"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273606be9126c95d6a8fa8dc506",
+    "releaseDate": "2020-04-16",
+    "tags": [],
+    "title": "Хвилі",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6g3jOxy0fFhlWu05hnx0AS"
+  }
+]
