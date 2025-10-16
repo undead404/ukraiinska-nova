@@ -1,0 +1,90 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T21:23:03.110Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DRUD"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730fe0f4c4a473172bfb4ea0dc",
+    "releaseDate": "2025-07-17",
+    "tags": [
+      "black metal",
+      "Post-Black Metal"
+    ],
+    "title": "MILIONY",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1bcEA6ZPWCvxxK1tfgDxpt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T21:23:03.110Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DRUD"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b0fffa8630a0c1d056679584",
+    "releaseDate": "2023-12-22",
+    "tags": [
+      "black metal",
+      "Post-Black Metal"
+    ],
+    "title": "Шоколад",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/789JJ74f9vN1wMTZ1JI5Ul"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T21:23:03.110Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DRUD"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735d9b2c611e2b441459e31733",
+    "releaseDate": "2023-08-17",
+    "tags": [
+      "black metal",
+      "Post-Black Metal"
+    ],
+    "title": "Магічні символи",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4Nuyxj6DkeNCwPnkI33sQE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T21:23:03.110Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DRUD"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b6ee40d6e9cacca3f803077a",
+    "releaseDate": "2023-06-29",
+    "tags": [
+      "black metal",
+      "Post-Black Metal"
+    ],
+    "title": "Потихеньку",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4PkeS1uMhQeeO8sd0WBLXw"
+  }
+]

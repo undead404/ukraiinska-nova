@@ -1,0 +1,90 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T21:23:37.348Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slukhay Sashu",
+      "Imager",
+      "на її основі"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739541432f242e4acce8de9f1c",
+    "releaseDate": "2025-08-28",
+    "tags": [
+      "pop",
+      "folk pop",
+      "indie folk"
+    ],
+    "title": "Черкаський ліс",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4hMablRMDj5BGVxFJNPRY2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T21:23:37.348Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "туди-сюди і смерть",
+      "Imager",
+      "на її основі"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27396419a2a3b0ed20382f9e3c5",
+    "releaseDate": "2025-04-11",
+    "tags": [
+      "Garage Rock",
+      "indie rock",
+      "punk rock"
+    ],
+    "title": "Старий телефон",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1klJiTssdY5daCngFJAwLp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T21:23:37.348Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "на її основі"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273505d680dcab77237f0bf1bcf",
+    "releaseDate": "2025-08-22",
+    "tags": [],
+    "title": "КЕМП 2.0",
+    "totalTracks": 19,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4az2VmofKIkuN4VMFGJiDV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T21:23:37.348Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "на її основі"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d3da92deb5681ed4058401ea",
+    "releaseDate": "2025-04-11",
+    "tags": [],
+    "title": "За її лаштунками, Vol.1",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5MFlAKcvaveAu8ukf3xPVb"
+  }
+]

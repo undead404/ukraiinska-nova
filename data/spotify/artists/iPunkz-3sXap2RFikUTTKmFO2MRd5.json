@@ -1917,6 +1917,10 @@
       {
         "time": "2025-10-01T21:23:30.812Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-16T21:24:07.386Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1938,6 +1942,10 @@
       {
         "time": "2025-10-01T21:23:30.812Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-16T21:24:07.386Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1959,6 +1967,10 @@
       {
         "time": "2025-10-01T21:23:30.812Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-16T21:24:07.386Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1978,6 +1990,10 @@
       {
         "time": "2025-10-01T21:23:30.812Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-16T21:24:07.386Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1997,6 +2013,10 @@
       {
         "time": "2025-10-01T21:23:30.812Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-16T21:24:07.386Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2016,6 +2036,10 @@
       {
         "time": "2025-10-01T21:23:30.812Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-16T21:24:07.386Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2035,6 +2059,10 @@
       {
         "time": "2025-10-01T21:23:30.812Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-16T21:24:07.386Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2048,5 +2076,26 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/6zS0rSH080OkUotaP5WFQP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T21:24:07.387Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "iPunkz",
+      "Coster",
+      "Vakhal"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735fe67605fc03af46d03c9b63",
+    "releaseDate": "2025-10-16",
+    "tags": [],
+    "title": "Emerald",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/287320uZa5E0oC1tdZY3xq"
   }
 ]

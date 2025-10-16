@@ -1,0 +1,67 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T21:25:59.160Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "The Curly",
+      "SemiSweet"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c13589c5b9d02ed4d586386a",
+    "releaseDate": "2023-05-26",
+    "tags": [
+      "alternative rock",
+      "rap",
+      "indie pop"
+    ],
+    "title": "ХУМУС",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1CgNV6nObLSJ6eFNYA0SzB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T21:25:59.160Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "The Curly"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735eb83c89cd77ed0a7d77bc6b",
+    "releaseDate": "2023-03-17",
+    "tags": [
+      "rap",
+      "indie pop"
+    ],
+    "title": "Сумнівна терапія",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5q7pNNIv9cDzXfb2E0Te1p"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T21:25:59.160Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NiikoRich"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d85444e43d45fc953fb4ab14",
+    "releaseDate": "2017-06-13",
+    "tags": [],
+    "title": "Spaced Out (Raw Release)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1fij6JWRb8g30bQA0zjzsO"
+  }
+]
