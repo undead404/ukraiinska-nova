@@ -1005,5 +1005,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nb2lOHqgL7qExG7Ysinv-Bjt-1nqL60ko"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T10:47:12.637Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KATERYNA BUZHYNSKA"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/Z0WpBfMw2zMkC3IM3t6UW_CJKsx1p57DHIpHyNIUr8x3dGJ9N2ZeM1NEI0_l_E5subORkQL8JookwDjd=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Вириваюсь з любові",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ntkS1pvLkAta7n4SOVMHQQW7eeGrFk-ck"
   }
 ]
