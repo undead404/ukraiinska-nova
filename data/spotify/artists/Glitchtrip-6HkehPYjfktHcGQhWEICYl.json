@@ -501,5 +501,24 @@
     "totalTracks": 10,
     "type": "album",
     "url": "https://open.spotify.com/album/0YJ1YWYCikmZ2HS7ib0Kfu"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T21:23:28.537Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Glitchtrip"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aeee776711406d557f5ccd32",
+    "releaseDate": "2025-10-17",
+    "tags": [],
+    "title": "Yehaw",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2uLTIGGbl1DJ4IbLalg8Cn"
   }
 ]
