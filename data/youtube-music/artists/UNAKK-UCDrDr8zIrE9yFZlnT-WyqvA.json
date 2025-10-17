@@ -350,5 +350,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kFl_l8eIFl8HnVnnClg7tfDYr4ZDHRTZQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T13:01:08.165Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "UNAKK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/4jDMcfyYDOa3n9aK4l6rSgdzOYJu3YX0Mj6QhET15P7X50e-7yzB-oWw82M-LXjtXPhnyYaPbmZZDDM=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop",
+      "rap"
+    ],
+    "title": "cash & diamonds",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k9vZUN8t4N2XPzorbYR2tLDFZ7QQOtvzU"
   }
 ]
