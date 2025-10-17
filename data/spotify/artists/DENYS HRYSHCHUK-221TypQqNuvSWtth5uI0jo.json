@@ -1,0 +1,41 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T15:24:03.744Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vlad Darwin",
+      "DENYS HRYSHCHUK"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f3ca9f115de772adcffc2994",
+    "releaseDate": "2025-03-14",
+    "tags": [],
+    "title": "Три спроби",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5sVJx52UNHUVeWtzguf3yD"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T15:24:03.744Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DENYS HRYSHCHUK"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736fddbb39731a8f501be8e08c",
+    "releaseDate": "2024-09-06",
+    "tags": [],
+    "title": "Мало тебе",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4QOYaxEijvP4gsZPDgSNTm"
+  }
+]

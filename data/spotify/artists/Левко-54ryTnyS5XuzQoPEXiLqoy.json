@@ -341,5 +341,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6k4pAz84sgVPgqAObTUFaE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T15:21:18.854Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "левко"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27321583eb9fac4d89697f3441d",
+    "releaseDate": "2025-10-17",
+    "tags": [
+      "indie pop",
+      "indie rock"
+    ],
+    "title": "паст контініус",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6NbfsHi9obArMcHCIHYp5F"
   }
 ]

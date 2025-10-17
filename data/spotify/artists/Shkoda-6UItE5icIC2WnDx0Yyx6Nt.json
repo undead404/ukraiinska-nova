@@ -478,5 +478,43 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3XoosQWpXlrFOuLFYUd5RS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T15:27:28.473Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Shkoda"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27358235e6060117f5c35becfad",
+    "releaseDate": "2025-10-17",
+    "tags": [],
+    "title": "Воля",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0iMCOkUFJDJ0dztAkMLjfE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T15:27:28.473Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Shkoda"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738bea75e0fe2143caa7a77b9c",
+    "releaseDate": "2025-10-17",
+    "tags": [],
+    "title": "Quiet Night",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5zbwYaQJqXxsVyWTe9KH8d"
   }
 ]
