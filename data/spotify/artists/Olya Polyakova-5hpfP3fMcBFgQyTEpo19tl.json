@@ -1048,5 +1048,27 @@
     "totalTracks": 10,
     "type": "album",
     "url": "https://open.spotify.com/album/72yLF8UxX6p8uX97JKdUct"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T10:27:07.463Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Olya Polyakova"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738bdb8ec3060b68809fc05d88",
+    "releaseDate": "2025-10-17",
+    "tags": [
+      "pop",
+      "dance"
+    ],
+    "title": "Warrior",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6pC6OtjTUkKArTbXve5uls"
   }
 ]

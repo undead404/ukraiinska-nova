@@ -1,0 +1,25 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T10:21:01.336Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin",
+      "Сніжана Бабкіна"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733be6fcabf8a1484f92f7ec4c",
+    "releaseDate": "2023-12-15",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "Магія",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3QRHOrY2uRRsPIPeyLS7Ik"
+  }
+]
