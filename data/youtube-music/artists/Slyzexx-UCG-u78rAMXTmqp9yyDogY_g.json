@@ -2631,6 +2631,10 @@
       {
         "time": "2025-10-06T21:47:45.398Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-17T21:47:42.474Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2744,5 +2748,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m4eBk41N2HRsb_vdJe6IWDomthvSUE19E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T21:47:42.475Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/5pKXo6UsEBCAavheauK_xJqRvwaC2VD9oDM7G_vxaDLtV2UPNiohaaQjiOBy5L8JFg-7mON4ezQVUw3o=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Клейноди волі",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lXCwx_lC93LhStGhFJL8QNSLUzao_JJxs"
   }
 ]

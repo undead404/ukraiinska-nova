@@ -435,5 +435,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kfmsd7S5qsaVkNwG9CcAdoUUYBA7r1jOY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T21:45:03.458Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Інна Главацька"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/qQA4UkYgw5jS8O3i37Yo9fRUM7FcC__0anI7e1SRGLwD03QWkoznl5ZZIpAFj_NQtlmTzRnMc2GYt-rF3g=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "female vocalists",
+      "folk pop"
+    ],
+    "title": "Осінь",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nOVDdltjuzX3AK6Y7mQKq0Lg7JXpy77Mg"
   }
 ]
