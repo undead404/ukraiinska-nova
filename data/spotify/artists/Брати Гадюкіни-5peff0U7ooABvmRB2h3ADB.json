@@ -1,0 +1,45 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T04:21:01.098Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Zhadan i Sobaky",
+      "Брати Гадюкіни"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27333f528f103bfea62e47c4ef3",
+    "releaseDate": "2022-01-22",
+    "tags": [
+      "rock"
+    ],
+    "title": "Наркомани на городі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7g7a6NoBXA2hMm8j3l1MVo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T04:21:01.098Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ТНМК"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736b78fcad9a83d63a932533b0",
+    "releaseDate": "2018-11-23",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "7",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/29XeLbzGSGDXyBTfz8DTRo"
+  }
+]
