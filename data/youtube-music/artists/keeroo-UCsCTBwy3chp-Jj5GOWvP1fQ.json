@@ -859,5 +859,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mtM1fEQeJZ8yVQtPEHGKxyg8b499wyk3Q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T05:46:58.161Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "keeroo"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/kGkHioA0knTmrM2cbZxZ7Gdk17lFrpwlczAH-bFdxl8P0NFQf2wECH6EbhRqFpuEgRhUyGvLi1O2n_dFfw=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "Lo-Fi"
+    ],
+    "title": "День, день, день",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lWC_yYq5ieTAbZj1M6qVBIdmtYBBqO1J8"
   }
 ]
