@@ -1,0 +1,109 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T09:23:26.205Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Drud"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d20d177635852b94b9771ec9",
+    "releaseDate": "2015-05-14",
+    "tags": [
+      "black metal",
+      "Post-Black Metal"
+    ],
+    "title": "Temp",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4JhbaefV38XWl4hGONHjqz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T09:23:26.205Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Drud"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b4f1baf4607164878647cb27",
+    "releaseDate": "2014-09-15",
+    "tags": [
+      "black metal",
+      "Post-Black Metal"
+    ],
+    "title": "Balance",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/795zzSrcdZ1WB3Jf6bStSA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T09:23:26.205Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Zombo",
+      "Drud"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738f346b7a8f93a878f3a7ef6f",
+    "releaseDate": "2017-08-11",
+    "tags": [
+      "black metal",
+      "Post-Black Metal"
+    ],
+    "title": "Хто тут є ?",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0kLEQFYllWta7NgXG8velc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T09:23:26.205Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Довгий Пес"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273928b82915134bf284338455c",
+    "releaseDate": "2018-08-23",
+    "tags": [
+      "rap"
+    ],
+    "title": "#Соціальнийалкоголік",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3ARGOPaQJ53UdA2dojjIiP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T09:23:26.205Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sinuz"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734a7bf04403dfa4ae14daea2e",
+    "releaseDate": "2017-12-31",
+    "tags": [],
+    "title": "Connexions",
+    "totalTracks": 19,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3PrSkrOajMIsN3U8qV503p"
+  }
+]

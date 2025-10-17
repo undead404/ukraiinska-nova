@@ -478,5 +478,27 @@
     "totalTracks": 11,
     "type": "album",
     "url": "https://open.spotify.com/album/1SU2ODLiPmtmZxGsYGt90e"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T09:24:54.055Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NAZVA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731fdc58927af0aaae53a54c11",
+    "releaseDate": "2025-10-17",
+    "tags": [
+      "folk",
+      "folk pop"
+    ],
+    "title": "Твій Сміх",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3ENa9mw7tNiMX7f3Az0fZC"
   }
 ]

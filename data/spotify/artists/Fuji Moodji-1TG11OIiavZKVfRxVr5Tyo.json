@@ -241,5 +241,27 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/6PYigMibmXAPLN8brvDhzu"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T09:23:37.108Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Fuji Moodji"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27313370f34b2a1143694656c5c",
+    "releaseDate": "2025-10-17",
+    "tags": [
+      "indie pop",
+      "indie rock"
+    ],
+    "title": "First Try",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/618x2WIyUq7xfRTaRABOae"
   }
 ]

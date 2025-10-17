@@ -1,0 +1,42 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T09:21:34.782Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Лавіка"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f9dfe9dcd429226559ad221f",
+    "releaseDate": "2020-04-03",
+    "tags": [],
+    "title": "Квінти",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3zJBpG7871k7T5s0I98Nkh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T09:21:34.782Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Вхід у змінному взутті"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739383438a3086780f1643fb76",
+    "releaseDate": "2016-02-12",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "For Ever",
+    "totalTracks": 27,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0aefJvsRzxxkK4ei394tkl"
+  }
+]

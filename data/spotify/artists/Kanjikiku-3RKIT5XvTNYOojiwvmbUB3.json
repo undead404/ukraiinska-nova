@@ -1,0 +1,80 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T09:23:58.343Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kanjikiku"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732dd59c3a2e1f37d22f4e5fc1",
+    "releaseDate": "2024-12-20",
+    "tags": [],
+    "title": "Глибше",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4Ey9wiztFMjBAbd7DlaObR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T09:23:58.343Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kanjikiku"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273113efeffd101ee6cd2d257df",
+    "releaseDate": "2024-11-22",
+    "tags": [],
+    "title": "Сам на сам",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2TZ194BUe7yV61MOfY59Kd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T09:23:58.343Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kanjikiku"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e58f9171b6f04391aff25400",
+    "releaseDate": "2023-03-28",
+    "tags": [],
+    "title": "Говорю Неправду",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/46OpsKIUJaQsRknFdDK5Up"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T09:23:58.343Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Krechet"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273da27cc04933c550a230b9cff",
+    "releaseDate": "2022-07-13",
+    "tags": [
+      "rap"
+    ],
+    "title": "Засинай (Remixes)",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4HvpHQPbZjeDPJW3YvePDU"
+  }
+]

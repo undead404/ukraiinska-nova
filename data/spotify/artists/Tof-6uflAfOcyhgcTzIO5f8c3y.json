@@ -1288,5 +1288,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/06Kf29RNVxSpRpK5oBniwg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T09:26:55.575Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Фир",
+      "Tof"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ca53a830926f6eef2196e979",
+    "releaseDate": "2025-10-17",
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "dance"
+    ],
+    "title": "Лабіринт",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3s2ndFs4y83wG3a4s6BQIo"
   }
 ]

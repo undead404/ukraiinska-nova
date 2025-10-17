@@ -1,0 +1,123 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T09:24:45.247Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ANKA",
+      "STASYA",
+      "NaYada"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273668c5d41d2b64f62607fd7d4",
+    "releaseDate": "2024-04-18",
+    "tags": [
+      "folk",
+      "alternative",
+      "ethnic"
+    ],
+    "title": "Карма",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6yvBdLHJs2dLpWmjgazgs0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T09:24:45.247Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NaYada"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27306f6227f7e09f08f1a5990ae",
+    "releaseDate": "2023-09-20",
+    "tags": [],
+    "title": "Не відпускай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/14G92krXBb4rTmw720ya2R"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T09:24:45.247Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Baited Boys",
+      "NaYada"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734f6cd8bbc2e89c9d2610a4aa",
+    "releaseDate": "2023-08-28",
+    "tags": [],
+    "title": "Запали (Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7AXKaHyOCl3Z2K2l8FAsN5"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T09:24:45.247Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NaYada"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273abaf7b874b436fcf37ca1f63",
+    "releaseDate": "2023-05-01",
+    "tags": [],
+    "title": "Запали",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1klkYr5sZexlHCQUlMJgRr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T09:24:45.247Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NaYada"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ffdb77919d7efbc748fc3f47",
+    "releaseDate": "2022-08-24",
+    "tags": [],
+    "title": "Незламні",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2BduAIWv4SOO0JOUwH4MNT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T09:24:45.247Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Baited Boys"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27330be0f5a66c3cde13481a586",
+    "releaseDate": "2024-02-22",
+    "tags": [],
+    "title": "Дощечка (ПаЛаЛа)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6aGh5k6mMdbEjSrOpD6re7"
+  }
+]
