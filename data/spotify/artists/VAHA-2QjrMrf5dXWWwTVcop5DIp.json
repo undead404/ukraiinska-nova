@@ -274,5 +274,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7fgFuTbOdKDkCFdU96t1xo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T14:27:26.044Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VAHA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27329bf22ce63dba5a04725a7ca",
+    "releaseDate": "2025-10-17",
+    "tags": [],
+    "title": "Серце на кону",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/78Y4zSlYCjP5P2nuBYKtQ0"
   }
 ]

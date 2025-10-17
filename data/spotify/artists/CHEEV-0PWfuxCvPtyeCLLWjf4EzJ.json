@@ -625,5 +625,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5pKkEdd5sz17haTSIlooVZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T14:22:06.595Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CHEEV"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27377d076620a82623cdd48342a",
+    "releaseDate": "2025-10-17",
+    "tags": [
+      "belarus"
+    ],
+    "title": "Romcom",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/13ynoeCvmsVqsU5P8BLd9d"
   }
 ]

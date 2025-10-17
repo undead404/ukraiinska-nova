@@ -176,5 +176,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6irO8j3drM2TH1xsCtiYot"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T14:26:16.920Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TOLOKA (ofc)",
+      "Smile (UA)"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ce8550adfcf2eb0ed5ca61e2",
+    "releaseDate": "2025-10-17",
+    "tags": [],
+    "title": "Lagnire",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2rCmncBRvXUkPwPU7QwVOg"
   }
 ]
