@@ -151,5 +151,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7CYPmTT27avT4QG3BhwX6f"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T08:25:28.917Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Liza Bibikova"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cd82ec9a16e8480b9dcaa5b1",
+    "releaseDate": "2025-10-16",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Олєг",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/03mogkoZptRRxqS2ZM5KUk"
   }
 ]

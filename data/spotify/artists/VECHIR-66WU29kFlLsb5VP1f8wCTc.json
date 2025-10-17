@@ -211,5 +211,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5CU1MBE88Rfr9nUxpjlY7H"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T08:28:30.921Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VECHIR"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739caf7b55f9abb09bd9410cb4",
+    "releaseDate": "2025-10-17",
+    "tags": [],
+    "title": "Коли ти будеш зі мною",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6ac7bMX9koDceYEWM2wOvT"
   }
 ]

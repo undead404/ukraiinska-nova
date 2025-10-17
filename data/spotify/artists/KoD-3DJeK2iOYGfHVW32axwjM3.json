@@ -92,6 +92,10 @@
       {
         "time": "2025-10-11T08:24:24.914Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-17T08:25:17.964Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -215,5 +219,24 @@
     "totalTracks": 15,
     "type": "album",
     "url": "https://open.spotify.com/album/1raNWocdEqmqtVfH8QMQnK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T08:25:17.964Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Dmytro Kod"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c1af4aa19dcc9696b8f9920b",
+    "releaseDate": "2022-06-24",
+    "tags": [],
+    "title": "Навколо сонячних днів",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3osWY8O5HB6KV6qaGK3akw"
   }
 ]
