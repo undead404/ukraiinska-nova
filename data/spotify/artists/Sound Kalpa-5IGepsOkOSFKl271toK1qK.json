@@ -1,0 +1,85 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T01:55:57.318Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sound Kalpa"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27396d01b3b5dd3e5c90da36291",
+    "releaseDate": "2024-04-05",
+    "tags": [],
+    "title": "Frozen Silence",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0DpM0QIu1eWclQbrCFYiWu"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T01:55:57.318Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sound Kalpa"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736ae568d620e1fe481767a930",
+    "releaseDate": "2024-03-11",
+    "tags": [],
+    "title": "Another Dimension",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0bmjEjE0i6bGYnONdvdfdt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T01:55:57.318Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin",
+      "Sound Kalpa"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273209f7d7ee01a5076b7f0650c",
+    "releaseDate": "2022-04-15",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "Далі ми самі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/62b7Id8AbtxZfgClKsxtSw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T01:55:57.318Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27302c6213d98bfaf49ad32ef44",
+    "releaseDate": "2022-08-24",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "Далі ми самі",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4VGZy8P9XLOuWSjQe2NHz9"
+  }
+]

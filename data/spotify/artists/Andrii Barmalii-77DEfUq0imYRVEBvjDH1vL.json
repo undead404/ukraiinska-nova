@@ -795,5 +795,26 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/27zd3qxg5kumpKRlX84lbY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T01:52:21.866Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Andrii Barmalii"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27395b33963883f765f8d3096e6",
+    "releaseDate": "2025-10-16",
+    "tags": [
+      "jazz"
+    ],
+    "title": "don't you really care",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/39xtjRWAczXx0DzNbh0FA6"
   }
 ]

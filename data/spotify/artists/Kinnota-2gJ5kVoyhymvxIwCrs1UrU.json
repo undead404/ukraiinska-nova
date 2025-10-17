@@ -1,0 +1,63 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T01:53:52.182Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kinnota"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cdfa4f93a1659d4081139f62",
+    "releaseDate": "2024-11-08",
+    "tags": [],
+    "title": "Два стани",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6EjL6HFV0xZUQk4FkjQdhg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T01:53:52.182Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kinnota"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731ea65972c5c27d0eed41b3bd",
+    "releaseDate": "2023-11-24",
+    "tags": [],
+    "title": "Тої ночі",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/01pZ8dKB5JaPoznSYutXqT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T01:53:52.182Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Soundots",
+      "Monotonne"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f2eb393bd1f240894c7585a",
+    "releaseDate": "2024-05-31",
+    "tags": [
+      "electronic",
+      "electropop"
+    ],
+    "title": "Dark Circuit",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4FAkvmQpkLXf0vE4a0Dcsp"
+  }
+]

@@ -760,6 +760,10 @@
       {
         "time": "2025-10-15T01:51:29.998Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-17T01:51:12.204Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -774,6 +778,29 @@
       "blues rock"
     ],
     "title": "Вибране (2025 Version)",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/416zQUkBDjY6UJTLbeuRwT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T01:51:12.204Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олег Скрипка",
+      "Джаз-кабаре \"Забава\""
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27313dff10415ecf5465949ac9a",
+    "releaseDate": "2017",
+    "tags": [
+      "rock",
+      "blues rock"
+    ],
+    "title": "Вибране",
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/416zQUkBDjY6UJTLbeuRwT"
