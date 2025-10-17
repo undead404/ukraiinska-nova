@@ -1,0 +1,103 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T06:21:24.610Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ГНАТКОВСКІ"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735ac18aa722a6b01fadbc8922",
+    "releaseDate": "2023-12-05",
+    "tags": [],
+    "title": "СНІЖНІСТЬ ІІІ: Мелодії зимових свят",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6MgQgWkvkz3kwJkFn9T5Be"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T06:21:24.610Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ГНАТКОВСКІ",
+      "ULIA LORD"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fcb6e4929e0658fe4b493caf",
+    "releaseDate": "2013-11-11",
+    "tags": [
+      "trip-hop"
+    ],
+    "title": "НІЖНІСТЬ",
+    "totalTracks": 14,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0dDpCMDe0kfIFuAXElZ52e"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T06:21:24.610Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ГНАТКОВСКІ"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d8b74ef7fd634fd8c9b149bb",
+    "releaseDate": "2012-04-04",
+    "tags": [],
+    "title": "АНГЕЛ",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5taG5mTHmjS4muULAvcZwl"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T06:21:24.610Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ГНАТКОВСКІ",
+      "ULIA LORD"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d7afd34a834b39e76a27284c",
+    "releaseDate": "2004-11-11",
+    "tags": [
+      "trip-hop"
+    ],
+    "title": "СНІЖНІСТЬ",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6rUnjwdJRTTQZB5uGE5W7P"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T06:21:24.610Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ГНАТКОВСКІ"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27324bc1f587192693d450726bf",
+    "releaseDate": "2004-11-28",
+    "tags": [],
+    "title": "Миколай, ти мені вважай!",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5IkzfgtysOHdI1ZJqYVKC7"
+  }
+]
