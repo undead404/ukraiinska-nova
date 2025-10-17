@@ -1,0 +1,44 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T05:22:56.643Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "FORCEGNG",
+      "STAS AZARENKO",
+      "CW1LL"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e2ee2e89134c0aaae6d0e293",
+    "releaseDate": "2022-07-15",
+    "tags": [
+      "rap"
+    ],
+    "title": "GOATED",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5X8rA3R1pd2LtLyjzZlQDs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T05:22:56.643Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CW1LL"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c8bfa70b8633f0d6858b0f89",
+    "releaseDate": "2022-06-24",
+    "tags": [],
+    "title": "З ОБШМОКАНИХ ДОЛИН",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6rkmYi4iuglrnpEgX8hlhd"
+  }
+]

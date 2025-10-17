@@ -103,5 +103,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/57eZSzfkXTkRXVMMJVcngm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T05:24:08.500Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Morwan"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738b0b82e920d20fe371c509c9",
+    "releaseDate": "2025-10-17",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Все по колу, знову",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/48xmyXojuI8jyKsVVu3yLY"
   }
 ]

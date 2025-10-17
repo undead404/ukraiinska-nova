@@ -1,0 +1,110 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T05:24:22.829Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Postman",
+      "Omodada",
+      "Tatomyr"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c9395c48830a272460cabeb6",
+    "releaseDate": "2020-05-08",
+    "tags": [
+      "Hip-Hop",
+      "Psychedelic Rock",
+      "dutch"
+    ],
+    "title": "1997",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2umPP2SS86NVxF0XPwkC4I"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T05:24:22.829Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Omodada"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27387ddff855c437eff3cca90e7",
+    "releaseDate": "2016-02-01",
+    "tags": [
+      "Psychedelic Rock"
+    ],
+    "title": "Кімнати",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4NWBwqcAGcD1vZwlQdLxBT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T05:24:22.829Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Postman"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273db59ac92f115232f6343ca69",
+    "releaseDate": "2021-12-10",
+    "tags": [
+      "Hip-Hop",
+      "dutch"
+    ],
+    "title": "Змінилось багато. Змінилось нічого",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6FXsafPKF5MEt4tFWXT9kh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T05:24:22.829Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Zapaska"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c51c7be60eafe934d4f8f53f",
+    "releaseDate": "2014-02-14",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Kontur",
+    "totalTracks": 18,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2irxKw5I55HN9w0NBc32HN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T05:24:22.829Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Brother Hill"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731a6b5a7085bbfa59c0dde730",
+    "releaseDate": "2024-05-24",
+    "tags": [],
+    "title": "the Wellspring [EP]",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6rLmXKoDi062DjRJ1NIp9N"
+  }
+]

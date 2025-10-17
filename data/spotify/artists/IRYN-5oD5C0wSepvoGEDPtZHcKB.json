@@ -424,5 +424,27 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/3JuL60zYjZQI4JlZ6nbWNS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T05:23:39.182Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "IRYN"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cf3dfdb67578fb7796628871",
+    "releaseDate": "2025-10-17",
+    "tags": [
+      "pop",
+      "rnb"
+    ],
+    "title": "навіщо",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3Bwo9hTzKYSIXa7oxu5Opg"
   }
 ]

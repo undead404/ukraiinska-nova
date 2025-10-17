@@ -1,0 +1,63 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T05:24:48.160Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Talina",
+      "RoGAleX"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273744d10f1cf43d89bf753f6e1",
+    "releaseDate": "2025-05-05",
+    "tags": [
+      "zouk"
+    ],
+    "title": "Не Моя Вина",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3A2047apX1NVySDGelMECo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T05:24:48.160Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TARAS KEEN",
+      "RoGAleX"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731e4b7f7f554715e28f77a558",
+    "releaseDate": "2023-07-08",
+    "tags": [],
+    "title": "Спалахуй (rogalex remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2OCHMxGWCWIunGhlcweFzI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T05:24:48.160Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ян Коньок"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737bf9e7ff3e7e4adbd4281a4d",
+    "releaseDate": "2022-05-19",
+    "tags": [],
+    "title": "Нема бєнзіна",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/533RHuMTeoxk7wjouOffb0"
+  }
+]

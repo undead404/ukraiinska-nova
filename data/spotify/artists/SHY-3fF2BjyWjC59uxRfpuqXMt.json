@@ -474,5 +474,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2s5zV9ogCfJMTWxMgdKBrX"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T05:25:29.120Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ERU",
+      "Jeng"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273424e6024e73c48c3d86c2b13",
+    "releaseDate": "2025-10-17",
+    "tags": [
+      "k-pop",
+      "doujin ongaku",
+      "Korean"
+    ],
+    "title": "RASTAFARAY",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6eyLvy4Tg4QUuyzvQYSUzs"
   }
 ]
