@@ -345,5 +345,26 @@
     "totalTracks": 14,
     "type": "album",
     "url": "https://open.spotify.com/album/2fN4nHVWZ3Xb8G583bBzxA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T17:19:38.368Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "анастимоза"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273587f792dd640f7abbf2226c0",
+    "releaseDate": "2025-10-17",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Відносність",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7qG2R062qmrllnZ70uDTLF"
   }
 ]

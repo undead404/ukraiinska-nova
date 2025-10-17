@@ -980,5 +980,26 @@
     "totalTracks": 9,
     "type": "album",
     "url": "https://open.spotify.com/album/0hqeb6EQHtSdjRCr4VI1Qr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T17:26:52.404Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PROBASS ∆ HARDI"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273de1bf604a2a56d45efadbfee",
+    "releaseDate": "2025-10-16",
+    "tags": [
+      "EDM"
+    ],
+    "title": "MY SPACE",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4sx8FnRsoR90iKvGpbhOWQ"
   }
 ]

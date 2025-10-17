@@ -1,0 +1,61 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T17:26:00.609Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TARAS KEEN",
+      "MARKUHA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27319972b62a5c46e8dd7ccb25a",
+    "releaseDate": "2024-07-19",
+    "tags": [],
+    "title": "Горами",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1LzebTG4kccyumREYORNir"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T17:26:00.609Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TARAS KEEN",
+      "MARKUHA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c36447fdf4a4a3b4fe87a035",
+    "releaseDate": "2023-09-15",
+    "tags": [],
+    "title": "Box Fries",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7BxWOOTpjeVVJEKn0HHVOl"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T17:26:00.609Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TARAS KEEN"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bcd07598c22417b44e42787e",
+    "releaseDate": "2024-09-23",
+    "tags": [],
+    "title": "Уявні лабіринти",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1fXdNDrBCoVIISSciERs9D"
+  }
+]

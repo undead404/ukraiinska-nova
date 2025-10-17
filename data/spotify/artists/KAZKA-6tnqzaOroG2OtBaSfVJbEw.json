@@ -1022,6 +1022,10 @@
       {
         "time": "2025-10-06T17:24:38.197Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-17T17:25:31.566Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1037,5 +1041,27 @@
     "totalTracks": 22,
     "type": "album",
     "url": "https://open.spotify.com/album/7gEapZ5kT3iXEH2iD4coHB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T17:25:31.566Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KAZKA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733e447a84c15e8acf004e9dee",
+    "releaseDate": "2025-10-17",
+    "tags": [
+      "pop",
+      "indie pop"
+    ],
+    "title": "АЛЛО, ПІДТРИМКА!",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4v1c1k6Bwbi90X7E4Zqlzr"
   }
 ]
