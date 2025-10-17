@@ -1,0 +1,24 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T07:27:10.721Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Zodiac X",
+      "STAS AZARENKO"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c2b07ec01fa57483132becef",
+    "releaseDate": "2022-11-25",
+    "tags": [
+      "rap"
+    ],
+    "title": "Де ти?",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/78RDVSTyiwCQGk0vziLS92"
+  }
+]

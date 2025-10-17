@@ -25,6 +25,10 @@
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-17T07:25:49.384Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1084,6 +1088,10 @@
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-17T07:25:49.384Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1450,5 +1458,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2IC7oQLGYegbFrOxulHu0t"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T07:25:49.385Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "STAS AZARENKO"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d9ea8fd7857417cbb21beedb",
+    "releaseDate": "2022-09-30",
+    "tags": [
+      "rap"
+    ],
+    "title": "BLA BLA BLA",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5s2OVuOLBeFuHJqfeCNDUA"
   }
 ]

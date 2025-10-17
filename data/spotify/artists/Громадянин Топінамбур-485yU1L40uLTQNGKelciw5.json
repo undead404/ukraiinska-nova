@@ -582,5 +582,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7BzZauaPjvH9VhhYQLyHeH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T07:20:01.241Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Громадянин Топінамбур"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739c96e5bf391367639034df52",
+    "releaseDate": "2025-10-17",
+    "tags": [],
+    "title": "Сонцем Сяяти",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6UPTPTSb8iBI2MkQA7JLgt"
   }
 ]
