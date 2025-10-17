@@ -1,0 +1,46 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T05:22:07.180Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vopli Vidopliassova",
+      "Amarilyo"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273370c1b2647cc3b5cd0b993ec",
+    "releaseDate": "2018-03-30",
+    "tags": [
+      "rock"
+    ],
+    "title": "Remixed by Amarilyo",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1CXQYOuoUtFTpOkpzzmvAA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T05:22:07.180Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Флайза"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737f7fa7c1e433ede81dac1d86",
+    "releaseDate": "2025-10-02",
+    "tags": [
+      "reggae",
+      "ska"
+    ],
+    "title": "ФЛАЙЗА В РЕМІКСАХ. Невидане раніше.",
+    "totalTracks": 19,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0RR2FDfpekOhB00taAd1hk"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T19:22:11.670Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BoNadia"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ba9e7f9bf93d5f161d707200",
+    "releaseDate": "2023-06-28",
+    "tags": [],
+    "title": "Nebo",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1r8QgkxhEEM1WnpVcWCNVL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T19:22:11.670Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "The Doox",
+      "BoNadia"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733c588289c1f89d7080da77da",
+    "releaseDate": "2022-09-06",
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "title": "Колискова",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/22GxGQgsk2YyAV2h3MyXLA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T19:22:11.670Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Артём Никифоров",
+      "BoNadia"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733481f053091a7d77301461ab",
+    "releaseDate": "2022-08-24",
+    "tags": [],
+    "title": "Ми будемо сильними",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0V2EgJJl21cEBa6AAzULQp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T19:22:11.670Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BoNadia"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f9aee44dda8b172c6e820b35",
+    "releaseDate": "2022-04-02",
+    "tags": [],
+    "title": "Крізь Сльози Сміятись",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5lcSlrfKAWQZJudVz4thP4"
+  }
+]

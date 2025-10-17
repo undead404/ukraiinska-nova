@@ -1,0 +1,74 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T06:26:50.053Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "The Curly",
+      "Marcel Garçon"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a0fc697d750453d1ec5fb652",
+    "releaseDate": "2024-04-17",
+    "tags": [
+      "rap",
+      "indie pop"
+    ],
+    "title": "Тобі личить",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1K7hquf9EXIgo7oanM7Tso"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T06:26:50.053Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "The Curly",
+      "Marcel Garçon"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27337011211a7ce826ea6f59c31",
+    "releaseDate": "2024-02-28",
+    "tags": [
+      "rap",
+      "indie pop"
+    ],
+    "title": "Це про любов",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4VzcHHfXg7IezyXB8CZxiR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T06:26:50.053Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "The Curly",
+      "нестор",
+      "Marcel Garçon"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735f46b4666e69381728a2b701",
+    "releaseDate": "2023-11-24",
+    "tags": [
+      "pop",
+      "rap",
+      "indie pop",
+      "singer-songwriter"
+    ],
+    "title": "Імунітет",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4duf68U9gpmj7XT10Rhr34"
+  }
+]

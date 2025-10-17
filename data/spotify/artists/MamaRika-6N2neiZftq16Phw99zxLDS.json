@@ -411,6 +411,10 @@
       {
         "time": "2025-09-19T22:24:56.988Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-16T22:23:25.769Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1272,5 +1276,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5GPLuhDjFV01rw3LbCgWDP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T22:23:25.769Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MamaRika",
+      "YAKTAK"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736ba0398169643edca6008533",
+    "releaseDate": "2022-11-10",
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "title": "Лелека",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6MMt82eeUk4ogZe1kZi2dY"
   }
 ]

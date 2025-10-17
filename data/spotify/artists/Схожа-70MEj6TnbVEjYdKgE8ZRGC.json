@@ -1020,5 +1020,27 @@
     "totalTracks": 13,
     "type": "album",
     "url": "https://open.spotify.com/album/0xvqx4xU1d6YtB3xtVoqbO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T06:23:26.670Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Схожа"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734970fba7806e4460654852b4",
+    "releaseDate": "2025-10-17",
+    "tags": [
+      "pop",
+      "electropop"
+    ],
+    "title": "Гра в бісер",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5sZHYIZUjc8OCyfLptB3v5"
   }
 ]

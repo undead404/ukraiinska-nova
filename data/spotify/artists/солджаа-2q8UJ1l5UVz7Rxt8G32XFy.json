@@ -1,0 +1,63 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T02:42:51.004Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "солджаа",
+      "STAS AZARENKO"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273234a01a01f7ac5a6da9c5bd8",
+    "releaseDate": "2023-06-16",
+    "tags": [
+      "rap"
+    ],
+    "title": "Xanax",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/43nXsR5nhBvpoG33mW03DL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T02:42:51.004Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "солджаа",
+      "MARATTI"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273148a1b736f38a6847fd8b1d8",
+    "releaseDate": "2023-04-21",
+    "tags": [],
+    "title": "Status",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5UfisoAJhOGPjYykwUpc0p"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T02:42:51.004Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "солджаа"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b0b10baafee8283d265c928c",
+    "releaseDate": "2023-04-07",
+    "tags": [],
+    "title": "КУРЮ І СПЛЮ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3c3ZSWnM4bG2Ox7LyPDVOj"
+  }
+]

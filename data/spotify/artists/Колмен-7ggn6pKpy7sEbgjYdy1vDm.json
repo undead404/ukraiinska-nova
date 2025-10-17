@@ -1,0 +1,23 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T19:20:02.479Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Горовий",
+      "Турчинов",
+      "Колмен"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27376fc3479d1ad306e552a6cb4",
+    "releaseDate": "2023-10-13",
+    "tags": [],
+    "title": "ЗЙБ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0qT8nCtloYfOui0zyGcQ1t"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T22:22:50.113Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VIN I VONA",
+      "LEO.K"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736d21329a33dc8d4310700716",
+    "releaseDate": "2023-04-06",
+    "tags": [],
+    "title": "Мій дім (LEO.K Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6YLupkFLQHN2dqRRgj7QVF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T22:22:50.113Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alesya Anis"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737598dc5a6a59e4219f42c2ac",
+    "releaseDate": "2020-11-01",
+    "tags": [],
+    "title": "Кокаина",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4rikDfHsFGcLAIp9DaYACV"
+  }
+]

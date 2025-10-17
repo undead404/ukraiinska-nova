@@ -1,0 +1,90 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T21:26:22.302Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Zippy Kid",
+      "Taras Shevchenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e2ccf646eac012126665ca11",
+    "releaseDate": "2022-03-18",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Розрита могила",
+    "totalTracks": 1,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7bvH5Et8lJWdLGmeqdaxk9"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T21:26:22.302Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lina Kostenko",
+      "Taras Shevchenko",
+      "Alexander Sparinsky",
+      "Alexander Vratariov"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735837f76bdeb01d00d3000df5",
+    "releaseDate": "2020-11-28",
+    "tags": [
+      "folk"
+    ],
+    "title": "Through the Universe of Ukraine (Music from Various Years)",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4J4q2t1LpRc1GU3YVbSMBO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T21:26:22.302Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Taras Shevchenko"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273483514298c64dc2d213812d7",
+    "releaseDate": "2020-12-25",
+    "tags": [],
+    "title": "Ty meni ne tych",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6kuR7AHNzLOdyg9NjcRKaC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T21:26:22.302Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DIMA LIBRA",
+      "Taras Shevchenko"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e13bd6d2557672103ecb71c3",
+    "releaseDate": "2020-10-12",
+    "tags": [
+      "electropop",
+      "pop"
+    ],
+    "title": "Я Не Здаюсь (Taras Shevchenko RMX)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4aq3klS74RjOnc70baaEza"
+  }
+]

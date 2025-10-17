@@ -1,0 +1,25 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T01:55:59.190Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Soundots",
+      "Monotonne"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f2eb393bd1f240894c7585a",
+    "releaseDate": "2024-05-31",
+    "tags": [
+      "electronic",
+      "electropop"
+    ],
+    "title": "Dark Circuit",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4FAkvmQpkLXf0vE4a0Dcsp"
+  }
+]

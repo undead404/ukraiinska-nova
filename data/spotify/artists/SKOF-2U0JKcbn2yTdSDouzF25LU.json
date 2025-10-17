@@ -1,0 +1,46 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T18:30:06.611Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SKOFKA",
+      "SKOF"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737c93279d4bbbacd607e2522d",
+    "releaseDate": "2024-08-08",
+    "tags": [
+      "rap"
+    ],
+    "title": "Я там",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1pbEkIkwr8ivOp51OnbO53"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T18:30:06.611Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SKOF",
+      "SKOFKA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734b9dd9691ce3fa81856081ef",
+    "releaseDate": "2023-06-22",
+    "tags": [
+      "rap"
+    ],
+    "title": "Хто такий SKOFKA?",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2ybFmCz1bTmU2oCeqCyTSq"
+  }
+]

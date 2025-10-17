@@ -1,0 +1,105 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T05:23:48.590Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Liesad"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27380d96ae4633796b1ab0903b7",
+    "releaseDate": "2025-01-31",
+    "tags": [],
+    "title": "Ater Love",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1RMticPnHJiwn5mPkEsJnH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T05:23:48.590Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "STAS AZARENKO",
+      "Liesad"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dee83b20089687c65c6cd638",
+    "releaseDate": "2024-12-27",
+    "tags": [
+      "rap"
+    ],
+    "title": "З Новим Роком!",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4RG346cEBxExL9snmP362v"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T05:23:48.590Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "STAS AZARENKO",
+      "Liesad"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739bcce241d39e1cc0d42c9e86",
+    "releaseDate": "2024-07-12",
+    "tags": [
+      "rap"
+    ],
+    "title": "НАРОДЖЕНІ ЛІТАТИ",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4i6xqNez3oGzrhiKq0AOk0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T05:23:48.590Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "1Red Dragon"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735dd83001d587efeecdbfdaea",
+    "releaseDate": "2025-05-23",
+    "tags": [],
+    "title": "056",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4nyF4oRNaVPihsd8GTWnXP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T05:23:48.590Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "LINIV",
+      "дімчик",
+      "BIG SHOOTER 061"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e9f5ec1fdefc3435807c3bb7",
+    "releaseDate": "2024-02-16",
+    "tags": [],
+    "title": "Не по Приколу",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2rOxGsoxKjFbuA6sDb3aXz"
+  }
+]

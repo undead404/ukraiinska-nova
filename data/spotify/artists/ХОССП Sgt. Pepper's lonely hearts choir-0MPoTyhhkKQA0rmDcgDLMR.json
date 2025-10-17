@@ -1,0 +1,60 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T03:29:06.160Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ХОССП / Sgt. Pepper's lonely hearts choir",
+      "Виктория Меликенцова"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c946e82b3a6a679301468b36",
+    "releaseDate": "2020-10-11",
+    "tags": [],
+    "title": "Проспект Гагарина",
+    "totalTracks": 16,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6loARG5jPellezLMP68Yaz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T03:29:06.160Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ХОССП / Sgt. Pepper's lonely hearts choir"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273085d3cd257ea3daceccd1f25",
+    "releaseDate": "2025-04-14",
+    "tags": [],
+    "title": "Now and Then",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4Th2N84XTN0oGi9AdiDLrG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T03:29:06.160Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ХОССП / Sgt. Pepper's lonely hearts choir"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739718c94c61d310d4b98be572",
+    "releaseDate": "2023-09-01",
+    "tags": [],
+    "title": "Бувайте здорові",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4VqQLexJmpNdmizaaIitiB"
+  }
+]

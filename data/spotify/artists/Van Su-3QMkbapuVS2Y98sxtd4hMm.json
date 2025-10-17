@@ -1,0 +1,91 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T20:29:26.358Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slukhay Sashu",
+      "Van Su"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d33690c1f48efec9cbe99883",
+    "releaseDate": "2024-08-28",
+    "tags": [
+      "pop",
+      "folk pop",
+      "indie folk"
+    ],
+    "title": "Єдине, що вічне",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4vSsgvE2mWiLUbFNp8wgMV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T20:29:26.358Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "на її основі"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273505d680dcab77237f0bf1bcf",
+    "releaseDate": "2025-08-22",
+    "tags": [],
+    "title": "КЕМП 2.0",
+    "totalTracks": 19,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4az2VmofKIkuN4VMFGJiDV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T20:29:26.358Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alice Change"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731022010aade9d3e5c4dfd3af",
+    "releaseDate": "2025-10-10",
+    "tags": [
+      "indie pop",
+      "indie rock"
+    ],
+    "title": "ALICE CHALLENGE",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4Zs9kx1otUIR3yweUhdWE0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-16T20:29:26.358Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alice Change",
+      "CRYBYE",
+      "на її основі"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b2604f4a6d0dc1c9109761c1",
+    "releaseDate": "2025-08-25",
+    "tags": [
+      "indie pop",
+      "indie rock"
+    ],
+    "title": "Карамельна любов",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6gH1e1035ZzojXWEsOmPra"
+  }
+]

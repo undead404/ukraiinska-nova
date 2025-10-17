@@ -562,5 +562,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4GSyhxd8Dl1xDo24XQ7Zha"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T04:26:59.760Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SI Process"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f5a0f419f0a42abfcbbc78fb",
+    "releaseDate": "2025-10-17",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Боривітер",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2iCq32sVyVXQplVpapbILJ"
   }
 ]

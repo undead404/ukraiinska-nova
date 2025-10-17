@@ -405,5 +405,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3OUYngvXK58N7bKcRqIJ49"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T04:27:42.728Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "yanww"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273df45f1b1a50800921c8717d0",
+    "releaseDate": "2025-10-17",
+    "tags": [],
+    "title": "NE LUBYSH",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5LFYtLDpO1af668c4UzPwz"
   }
 ]
