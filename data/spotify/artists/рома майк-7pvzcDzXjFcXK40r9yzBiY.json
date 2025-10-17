@@ -1026,5 +1026,26 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/2rIWhIXTYBk7lV5pgzvYou"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T19:20:58.881Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "рома майк"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab7c5ac7b3bcd030100798a8",
+    "releaseDate": "2025-10-17",
+    "tags": [
+      "rap"
+    ],
+    "title": "+380",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3abkF6XeVroUAOK9BNsNDO"
   }
 ]
