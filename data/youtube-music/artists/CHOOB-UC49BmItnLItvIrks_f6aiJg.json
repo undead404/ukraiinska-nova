@@ -416,5 +416,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_llVjliVtKdxhuDHVOMn2dZTB9-zn2DVZk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T15:46:25.579Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CHOOB"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/M-KwASvjwl4mHvA-USn_goBc5h60jxgZlh1Q-3Qdi7a1fLrSeMfWs9wISNu9PRs35Ly2TwvxOWTTu60B=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Просто пиши",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kf1Q-KiY_--l1woNH0wNoy4kUzlQiiC2k"
   }
 ]
