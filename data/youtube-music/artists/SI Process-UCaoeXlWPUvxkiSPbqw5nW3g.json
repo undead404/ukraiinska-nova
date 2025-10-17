@@ -397,5 +397,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m6NFJtOJqxslJE8pMka84_-aF7Ktmig3o"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T03:06:16.407Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SI Process"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/T9dOkBl3Dn2rUBgNOterANUrNSk5wj2wHRgOHy1mhvD0WFw1tojCMsXup6cYhdqhK6sRk96kRcPcMDhf=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Боривітер",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nKXNO9WezrgNT3rAiqc0uP3pdYHJ8EFak"
   }
 ]
