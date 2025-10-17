@@ -996,5 +996,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3loJuwwmQ9aG4JIV4D7aNY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T18:25:19.173Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273af72f4fed448f17fa95ce674",
+    "releaseDate": "2025-10-17",
+    "tags": [
+      "rap"
+    ],
+    "title": "Філки-капуста",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4OBnUN6ZPGk2Q8Nfwd6C9V"
   }
 ]

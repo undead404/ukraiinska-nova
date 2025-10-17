@@ -1209,5 +1209,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7fKAtg1wXQ5Cng6eHhQxDK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T18:27:16.097Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Krechet"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734da97f312330637ce2ec479a",
+    "releaseDate": "2025-10-17",
+    "tags": [
+      "rap"
+    ],
+    "title": "Хто згадає нас?",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6HxbKDrylF4aW3UPO6AeLT"
   }
 ]

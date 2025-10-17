@@ -912,5 +912,27 @@
     "totalTracks": 44,
     "type": "album",
     "url": "https://open.spotify.com/album/61JzuHiyPhJFZ1GWAor7RA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T18:24:06.646Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ann Kovtun"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735dce75be44b2f456c0bf6dfb",
+    "releaseDate": "2025-10-17",
+    "tags": [
+      "electropop",
+      "pop"
+    ],
+    "title": "Пітьма",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5bzIROsyOL4WPhuaXzwQTW"
   }
 ]

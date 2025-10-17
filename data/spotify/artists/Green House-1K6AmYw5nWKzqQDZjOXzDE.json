@@ -610,5 +610,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1sqIFaxJAp1bef6WxPOVNr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T18:26:08.250Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Nahappa",
+      "Green House",
+      "TONE ARMY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735a8c57894deadb2b0bc02de4",
+    "releaseDate": "2025-10-17",
+    "tags": [
+      "underground hip-hop"
+    ],
+    "title": "Сан Шайн Паскуда",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4rYQtcOgvlFFSCFekzSt7C"
   }
 ]

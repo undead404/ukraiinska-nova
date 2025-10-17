@@ -287,5 +287,25 @@
     "totalTracks": 15,
     "type": "album",
     "url": "https://open.spotify.com/album/7u1szYbzxdT5eEfqmsxovZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T18:25:05.785Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Дев'ятий",
+      "Dimych"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27391098fbf24b68865456a7ccf",
+    "releaseDate": "2025-10-17",
+    "tags": [],
+    "title": "Вечірнє місто",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3rKkq4YERZt1NhJ3SqwgWI"
   }
 ]
