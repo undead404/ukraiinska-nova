@@ -812,5 +812,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k9MB2wb7E47rJ4Aw2ffwVz-YJNX4-fC7k"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T18:49:21.442Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Korolova"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/Wk2DhoJaYV3WX1TbzQYNqOs24RGMNbwv2aW9gR24QPEgTjZnTl6bv4IXt__CGS9J56f1ziPA6FoQW1wJ=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "Melodic House",
+      "House"
+    ],
+    "title": "My Mind",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nHI9TfprnEk2mNYvOWqt8aU0GR6zyNH9s"
   }
 ]
