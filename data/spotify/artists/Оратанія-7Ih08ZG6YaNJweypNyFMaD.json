@@ -20,5 +20,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3hEswOgcS6MhBRmcS6V6e8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T03:28:26.049Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Оратанія"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273171d4991ab15d51ccddb8457",
+    "releaseDate": "2025-10-16",
+    "tags": [
+      "pop punk",
+      "rock"
+    ],
+    "title": "А я в батька рослий",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1FJkjxqElyOA0rEEx1kgsI"
   }
 ]
