@@ -1,0 +1,66 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T16:21:43.420Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vasily Richter",
+      "ріхтер"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e4f4201131ba8077354dc666",
+    "releaseDate": "2024-07-16",
+    "tags": [
+      "Garage Rock"
+    ],
+    "title": "кохання зникло назавжди",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3UFWm0KErQgQavti57yarl"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T16:21:43.420Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "POPIL"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27320150601e0d9293f5bca98a6",
+    "releaseDate": "2025-09-26",
+    "tags": [
+      "shoegaze"
+    ],
+    "title": "Наше місто просинається",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6mxUQ87MACkyrBZibqQk4O"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T16:21:43.420Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "POPIL"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273123cb394f67503fa50e4b20b",
+    "releaseDate": "2025-08-29",
+    "tags": [
+      "shoegaze"
+    ],
+    "title": "Рік не спалося",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/248FBXxERrWeSbR32HivZa"
+  }
+]

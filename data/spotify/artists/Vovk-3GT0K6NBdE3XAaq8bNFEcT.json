@@ -1,0 +1,91 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T16:27:52.609Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "XSERGO",
+      "Vovk"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732b85ec9ee50fc468371203f3",
+    "releaseDate": "2022-07-28",
+    "tags": [
+      "Progressive rock",
+      "Stoner Rock"
+    ],
+    "title": "Танцюй",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5aaBTdrP4ttmAgzSp8JmGm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T16:27:52.609Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vovk"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273839e7f71cfdf7046d83f613a",
+    "releaseDate": "2022-05-06",
+    "tags": [
+      "Progressive rock",
+      "Stoner Rock"
+    ],
+    "title": "Чорнобаївка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3fcfQBrm4VHGkMPTAsFbNy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T16:27:52.609Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vovk"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f7a314b45522493249bb73b9",
+    "releaseDate": "2022-01-19",
+    "tags": [
+      "Progressive rock",
+      "Stoner Rock"
+    ],
+    "title": "Тікай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6dxA0fcpH5tPpx0PfYdOfJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T16:27:52.609Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vovk"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273787136cad1c1aff2c4a58847",
+    "releaseDate": "2021-10-29",
+    "tags": [
+      "Progressive rock",
+      "Stoner Rock"
+    ],
+    "title": "Ровер",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6V1wIdv1rrN4fFUHwvN9fD"
+  }
+]
