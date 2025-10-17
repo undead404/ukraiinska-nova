@@ -481,5 +481,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nJLU_FzGcIr0I8qOTRdx5RZuVMBe2DAWg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T23:47:06.993Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MOLODOY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/x4W_D1iL06NgbdFQKMnsNRoIUSANMqIix622XROxeXlco3s2FInJN21UeFyKx9pjXiC6o3c91RC7p2Rk=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap"
+    ],
+    "title": "Вуста (I.T.F Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mV90zEJWMA9BpIsTz-epjy-7lksSc7UXI"
   }
 ]
