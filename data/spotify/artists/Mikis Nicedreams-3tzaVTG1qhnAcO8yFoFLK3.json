@@ -80,5 +80,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5NpSfO1KBU3LjrNhpqbH95"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T20:27:28.159Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MOLODOY",
+      "Mikis Nicedreams",
+      "I.T.F"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27364d89e0becf91dc693322d68",
+    "releaseDate": "2025-10-17",
+    "tags": [
+      "rap"
+    ],
+    "title": "Вуста (I.T.F Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6BsAyvYVKsqQyKyhnzGr1L"
   }
 ]

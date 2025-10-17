@@ -545,5 +545,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3geF8EbWpyCifWUurQK4e2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-17T20:27:53.412Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Oi FUSK"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c705b8cf99709cd4d9645304",
+    "releaseDate": "2025-10-17",
+    "tags": [
+      "Grime",
+      "indie pop"
+    ],
+    "title": "хай здоровими будуть всі близькі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0wHBidtZwDsBXzP0xw7bc9"
   }
 ]
