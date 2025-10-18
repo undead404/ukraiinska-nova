@@ -1,0 +1,44 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-18T13:23:52.359Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "balahon",
+      "R.MIX",
+      "BE3TXLKOVY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27348cf4e106b9b9ced5a8b69d2",
+    "releaseDate": "2023-06-09",
+    "tags": [],
+    "title": "ALLO (R.mix & Be3Txlkovy Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1dmiE7on43bOOKKXf6CZgx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-18T13:23:52.359Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VIN I VONA",
+      "BE3TXLKOVY",
+      "MUNNIX"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27313a27e620ea34fcd99664a5b",
+    "releaseDate": "2023-04-18",
+    "tags": [],
+    "title": "Де ми (BE3TXLKOVY & MUNNIX Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1dVaCS1dGkgreaQEkmcwuF"
+  }
+]

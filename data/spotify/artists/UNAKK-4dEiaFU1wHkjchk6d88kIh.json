@@ -636,5 +636,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1fxFF2RRc47zoXMK3y1Zsj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-18T13:26:48.994Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "UNAKK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27306dfbb67ec555f4ee5cada46",
+    "releaseDate": "2025-10-17",
+    "tags": [
+      "pop",
+      "rap"
+    ],
+    "title": "cash & diamonds",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2cNxt05wvijmlZTF7kgKLC"
   }
 ]

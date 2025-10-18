@@ -486,5 +486,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4Wcljd3ZGwLoZKfoI9pqt1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-18T13:21:19.468Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ДК Енергетик"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732c52890378cb7a3a2b6e4524",
+    "releaseDate": "2025-10-17",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Пізнайко",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7CIawJUpXM7xxqoa8j91oK"
   }
 ]
