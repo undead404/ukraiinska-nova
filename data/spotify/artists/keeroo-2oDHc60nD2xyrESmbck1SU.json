@@ -1096,5 +1096,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1XTXZqzyxKT0KoWaTCwTMF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-18T23:24:41.149Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "keeroo",
+      "Kelavra"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b337db3240535a9e8fc1d856",
+    "releaseDate": "2025-10-17",
+    "tags": [
+      "Lo-Fi",
+      "rap"
+    ],
+    "title": "День, день, день",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6LAaYFa7ZjpIrZ6o7FAC9S"
   }
 ]

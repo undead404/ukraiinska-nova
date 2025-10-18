@@ -246,6 +246,10 @@
       {
         "time": "2025-10-14T23:22:52.771Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-18T23:22:35.248Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -258,6 +262,27 @@
       "punk rock"
     ],
     "title": "DAMN END",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3EVPoSfESLroROqgJGLeJX"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-18T23:22:35.249Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ПРОКЛЯТИЙ ***"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d5794bd81006cbffc0e90630",
+    "releaseDate": "2023-11-17",
+    "tags": [
+      "punk rock"
+    ],
+    "title": "DAMN END (Hockins Remix)",
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3EVPoSfESLroROqgJGLeJX"

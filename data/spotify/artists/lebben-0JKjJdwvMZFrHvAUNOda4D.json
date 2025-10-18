@@ -93,5 +93,27 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/2Fu98H2OEvAO6ZP0apDwPu"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-18T23:24:55.217Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "lebben"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273841a3eebb42e57122e288bbb",
+    "releaseDate": "2025-10-17",
+    "tags": [
+      "electronic",
+      "indie pop"
+    ],
+    "title": "цигарки vol.2",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6zgxrgDvDeEXaC9X8fHiUE"
   }
 ]
