@@ -207,5 +207,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m1x9X8CWmrVlZjmrrrTZkKSjtbMxvm-ns"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-18T08:48:52.907Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VECHIR"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/6bOSsRSs5WQMpDeOBA6wKKJw2yhv3_opd7Z1Ff8utKleITr0cVfGr0WNzq_ilirb0YVHgRPJdvSwZ4E=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Коли ти будеш зі мною",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_maHtBDqBRhGQ8pRB3bYuqAygWfMkozBmA"
   }
 ]
