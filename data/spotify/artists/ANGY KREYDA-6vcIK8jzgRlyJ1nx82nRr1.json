@@ -872,5 +872,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/51r2I1kRBN5tKMLWIh6LlN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-18T12:24:37.129Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ANGY KREYDA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273856383d2abded095e220c693",
+    "releaseDate": "2025-10-17",
+    "tags": [
+      "pop"
+    ],
+    "title": "Фальшивий Ти",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1lX4f2pqbFtYE4cQ5B30m6"
   }
 ]

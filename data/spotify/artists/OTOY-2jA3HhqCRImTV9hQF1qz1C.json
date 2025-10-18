@@ -1084,5 +1084,26 @@
     "totalTracks": 6,
     "type": "single",
     "url": "https://open.spotify.com/album/3HsGXNI5I0zIxMXPRokEOz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-18T12:27:49.299Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "OTOY"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27324a92c374bdcf261c7282082",
+    "releaseDate": "2025-10-17",
+    "tags": [
+      "rap"
+    ],
+    "title": "Все моє життя",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3tantstmws6LROZk1RjhKR"
   }
 ]

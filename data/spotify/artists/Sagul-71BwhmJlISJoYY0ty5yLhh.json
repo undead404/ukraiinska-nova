@@ -103,6 +103,10 @@
       {
         "time": "2025-10-01T12:29:07.381Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-18T12:28:09.783Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -471,5 +475,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7romoIQItHXFpg6ynyC2wY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-18T12:28:09.783Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sagul",
+      "AQUAKILLA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731ebb943ce9361133e46e2a18",
+    "releaseDate": "2022-10-07",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "MULLA",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2iY7FeYA5qnGHivU5891uf"
   }
 ]

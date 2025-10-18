@@ -1,0 +1,41 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-18T12:25:09.953Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VIN I VONA",
+      "DJ Jean Vayat"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cabcaef17bcc40d426698b9b",
+    "releaseDate": "2018-05-08",
+    "tags": [],
+    "title": "Від Ілюзій (DJ Jean Vayat Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/14BI36EQIX1JvkXOf5SY93"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-18T12:25:09.953Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VIN I VONA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e1847e11d7b760472a73de60",
+    "releaseDate": "2019-05-24",
+    "tags": [],
+    "title": "Сторіз",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2qWp308J2nEtFkySXzwHPg"
+  }
+]

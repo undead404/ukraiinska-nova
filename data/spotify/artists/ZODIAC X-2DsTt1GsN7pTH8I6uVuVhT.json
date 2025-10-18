@@ -1,0 +1,82 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-18T12:30:10.201Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ZODIAC X",
+      "STAS AZARENKO"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27375c72b39055c850d9465f79d",
+    "releaseDate": "2023-12-15",
+    "tags": [
+      "rap"
+    ],
+    "title": "Як ти там?",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2VSLdbyIaiw8EDgYrjZaA6"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-18T12:30:10.201Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Andrew Skat",
+      "ZODIAC X"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273862348e40e62a1b30995c29f",
+    "releaseDate": "2023-02-05",
+    "tags": [],
+    "title": "Шоурум",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2S7IPGyQwhhZG5nvWxOECt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-18T12:30:10.201Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ZODIAC X"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27362c9ad597b721783331195d7",
+    "releaseDate": "2022-11-26",
+    "tags": [],
+    "title": "На лестничной клетке",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0jtZepuHZRFtr5lj11wbdR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-18T12:30:10.201Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ZODIAC X"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273896b493f2c4deb66def31297",
+    "releaseDate": "2021-06-11",
+    "tags": [],
+    "title": "Город грёз",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6uyRDUbXtWsBNj8gjsOzxf"
+  }
+]

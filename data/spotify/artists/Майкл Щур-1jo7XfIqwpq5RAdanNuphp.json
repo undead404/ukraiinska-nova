@@ -1,0 +1,89 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-18T12:22:23.761Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Майкл Щур",
+      "thekomakoma"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734203fd9834c4f01f59acf3fa",
+    "releaseDate": "2022-09-27",
+    "tags": [
+      "dance",
+      "electronic",
+      "pop rock"
+    ],
+    "title": "Відбитком пальця (thekomakoma Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7l14qWYsN9qnoXQTVR3kBG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-18T12:22:23.761Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Майкл Щур"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733ca632beb91715dac01b76b6",
+    "releaseDate": "2022-09-16",
+    "tags": [
+      "pop rock"
+    ],
+    "title": "Відбитком пальця",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1e8vmFvPxgaXaadZjuZZSQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-18T12:22:23.761Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Майкл Щур"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731e768826cc6b718ef535a153",
+    "releaseDate": "2014-04-20",
+    "tags": [
+      "pop rock"
+    ],
+    "title": "Футболки",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5lr9Ro7Nxuf9aE5AlDwUM4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-18T12:22:23.761Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Майкл Щур"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736b97363bda61beaf6b92970b",
+    "releaseDate": "2014-04-20",
+    "tags": [
+      "pop rock"
+    ],
+    "title": "Гітарний Перебор",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1ER4YO4twi1QWTTQDT05t0"
+  }
+]

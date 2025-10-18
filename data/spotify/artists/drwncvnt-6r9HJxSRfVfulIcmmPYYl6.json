@@ -1645,5 +1645,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6SSh60JqXgD9sWIf4WKqDi"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-18T12:25:32.157Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "drwncvnt"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273156f74234923957dbcfafa1e",
+    "releaseDate": "2025-10-17",
+    "tags": [
+      "electronic"
+    ],
+    "title": "rain//autumn",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6wF3mElAc3GO7K0gFg5xrP"
   }
 ]
