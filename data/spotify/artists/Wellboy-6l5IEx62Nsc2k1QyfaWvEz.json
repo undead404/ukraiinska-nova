@@ -719,5 +719,26 @@
     "totalTracks": 7,
     "type": "album",
     "url": "https://open.spotify.com/album/1Sbcj2v05TKMqOVEsT7WYJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-18T07:26:39.869Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Wellboy"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736d8abc09f45291b496be5fe7",
+    "releaseDate": "2025-10-18",
+    "tags": [
+      "pop"
+    ],
+    "title": "Ведмедиця",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2d1OqZljKMhh99OQMkLOdq"
   }
 ]

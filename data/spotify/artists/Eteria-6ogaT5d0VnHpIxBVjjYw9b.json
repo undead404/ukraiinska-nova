@@ -481,5 +481,47 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0IxFJ8MApn3eHdVSQleUWX"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-18T07:22:13.767Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Eteria"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27305af034d1ae43d1267d24da8",
+    "releaseDate": "2023-10-21",
+    "tags": [
+      "folk"
+    ],
+    "title": "Переманочка",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3I97CL4FINHQLM4XAuGHUL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-18T07:22:13.767Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Eteria"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730bcd4c77b60b11321ce0c388",
+    "releaseDate": "2025-10-12",
+    "tags": [
+      "folk"
+    ],
+    "title": "Ґандзя",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/05SyKmfPGp0Mvw5YrNNtau"
   }
 ]
