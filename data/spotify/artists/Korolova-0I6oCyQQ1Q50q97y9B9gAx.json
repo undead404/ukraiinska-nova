@@ -1103,6 +1103,10 @@
       {
         "time": "2025-09-25T02:45:27.991Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-18T02:40:57.200Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1173,5 +1177,31 @@
     "totalTracks": 53,
     "type": "album",
     "url": "https://open.spotify.com/album/0fqADTYY1DZrlsgUaDF29e"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-18T02:40:57.200Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Korolova",
+      "JOA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b93d4ed45420d6e13a4e1758",
+    "releaseDate": "2025-10-17",
+    "tags": [
+      "Melodic House",
+      "rap",
+      "Norway",
+      "norwegian",
+      "House"
+    ],
+    "title": "My Mind",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3X2sMZJRhYsnqOQ4hsPlQt"
   }
 ]
