@@ -1,0 +1,63 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-18T00:35:47.223Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Марія Колесник"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27316330b359bf8d54e8dceb8d7",
+    "releaseDate": "2025-07-17",
+    "tags": [],
+    "title": "Eenie Meenie",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4mmgcR9WNF8pNVUeQ7OAYt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-18T00:35:47.223Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Марія Колесник"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a535cf1e68513e13aff0b79e",
+    "releaseDate": "2025-01-24",
+    "tags": [],
+    "title": "Світанок",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3dTmWlgpvJ5MH9G6imh1mJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-18T00:35:47.223Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TAYANNA",
+      "Марія Колесник"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27375c7afb313d6628bcf073527",
+    "releaseDate": "2024-05-29",
+    "tags": [
+      "pop",
+      "Eurovision"
+    ],
+    "title": "Дорослі малі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/71tab1pLByUg0zV4VcEMhz"
+  }
+]

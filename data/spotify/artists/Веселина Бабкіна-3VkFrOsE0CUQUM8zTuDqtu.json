@@ -1,0 +1,47 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-18T00:34:28.928Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin",
+      "Веселина Бабкіна"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27398865a6ac16afdfe8843af6f",
+    "releaseDate": "2020-12-23",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "Твоя любов",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4HRGpNhot3UXSSDyQSiymU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-18T00:34:28.928Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273371f59de58852046c2e738ca",
+    "releaseDate": "2025-03-28",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "КОСМОТАТО",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7N14V3iHuKMqqgQucpuyjQ"
+  }
+]

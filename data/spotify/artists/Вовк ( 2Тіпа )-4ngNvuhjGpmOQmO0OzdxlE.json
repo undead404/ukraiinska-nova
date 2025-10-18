@@ -1,0 +1,25 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-18T00:34:33.219Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Dimych",
+      "SKOFKA",
+      "Вовк ( 2Тіпа )"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a5318f7bf39d0fb2c5a5f764",
+    "releaseDate": "2016-01-13",
+    "tags": [
+      "rap"
+    ],
+    "title": "Троє",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7AcelYbk8iKZgsMPNisznn"
+  }
+]

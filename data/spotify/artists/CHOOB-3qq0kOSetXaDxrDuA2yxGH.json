@@ -431,5 +431,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1FxfyYFleGLMOiyBfSqRYy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-18T00:37:22.465Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CHOOB"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273128774f875d756ff363ab795",
+    "releaseDate": "2025-10-17",
+    "tags": [],
+    "title": "Просто пиши",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4qrmL9FBOwGktp2FhU1Ryg"
   }
 ]
