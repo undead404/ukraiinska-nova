@@ -232,5 +232,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1ye5DJlWSXaQ5lklUXeHif"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-18T01:53:27.858Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "GRISANA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273185a9f1d0f0fe24e6d1b4dfa",
+    "releaseDate": "2025-10-17",
+    "tags": [
+      "pop"
+    ],
+    "title": "Розкішна і зла",
+    "totalTracks": 14,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7joElWTXRqYZYH4rkFjepN"
   }
 ]

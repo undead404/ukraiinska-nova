@@ -477,6 +477,10 @@
       {
         "time": "2025-09-23T01:50:33.120Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-18T01:51:20.786Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -804,5 +808,27 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/416zQUkBDjY6UJTLbeuRwT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-18T01:51:20.786Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олег Скрипка"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735cda87beb3b7124468ffcaab",
+    "releaseDate": "2025-10-17",
+    "tags": [
+      "rock",
+      "blues rock"
+    ],
+    "title": "Марево (Acoustic Version)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4mSVS4nFBzcMkhGBECn0mV"
   }
 ]
