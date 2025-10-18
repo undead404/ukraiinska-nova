@@ -701,5 +701,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0unwIgNo26dWJMnvbzyA2N"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-18T03:27:37.723Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MAKEMD"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c3ead631a8efd5c99645731e",
+    "releaseDate": "2025-10-17",
+    "tags": [],
+    "title": "Black Box",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7m81PUzbUshHayyqZiJy2J"
   }
 ]

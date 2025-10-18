@@ -3496,5 +3496,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1op77GhlCOeRk0mztm9l0U"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-18T03:30:00.890Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738fe1130a569def2e4039da09",
+    "releaseDate": "2025-10-17",
+    "tags": [],
+    "title": "Клейноди волі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0TMRmQDfw6HicACyd59SOj"
   }
 ]

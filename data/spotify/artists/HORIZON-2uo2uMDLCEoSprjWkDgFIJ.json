@@ -1835,5 +1835,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3loJuwwmQ9aG4JIV4D7aNY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-18T03:26:33.859Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "HORIZON",
+      "JustFaded"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27372a7c70f5f6991ea8100eaee",
+    "releaseDate": "2025-10-17",
+    "tags": [
+      "hardcore",
+      "Stoner Rock"
+    ],
+    "title": "Чисте повітря",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0NUktJpitJXodmIJ2WghyE"
   }
 ]
