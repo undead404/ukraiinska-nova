@@ -897,5 +897,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5XgxQUJh5iisxx2sBsKVnp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-18T17:20:26.920Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Тарас Боровок"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734818689f0362d1ddb2e92589",
+    "releaseDate": "2025-10-17",
+    "tags": [],
+    "title": "БАТАРЕЯ ДРУГА",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1gPVVvgjRyBy8muS2dw5n4"
   }
 ]
