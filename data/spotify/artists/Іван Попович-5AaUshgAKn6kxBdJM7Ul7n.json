@@ -1275,6 +1275,10 @@
       {
         "time": "2025-09-23T02:38:41.555Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-19T02:49:09.349Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1296,6 +1300,10 @@
       {
         "time": "2025-09-23T02:38:41.555Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-19T02:49:09.349Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1317,6 +1325,10 @@
       {
         "time": "2025-09-23T02:38:41.555Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-19T02:49:09.349Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1338,6 +1350,10 @@
       {
         "time": "2025-09-23T02:38:41.555Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-19T02:49:09.349Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1359,6 +1375,10 @@
       {
         "time": "2025-09-23T02:38:41.555Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-19T02:49:09.349Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1378,6 +1398,10 @@
       {
         "time": "2025-09-23T02:38:41.555Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-19T02:49:09.349Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1397,6 +1421,10 @@
       {
         "time": "2025-09-23T02:38:41.555Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-19T02:49:09.349Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1411,5 +1439,47 @@
     "totalTracks": 17,
     "type": "album",
     "url": "https://open.spotify.com/album/4vUfWKjQTOp5zth8YDNm5n"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-19T02:49:09.350Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Іван Попович"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733b09a79c5aaf282f8000cbe8",
+    "releaseDate": "2024-07-08",
+    "tags": [
+      "pop"
+    ],
+    "title": "Знов я у гори іду",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5J5ovHzODdfJgmGvleI20b"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-19T02:49:09.350Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Іван Попович"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c381a886d5ffbd6dc76ec4e5",
+    "releaseDate": "2024-07-07",
+    "tags": [
+      "pop"
+    ],
+    "title": "Горянка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4oPxGW9Qxsf3Dl2xKjvjkA"
   }
 ]

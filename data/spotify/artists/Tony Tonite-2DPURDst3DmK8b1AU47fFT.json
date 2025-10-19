@@ -1038,6 +1038,10 @@
       {
         "time": "2025-09-27T02:42:33.159Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-19T02:55:43.587Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1053,5 +1057,27 @@
     "totalTracks": 16,
     "type": "album",
     "url": "https://open.spotify.com/album/2qKQZgS96jb3TCoIBM6Iba"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-19T02:55:43.587Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Tony Tonite"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e94d558f3eb0ad77b60fb90b",
+    "releaseDate": "2014-01-01",
+    "tags": [
+      "Hip-Hop",
+      "House"
+    ],
+    "title": "Ayayay",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1BYtw575tFSaeHCin8YKKY"
   }
 ]

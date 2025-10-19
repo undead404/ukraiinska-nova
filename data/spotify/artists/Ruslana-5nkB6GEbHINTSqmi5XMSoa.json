@@ -567,5 +567,26 @@
     "totalTracks": 17,
     "type": "album",
     "url": "https://open.spotify.com/album/1EuwWqb9aQU32HDr5csK1g"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-19T02:54:58.533Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ruslana"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730a98e1116291cefb42ede91e",
+    "releaseDate": "2004-01-01",
+    "tags": [
+      "pop"
+    ],
+    "title": "Wild Dances",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0kY0Zgf0jwwuqcfTDV1ZIR"
   }
 ]

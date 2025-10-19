@@ -190,5 +190,30 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/2WC14SWfO43M2PDp9Uc7YW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-19T02:56:07.183Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "INSHV",
+      "Zaec"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27313ffffad2648d5dc023d0645",
+    "releaseDate": "2022-02-24",
+    "tags": [
+      "jazz",
+      "swing",
+      "instrumental",
+      "Smooth Jazz"
+    ],
+    "title": "Не зупиняй (Zaec Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4rqLB0l7JJJUDkpENDspCw"
   }
 ]
