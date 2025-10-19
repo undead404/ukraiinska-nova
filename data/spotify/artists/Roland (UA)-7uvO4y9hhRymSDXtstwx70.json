@@ -676,5 +676,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5GPLuhDjFV01rw3LbCgWDP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-19T18:28:25.309Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Franchino Dj"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27313f6abe9c29b388ba266e5ef",
+    "releaseDate": "2018-05-14",
+    "tags": [
+      "italian",
+      "trance"
+    ],
+    "title": "C'mon Don't Stop (Roland Ua Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4XUUU8HSMgILFEnpatph38"
   }
 ]
