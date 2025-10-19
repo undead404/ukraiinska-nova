@@ -112,5 +112,43 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/62LzhdTD5BDlC5NFXAJGVy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-19T09:25:00.524Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROMMEDIA"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737aa8470a690961a5dd6d3b0b",
+    "releaseDate": "2025-10-17",
+    "tags": [],
+    "title": "Мені потрібна",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3betTMPvofXGc8jgfhlBkf"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-19T09:25:00.524Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROMMEDIA"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273634ee8b8fcbe67a6a37d0540",
+    "releaseDate": "2025-10-17",
+    "tags": [],
+    "title": "Знайдеться",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3TOxdUCqGij8ExdRS7JOY7"
   }
 ]
