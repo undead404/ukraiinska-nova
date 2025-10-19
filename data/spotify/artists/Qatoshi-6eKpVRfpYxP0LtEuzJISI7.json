@@ -539,5 +539,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0WUi6YC5nlqWrO7HpN8v7p"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-19T23:26:33.909Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Chico",
+      "Qatoshi"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27304f0ce9004f032d76632cb9f",
+    "releaseDate": "2025-10-19",
+    "tags": [
+      "polish",
+      "Nu Metal"
+    ],
+    "title": "Тримайся купи",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1vXgPGYP52MlqV7QkfZVQZ"
   }
 ]
