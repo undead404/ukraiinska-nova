@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-20T15:20:32.539Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Дмитро Шуров"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733e4d65ba975f0eeb47447c5d",
+    "releaseDate": "2023-12-14",
+    "tags": [],
+    "title": "OST «Слуга народу»",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2A8eoID7jx2krvjMFACVd2"
+  }
+]
