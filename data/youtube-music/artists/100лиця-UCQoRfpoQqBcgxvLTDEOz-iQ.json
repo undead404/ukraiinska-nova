@@ -739,5 +739,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kmp9Ezi5Xq2HNNPgG2JR5gEGS5wrIfhMU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-20T23:45:16.766Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "100лиця"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/UcDVfqnEm4UZuB0esOJzRCBLFgis1x-LL5PALJdEfggbMb3UkeyuTDT99jzJxLS_QvogY8m5H6DvsPMX=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Веснянки (Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l0kxU7rv2w-FZcYcPYvPPwB4-ntO4Er9g"
   }
 ]
