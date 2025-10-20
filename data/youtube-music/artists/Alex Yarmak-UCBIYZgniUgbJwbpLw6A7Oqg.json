@@ -8,6 +8,10 @@
       {
         "time": "2025-10-07T06:49:59.624Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-10-20T06:50:51.480Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -58,6 +62,10 @@
       {
         "time": "2025-10-07T06:49:59.624Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-10-20T06:50:51.480Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -83,6 +91,10 @@
       {
         "time": "2025-10-07T06:49:59.624Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-10-20T06:50:51.480Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -108,6 +120,10 @@
       {
         "time": "2025-10-07T06:49:59.624Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-10-20T06:50:51.480Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -133,6 +149,10 @@
       {
         "time": "2025-10-07T06:49:59.624Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-10-20T06:50:51.480Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -158,6 +178,10 @@
       {
         "time": "2025-10-07T06:49:59.624Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-10-20T06:50:51.480Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -183,6 +207,10 @@
       {
         "time": "2025-10-07T06:49:59.624Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-10-20T06:50:51.480Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -358,6 +386,10 @@
       {
         "time": "2025-10-07T06:49:59.624Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-10-20T06:50:51.480Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -383,6 +415,10 @@
       {
         "time": "2025-10-07T06:49:59.624Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-10-20T06:50:51.480Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -433,6 +469,10 @@
       {
         "time": "2025-10-07T06:49:59.624Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-10-20T06:50:51.480Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -458,6 +498,10 @@
       {
         "time": "2025-10-07T06:49:59.624Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-10-20T06:50:51.480Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -508,6 +552,10 @@
       {
         "time": "2025-10-07T06:49:59.624Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-10-20T06:50:51.480Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -523,5 +571,47 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lNkjch2YcyuJsr4FadyETClaDLi1E8SwU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-20T06:50:51.480Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alex Yarmak"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/0-F4byOns3p-EYGM17ZQMGkTQPsOY04eqqLdz32GtqNt3KDkkR6dEMWkoi8xm2_En_hUgAkoCPsoNGGlVQ=w544-h544-l90-rj",
+    "releaseDate": "2020",
+    "tags": [
+      "metal"
+    ],
+    "title": "Retrowave Goes Metal (Vol. 4)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kaZcxmG2p5ZsqiUjs7z5nBseM4I3AqukY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-20T06:50:51.480Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alex Yarmak"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/ZcysqgkPCAj5nI1uUQpUjCRHj-GnPYQIBblI1ZmxptyDx8OA4JJmzuvdchE01NNx_6sSXb99uzWZscuL=w544-h544-l90-rj",
+    "releaseDate": "2019",
+    "tags": [
+      "metal"
+    ],
+    "title": "Sonic 3 Deconstructed",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mlys1Q4WTGYf7bLrCl9OhWKej42Da3ImU"
   }
 ]
