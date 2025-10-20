@@ -930,5 +930,24 @@
     "totalTracks": 18,
     "type": "album",
     "url": "https://open.spotify.com/album/4eaemKBwMfQpQrPwbL8jgv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-20T10:29:02.948Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "IRA MOSKAL"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a703924c418a2b295d7ae8ad",
+    "releaseDate": "2021-12-19",
+    "tags": [],
+    "title": "Добро переможе",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5bjRZvGU2snLPMhUpLXxTI"
   }
 ]
