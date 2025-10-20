@@ -211,5 +211,24 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/7iccsSvJzZ79UVPhGuLgDJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-20T22:22:05.289Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Dj Dima Vlasov"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27321dc3e0eb55dfbb602512854",
+    "releaseDate": "2025-10-20",
+    "tags": [],
+    "title": "Feel Good",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3YZ5ZDjRtYaFpqnCR96ZU0"
   }
 ]
