@@ -610,5 +610,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/430ClrBrhoYodyfLRIjToT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-20T20:20:43.407Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Алла Кудлай"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735f5fed96b9e6573bb14c9e9f",
+    "releaseDate": "2025-10-20",
+    "tags": [
+      "pop"
+    ],
+    "title": "Вернись із спогадів",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7JELbvC4Q8D4dl8NP20cTn"
   }
 ]
