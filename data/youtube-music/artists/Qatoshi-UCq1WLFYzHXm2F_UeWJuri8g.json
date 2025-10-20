@@ -454,5 +454,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_km1_rmNHc39atXj6ojHL9lvc2fAsKIGpo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-20T02:22:49.088Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Qatoshi"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/wrWKEqVbKbuVzvPFjxyw368PjaG0IID0743zrJcwLA7WnZWJxewXeQSC2TRYPb9BVVwvy6CDhy31JQP9DQ=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Тримайся купи",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kHxWoHCVg7EdDY7TAkne44maCpJow63oE"
   }
 ]
