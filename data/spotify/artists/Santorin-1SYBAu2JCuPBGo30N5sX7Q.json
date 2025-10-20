@@ -655,12 +655,16 @@
       {
         "time": "2025-10-16T21:25:43.620Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-10-20T21:26:37.230Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "STAS AZARENKO"
     ],
-    "artistsPopularity": 21,
+    "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a41ccd48191e448fe7bf20f3",
     "releaseDate": "2024-06-14",
     "tags": [
