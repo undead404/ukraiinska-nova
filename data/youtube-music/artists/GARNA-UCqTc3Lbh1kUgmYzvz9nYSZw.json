@@ -642,5 +642,28 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lPTj_eTZ62zxsELoOjPKNDWp1wZgLfzTk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-21T23:46:58.112Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "GARNA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/BJBFGemrj4skInLpPNR77_DTUC7xGjbq3HJhPip_fQ2pNwiqGugeY7Ah7AGDLoSWOXcxa9kaab2QAnvl=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "electronic",
+      "dubstep",
+      "Grime"
+    ],
+    "title": "Якщо це зробити",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m5U2S2w3Lo8c5QSVWmvIpifrSfK8IyEh8"
   }
 ]
