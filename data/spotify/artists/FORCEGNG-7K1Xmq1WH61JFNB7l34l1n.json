@@ -656,5 +656,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6NZIH9igcR5ukaKZg1NfR2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-21T22:22:46.680Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "XEROGI"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735884aab156b96b4afc13f07d",
+    "releaseDate": "2025-10-19",
+    "tags": [],
+    "title": "ХУДШИЙ",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7lvUOFPEThxUZbItZZkhsK"
   }
 ]
