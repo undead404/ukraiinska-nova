@@ -628,5 +628,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0LRhiQSCJ6XRd9tI00bqEK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-21T19:21:47.301Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Сусіди Стерплять"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730770b2ffde6bbbbae8cca273",
+    "releaseDate": "2025-10-21",
+    "tags": [
+      "indie rock",
+      "Lo-Fi"
+    ],
+    "title": "Попіл мій останній друг",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/76yUkidcjXhLauSeSJRHbK"
   }
 ]
