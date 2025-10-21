@@ -1369,5 +1369,25 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/4xuUuy9ue3ZWuZTEk5AFT1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-21T02:47:38.766Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "D4C",
+      "KIIXSHI"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273106f494cb9715ca86420b914",
+    "releaseDate": "2025-10-20",
+    "tags": [],
+    "title": "DEMÔNIO DO BAILE",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6DJMogrceCKyoZkkPNdG7I"
   }
 ]
