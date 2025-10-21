@@ -296,5 +296,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3KASNrMR75LQC6uXrSPg2c"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-21T11:21:17.330Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "СИЛУЕТ",
+      "RusikILL"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27350f0c65ca8bdf5994cab39f7",
+    "releaseDate": "2023-09-29",
+    "tags": [],
+    "title": "PBTSM",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1pbW7gh7tNUNr3nuIjgQ02"
   }
 ]
