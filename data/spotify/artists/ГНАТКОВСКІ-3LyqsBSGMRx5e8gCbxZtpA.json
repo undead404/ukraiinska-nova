@@ -23,6 +23,10 @@
       {
         "time": "2025-10-17T06:21:24.610Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-21T06:21:47.739Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -99,5 +103,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5IkzfgtysOHdI1ZJqYVKC7"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-21T06:21:47.739Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ГНАТКОВСКІ",
+      "ULIA LORD"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dc799f1bae45d2768f684171",
+    "releaseDate": "2013-07-09",
+    "tags": [
+      "trip-hop"
+    ],
+    "title": "НІЖНІСТЬ",
+    "totalTracks": 14,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6QliWntwZOLsxlxgKaWhNa"
   }
 ]

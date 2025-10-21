@@ -400,5 +400,24 @@
     "totalTracks": 13,
     "type": "album",
     "url": "https://open.spotify.com/album/0y39f9H1PMFXPtF5B1AZFw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-21T06:22:31.934Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Максим Бородін"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e803cf3779ecf2427e1eb0f9",
+    "releaseDate": "2025-10-21",
+    "tags": [],
+    "title": "Зіграємо в любов",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/69GNxRXh56IsKUEAYB6sCY"
   }
 ]
