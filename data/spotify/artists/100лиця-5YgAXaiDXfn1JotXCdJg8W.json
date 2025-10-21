@@ -847,5 +847,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/49TMOdkm5WfQuDOrWk9Jbm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-21T00:38:10.584Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "100лиця",
+      "Oleg Novosad",
+      "ALGASST"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b356ea4582040853f7b5bce1",
+    "releaseDate": "2025-10-17",
+    "tags": [],
+    "title": "Веснянки (Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4BTzRKwvwz5jqoQ2IsdJtK"
   }
 ]
