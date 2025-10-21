@@ -37,6 +37,10 @@
       {
         "time": "2025-10-07T06:49:59.624Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-10-21T06:50:50.979Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -286,6 +290,10 @@
       {
         "time": "2025-10-07T06:49:59.624Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-10-21T06:50:50.979Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -613,5 +621,47 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mlys1Q4WTGYf7bLrCl9OhWKej42Da3ImU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-21T06:50:50.979Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alex Yarmak"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/wpy91Hued9r8ciditsPV1u5LRaXsQ7IlqbUs_Kb2WN-X7mEDn6gT1GXKbky6mEjQQZihP6HjrkhecWCw=w544-h544-l90-rj",
+    "releaseDate": "2020",
+    "tags": [
+      "metal"
+    ],
+    "title": "Retrowave Goes Metal, Vol.5",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lDuHrOGthZufhbTY4TrW-EupGt70Xsg7Q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-21T06:50:50.979Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alex Yarmak"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/oFl_VsLeHUusDyKtrwnAC12HIWCBCH-q7R8uCji9g9MmWs49daAjW2Z3Kr4JKJs0C0DA1i-jSKTtBuc=w544-h544-l90-rj",
+    "releaseDate": "2019",
+    "tags": [
+      "metal"
+    ],
+    "title": "Retrowave Goes Metal, Vol.3",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nX67IPkpQIBAQAmLmB_exsVYlvrrw5cQg"
   }
 ]
