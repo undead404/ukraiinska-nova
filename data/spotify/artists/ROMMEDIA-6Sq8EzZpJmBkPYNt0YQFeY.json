@@ -150,5 +150,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3TOxdUCqGij8ExdRS7JOY7"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-21T09:26:15.120Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROMMEDIA"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ee92ecb0c869d24dcbdfe7a7",
+    "releaseDate": "2025-10-19",
+    "tags": [],
+    "title": "Я втомився",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/623LXTt2M0buG5P3eTnmN8"
   }
 ]

@@ -167,5 +167,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5vCyWhLqga5ReZcbqtavIb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-21T09:20:32.578Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "1310M"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27319ee87e975eabb157ebc29f0",
+    "releaseDate": "2025-09-24",
+    "tags": [
+      "black metal"
+    ],
+    "title": "Буревій",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0rx9KKOvJ8SGS95FAyumU3"
   }
 ]
