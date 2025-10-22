@@ -847,5 +847,26 @@
     "totalTracks": 8,
     "type": "album",
     "url": "https://open.spotify.com/album/4RNmAiDJoQ0oS0q6tOWX2s"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-22T23:25:06.366Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lefor"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273520def04a2a17bb392e82b9e",
+    "releaseDate": "2025-10-22",
+    "tags": [
+      "rap"
+    ],
+    "title": "Скоро буде смішно",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/10yMOQXKTk9HLRnQQrVRpN"
   }
 ]
