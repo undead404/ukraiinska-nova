@@ -663,5 +663,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nX67IPkpQIBAQAmLmB_exsVYlvrrw5cQg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-22T06:51:11.729Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alex Yarmak"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/Qpxa0JVXIO3_iglenF_pd-4zv1OSh1mPLblRM8U4ANMjeREBBgZs0Gb67Cjm9GspOCZ2qtFAOcOb7SQ=w544-h544-l90-rj",
+    "releaseDate": "2018",
+    "tags": [
+      "metal"
+    ],
+    "title": "Retrowave Goes Metal, Vol. 2",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m9N51TrwfSUTgZvJhLLgiu96fj4zejGTU"
   }
 ]
