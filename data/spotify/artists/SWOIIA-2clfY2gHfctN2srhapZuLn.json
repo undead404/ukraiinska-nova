@@ -42,6 +42,10 @@
       {
         "time": "2025-09-24T11:34:12.929Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-22T11:27:54.696Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -292,5 +296,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2Sl1fEWC8MWQCsKoQ7t97B"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-22T11:27:54.696Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SWOIIA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273307474fde9663a345e44c48c",
+    "releaseDate": "2025-09-05",
+    "tags": [],
+    "title": "Мама",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6EVUo79ozCRjwaHv0J0rz1"
   }
 ]
