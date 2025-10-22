@@ -1451,5 +1451,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5pwP60nJmGpAnk4GqEI7pd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-22T16:24:17.516Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Jerry Heil"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c2fa5b56af2e3c2941f88e46",
+    "releaseDate": "2025-10-22",
+    "tags": [
+      "pop"
+    ],
+    "title": "Earth (Dradada)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5xXILGfkz9CDVg2cV0V4me"
   }
 ]
