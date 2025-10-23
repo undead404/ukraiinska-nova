@@ -2409,6 +2409,10 @@
       {
         "time": "2025-10-05T03:36:38.813Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-23T03:39:11.037Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2449,5 +2453,31 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2zxuCfyV0IH4DDGJVAsHYs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-23T03:39:11.037Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Johann Sebastian Bach",
+      "Ludwig van Beethoven",
+      "Edward Elgar",
+      "Frédéric Chopin"
+    ],
+    "artistsPopularity": 6,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739a20de1508cd482e66eabc8f",
+    "releaseDate": "2025-10-21",
+    "tags": [
+      "Classical",
+      "baroque",
+      "piano"
+    ],
+    "title": "Meditation And Reflection",
+    "totalTracks": 50,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5HJVJwMbgPcPFOpC66DvIZ"
   }
 ]
