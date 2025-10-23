@@ -226,5 +226,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n4MQoh5asjhIxUPJGSD55IT83T4nWcwVE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-23T17:48:17.701Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kinoteatr Cosmos"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/9ajtrhv_EuravYss93PYGkZhn1x9Uapzg5zKjBJCvBXigNaGIRiOGsV6FjUuAqpKA2WRQ4HdRfaqSdM=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Чергове життя",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nVwINN4mQygg_uR2V2F25dnIpH3LjxSZI"
   }
 ]

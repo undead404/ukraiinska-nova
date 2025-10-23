@@ -691,5 +691,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mfZev8zVTsadL_X9UhbiJy0EUibFqgfFw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-23T17:48:56.831Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "paashee"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/4sOBQsNW0buOIQLCOs8S5Sqv7BZx_1C1N212ALHD7gI2S95tTnSL7Y0A8kJf0Pw3KH7zHgiUU1ZbND5R=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap"
+    ],
+    "title": "Джелато",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mJdi14EfXpvnD9cuDQjq79jibMl80l2Pc"
   }
 ]
