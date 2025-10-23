@@ -262,5 +262,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_njTNFlcPRlrvtS1U2gFIF91IBP8npJfOE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-23T05:48:49.330Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROMAN TIK"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/hEWGqFXdjwOxt4xi9r-qW4R5_XytS3_CMUIXvG-QNpY06B1T9y3mQt8LgxqUanTvdTTJLp2p-YY2hJHY=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop",
+      "pop rock"
+    ],
+    "title": "інсомнія",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k5HS5AYkEEJ6csbjKmpOuTpf4qXunhLqU"
   }
 ]
