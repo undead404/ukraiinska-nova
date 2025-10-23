@@ -413,5 +413,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4VKW4z7tvXJ0eFgiBN9eAx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-23T07:22:12.719Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "corn wave"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733d8f6e6c705cf79b61f45911",
+    "releaseDate": "2025-10-23",
+    "tags": [
+      "dream pop",
+      "shoegaze"
+    ],
+    "title": "follow",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/36S4SfSEZifZoFI2t7gVPx"
   }
 ]
