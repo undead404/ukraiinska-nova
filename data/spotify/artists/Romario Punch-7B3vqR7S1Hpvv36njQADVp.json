@@ -391,5 +391,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4t0Ha7HBd7s7bojuAetHi4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-23T08:26:51.330Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VovaZiLvova",
+      "Romario Punch"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a254ef36dc4dc68ceedfcb95",
+    "releaseDate": "2025-10-22",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Будуть вічними наші кроки",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0svjqIp4f6OVZMprohlXRc"
   }
 ]
