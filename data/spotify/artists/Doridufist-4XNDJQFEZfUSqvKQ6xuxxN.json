@@ -1013,5 +1013,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1dAgUny3g7Yqm99XBLeb63"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-23T04:23:54.099Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Doridufist"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27393da6997000a5ac94f58eb27",
+    "releaseDate": "2025-10-23",
+    "tags": [],
+    "title": "Prostranstvo",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0zvoWUywsug8Ny0r2I1kSY"
   }
 ]
