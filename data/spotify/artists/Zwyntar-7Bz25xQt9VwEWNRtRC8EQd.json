@@ -273,5 +273,26 @@
     "totalTracks": 8,
     "type": "album",
     "url": "https://open.spotify.com/album/6wIsQKHqY6oxcaLHRasadP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-23T01:57:46.560Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Zwyntar"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730fe443ea4494dd967aa61083",
+    "releaseDate": "2025-10-22",
+    "tags": [
+      "gothic country"
+    ],
+    "title": "Кажани 1983",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/12yfUgP5AxaeLNgQFHw9o4"
   }
 ]

@@ -306,5 +306,27 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/4FdCQ2AnjJrO7S7u5viRd1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-23T01:54:37.956Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "last past."
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27313a09c251c02087acce1e53e",
+    "releaseDate": "2025-10-22",
+    "tags": [
+      "indie rock",
+      "shoegaze"
+    ],
+    "title": "SORRY, HEART",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0UCX2op8wOnPNRTLoQxgR8"
   }
 ]

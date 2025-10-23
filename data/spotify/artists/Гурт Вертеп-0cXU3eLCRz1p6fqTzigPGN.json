@@ -76,5 +76,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6cdb8F2wuUVAAaVaUhKNtt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-23T01:49:45.057Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гурт Вертеп"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27327867cc130f03c103ed4e186",
+    "releaseDate": "2010-03-05",
+    "tags": [],
+    "title": "Співаник. Найпопулярніші українські народні пісні XX століття",
+    "totalTracks": 18,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6MpyzKCGT34MoPSgUxP0Hw"
   }
 ]
