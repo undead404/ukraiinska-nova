@@ -732,5 +732,26 @@
     "totalTracks": 7,
     "type": "album",
     "url": "https://open.spotify.com/album/5yvkjGGmM9cawWiNDGaHqa"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-23T09:25:48.240Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "paashee"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a6c9afb04ded0dde92cb1b35",
+    "releaseDate": "2025-10-23",
+    "tags": [
+      "rap"
+    ],
+    "title": "Джелато",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/00UmXdZSN5munkrH3DTdN9"
   }
 ]
