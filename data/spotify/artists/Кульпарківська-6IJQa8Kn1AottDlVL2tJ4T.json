@@ -714,5 +714,27 @@
     "totalTracks": 14,
     "type": "album",
     "url": "https://open.spotify.com/album/1IZyrbV1hgVwpWJ4yV2S1W"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-23T20:21:36.430Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Кульпарківська"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f683882e0d4d3609256e7baf",
+    "releaseDate": "2025-10-23",
+    "tags": [
+      "rap",
+      "underground hip-hop"
+    ],
+    "title": "space masturbation",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7N3uhmnqoARlqgTvpf7tFw"
   }
 ]

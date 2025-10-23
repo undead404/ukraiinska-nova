@@ -1024,5 +1024,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6u3SFF7OjtduH6hfimSUTN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-23T20:29:01.444Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sleepy Andy"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733a41435a27aa32612d492b5b",
+    "releaseDate": "2025-10-23",
+    "tags": [
+      "pop",
+      "rap",
+      "rnb"
+    ],
+    "title": "LV",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7ngf9KEroWFCvaLAucAELj"
   }
 ]
