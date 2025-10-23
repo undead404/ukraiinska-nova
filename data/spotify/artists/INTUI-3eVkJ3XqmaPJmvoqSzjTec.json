@@ -530,5 +530,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4PB7qCf6k6d3NNZG5Mioch"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-23T05:24:08.651Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "INTUI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c6d0bd33738b58bb72db0275",
+    "releaseDate": "2025-10-23",
+    "tags": [
+      "pop rock"
+    ],
+    "title": "Гаряча кров",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1cW5Av9tD4pgdnzUNZ2vvH"
   }
 ]
