@@ -672,5 +672,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/03N4uiieWlOrqAs5IWN4Y2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-23T10:25:09.817Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "GARNA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27389effb8723cd8ef052cf9f37",
+    "releaseDate": "2025-10-22",
+    "tags": [
+      "electronic",
+      "dubstep",
+      "Grime"
+    ],
+    "title": "Якщо це зробити",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0xVTmTKPtwpS0yfCw7ettO"
   }
 ]

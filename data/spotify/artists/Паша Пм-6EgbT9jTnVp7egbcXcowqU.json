@@ -350,5 +350,25 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/2aGL0FqnHLNO0M15AWp191"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-23T10:21:09.842Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Паша Пм",
+      "Большой Виктор"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eff6f0945f878fb17dc37d11",
+    "releaseDate": "2024-12-25",
+    "tags": [],
+    "title": "На Иксе",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2u0mRyjXCgboSVYrdUveTW"
   }
 ]
