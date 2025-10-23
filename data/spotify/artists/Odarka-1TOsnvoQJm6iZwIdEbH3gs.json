@@ -947,6 +947,10 @@
       {
         "time": "2025-10-17T14:25:23.943Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-23T14:25:33.273Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1031,5 +1035,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/39lZh0Og39F68xNmSR2lIV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-23T14:25:33.273Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "doublemydose"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273955394fd426323f279f7d57d",
+    "releaseDate": "2020-10-30",
+    "tags": [],
+    "title": "lost in decay",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2uJd9vQ1ggl1w3q4OLQoXi"
   }
 ]
