@@ -302,5 +302,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k768dWfRCVQbj3g4wOZXnjRkhpC7-dvsY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-23T01:05:50.342Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ІЛЛЯ LETAY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/u-MV89opCg8QNiZPcWgxvZcXiGUIIJcPJOMrU7qkZ2jCJab9kVKrZPXkYc0mdL47H9gLKBJ23ExkKuc=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Часу не вистачає",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lFq3CCmJrkNWYod7LWk6_IH6Kj-hd1E_k"
   }
 ]
