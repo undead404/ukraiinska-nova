@@ -819,5 +819,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1woTsA1n0y750pyBHtGdYX"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-23T21:25:12.654Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Noise Pareidolia"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273df48b5233841662f0d2a981c",
+    "releaseDate": "2025-10-23",
+    "tags": [
+      "alternative rock",
+      "rock"
+    ],
+    "title": "Unplugged Studio (Acoustic)",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6ZY3T2ishLnM5QcfzKDvjd"
   }
 ]
