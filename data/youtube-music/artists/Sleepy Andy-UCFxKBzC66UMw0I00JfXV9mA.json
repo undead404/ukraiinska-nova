@@ -502,5 +502,28 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l4eus4fQZ8WYen1AKbMTqwwGm38WbXM9A"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-23T16:51:43.604Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sleepy Andy"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/fo20EMPoXn0tA_JkRu-RK7DynqfwRnPPiBcDpv0AZraGcWzkEvqfS1njjXN8QGpltbLVlTtVY6wXm5s9=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop",
+      "rap",
+      "rnb"
+    ],
+    "title": "LV",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lmo-KTwnknYqnvEImc2Qyt3KOCWGJbG0Y"
   }
 ]
