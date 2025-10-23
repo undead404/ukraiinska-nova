@@ -586,5 +586,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lWkPXnBrb6PmKG6qwxvodHQIhkXI8W63U"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-23T22:47:10.065Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DIBROVA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/sBX0whZIMxG24zof2fqAnhHPQ2wKlHdiSQhVGQnVmAoprXQE7x09Cxwt1Ywo05SMlY2lm6UDvDdrdwkm=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop"
+    ],
+    "title": "Про любов",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_luqkGIP-8c6k5jvnx0agUfRVzfIJxZzlw"
   }
 ]
