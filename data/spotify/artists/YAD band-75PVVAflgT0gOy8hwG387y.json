@@ -155,5 +155,28 @@
     "totalTracks": 7,
     "type": "album",
     "url": "https://open.spotify.com/album/0yNPlqgemSGan8TgMox4j0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-23T02:50:24.479Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YAD band"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273752f270f957cca57f8ed5082",
+    "releaseDate": "2022-07-06",
+    "tags": [
+      "metal",
+      "rock",
+      "Pop Metal"
+    ],
+    "title": "День Ніч",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5RDRH85biLTE3OSQaQkPWD"
   }
 ]
