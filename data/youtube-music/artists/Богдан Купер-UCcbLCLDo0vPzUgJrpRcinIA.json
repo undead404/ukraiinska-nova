@@ -418,5 +418,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mf4Fk0In7aQZDFZag5hzCiOrJhEkFmaKk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T15:46:50.881Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Богдан Купер"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/AO4k4AQredvVvbHyaConn4s-z1bXp_lUqmX-CleSnsViaTl8ioYuCtPzaIMaieRQKf160p8bakY4XyM=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Себе не наї",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lr31RvZs9U2gRhw22Y2tS4IaiWtV0ntLQ"
   }
 ]
