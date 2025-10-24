@@ -223,5 +223,27 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/0LOwCDLBXNGIdKeJjBfnxL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T18:23:45.864Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "сліпток"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732f8237aecb5352363c61d20b",
+    "releaseDate": "2025-10-24",
+    "tags": [
+      "indie rock",
+      "Lo-Fi"
+    ],
+    "title": "Знайти",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/40pCtxW8gqgxaCJMdjPCPl"
   }
 ]

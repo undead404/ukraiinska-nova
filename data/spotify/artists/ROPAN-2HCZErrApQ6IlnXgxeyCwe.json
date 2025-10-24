@@ -1201,5 +1201,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/32G5GX4N2YMAwYEdHdp0Ai"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T18:29:44.901Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROPAN"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ae00c190e0df008abc96b948",
+    "releaseDate": "2025-10-23",
+    "tags": [
+      "dub",
+      "reggae",
+      "dancehall",
+      "rap"
+    ],
+    "title": "Сон",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4vu7zmyf8J5GjSY0G4BInI"
   }
 ]

@@ -421,5 +421,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4zIPZRpCjycafCXHWoy7Vd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T18:29:51.108Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "sexnesc"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dfbbfbdb475b94222a33af17",
+    "releaseDate": "2025-10-24",
+    "tags": [
+      "alternative metal",
+      "Nu Metal"
+    ],
+    "title": "Рехаб",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1uT5RVHAZ39laMMavkp9XI"
   }
 ]

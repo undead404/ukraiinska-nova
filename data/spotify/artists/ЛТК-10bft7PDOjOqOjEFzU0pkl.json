@@ -108,5 +108,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7HRovAwnDnCoMb7S9k6fwP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T18:22:41.257Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ЛТК"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a8fc8841dc3035c499b5e42b",
+    "releaseDate": "2025-10-24",
+    "tags": [
+      "indie pop",
+      "pop"
+    ],
+    "title": "Без тебе",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/14LMnMuZpfIDNaXx5ghbrE"
   }
 ]

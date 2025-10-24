@@ -215,5 +215,24 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/16w8HJpa8XRSgPE9KLXinl"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T18:28:28.685Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "M1SHKA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ef647edde5f0bdf75abf869e",
+    "releaseDate": "2025-10-24",
+    "tags": [],
+    "title": "близько",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7q2VWcG3TxXsm1HByBJtOF"
   }
 ]

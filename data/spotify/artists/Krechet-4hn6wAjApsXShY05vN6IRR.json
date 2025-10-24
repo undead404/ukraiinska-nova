@@ -1230,5 +1230,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6HxbKDrylF4aW3UPO6AeLT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T18:28:15.044Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Krechet"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ea29036d8e399924368486f9",
+    "releaseDate": "2025-10-24",
+    "tags": [
+      "rap"
+    ],
+    "title": "Протяг",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3h3XshkztFoMjdVmhsjzm7"
   }
 ]

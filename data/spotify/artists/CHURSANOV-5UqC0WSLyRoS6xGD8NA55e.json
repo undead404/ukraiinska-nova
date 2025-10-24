@@ -699,5 +699,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1jJRk74LdSR05jMWtSwerK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T18:25:19.832Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CHURSANOV"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732757ea3678868f6f55c1bc45",
+    "releaseDate": "2025-10-24",
+    "tags": [],
+    "title": "Карантин",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0UCQnDFaI71qlWMb900Bo4"
   }
 ]
