@@ -1666,5 +1666,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6wF3mElAc3GO7K0gFg5xrP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T12:26:59.205Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "drwncvnt"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cf723660cee8d3e3b6e31ad6",
+    "releaseDate": "2025-10-24",
+    "tags": [
+      "electronic"
+    ],
+    "title": "where our world meets numbers",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1O8ZyctdDTQpmx1oLvizSz"
   }
 ]

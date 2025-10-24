@@ -448,5 +448,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1Sd5lhWYsMkl9mSEqWUYkw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T12:22:38.864Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Богдан Купер"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d4e86fa515f454c88d4c3ebe",
+    "releaseDate": "2025-10-24",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Себе не наї",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4lIjzHg8OvftMRpMclboTG"
   }
 ]

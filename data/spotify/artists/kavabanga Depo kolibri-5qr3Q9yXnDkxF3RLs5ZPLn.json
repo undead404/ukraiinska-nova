@@ -2781,5 +2781,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4ayO2jbCgxf8knj0k07wBt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T12:28:30.138Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "kavabanga Depo kolibri"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734d83e008a9c4e77488c70faa",
+    "releaseDate": "2025-10-24",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Чёрные облака",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4n4cjxr5a8HzAnyhzv25EI"
   }
 ]
