@@ -628,5 +628,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_moSEqvJU1EuntuGv7aUGPFLTBX1NaKfnI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T05:45:57.765Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Околиця"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/uSIHwce5QJFAyvNP2WY_VQupaaTuCEYR-83Hi7ys1JVJbRo1xnxu_uJidE9vlAhxkg2IHCOy3wcQOTL7=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "dream pop"
+    ],
+    "title": "вул. Середня",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nZvlwKsE6VTrI9rk0Zlq0tlBjQiiNwLXE"
   }
 ]

@@ -607,5 +607,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m9i-kzisG78EYbm1TeiS6Gaol4zl-2c2o"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T05:48:02.998Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PATSYKI Z FRANEKA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/ZDictC-ojKOCvbKkK6Cus72cp07kPRIRk3O_6mphERuPGFY196-NIpVU5ay0LjwPXyMmeNWGfr05J77r=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop",
+      "pop rap"
+    ],
+    "title": "Серце (santexx remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mK5yrQoSIyKEckQdbaX_g0EO65bXZ4XyI"
   }
 ]
