@@ -2604,6 +2604,10 @@
       {
         "time": "2025-10-06T21:47:45.398Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-24T21:47:48.585Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2767,5 +2771,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lXCwx_lC93LhStGhFJL8QNSLUzao_JJxs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T21:47:48.586Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/VMgUtkGuQsWnbcu2Ygy7lLdZlImr_hCfpZsabXQRiZU9wN7RSV3xLYK7UEinVwFTz2bWEJxiYAg5X_hs=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Сум наймички",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mbu7n61_g_-e1aRZljaZsYjfLwtXgAiRU"
   }
 ]
