@@ -587,5 +587,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0t6zkrStknDaOuQlcc9li2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T03:32:09.491Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Maryna Krut"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c50db3fb48119755e7dbbdc5",
+    "releaseDate": "2025-10-23",
+    "tags": [],
+    "title": "Live in Lviv",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4sq0P3LbSOot4pMKLjSgFP"
   }
 ]

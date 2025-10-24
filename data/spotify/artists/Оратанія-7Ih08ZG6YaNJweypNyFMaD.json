@@ -42,5 +42,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1FJkjxqElyOA0rEEx1kgsI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T03:27:59.544Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Оратанія"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731c965267b161d081d63426c2",
+    "releaseDate": "2008-02-23",
+    "tags": [
+      "pop punk",
+      "rock"
+    ],
+    "title": "Pazitiff Rock",
+    "totalTracks": 14,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4YEFgHP0WvFSDYiWenAJCJ"
   }
 ]

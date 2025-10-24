@@ -237,5 +237,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1hVbbwXVLSOQfQ5oQH61Ye"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T03:31:13.751Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Joryj Kłoc"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cf7e292389b02812f8b9e343",
+    "releaseDate": "2016-12-08",
+    "tags": [
+      "folk rock"
+    ],
+    "title": "KOZA (Remastered)",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0iWf7F8hqqTGIXdqERkopr"
   }
 ]

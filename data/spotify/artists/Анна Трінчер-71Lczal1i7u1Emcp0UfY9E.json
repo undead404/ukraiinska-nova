@@ -1248,5 +1248,26 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/5eYBzudVDUMolfJFOvlIvG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T03:26:31.610Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Анна Трінчер"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aacad95f0c263241a3edfc95",
+    "releaseDate": "2025-10-23",
+    "tags": [
+      "pop"
+    ],
+    "title": "No cocaina",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7DokZhB4LPyNxNZcKGUI54"
   }
 ]
