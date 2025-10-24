@@ -622,5 +622,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4ucBb9dqfgcstCLN2nxqO6"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T11:28:25.941Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YungKerya"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733b37b6da016b7c757d610eec",
+    "releaseDate": "2025-10-24",
+    "tags": [
+      "rap"
+    ],
+    "title": "боюсь",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0Bpb1IPa1utIBQbDkYBCXT"
   }
 ]

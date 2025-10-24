@@ -384,5 +384,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2HHVCoAVIoxy3BXQRfgI8W"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T11:20:24.378Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ІЛЛЯ LETAY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733725f008006c79b82875a267",
+    "releaseDate": "2025-10-22",
+    "tags": [],
+    "title": "Часу не вистачає",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/62EN6mK2K87xNpO2YUvDQo"
   }
 ]

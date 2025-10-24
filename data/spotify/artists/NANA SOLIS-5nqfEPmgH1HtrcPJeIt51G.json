@@ -270,5 +270,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2hgU9yRcUw4CCD1CH1BAVv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T11:26:14.260Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NANA SOLIS"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27390aa334a1542f2d6e639cf52",
+    "releaseDate": "2025-10-24",
+    "tags": [],
+    "title": "що таке кохати?",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0qVh1enad9Aw8bUjIjZ5HJ"
   }
 ]

@@ -677,5 +677,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/57MN5rdocLTWcZ6cDoDAhj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T11:22:34.041Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Baryk"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27323fbe4af6d8c82ce1ca6936f",
+    "releaseDate": "2025-10-24",
+    "tags": [],
+    "title": "Скільки треба сліз",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5euJie1mc4UidapdI0Ov0N"
   }
 ]
