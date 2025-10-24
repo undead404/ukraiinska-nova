@@ -943,5 +943,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lLYWqoKO6UA0NFyO-E32fdhGboeZkVxRI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T13:49:42.654Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CHURSANOV"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/xB8XCtSXDobq3rkBVdWOMvNAEGYZEDTtL9-46oZrW4ysGnih-b3lU3gVhrds--y8KUJDTzyB7T_8g7o=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Карантин",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_moaEzpuGPUYjvI5f1d-oPpvUt1BS1DZ3o"
   }
 ]
