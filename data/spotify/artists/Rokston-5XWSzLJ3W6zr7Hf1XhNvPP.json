@@ -255,5 +255,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/36oj2t9bAdWr4WCJbgM4UB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T04:26:50.612Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "AVALAN ROKSTON",
+      "Avalan",
+      "Rokston"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27398a82aae84f0e6e30ae00cb1",
+    "releaseDate": "2025-10-24",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Who's Gonna Save You",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4JmkTZ0tU7rpacA1IDKLyf"
   }
 ]

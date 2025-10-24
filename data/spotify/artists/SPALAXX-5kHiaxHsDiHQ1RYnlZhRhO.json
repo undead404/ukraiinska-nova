@@ -442,5 +442,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3zdI4w5QZjlsuKAseGgt7e"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T04:27:12.749Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SPALAXX"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736b1a7f1843b09cd9ec64fec0",
+    "releaseDate": "2025-10-24",
+    "tags": [],
+    "title": "Блискавка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1BYEqXKoJNTHHQ3mmwdXs9"
   }
 ]
