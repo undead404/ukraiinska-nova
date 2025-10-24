@@ -405,5 +405,25 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/01noPFuKusq9dgbcpeGOeR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T16:28:54.519Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vallhard",
+      "TORNADA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b63877e7da61cc2ae762650c",
+    "releaseDate": "2025-10-24",
+    "tags": [],
+    "title": "Paru Bochok",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4QKKOtS6SsnjZ1qGiYdnOY"
   }
 ]
