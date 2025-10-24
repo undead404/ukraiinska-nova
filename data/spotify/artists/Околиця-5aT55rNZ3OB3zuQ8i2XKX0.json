@@ -686,5 +686,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5atJMYtiR9t97rh1iFBhj2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T14:20:56.531Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Околиця"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739a42c5756673a2c020c28c29",
+    "releaseDate": "2025-10-24",
+    "tags": [
+      "dream pop"
+    ],
+    "title": "вул. Середня",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/10ulBB5vXCVm2iy1Enj5x7"
   }
 ]

@@ -663,5 +663,28 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/7CR3BCa2nbTLSWRnNigmBC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T14:24:42.746Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lost Gift"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c1334f9ce97bc65f7c039c0d",
+    "releaseDate": "2025-10-23",
+    "tags": [
+      "indie pop",
+      "indie rock",
+      "Lo-Fi"
+    ],
+    "title": "Highway",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2b70DPXqHUQqATdwxlFI7m"
   }
 ]

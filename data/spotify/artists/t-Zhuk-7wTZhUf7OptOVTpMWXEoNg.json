@@ -1450,5 +1450,24 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/1GtGparruNrrVASGI3D3Uh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T14:27:02.809Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "t-Zhuk"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737e77fcc0cad5e9f3ca214b78",
+    "releaseDate": "2025-10-24",
+    "tags": [],
+    "title": "Gele",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1DGe5AYiwejG8XtUrhYzUj"
   }
 ]

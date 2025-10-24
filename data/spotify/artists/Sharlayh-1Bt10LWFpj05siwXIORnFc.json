@@ -74,5 +74,27 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/6gXgMtxtFAuI88ZVQuwqD0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T14:26:00.757Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sharlayh"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27325f20a168622bb7142d9eede",
+    "releaseDate": "2018-03-28",
+    "tags": [
+      "Lo-Fi",
+      "singer-songwriter"
+    ],
+    "title": "ДУБИНА",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5fYTRmGhkmGRviqYDbmARU"
   }
 ]
