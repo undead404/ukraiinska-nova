@@ -229,5 +229,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mK_mWS1iBvPP8LrOBrgslWQ_U3FeGfoIQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T18:49:39.822Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Druha Rika"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/OuJSxfUopF2ViXqGC94XzIoUeMAYqSeHqfwnEwlXiyeWcUXC4KU0D4mHU9YrLyl6az8838a8U_h8YS2OZA=w544-h544-l90-rj",
+    "releaseDate": "2012",
+    "tags": [
+      "rock"
+    ],
+    "title": "Metanoia. Part 1",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nONBvYYtOtFu5VrhmTUO66TsLpiuvtvzk"
   }
 ]

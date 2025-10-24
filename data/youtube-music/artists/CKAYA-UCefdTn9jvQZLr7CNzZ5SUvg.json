@@ -378,5 +378,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k5QrWscgau24bV9QTADZpNwC467MB2cwE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T18:49:27.509Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CKAYA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/vFPJ5uU_x9AquFahLtvxlZ-LQFtxolz0BFlNzmopoadcb3Qgo-SywMOtKWuxcEJDZnF_Q7WysA84-U4O=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Ріка",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kAaQ6B8bFJbxwIBPhLfMSsHLaBqhNjj1s"
   }
 ]
