@@ -431,5 +431,27 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/35ovIhRJolZuUTqFa6kXjL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T22:20:11.191Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Апатія"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733891e6fab7a5ea319d5d7fee",
+    "releaseDate": "2025-10-24",
+    "tags": [
+      "emo",
+      "alternative rock"
+    ],
+    "title": "Я (не) врятую тебе від самотності",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5tQPio57395KRxWzBguYIx"
   }
 ]
