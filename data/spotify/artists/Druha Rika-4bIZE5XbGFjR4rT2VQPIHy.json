@@ -480,5 +480,31 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3cytTHRkLzO8DtBrHXD50q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T06:24:48.622Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Druha Rika",
+      "Zaec"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273037deca41be4db77a5e65f28",
+    "releaseDate": "2025-10-24",
+    "tags": [
+      "jazz",
+      "rock",
+      "swing",
+      "instrumental",
+      "Smooth Jazz"
+    ],
+    "title": "Три хвилини (Zaec remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3XmhQHxYxJ3DVfHrev7kLQ"
   }
 ]

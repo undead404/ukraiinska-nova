@@ -1320,5 +1320,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2IC7oQLGYegbFrOxulHu0t"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T06:23:06.235Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Pozer90",
+      "Райчу"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27356a9f9f27fc2732b670ec747",
+    "releaseDate": "2025-10-24",
+    "tags": [
+      "electropop",
+      "pop"
+    ],
+    "title": "NIKITIN",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0IisjqyTqYCrZZzSISU1fl"
   }
 ]
