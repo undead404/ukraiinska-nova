@@ -40,5 +40,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0ddV0TfOsqBzOza4naRTVz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T08:25:19.589Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Krovna"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27357b286123f09e2c54076d9ec",
+    "releaseDate": "2025-10-24",
+    "tags": [],
+    "title": "Крила (Wings)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2jUK511b6p22KSzrMeoF4b"
   }
 ]

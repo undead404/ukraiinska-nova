@@ -40,5 +40,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/52INcwx5P9lhnGcfOeVCnP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T08:28:23.111Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vasylysa"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273496c54866773bd098b2a473e",
+    "releaseDate": "2025-10-24",
+    "tags": [
+      "pop"
+    ],
+    "title": "Рокі",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6fk37Kn99mXv6Uz0ujonQT"
   }
 ]
