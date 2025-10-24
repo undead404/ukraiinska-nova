@@ -492,5 +492,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ldhdD5cMSwFEvxQQhsQNa5TiCgKMjxAwI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T20:46:17.436Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Anna Dobrydneva"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://lh3.googleusercontent.com/XyvdUXkp50kjs0a6TyBPbpbhYHGhgAJLRsaUMij4urTxlvCzS0l0T-Z7K66jno1wuTVK5Q_ohzUAnZk=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Скандал",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_krM4c6YO-kQR44hSohgT4jLuqxNPXF8vY"
   }
 ]
