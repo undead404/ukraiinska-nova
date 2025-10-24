@@ -644,5 +644,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mPsWEbErkCQVYnxa_ZxFBdiJTWoS_K7dg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T07:46:54.799Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Baryk"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/uROYoV6OEinVTpU14MBr6foHr3qMbscJWjgXPUiCXaW0iz6f2ExSdv0T9BJdsYP_L7NPj4ozy15rNUQs=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Скільки треба сліз",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_msp5dorApJxqPSIxWzEOp5MsxZjj89NMc"
   }
 ]
