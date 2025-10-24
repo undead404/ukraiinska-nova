@@ -868,5 +868,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/10yMOQXKTk9HLRnQQrVRpN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T23:25:57.752Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lefor"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27331f5c2c55957f99c94550ded",
+    "releaseDate": "2025-10-24",
+    "tags": [
+      "rap"
+    ],
+    "title": "Інх",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1HlxRjjijQPW7slmoSfcds"
   }
 ]

@@ -250,5 +250,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5lJD2OdvVMcaW6HqUlkloH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T23:24:51.440Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Granat Garden"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738e823d3ff51786818a0505cb",
+    "releaseDate": "2025-10-24",
+    "tags": [
+      "dark folk"
+    ],
+    "title": "Давай Тікай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1AHwB9pvaLS0YcNxAvBtbf"
   }
 ]

@@ -378,5 +378,26 @@
     "totalTracks": 16,
     "type": "album",
     "url": "https://open.spotify.com/album/6loARG5jPellezLMP68Yaz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T23:28:55.189Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vivienne Mort"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273527022e3e06bbe6d89a16bca",
+    "releaseDate": "2025-10-24",
+    "tags": [
+      "alternative rock"
+    ],
+    "title": "Не ходи ти тут, не ходи",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3UuCKNKE6qYcxZjM0RKppP"
   }
 ]

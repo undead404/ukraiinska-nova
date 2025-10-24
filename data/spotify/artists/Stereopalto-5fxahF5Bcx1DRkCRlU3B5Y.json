@@ -328,5 +328,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/04MLLAE6XeDgKvwtDGN8Wn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T23:28:36.592Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Stereopalto"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273248d47f7425725bd366f9a68",
+    "releaseDate": "2025-10-24",
+    "tags": [
+      "alternative rock",
+      "indie rock"
+    ],
+    "title": "Медицина Катастроф",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1SvdteP8cFwFBqI5sRem5e"
   }
 ]

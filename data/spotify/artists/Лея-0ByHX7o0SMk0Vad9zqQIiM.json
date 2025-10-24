@@ -441,5 +441,30 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3eWmOJZKvqXFRD5mZZ22JG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T23:21:33.765Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Лея",
+      "туди-сюди і смерть"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a7faba6a800485ee4baca505",
+    "releaseDate": "2025-10-24",
+    "tags": [
+      "folk rock",
+      "Garage Rock",
+      "indie rock",
+      "punk rock"
+    ],
+    "title": "Ти мене не знаєш",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6Vh7u2qs4ly6yjbQZWNsfj"
   }
 ]
