@@ -1339,5 +1339,27 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/0fBGFaPKoQWkZtjzpcaWdx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T02:43:21.528Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Gvozdini",
+      "Sofia Di"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bac425cab1832a0c9fe554af",
+    "releaseDate": "2025-10-23",
+    "tags": [
+      "Progressive House"
+    ],
+    "title": "LABUBU",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/59euc6nW99DamiZJp4Kef2"
   }
 ]

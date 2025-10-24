@@ -264,5 +264,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/05SmccLqLGb3b5ZqctPsKS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T02:46:22.461Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROMAN TIK"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737757b67c3e1322512269813b",
+    "releaseDate": "2025-10-23",
+    "tags": [
+      "pop",
+      "pop rock"
+    ],
+    "title": "інсомнія",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5Q5ZQhycA4kXIfOG3aI0h6"
   }
 ]
