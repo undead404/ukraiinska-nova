@@ -425,5 +425,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6cpoEDdRbUW03f3zLQVtR3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T21:25:48.470Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Smillan",
+      "REZUS",
+      "Mytko"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739e9530f00f220b3ed884e4f6",
+    "releaseDate": "2025-10-24",
+    "tags": [],
+    "title": "Нелегальна (REZUS & Mytko Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0rfrEanyvh6nV9TmA2012S"
   }
 ]
