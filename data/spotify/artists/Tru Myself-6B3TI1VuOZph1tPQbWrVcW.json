@@ -157,5 +157,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5M6IbR8FQBTuqhzOEdGrwy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T10:29:15.186Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Tru Myself"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a87869876aa7f4ef5ec837b6",
+    "releaseDate": "2025-10-24",
+    "tags": [],
+    "title": "Енергія Ями",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5oHqqEvgXOSkTlTc6lUY03"
   }
 ]

@@ -623,5 +623,26 @@
     "totalTracks": 12,
     "type": "album",
     "url": "https://open.spotify.com/album/1jF5c0KoLaiAlYBzgj4W0y"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T10:27:51.158Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROXOLANA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27314c10524e0568b7b73f26e9e",
+    "releaseDate": "2025-10-24",
+    "tags": [
+      "pop"
+    ],
+    "title": "Намисто",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1jrMaeB4AvMkdqKfCUaB0S"
   }
 ]
