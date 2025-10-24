@@ -527,5 +527,69 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1GyVPe8rmnoCXC2fVGpHtH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T01:50:40.967Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "HOLLY",
+      "МУЛЬТИТРЕК"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273192913d376987466d2569f5c",
+    "releaseDate": "2025-10-23",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Лютики",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7CT6IIf5q98fppdHgMIsdt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T01:50:40.967Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ісус",
+      "МУЛЬТИТРЕК"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e8d6970b89adff5a3cfb4d64",
+    "releaseDate": "2025-10-23",
+    "tags": [],
+    "title": "Зміна декорацій",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2D5U9BG7mJGcylaTnVptMx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T01:50:40.967Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MUZA",
+      "МУЛЬТИТРЕК"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fe59857c455eab177d9e7741",
+    "releaseDate": "2025-10-23",
+    "tags": [
+      "trip-hop"
+    ],
+    "title": "Don't make me cry",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4GlNXy4foSZPksomrJilSs"
   }
 ]

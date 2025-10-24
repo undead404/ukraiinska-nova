@@ -154,5 +154,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1Rg3VSfYavAFbq9dQ4QNZj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T01:53:28.630Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "HOLLY",
+      "МУЛЬТИТРЕК"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273192913d376987466d2569f5c",
+    "releaseDate": "2025-10-23",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Лютики",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7CT6IIf5q98fppdHgMIsdt"
   }
 ]
