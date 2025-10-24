@@ -524,5 +524,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0JNSIv5sagjzs3QhLJwONv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T09:20:53.840Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Анна Добриднєва"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736dad9dcc4aff64d05cb42898",
+    "releaseDate": "2025-10-24",
+    "tags": [],
+    "title": "Скандал",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0XQ6F7uiNfWz9nFg2Hp2wM"
   }
 ]
