@@ -397,5 +397,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mmg_lwCRx1NiKnwhBKqtRTg2USzz41QNw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T04:49:24.735Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Smillan"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/gm_kh_MOQDqUB5hWc_YrqOXaB1BDRltpIXYJcZT3y_32lNm2X7M55nXJ75rMRCCvs_38wYf8JSkyKiGU=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Нелегальна (REZUS & Mytko Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mPYVzQbNpTCxpqmULo8UqqgP5WTc0VymU"
   }
 ]
