@@ -380,5 +380,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2Ts1SsDnFVKhfEvG02z8n5"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T17:23:51.910Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Blooms Corda"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273588d5d847ffaf00f1368bcb2",
+    "releaseDate": "2025-10-24",
+    "tags": [
+      "funk"
+    ],
+    "title": "Somnambula",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4VTQm5atgYw2QpzNTVPK7J"
   }
 ]

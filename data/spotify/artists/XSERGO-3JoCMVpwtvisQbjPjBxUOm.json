@@ -1110,5 +1110,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4wLxBVFsRWMU6WocFvAETL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T17:29:13.374Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "XSERGO"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c989fb62fcbfd2a882ddd930",
+    "releaseDate": "2025-10-24",
+    "tags": [
+      "male vocalists",
+      "pop"
+    ],
+    "title": "Моя королева",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3liQESvP66fBew1AV5qCbu"
   }
 ]
