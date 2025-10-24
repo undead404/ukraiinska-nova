@@ -717,5 +717,26 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/03CUkEya0i7zhDWPtYdJp7"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T13:23:42.432Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Джозерс"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273291b09332ccd05a412fde8ac",
+    "releaseDate": "2025-10-24",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Той, хто біжить по лезу II",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0OU70skSosLW7SGDKfh2jt"
   }
 ]

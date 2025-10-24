@@ -438,5 +438,27 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/6QjLfg54jS3OjGhoRMfpKb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T13:29:26.599Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Obrij"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273029b4337b90bd6730f85bebf",
+    "releaseDate": "2025-10-24",
+    "tags": [
+      "death metal",
+      "metal"
+    ],
+    "title": "Невимовлене слово",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6BRZxFqw8GOpRi9jSVPUqT"
   }
 ]

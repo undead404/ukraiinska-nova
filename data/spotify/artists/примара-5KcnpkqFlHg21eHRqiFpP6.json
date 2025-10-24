@@ -1372,5 +1372,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4C2oEj5SxmNISrSF8t426E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T13:25:00.962Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "примара"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27376f88f22773d5dbccf172fc7",
+    "releaseDate": "2025-10-24",
+    "tags": [
+      "rap"
+    ],
+    "title": "рікаКрові",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3yFdXRulY6BEGsVvzac75q"
   }
 ]

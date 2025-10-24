@@ -792,5 +792,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3kC0xViYuZIt72wZefF6vG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T13:28:15.005Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kostiuchenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cc4ed8c4b6150cfa62482df7",
+    "releaseDate": "2025-10-24",
+    "tags": [
+      "trap"
+    ],
+    "title": "#willgetbetter",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0WIqOo2KfG2gg9dDCjlij4"
   }
 ]
