@@ -297,5 +297,28 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mNx0JS3JT91o9QA-ocTWT7LWaghCQvlio"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T14:48:33.613Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "туди-сюди і смерть"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/8Rh-i4sPaNnBrlsLvDMSiAYsYS2Z_t7z4xmlpt5p1Lj4m8caPKVn8HOBjhzIea6Wyh1XDv7YoCaXnDlNJQ=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "Garage Rock",
+      "indie rock",
+      "punk rock"
+    ],
+    "title": "Ти мене не знаєш",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k2D1nuDpePXPMuUDKKRvopjx9QrWuT-1M"
   }
 ]
