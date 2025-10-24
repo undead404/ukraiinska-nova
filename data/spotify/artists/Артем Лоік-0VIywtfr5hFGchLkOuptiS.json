@@ -1616,5 +1616,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5lvIP1jFhkbguhxHcBuFKg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T19:19:54.099Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Artem Loik"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733f3206555daf486cb3e49bee",
+    "releaseDate": "2025-10-24",
+    "tags": [],
+    "title": "Арка дружби народів",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1ToGU0T7Pwt45mY7hHS1nB"
   }
 ]
