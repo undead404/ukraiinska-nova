@@ -22,5 +22,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2bYIm5ZvFlQg7y75vFNl0E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T20:30:09.244Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ULYANA"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d0a5bddd358415524aa231fc",
+    "releaseDate": "2025-10-24",
+    "tags": [
+      "ambient",
+      "electronic"
+    ],
+    "title": "monolog",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4AIGhsryE8JUurNLBZrFYc"
   }
 ]

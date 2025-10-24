@@ -124,5 +124,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2BuXFL5cGuv59RhXKO260L"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T20:20:55.765Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТАЙТЛД",
+      "Eugene Tymchyk"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730affa04299bf7fcd796c03e1",
+    "releaseDate": "2025-10-24",
+    "tags": [
+      "metalcore"
+    ],
+    "title": "ще одна",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7707LfsCs6f4lHn09oEssd"
   }
 ]

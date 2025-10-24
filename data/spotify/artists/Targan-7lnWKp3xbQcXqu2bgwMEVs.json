@@ -590,5 +590,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/72o2nwRvKq6TMT9hCk1hAL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T20:29:45.443Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Targan"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273780a5185151fdb775964f3aa",
+    "releaseDate": "2025-10-24",
+    "tags": [
+      "singer-songwriter",
+      "sadcore"
+    ],
+    "title": "Без ненависті, мрії помирають.",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4ShlZnZdtPSNY6oavNlA9h"
   }
 ]
