@@ -152,5 +152,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5kKP9LRzsb0KZM9De0ieSZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T05:21:11.479Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Холодне Сонце"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bec8aa2a2136796b8750c1e9",
+    "releaseDate": "2025-10-23",
+    "tags": [
+      "Gothic Rock"
+    ],
+    "title": "Між снами",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0JwxdnpAfxIoNLfT0nc7VI"
   }
 ]

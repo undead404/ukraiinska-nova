@@ -840,6 +840,10 @@
       {
         "time": "2025-09-23T05:21:52.709Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-24T05:22:42.107Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -987,5 +991,31 @@
     "totalTracks": 10,
     "type": "single",
     "url": "https://open.spotify.com/album/5IZqXZ372X4T9dd1wQXrWx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T05:22:42.107Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BUMP'12",
+      "Barto Katt",
+      "Sydoz",
+      "JupiJej"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27384c36c95e26fec7624dfcb59",
+    "releaseDate": "2022-03-25",
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "polish"
+    ],
+    "title": "BUMPOMAT VOL. I",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/242jDDURU1tAfaVPacXfrP"
   }
 ]

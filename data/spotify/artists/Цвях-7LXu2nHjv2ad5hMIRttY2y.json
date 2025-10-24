@@ -355,5 +355,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/550EvMoWAFJ4LCWzlBatqC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T05:21:16.794Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Цвях"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731cc2a7e27f8b30775aaf8916",
+    "releaseDate": "2025-10-24",
+    "tags": [
+      "rock"
+    ],
+    "title": "В чорному вдіта",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2GsyAq7Be8Die5MegKJi03"
   }
 ]

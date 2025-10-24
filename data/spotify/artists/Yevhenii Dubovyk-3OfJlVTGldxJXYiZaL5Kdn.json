@@ -541,5 +541,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0zeQNp74VrFW9WVM3Al0Sh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-24T05:27:07.026Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SO"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273759fb2de00bab279b23ae526",
+    "releaseDate": "2025-10-23",
+    "tags": [
+      "glitch",
+      "ambient"
+    ],
+    "title": "Море",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6jogLfppDAQDs0PNjShCVL"
   }
 ]
