@@ -495,5 +495,29 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/6GKGNvkTcLSx7BmuLAtBAb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-25T01:56:18.638Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Tapolsky",
+      "Alloise"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27309f400781376eff4516ab9f0",
+    "releaseDate": "2025-10-24",
+    "tags": [
+      "electronic",
+      "Drum and bass",
+      "dubstep"
+    ],
+    "title": "ММД",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2UzsfKjraF2RoBYlVXCVtK"
   }
 ]

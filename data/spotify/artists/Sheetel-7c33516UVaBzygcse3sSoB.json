@@ -455,5 +455,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5zLbDsCbp3HEImWfKrLJ8L"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-25T01:55:50.781Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Monokate"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b567a9d92f0e5b7291aacc0e",
+    "releaseDate": "2025-10-24",
+    "tags": [
+      "pop"
+    ],
+    "title": "Половина мене",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/313ajnJOcZPIfIoe35zGIh"
   }
 ]

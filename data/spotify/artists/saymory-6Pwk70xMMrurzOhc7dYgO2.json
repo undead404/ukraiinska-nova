@@ -1127,5 +1127,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/75SR4UBrWoxZt3qGeMgoID"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-25T01:55:40.058Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "saymory"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27361f21b64af373bf44466d9d4",
+    "releaseDate": "2025-10-24",
+    "tags": [
+      "ambient",
+      "electronic"
+    ],
+    "title": "Mi Nuit",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1YlKSdfeDJ5Jh8N8VxFWnY"
   }
 ]
