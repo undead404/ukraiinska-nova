@@ -506,5 +506,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3XmhQHxYxJ3DVfHrev7kLQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-25T06:24:22.039Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Druha Rika"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f09bdc4f98401d977e846e59",
+    "releaseDate": "2012-06-12",
+    "tags": [
+      "rock"
+    ],
+    "title": "Metanoia. Part 1",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/04F8CCyNIPjGdX7QDMcJaT"
   }
 ]
