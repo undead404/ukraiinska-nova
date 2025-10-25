@@ -342,5 +342,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5ERzM4XcZPaxR9hUSWGXTw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-25T11:26:55.484Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vaib UA"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735c1d799ebb63863b9f5b24aa",
+    "releaseDate": "2025-10-25",
+    "tags": [],
+    "title": "Сонце Низенько",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4vjkfIprdsA31ki7hNZy4S"
   }
 ]
