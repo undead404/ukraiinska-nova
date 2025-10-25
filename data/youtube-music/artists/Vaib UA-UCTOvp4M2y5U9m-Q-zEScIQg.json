@@ -302,5 +302,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lMgXid_iWPMxQEthKoJ3_OcqwL1b7tJ6g"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-25T16:49:52.355Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vaib UA"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://lh3.googleusercontent.com/gGWOcG3flNQHLHg5cUwO_XYW25RbBl1ZyuUvjO_zN_RdUCFF_ux5RVI7Vv1TLtP-CPf37nwWxHVM60DQ=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Сонце Низенько (feat. Wellboy)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_knp6BuajaSlCxR3zwLbOvz9sEZZD0dYaY"
   }
 ]
