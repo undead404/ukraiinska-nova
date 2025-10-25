@@ -420,5 +420,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4tan29GE0vLnMeu4jrnp4k"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-25T03:30:33.114Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CKAYA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27328a9b72a6490dce12ce79ba1",
+    "releaseDate": "2025-10-24",
+    "tags": [],
+    "title": "Ріка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0Z6FgEa2jYXCUVJKehkvmS"
   }
 ]

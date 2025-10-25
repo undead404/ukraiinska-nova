@@ -165,5 +165,26 @@
     "totalTracks": 10,
     "type": "single",
     "url": "https://open.spotify.com/album/7aXIa87o3PtwmyzyytEXIW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-25T03:31:34.238Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "GRATY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273196dff8de234b8e0e70de5a2",
+    "releaseDate": "2025-10-24",
+    "tags": [
+      "rock"
+    ],
+    "title": "Мій Шик",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5fPSegUaVE9cFR1o8uHHhn"
   }
 ]

@@ -3515,5 +3515,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0TMRmQDfw6HicACyd59SOj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-25T03:35:25.866Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739923c1a52ef9da3f08d58af4",
+    "releaseDate": "2025-10-24",
+    "tags": [],
+    "title": "Сум наймички",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7KZbz1lnaX5vRfFjtDqDRt"
   }
 ]

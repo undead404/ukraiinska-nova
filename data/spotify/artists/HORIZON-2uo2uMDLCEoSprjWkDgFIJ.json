@@ -1858,5 +1858,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0NUktJpitJXodmIJ2WghyE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-25T03:31:59.292Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PVNCH",
+      "HORIZON"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734ebfb49333a78bca4f4ab3d6",
+    "releaseDate": "2025-10-24",
+    "tags": [
+      "hardcore",
+      "Hip-Hop",
+      "Stoner Rock"
+    ],
+    "title": "ПЕРЕРОБКА",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4YbG8L22kqmNZzZDUJU7sQ"
   }
 ]
