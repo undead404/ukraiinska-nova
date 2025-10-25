@@ -526,5 +526,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/01y92ASYD5wo5WpJFIwemI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-25T02:43:57.004Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TAYANNA",
+      "FIЇNKA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273de5f90afd20ae095c8587e0b",
+    "releaseDate": "2025-10-24",
+    "tags": [
+      "pop",
+      "Eurovision"
+    ],
+    "title": "Миленький",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0wUyl9j02U3IkieEErkAui"
   }
 ]

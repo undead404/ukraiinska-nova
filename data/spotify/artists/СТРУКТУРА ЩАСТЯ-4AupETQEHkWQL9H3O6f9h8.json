@@ -526,5 +526,27 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/0lIAt8rUFfqEg6Eou7abIM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-25T02:42:43.597Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "СТРУКТУРА ЩАСТЯ"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736b37f736252c34267fb253aa",
+    "releaseDate": "2025-10-24",
+    "tags": [
+      "indie pop",
+      "hyperpop"
+    ],
+    "title": "Лесбіянство (не) модно",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2ErrKh5Je7FE64vfGEK2gq"
   }
 ]
