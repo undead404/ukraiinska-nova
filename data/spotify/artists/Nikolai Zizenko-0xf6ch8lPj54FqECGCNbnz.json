@@ -2622,5 +2622,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3CMkahgPreZlwS0k9vCxC2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-25T07:24:00.309Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Zababura",
+      "Ann Muse",
+      "Nikolai Zizenko"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b1911b76a8f60e847363efae",
+    "releaseDate": "2025-10-25",
+    "tags": [],
+    "title": "Я бачу сон",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3CQqgpjKEyhIT2GUeRFQYS"
   }
 ]
