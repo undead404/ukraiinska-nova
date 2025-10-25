@@ -1371,5 +1371,30 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/76aFvN0FXHm3WMg7El1tzh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-25T00:43:56.094Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TARABAROVA",
+      "Злата Іванів"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cd2c290766e12d7c3a4a6a77",
+    "releaseDate": "2025-10-24",
+    "tags": [
+      "pop",
+      "electronic",
+      "female vocalists",
+      "synthpop"
+    ],
+    "title": "Мамине намисто",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/65AkcqmiTuKwcYUdOD2IPB"
   }
 ]
