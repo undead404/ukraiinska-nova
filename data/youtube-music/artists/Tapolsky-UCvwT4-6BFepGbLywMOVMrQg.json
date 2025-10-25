@@ -262,5 +262,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mMT9hNioBHYZpt-_kOP1iFrhPguhG8I2Y"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-25T02:16:22.056Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Tapolsky"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/GQPA1hstMt9_19YSxToe6LGHQeU4ZeqCHJwLFmSTQRcsJvSK_Xye-pJPlAQ4G3UqSwzWILh1wAKK2EQ=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "Drum and bass",
+      "dubstep"
+    ],
+    "title": "ММД",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mBE_yyffDllz6JV3T7Ugq9OYM-WpGeGtc"
   }
 ]
