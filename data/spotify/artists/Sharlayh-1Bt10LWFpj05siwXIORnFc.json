@@ -96,5 +96,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5fYTRmGhkmGRviqYDbmARU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-26T14:24:54.975Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sharlayh"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e44216de19dbf40ee9b49ee0",
+    "releaseDate": "2025-10-26",
+    "tags": [
+      "Lo-Fi",
+      "singer-songwriter"
+    ],
+    "title": "маленьке місто",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6bwEWoQN5QJOJ5qhGv5HN2"
   }
 ]
