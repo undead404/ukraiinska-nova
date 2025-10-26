@@ -812,5 +812,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0DvzTAC0nN27i7GMcqRKVs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-26T16:23:42.058Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kayuk"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27325a05d193cdad35bd276edb3",
+    "releaseDate": "2019-08-16",
+    "tags": [],
+    "title": "Запам'ятай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2zu6DI1MCn4x6GUpj7xip1"
   }
 ]
