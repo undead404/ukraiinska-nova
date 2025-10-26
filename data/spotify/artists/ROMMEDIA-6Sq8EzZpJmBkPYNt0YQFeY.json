@@ -169,5 +169,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/623LXTt2M0buG5P3eTnmN8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-26T09:25:09.126Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROMMEDIA"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a93f3327646c859fa0e029ed",
+    "releaseDate": "2025-10-24",
+    "tags": [],
+    "title": "Пошта передай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7xnzJckhB6nyO5quwHHe9M"
   }
 ]
