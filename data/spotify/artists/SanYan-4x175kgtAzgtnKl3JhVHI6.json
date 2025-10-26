@@ -93,5 +93,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6LQwUFkgQhN17L4RfLNFim"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-26T00:45:39.316Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SanYan"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736575d22df6dd8c48d4de0c11",
+    "releaseDate": "2025-10-25",
+    "tags": [
+      "ambient",
+      "noise"
+    ],
+    "title": "Осінь за вікном",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3DJPmknc02G4Ik0DissRpF"
   }
 ]
