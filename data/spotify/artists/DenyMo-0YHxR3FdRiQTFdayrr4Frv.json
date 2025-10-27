@@ -570,5 +570,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6mjQtft3jXIoyGCeV2L5Ue"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-27T20:25:05.632Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DenyMo"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27370dd577d1817b0f6f373f292",
+    "releaseDate": "2025-10-27",
+    "tags": [],
+    "title": "Сумувати Разом",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3o0F7RnQ0lNJwf0OBSwK4e"
   }
 ]
