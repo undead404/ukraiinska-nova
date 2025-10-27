@@ -485,5 +485,26 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/7c5s5rEyJefvRGSjlRuHw3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-27T13:27:21.040Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alex Yarmak"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f06e26f52f4ac2715254c696",
+    "releaseDate": "2021-09-07",
+    "tags": [
+      "metal"
+    ],
+    "title": "Limits",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/61lqUmbsosZ7kQDN8ulxWd"
   }
 ]
