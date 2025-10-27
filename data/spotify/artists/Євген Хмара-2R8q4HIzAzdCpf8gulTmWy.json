@@ -4,6 +4,10 @@
       {
         "time": "2025-09-24T22:20:24.262Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-27T22:20:41.583Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -153,5 +157,25 @@
     "totalTracks": 13,
     "type": "album",
     "url": "https://open.spotify.com/album/2S3EZhTIN6L7yjaXUbKZlA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-27T22:20:41.583Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TINA PETRIV",
+      "Євген Хмара"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b0a178b4bd890a274b6e6389",
+    "releaseDate": "2025-03-14",
+    "tags": [],
+    "title": "Мирні ночі, ясні дні",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7LqbaQrW6X5lh0guSFlh0o"
   }
 ]
