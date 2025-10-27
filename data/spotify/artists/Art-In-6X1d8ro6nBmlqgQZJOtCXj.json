@@ -409,5 +409,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1TkK3WcJLGvtWiJE8xoqOj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-27T19:22:00.261Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Art-In"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27310b767e2e625b0246c9384a8",
+    "releaseDate": "2025-10-27",
+    "tags": [],
+    "title": "Pulsar",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5zZHwLcOMpO7qTm9znCBIV"
   }
 ]
