@@ -4,6 +4,10 @@
       {
         "time": "2025-09-18T15:27:05.950Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-28T15:27:59.156Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -216,5 +220,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4V2rI5QUOsvImNBC5Ddmzo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-28T15:27:59.157Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vyshebaba",
+      "Марі Чеба"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27334d416411c9e7aae87af06dc",
+    "releaseDate": "2024-11-07",
+    "tags": [],
+    "title": "Відбитки",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1IqBGXRPFO9MdrDeD4KRBF"
   }
 ]
