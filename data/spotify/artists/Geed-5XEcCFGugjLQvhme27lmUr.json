@@ -158,5 +158,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/01neIAMrL8g9Wwc3erMqzo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-28T20:27:24.045Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Geed"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733ac632ea1319e76d42064806",
+    "releaseDate": "2025-10-28",
+    "tags": [],
+    "title": "Лая",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/30NSOG613nBGh49x8ry2EO"
   }
 ]
