@@ -413,5 +413,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0svjqIp4f6OVZMprohlXRc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-28T08:27:07.326Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sapta"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733aa8ca5be7c6076e62fb5d7a",
+    "releaseDate": "2023-07-07",
+    "tags": [],
+    "title": "X",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6B3m5Dm6k3gTMwcjCC4Gpg"
   }
 ]
