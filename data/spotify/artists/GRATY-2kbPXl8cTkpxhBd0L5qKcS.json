@@ -186,5 +186,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5fPSegUaVE9cFR1o8uHHhn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-28T03:35:53.459Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Cyluz",
+      "Ghost Eye"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27364689fdaa2bcbfc7e1f62571",
+    "releaseDate": "2024-11-15",
+    "tags": [],
+    "title": "Despues De La Tormenta",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7vxibUnMag8ve4Hy9NxRtM"
   }
 ]
