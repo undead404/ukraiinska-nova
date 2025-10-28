@@ -116,5 +116,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3Dhfdoi24L83ga7ovyDwxN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-28T01:56:43.450Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Skrevil"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fc0ec5e750b7bc4e6ac38959",
+    "releaseDate": "2025-10-27",
+    "tags": [],
+    "title": "404",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7Iuv6KthHvybknFAuOxCXR"
   }
 ]
