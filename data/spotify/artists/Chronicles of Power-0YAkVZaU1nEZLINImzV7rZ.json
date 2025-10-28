@@ -4,6 +4,10 @@
       {
         "time": "2025-09-27T07:20:55.624Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-28T07:21:51.956Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -89,5 +93,29 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/6X9twWjs3HhWRElXyb43Q3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-28T07:21:51.956Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Chronicles of Power",
+      "Fahot"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731ef79b47680343cc8d16c323",
+    "releaseDate": "2025-08-28",
+    "tags": [
+      "funk",
+      "pop",
+      "rap"
+    ],
+    "title": "Хорт. Перший Характерник (За підтримки УКФ)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/128356sMqZtCNiKfgLQY7X"
   }
 ]
