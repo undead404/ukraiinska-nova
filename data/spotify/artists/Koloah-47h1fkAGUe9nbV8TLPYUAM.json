@@ -852,5 +852,27 @@
     "totalTracks": 11,
     "type": "album",
     "url": "https://open.spotify.com/album/5MqPwgEPI9WtyNTwu1wWAi"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-28T02:48:53.880Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Koloah"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dd5ab115adac31a7f5576867",
+    "releaseDate": "2025-10-27",
+    "tags": [
+      "dubstep",
+      "electronic"
+    ],
+    "title": "From The Archives Vol. 1",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1hTy4zp6Ob9J8vCh0Xmkce"
   }
 ]

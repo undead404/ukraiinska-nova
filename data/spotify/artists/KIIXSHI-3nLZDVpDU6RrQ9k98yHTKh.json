@@ -1389,5 +1389,25 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/6DJMogrceCKyoZkkPNdG7I"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-28T02:48:35.398Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KIIXSHI",
+      "D4C"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738068f5b2ea3bf19eb0e8bb7b",
+    "releaseDate": "2025-10-27",
+    "tags": [],
+    "title": "CHARIOT",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1t20qGn2PiDS2EvmBJiaXv"
   }
 ]
