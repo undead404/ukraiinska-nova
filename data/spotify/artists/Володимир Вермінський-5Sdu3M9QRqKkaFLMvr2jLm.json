@@ -986,5 +986,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0xn7L6CQce5Ufu4deFOjKy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-29T00:39:47.133Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Володимир Вермінський"
+    ],
+    "artistsPopularity": 3,
+    "releaseDate": "2025-10-27",
+    "tags": [
+      "folk"
+    ],
+    "title": "Літо не зима",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1ORbTZ1dvxzscy1HE3zz8y"
   }
 ]
