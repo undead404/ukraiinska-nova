@@ -1005,12 +1005,16 @@
       {
         "time": "2025-10-27T23:29:29.956Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-10-29T23:28:26.852Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "ГНАТКОВСКІ"
     ],
-    "artistsPopularity": 8,
+    "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d8b74ef7fd634fd8c9b149bb",
     "releaseDate": "2012-04-04",
     "tags": [],
@@ -1070,6 +1074,10 @@
       {
         "time": "2025-10-27T23:29:29.956Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-29T23:28:26.852Z",
+        "type": "LOST"
       }
     ],
     "artists": [
