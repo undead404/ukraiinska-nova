@@ -252,5 +252,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4VToLY2VVtPcBEi0urZzT1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-29T18:28:24.502Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "LADA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734bdc55a33f668a5eac16dd6a",
+    "releaseDate": "2025-10-29",
+    "tags": [
+      "techno"
+    ],
+    "title": "Мішка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2GDumjkiype2n9GUhZoEeu"
   }
 ]

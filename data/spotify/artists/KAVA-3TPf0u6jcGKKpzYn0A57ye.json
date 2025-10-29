@@ -1384,5 +1384,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5r7MKXikNq9PYv9r3cesvF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-29T18:27:38.705Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KAVA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27318ef957ff03e794b2727d281",
+    "releaseDate": "2025-10-27",
+    "tags": [
+      "pop",
+      "male vocalists"
+    ],
+    "title": "Печать",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7xt6UCKacoZww1ApEttoRn"
   }
 ]
