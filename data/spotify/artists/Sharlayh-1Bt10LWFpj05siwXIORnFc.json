@@ -118,5 +118,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6bwEWoQN5QJOJ5qhGv5HN2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-29T14:26:32.679Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sharlayh"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ba584ca0f5cc2a2f581218b0",
+    "releaseDate": "2025-10-28",
+    "tags": [
+      "Lo-Fi",
+      "singer-songwriter"
+    ],
+    "title": "Центр Принятій Рішеній",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3xPA9dXQRjSB9K7XxYo32D"
   }
 ]
