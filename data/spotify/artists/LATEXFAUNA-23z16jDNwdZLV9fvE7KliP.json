@@ -963,5 +963,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/34HGkiow2z1TpgAm5CmDU6"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-29T16:24:53.164Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "LATEXFAUNA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f17bd68833efcba0b2905917",
+    "releaseDate": "2025-10-29",
+    "tags": [
+      "funk"
+    ],
+    "title": "Shovkovytsya",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7IDbrG8oQS4caAv9yuJuRv"
   }
 ]
