@@ -397,5 +397,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kcOM7Ts0z33JCjGlT_XRcvR9h1QgGgxQs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-29T20:49:27.068Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VLADA K"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/E7Ls4tFUK81PecwgP0bGdrJbv2rQ-AY-B7Dg3PAFQjvM4FmxdFBEd6MwJxQlxOJB9wM_WYu090B7bkICMA=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "ЗАВЕДУ КОТА",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lOutcw_qcL6AjasXwOaAkRK22rPKLN65Y"
   }
 ]
