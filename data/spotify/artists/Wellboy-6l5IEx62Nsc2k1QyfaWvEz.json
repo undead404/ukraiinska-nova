@@ -759,5 +759,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4vjkfIprdsA31ki7hNZy4S"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-29T07:27:29.970Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Wellboy"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c9248b9db4a22e2ea77d9c48",
+    "releaseDate": "2025-10-29",
+    "tags": [
+      "pop"
+    ],
+    "title": "Ведмедиця (Lamba Music Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6k6MiW6HqyeRZoMnyQmRyX"
   }
 ]
