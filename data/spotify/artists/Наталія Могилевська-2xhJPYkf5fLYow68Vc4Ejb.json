@@ -842,5 +842,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7f8TLce95xA1BNPzJLx68n"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-29T20:22:54.054Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Наталія Могилевська"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b8b0079734079ad104e2418f",
+    "releaseDate": "2025-10-29",
+    "tags": [],
+    "title": "Бай Бай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3b8duOE26bKKdK3NxViKFj"
   }
 ]
