@@ -416,5 +416,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mA99XTylFzys2RdTIBtSjo_zNjK83rbWY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-29T14:50:42.327Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NIKITIN"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/jjYYfujIuHSvRwPGdt6s3Gel0-HEquwLSDxXCMlAJ51In3Xqnw25LcEuPErWXZ5SseoPqG6asSX6CnxV=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "dance"
+    ],
+    "title": "Ти поселилась у душі",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nz3A47l0ODgRAKNENrhvjW7BXr_bNL-Ww"
   }
 ]
