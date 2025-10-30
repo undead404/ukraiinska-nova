@@ -1834,5 +1834,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nb38DhivJFfaGKCwsVr5fhglWU9eTPlZo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-30T15:49:49.787Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/cNEsRApNLrHZWuLdVGZKL6epIZp1Ya5wbdIKFinvdmobKpy0FsWw92_DX3yi4fgDegC5R--09XPi2YI=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Techno Boy",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nbRSBe0Co_NmgCYaVUk87WD4yqpdJC__s"
   }
 ]
