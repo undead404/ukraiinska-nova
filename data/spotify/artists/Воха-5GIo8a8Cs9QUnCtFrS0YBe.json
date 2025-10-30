@@ -549,5 +549,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/04dfJ0ZGqflnERvH6IvQGN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-30T08:20:58.201Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Воха"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369a3460cf72063aa4c7c890f",
+    "releaseDate": "2025-10-30",
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "underground hip-hop",
+      "underground rap"
+    ],
+    "title": "Сон",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6MgtBsxV1ahwQneuApP4QU"
   }
 ]
