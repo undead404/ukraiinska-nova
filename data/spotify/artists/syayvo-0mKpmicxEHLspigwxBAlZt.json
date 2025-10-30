@@ -124,5 +124,26 @@
     "totalTracks": 10,
     "type": "album",
     "url": "https://open.spotify.com/album/51Xlk89xx2WvgcDw1s2oRn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-30T06:27:23.472Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "syayvo"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d9a68a45700285a282135b6c",
+    "releaseDate": "2025-10-30",
+    "tags": [
+      "shoegaze"
+    ],
+    "title": "solar UV",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6HT4aKUCR5PqLZOhLTdMDY"
   }
 ]
