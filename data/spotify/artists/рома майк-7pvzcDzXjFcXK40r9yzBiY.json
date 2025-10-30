@@ -1047,5 +1047,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3abkF6XeVroUAOK9BNsNDO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-30T19:21:19.402Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "рома майк"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f56dbf2ca901d4a085136b7b",
+    "releaseDate": "2025-10-30",
+    "tags": [
+      "rap"
+    ],
+    "title": "Забуття",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1CWzyLz2E1jSYEWN2ZHrIJ"
   }
 ]

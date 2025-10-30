@@ -264,5 +264,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0O3Ry8942q4WKphFm2Ruu9"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-30T19:20:53.858Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Пан Парасоля"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f2b20d217dbefc59e02a866",
+    "releaseDate": "2025-10-30",
+    "tags": [],
+    "title": "Щастя",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4FkVfcz9FtY1zndKA7IQ7n"
   }
 ]
