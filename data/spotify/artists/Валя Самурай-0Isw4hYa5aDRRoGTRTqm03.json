@@ -264,12 +264,16 @@
       {
         "time": "2025-10-29T11:19:55.251Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-10-30T11:19:47.505Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Валя Самурай"
     ],
-    "artistsPopularity": 16,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fdfc28975c6ed932ffee12e6",
     "releaseDate": "2022-02-23",
     "title": "Скарбард Ломниця",

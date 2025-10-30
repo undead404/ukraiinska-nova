@@ -220,5 +220,32 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1rmDfZAWj9yLfr3ZEockYJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-30T11:19:28.392Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Віктор Павлік",
+      "Марія Бурмака",
+      "Green Grey",
+      "Аква Віта"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b7048af4f5aa1df058fedfa2",
+    "releaseDate": "2020-09-30",
+    "tags": [
+      "eurodance",
+      "female vocalists",
+      "funk",
+      "pop"
+    ],
+    "title": "5 Stars EP - Back to 90s",
+    "totalTracks": 16,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3nuQZ2STGY8EMUt9czm4J8"
   }
 ]
