@@ -378,5 +378,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lI33KcgrNsoSBA8nJWxVYQ8cN6wu3PJNY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-30T22:52:38.146Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VERLOKA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/U-4balSjgLAp_Krl_D3uChBXx0Hg6r7H5lu2WElQKkxBHk1NZm4B_pHiCO6pzAG_no3UOKPyNDZgZTav=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Я побудую дім",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lNOIblJu3fJ6DYo-hDfi7FA3rufxJxqQk"
   }
 ]

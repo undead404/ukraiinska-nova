@@ -207,5 +207,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kKaiU0clbAWDUWrOlH_Qav5WLTcO8qA2c"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-30T22:51:00.368Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Krasna Tysha"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/ngeVxOY-hHY4c3pF3IILiqIVEbbYTESZYWi9_SofLolszMmZsnCvkTOxn4MxaqD4tq9A8UL87OHWlLiRew=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Lovи",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l-M2hsu0mCX92sOipaXRLNKg2-tqx-dJU"
   }
 ]
