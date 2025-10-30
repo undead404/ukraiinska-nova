@@ -1395,5 +1395,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5a75O70zrGn3PyRxPTxP57"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-30T23:27:11.987Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27380bc6946daee3c35b9b3e6e1",
+    "releaseDate": "2025-10-30",
+    "tags": [],
+    "title": "Techno Boy",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7dKH2ytMTDp5OITtA8zrYh"
   }
 ]
