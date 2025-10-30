@@ -632,5 +632,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4buIWNhWMgsXWb0UhSc3EV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-30T15:30:33.782Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Masha Kashyna"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ea9156e266fc4f66952564fb",
+    "releaseDate": "2025-10-30",
+    "tags": [],
+    "title": "Home Search",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/59lKwj4m2uN3xhNPBznVbQ"
   }
 ]
