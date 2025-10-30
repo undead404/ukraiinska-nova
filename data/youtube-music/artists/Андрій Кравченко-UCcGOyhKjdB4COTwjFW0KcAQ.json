@@ -435,5 +435,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ksYapIKD3beBFo4wHJS6GX97idEklL1yY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-30T07:44:58.562Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Андрій Кравченко"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/gpQpQX87RUBzF84orCi3GpXCimmKXJCrebkaC2A107Mer7RBRumz3lflSvDQfzpiTbJW6dOaBOWpZysW=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Дитинство",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k5tdUD_s50w5UzQa5UaCHgYfeJDujVNYM"
   }
 ]
