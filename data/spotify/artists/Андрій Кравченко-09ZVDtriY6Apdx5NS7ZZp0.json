@@ -449,5 +449,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6A8yQyuCGOOKlHAISUOmOQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-30T17:19:55.642Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Андрій Кравченко"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739392f9afb5e3175df05901ba",
+    "releaseDate": "2025-10-30",
+    "tags": [],
+    "title": "Дитинство",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7rQzDJO5C1Rjs60lo5iwfm"
   }
 ]
