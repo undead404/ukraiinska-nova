@@ -857,5 +857,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/32BE4EaSBfk5McC9Z9SKAE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-30T18:26:45.743Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BADWOR7H"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732a4e9352b5a1e673014ac6ed",
+    "releaseDate": "2025-10-30",
+    "tags": [
+      "electronic",
+      "breakbeat"
+    ],
+    "title": "Душніла",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0PJ6OYTfhk7VyeBe2QBYKS"
   }
 ]
