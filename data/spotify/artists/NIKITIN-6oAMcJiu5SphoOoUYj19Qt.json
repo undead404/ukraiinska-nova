@@ -420,5 +420,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1zvdjfGwEVvmCWvckvlgep"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-30T02:52:14.091Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NIKITIN"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27311b70a2e48567ae551a64e88",
+    "releaseDate": "2025-10-29",
+    "tags": [
+      "dance"
+    ],
+    "title": "Ти поселилась у душі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4NX8NQ1VldbVXTya5YFRsd"
   }
 ]
