@@ -2643,5 +2643,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3CQqgpjKEyhIT2GUeRFQYS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-30T07:24:29.994Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "s_o_n_y_a_U_A",
+      "Nikolai Zizenko"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273083879d55e8e347ae63ca110",
+    "releaseDate": "2025-10-30",
+    "tags": [],
+    "title": "Літній дощ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0P2tQRAFx7gdugjPyjLvMY"
   }
 ]
