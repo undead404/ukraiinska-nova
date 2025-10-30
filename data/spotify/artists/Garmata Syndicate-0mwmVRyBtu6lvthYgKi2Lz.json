@@ -169,5 +169,52 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7BiSkSUmw4jxKjwD7DZi45"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-30T22:22:45.625Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Garmata Syndicate",
+      "YARAY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e28d113b25f2a53738063498",
+    "releaseDate": "2023-09-29",
+    "tags": [
+      "metal",
+      "hardcore",
+      "metalcore"
+    ],
+    "title": "Цвяхи",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0n4la8eRHimYuxV7nfcC28"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-30T22:22:45.625Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Garmata Syndicate",
+      "THE EMERGENT"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d904d96738c89f338d703d6f",
+    "releaseDate": "2023-06-30",
+    "tags": [
+      "hardcore",
+      "metalcore"
+    ],
+    "title": "Павутина ймовірностей",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/35lz92gVazLTJPGJNi22A2"
   }
 ]
