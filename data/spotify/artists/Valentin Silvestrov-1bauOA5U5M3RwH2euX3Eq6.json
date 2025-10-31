@@ -2365,6 +2365,10 @@
       {
         "time": "2025-09-23T03:29:42.510Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-31T03:42:54.137Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2479,5 +2483,49 @@
     "totalTracks": 50,
     "type": "album",
     "url": "https://open.spotify.com/album/5HJVJwMbgPcPFOpC66DvIZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T03:42:54.138Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Robert Lortat"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f7e13051684fef26a6f4d78c",
+    "releaseDate": "2025-10-16",
+    "tags": [],
+    "title": "\"063 Piano Essentials\": Lullaby",
+    "totalTracks": 63,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7xaQBVhiL0h1kZZdQKSc3R"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T03:42:54.138Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Wolfgang Amadeus Mozart",
+      "Franz Schubert",
+      "Ludwig van Beethoven",
+      "Frédéric Chopin"
+    ],
+    "artistsPopularity": 6,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cd06b5f72abbdebe451d8417",
+    "releaseDate": "2025-10-25",
+    "tags": [
+      "Classical",
+      "piano"
+    ],
+    "title": "Classical Coffee",
+    "totalTracks": 35,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3w2ZJ9Mp96gASQTvUxL6pz"
   }
 ]

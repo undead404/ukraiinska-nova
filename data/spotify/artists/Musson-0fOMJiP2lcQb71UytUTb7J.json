@@ -360,5 +360,25 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/7q6Weko5QimR4FwCtOSMAy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T03:39:44.840Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Musson",
+      "thetema"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d3df1521aca94be425aa0364",
+    "releaseDate": "2023-04-20",
+    "tags": [],
+    "title": "Gradient",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0ebz3Qyv9JrB8nafuZYcoq"
   }
 ]

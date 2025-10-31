@@ -733,5 +733,28 @@
     "totalTracks": 10,
     "type": "album",
     "url": "https://open.spotify.com/album/1wcnOXZKxEakBK0FMjtprm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T03:35:35.575Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Після Дощу"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273618ccd1b7cd320c3ef8412c6",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "electronic",
+      "pop",
+      "pop rock"
+    ],
+    "title": "Остання осінь",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2ql5opkyapgwqpJzHDYrb4"
   }
 ]
