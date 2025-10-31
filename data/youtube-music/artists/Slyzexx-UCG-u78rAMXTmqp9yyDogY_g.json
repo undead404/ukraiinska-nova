@@ -2577,6 +2577,10 @@
       {
         "time": "2025-10-06T21:47:45.398Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-31T21:47:45.982Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2790,5 +2794,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mbu7n61_g_-e1aRZljaZsYjfLwtXgAiRU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T21:47:45.983Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/DJmGCNomNvLXyFK4QkKYoCfTSi8GmOOj_ge8HzP8Ul35Tw4bkU4kkXhTRgeeZk9ykntHXzjDC8NoDwA=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Like wow",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lfeJ3VscLA6tVNKMIU_v3vY99u3tO4IrQ"
   }
 ]

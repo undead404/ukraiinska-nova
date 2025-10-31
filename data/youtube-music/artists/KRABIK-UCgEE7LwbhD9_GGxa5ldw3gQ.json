@@ -207,5 +207,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kFhwL96ShrExfztvlcAKDbIe6Vs2UX3f8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T21:46:41.487Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KRABIK"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/pDyolDogyezhKM20cNOP8KXlqMFSsdEWInjizwug46URtsLkQjO3-ZXFnaaWlW8bzLdeimLSLPcpQwwf=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Ти кайф",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n-ovt8CLV0sU-RwB2qIEdZiTQkEKiKr30"
   }
 ]
