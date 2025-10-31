@@ -813,5 +813,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0WIqOo2KfG2gg9dDCjlij4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T13:27:22.001Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "kissesfromeldar"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734fcd53851ebee3e11aca642f",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "cloud rap"
+    ],
+    "title": "dbe",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2bmLw9BXyXyjJGPZ88zpOX"
   }
 ]

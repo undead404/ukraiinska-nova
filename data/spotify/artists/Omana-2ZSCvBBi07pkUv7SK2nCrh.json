@@ -572,5 +572,26 @@
     "totalTracks": 25,
     "type": "album",
     "url": "https://open.spotify.com/album/2EyQtJG6g1q7ly77pTSUaT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T13:28:41.517Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТАЙТЛД"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e8a1c442f987427c3b1ad532",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "metalcore"
+    ],
+    "title": "ІПІ×2",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/60qCEuXYuQO8JNslk9Yf1m"
   }
 ]

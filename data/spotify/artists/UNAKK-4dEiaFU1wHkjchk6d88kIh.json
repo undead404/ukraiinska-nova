@@ -658,5 +658,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2cNxt05wvijmlZTF7kgKLC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T13:29:33.713Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "UNAKK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736edf4395cfa46d883b406092",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "pop",
+      "rap"
+    ],
+    "title": "Автократ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5Rjjfrr42qXvi2ttjXs8D3"
   }
 ]
