@@ -229,5 +229,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nWqBimTnYoQ3GncLjhzGKUetcVLmCTJJY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T23:46:41.837Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Mose"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/doYmwhZid80ZQKHa1FgDJCmkPlBqcazvShqc2jyeNahlOpGUUZXX15-0POC0rDznsdvSdH5AdZe-hxMw7A=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "Sludge"
+    ],
+    "title": "Біля дому твого",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lBVJDlHoILlXZZtjXQ4IRi8NYQbz4NdpM"
   }
 ]
