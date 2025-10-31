@@ -104,5 +104,28 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/1u6CXCdyKaW5Gysn5EiQeP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T17:20:22.991Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Забавка",
+      "Death Rate a Politics"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27305a4587c82a9b9f31c2c8e13",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "folk",
+      "post-punk"
+    ],
+    "title": "Віночок (feat. D.R.A.P.)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0Aq4VXLpZfVInyEI5jqy3m"
   }
 ]

@@ -1451,5 +1451,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1cfwDB5TOWTGqD6aNolGkw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T17:22:51.351Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MELOVIN",
+      "alyona alyona"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e7e08b42d3c2fcc27168fff8",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "pop",
+      "rap",
+      "Hip-Hop"
+    ],
+    "title": "не схожі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1Mcp7pE3DSPGQeGODtc0ky"
   }
 ]

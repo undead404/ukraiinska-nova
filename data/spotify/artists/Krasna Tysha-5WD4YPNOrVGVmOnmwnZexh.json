@@ -210,5 +210,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4NIDqvtzW8wO17gwSb7J7Q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T17:25:52.548Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Krasna Tysha"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273607983f8c3393a34f762c906",
+    "releaseDate": "2025-10-30",
+    "tags": [],
+    "title": "Lovи",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3qslhNdwfOCm7du94hFljI"
   }
 ]
