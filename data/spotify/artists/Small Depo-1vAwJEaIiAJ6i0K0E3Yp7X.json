@@ -241,5 +241,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1TGsQwzOsoVa1jT4rbOPZV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T21:26:53.162Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Small Depo"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e6b73c0791ee7024540af4fe",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "РЕМЕЙК",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/71ZqI71QpIej11lRuXIJHX"
   }
 ]

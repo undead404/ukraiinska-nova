@@ -2097,5 +2097,24 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/287320uZa5E0oC1tdZY3xq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T21:24:13.009Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "iPunkz"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737cf5aaf1266cdc3b9f015ad5",
+    "releaseDate": "2025-10-31",
+    "tags": [],
+    "title": "Чорний стиль",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2LrAJVQipwWtw0hBzsAnhD"
   }
 ]
