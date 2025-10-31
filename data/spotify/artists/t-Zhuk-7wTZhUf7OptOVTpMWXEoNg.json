@@ -1469,5 +1469,25 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/1DGe5AYiwejG8XtUrhYzUj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T14:27:38.616Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "t-Zhuk",
+      "OPIUM CANDY"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27379848c426dd13843561ef59b",
+    "releaseDate": "2025-10-31",
+    "tags": [],
+    "title": "The Journey",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1he6YveQeiCL8UGwwikleP"
   }
 ]

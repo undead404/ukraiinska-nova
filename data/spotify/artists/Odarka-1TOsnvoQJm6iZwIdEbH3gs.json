@@ -970,6 +970,10 @@
       {
         "time": "2025-10-17T14:25:23.943Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-10-31T14:25:40.078Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1054,5 +1058,26 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/2uJd9vQ1ggl1w3q4OLQoXi"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T14:25:40.078Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "G.O.D.A.",
+      "melosopher",
+      "Odarka"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f0c6e4d91d6d32afce4652d0",
+    "releaseDate": "2025-10-31",
+    "tags": [],
+    "title": "Can You Hear Me",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4SoboauTnoh7wJggTTZrZb"
   }
 ]

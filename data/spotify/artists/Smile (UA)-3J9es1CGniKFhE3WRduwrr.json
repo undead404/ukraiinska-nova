@@ -196,5 +196,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2rCmncBRvXUkPwPU7QwVOg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T14:26:55.741Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Amir Telem",
+      "Rhytmograph",
+      "Smile (UA)"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27316fdc65f24f5cc658249db3a",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "Progressive House"
+    ],
+    "title": "Alma",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3kS8l00aYCvihmjuRGJhWq"
   }
 ]

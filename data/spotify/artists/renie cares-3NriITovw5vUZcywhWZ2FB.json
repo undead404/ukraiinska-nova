@@ -488,5 +488,53 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/5ffwbd5kYjhrhVALrS4Kgh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T14:26:05.661Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Сашко Дворецький",
+      "renie cares",
+      "DUDKO"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273436d2bae281c67a83c52d658",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "electropop",
+      "indie pop"
+    ],
+    "title": "нема",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7EtQTck4YqKkwrSjcNk5K8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T14:26:05.661Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ПРОКЛЯТИЙ ***",
+      "renie cares"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27390aa511d88d7d4a995854c90",
+    "releaseDate": "2025-10-14",
+    "tags": [
+      "electropop",
+      "indie pop",
+      "punk rock"
+    ],
+    "title": "Метелик",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5J8ux3R6Fukibey4zrnoVC"
   }
 ]
