@@ -460,5 +460,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7gW9DghduEj28dq94xbr3I"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T18:25:31.040Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Hope Play"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d9f35cbd897830cb7e839d43",
+    "releaseDate": "2025-10-31",
+    "tags": [],
+    "title": "Murder II",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5XJxAm63S82ubelRxE6d9H"
   }
 ]

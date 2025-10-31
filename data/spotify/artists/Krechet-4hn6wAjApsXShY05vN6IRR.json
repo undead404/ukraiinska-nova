@@ -1251,5 +1251,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3h3XshkztFoMjdVmhsjzm7"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T18:27:56.852Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Krechet"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734784b9dd0ca07d30ded08525",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "rap"
+    ],
+    "title": "Місто без снів",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6xOvIizfJmeIEAcmXdZscG"
   }
 ]

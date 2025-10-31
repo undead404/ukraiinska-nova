@@ -940,5 +940,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5nYGyXELWdJo3e4x8KYQa6"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T18:24:16.896Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Фрай"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730b08ff0ec5723e33f391700e",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "blues"
+    ],
+    "title": "Формула",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2B7yETSzytBZmUX2c0pckQ"
   }
 ]

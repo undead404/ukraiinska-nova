@@ -208,5 +208,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/39y7nzN36LbnW1OpFcgC4P"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T18:27:38.942Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KRABIK"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273820dbfff013bff5d8c0b418a",
+    "releaseDate": "2025-10-31",
+    "tags": [],
+    "title": "Ти кайф",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0aTpQNfvce2PffK0PO4y2V"
   }
 ]

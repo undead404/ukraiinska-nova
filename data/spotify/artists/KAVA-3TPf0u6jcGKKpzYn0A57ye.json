@@ -1406,5 +1406,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7xt6UCKacoZww1ApEttoRn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T18:27:17.839Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KAVA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273796a4d4ef326fe6cdeb3b019",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "pop",
+      "male vocalists"
+    ],
+    "title": "Комбінації",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4Kua3dY1UsmfQqF1YOHxlS"
   }
 ]

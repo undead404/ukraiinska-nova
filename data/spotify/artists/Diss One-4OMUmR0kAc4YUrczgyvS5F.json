@@ -1025,5 +1025,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4OBnUN6ZPGk2Q8Nfwd6C9V"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T18:25:54.984Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734cb66c640cfa3486128e31a0",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "rap"
+    ],
+    "title": "Світло мети",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5PRJbUmyvR1CYIx8SANYlA"
   }
 ]
