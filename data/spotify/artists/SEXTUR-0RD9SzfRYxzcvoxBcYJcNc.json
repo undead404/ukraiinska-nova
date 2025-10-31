@@ -412,5 +412,29 @@
     "totalTracks": 8,
     "type": "album",
     "url": "https://open.spotify.com/album/0cYtB3sfJ7PGCT4Q9yk7Dc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T05:26:08.320Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "СКВЕР",
+      "SEXTUR"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739c76cf79a945d900dd5edb0e",
+    "releaseDate": "2025-10-30",
+    "tags": [
+      "pop",
+      "rap",
+      "rock"
+    ],
+    "title": "ВСЕ ОДНО",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6VXseITJYSQtuThrpozY0I"
   }
 ]

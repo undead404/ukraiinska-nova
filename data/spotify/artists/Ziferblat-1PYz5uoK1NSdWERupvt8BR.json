@@ -299,5 +299,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2UPK34oXxGA7rM2h5wM6wt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T05:28:21.076Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ziferblat"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737306afbbe972e1335cf5070c",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "pop"
+    ],
+    "title": "Незрівнянний світ краси",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3RafYdBUXnhjSbDsmZpni7"
   }
 ]

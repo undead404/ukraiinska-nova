@@ -935,5 +935,26 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/3XtXR2uOtyX1etSiTTEYnb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T05:26:58.260Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Tember Blanche"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aaab19e06d2315f84f7ae4a8",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "pop"
+    ],
+    "title": "Тепер",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/59ptlkaGPgHNKgeYM7V4UE"
   }
 ]

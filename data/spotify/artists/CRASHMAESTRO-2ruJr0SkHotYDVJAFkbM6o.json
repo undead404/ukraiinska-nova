@@ -803,5 +803,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4VtNTuZKrME7mgKLikG5L7"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T05:23:35.681Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CRASHMAESTRO"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733146e810698135d29830f293",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "спокій",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3nYMTrZJOHr4tpTgG6mpXx"
   }
 ]

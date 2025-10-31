@@ -101,5 +101,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2rOxGsoxKjFbuA6sDb3aXz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T05:24:32.838Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "STAS AZARENKO",
+      "Liesad"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273171dde9d8c22780ef978d63f",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "rap"
+    ],
+    "title": "Сіндерелла",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3Roh9qC78q1ywlUJKp6Biz"
   }
 ]
