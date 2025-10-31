@@ -278,5 +278,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0FYETEsyAnBXt8bkXSVMac"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T11:26:17.634Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Сашко Дворецький",
+      "renie cares",
+      "DUDKO"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273436d2bae281c67a83c52d658",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "electropop",
+      "indie pop"
+    ],
+    "title": "нема",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7EtQTck4YqKkwrSjcNk5K8"
   }
 ]

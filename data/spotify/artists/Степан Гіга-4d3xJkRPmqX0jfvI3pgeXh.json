@@ -464,5 +464,31 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6gIjQFLoEHjQemHKJT6h8j"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T11:21:36.839Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Artem Pivovarov",
+      "The Вуса",
+      "Степан Гіга"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27391e1ab4ba6651dcd0cbb7a09",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "folk",
+      "male vocalists",
+      "pop",
+      "nsbm"
+    ],
+    "title": "Mamma Mia",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1QGxIkh2XLd6XulOTwhJwm"
   }
 ]
