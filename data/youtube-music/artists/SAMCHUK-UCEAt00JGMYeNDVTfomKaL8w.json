@@ -644,5 +644,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l0XBoNyb9x6bx01DV1NYyfVpHMO6Ysrtw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T16:51:03.807Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SAMCHUK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/VAZeDlqDCnkL8Bb4ta6RV0gtiki-adJeNHqAmvnrPG8-xkfM6MBHRTRKDcxGfImCOsLYbDG3hc0abtta=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Окутай",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ndluo_fRmcygQa-yFD7ouzjLTbu6Nc000"
   }
 ]

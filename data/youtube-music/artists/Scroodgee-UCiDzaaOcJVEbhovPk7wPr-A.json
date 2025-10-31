@@ -394,5 +394,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nYCm6pVYKr3SMD8z4a0vweIizP_vaxA78"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T16:51:10.926Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Scroodgee"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/OaZM2ZzDJ0U_xseLLjJE0sOnMRAjkOesjzkEZg-Urxo03TkI9BoGBG0DyyFWIPQwMAclC_tt6Md2mPf4=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "Hip-Hop",
+      "rap"
+    ],
+    "title": "Гетто",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nNfm7O_1x-209YjM_dWiuTDiJNYzUKitE"
   }
 ]
