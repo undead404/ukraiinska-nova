@@ -785,5 +785,26 @@
     "totalTracks": 6,
     "type": "single",
     "url": "https://open.spotify.com/album/6wuK6H7HcBr5BzbYOMS7TD"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T22:23:54.763Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lizzzard"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d3ceb1d5b460247973b45858",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "rap"
+    ],
+    "title": "БРУКІВКА",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7Lu0cYVFzhJvQhoXbuodUv"
   }
 ]

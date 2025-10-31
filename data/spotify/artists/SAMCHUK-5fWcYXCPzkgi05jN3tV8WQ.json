@@ -700,5 +700,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4QGpdkO0NiqZ00uGx0cUNG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T22:26:21.622Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SAMCHUK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f6ab88b9a52c2c9562f1a820",
+    "releaseDate": "2025-10-31",
+    "tags": [],
+    "title": "Окутай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5AHcz7iI2lHWKJ0NUjLECn"
   }
 ]

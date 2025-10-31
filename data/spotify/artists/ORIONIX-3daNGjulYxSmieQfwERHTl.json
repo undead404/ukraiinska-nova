@@ -297,5 +297,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6tX9YVBPIlSFYRRDeljXuT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T22:25:32.251Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ORIONIX"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273408ac294889daa48b2f53e9f",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "alternative rock",
+      "pop rock",
+      "synth rock"
+    ],
+    "title": "Більше ніж любов",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0bDtu0OPv0UQFCT61mH0an"
   }
 ]
