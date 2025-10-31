@@ -219,5 +219,29 @@
     "totalTracks": 9,
     "type": "album",
     "url": "https://open.spotify.com/album/07FvYKRrEIb2dtKMKlX1O1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T20:30:13.881Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "uki"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b5987a0db8fa0413a895f65b",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "easy listening",
+      "rock",
+      "chillout",
+      "japanese"
+    ],
+    "title": "feel.com",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7yk7rrvRnymUfATR6HTipI"
   }
 ]

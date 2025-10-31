@@ -374,5 +374,27 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/5WZhzMRYQPfMI647kwAdI5"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T20:24:01.949Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Чиста Криниця"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735e925cefc116bffc6b4c5fd2",
+    "releaseDate": "2025-10-25",
+    "tags": [
+      "nsbm",
+      "pagan metal"
+    ],
+    "title": "Увертюра інстинкту",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0Y91phxHKKNZmTIAB9I6IR"
   }
 ]

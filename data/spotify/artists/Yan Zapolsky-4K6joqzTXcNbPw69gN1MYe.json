@@ -1030,5 +1030,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4WKoffc4jBVTkI0QFzYVau"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T20:30:44.306Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lototskiy",
+      "Yan Zapolsky"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733cc5906a5e903d580953c186",
+    "releaseDate": "2025-10-31",
+    "tags": [],
+    "title": "Dancing Around",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2sJrInjAch6Ys9mvB8ZY4B"
   }
 ]
