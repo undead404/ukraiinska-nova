@@ -416,5 +416,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7JpjJ76Yf5Kz6Du237t2Dq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T07:26:15.015Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VERLOKA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f9b20956ada13403a1e4d89",
+    "releaseDate": "2025-10-30",
+    "tags": [],
+    "title": "Я побудую дім",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2TppUm3mvcrx8NhE5Ft4WS"
   }
 ]
