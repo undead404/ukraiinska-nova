@@ -609,5 +609,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4DcLeVBVdQmM8M4qnc5uV4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T00:43:18.048Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Scroodgee"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a105b74434af5fa73fd693b0",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "Hip-Hop",
+      "rap"
+    ],
+    "title": "Гетто",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6oQZbFvSzaGLV3QKMwVXfF"
   }
 ]
