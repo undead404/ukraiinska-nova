@@ -574,5 +574,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5rfcawpzbTo0Xp2RP32HIR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T16:24:28.170Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Improvise Beats"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730b9dfbe748ee487f3a4e3985",
+    "releaseDate": "2025-10-31",
+    "tags": [],
+    "title": "Відьма",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0eJphgRTso5mmDLyVhoubp"
   }
 ]

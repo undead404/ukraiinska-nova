@@ -1528,5 +1528,26 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/4X7Ho2KRz5dtlYFXDpFn8y"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T16:29:33.268Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Tina Karol"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e593ddd8e01fb404f2723453",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "pop"
+    ],
+    "title": "Небесами",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6fa4E3bm7kDmxKomRw0nyv"
   }
 ]

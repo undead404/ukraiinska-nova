@@ -693,5 +693,46 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3ku5VtJBx9CWVT3OBnRMiP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T16:27:03.801Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "аппекс",
+      "Nemo322"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e80467ab6a6179e2db960b3e",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "rap"
+    ],
+    "title": "Пісні з лісу",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6QWoaIFhImMMtJ1FiTe90s"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T16:27:03.801Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Improvise Beats"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730b9dfbe748ee487f3a4e3985",
+    "releaseDate": "2025-10-31",
+    "tags": [],
+    "title": "Відьма",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0eJphgRTso5mmDLyVhoubp"
   }
 ]
