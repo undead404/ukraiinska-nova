@@ -1019,5 +1019,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2c5Rgo9D3eBNqXJGOmSGye"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T15:23:31.705Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "хейтспіч"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737d088e4b897c6c63a409b916",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "dance-punk",
+      "punk rock"
+    ],
+    "title": "панельний будинок(хто я є)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5jbcsT24SKHF8WYtsVch6U"
   }
 ]

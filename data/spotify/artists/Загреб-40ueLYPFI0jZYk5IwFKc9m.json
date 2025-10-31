@@ -654,5 +654,26 @@
     "totalTracks": 6,
     "type": "single",
     "url": "https://open.spotify.com/album/3f2D0JtUHHtGK27Dcrs0aN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T15:21:12.343Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Загреб"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f875a1310fdea938d04e3200",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Нічого не вартий",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/19Vz22SlrJeHnvvUJCzuYw"
   }
 ]

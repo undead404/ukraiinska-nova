@@ -447,5 +447,26 @@
     "totalTracks": 6,
     "type": "single",
     "url": "https://open.spotify.com/album/683O2lFtmM5g5BxvuxiZAz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T15:23:14.378Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ТУЧА"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27395ce2e5a5d10390668da476a",
+    "releaseDate": "2025-10-30",
+    "tags": [
+      "darkwave"
+    ],
+    "title": "Тебе-себе",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1jFFUtzmG9QIb0P4mCQSJY"
   }
 ]
