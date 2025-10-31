@@ -245,5 +245,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kVPiju6nGgkBVymBr57rkfFTodIWDG_Qc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T10:48:52.658Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Geonozis"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/2Y7I4Tr-q7er_CN3gWD7UvtbXmpga1p9Bcw3aJI-Z74LnXmQT5yLQqrtGaqamDm3DzindKVH2Tz4LrRHbA=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "На гряній неділі (feat. Sisters Gritsiuk)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mEf26rVF3X4GGAeqhl_ql1K_XQjoqSGmc"
   }
 ]
