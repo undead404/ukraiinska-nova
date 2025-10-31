@@ -254,5 +254,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6cIv2bRPl5Ouhu2veUCnFq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T12:29:49.111Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "temstime"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cfb9098f58cd476d246cbb28",
+    "releaseDate": "2025-10-30",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Steven Klein",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/20b6nGkhGDaQrTGktO50Ns"
   }
 ]

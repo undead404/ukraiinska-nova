@@ -109,5 +109,30 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6gN4JH6mjsUpUxpdGUgNcH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T12:23:02.022Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "рома майк",
+      "Воха"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c37eb364050f87c3a5ef9aaa",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "underground hip-hop",
+      "underground rap"
+    ],
+    "title": "Кров",
+    "totalTracks": 20,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2jjJkZlrTWj3cT2uRkh8eZ"
   }
 ]

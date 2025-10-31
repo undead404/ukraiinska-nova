@@ -1687,5 +1687,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1O8ZyctdDTQpmx1oLvizSz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T12:26:19.460Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "drwncvnt"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730ab9afc944b57d3e1e9adec0",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "electronic"
+    ],
+    "title": "idontwant2go",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3lwhYREFY09NmLPYRlkxFa"
   }
 ]
