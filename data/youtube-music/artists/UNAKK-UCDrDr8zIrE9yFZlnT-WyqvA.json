@@ -372,5 +372,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k9vZUN8t4N2XPzorbYR2tLDFZ7QQOtvzU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T13:02:07.261Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "UNAKK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/mgG5xMfmVVPjs25-DENnsLRxrLhw4E-6xMaHMlfDK32xmZKEZ1uuZTOGnGe_DCQDapDw6brTYypXfxGj=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop",
+      "rap"
+    ],
+    "title": "Автократ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lbNIAiZEqPlhdSh7tZYaknajrhCTSE1ZU"
   }
 ]

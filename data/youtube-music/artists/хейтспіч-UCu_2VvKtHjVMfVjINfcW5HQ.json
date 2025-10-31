@@ -846,5 +846,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ks0Bfih_9Zxe84_ZGge90OhR8n7YfURlg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T12:59:54.166Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "хейтспіч"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/vlwq_exfJqR7diVqENIrAbFMGBqhiUJbNOmBiMSm2pnPf_h0KSu4T7NtoC4AOBk-3Uw3QH4lA1AGvLyj=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "dance-punk",
+      "punk rock"
+    ],
+    "title": "панельний будинок(хто я є)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ml-I4gVBWxGAVUQgooA0ehc1xzcHw_ipM"
   }
 ]
