@@ -236,5 +236,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2zLRHK2iWeusMdYeQcyOl1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T06:26:38.633Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "mercurikill"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fb6793cab0764913b4329a1c",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "rock"
+    ],
+    "title": "мама",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4AyECN3x6VPFVC8jXfUP3I"
   }
 ]

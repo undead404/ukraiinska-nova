@@ -316,5 +316,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2rdEo7MF1SWv9FCEYfPZj2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T06:23:31.978Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Тур"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273305f3022782b27dd786a2d5d",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "Hip-Hop",
+      "underground hip-hop"
+    ],
+    "title": "Піксель",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6EzK7BiGGES59jCucxBQZN"
   }
 ]

@@ -1067,5 +1067,24 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/3sOuxZVr4u2UnphJICFYiA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T06:25:18.151Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Geonozis"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f1b60be170ec85c2ca4d16fe",
+    "releaseDate": "2025-10-31",
+    "tags": [],
+    "title": "На гряній неділі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/58ue1tLbqUoR2yLe138H4n"
   }
 ]

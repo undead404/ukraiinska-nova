@@ -1343,5 +1343,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0IisjqyTqYCrZZzSISU1fl"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T06:22:59.395Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Libenson"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730868d611aa711f1d1b97c335",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "pop",
+      "rnb",
+      "alternative rnb"
+    ],
+    "title": "VLAD",
+    "totalTracks": 16,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7EFGtggm26K11fIt0dU5P8"
   }
 ]

@@ -411,5 +411,26 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/6z99SPCZcgmUCGjsqpiClI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T06:27:42.954Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Stas Underhill",
+      "Teneya",
+      "Xsonatix"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a30b29bdb133ca755a65476e",
+    "releaseDate": "2025-10-31",
+    "tags": [],
+    "title": "Let Me In",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1RAiEXWAJX7xAIntakqira"
   }
 ]
