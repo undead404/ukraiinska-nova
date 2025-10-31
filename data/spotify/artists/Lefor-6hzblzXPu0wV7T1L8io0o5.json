@@ -889,5 +889,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1HlxRjjijQPW7slmoSfcds"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T23:25:11.639Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lefor"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738dc4076d57c4595a820f4e66",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "rap"
+    ],
+    "title": "Лонлі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5M8NBdUpr9AxyOVM3xXkgZ"
   }
 ]

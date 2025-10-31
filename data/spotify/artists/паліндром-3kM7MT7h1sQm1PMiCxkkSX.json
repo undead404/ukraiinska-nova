@@ -936,5 +936,27 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/313ajnJOcZPIfIoe35zGIh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T23:22:31.750Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "паліндром"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27391c162f15bc79189fdee05bd",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "synthpop",
+      "dream pop"
+    ],
+    "title": "Намалюй",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2TZPOp1h74kMSsM1fiI8rN"
   }
 ]

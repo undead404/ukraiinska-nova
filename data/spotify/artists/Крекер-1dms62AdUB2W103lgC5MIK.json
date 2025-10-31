@@ -239,5 +239,24 @@
     "totalTracks": 13,
     "type": "album",
     "url": "https://open.spotify.com/album/0Q3w7dMagLivO4BU5RSBrA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T23:20:53.125Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Крекер"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27357e0b461302e65abe89642bb",
+    "releaseDate": "2025-10-31",
+    "tags": [],
+    "title": "Фронтальне бачення",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7DSgIyyvxAaYczUibtIvKv"
   }
 ]
