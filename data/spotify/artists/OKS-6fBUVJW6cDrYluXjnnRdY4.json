@@ -568,5 +568,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3oWS5ii4G0LYJgOQ7XKKjR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T02:52:40.956Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Калигула"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737b508b7c9a17a2d337b9ea7a",
+    "releaseDate": "2025-10-30",
+    "tags": [],
+    "title": "Всё Ок",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3lZbp0QhZlcmVDrHSTDQ6z"
   }
 ]
