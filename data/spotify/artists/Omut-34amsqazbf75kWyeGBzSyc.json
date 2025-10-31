@@ -378,5 +378,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1vZ3o0BHAPMcPz61hTbooM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T09:25:21.036Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Omut"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27382dc9b5bb4850ff63834fe85",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "folk metal"
+    ],
+    "title": "АЛІСА",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3oTA1WT94hFAmiIh7KbyiT"
   }
 ]

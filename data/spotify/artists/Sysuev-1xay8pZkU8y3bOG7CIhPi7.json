@@ -1142,5 +1142,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3hO3DHozyuz0mOcOIJ2X9M"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T09:26:42.732Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sysuev"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27326b2a59ac40aea5add975763",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "male vocalists",
+      "pop"
+    ],
+    "title": "Покохав",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6KkMm0JHZXdvyEBhvcKzIG"
   }
 ]
