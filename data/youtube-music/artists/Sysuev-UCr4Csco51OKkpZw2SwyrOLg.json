@@ -1498,5 +1498,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lqGZMlNKYP2N-ASsthdTnhVkpmdD_iT7w"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T13:50:35.669Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sysuev"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/u_INhedBG3rA_1LnFw_M5fPAeOY-QLzFUUSPk8pYS1HU8hlEVjVuhnhxDxCsWHGeOn3nmoPAk1nZgHY=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "male vocalists",
+      "pop"
+    ],
+    "title": "Покохав",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kiCHXg6BybXfv4lGegADXpb-51ZdHSrbE"
   }
 ]

@@ -264,5 +264,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mS2K-d3XYEnS8t_73UDaJSHXL7VpP2yQs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T13:48:25.209Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Пан Парасоля"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/Mw9M-WeobAFJ9qEu6b4ZahTOpL0N8ZBxfGWtAAiVO2nGDxfHtcrftO2dAaf5rbL2F9v0YNM5hO6sDImF=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Щастя",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kRXCZX3Z4vr-H1eCdGsaNt8d4f0efjHWY"
   }
 ]
