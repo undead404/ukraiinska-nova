@@ -873,5 +873,34 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/5A1ZAf9EIx8AblYzI4pFlE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-10-31T04:22:04.755Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Aura Vortex",
+      "Zymosis",
+      "Katya Chilly"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736d5cad78facf5c7b3da32ca2",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "electronic",
+      "ethnic",
+      "psychill",
+      "psytrance",
+      "ambient",
+      "brazil",
+      "goa"
+    ],
+    "title": "U Zemli (Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/118sLD6Q6yTcSIXJx3qDXz"
   }
 ]
