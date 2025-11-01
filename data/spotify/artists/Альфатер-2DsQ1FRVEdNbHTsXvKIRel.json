@@ -49,5 +49,29 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/7LJAPQoM5UztFl6qb1sO2i"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-01T09:19:57.760Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Альфатер",
+      "Breath Control Play"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b745bf5feb7c70e0baa3eb8f",
+    "releaseDate": "2025-10-29",
+    "tags": [
+      "emo",
+      "Post-Metal",
+      "screamo"
+    ],
+    "title": "Split",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2PRbqCqVH8vD0dVX5tbeW7"
   }
 ]
