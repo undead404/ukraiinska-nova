@@ -1079,6 +1079,10 @@
       {
         "time": "2025-09-25T02:45:27.991Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-01T02:51:59.513Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1203,5 +1207,33 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3X2sMZJRhYsnqOQ4hsPlQt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-01T02:51:59.513Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Joris Voorn",
+      "Goodboys",
+      "Korolova"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f2206ed3af936571a342dea6",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "House",
+      "Melodic House",
+      "techno",
+      "UK",
+      "british",
+      "deep house"
+    ],
+    "title": "Utopia (Korolova Remix)",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5pDKp6dIUF2Dcu0FqlRx0D"
   }
 ]

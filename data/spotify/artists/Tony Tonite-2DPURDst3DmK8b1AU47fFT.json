@@ -949,6 +949,10 @@
       {
         "time": "2025-09-27T02:42:33.159Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-01T02:54:42.857Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1087,5 +1091,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1BYtw575tFSaeHCin8YKKY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-01T02:54:42.857Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SLIMUS"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735cdaf0a3972d9faf54b21f1a",
+    "releaseDate": "2019-05-24",
+    "tags": [
+      "Hip-Hop",
+      "rap"
+    ],
+    "title": "Тяжёлый люкс",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7C5aCB79EBcZohNTppbSyD"
   }
 ]
