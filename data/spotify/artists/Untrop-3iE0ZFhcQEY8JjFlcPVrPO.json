@@ -103,5 +103,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0vj4ib3uFlBkeCDVn0DRRA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-01T19:25:32.873Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Untrop"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c42e1ec357b6529ff1717a19",
+    "releaseDate": "2025-11-01",
+    "tags": [
+      "death metal"
+    ],
+    "title": "Iskra",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2pF8a3BepyknpnbgfJry4P"
   }
 ]
