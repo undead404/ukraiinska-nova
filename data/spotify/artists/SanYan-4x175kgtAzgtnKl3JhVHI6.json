@@ -115,5 +115,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3DJPmknc02G4Ik0DissRpF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-01T00:46:29.280Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SanYan"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cfa925fc0baf1afda9d217f3",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "ambient",
+      "noise"
+    ],
+    "title": "Падали",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3Z0EbEOSx2WfEX3Q1hl0nK"
   }
 ]

@@ -275,5 +275,26 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/11uQyNpw7vb4L4ympfXDwC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-01T00:47:46.743Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Telema"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273884f5220a908756e242a9eed",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "metalcore"
+    ],
+    "title": "Вугіллям спалених мостів",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2nU4fDCzXnCk60yZzKyz4P"
   }
 ]

@@ -304,5 +304,26 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/2MHxLMtc6pKp3KJxxv8ZIj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-01T00:45:27.009Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "LOVERA BREAUX"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27306dfb39ffae34e2d66ed79b5",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "скажи мені, чому?",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/64I6qGE3w8e7oP7ZRvDs9O"
   }
 ]

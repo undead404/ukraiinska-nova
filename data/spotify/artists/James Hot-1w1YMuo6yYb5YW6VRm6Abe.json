@@ -452,5 +452,51 @@
     "totalTracks": 13,
     "type": "album",
     "url": "https://open.spotify.com/album/3d0J4cwL2T62TcNGKLgxyd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-01T00:44:51.628Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Tape A",
+      "James Hot",
+      "ХОНИЧ",
+      "Veremey"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27332f977a94c1f85e7e01c4259",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "rap"
+    ],
+    "title": "ЗОЛОТІ ЧАСИ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/06kvhk1PJ4zVUa3YQv2e0J"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-01T00:44:51.628Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Тур"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273305f3022782b27dd786a2d5d",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "Hip-Hop",
+      "underground hip-hop"
+    ],
+    "title": "Піксель",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6EzK7BiGGES59jCucxBQZN"
   }
 ]

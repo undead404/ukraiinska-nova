@@ -524,5 +524,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6J95boN5bsTt6Yt0ByiHwh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-01T00:42:16.959Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Кімната Гретхен"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731058e015121ea5685a5640cc",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "Disco"
+    ],
+    "title": "Диявол (Acoustic)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/10Hjjjgw0xFva14c2vc24U"
   }
 ]
