@@ -3534,5 +3534,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7KZbz1lnaX5vRfFjtDqDRt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-01T03:40:35.584Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273641785b6c04d206f5ecf4d85",
+    "releaseDate": "2025-10-31",
+    "tags": [],
+    "title": "Like wow",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2alqgj9kHY0w45bmGtNENz"
   }
 ]

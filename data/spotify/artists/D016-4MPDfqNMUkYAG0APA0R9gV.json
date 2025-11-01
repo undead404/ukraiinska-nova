@@ -137,5 +137,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3Pm79LpFC9URu1xxj4KZP0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-01T03:35:41.247Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Xarakter"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738568e02ed1e95416ff8f4e88",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Шахи з покійником",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/71XHjWi9PAHF9kuzdPad2i"
   }
 ]

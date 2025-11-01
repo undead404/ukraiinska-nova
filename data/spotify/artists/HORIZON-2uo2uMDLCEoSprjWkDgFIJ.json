@@ -1882,5 +1882,28 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/4YbG8L22kqmNZzZDUJU7sQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-01T03:37:02.350Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Karyna Diado",
+      "HORIZON"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273071964a7ffd05701c216c396",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "hardcore",
+      "Stoner Rock"
+    ],
+    "title": "Number One",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3CXXfGRRpdch0IfHCYxl8g"
   }
 ]
