@@ -1019,5 +1019,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4lkWiLViLC6H1ZVM0KUDjz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-01T20:25:48.551Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "аппекс",
+      "Nemo322"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e80467ab6a6179e2db960b3e",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "rap"
+    ],
+    "title": "Пісні з лісу",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6QWoaIFhImMMtJ1FiTe90s"
   }
 ]
