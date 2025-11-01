@@ -816,5 +816,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/39xtjRWAczXx0DzNbh0FA6"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-01T01:52:40.654Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ILYICH"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27340af6e2e249cc4deed269389",
+    "releaseDate": "2025-10-31",
+    "tags": [],
+    "title": "Sudnozavod",
+    "totalTracks": 14,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4H0rYSZ5l4u7a5UsrTBOW2"
   }
 ]

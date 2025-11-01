@@ -489,5 +489,26 @@
     "totalTracks": 10,
     "type": "album",
     "url": "https://open.spotify.com/album/0CDMwb08Quq9SmM0y0DK3g"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-01T01:54:21.516Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KLER"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731bea49a8b39cd37094eafbde",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "pop"
+    ],
+    "title": "Тисяча пісень",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0PFAI5uq4WBUqkVnZ8YDUV"
   }
 ]
