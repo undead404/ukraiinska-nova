@@ -2089,6 +2089,10 @@
       {
         "time": "2025-09-23T03:29:42.510Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-02T03:46:02.555Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2527,5 +2531,28 @@
     "totalTracks": 35,
     "type": "album",
     "url": "https://open.spotify.com/album/3w2ZJ9Mp96gASQTvUxL6pz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-02T03:46:02.556Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Valentin Silvestrov",
+      "The Lysenko String Quartet"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27372d8adc9acf86d6eef291eba",
+    "releaseDate": "1992-01-01",
+    "tags": [
+      "contemporary classical",
+      "Classical"
+    ],
+    "title": "Valentin Silvestrov, Music for string quartet, Postlude for solo violin",
+    "totalTracks": 6,
+    "type": "album",
+    "url": "https://open.spotify.com/album/03GkGLQzjeUvnAAdDmo1yg"
   }
 ]
