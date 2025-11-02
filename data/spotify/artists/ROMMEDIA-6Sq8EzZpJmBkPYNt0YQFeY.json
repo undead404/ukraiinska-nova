@@ -188,5 +188,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7xnzJckhB6nyO5quwHHe9M"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-02T09:24:45.269Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROMMEDIA"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735da3a3cc80d569f2f5f86ca3",
+    "releaseDate": "2025-10-31",
+    "tags": [],
+    "title": "Хатіко",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7CxBrTJ900DBR7onJwHypw"
   }
 ]
