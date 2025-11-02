@@ -64,5 +64,47 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/4tlJS52goHDutXFraF6CAe"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-02T01:50:52.745Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "КораЛЛі"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736bfb0f22e965ca5ccf158941",
+    "releaseDate": "2020-11-17",
+    "tags": [
+      "folk"
+    ],
+    "title": "Є!",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7d0MmEp7bYhHSZPrBWHD71"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-02T01:50:52.745Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "КораЛЛі"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737c8d11b186cdd2f160d5e9cc",
+    "releaseDate": "2019",
+    "tags": [
+      "folk"
+    ],
+    "title": "Вперед, соколи!",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6iOuewLdxQP64fOdpErdps"
   }
 ]
