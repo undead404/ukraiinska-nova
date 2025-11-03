@@ -504,5 +504,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lHDjjOoqemThtBHdZzW0a6SJRc0EoJ0Xs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-03T05:47:26.396Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "FIINKA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/Hn6Fmf-UiYMjVhHfxBV2hasyNx61W6QGuYG8I1Atj4YPUR5QPZc11p2FmRaOXk3LjI6oNF2xgc5WyWg2=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop"
+    ],
+    "title": "Миленький",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mFtNOJJJe1CLC1OxaUTfi5acW21Wuh8Y0"
   }
 ]
