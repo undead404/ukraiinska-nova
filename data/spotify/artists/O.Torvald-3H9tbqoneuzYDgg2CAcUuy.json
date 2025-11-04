@@ -972,6 +972,10 @@
       {
         "time": "2025-09-19T20:26:19.605Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-04T20:27:38.605Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1010,5 +1014,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3c6WIZk38bjQjCsdzxut6M"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-04T20:27:38.605Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "O.Torvald"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736b55fe963088b60e669e92b2",
+    "releaseDate": "2025-11-04",
+    "tags": [
+      "alternative rock",
+      "pop punk"
+    ],
+    "title": "XX",
+    "totalTracks": 20,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7q3B3BKe3qBYJU4IZS9wqW"
   }
 ]
