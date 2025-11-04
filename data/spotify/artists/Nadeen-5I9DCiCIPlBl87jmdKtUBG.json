@@ -209,5 +209,30 @@
     "totalTracks": 16,
     "type": "album",
     "url": "https://open.spotify.com/album/7EFGtggm26K11fIt0dU5P8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-04T22:24:43.109Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Libenson",
+      "Nadeen",
+      "YARKUSS"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736b35839e6d5664e3ac20e5a0",
+    "releaseDate": "2025-10-30",
+    "tags": [
+      "pop",
+      "rnb",
+      "alternative rnb"
+    ],
+    "title": "YAK",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1WtwRVxFKhJHHFDR7olphi"
   }
 ]
