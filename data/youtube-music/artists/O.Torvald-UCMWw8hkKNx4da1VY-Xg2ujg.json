@@ -274,5 +274,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lqYOYs_QURx4oT3EvJEEYcHHQScXxOrTA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-04T17:48:19.340Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "O.Torvald"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/MxeVq2WoZAkV93CC8TYaX2BHyD1-_xjQ8BRPLTe090zUxCbGlrWJg8XQ3-QRIwMdAIPGUZV2serZfcY0AQ=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "alternative rock",
+      "pop punk"
+    ],
+    "title": "XX",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nW0259sJHt1Nnf1wzQ1vY6JwnD4m8elTE"
   }
 ]
