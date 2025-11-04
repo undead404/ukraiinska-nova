@@ -925,5 +925,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0VwMv3lZOIXLyEf0JBg4w3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-04T02:47:35.339Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Левко Дурко"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27359a8c99a362ace2f55fb9497",
+    "releaseDate": "2025-11-03",
+    "tags": [
+      "comedy"
+    ],
+    "title": "Їду... дахом!",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1FrD8HvcA4rHh2Tv7hB0RW"
   }
 ]
