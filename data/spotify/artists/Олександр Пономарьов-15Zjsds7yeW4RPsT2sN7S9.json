@@ -724,5 +724,27 @@
     "totalTracks": 11,
     "type": "album",
     "url": "https://open.spotify.com/album/2ho7z2i5Rgme0OlVcbjQZo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-04T13:26:36.526Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олександр Пономарьов",
+      "Михайло Хома"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733bc8ef0683e3564ee4943d6d",
+    "releaseDate": "2025-11-04",
+    "tags": [
+      "pop"
+    ],
+    "title": "Ой як важко …",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3Wk8sXEIOGNnTqb6wPbcPo"
   }
 ]
