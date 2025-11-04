@@ -845,6 +845,10 @@
       {
         "time": "2025-09-24T17:20:48.005Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-04T17:20:56.003Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -939,5 +943,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5WKyCtgaQqVRv0vvaT71sa"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-04T17:20:56.004Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Тарас Боровок"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a8dfcce9b35bbe5a62b69c49",
+    "releaseDate": "2025-11-04",
+    "tags": [],
+    "title": "ЯЙЦІ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/25UXAVzoCbRxe44Vm1y4wG"
   }
 ]

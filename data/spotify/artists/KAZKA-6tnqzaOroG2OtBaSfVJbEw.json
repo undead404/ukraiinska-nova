@@ -1003,6 +1003,10 @@
       {
         "time": "2025-09-18T17:25:14.985Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-04T17:25:20.922Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1063,5 +1067,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4v1c1k6Bwbi90X7E4Zqlzr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-04T17:25:20.923Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Tina Karol"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ff5f8a94ba63dfd387b5467c",
+    "releaseDate": "2021-08-20",
+    "tags": [
+      "pop"
+    ],
+    "title": "Молода кров",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1Sbcj2v05TKMqOVEsT7WYJ"
   }
 ]

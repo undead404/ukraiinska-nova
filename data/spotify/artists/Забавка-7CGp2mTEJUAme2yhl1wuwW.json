@@ -46,6 +46,10 @@
       {
         "time": "2025-09-18T17:22:30.454Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-04T17:20:01.888Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -127,5 +131,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0Aq4VXLpZfVInyEI5jqy3m"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-04T17:20:01.888Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Забавка",
+      "eatyou"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e51617680efb3d7162b82630",
+    "releaseDate": "2024-08-15",
+    "tags": [
+      "folk"
+    ],
+    "title": "Віночок (eatyou remix) [BOG DA NOVA MUZYKA]",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6Q1pH8ttfoSCOHJ5FytfiG"
   }
 ]
