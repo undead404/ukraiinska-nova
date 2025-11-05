@@ -566,5 +566,90 @@
     "totalTracks": 20,
     "type": "album",
     "url": "https://open.spotify.com/album/2jjJkZlrTWj3cT2uRkh8eZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-05T07:21:57.393Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Libenson",
+      "beshket",
+      "Slukhay Sashu"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d9adc2836bf1d9855091026c",
+    "releaseDate": "2025-10-30",
+    "tags": [
+      "pop",
+      "rap",
+      "rnb",
+      "alternative rnb",
+      "indie pop",
+      "indie rock",
+      "folk pop",
+      "indie folk"
+    ],
+    "title": "Секрети",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2WLJnMFrUdPsDpFqk2gsbN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-05T07:21:57.393Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Libenson",
+      "beshket"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739107b6dc5b92c4cc89b033b9",
+    "releaseDate": "2025-10-30",
+    "tags": [
+      "pop",
+      "rap",
+      "rnb",
+      "alternative rnb",
+      "indie pop",
+      "indie rock"
+    ],
+    "title": "Pulse",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6VB62gh4THNBkQwpbAkBpq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-05T07:21:57.393Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Libenson",
+      "elarm",
+      "beshket"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d9767dbaa14d57f8a7cfb42b",
+    "releaseDate": "2025-10-30",
+    "tags": [
+      "pop",
+      "rap",
+      "rnb",
+      "alternative rnb",
+      "indie pop",
+      "indie rock"
+    ],
+    "title": "EAST WEST FLOW",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6sHY5LAIg40VknDLGZnufI"
   }
 ]
