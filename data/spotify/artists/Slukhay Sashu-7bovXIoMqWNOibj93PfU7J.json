@@ -264,5 +264,35 @@
     "totalTracks": 16,
     "type": "album",
     "url": "https://open.spotify.com/album/7EFGtggm26K11fIt0dU5P8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-05T13:30:44.481Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Libenson",
+      "beshket",
+      "Slukhay Sashu"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d9adc2836bf1d9855091026c",
+    "releaseDate": "2025-10-30",
+    "tags": [
+      "pop",
+      "rap",
+      "rnb",
+      "alternative rnb",
+      "indie pop",
+      "indie rock",
+      "folk pop",
+      "indie folk"
+    ],
+    "title": "Секрети",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2WLJnMFrUdPsDpFqk2gsbN"
   }
 ]
