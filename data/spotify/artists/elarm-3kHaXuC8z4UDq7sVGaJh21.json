@@ -473,5 +473,33 @@
     "totalTracks": 16,
     "type": "album",
     "url": "https://open.spotify.com/album/7EFGtggm26K11fIt0dU5P8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-05T04:24:35.002Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Libenson",
+      "elarm",
+      "beshket"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d9767dbaa14d57f8a7cfb42b",
+    "releaseDate": "2025-10-30",
+    "tags": [
+      "pop",
+      "rap",
+      "rnb",
+      "alternative rnb",
+      "indie pop",
+      "indie rock"
+    ],
+    "title": "EAST WEST FLOW",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6sHY5LAIg40VknDLGZnufI"
   }
 ]
