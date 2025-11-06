@@ -97,5 +97,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0HFBEj01ClIsiARyUgQCiG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-06T21:20:36.183Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Міра Капітан"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c95ac5c072e4450fd2a16ccc",
+    "releaseDate": "2025-11-06",
+    "tags": [],
+    "title": "Досить",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5Q9g6tZZVzjbJnI4oopYWB"
   }
 ]
