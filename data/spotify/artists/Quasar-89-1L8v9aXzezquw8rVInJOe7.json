@@ -1414,5 +1414,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7dKH2ytMTDp5OITtA8zrYh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-06T23:27:34.642Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730ebb284eaa876c89c7a5f73c",
+    "releaseDate": "2025-11-06",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Entropy",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0mSScGs0niscIAQpJTgECT"
   }
 ]
