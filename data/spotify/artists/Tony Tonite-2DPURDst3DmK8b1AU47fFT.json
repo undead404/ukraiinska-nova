@@ -1054,6 +1054,10 @@
       {
         "time": "2025-10-20T02:55:41.652Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-06T02:55:28.743Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1121,5 +1125,28 @@
     "totalTracks": 12,
     "type": "album",
     "url": "https://open.spotify.com/album/7C5aCB79EBcZohNTppbSyD"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-06T02:55:28.744Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Rigos",
+      "Tony Tonite"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e875f6d93a808b3fa7700b31",
+    "releaseDate": "2019-09-13",
+    "tags": [
+      "Hip-Hop",
+      "House"
+    ],
+    "title": "Дилижанс",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5EBTAWtNM9CPGILtarEzqb"
   }
 ]
