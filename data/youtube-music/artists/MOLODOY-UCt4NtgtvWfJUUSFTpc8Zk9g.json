@@ -502,5 +502,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mV90zEJWMA9BpIsTz-epjy-7lksSc7UXI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-06T23:46:42.902Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MOLODOY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/TCxl2Guzio262iradNkluHbP-GH7Xfs25wPKqiC4_qwynsTu809LbBdJUlzeyRqFMBQ3-r_IrWFx8pnb=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap"
+    ],
+    "title": "dear kovaaks",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nURaYlpdShwylywZt7rFrQCvOfTh0mx4k"
   }
 ]
