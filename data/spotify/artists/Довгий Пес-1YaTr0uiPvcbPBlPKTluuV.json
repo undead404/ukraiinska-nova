@@ -1581,5 +1581,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4lkWiLViLC6H1ZVM0KUDjz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-06T03:37:12.159Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Довгий Пес"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27377626ec9382bb4c6c32c9902",
+    "releaseDate": "2025-11-06",
+    "tags": [
+      "rap"
+    ],
+    "title": "Тобі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1y1FAX4oekEuUvigC6qqHQ"
   }
 ]
