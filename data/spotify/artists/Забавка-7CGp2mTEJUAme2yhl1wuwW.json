@@ -50,13 +50,17 @@
       {
         "time": "2025-11-04T17:20:01.888Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-11-06T17:20:29.690Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Забавка",
       "eatyou"
     ],
-    "artistsPopularity": 17,
+    "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27302b8bdde3e1fb2784e3bd359",
     "releaseDate": "2024-08-15",
     "tags": [
@@ -137,6 +141,10 @@
       {
         "time": "2025-11-04T17:20:01.888Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-06T17:20:29.690Z",
+        "type": "LOST"
       }
     ],
     "artists": [

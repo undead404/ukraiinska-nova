@@ -1273,5 +1273,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/22MCHlnSNpDMubxZ6YTN8o"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-06T17:20:25.534Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АСАФАТОV"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736cc35cd98cae678b94a858d8",
+    "releaseDate": "2022",
+    "tags": [
+      "pop"
+    ],
+    "title": "Заведу Кота (Live)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/09PSVJEjEZRlL6TM6BVutd"
   }
 ]
