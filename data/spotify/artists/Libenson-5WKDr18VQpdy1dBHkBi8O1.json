@@ -724,5 +724,169 @@
     "totalTracks": 16,
     "type": "album",
     "url": "https://open.spotify.com/album/7EFGtggm26K11fIt0dU5P8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-06T12:27:43.503Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Libenson",
+      "beshket",
+      "Slukhay Sashu"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d9adc2836bf1d9855091026c",
+    "releaseDate": "2025-10-30",
+    "tags": [
+      "pop",
+      "rap",
+      "rnb",
+      "alternative rnb",
+      "indie pop",
+      "indie rock",
+      "folk pop",
+      "indie folk"
+    ],
+    "title": "Секрети",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2WLJnMFrUdPsDpFqk2gsbN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-06T12:27:43.503Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Libenson",
+      "LAO-D",
+      "MAKO"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d24a370e79e2b062bda562cd",
+    "releaseDate": "2025-10-30",
+    "tags": [
+      "j-pop",
+      "pop",
+      "rnb",
+      "japanese",
+      "alternative rnb",
+      "eurobeat"
+    ],
+    "title": "Мама",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/46Ph4gkIPJMq00V7BmWNM3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-06T12:27:43.503Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Libenson",
+      "bo",
+      "o.hroza"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738691436a46ce73b4a1626a25",
+    "releaseDate": "2025-10-30",
+    "tags": [
+      "pop",
+      "rnb",
+      "serbian",
+      "alternative rnb"
+    ],
+    "title": "Досвід",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0JZ6TipD4pF5X88AvZQJrf"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-06T12:27:43.503Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Libenson",
+      "Nadeen",
+      "YARKUSS"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736b35839e6d5664e3ac20e5a0",
+    "releaseDate": "2025-10-30",
+    "tags": [
+      "pop",
+      "rnb",
+      "alternative rnb"
+    ],
+    "title": "YAK",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1WtwRVxFKhJHHFDR7olphi"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-06T12:27:43.503Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Libenson",
+      "beshket"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739107b6dc5b92c4cc89b033b9",
+    "releaseDate": "2025-10-30",
+    "tags": [
+      "pop",
+      "rap",
+      "rnb",
+      "alternative rnb",
+      "indie pop",
+      "indie rock"
+    ],
+    "title": "Pulse",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6VB62gh4THNBkQwpbAkBpq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-06T12:27:43.503Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Libenson",
+      "elarm",
+      "beshket"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d9767dbaa14d57f8a7cfb42b",
+    "releaseDate": "2025-10-30",
+    "tags": [
+      "pop",
+      "rap",
+      "rnb",
+      "alternative rnb",
+      "indie pop",
+      "indie rock"
+    ],
+    "title": "EAST WEST FLOW",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6sHY5LAIg40VknDLGZnufI"
   }
 ]
