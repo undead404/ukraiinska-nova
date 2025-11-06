@@ -835,5 +835,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1Mcp7pE3DSPGQeGODtc0ky"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-06T19:24:09.522Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c87d0482c853ec748afa99db",
+    "releaseDate": "2025-11-06",
+    "tags": [
+      "pop"
+    ],
+    "title": "я горю не згораю",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/79jVzBnmtmzPZm2BqkTiVt"
   }
 ]

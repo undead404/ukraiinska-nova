@@ -596,5 +596,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3zxa14Aec1kcRFYcfnNIhK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-06T19:25:16.373Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ostrovskyi",
+      "Michelle Andrade"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27334dbae7492175c5c46babb13",
+    "releaseDate": "2025-11-06",
+    "tags": [
+      "pop"
+    ],
+    "title": "По-різному",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0NWCqFs6Cp5UJaIM9uXgcT"
   }
 ]
