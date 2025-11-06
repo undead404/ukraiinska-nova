@@ -1103,5 +1103,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2gRWC5B23A8zbDBsZa5SF6"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-06T08:28:05.112Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TESLENKO"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c0da8d49e6e97404f9440bae",
+    "releaseDate": "2025-11-06",
+    "tags": [
+      "pop"
+    ],
+    "title": "Жди мене",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/68PNLfkY9L3McLv5CqENbq"
   }
 ]
