@@ -207,5 +207,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7CxBrTJ900DBR7onJwHypw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-06T09:25:49.305Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROMMEDIA"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f1aa6007091e37acf91cfbc6",
+    "releaseDate": "2025-11-04",
+    "tags": [],
+    "title": "Зона комфорту",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6ffHMwLxfNVmy3SGYO1N2M"
   }
 ]
