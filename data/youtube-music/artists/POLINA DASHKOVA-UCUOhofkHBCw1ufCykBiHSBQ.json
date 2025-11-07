@@ -271,5 +271,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nlndPvHWvfOWtLbx-fFZEVHWNsNnijR8E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T04:49:46.745Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Polina Dashkova"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/2tVfY8rkBy8Q2yFZjzW7BBmBg7hQdSFoNEh3rTofDeQSZryJlaeCU5G7aVxm4UfG4dEAwOLpLc9o8eZa=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "EDM"
+    ],
+    "title": "Разом",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mZffg9pcxB9KqYe7UpBaeBQqhDpkR-6dU"
   }
 ]
