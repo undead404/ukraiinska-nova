@@ -229,5 +229,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3lLtdmjsPQCtNmxNEtCP9y"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T17:23:38.425Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ba.latskii"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737f6009de3ae03f0212f959f0",
+    "releaseDate": "2025-11-07",
+    "tags": [
+      "dream pop"
+    ],
+    "title": "Звичка",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7t6y0BT23c7Homfzc6chsZ"
   }
 ]

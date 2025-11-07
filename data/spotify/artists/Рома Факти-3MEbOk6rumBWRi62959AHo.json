@@ -439,5 +439,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2f86ZAbKCbd8I7b4KMaJKv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T17:20:36.837Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Рома Факти"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273558a60aa2e75f9e1cd03f402",
+    "releaseDate": "2025-11-07",
+    "tags": [
+      "rap"
+    ],
+    "title": "ІМБА ЧОТКО",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6qFoWjm0FMdx6t5egmWjrj"
   }
 ]

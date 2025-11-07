@@ -127,5 +127,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0JuUDppFsZn0dbiBMaui9P"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T17:29:04.066Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TOXIC"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a5dea2db602bbe0127e74502",
+    "releaseDate": "2022-09-02",
+    "tags": [
+      "psytrance"
+    ],
+    "title": "Cute Killer",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/64WwpOuBqQkrOLhdNIN0Dk"
   }
 ]
