@@ -1853,5 +1853,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nbRSBe0Co_NmgCYaVUk87WD4yqpdJC__s"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T15:48:37.087Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/5JJ2MWghIsOmzrvYbkR2WZ3PQaNFue4u_Hc0wxWZwButnrst8NBwPQnu4I6lsCsh83jtDavZsWeCMIuc=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Entropy (feat. AKTRAL)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nRxunBK45mZ4ixfKyUPyvGkuK0PEjIKbE"
   }
 ]
