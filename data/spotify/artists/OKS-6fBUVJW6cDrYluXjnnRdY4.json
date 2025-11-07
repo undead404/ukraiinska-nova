@@ -587,5 +587,26 @@
     "totalTracks": 6,
     "type": "single",
     "url": "https://open.spotify.com/album/3lZbp0QhZlcmVDrHSTDQ6z"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T02:53:08.602Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "OKS"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273022df30ff3ab018c5b1974a1",
+    "releaseDate": "2025-11-06",
+    "tags": [
+      "female vocalists"
+    ],
+    "title": "Єдина",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4yl0RAFCKf3xKK4kqXYVBw"
   }
 ]
