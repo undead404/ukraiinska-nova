@@ -2550,6 +2550,10 @@
       {
         "time": "2025-10-06T21:47:45.398Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-07T21:47:23.083Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2813,5 +2817,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lfeJ3VscLA6tVNKMIU_v3vY99u3tO4IrQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T21:47:23.084Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/YuMgD98jM8F6xs9_z52u9RGd4iq6zlA8fJwR0Ey222rvsajmL8g-uSo9JZKRncSTV_z1Agrdi3WVFRc=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Make it count",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_liDZX4FS2leRpPX9RoM_3FI630T-tLJt4"
   }
 ]

@@ -250,5 +250,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lKxyapP9uE3clZNfJciMRBN86_r9qTlyA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T21:47:32.542Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "sportcafé"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/TGuzHGM6BK9qjiC5XhYmg70BEjGL7gmtGxJ2npY8x9j0_6V4URwQxD4YfI2CS8b0063DFwoxe_zy14vg=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "new wave"
+    ],
+    "title": "ляля",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nI6vc6ANq23gIq85TFfHQcKASFmMAXvLs"
   }
 ]
