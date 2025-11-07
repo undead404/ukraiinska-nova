@@ -194,5 +194,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1pbW7gh7tNUNr3nuIjgQ02"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T15:27:11.601Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "RusikILL"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27325d639bc9ba871c81ba858c2",
+    "releaseDate": "2025-11-07",
+    "tags": [],
+    "title": "coldincoming (post-winter vibe)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1xupOGsI1Z3SWg0eqQB4t3"
   }
 ]

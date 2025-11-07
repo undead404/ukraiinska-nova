@@ -258,5 +258,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2dJDvMotJ5O3egIc0vfaiI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T15:22:02.384Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "поживна цінність",
+      "W8till"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27364a72c3df374ced8e23226c4",
+    "releaseDate": "2025-11-07",
+    "tags": [
+      "alternative rock",
+      "indie rock",
+      "new wave"
+    ],
+    "title": "час покидати",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1DJtvyJvSAetKIxhJCdcms"
   }
 ]

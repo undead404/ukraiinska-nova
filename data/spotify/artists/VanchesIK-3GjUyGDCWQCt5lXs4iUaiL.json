@@ -241,5 +241,24 @@
     "totalTracks": 20,
     "type": "album",
     "url": "https://open.spotify.com/album/4m8biu95pcS95uv4yjqmBX"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T15:28:13.948Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VanchesIK"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739550af8772a0997a6cf6ee43",
+    "releaseDate": "2025-11-07",
+    "tags": [],
+    "title": "Емпатія",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4F4y8IHtvJazkXpnwdD4KI"
   }
 ]
