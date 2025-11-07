@@ -586,5 +586,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kOFAqWD9xFEeGyDOatDteKCjI_cr7ADWc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T03:07:39.122Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ostrovskyi"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/TEW-3mWZ14QpBruTnzQofWQDHujdODlRXie9BWsm2OaH8nl42kxH0-2rMAi4ClcBneB8An3O6yLLu6tm=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop"
+    ],
+    "title": "По-різному",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mHvLTK9qoKzYu1kplwFtSM1HCVRdl0Pc4"
   }
 ]
