@@ -321,5 +321,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5HofPrTSLnsyTTiHm4J5rV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T12:26:36.940Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Entely"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a5b8b8051f03313237e7ee78",
+    "releaseDate": "2025-11-07",
+    "tags": [
+      "soul"
+    ],
+    "title": "Стирай мене",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5Ssd5LAS8KYJuiDeiYvqkR"
   }
 ]

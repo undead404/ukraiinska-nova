@@ -914,5 +914,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4j6k610YSxg2w7J2KaJs9j"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T12:25:31.180Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ANGY KREYDA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f5f6a94e8605f9c71d981feb",
+    "releaseDate": "2025-11-07",
+    "tags": [
+      "pop"
+    ],
+    "title": "Помилка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4kPLtvoK2bVpj7Q4J5GTUg"
   }
 ]

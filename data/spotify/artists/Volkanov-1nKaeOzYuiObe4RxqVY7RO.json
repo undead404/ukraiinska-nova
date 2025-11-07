@@ -729,5 +729,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1pu7GDxt99tx5P48dykXRw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T12:30:58.482Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Volkanov"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273156c688ba67e23743e85d92b",
+    "releaseDate": "2025-11-07",
+    "tags": [
+      "pop",
+      "male vocalists"
+    ],
+    "title": "Люблю тебе одну",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2XH5z5JZUylkqrnVwqlfrB"
   }
 ]
