@@ -934,5 +934,32 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5bzIROsyOL4WPhuaXzwQTW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T18:24:52.649Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ann Kovtun",
+      "Laskowski"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f38d7f847b1527230e3c15b0",
+    "releaseDate": "2025-11-07",
+    "tags": [
+      "electropop",
+      "polish",
+      "pop",
+      "electronic",
+      "english",
+      "indie pop"
+    ],
+    "title": "Burning Faith",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2VEK7M1EPVL2QW3f071bLu"
   }
 ]

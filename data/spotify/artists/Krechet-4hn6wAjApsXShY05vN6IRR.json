@@ -1272,5 +1272,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6xOvIizfJmeIEAcmXdZscG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T18:28:42.879Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Krechet"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273be3c1c68f2187b7b079f62e2",
+    "releaseDate": "2025-11-07",
+    "tags": [
+      "rap"
+    ],
+    "title": "Без ключа",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/55fPPVjp0UgaWcC40ECJgr"
   }
 ]
