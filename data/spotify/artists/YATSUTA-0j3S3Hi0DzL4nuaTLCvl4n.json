@@ -409,5 +409,24 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/0ESHgE0gvCx4raDchBLAHe"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T06:28:04.656Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YATSUTA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27306dd67771ba3442821be4499",
+    "releaseDate": "2025-11-07",
+    "tags": [],
+    "title": "Снаряд",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/35CIZgNoCzlUHhmdglpVEN"
   }
 ]
