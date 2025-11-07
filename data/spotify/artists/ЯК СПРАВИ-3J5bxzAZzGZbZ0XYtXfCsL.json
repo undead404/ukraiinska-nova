@@ -277,5 +277,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0sDmjzAuy6F1BRmOzyk0Mq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T21:21:31.233Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ЯК СПРАВИ?"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731e3207c6669987b2a8d20f9a",
+    "releaseDate": "2025-11-07",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "ТЕРАФЛЮ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5dOf6fSi2XrsqdF7OBeaqO"
   }
 ]

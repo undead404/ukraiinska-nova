@@ -446,5 +446,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0rfrEanyvh6nV9TmA2012S"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T21:25:41.903Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DAYREN",
+      "REZUS"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cad640e372d89dfc5f7e8595",
+    "releaseDate": "2025-11-07",
+    "tags": [],
+    "title": "Хаскі (REZUS Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3CZc8vfiYDkRVH9X47i6Of"
   }
 ]

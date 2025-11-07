@@ -967,5 +967,24 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/2mgNIh5cBMqt6SngmXUDvR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T21:19:21.943Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Жахіття"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e7ed9eb41506bbfe9f6cec48",
+    "releaseDate": "2025-11-07",
+    "tags": [],
+    "title": "Комугі та Меруем",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1WqvTgY8FNGpX3kZbfrM1r"
   }
 ]
