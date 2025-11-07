@@ -863,5 +863,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3OtJ8gyYJgbmCqbUGmJwWv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T19:22:17.820Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Bandi&Bagi",
+      "TACHO"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b99694afa955d1c0db6bace8",
+    "releaseDate": "2025-11-07",
+    "tags": [
+      "rap",
+      "Hip-Hop"
+    ],
+    "title": "Брутто",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/75nmkUTbUrtKbZh2nqGNAF"
   }
 ]

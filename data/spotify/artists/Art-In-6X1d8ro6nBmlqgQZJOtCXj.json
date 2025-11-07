@@ -428,5 +428,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5zZHwLcOMpO7qTm9znCBIV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T19:22:02.347Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Art-In"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27337711244fbce553b6f1ebb56",
+    "releaseDate": "2025-11-07",
+    "tags": [],
+    "title": "Beams Of Sunlight",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4VqCdTmWdWVnWgtCD8JnAo"
   }
 ]

@@ -273,5 +273,24 @@
     "totalTracks": 30,
     "type": "album",
     "url": "https://open.spotify.com/album/2VvmDnJUqFMRJocyu9l4dm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T19:26:50.323Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Tec-1Flair"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273073ec3fcfd6ed33bff2ddb76",
+    "releaseDate": "2025-11-07",
+    "tags": [],
+    "title": "Не потрібно нічого",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6CGdA6ymPMv8ndd7vJn7it"
   }
 ]
