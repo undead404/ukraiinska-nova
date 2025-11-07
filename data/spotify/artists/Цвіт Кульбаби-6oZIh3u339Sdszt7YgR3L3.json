@@ -297,5 +297,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/09153Qf9wRRdeNeLV15fIp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T01:52:17.582Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Цвіт Кульбаби"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ca5648e6ab1a34679ea8fac0",
+    "releaseDate": "2025-11-06",
+    "tags": [
+      "folk"
+    ],
+    "title": "Королєва (Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/33Umw4jO8oIMJIJi41Pcm1"
   }
 ]
