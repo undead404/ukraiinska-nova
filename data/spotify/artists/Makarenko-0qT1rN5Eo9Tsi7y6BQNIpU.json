@@ -480,5 +480,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4WgcvdJFfWpDj4eLhufVTJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T07:23:28.141Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Makarenko"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737a5867623c367583f34ae336",
+    "releaseDate": "2025-11-07",
+    "tags": [],
+    "title": "Візерунки",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1Fn49g2OvPWtZ7zsSob6V4"
   }
 ]

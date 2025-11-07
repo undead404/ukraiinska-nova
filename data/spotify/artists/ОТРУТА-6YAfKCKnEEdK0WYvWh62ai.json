@@ -226,5 +226,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4bPOg5ND3m54tZ8l6TWH9z"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T07:20:33.795Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ОТРУТА",
+      "мене звуть Богдан"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732e7d068e7640b92aa6d53f99",
+    "releaseDate": "2025-11-07",
+    "tags": [
+      "alternative rock"
+    ],
+    "title": "графіті",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7aL3XetvMH1H97lYtzcldX"
   }
 ]

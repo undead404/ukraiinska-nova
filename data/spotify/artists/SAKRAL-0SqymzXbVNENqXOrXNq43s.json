@@ -421,5 +421,31 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4RoJZKAV4CqIaxWfgfxcqL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T07:25:09.008Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SAKRAL",
+      "whitelope"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734cb25aed508e6f44c65e2813",
+    "releaseDate": "2025-11-07",
+    "tags": [
+      "black metal",
+      "Female fronted metal",
+      "rap",
+      "Gothic Metal",
+      "Symphonic Black Metal"
+    ],
+    "title": "остання надія",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2virzPz2VZBr8MzA9LDRZR"
   }
 ]
