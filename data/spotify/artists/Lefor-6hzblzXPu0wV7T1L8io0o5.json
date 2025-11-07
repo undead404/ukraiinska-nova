@@ -910,5 +910,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5M8NBdUpr9AxyOVM3xXkgZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T23:26:16.492Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lefor"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eda74fd3c2fd657dd914b9c0",
+    "releaseDate": "2025-11-07",
+    "tags": [
+      "rap"
+    ],
+    "title": "Вбивство можна",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/68xclN199t5X8fIoNbOP2I"
   }
 ]

@@ -484,5 +484,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/73VX1CQdwrN5x4NExHxYwn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T23:29:06.599Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vitryla"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739a711f9659a16f82402eb9da",
+    "releaseDate": "2025-11-07",
+    "tags": [
+      "folk",
+      "indie pop"
+    ],
+    "title": "З тобою постійно",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/40s9evi69EDGSkp93cR1r8"
   }
 ]
