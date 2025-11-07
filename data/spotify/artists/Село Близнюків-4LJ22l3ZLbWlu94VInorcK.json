@@ -594,5 +594,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0wGQT7rKDjxPIa0POSrBIQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T13:24:18.739Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Село Близнюків"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730d72d7412a86eef84071892c",
+    "releaseDate": "2025-11-07",
+    "tags": [
+      "Psychedelic Rock"
+    ],
+    "title": "Допомога",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0a2U2MT0Jep7CPfM7qmXIo"
   }
 ]

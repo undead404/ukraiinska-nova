@@ -104,5 +104,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/15Y8bgJ39T7EUmiPsBT85e"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T13:26:33.258Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "delayed minds"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738e241c61fba61258a24f3f2b",
+    "releaseDate": "2025-11-07",
+    "tags": [
+      "shoegaze"
+    ],
+    "title": "luminescent void: BLUE HEAVEN",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7El4uoeL6Y37IGSHPlhrUR"
   }
 ]

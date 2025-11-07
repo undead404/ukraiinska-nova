@@ -738,5 +738,26 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/0OU70skSosLW7SGDKfh2jt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T13:22:38.064Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Джозерс"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731b27847366b0beaf3643be9f",
+    "releaseDate": "2025-11-07",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Магнум опус",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1mNnVly336faJz03f5ypvk"
   }
 ]
