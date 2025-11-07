@@ -1056,6 +1056,10 @@
       {
         "time": "2025-09-27T08:23:07.863Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-11-07T08:24:11.433Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1094,5 +1098,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4elb0rs5AuQ5WfxO71wLhn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T08:24:11.433Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734ababab0d17a5c2fb650fa23",
+    "releaseDate": "2025-11-06",
+    "tags": [
+      "pop"
+    ],
+    "title": "Їй пасує це",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/38LpZ89E5Al1obLOLl4Apg"
   }
 ]
