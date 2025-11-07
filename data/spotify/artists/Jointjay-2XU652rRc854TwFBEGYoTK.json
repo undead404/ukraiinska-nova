@@ -939,6 +939,10 @@
       {
         "time": "2025-09-22T20:24:24.487Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-07T20:27:46.329Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1041,5 +1045,26 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/6QWoaIFhImMMtJ1FiTe90s"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T20:27:46.331Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Довгий Пес"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27377626ec9382bb4c6c32c9902",
+    "releaseDate": "2025-11-06",
+    "tags": [
+      "rap"
+    ],
+    "title": "Тобі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1y1FAX4oekEuUvigC6qqHQ"
   }
 ]
