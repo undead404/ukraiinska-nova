@@ -394,5 +394,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k7px9fXKLjTOHNFElyqeTkVIgRL-11gPE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T01:07:10.098Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kristonko"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/WVtHlZaVUzHq_6qIeJTYeE-_DdGPzkABzX1PqrEiQOY9gXi_zZSeE890eRHYTELexWp_lYdSY153D3KVIw=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop"
+    ],
+    "title": "Never again",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lPAcUKX5ZGFT2rOu-RWANFNIBYR1veXOo"
   }
 ]
