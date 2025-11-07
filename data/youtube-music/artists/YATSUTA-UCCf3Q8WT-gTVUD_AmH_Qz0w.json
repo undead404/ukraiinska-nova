@@ -378,5 +378,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_naTrGmLhQI48QC5sIgVYN7sSPimtOCQa4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T20:48:13.339Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YATSUTA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/Pp8leJUfkchrTA4YP_lT6SAMfUy1ZbB5VapOMYhVxOG4vh2xm78dqopMxS8pbCtd8G8me7kbc9nN1fhC=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Снаряд",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_md5hTqETQYmbdcx56RK41ZkGYMNpqwyIE"
   }
 ]
