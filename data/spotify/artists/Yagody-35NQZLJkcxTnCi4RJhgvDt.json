@@ -103,5 +103,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7EdGjOAEovRqZg76SUPOwE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T09:27:50.631Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YAGODY"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734ba1e02906f4d928c3db86a4",
+    "releaseDate": "2025-11-06",
+    "tags": [
+      "folk"
+    ],
+    "title": "Коні",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3nwLd125SL7lAC7pffqZUX"
   }
 ]

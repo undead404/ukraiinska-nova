@@ -78,5 +78,24 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/1ju2g0oYryt3S6FvZYWZ0j"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T09:22:26.051Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Культурні сили"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27302889c7dc9d56abdea26b520",
+    "releaseDate": "2025-11-07",
+    "tags": [],
+    "title": "Завжди перші",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5otNPbRmzQx0i3YMRc8iH3"
   }
 ]
