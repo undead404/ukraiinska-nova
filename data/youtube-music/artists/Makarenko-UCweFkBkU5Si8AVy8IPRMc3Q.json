@@ -321,5 +321,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mEg-D3zB1uI877GRyvg_OtkQwFArCL--E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T16:49:47.214Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Makarenko"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/p0gRnJMRIiAYOl4_jm3yvPw601slomY0dz55U3So6ljcxsCgJ07DiUCCLUruhjhNvwXXI18ob8-mHEE=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Візерунки",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k8QtvUW9K-wmR2J0tAG2T2oTGTEvKKYgk"
   }
 ]
