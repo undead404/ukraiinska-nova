@@ -1489,5 +1489,25 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/1he6YveQeiCL8UGwwikleP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T14:28:19.852Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Atmoss (SP)",
+      "t-Zhuk"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273977420c1ee1479c6341ffaf5",
+    "releaseDate": "2025-11-07",
+    "tags": [],
+    "title": "Something About",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1ZiwXBfB6Z0u00d6MgnQNJ"
   }
 ]
