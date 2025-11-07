@@ -639,5 +639,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3lx7dXfXzwTxtNf9K04sF5"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T03:39:28.014Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kristonko"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aec2ddbc6bd969e5b8502a1a",
+    "releaseDate": "2025-11-06",
+    "tags": [
+      "pop"
+    ],
+    "title": "Never again",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6vIx9rj5w7JnRynKZ5H7OP"
   }
 ]
