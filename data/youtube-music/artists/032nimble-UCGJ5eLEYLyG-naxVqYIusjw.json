@@ -292,5 +292,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_msemG0fkkY-eznCpw9vs4601CinY9LO2g"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T07:45:06.529Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "032nimble"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/dx9_dwRg5atN4tFks5bG3AWVZ96v0NTSzWtDZ2pdzNmzD242fiiDGESPABFGiFaPds8emHtBbjT6ExJY=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap"
+    ],
+    "title": "Я ПОПАДУ В ТВОЇ СНИ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k0PHIIH59-DHilSysx3onejzXLovT0DQQ"
   }
 ]

@@ -340,5 +340,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n-W4AK53vlg8ETBCnIbyalLCBGA0lmJ5E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T07:47:35.649Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NIKITAIDISYUDA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/nFDYm8XTsmvEgU1OIqPQhfDUrZmzAYlW5_sQz14lGXppfbFMwfKUV4CxH4Y9ywEeV8UBKNu5QEQfn5zH=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Half Past Six",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mE2f3ZSzq-teRfmszIpxYIoakTlFT7eGA"
   }
 ]
