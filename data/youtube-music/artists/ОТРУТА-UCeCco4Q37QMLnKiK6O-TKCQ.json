@@ -226,5 +226,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l29EdhXiOBiewjKb6Sz3rKW5YzZwkKUW8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T06:50:52.517Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ОТРУТА"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/KAMz-uLdO-b7Ne3F1JBIAynCj628A-xaKSrwM60G3VVMWe64bzssu1hpl6fRgCRjWiCXM3TK_gAAP2c=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "alternative rock"
+    ],
+    "title": "графіті",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kmwKsioq26gyv6A2dNycuAM-7MaDLeBrM"
   }
 ]
