@@ -758,5 +758,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l0kxU7rv2w-FZcYcPYvPPwB4-ntO4Er9g"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T23:44:26.274Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "100лиця"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/mNXLSTEMas3oOISRqtNCiLMc5x23VUjmvcgfUiBgXJWTDEEZYAlDboPLMCPaDs6iS0cE4uSF0_y_fO4F=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "male vocalists",
+      "pop"
+    ],
+    "title": "Нікотин",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nBbdE2xsn1RP5mfQAMkYnTwetG9EckA4s"
   }
 ]
