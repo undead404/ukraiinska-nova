@@ -699,5 +699,26 @@
     "totalTracks": 8,
     "type": "album",
     "url": "https://open.spotify.com/album/16FAuqf5mDKPcesU02q39u"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T16:26:09.048Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PALMYRA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b6fed8269cc9eaf9e1675061",
+    "releaseDate": "2025-11-07",
+    "tags": [
+      "folk"
+    ],
+    "title": "Осінь",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6MPu5niiSutGI6Jfjg2cpf"
   }
 ]
