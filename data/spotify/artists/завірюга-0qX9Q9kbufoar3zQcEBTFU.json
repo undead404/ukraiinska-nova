@@ -140,5 +140,27 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/52zeJYqOFffTvqUetnpmcZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T22:21:08.531Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "завірюга"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731207eae414491962d022d936",
+    "releaseDate": "2025-11-07",
+    "tags": [
+      "indie rock",
+      "Lo-Fi"
+    ],
+    "title": "нічого нового",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7pIuCX5HCr99ry50bFEfc9"
   }
 ]

@@ -40,5 +40,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4WmQzGvVeFHI74worNxt59"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T22:21:22.251Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Інна Іщенко"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737eae5ba9946989e51c9d435a",
+    "releaseDate": "2025-11-07",
+    "tags": [],
+    "title": "Ptakh",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2UzsPusjD5Tx5eH5JNnM9O"
   }
 ]

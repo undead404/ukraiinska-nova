@@ -600,5 +600,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0ZyruJuEXwQNvL0w7VJywg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T22:20:21.896Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "2K DJ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27332b6196cfa5be930374de81d",
+    "releaseDate": "2025-11-07",
+    "tags": [],
+    "title": "Afua",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4yTUXpIaRQMfDAW9tsRC60"
   }
 ]
