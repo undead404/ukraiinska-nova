@@ -46,6 +46,10 @@
       {
         "time": "2025-09-27T11:24:13.639Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-07T11:25:18.795Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -67,6 +71,10 @@
       {
         "time": "2025-09-27T11:24:13.639Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-07T11:25:18.795Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -890,5 +898,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/61NZ38M5ZXFMUDqdgsANuk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T11:25:18.796Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lugovskiy"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731ce7dca89ffcbeef56fbfa75",
+    "releaseDate": "2025-11-07",
+    "tags": [
+      "deep house"
+    ],
+    "title": "Diffusion",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3XYTPpiXg0kygOCx4NNkrP"
   }
 ]

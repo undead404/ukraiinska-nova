@@ -538,5 +538,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1st3OvinJAu8QZNCi1YzEy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T11:20:01.719Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Женя і Катя"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273294dccccff16a4e3616dd8bc",
+    "releaseDate": "2025-11-07",
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "title": "Темна ніч",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1qUnrU8USfrSwXQJGNwgll"
   }
 ]

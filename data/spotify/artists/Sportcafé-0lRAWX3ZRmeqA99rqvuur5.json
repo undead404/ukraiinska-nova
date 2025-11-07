@@ -233,5 +233,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4N8McCXXnsXYHiLOZHmCRc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T11:26:32.406Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "sportcafé"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733e303a1ed1bd55dc82d959b8",
+    "releaseDate": "2025-11-07",
+    "tags": [
+      "new wave"
+    ],
+    "title": "ляля",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3EAF349Dl9QGSttzg0NAaG"
   }
 ]

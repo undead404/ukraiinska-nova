@@ -931,6 +931,10 @@
       {
         "time": "2025-09-24T11:32:28.964Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-07T11:24:23.307Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -944,5 +948,57 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/5FCE10shBNhR5e9jWI4Rbw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T11:24:23.308Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Hidden Element",
+      "Міша Правильний"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e71bc16e803f33e8ce81c3c9",
+    "releaseDate": "2025-11-07",
+    "tags": [
+      "electronic",
+      "rap"
+    ],
+    "title": "Жовта Стрічка (Live)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6Qwyn3YcZlOTF6wycojJ60"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T11:24:23.308Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Hidden Element",
+      "Shinra Knives",
+      "yunis",
+      "A.Fruit"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273594219650775ca861c9baed0",
+    "releaseDate": "2025-11-07",
+    "tags": [
+      "downtempo",
+      "electronic",
+      "idm",
+      "breakcore",
+      "glitch",
+      "instrumental"
+    ],
+    "title": "YUKU: 5 Years in the Wild II",
+    "totalTracks": 8,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1NVoAzJ434uPAb60poYq0C"
   }
 ]
