@@ -439,5 +439,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_luD13ofOx4g07t6EyaW65kzBTXrx0j3Pw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T22:47:24.256Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kulshenka"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/GVJV9sPOJE1uu6p6txnS6jDmQ2wG_N-eRJBnKgdoGVtitcTb9G1J0M8SIHEWtv-6EHji2EXX1XygLJth=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "female vocalists"
+    ],
+    "title": "Листопад",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mJWLB_WwDeKhT6ryrDYtzKTObuvdY-DDQ"
   }
 ]
