@@ -418,5 +418,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lPJOBH8nMnqbpfu-RyUHcD1geZo0z21uM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-07T10:47:37.875Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Рома Факти"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/BFkBZbS0PEF4gcbH3UqC2Y0IsXgjT5Cxn0nHZSdgn6DMNWLpei1MOGBVLhlzWt8nAaAmYbMijqtIwRMC=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap"
+    ],
+    "title": "ІМБА ЧОТКО",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n4r9RPjeUMb1iLFPv3rCH5rLBfrMx_Am8"
   }
 ]
