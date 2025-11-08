@@ -561,5 +561,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6OZ0wn7cA8ecXmdyJI7IPl"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-08T00:41:16.029Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KILLGRAPE"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e937ce24a6de0b997a04971c",
+    "releaseDate": "2025-11-07",
+    "tags": [],
+    "title": "FAMILIAR STRANGERS",
+    "totalTracks": 14,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2jCBjMrNGgia4pPpHNOfyz"
   }
 ]

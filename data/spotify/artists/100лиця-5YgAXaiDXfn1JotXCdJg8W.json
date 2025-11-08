@@ -868,5 +868,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4BTzRKwvwz5jqoQ2IsdJtK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-08T00:36:09.856Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "100лиця"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731cabd2d50d97f4afed0d1b54",
+    "releaseDate": "2025-11-07",
+    "tags": [
+      "male vocalists",
+      "pop"
+    ],
+    "title": "Нікотин",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6IgInSP7bd5oHbBZXjymhW"
   }
 ]
