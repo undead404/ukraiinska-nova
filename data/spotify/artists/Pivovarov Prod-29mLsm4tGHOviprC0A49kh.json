@@ -115,5 +115,27 @@
     "totalTracks": 17,
     "type": "album",
     "url": "https://open.spotify.com/album/4NYbJJwI4ylj4DLOTuhD1E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-08T01:56:04.020Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Pivovarov Prod",
+      "Daryna Samurai"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27392ec10852ce5d25f1146466c",
+    "releaseDate": "2025-11-07",
+    "tags": [
+      "electropop"
+    ],
+    "title": "Макове поле",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4PKPbHXAJqBNJqLMjdLqm9"
   }
 ]

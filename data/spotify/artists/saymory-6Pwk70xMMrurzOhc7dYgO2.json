@@ -1171,5 +1171,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/74jGKpkpSFgMlGWARqKstZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-08T01:56:44.427Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "saymory"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731e006db2e3bcd11649dca7d8",
+    "releaseDate": "2025-11-07",
+    "tags": [
+      "ambient",
+      "electronic"
+    ],
+    "title": "Haven",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7G5JjzzXYaNrA9gS6n3UgT"
   }
 ]
