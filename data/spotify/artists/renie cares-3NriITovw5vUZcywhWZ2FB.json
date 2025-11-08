@@ -494,6 +494,10 @@
       {
         "time": "2025-10-31T14:26:05.661Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-08T14:24:52.495Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -540,5 +544,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5J8ux3R6Fukibey4zrnoVC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-08T14:24:52.495Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Сашко Дворецький",
+      "renie cares"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273444d4239517dcd269e34bc6f",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "electropop",
+      "indie pop"
+    ],
+    "title": "нема",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7EtQTck4YqKkwrSjcNk5K8"
   }
 ]
