@@ -494,5 +494,28 @@
     "totalTracks": 15,
     "type": "album",
     "url": "https://open.spotify.com/album/0MMLIs3W74liPUh42mjldX"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-08T03:34:53.120Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NIKITAIDISYUDA",
+      "FOUR7EVEN"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27351330fd3175cf8fff06aa491",
+    "releaseDate": "2025-11-07",
+    "tags": [
+      "rap",
+      "trap"
+    ],
+    "title": "Half Past Six",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2fpEF8Z6ucmfHcfk6RN9JD"
   }
 ]

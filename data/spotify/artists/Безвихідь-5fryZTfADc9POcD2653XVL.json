@@ -417,5 +417,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7jrjoKUtctdjkVAzn3UTOJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-08T03:27:57.408Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Безвихідь"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273488d985be5a534b252417564",
+    "releaseDate": "2025-11-07",
+    "tags": [
+      "electropop",
+      "pop",
+      "Lo-Fi"
+    ],
+    "title": "ОСТАННІЙ АКТ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3bmi7qEFD7IyLRCRbk0Tt8"
   }
 ]

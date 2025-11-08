@@ -229,5 +229,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0HJ2q77XaxzQoIht3HE0Gf"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-08T03:28:48.069Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Женя Галич"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730dc1d36a3c2c81f511b992e3",
+    "releaseDate": "2025-11-07",
+    "tags": [
+      "rock",
+      "pop"
+    ],
+    "title": "Коли ти плачеш (Acoustic)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2iCwdIHHkrwbSX1j8WfOF4"
   }
 ]
