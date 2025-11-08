@@ -737,5 +737,27 @@
     "totalTracks": 19,
     "type": "album",
     "url": "https://open.spotify.com/album/5KKXD7CLQq3kuPeDQxkcPo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-08T04:26:11.434Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "laang",
+      "secondpart"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733a9c626caf5fca30e2a6f363",
+    "releaseDate": "2025-11-07",
+    "tags": [
+      "black metal"
+    ],
+    "title": "не відпускай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3kdgs2KQyrIrd7DOuKK8BZ"
   }
 ]

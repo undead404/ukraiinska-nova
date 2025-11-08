@@ -686,5 +686,24 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/02SiQp4Wvz8NUjgPazSFF3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-08T04:22:16.023Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ульмо Три"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bc06f0819f7869bef6e428cf",
+    "releaseDate": "2025-11-07",
+    "tags": [],
+    "title": "Жорстокий листопад",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6DVRJ9btTwatdDI8063ZT0"
   }
 ]

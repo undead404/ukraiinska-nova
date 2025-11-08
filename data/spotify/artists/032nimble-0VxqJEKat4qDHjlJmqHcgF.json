@@ -526,5 +526,26 @@
     "totalTracks": 21,
     "type": "album",
     "url": "https://open.spotify.com/album/76bCEH1x4WprnHfvf1SX47"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-08T04:20:36.483Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "032nimble"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739260468dbd4936147cb3ddb5",
+    "releaseDate": "2025-11-07",
+    "tags": [
+      "rap"
+    ],
+    "title": "Я ПОПАДУ В ТВОЇ СНИ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3ADfAqZOKMjuqozxHahbF5"
   }
 ]
