@@ -123,5 +123,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3Roh9qC78q1ywlUJKp6Biz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-09T05:24:32.703Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kuaskio"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b0bdfee9cea0fa7271fc8916",
+    "releaseDate": "2025-11-07",
+    "tags": [],
+    "title": "де ти",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6rvWfXdhwpiFQJaJvBsPgZ"
   }
 ]
