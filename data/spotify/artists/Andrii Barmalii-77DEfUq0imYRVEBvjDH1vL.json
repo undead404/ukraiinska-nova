@@ -780,6 +780,10 @@
       {
         "time": "2025-10-03T01:52:02.658Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-09T01:53:10.193Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -835,5 +839,28 @@
     "totalTracks": 14,
     "type": "album",
     "url": "https://open.spotify.com/album/4H0rYSZ5l4u7a5UsrTBOW2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-09T01:53:10.194Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "sestro"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dcc7145ed3bc1d6ca3f0afff",
+    "releaseDate": "2025-10-03",
+    "tags": [
+      "death metal",
+      "hardcore",
+      "brazilian"
+    ],
+    "title": "фахівчиня з кохання",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/27zd3qxg5kumpKRlX84lbY"
   }
 ]
