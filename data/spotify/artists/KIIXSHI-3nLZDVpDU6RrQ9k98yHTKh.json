@@ -1409,5 +1409,25 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/1t20qGn2PiDS2EvmBJiaXv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-09T02:52:12.499Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KIIXSHI",
+      "D4C"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273083e11d4ea3b6e1e1f201208",
+    "releaseDate": "2025-11-07",
+    "tags": [],
+    "title": "NO SIGILO",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4nASOhK5nK6o9RT3KLW8Cb"
   }
 ]
