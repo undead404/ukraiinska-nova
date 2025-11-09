@@ -526,5 +526,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7GHg64f9vwPb78zcPS3VvS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-09T15:24:00.729Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kulshenka",
+      "Iryna Kulshenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27381449d1d2b6ece460709f902",
+    "releaseDate": "2025-11-06",
+    "tags": [
+      "female vocalists"
+    ],
+    "title": "Листопад",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/56C9fIcZNT5tAfFJrVjpSO"
   }
 ]
