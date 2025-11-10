@@ -171,5 +171,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0rkKXKktmYQNsr1zeLdYh9"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-10T14:28:12.016Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vyr Muk"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27399ac3f90efc8d1e7b5922818",
+    "releaseDate": "2025-11-08",
+    "tags": [
+      "black metal"
+    ],
+    "title": "Chants of the Tenebrous Depths",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6cUmKuGPxH83bVuJNrFD5b"
   }
 ]
