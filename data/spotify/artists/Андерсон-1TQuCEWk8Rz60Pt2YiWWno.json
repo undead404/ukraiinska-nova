@@ -124,5 +124,26 @@
     "totalTracks": 8,
     "type": "album",
     "url": "https://open.spotify.com/album/3k2vcWu4ZHXJ5m5blwSFHp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-10T11:19:31.791Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Андерсон"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273801077900d1fc140276f90e3",
+    "releaseDate": "2025-02-18",
+    "tags": [
+      "alternative"
+    ],
+    "title": "Зебра Вера",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2z9vTjGpnDPTf8g8Px7nCO"
   }
 ]
