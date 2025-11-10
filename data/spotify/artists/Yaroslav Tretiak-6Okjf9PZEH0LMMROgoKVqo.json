@@ -1074,5 +1074,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5wtI5KHL3CuRIKIsFSUA3i"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-10T17:30:09.266Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yaroslav Tretiak"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e21dd0528c657b608e571cc2",
+    "releaseDate": "2025-11-10",
+    "tags": [],
+    "title": "Faded Friday",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/73me64vZgvEydx8vLMza7h"
   }
 ]
