@@ -230,5 +230,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3YZ5ZDjRtYaFpqnCR96ZU0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-10T22:22:54.459Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Dj Dima Vlasov"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732e7fc0d6f0fd802a36aff3b9",
+    "releaseDate": "2025-11-10",
+    "tags": [],
+    "title": "Let It Be",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3NmfVDwtQ33wVTXXc4aq4W"
   }
 ]
