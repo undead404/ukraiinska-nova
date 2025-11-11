@@ -856,5 +856,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6s2IpVBcgEauYYJIvKjdXS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-11T12:23:46.871Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Роман Скорпіон"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732a2c65d72d2a5b9de91ea40b",
+    "releaseDate": "2025-11-11",
+    "tags": [
+      "pop"
+    ],
+    "title": "Я іду без тебе далі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5uuif6IUkkWzjDZj8fPoId"
   }
 ]
