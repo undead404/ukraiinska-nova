@@ -284,5 +284,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6spIHFHBPWdMwMq0IYIzDG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-11T22:22:33.240Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "e-ho"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27354677030cebf5a53f420a7c1",
+    "releaseDate": "2025-11-11",
+    "tags": [
+      "alternative",
+      "rock"
+    ],
+    "title": "Не відпускай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4UiPJ5usyIpB7Cpggo8K9o"
   }
 ]
