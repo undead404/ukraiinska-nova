@@ -466,5 +466,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3CZc8vfiYDkRVH9X47i6Of"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-11T21:27:01.611Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "REZUS"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27313b901e6ad1a1767db430b4d",
+    "releaseDate": "2025-11-11",
+    "tags": [],
+    "title": "Never get over",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/24COCWIfgTvwpnAdhLt21h"
   }
 ]
