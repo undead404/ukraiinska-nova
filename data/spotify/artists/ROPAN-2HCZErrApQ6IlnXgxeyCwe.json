@@ -1225,5 +1225,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4vu7zmyf8J5GjSY0G4BInI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-11T18:32:55.027Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Various Artists"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f06bd1b71804bc58f55558c7",
+    "releaseDate": "2025-11-11",
+    "tags": [],
+    "title": "Underdogs",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3K3mQAZuGLP8Io7sfF2NyA"
   }
 ]

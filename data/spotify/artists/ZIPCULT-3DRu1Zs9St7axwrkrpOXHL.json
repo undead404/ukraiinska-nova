@@ -234,5 +234,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5kFc3o9eaQHlt0RJ1Uo2SW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-11T18:34:14.849Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ZIPCULT"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731c38e2bc3deb9d0d40671904",
+    "releaseDate": "2025-11-11",
+    "tags": [
+      "digital hardcore",
+      "techno",
+      "Rave"
+    ],
+    "title": "1.18.32 {unity:edition}",
+    "totalTracks": 14,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6oDsBpXQTjzFesMO4ESJKd"
   }
 ]
