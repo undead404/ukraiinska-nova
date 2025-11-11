@@ -700,5 +700,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7lMzVkIe16wdVmQ5KZYDDT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-11T16:30:43.785Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Мертвий півень"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732fcd9455315b400c2eca1b30",
+    "releaseDate": "2025-11-11",
+    "tags": [
+      "rock"
+    ],
+    "title": "Поезії хмільних дворів",
+    "totalTracks": 16,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6DMjowXykeAqTA6bp4cq1V"
   }
 ]
