@@ -708,5 +708,28 @@
     "totalTracks": 10,
     "type": "album",
     "url": "https://open.spotify.com/album/5otNPbRmzQx0i3YMRc8iH3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-11T14:21:34.349Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sasha Chemerov",
+      "Гоня",
+      "Культурні сили"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27334b5896a346544e2c9741957",
+    "releaseDate": "2025-11-11",
+    "tags": [
+      "rap"
+    ],
+    "title": "Божою милістю",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4MbpM4MKmBkb6JyBg0QGKW"
   }
 ]
