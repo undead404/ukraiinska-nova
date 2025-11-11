@@ -130,5 +130,28 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/1aTZfhBLqFceOIEJCfWmZt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-11T13:25:38.719Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "СЗЧ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273031cf8ad1662984f181a01cf",
+    "releaseDate": "2025-11-11",
+    "tags": [
+      "indie rock",
+      "rock",
+      "punk rock"
+    ],
+    "title": "2030",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2rtDPeHQDRQ87vQOEg5mAR"
   }
 ]
