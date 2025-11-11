@@ -262,5 +262,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lhF7JtMkENzEsbdbHS-svR1QW_RGuyT5A"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-11T23:45:16.705Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Мертвий півень  "
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/t2xR4ehpMwACd9nx-F9vIpEQ6uB-GkLTAPeWSybWNn50y_oIxPOn7Ui2c60PyKoozw3-7aIgA7jGyI4=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rock"
+    ],
+    "title": "Поезії хмільних дворів",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mperiV-Nv8zVf4TxvB3ykBUKPbkCkmDQc"
   }
 ]
