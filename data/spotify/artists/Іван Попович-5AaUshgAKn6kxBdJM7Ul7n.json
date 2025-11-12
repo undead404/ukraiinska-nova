@@ -1517,5 +1517,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4oPxGW9Qxsf3Dl2xKjvjkA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-12T02:47:33.765Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Іван Попович"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d900dbcbcfafcabdf7660a7a",
+    "releaseDate": "2025-11-11",
+    "tags": [
+      "pop"
+    ],
+    "title": "Паморозь (Рімейк 2025)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6akAoSs9mqkoz3q09pxiYp"
   }
 ]
