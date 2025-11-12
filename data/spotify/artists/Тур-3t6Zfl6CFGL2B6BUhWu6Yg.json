@@ -322,6 +322,10 @@
       {
         "time": "2025-10-31T06:23:31.978Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-12T06:23:59.259Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -357,5 +361,29 @@
     "totalTracks": 10,
     "type": "album",
     "url": "https://open.spotify.com/album/5otNPbRmzQx0i3YMRc8iH3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-12T06:23:59.259Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Тур",
+      "James Hot"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731cbbdabcef0f5a4918258f9e",
+    "releaseDate": "2025-10-31",
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "underground hip-hop"
+    ],
+    "title": "Піксель",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6EzK7BiGGES59jCucxBQZN"
   }
 ]
