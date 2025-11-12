@@ -623,5 +623,27 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/753dJ6HKbCIaKZAnkm7yJb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-12T08:29:40.914Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "To Eternity"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e35ce6b29e6a02c027a2f841",
+    "releaseDate": "2021-09-03",
+    "tags": [
+      "indie pop",
+      "pop"
+    ],
+    "title": "Confused",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2NeRnIhyN8alTxvzFtRM1g"
   }
 ]
