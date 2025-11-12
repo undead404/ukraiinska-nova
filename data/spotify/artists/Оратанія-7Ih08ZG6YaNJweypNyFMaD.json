@@ -64,5 +64,27 @@
     "totalTracks": 14,
     "type": "album",
     "url": "https://open.spotify.com/album/4YEFgHP0WvFSDYiWenAJCJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-12T03:36:20.832Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Оратанія"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730470b6fa86233a8766cdf9eb",
+    "releaseDate": "2025-11-11",
+    "tags": [
+      "rock",
+      "pop punk"
+    ],
+    "title": "Два Гарбуза",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/36xfajnpuxaCRkGn3fI8cG"
   }
 ]
