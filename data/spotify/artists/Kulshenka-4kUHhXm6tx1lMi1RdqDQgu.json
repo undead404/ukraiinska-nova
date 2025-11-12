@@ -532,6 +532,10 @@
       {
         "time": "2025-11-09T15:24:00.729Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-12T15:27:13.437Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -540,6 +544,27 @@
     ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27381449d1d2b6ece460709f902",
+    "releaseDate": "2025-11-06",
+    "tags": [
+      "female vocalists"
+    ],
+    "title": "Листопад",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/56C9fIcZNT5tAfFJrVjpSO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-12T15:27:13.437Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kulshenka"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e256127d7efa38efee850d50",
     "releaseDate": "2025-11-06",
     "tags": [
       "female vocalists"
