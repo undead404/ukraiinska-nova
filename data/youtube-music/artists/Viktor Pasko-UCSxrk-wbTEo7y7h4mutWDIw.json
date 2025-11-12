@@ -245,5 +245,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_liW5K2Jg-OHrIWORfeMcI-7uzbHes-8hI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-12T04:51:16.177Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Viktor Pasko"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/HR-hKPlRKG_1Ro8HNcDsRv8K0REUSjhAgAeTMrQhDm3oC-CPOcrVrMg-SUoq-ZWiqppVAYQ-SqOKSZ8=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Adrenalina",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mR0InwTGHB9AWrk4Rv4Q8x4XpnFgCZynQ"
   }
 ]
