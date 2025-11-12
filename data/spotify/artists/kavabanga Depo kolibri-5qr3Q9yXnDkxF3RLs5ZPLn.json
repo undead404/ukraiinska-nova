@@ -2806,5 +2806,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4n4cjxr5a8HzAnyhzv25EI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-12T12:28:42.024Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "kavabanga Depo kolibri"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27309c4e839df5cf27ac9571abe",
+    "releaseDate": "2025-11-12",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Вальс",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4Lm5Vnc3KLPv2bP2TN8MOs"
   }
 ]
