@@ -1000,5 +1000,26 @@
     "totalTracks": 8,
     "type": "single",
     "url": "https://open.spotify.com/album/1NVoAzJ434uPAb60poYq0C"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-12T11:25:17.901Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Hidden Element"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d897a90f4b93ff11396b73cf",
+    "releaseDate": "2025-11-12",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Live at Brave!Factory 2025",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4FGYOkpLA3R60D0QOSJ9fD"
   }
 ]

@@ -554,5 +554,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0GM5h6BNoQm6garAtev6ZC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-12T11:21:07.965Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Schmalgauzen",
+      "Маша Кондратенко"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fdefe7c805852fa88ebe4688",
+    "releaseDate": "2025-08-22",
+    "tags": [
+      "cabaret",
+      "pop"
+    ],
+    "title": "Судно Коельо",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6Ay22jXS9Sb1cu4Iq8qm43"
   }
 ]
