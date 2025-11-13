@@ -445,5 +445,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0rfrEanyvh6nV9TmA2012S"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-13T15:28:17.298Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Krouf",
+      "Smillan"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b8edd73062d6a8aee01049c0",
+    "releaseDate": "2025-11-13",
+    "tags": [],
+    "title": "Без отрути",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6hJhRTdJxFylw37TsPu0Ek"
   }
 ]
