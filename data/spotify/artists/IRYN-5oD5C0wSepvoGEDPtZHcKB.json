@@ -446,5 +446,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3Bwo9hTzKYSIXa7oxu5Opg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-13T05:24:31.021Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "IRYN"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d16bc3695a8701e43dc6e37f",
+    "releaseDate": "2025-11-13",
+    "tags": [
+      "pop",
+      "rnb"
+    ],
+    "title": "наша тиша",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1MaBs0fTUBtTtyVHitAjNn"
   }
 ]
