@@ -183,5 +183,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3sMjIdv6z4CwDineihBTFB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-13T22:21:37.316Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Руслан Горовий",
+      "Людмила Горова"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27309ac71055da9afcd76dcab54",
+    "releaseDate": "2025-11-14",
+    "tags": [
+      "neofolk"
+    ],
+    "title": "Давай, щоб не я, давай, щоб не ти",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6lIFdmwzx54rA4p6XIv4ug"
   }
 ]

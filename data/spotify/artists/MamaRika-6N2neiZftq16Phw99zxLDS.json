@@ -855,13 +855,17 @@
       {
         "time": "2025-10-29T22:24:18.592Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-11-13T22:25:05.600Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "MamaRika",
       "MALS"
     ],
-    "artistsPopularity": 50,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736bc225596bd250a1a075434c",
     "releaseDate": "2018-06-27",
     "tags": [
