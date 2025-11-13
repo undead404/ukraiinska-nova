@@ -1475,5 +1475,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1Mcp7pE3DSPGQeGODtc0ky"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-13T17:23:23.845Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "alyona alyona",
+      "STEBLYUK",
+      "МУВ ДО НАС"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730420033abc175d9b3651c744",
+    "releaseDate": "2025-11-13",
+    "tags": [
+      "rap",
+      "Hip-Hop"
+    ],
+    "title": "Станція Осінь",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5JoiTgG7dob8GUTTHC5FbG"
   }
 ]
