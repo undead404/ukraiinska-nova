@@ -800,5 +800,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/19t7TpX1w9qkv5HzjBugbi"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-13T08:22:47.852Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vova Cigan"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730d963e53dd8a9a58f989a14d",
+    "releaseDate": "2025-11-13",
+    "tags": [],
+    "title": "Хованки",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2b9mOq4l7D1CMOsZipiAYl"
   }
 ]

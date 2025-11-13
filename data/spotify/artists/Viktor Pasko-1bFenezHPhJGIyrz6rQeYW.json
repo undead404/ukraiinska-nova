@@ -399,5 +399,24 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/1awWY6k4zIIlky6uo1vw2d"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-13T08:29:33.149Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Viktor Pasko"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273586aadcdb4223f95953440d0",
+    "releaseDate": "2025-11-11",
+    "tags": [],
+    "title": "Adrenalina",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/07otzJ278oDDogOaGpEK0C"
   }
 ]
