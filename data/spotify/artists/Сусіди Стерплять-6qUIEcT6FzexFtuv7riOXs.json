@@ -650,5 +650,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/76yUkidcjXhLauSeSJRHbK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-13T19:21:54.857Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Сусіди Стерплять"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730e45b18b21fb8596efff6e55",
+    "releaseDate": "2025-11-13",
+    "tags": [
+      "alternative rock",
+      "indie rock",
+      "Lo-Fi"
+    ],
+    "title": "Космос очей твоїх",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6XIUuNu4mlIPQvnI3y2n51"
   }
 ]
