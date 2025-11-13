@@ -613,5 +613,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6yH93pVayoUmim6pVdkByP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-13T23:24:36.797Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BRYKULETS"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27363cef8273cab578493a9578e",
+    "releaseDate": "2025-11-13",
+    "tags": [
+      "funk",
+      "pop",
+      "rap",
+      "trap"
+    ],
+    "title": "Amore porfavor",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6pH2hPmLjNE5OdP2ZKIYHV"
   }
 ]
