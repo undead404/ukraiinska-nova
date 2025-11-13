@@ -293,5 +293,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/78Y4zSlYCjP5P2nuBYKtQ0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-13T14:28:51.962Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kolaba",
+      "VAHA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738aef3097a315bc21c3e5a7c6",
+    "releaseDate": "2025-11-13",
+    "tags": [],
+    "title": "Саме Ти",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5VCl8jWH1MFrusbBOlNNhm"
   }
 ]

@@ -1507,5 +1507,30 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2ZwikruczUsw9UzZr2Z4MQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-13T14:24:42.143Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KALUSH",
+      "Markos"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f279db9bf677923a636018af",
+    "releaseDate": "2025-11-12",
+    "tags": [
+      "electronic",
+      "rap",
+      "trance",
+      "netherlands"
+    ],
+    "title": "Над дніпром",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2uiYrPXqnBiCwUza4xdfAn"
   }
 ]
