@@ -796,5 +796,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kKKI8xb5P5z0hC0QZ4p7alTSkzBj9YdQ4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-13T21:46:42.952Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kolaba"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/Uf81y8sqm1B2Uh-UD-BlSu9-qOADuXsyTSRP7BJK-_3SyqIU1DUq6iQf-8DnO9TJpS1LS5RnD2qbPXJT=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Саме Ти",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k671lG7xmUxZ12jRVK-iMCh5YiiZMz74A"
   }
 ]
