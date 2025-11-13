@@ -512,5 +512,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/32BE4EaSBfk5McC9Z9SKAE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-13T20:23:59.333Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Юля Юріна"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731fe2e8ef8d59fb78f766cb02",
+    "releaseDate": "2025-11-13",
+    "tags": [
+      "folk"
+    ],
+    "title": "З мене досить",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6VdAnbSa0J1vUprrARwJxs"
   }
 ]
