@@ -881,5 +881,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2YvHmjclzWMEGYEJt7tS9E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-13T18:21:22.380Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Білий Бо"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27319d9bb7beb587350f39a3639",
+    "releaseDate": "2025-11-13",
+    "tags": [],
+    "title": "Один день",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3rdbcVuinUX0sepAgfDttd"
   }
 ]
