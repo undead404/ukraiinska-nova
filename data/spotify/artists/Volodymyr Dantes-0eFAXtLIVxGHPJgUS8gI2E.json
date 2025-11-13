@@ -657,5 +657,26 @@
     "totalTracks": 6,
     "type": "single",
     "url": "https://open.spotify.com/album/4B8hduuQSHNI4Y1Xd4naDL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-13T01:58:36.149Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Volodymyr Dantes"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732e1dc5545394155a31e29823",
+    "releaseDate": "2025-11-12",
+    "tags": [
+      "pop"
+    ],
+    "title": "ЧОМУ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0siaXl6Hg3rOEI1CESKefY"
   }
 ]
