@@ -714,5 +714,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kLEeYk6-Iy4K79KgKEU4be66XqYIH66Sc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-13T14:47:52.355Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "IRYN"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/GXIbOAqGnekrweJDGQDW7d3V5_WEcgroKwGvKxgd2orPZTFWKNaSp2tr3C0r8jVfjW3mDAF151K0tPEK=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop",
+      "rnb"
+    ],
+    "title": "наша тиша",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k2UjEOzmPHM3yPWNc6fhWdPpGEMAZcAno"
   }
 ]
