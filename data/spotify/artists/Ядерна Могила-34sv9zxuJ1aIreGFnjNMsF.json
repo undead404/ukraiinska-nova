@@ -395,5 +395,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0AZc05RloOnZ3H0ISCIbIa"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-13T12:25:03.605Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ядерна Могила",
+      "Леся Бриних"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735e841e30bc8998dafebf441f",
+    "releaseDate": "2025-11-13",
+    "tags": [
+      "rap"
+    ],
+    "title": "Вирій",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4POYE1xOSpNPj6SpJIyupR"
   }
 ]
