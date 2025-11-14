@@ -545,5 +545,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/10Hjjjgw0xFva14c2vc24U"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T00:40:44.708Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Кімната Гретхен"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dcb7ce32881fcbaf049a7dd3",
+    "releaseDate": "2025-11-13",
+    "tags": [
+      "Disco"
+    ],
+    "title": "Пісня Про Маленький Донат",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/21NKUNySdBLlVpZh8xmrUL"
   }
 ]
