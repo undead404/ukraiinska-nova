@@ -508,5 +508,26 @@
     "totalTracks": 9,
     "type": "album",
     "url": "https://open.spotify.com/album/4ge3hWzlFl2RpIGqXOvNDJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T20:26:14.394Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DakhaBrakha"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273673ccf1bf8a279a07caa1820",
+    "releaseDate": "2025-11-14",
+    "tags": [
+      "folk"
+    ],
+    "title": "Sonnet - Pluribus Edit (from \"Pluribus\")",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2MuCMPbyn7TrAxzOmznsuJ"
   }
 ]
