@@ -395,5 +395,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5e1PQfdeKLeTtCKcGZLbFk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T16:26:00.131Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NASTEISHA",
+      "INSOMNIA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273697771f468627a5d13a85ede",
+    "releaseDate": "2025-11-14",
+    "tags": [
+      "psytrance",
+      "thrash metal"
+    ],
+    "title": "ти не сама.",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7ugjaq3Wb3Bb8By0afubxv"
   }
 ]

@@ -425,5 +425,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4QKKOtS6SsnjZ1qGiYdnOY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T16:29:27.728Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vallhard",
+      "TORNADA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27354b3108f0640931cb4562dd3",
+    "releaseDate": "2025-11-14",
+    "tags": [],
+    "title": "Paru Bochok V.I.P.",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2t432b7EFo6d89SygItyYS"
   }
 ]
