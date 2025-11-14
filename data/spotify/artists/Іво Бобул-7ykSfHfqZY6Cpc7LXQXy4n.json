@@ -844,5 +844,26 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/4Wm25T1sqXcsa5RSDjGhfX"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T18:23:03.732Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Іво Бобул"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735ca79b6a81879ce8c74219c6",
+    "releaseDate": "2025-11-14",
+    "tags": [
+      "pop"
+    ],
+    "title": "Зоряна любов",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0Zl7dXK9UlXcY7XiUiIuJf"
   }
 ]

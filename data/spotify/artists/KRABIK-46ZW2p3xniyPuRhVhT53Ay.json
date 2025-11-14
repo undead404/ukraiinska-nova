@@ -227,5 +227,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0aTpQNfvce2PffK0PO4y2V"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T18:30:58.132Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "XSERGO",
+      "KRABIK"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738c0c25f29b59d66391d31509",
+    "releaseDate": "2025-11-14",
+    "tags": [
+      "male vocalists",
+      "pop"
+    ],
+    "title": "Дівчина ніч",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7rC77GlSNHELbg5Cctrnrd"
   }
 ]

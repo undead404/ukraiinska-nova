@@ -134,5 +134,24 @@
     "totalTracks": 10,
     "type": "album",
     "url": "https://open.spotify.com/album/0Wqr6UM9v061s3Odq2kDx4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T18:27:53.808Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DAMNITSKYI"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273710aa2b0f43ffc9980eeeb13",
+    "releaseDate": "2025-11-13",
+    "tags": [],
+    "title": "Нірвана",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/58n8Pg2KIy0TBg74XNuG3h"
   }
 ]
