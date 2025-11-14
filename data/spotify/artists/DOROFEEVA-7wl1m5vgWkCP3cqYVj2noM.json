@@ -753,5 +753,26 @@
     "totalTracks": 15,
     "type": "album",
     "url": "https://open.spotify.com/album/5mM1lTjE0J6uIqqE9TmCs9"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T04:24:43.243Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DOROFEEVA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d7687afc6721c42889033417",
+    "releaseDate": "2025-11-13",
+    "tags": [
+      "pop"
+    ],
+    "title": "Японія",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0kBKwloGNP7QnCbHnFiXmx"
   }
 ]
