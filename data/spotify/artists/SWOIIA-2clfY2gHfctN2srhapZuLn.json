@@ -315,5 +315,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6EVUo79ozCRjwaHv0J0rz1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T11:27:34.007Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SWOIIA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369033905a7b96ec66aac556d",
+    "releaseDate": "2025-11-14",
+    "tags": [],
+    "title": "Досвід чи кара",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5AzGK8EkH0YLE8W8GP6H0K"
   }
 ]

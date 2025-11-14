@@ -422,5 +422,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6AsdzlCekUn5d5nTkJyNjO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T11:27:14.693Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SUROV"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a157db79c5d247ca236b8a0c",
+    "releaseDate": "2025-11-13",
+    "tags": [],
+    "title": "Все буде добре",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1iFVhvM0dKEk1aATibzpVp"
   }
 ]
