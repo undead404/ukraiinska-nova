@@ -142,5 +142,26 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/0D2IAnFqk1Kvltv09fhHf0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T15:21:34.229Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Погань"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b9dfafb40de2ef48010ad6b2",
+    "releaseDate": "2025-11-14",
+    "tags": [
+      "pagan black metal"
+    ],
+    "title": "Чаклунський",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/08lgdAs46lK25fbzMOJLVp"
   }
 ]
