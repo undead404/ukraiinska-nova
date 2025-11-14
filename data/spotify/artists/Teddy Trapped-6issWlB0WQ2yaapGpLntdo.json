@@ -365,5 +365,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6HbazUp4aTEUi8N3HHRuIL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T06:28:35.728Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Teddy Trapped"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ebf71dff3e77e15b6bf4768e",
+    "releaseDate": "2025-11-14",
+    "tags": [
+      "pop rap"
+    ],
+    "title": "can u warm me",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2sMfZA9ZuLbaJVqpkLAFi9"
   }
 ]
