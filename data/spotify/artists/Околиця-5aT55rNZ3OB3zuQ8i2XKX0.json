@@ -707,5 +707,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/10ulBB5vXCVm2iy1Enj5x7"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T14:20:58.957Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Околиця"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f965822ad02edbb3739aba27",
+    "releaseDate": "2025-11-14",
+    "tags": [
+      "dream pop",
+      "indie folk"
+    ],
+    "title": "любов моя",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2CmWjPgFsCkn7lCjAGXjVJ"
   }
 ]

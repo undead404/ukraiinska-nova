@@ -686,5 +686,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2b70DPXqHUQqATdwxlFI7m"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T14:25:50.469Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lost Gift"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f12bc7588841dd6c4945276",
+    "releaseDate": "2025-11-13",
+    "tags": [
+      "indie pop",
+      "indie rock",
+      "Lo-Fi"
+    ],
+    "title": "Мілфа на 100",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7kKAnHvpIFUlXPgtS9qIf0"
   }
 ]

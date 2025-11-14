@@ -567,5 +567,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7EtQTck4YqKkwrSjcNk5K8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T14:27:01.335Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ПРОКЛЯТИЙ ***",
+      "renie cares"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737b411d98412c55eee759ed2f",
+    "releaseDate": "2025-11-14",
+    "tags": [
+      "electropop",
+      "indie pop",
+      "punk rock"
+    ],
+    "title": "Метелик",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5J8ux3R6Fukibey4zrnoVC"
   }
 ]

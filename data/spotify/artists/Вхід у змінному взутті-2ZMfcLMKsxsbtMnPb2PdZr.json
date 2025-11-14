@@ -231,5 +231,26 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/2yJiwxHOLKtgJf9dUhhIci"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T14:20:15.826Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Вхід у змінному взутті"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733cc64c75aa5a2891affee6c4",
+    "releaseDate": "2025-11-14",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "ATLAS BLOCKBASTER MALL 2025 (Live)",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3I2hjls1ZTdppZF5Qwe2nC"
   }
 ]
