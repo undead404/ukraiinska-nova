@@ -403,5 +403,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lIgDRPaQ7pQ_3O8eLlvN43Bah7u0iyt2c"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T15:49:19.324Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vsivdoma"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/K6UOMsBX5DpY3n8nCNY0yNgJO0fr9k38nYc97hDWxJc7x_O2QBRZbMi4Asn3OVN6Nv1FfT9W84Sl9tu5Kg=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Гори",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n1wD_uTN1SkH-eaH4TPez8MjMtnpWxM8w"
   }
 ]
