@@ -226,5 +226,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n-ovt8CLV0sU-RwB2qIEdZiTQkEKiKr30"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T21:46:27.127Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KRABIK"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/7U7RWrG2fXO3Mt0K6Qn1NKdgEWvV1fWlDL-lbT98oSpNA8OP-ahVz_6sMfA77ugfnkVRmLEyFnbVx-TR=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Дівчина ніч",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nxnJ_-XzVlUW0RGB-nzEK2TI0dbG5RMbw"
   }
 ]

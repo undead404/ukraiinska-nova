@@ -2523,6 +2523,10 @@
       {
         "time": "2025-10-06T21:47:45.398Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-14T21:47:30.623Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2836,5 +2840,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_liDZX4FS2leRpPX9RoM_3FI630T-tLJt4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T21:47:30.624Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/1DG50xT02F6-5Nc4kbj_YDeMzs79tuj4dKMB_-ka4U0dh1VGg5QiuQ6XYlY0ts1NTJMakTUDHfwhlOP6=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Mine in a instant",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n4zqts0TvMufKrCysX6bALgL1JJgOl3Lg"
   }
 ]

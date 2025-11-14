@@ -628,5 +628,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n5-RVJE4PRJTdRlu8HX090ESGF-06f5To"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T21:45:45.194Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BaWN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/V21fapp70GI1pUpqZ3NvSfOalxyyNgbzvMnkiIqGfCUV3Rmimtserz9c-SRZ_SD2BLf_AZr4TTgyGPm5=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Забуття/Oblivion",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mq6l7ymA_lg4YGPUWQcISfg53Z1dimGHg"
   }
 ]
