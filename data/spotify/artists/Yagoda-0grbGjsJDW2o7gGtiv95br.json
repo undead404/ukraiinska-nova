@@ -302,6 +302,10 @@
       {
         "time": "2025-09-17T09:24:26.023Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-14T09:28:18.708Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -408,6 +412,10 @@
       {
         "time": "2025-09-17T09:24:26.023Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-14T09:28:18.708Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -828,12 +836,16 @@
       {
         "time": "2025-10-04T09:25:10.657Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-11-14T09:28:18.708Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Yagoda"
     ],
-    "artistsPopularity": 2,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a524049e751ca8ca99fb14e8",
     "releaseDate": "2023-03-23",
     "tags": [],
@@ -851,12 +863,16 @@
       {
         "time": "2025-10-04T09:25:10.657Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-11-14T09:28:18.708Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Yagoda"
     ],
-    "artistsPopularity": 2,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27317d6e34a9b700db95f350903",
     "releaseDate": "2022-02-18",
     "tags": [],
@@ -864,5 +880,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5lA0QnTJsl4y19oCUBw93U"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T09:28:18.709Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yagoda"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739592e366b6dbf644c08952d9",
+    "releaseDate": "2025-11-14",
+    "tags": [
+      "female vocalists",
+      "pop"
+    ],
+    "title": "А я до тебе",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7J1A6kR3ml7dkmYErZao0h"
   }
 ]
