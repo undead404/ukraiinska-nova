@@ -284,5 +284,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0pcA7fDfD9OPzHYN9eKZjI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T23:29:11.913Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vsivdoma"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738a6d869de31fb25824043571",
+    "releaseDate": "2025-11-14",
+    "tags": [],
+    "title": "Гори",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2WQC9yVctoXp4xoZbS9Pcj"
   }
 ]

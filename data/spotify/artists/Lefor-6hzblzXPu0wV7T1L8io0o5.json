@@ -931,5 +931,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/68xclN199t5X8fIoNbOP2I"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T23:25:49.917Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lefor"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733e0363b2955d6298465871f1",
+    "releaseDate": "2025-11-14",
+    "tags": [
+      "rap"
+    ],
+    "title": "Сварки",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7nbmycInQHnexAPIKILy9d"
   }
 ]

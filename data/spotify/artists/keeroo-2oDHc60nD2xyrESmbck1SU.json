@@ -1119,5 +1119,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6LAaYFa7ZjpIrZ6o7FAC9S"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T23:25:20.906Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "keeroo"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f100148f2e70fd46393c60ef",
+    "releaseDate": "2025-11-14",
+    "tags": [
+      "Lo-Fi"
+    ],
+    "title": "гіпноз",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3yIL96sOO632YmxxDf3QSZ"
   }
 ]
