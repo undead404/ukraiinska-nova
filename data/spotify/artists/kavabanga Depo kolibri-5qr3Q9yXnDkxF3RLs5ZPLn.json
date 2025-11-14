@@ -2827,5 +2827,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4Lm5Vnc3KLPv2bP2TN8MOs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T12:28:49.028Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "kavabanga Depo kolibri"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b963121bf4656194915eb165",
+    "releaseDate": "2025-11-10",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Love, like autumn",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4Sh2gujYW47nE2voqvuQfb"
   }
 ]

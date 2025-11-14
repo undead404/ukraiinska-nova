@@ -1729,5 +1729,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3erK4fb3K4gpd2OeuXyyDl"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T12:27:24.212Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "drwncvnt"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a09ac8d786a3f488608d75e2",
+    "releaseDate": "2025-11-14",
+    "tags": [
+      "electronic"
+    ],
+    "title": "monster//how should i feel",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4iFth2zkWARKZwCNCFK9x1"
   }
 ]

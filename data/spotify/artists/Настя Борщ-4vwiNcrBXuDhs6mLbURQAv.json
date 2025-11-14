@@ -99,5 +99,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7fApOTrDhAWyqNPHPjY0Yr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T12:23:17.928Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Настя Борщ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273caea3c9e0d3e1cfad77f3ad3",
+    "releaseDate": "2025-11-13",
+    "tags": [],
+    "title": "Чупа Чупс",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7uGsQuikDNuOSuJJijzkJP"
   }
 ]
