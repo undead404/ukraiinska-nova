@@ -802,5 +802,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_npOdIoOgrQDWcJzG7hJUB1Ugk4z_rEB6o"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T13:00:15.931Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alena Omargalieva"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/LZcJUnlIRo94Hrk5Rq8mqvbhNvNAykKe3NPGHU7B7k4r5YIsK_GHaZ-qU3KRJjbqLVLFouqEpYGR1dS_=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop"
+    ],
+    "title": "Не Пʼяна - Закохана (за участі ансамблю «Кралиця»)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mycGXOv7qgMuuKfjtnLqybdG1_ze0G9Cc"
   }
 ]
