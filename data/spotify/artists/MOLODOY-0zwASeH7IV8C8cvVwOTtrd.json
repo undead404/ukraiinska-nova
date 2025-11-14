@@ -599,5 +599,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6BsAyvYVKsqQyKyhnzGr1L"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T13:29:01.253Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MOLODOY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273678144cc5ff7bfcfdc98bab1",
+    "releaseDate": "2025-11-14",
+    "tags": [
+      "rap"
+    ],
+    "title": "Плани",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5wzWoPv4Fjk2DUsxPVBVkc"
   }
 ]

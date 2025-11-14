@@ -834,5 +834,26 @@
     "totalTracks": 7,
     "type": "album",
     "url": "https://open.spotify.com/album/2bmLw9BXyXyjJGPZ88zpOX"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T13:28:08.553Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kostiuchenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734abe4d3422a309ad93c8ba78",
+    "releaseDate": "2025-11-14",
+    "tags": [
+      "trap"
+    ],
+    "title": "тінь",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4GGGPuNoKyw4jo2CmW7qHr"
   }
 ]

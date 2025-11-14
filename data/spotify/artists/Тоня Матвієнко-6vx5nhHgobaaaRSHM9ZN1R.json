@@ -1026,5 +1026,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2xhm9JJRBvjRaT3OEmygZa"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T13:25:41.196Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Тоня Матвієнко"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27349fee2b134b9b15c5b36b2bc",
+    "releaseDate": "2025-11-14",
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "title": "Злива і полум'я",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6ll72CbwZDKwxOh3vTU7fz"
   }
 ]

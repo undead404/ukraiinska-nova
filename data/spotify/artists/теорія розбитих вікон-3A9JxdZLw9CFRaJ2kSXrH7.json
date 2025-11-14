@@ -275,5 +275,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/61gSsWBKw3sR15k734Q1mp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T13:25:24.617Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "теорія розбитих вікон"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738e21ab86dfd435ccc125e6c8",
+    "releaseDate": "2025-11-14",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "У тіні параної",
+    "totalTracks": 14,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7la654CI5lJKPlYYlrDelu"
   }
 ]
