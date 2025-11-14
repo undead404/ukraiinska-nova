@@ -297,5 +297,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5oiTuKDA5jOndRGQjLvi4E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T21:25:58.118Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "lesfleures"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273484c2ff6ea7c5a3a458831b9",
+    "releaseDate": "2025-11-14",
+    "tags": [
+      "indie pop",
+      "rap"
+    ],
+    "title": "Кохання на стелі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4Lp7PaycGqZ2Zd6q1Vlh0g"
   }
 ]

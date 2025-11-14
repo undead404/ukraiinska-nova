@@ -841,5 +841,28 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/6ZY3T2ishLnM5QcfzKDvjd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T21:26:52.271Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Grungik",
+      "Noise Pareidolia"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27366e763365c73805ea2cb9fcf",
+    "releaseDate": "2025-11-14",
+    "tags": [
+      "alternative rock",
+      "rock"
+    ],
+    "title": "Breach",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/34Ks58eltvpFdtlFBMbi3n"
   }
 ]
