@@ -292,5 +292,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nXbbVb6vmSruUENM9pqgUL39w3IikCsMQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T05:46:08.867Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АЗІЗА"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/FTylmKH9DVUSQnlanq9YypYAnQ6UqUXAlX3u0O0ZFgAWDC1OD7b_9IAyMSuOWFAIfEuiMoP4Si73ORwh=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop"
+    ],
+    "title": "Подих",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lTjzmUixSdveUnx1o1hAzvt8lN1KkoIDg"
   }
 ]

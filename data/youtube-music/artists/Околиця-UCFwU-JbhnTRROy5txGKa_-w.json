@@ -649,5 +649,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nZvlwKsE6VTrI9rk0Zlq0tlBjQiiNwLXE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T05:46:33.563Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Околиця"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/7eg9cxmqd8tWYdsre1poJP7hcZgCtxKkAYsQqT93Wh01NEu6hBXOY5Q5msblfaPWDNM62DSmJ6KEyS-GWQ=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "dream pop",
+      "indie folk"
+    ],
+    "title": "любов моя",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lzEygrqEyiTgOMNoxjQR_dT92cZrke5kU"
   }
 ]
