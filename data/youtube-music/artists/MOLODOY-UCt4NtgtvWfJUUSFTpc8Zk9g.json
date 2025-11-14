@@ -527,5 +527,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nURaYlpdShwylywZt7rFrQCvOfTh0mx4k"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T23:46:59.637Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MOLODOY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/nmiNdmgctJtCoFn6GGywKAFQLIn9IzKVsGwMpMGkoT4w7lqugYaW_R8MSQ0X8b0O408LL4W3sSm1ncbb3A=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap"
+    ],
+    "title": "Плани",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nwDf2vy7ylD6j2OmxblCBSUiYwvj4MiQA"
   }
 ]
