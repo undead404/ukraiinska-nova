@@ -262,5 +262,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2SDBcQRodOb5Vjc2dLPh15"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T17:31:15.564Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Лівінстон"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27301d872ba728e70aa5c00e680",
+    "releaseDate": "2025-11-14",
+    "tags": [
+      "acoustic",
+      "indie pop"
+    ],
+    "title": "Де ніч торкається води",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4Uhb0GxE8VPmSy6s8wuIuq"
   }
 ]

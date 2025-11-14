@@ -1294,5 +1294,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/09PSVJEjEZRlL6TM6BVutd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T17:20:02.962Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АСАФАТОV"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27366b9e267f27279a2d342842e",
+    "releaseDate": "2025-11-13",
+    "tags": [
+      "pop"
+    ],
+    "title": "Сади Семіраміди",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6YB56Zk7RT9hvLqCHaromm"
   }
 ]
