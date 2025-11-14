@@ -286,5 +286,26 @@
     "totalTracks": 15,
     "type": "album",
     "url": "https://open.spotify.com/album/5tQPio57395KRxWzBguYIx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T19:25:19.226Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CRUSHGLAD"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c96f1bfbb2dbd63a1a82dace",
+    "releaseDate": "2025-11-14",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "Після цього ми не зможемо",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1uXaGHvHbCqjGkN3yXnJWU"
   }
 ]

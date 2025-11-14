@@ -726,5 +726,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5pI8JYpBXZsB5oxIt2rPbV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T19:30:15.674Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Patsyki Z Franeka",
+      "iPunkz"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27345faccc12e6462cf98f3db5f",
+    "releaseDate": "2025-11-14",
+    "tags": [
+      "pop",
+      "pop rap"
+    ],
+    "title": "Серце",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4W2ektROTyGe1Sh8WXjdsU"
   }
 ]
