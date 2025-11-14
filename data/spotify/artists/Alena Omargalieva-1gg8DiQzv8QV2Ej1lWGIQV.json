@@ -759,5 +759,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3LYf26FM7A3VyzNHdWWpXv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T05:22:17.346Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alena Omargalieva"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c84ebb523f01ae60be355e90",
+    "releaseDate": "2025-11-14",
+    "tags": [
+      "pop"
+    ],
+    "title": "Не Пʼяна - Закохана (за участі ансамблю «Кралиця»)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2Y0mXdZdGWGWrKSdLWmPJ2"
   }
 ]
