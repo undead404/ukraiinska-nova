@@ -927,5 +927,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/34SrvQsujsof0dTDpyzcxU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T01:51:27.391Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "НКНКТ"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273440bd58f1b2e15055ee97dd0",
+    "releaseDate": "2025-11-13",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Ти себе кохаєш",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4oVteYaCKYOwQhiZcVY7cX"
   }
 ]

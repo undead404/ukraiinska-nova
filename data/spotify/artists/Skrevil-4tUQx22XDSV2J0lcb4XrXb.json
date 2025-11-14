@@ -135,5 +135,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7Iuv6KthHvybknFAuOxCXR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T01:57:18.186Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Skrevil"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737eb2ac8cb91643e98b78ab96",
+    "releaseDate": "2025-11-13",
+    "tags": [],
+    "title": "Red Night",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1EIXCEdQuFo5PhZRWEBne7"
   }
 ]
