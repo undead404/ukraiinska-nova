@@ -296,5 +296,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1YA9TpRuRxXbxzwHDe2XEQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T08:20:54.045Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АЗІЗА"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739699d8b6628ae0bba640ff52",
+    "releaseDate": "2025-11-14",
+    "tags": [
+      "pop"
+    ],
+    "title": "Подих",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/73MEpLMYZ0SBzEuyDlx3EL"
   }
 ]
