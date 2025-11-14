@@ -1505,5 +1505,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3Roh9qC78q1ywlUJKp6Biz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T07:26:18.726Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "STAS AZARENKO"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27363557e1e59cf144ac9694fe5",
+    "releaseDate": "2025-11-14",
+    "tags": [
+      "rap"
+    ],
+    "title": "Нам Було 16",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7BkbKfdPWGVjbUDMCV8ySs"
   }
 ]
