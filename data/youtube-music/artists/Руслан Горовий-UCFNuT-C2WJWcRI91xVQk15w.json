@@ -250,5 +250,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m0ZyRAODrU508oXFKA7V0QAYLMpVnRHOQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T18:50:06.600Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Руслан Горовий"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/hfbwvTnxffOZSdoLdViWX5TPpRHBarznT8zLfTOKCqIy857tUU9wyCZo1rmeNE_dcU_vsRNX86_R7fl01A=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "neofolk"
+    ],
+    "title": "Давай, щоб не я, давай, щоб не ти",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lxEylneeJGene4P1KE56kqSWJY8bOgenc"
   }
 ]
