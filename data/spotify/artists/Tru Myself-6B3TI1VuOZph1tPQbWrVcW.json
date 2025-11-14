@@ -176,5 +176,29 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/5oHqqEvgXOSkTlTc6lUY03"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T10:30:13.561Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Tru Myself",
+      "YAMAMOTO"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e03823f8f843e7a8c4cef407",
+    "releaseDate": "2025-11-14",
+    "tags": [
+      "electronic",
+      "Hip-Hop",
+      "rap"
+    ],
+    "title": "Ода",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0QJi0JkNjE1216TIXCBA6F"
   }
 ]
