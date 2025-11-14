@@ -416,5 +416,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mPYVzQbNpTCxpqmULo8UqqgP5WTc0VymU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T04:49:57.398Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Smillan"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/6LHECBZbzg6qh0bFgTYpcZ0QEnlmJdTDULZy5_a9J4q0mvMt-mzilRlI0jIF0_-Ga8NNRG8R4WSfkuYPUw=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Без отрути",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_luN6kbUOr51v4Bj83xTad_lytC7EpqSSs"
   }
 ]
