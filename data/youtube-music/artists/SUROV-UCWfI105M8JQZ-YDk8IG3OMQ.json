@@ -359,5 +359,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_keoicOQfqqpUmc-vt74lT0XFYaB_CHSag"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T07:48:17.628Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SUROV"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/S_Kofg1B5gB7EKpRVXtJPiyJre0lGtgOiCVZkPEG2NPkRQ3VQLsWUPmS9BcFfi14YQHUQhpdKo1LH0rm=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Все буде добре",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nSoKxoIDQIpiHVcsTrNH8RuQpLeylMVqQ"
   }
 ]
