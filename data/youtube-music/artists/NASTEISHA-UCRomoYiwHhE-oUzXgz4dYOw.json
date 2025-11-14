@@ -283,5 +283,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lkKhVWjX3yTqPHKdYH94avbhvw--sPVew"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T19:46:38.345Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NASTEISHA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/IJNIeScuXbWpHYz-IBfIG-E303WEPItM50WJdhL_FeQ0FtO60de9M2ryNSoQzQbINPLZtbkJ3ELydI_a=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "ти не сама.",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nLT-Jv5inrQz1PKaq1tR_DY8GcbkldIr4"
   }
 ]

@@ -340,5 +340,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m5BI7Q3uSRDlyp9g5ytecJdH_5nr1a-hg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-14T19:47:14.250Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Teddy Trapped"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/OUrARoipK7oj4CQ1LTjh3VnUoOO3geW3EFBXSQZxoofhicY1DPg2Td_R4MR3wV7MlJP5q91n5yykVRK3Vw=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop rap"
+    ],
+    "title": "can u warm me",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nzaYoBJVn7diX5mzPkeRd7TKMIZaBwdf4"
   }
 ]
