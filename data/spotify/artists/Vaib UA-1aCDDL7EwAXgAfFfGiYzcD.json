@@ -361,5 +361,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4vjkfIprdsA31ki7hNZy4S"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-15T11:27:44.620Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vaib UA"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733b67bfcb707a052360c70335",
+    "releaseDate": "2025-11-15",
+    "tags": [],
+    "title": "Вечір тане у очах",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/04xkvai6fTh7b8v13Oibb0"
   }
 ]
