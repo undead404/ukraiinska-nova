@@ -321,5 +321,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_knp6BuajaSlCxR3zwLbOvz9sEZZD0dYaY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-15T16:49:12.023Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vaib UA"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://lh3.googleusercontent.com/EH2rseBQR2Xb9gfoRpIpHwVWXLPpa34nJKiqQptuUQFjQar4OmliHz5KpGtB5cn1lvNtkXoUUEkjNALtZg=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Вечір тане у очах (feat. Parfeniuk)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kiywPMGETLd19LJ43Mc_2vkuBz7mz7_Ko"
   }
 ]
