@@ -707,5 +707,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1xW1LyaFhwjyEK9GDVXURz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-15T04:23:08.359Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BaWN",
+      "SARCOMA HORROR"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27341508fb38264f999d24e7458",
+    "releaseDate": "2025-11-14",
+    "tags": [
+      "post-punk",
+      "electronic",
+      "witch house"
+    ],
+    "title": "Забуття/Oblivion",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1ZYrzwtqMv7I79Kvks7Upm"
   }
 ]
