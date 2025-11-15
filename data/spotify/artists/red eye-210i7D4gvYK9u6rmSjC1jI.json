@@ -313,5 +313,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2mpjhQwmn2eKO9bjftk6KW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-15T00:44:00.529Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "red eye"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733afcff37436f1ddb4033efda",
+    "releaseDate": "2025-10-17",
+    "tags": [
+      "stoner metal",
+      "doom metal"
+    ],
+    "title": "Чорне плаття",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/41NWl9sCP2OTQV76HHUqp2"
   }
 ]

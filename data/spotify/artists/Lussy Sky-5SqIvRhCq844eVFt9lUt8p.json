@@ -222,5 +222,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3VlXj4XXE6nZlu1YjNphJb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-15T00:43:05.543Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lussy Sky",
+      "Raks"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ff6bf230ea6ef21117efc88c",
+    "releaseDate": "2025-11-14",
+    "tags": [
+      "garage"
+    ],
+    "title": "Вольовий Дух",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7vNUWgK4k9avRIHHLrVtFZ"
   }
 ]

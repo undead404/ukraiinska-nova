@@ -1067,5 +1067,24 @@
     "totalTracks": 14,
     "type": "album",
     "url": "https://open.spotify.com/album/2jCBjMrNGgia4pPpHNOfyz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-15T00:42:02.477Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CHUPA 12"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273435e485dc516e163eeec5f5c",
+    "releaseDate": "2025-11-14",
+    "tags": [],
+    "title": "Типу",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4aieANiH9ikaMSRDAQdTb8"
   }
 ]

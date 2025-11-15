@@ -139,5 +139,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5kWOl1qPFWhLLajglzpLlh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-15T00:40:40.341Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Acid Mamba"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fac4e0fbb3086f64421a2b17",
+    "releaseDate": "2025-11-14",
+    "tags": [
+      "electronic",
+      "indie pop"
+    ],
+    "title": "тільки ніч",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5MOD95Q4jragoidQ0jn8kF"
   }
 ]

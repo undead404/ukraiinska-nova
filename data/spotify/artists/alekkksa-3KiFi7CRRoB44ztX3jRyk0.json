@@ -205,5 +205,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4pACikxCOJ1mI8wZaEp9zd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-15T00:40:44.245Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "alekkksa"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736d770e5931096fe1c164b649",
+    "releaseDate": "2025-11-14",
+    "tags": [
+      "indie pop",
+      "dream pop",
+      "Lo-Fi"
+    ],
+    "title": "щіт пост",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5LMfTP9hrSGgU7CbmCw9su"
   }
 ]
