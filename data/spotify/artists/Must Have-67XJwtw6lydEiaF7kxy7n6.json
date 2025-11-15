@@ -284,5 +284,26 @@
     "totalTracks": 6,
     "type": "single",
     "url": "https://open.spotify.com/album/3qNQm4aqEYRiBe8GPg52Jq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-15T13:27:24.918Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Must Have"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736e29258da683ca37cb28db92",
+    "releaseDate": "2025-11-14",
+    "tags": [
+      "Grunge"
+    ],
+    "title": "Seven Channels",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5vmYsmqXWZ4hcD3alEjjqu"
   }
 ]
