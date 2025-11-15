@@ -859,6 +859,10 @@
       {
         "time": "2025-11-13T22:25:05.600Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-15T22:23:47.684Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1307,5 +1311,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6MMt82eeUk4ogZe1kZi2dY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-15T22:23:47.684Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MamaRika"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fbf76f8b42a00b2c44305635",
+    "releaseDate": "2018-06-27",
+    "tags": [
+      "pop"
+    ],
+    "title": "Fayno (Summer Edit)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4bDsXFvoedLYM6DDJKEdik"
   }
 ]
