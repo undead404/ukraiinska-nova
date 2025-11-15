@@ -438,5 +438,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kvGy466e7Z7OG71MjpWHM0Hsy0uZSwVS8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-15T21:45:27.098Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Юрий Вольф-Вурдалак"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/xEW5FJgiMUvCCdTMFRtnZbY7xF3NhgHG50e85_juXw4s8Ibln0p9KSeLNwsmyJJMI-_oGh2ohjooxfwF=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rock",
+      "punk rock"
+    ],
+    "title": "Відпускай",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lmYaMwKJQhEUdss_YGeji66JluuME2GrI"
   }
 ]
