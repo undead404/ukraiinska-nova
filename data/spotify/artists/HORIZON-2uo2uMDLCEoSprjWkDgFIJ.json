@@ -1905,5 +1905,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3CXXfGRRpdch0IfHCYxl8g"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-15T03:35:30.228Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One",
+      "HORIZON"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731fd3747e9b1e4e595701e622",
+    "releaseDate": "2025-11-14",
+    "tags": [
+      "hardcore",
+      "rap",
+      "Stoner Rock"
+    ],
+    "title": "Baby Bae",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/18ZQP3ZJzNM1fYwrJTWznd"
   }
 ]

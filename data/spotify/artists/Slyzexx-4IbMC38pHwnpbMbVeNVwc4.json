@@ -3572,5 +3572,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2blvnkkMoc2wSj5pBVxjtU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-15T03:39:10.383Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27371db2c85b25b2ec119a1989a",
+    "releaseDate": "2025-11-14",
+    "tags": [],
+    "title": "Mine in a instant",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0DLJCeaQp7ki8Nzo4WndBN"
   }
 ]
