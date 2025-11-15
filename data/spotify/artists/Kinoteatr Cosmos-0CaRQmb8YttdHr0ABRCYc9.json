@@ -245,5 +245,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0dndqBs02b2DFNb90KVUnD"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-15T15:24:27.394Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kinoteatr Cosmos"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730b97a7827efd75b81c293f5c",
+    "releaseDate": "2025-11-15",
+    "tags": [
+      "rock"
+    ],
+    "title": "Голова що болить",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4BIj1BHO7smEn9JsynKwQY"
   }
 ]
