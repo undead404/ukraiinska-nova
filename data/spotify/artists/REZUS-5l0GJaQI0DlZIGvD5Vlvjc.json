@@ -485,5 +485,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/24COCWIfgTvwpnAdhLt21h"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-15T21:25:34.396Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lomiy",
+      "REZUS"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27378d9f347ffd7cd60113c87b7",
+    "releaseDate": "2025-11-15",
+    "tags": [],
+    "title": "У цьому світі (Rezus Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0JzfTcPobsW8oDmmEhZF36"
   }
 ]
