@@ -188,5 +188,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2fHeJ1TDYRDKUwmUqrkRPR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-15T09:21:57.843Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Яка існуЄ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273374ce75613696e2630807235",
+    "releaseDate": "2025-11-15",
+    "tags": [],
+    "title": "Тримаєш",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6YEA3m9zSRC2wEjIVwAWfB"
   }
 ]
