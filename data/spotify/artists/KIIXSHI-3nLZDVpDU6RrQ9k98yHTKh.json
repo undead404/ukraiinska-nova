@@ -1429,5 +1429,25 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/4nASOhK5nK6o9RT3KLW8Cb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-15T02:48:56.266Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "RezaDead",
+      "KIIXSHI"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273329583d258dcb6146fbc6a75",
+    "releaseDate": "2025-11-14",
+    "tags": [],
+    "title": "MONTAGEM CARTE",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/59K9IP2sH3yhAyv3ZUwWqe"
   }
 ]
