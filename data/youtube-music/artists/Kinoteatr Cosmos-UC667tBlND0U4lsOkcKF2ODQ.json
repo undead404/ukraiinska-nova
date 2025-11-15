@@ -245,5 +245,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nVwINN4mQygg_uR2V2F25dnIpH3LjxSZI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-15T17:46:32.462Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kinoteatr Cosmos"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/pieaJ3IZs0nZp4YRWqIHmmWMlUMn5uzTTkK6-z7G_DYFXDnJPAs6vPMMvFEv5q5oITje_16JvvsGoI4=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rock"
+    ],
+    "title": "Голова що болить",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lEhoSX5PwTiI9hPYDjMPwK29v9DPGDrOE"
   }
 ]
