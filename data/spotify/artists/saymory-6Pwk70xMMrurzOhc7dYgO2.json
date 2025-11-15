@@ -1193,5 +1193,27 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/7G5JjzzXYaNrA9gS6n3UgT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-15T01:56:23.301Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "saymory"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731c74549d80e5b36901c227ff",
+    "releaseDate": "2025-11-14",
+    "tags": [
+      "ambient",
+      "electronic"
+    ],
+    "title": "Water",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2GyJUmqbA6cRrakPopE2Eg"
   }
 ]
