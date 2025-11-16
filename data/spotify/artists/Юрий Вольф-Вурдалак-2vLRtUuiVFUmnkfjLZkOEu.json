@@ -438,5 +438,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4ewEHJbh11a6ZTP1QNxPrV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-16T19:21:20.103Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Юрий Вольф-Вурдалак"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ca598fa02a825493a99538b1",
+    "releaseDate": "2025-11-15",
+    "tags": [
+      "rock",
+      "punk rock"
+    ],
+    "title": "Відпускай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0WMuKhgZ9WwmrmMbyAqaEi"
   }
 ]
