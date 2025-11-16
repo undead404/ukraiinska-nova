@@ -20,5 +20,27 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/2r3cgSFndxA6nAtyn25QJE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-16T17:26:17.934Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Meryvo"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733f460071c8fcf1ffb9eebd6e",
+    "releaseDate": "2025-11-16",
+    "tags": [
+      "dream pop",
+      "shoegaze"
+    ],
+    "title": "Cніг навесні",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5728LWX3GpCBRzkgyn5wG4"
   }
 ]
