@@ -176,5 +176,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3ijKnvRNNzrvxDcOcUafww"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-16T04:24:06.836Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DENNYMO"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d522efe306e7761a22160de0",
+    "releaseDate": "2025-11-16",
+    "tags": [],
+    "title": "TREND",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1M4pJDsKRiSEa6KGEDUBtY"
   }
 ]
