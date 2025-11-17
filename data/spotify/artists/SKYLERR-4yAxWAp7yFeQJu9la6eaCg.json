@@ -807,5 +807,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1cfwDB5TOWTGqD6aNolGkw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-17T07:26:10.811Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SKYLERR"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273faf5a08e190b1375df5b451c",
+    "releaseDate": "2025-11-17",
+    "tags": [],
+    "title": "Київ 24/7",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0e8JgHA471U7IPAPTe8q9l"
   }
 ]
