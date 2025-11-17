@@ -1161,5 +1161,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3yAv0VcRiifiFsMYReYBge"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-17T15:20:52.261Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АрХангел",
+      "Лёша Лодырь"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27352218bcd3869f8fe882581f6",
+    "releaseDate": "2025-11-09",
+    "tags": [
+      "Macedonian"
+    ],
+    "title": "Пустыни",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/59gVKtkb9TDAYcDVfhZFLT"
   }
 ]
