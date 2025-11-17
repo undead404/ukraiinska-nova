@@ -140,5 +140,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3xPA9dXQRjSB9K7XxYo32D"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-17T14:27:24.004Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sharlayh"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734d7725f457d9848ab572faa1",
+    "releaseDate": "2025-11-17",
+    "tags": [
+      "Lo-Fi",
+      "singer-songwriter"
+    ],
+    "title": "Поліурітан",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1zcxLgzWqGqhQ89FFdvlh1"
   }
 ]
