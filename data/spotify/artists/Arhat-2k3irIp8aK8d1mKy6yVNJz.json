@@ -173,5 +173,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2XuVjYmtU4c2XubYjYrKbJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-17T09:23:22.393Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Arhat"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d40d379f0e8281f4cf64e6f6",
+    "releaseDate": "2025-11-17",
+    "tags": [
+      "groove metal",
+      "thrash metal"
+    ],
+    "title": "Of Clay and Blood Divine",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1OLHjI3THRaLUq1WaeZTgu"
   }
 ]
