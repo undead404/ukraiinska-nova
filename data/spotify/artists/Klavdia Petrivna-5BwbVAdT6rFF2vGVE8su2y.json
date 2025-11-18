@@ -588,6 +588,10 @@
       {
         "time": "2025-11-15T04:25:11.985Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-18T04:25:25.171Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -600,6 +604,27 @@
       "pop"
     ],
     "title": "Чай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3yHBRGlcTKvOkl0J9PC2SB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-18T04:25:25.171Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Klavdia Petrivna"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a501eed8b209f96ca038fd1e",
+    "releaseDate": "2025-11-14",
+    "tags": [
+      "pop"
+    ],
+    "title": "Чай («Ховаючи колишню»)",
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3yHBRGlcTKvOkl0J9PC2SB"
