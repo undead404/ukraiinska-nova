@@ -651,5 +651,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6sHY5LAIg40VknDLGZnufI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-18T07:21:58.977Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "beshket"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b854f476ef35f312c0d85316",
+    "releaseDate": "2025-11-18",
+    "tags": [
+      "rap",
+      "indie pop",
+      "indie rock"
+    ],
+    "title": "Рецидив",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2ffJEKD9TyBwTgfRSEwkX4"
   }
 ]
