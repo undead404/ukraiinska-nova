@@ -743,5 +743,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nKlLxjxJcoP3Uvhy0lZ0ee8TBlEJpEanE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-18T04:50:13.504Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SKYLERR"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/G2IGHeCxxnvB5Hz6ZurrPG7vslua42ttLk7w8j_aO9ZfnXBWODaYUkfQCKiCVAig6zMY3KGldojB85C5aw=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Київ 24/7",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lVVa1vD_avEe8phwXn2vfP32GIRH2DM24"
   }
 ]
