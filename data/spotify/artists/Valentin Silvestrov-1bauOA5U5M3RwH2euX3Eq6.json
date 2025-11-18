@@ -2558,5 +2558,30 @@
     "totalTracks": 6,
     "type": "album",
     "url": "https://open.spotify.com/album/03GkGLQzjeUvnAAdDmo1yg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-18T03:45:46.277Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Johann Sebastian Bach",
+      "Wolfgang Amadeus Mozart",
+      "Pyotr Ilyich Tchaikovsky",
+      "Ludwig van Beethoven"
+    ],
+    "artistsPopularity": 6,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d03ed6fd3f2632dd5641f9a4",
+    "releaseDate": "2025-11-16",
+    "tags": [
+      "Classical",
+      "baroque"
+    ],
+    "title": "Gentle Workday",
+    "totalTracks": 60,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3h1yeo8Vl0x0aJSwiiWwQc"
   }
 ]
