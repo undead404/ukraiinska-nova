@@ -380,5 +380,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/04xkvai6fTh7b8v13Oibb0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-19T11:28:51.388Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vaib UA"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d4eaff7b6d7cb7a663995bfa",
+    "releaseDate": "2025-11-19",
+    "tags": [],
+    "title": "Танцює ніч",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1K7GfZx54k7wYbHC7yc11z"
   }
 ]
