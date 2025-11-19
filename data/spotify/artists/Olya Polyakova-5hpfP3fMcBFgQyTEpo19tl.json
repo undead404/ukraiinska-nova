@@ -1070,5 +1070,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6pC6OtjTUkKArTbXve5uls"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-19T10:28:24.095Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Olya Polyakova"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c9fd15642050be3b0ae132ca",
+    "releaseDate": "2025-11-19",
+    "tags": [
+      "pop",
+      "dance"
+    ],
+    "title": "Лунає",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/13bZtHYzObghz4L06D74TZ"
   }
 ]
