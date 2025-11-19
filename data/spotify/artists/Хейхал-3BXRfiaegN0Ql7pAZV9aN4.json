@@ -618,5 +618,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4Bngen1gxFMOBNvqQHIK9s"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-19T13:27:56.168Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Синькаboys"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ad4ef81d7ae4fa0de11fa458",
+    "releaseDate": "2025-11-14",
+    "tags": [],
+    "title": "Лишній Груз",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/36qj7kzW0qzpPmtZhQP2Au"
   }
 ]
