@@ -342,5 +342,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5Ssd5LAS8KYJuiDeiYvqkR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-19T12:27:29.262Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Entely"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736152b10a2b5b118037062078",
+    "releaseDate": "2025-11-19",
+    "tags": [
+      "soul"
+    ],
+    "title": "остання спроба",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6aoLS1Jj9OmQVTJrxDUTZz"
   }
 ]
