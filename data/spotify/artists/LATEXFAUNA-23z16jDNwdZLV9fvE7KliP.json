@@ -984,5 +984,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7IDbrG8oQS4caAv9yuJuRv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-19T16:26:29.096Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "LATEXFAUNA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733bce7b5db6d47bc197095c8e",
+    "releaseDate": "2025-11-19",
+    "tags": [
+      "funk"
+    ],
+    "title": "Persha Rika",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3yxNfBzZnbSxCFanJsssxF"
   }
 ]
