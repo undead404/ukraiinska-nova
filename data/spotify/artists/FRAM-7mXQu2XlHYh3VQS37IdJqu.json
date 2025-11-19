@@ -376,5 +376,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/68rttbRiScNzcasx0P4PLy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-19T22:23:17.252Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "FRAM"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273458e0a8b346ffabaafc13790",
+    "releaseDate": "2025-10-28",
+    "tags": [
+      "deep house"
+    ],
+    "title": "Wild Flame",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4djnLHxD3QDecvxgenTH15"
   }
 ]
