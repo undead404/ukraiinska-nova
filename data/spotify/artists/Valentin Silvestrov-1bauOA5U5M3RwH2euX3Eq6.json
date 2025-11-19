@@ -2346,6 +2346,10 @@
       {
         "time": "2025-09-23T03:29:42.510Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-19T03:46:03.117Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2583,5 +2587,29 @@
     "totalTracks": 60,
     "type": "album",
     "url": "https://open.spotify.com/album/3h1yeo8Vl0x0aJSwiiWwQc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-19T03:46:03.118Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Valentin Silvestrov",
+      "Sophie Rosa",
+      "Ian Buckle"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b94841b6961b362d3debd93b",
+    "releaseDate": "2023-10-20",
+    "tags": [
+      "contemporary classical",
+      "Classical"
+    ],
+    "title": "Silvestrov: \"Post Scriptum\" Sonata for Violin & Piano: II. Andantino",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5hWMqPI8RoaSvYNUsvomzL"
   }
 ]
