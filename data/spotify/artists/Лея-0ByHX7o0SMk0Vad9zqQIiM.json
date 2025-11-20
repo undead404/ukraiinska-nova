@@ -495,5 +495,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6Vh7u2qs4ly6yjbQZWNsfj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-20T23:21:28.941Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Лея"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27379f0b7cb469df2453c081eed",
+    "releaseDate": "2025-11-20",
+    "tags": [
+      "folk rock"
+    ],
+    "title": "В твоїх снах",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5CQ7FhXIiFK4Fcfe2mTMh8"
   }
 ]
