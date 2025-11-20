@@ -435,5 +435,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k3jeVHnkrxum_8t0eQoWteT8Mq8v9wnhY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-20T16:51:17.691Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Julik"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/BvkSRFWmmv1aubVU9f2yg60tFAdZhiY9Mh6_wxd3Zod4qhn5kk6sRUkNJsp9qCGr5x4ype9tkRZ-K9uB=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Кохання двох сердець",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kjfKkEAdRJXxeHUknYMBUd65vn9GCK3i0"
   }
 ]
