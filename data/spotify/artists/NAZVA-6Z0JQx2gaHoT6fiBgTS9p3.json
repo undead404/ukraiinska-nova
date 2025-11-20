@@ -500,5 +500,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3ENa9mw7tNiMX7f3Az0fZC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-20T09:25:51.536Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NAZVA",
+      "Культурні сили"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27301ab9b7d09c056c3e56c9fba",
+    "releaseDate": "2025-11-20",
+    "tags": [
+      "folk",
+      "folk pop"
+    ],
+    "title": "Ніколи назад",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/23OA1dFyZ9E0KJrkNNY3kO"
   }
 ]
