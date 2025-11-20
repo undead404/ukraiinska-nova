@@ -539,5 +539,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7Kreji31dpj6OiHpInaqG8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-20T15:26:23.100Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Julik"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d2f0b29b89cef2cd5dac4bf2",
+    "releaseDate": "2025-11-20",
+    "tags": [],
+    "title": "Кохання двох сердець",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6c8I2crDuzHmfuDHoVIE9c"
   }
 ]
