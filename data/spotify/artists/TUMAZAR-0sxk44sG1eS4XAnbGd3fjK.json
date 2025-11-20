@@ -183,6 +183,10 @@
       {
         "time": "2025-09-19T19:24:16.900Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-20T19:27:57.325Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -265,5 +269,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4j3fUj13VUf0LqC0TPRNoP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-20T19:27:57.325Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TUMAZAR"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d56437c01c167dffbcf6b3a0",
+    "releaseDate": "2023-07-02",
+    "tags": [
+      "pop",
+      "synthpop"
+    ],
+    "title": "JULY",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/473nT2W1BJqeqG4djM5Poi"
   }
 ]
