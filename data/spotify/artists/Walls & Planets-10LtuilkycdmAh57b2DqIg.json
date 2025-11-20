@@ -64,5 +64,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3ccXM5PUFwI5deCdtV4HZD"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-20T10:30:45.152Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Walls & Planets"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b9bf11e4bde816b558f0d1ef",
+    "releaseDate": "2025-11-20",
+    "tags": [
+      "metalcore",
+      "post-hardcore"
+    ],
+    "title": "Я і є страх",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4vSRHvhAAWSriDNlDLll0D"
   }
 ]
