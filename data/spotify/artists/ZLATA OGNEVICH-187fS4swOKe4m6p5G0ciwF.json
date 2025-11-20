@@ -1615,5 +1615,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/78XNbysQdrB3hNYbJSKRf5"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-20T14:29:14.088Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ZLATA OGNEVICH"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733a4422ba0d527d0d30d5cfe7",
+    "releaseDate": "2025-11-20",
+    "tags": [
+      "Eurovision"
+    ],
+    "title": "Тут і зараз",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2FzdfpP13nCD7iZa792ccD"
   }
 ]
