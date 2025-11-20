@@ -509,5 +509,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/71vT6JMj9CdLksvqIUoU7j"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-20T20:31:32.225Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TAYNA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737768b690b5839128a2aa006f",
+    "releaseDate": "2025-11-20",
+    "tags": [
+      "rap"
+    ],
+    "title": "вірити. любити",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1wIcN9TrlYsmzhxGAVGnJH"
   }
 ]

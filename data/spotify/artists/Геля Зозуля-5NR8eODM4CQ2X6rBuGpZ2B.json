@@ -535,5 +535,28 @@
     "totalTracks": 11,
     "type": "album",
     "url": "https://open.spotify.com/album/4GO8Cn5qC1qcuy60A71XFC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-20T20:21:09.635Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Геля Зозуля"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27359e280aec540e494e8502155",
+    "releaseDate": "2025-11-20",
+    "tags": [
+      "female vocalists",
+      "pop",
+      "art pop"
+    ],
+    "title": "Париж",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5P4SbwH2KPXdZV5jF4hrkY"
   }
 ]
