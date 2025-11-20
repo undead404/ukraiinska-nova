@@ -665,5 +665,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m5U2S2w3Lo8c5QSVWmvIpifrSfK8IyEh8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-20T23:48:49.893Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "GARNA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/Ra3daX2QDgbqIjpwm1jpQTDUKLg9NndmZLxPMhCz2Gf0_jlpLDUgzHRgCXN7mePW7jomD6fDhhQ17d3X=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop",
+      "electronic"
+    ],
+    "title": "Тобою дихаю",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mW383WOJrW7AUThPOiqRIy9VxYkHHbp1c"
   }
 ]
