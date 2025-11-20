@@ -24,6 +24,10 @@
       {
         "time": "2025-09-17T08:20:45.903Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-20T08:26:01.254Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -301,6 +305,10 @@
       {
         "time": "2025-09-17T08:20:45.903Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-20T08:26:01.254Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1899,5 +1907,51 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/58smNSeZO8HgHKDdxlHPjZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-20T08:26:01.254Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MARIA VERDE",
+      "karmv"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27311821908a1d3937bb238836d",
+    "releaseDate": "2025-09-15",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Тоха (KARMV Remix Special Version)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7zbpjjj8syNEmkUPuZjweK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-20T08:26:01.254Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MARIA VERDE",
+      "karmv"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27322affb6b3037b4d29b6a570f",
+    "releaseDate": "2025-04-06",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Танго кохання (Karmv Remix Special version)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1EZsKsPAJsUJZW1Xl4IScq"
   }
 ]
