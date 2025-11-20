@@ -313,5 +313,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kB5qIhbpNzEafoVSJf-ZuLzBbZfsqSQe0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-20T17:48:53.733Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TAYNA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/mysYGQ7L2-WEdOMEa_TQjxtP3zJekPfg3cjnUgARaF41HXziCcQROfZoP5VHGJdGMUhnuyNFpJGeGLc=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap"
+    ],
+    "title": "вірити. любити",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mWmH0dYDHdfKKz9crUdRQtFOQai9xGun8"
   }
 ]
