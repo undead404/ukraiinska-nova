@@ -218,5 +218,28 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/313ajnJOcZPIfIoe35zGIh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-20T22:24:52.815Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Monokate",
+      "Shepit",
+      "МУВ ДО НАС"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273935b4691e683ea04a8308e26",
+    "releaseDate": "2025-11-20",
+    "tags": [
+      "pop"
+    ],
+    "title": "Рута",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6UFWO7hXR0BjQwvJMjmEbM"
   }
 ]
