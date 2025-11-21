@@ -141,5 +141,26 @@
     "totalTracks": 25,
     "type": "album",
     "url": "https://open.spotify.com/album/2EyQtJG6g1q7ly77pTSUaT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T03:34:04.329Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Джозерс"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c28b91d41c864cb05718da63",
+    "releaseDate": "2025-11-20",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Ну що ж прощайте, всі хто заплутався",
+    "totalTracks": 25,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7ao6UCiMxzvoMpJqlHoPoy"
   }
 ]
