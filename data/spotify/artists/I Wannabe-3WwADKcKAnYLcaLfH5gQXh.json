@@ -1308,5 +1308,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0M4E9uHswn5IVY6Wh532lW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T06:27:09.392Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "I Wannabe"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735cd10e179a49643553884658",
+    "releaseDate": "2025-11-21",
+    "tags": [
+      "dubstep"
+    ],
+    "title": "It Hurts",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/43qmz8gjEAjCvPFQ9Cg8rE"
   }
 ]
