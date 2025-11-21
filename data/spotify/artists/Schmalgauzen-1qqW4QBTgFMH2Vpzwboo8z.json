@@ -67,6 +67,10 @@
       {
         "time": "2025-09-19T21:24:41.254Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-21T21:27:30.521Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -503,5 +507,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3zK0VXdY3bHDLbWOaJ1i1f"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T21:27:30.521Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Schmalgauzen",
+      "Марія Стопник"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734d146c69ee4eec81fa22a4e1",
+    "releaseDate": "2025-06-20",
+    "tags": [
+      "cabaret"
+    ],
+    "title": "Сад Закоханих Лілій",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1j5LQFa1PbZTDTJ47ls6CH"
   }
 ]

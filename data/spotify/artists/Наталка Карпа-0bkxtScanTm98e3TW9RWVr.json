@@ -697,5 +697,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1g7djWFcyZ7vx37JU55jr5"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T21:21:44.851Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "GLOVA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27394d5f506315cf9718f3b2ed7",
+    "releaseDate": "2017-07-21",
+    "tags": [],
+    "title": "Вірна",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0gqRYutlAP3mfJWmkT21KC"
   }
 ]
