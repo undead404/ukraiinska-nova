@@ -350,5 +350,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mXfGnN74BIOI1OjX3leT0haocpyl0yd3Y"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T05:47:23.477Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "скало"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/nrux7BtCEch_Iik0st4MtWSOgqpze2MS6G83UKNl5PjIv1-w4AznXLTIO8CQOYnK-1aUWZQ257yMNew=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap"
+    ],
+    "title": "Holy Trap",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nKoBkqKZHKrNrZt2kRu7el4BdMjwFV4Yk"
   }
 ]
