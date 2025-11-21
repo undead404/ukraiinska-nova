@@ -1875,5 +1875,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nRxunBK45mZ4ixfKyUPyvGkuK0PEjIKbE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T15:47:23.734Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/Qg8EXjf2MOmblBSjbPd2wkWltFCYhnDSI6Re7fUayGn7qLQ_ES95mLHbUFIlt5K8rjgzmEldHhoRePd-=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Pleasure",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nXNxmgWCQODZPz3aAzT0gnc84WlJbp09Q"
   }
 ]
