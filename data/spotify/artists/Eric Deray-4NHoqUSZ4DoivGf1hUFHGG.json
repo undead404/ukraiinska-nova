@@ -2119,5 +2119,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5olrtJHaVB2Glqnost1w0N"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T10:25:22.070Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Eric Deray"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27399b76e62776133e6e7394b00",
+    "releaseDate": "2025-11-21",
+    "tags": [],
+    "title": "Demonic",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0DhpqNdIzrj3hGuvP6xCXV"
   }
 ]

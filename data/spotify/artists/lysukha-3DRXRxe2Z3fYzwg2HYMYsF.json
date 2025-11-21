@@ -155,5 +155,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2nF50gESRNfNFTVtgA8sDy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T10:27:48.080Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "lysukha"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27321f0c38a391024e261e30b55",
+    "releaseDate": "2025-11-21",
+    "tags": [],
+    "title": "a couple of years",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/05tPef3ZPK2YAGtTa6fvRm"
   }
 ]

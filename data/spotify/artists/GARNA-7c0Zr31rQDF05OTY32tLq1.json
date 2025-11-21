@@ -695,5 +695,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0xVTmTKPtwpS0yfCw7ettO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T10:25:31.606Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "GARNA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27368935aaa30eb7ab724322db2",
+    "releaseDate": "2025-11-21",
+    "tags": [
+      "pop",
+      "electronic"
+    ],
+    "title": "Тобою дихаю",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1zPY3PJxAZgtMMjUDsxopo"
   }
 ]

@@ -1387,5 +1387,27 @@
     "totalTracks": 11,
     "type": "album",
     "url": "https://open.spotify.com/album/3hsHklAiRA6cZ7Bx41ascK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T10:26:16.283Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Jamala"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dd3471c57009f6af738d5539",
+    "releaseDate": "2025-11-20",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
+    "title": "Ми ховаємся",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6PhSWNJyMjpUBRGDFBXlf3"
   }
 ]

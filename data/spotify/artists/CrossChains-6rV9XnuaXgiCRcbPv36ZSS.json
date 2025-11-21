@@ -178,5 +178,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1WcIUCUFAsQTMM77AObXW3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T10:23:31.645Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CrossChains",
+      "Гоня"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273147add0ebe27bf7549a3224c",
+    "releaseDate": "2025-11-21",
+    "tags": [
+      "alternative metal",
+      "metalcore",
+      "rap"
+    ],
+    "title": "На самоті",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3YpJ7ngoUxFmps7WPjaflF"
   }
 ]
