@@ -229,5 +229,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lEOa4cODuUw6nbhfG34gG52wqhU72TW4Q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T22:47:07.693Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Do Sliz"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/42u8mtX_pL1rfDbbtFBsaAixNBTjl254Yl2av975DSO4UJ1Jh5CO0L6lwm59I0O77dWgVYowkn3Ow9vQ=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Зійде роса",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kUiXN-f7hDHbLSpjkJlV9SYk7KcvG5-BY"
   }
 ]
