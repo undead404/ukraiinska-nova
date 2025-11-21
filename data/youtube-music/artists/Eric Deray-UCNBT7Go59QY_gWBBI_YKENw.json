@@ -1885,6 +1885,10 @@
       {
         "time": "2025-09-22T17:45:56.497Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-21T17:47:10.932Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1898,5 +1902,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nvNsJ12zJ51hvxhdHJXeovjNwGcfBgRzo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T17:47:10.933Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Eric Deray"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/8gZG98f5PBgFd12Ii3NSsJfJeQsMvmlsx9hj5EkU4OnjdUrU5P50tt3x241b1XxqtVoIon_nADXtdpADJw=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Demonic",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l301aIprK8T51QHDcCIHEMgLNc9iRNatw"
   }
 ]
