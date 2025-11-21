@@ -679,5 +679,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5cRtaKp26xN03ZwzlhIUOL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T22:21:14.204Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Arsen Mirzoyan"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734ad70be6c56b07436c1d9008",
+    "releaseDate": "2025-11-21",
+    "tags": [],
+    "title": "Вірити",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2TckpUPvZ6LetqYVTOkN0Y"
   }
 ]

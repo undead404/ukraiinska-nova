@@ -329,5 +329,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6Fw8dIyn5LjeudrGVBVOfG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T22:21:59.329Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Крихітка",
+      "Роман Набожняк"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27381e3e4b60d79de40d22b5eb0",
+    "releaseDate": "2025-11-21",
+    "tags": [
+      "pop rock",
+      "female vocalists"
+    ],
+    "title": "Вішліст",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2LQxfeNVKqR6HQRRTDESzz"
   }
 ]

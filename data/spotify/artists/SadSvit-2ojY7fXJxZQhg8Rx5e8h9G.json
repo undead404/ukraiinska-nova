@@ -879,5 +879,26 @@
     "totalTracks": 15,
     "type": "album",
     "url": "https://open.spotify.com/album/5tQPio57395KRxWzBguYIx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T22:28:50.993Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SadSvit"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737a30e96fcbb7faaa9f7a9bda",
+    "releaseDate": "2025-11-21",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Метушня",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1d9usIwNyMUUCgDyea8Obm"
   }
 ]
