@@ -214,5 +214,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4dkHG7lISadlBfxcVZQxgF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T14:22:13.347Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Bulvar Lu"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c3e37b20ee23918513d4015c",
+    "releaseDate": "2025-11-21",
+    "tags": [],
+    "title": "Щасливі дні",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3S1IqIzlRVnJfld6JhCJ5D"
   }
 ]

@@ -1509,5 +1509,24 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/1ZiwXBfB6Z0u00d6MgnQNJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T14:28:08.214Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "t-Zhuk"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b2752122215700b57eb7e123",
+    "releaseDate": "2025-11-21",
+    "tags": [],
+    "title": "Daddy in Da House",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6xzjcXlQGsLVXWuX6AJjZB"
   }
 ]
