@@ -464,6 +464,10 @@
       {
         "time": "2025-11-07T04:22:31.516Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-21T04:22:54.710Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -474,6 +478,25 @@
     "releaseDate": "2025-11-06",
     "tags": [],
     "title": "Просто так",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5uvPEpwHsKA0puLSOWjchl"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T04:22:54.710Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ann in Black"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fad17830aa5f835b273cfac7",
+    "releaseDate": "2025-11-06",
+    "tags": [],
+    "title": "Афірмація 1: Просто так",
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5uvPEpwHsKA0puLSOWjchl"
