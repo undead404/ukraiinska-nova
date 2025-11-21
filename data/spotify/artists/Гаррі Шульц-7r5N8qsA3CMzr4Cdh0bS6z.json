@@ -345,5 +345,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5UQ5V9xUxMndHW1fuBUVCF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T18:21:31.650Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гаррі Шульц"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273129f6db66007f69547c6a69f",
+    "releaseDate": "2025-11-21",
+    "tags": [
+      "rap",
+      "rock",
+      "Hip-Hop"
+    ],
+    "title": "Лишаюся тут",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/54ZaJeymyBO0tZ8r8ILQRs"
   }
 ]

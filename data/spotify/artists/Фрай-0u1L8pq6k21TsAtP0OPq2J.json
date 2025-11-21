@@ -961,5 +961,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2B7yETSzytBZmUX2c0pckQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T18:23:56.888Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Фрай"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27382ce3e51a8796241c93e45ae",
+    "releaseDate": "2025-11-21",
+    "tags": [
+      "blues"
+    ],
+    "title": "Свариться",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/59XrspD2obn5kZTTEMCFUP"
   }
 ]

@@ -476,5 +476,27 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/2V5WGbCOsyFXlyafhKDLym"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T18:23:15.996Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "скало",
+      "Vlaadosh"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c04530dadf4683c68fbc275e",
+    "releaseDate": "2025-11-21",
+    "tags": [
+      "rap"
+    ],
+    "title": "Holy Trap",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5HdS16eza28A9me4lIZbeW"
   }
 ]
