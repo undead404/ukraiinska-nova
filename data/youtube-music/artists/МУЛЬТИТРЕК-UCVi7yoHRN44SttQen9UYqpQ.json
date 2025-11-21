@@ -884,5 +884,43 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kwZ08dOcECyB3snnY9oRBUBB3vEwoYNr8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T20:46:44.019Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "МУЛЬТИТРЕК"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/-vO0Uhtir2z5LQkwo1Dp6nPzqUkv_CCKqvtQOPdJJX6OiGfl0otMGnlv4IoXJ44nyvQFwcL2qWUDgg0=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Залишай",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kGsmsmpUpkpLCdIe-4vG6f_haB26b3O5E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T20:46:44.019Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "МУЛЬТИТРЕК"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/-Aq-dz_O9HfAEeOloNAYmr7yDVDIoNpl9dYUV0dV0ljr2ZTXLiqzNPXonUlLaK8hqdzm_x5vC-N8hPeUUw=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "ЯНеБеха",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mJ2ETF12BSUQ-jLYakX6zUaKhQZpMbIKM"
   }
 ]
