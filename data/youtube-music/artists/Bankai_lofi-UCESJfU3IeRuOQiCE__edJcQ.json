@@ -245,5 +245,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lVtaiIPfCsvntsNf0LriFfUf-xw2SwRGQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T21:46:02.577Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Bankai_lofi"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/an18HNITRVpvQioyFSGY6bquPrY8ATjX9QUhb_KMtglir4CE-SvdMdmWwfoLZhzax_vVmSwWhIpyqEb7Tg=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "На кухні сама",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kmne1lszfhtQqZD342FslcG3O1IjeL7Ho"
   }
 ]

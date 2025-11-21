@@ -2496,6 +2496,10 @@
       {
         "time": "2025-10-06T21:47:45.398Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-21T21:48:09.516Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2859,5 +2863,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n4zqts0TvMufKrCysX6bALgL1JJgOl3Lg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T21:48:09.518Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/6pjkpUIfUNriD0YOwcASV7x99gsE_Dt23nO46ypEGSBrDMAmk5-9Dea3sMZp5Hbb67EK3H9T6G9M9tD0=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Fade away",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kFwU4bcIvwknyOjN-kwuuSyzyvx-8A2_8"
   }
 ]

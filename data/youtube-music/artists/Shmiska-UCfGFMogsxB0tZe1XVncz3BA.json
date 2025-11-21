@@ -292,5 +292,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m7uCrBJ6tNpNMuxPokCZTbuMLs0obEpXc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T21:47:47.225Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Shmiska"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/iz9wcAZtKRI45_JskG9YmMF7dBeHMMTHhKVTbPlmuiSuhHkGZ-Ursa0dKhv_3yB85mcBBwg-MVh0XV1NGQ=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Афтерпаті",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nncP_MJcglLNeVDfOETCLSELb2yzu7dBM"
   }
 ]
