@@ -235,5 +235,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5YgtlPh8zxLcIYZbjGaFab"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T19:22:22.977Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ARKAYS"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273739b97ca46a102d5d9e28659",
+    "releaseDate": "2025-11-21",
+    "tags": [],
+    "title": "Історія",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4ag9MNkEld09Ol1QHZY1DB"
   }
 ]
