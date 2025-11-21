@@ -1472,5 +1472,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5xXILGfkz9CDVg2cV0V4me"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T16:24:42.135Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Irina Rimes",
+      "Jerry Heil"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ed21126abe4284afdde81bb9",
+    "releaseDate": "2025-11-21",
+    "tags": [
+      "pop",
+      "Romanian"
+    ],
+    "title": "HORA",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1zvYTSGjOKxgoEque7gpHu"
   }
 ]
