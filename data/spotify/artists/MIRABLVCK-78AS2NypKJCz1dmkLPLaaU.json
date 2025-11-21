@@ -227,5 +227,30 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6JwS44dGwflx9hyAtg86Uj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T11:26:30.931Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ONI INC.",
+      "Lil Godd",
+      "MIRABLVCK"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273deac41b3133a3771a8140bb0",
+    "releaseDate": "2025-11-21",
+    "tags": [
+      "metal",
+      "metalcore",
+      "rap"
+    ],
+    "title": "Jingle Bell Rockin",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1E5KEDJJzFK3OrV9U9uWo1"
   }
 ]
