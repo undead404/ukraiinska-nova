@@ -1006,5 +1006,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k3SN4A1BDy1SyaIdhyQ5jOgU50v9YXBnE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T09:47:34.317Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "I Wannabe"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/8VMzmw_d_ua_d6PC6YLPRPeucocQjQxeHQAx2HkE9VKkdviBuCFEFNDcZvP0pmUCiw5uY-O-XU-AATIWow=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "dubstep"
+    ],
+    "title": "It Hurts",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lr4wPiW85HGmoLDzomEZGmCt7vAcIYTm0"
   }
 ]
