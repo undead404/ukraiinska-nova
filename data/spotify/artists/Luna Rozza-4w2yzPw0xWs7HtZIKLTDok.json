@@ -199,6 +199,10 @@
       {
         "time": "2025-09-20T23:25:15.998Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-21T23:26:04.686Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -427,5 +431,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4ldYCzkHgAyRuHU2HK0RH2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T23:26:04.687Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Luna Rozza"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27308941d92d3190f25e27bdad0",
+    "releaseDate": "2024-01-01",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Lost again",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6zBgNfogSFFdTd7oT4zujm"
   }
 ]

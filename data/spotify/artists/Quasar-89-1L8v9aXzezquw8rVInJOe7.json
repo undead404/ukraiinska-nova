@@ -1436,5 +1436,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0mSScGs0niscIAQpJTgECT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T23:27:59.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273831910a5024ee59a087e8531",
+    "releaseDate": "2025-11-21",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Pleasure",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3y462m983VUHB48JIKMoQa"
   }
 ]

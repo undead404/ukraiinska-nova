@@ -952,5 +952,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7nbmycInQHnexAPIKILy9d"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T23:25:58.411Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lefor"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732bad509111dd16abefbbbfbf",
+    "releaseDate": "2025-11-21",
+    "tags": [
+      "rap"
+    ],
+    "title": "Бентежно",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4ApOxYHOMPLcXvs3ST7OTe"
   }
 ]
