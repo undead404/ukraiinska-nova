@@ -97,5 +97,27 @@
     "totalTracks": 10,
     "type": "album",
     "url": "https://open.spotify.com/album/5otNPbRmzQx0i3YMRc8iH3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T09:23:11.359Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Широкий Лан"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27349af42eb46008b8bcae83d8e",
+    "releaseDate": "2025-11-20",
+    "tags": [
+      "alternative",
+      "RAC"
+    ],
+    "title": "ДШВ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/17cDYaT9zJyRQlFibruZx6"
   }
 ]
