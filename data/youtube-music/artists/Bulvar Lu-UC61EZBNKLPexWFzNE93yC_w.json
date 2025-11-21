@@ -295,5 +295,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mOVlYm2dx9O0k939-cYc8HlGD_EgEsJ2I"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T10:48:26.214Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Bulvar Lu"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/zIQWQ_ksIEA5DE5zGEoD2vQP8wgktzrlA2zpSCKZQjlcK3co2gLf1tRsOBSJfF4sfMXJ6heZhiXxjVll=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Щасливі дні",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kRZlnidQuGEccpAL_ydEs_z091Z9SkMKY"
   }
 ]
