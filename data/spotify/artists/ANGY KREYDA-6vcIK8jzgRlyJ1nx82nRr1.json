@@ -935,5 +935,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4kPLtvoK2bVpj7Q4J5GTUg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T12:25:54.273Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ANGY KREYDA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273715cc69dd9f3fbee40d3b59d",
+    "releaseDate": "2025-11-21",
+    "tags": [
+      "pop"
+    ],
+    "title": "Тату",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2Sm8JLJr5R64QAHnxfefy9"
   }
 ]

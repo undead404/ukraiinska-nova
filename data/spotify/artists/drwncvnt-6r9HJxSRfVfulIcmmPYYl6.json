@@ -1750,5 +1750,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4iFth2zkWARKZwCNCFK9x1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T12:27:08.375Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "drwncvnt"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273149e3f6e6c7a45cb99e2b468",
+    "releaseDate": "2025-11-21",
+    "tags": [
+      "electronic"
+    ],
+    "title": "d0ktorspiele//nightcore++dubstep",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7hEBZnWuVDM9cTQKLcVdpO"
   }
 ]
