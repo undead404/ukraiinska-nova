@@ -997,5 +997,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kE2ZD9Gegl4v4SVxzqPKgfjEnSBsbnRzk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T08:51:18.447Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "satelibra"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/p2c540GsGSL8G-oukP8pX3HRbBGyWD3aeF_g2OniG61tJadNetgNTQeHLE15XA2-xPdKGa7n2i3O6KbEuA=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Нібіру",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kNaV2nGj1fz19h2Js-HAjMWmRXTO-tHik"
   }
 ]
