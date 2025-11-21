@@ -161,5 +161,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6Q1pH8ttfoSCOHJ5FytfiG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T17:20:02.646Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Забавка"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27347bfa17c18c5b07256606bac",
+    "releaseDate": "2025-11-21",
+    "tags": [
+      "folk"
+    ],
+    "title": "Всевишня",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6HrKQKy6eROqv8UY8PG91s"
   }
 ]

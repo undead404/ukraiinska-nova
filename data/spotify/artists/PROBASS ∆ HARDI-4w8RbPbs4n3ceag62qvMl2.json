@@ -965,6 +965,10 @@
       {
         "time": "2025-09-18T17:25:57.623Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-21T17:27:47.056Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1001,5 +1005,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4sx8FnRsoR90iKvGpbhOWQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T17:27:47.057Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PROBASS ∆ HARDI"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733feae54812c7da35e846833b",
+    "releaseDate": "2025-11-20",
+    "tags": [
+      "EDM"
+    ],
+    "title": "ОЦЕТ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/03vxpu706SXc72iDgVhCRD"
   }
 ]

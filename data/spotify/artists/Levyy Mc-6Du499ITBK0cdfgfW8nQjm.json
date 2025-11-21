@@ -684,5 +684,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3BNh6MF34a3NaCBWzbApyt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T17:26:47.660Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Levyy MC"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c072a6e7872cc8916f57a9cb",
+    "releaseDate": "2025-11-21",
+    "tags": [],
+    "title": "Asket",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0USoBxeb4TGZEwTTqqDQSZ"
   }
 ]
