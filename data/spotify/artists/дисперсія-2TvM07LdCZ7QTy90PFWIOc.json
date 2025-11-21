@@ -152,5 +152,26 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/53VgjekF7kQkot7bTjg0fO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T08:21:33.219Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "дисперсія"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b54db6207fa1763505560f81",
+    "releaseDate": "2025-11-21",
+    "tags": [
+      "screamo"
+    ],
+    "title": "світивши всім, згораю швидко",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4yqddQgvpXY7IxweJiOrF3"
   }
 ]

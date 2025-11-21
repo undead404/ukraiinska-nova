@@ -335,5 +335,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2pLcWqlHU1gkzhyGDfUhTA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T08:28:17.546Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SPOKUSY",
+      "morgendie"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730a517929b4e5b576a1b4acbb",
+    "releaseDate": "2025-11-21",
+    "tags": [
+      "darkwave",
+      "post-punk"
+    ],
+    "title": "Вихідні",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6sylqZqr1P1xDGPuV0cxFN"
   }
 ]

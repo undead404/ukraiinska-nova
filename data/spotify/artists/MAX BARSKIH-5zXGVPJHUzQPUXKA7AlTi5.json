@@ -1805,5 +1805,26 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/5fN2YHkJ5TqcmN7ZS5w1Xw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T08:26:36.165Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MAX BARSKIH"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739027a097a5bbab57ec763a51",
+    "releaseDate": "2025-11-21",
+    "tags": [
+      "pop"
+    ],
+    "title": "Колишній",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7jTyTSQ0grWYefQJyvrwmS"
   }
 ]

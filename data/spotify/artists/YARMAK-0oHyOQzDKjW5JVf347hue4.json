@@ -1114,6 +1114,10 @@
       {
         "time": "2025-11-16T08:28:30.303Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-21T08:30:03.187Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1131,5 +1135,26 @@
     "totalTracks": 8,
     "type": "album",
     "url": "https://open.spotify.com/album/2dZ1952dmE8CDocswcUB4o"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T08:30:03.188Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kozak System"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273364f02a745182b7afe0060bf",
+    "releaseDate": "2017-04-27",
+    "tags": [
+      "folk rock"
+    ],
+    "title": "Мій друг",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6Wpgt0NjfmqntA60QfvNDp"
   }
 ]
