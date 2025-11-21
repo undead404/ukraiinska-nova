@@ -306,5 +306,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kIEHCjjLLq5dkCkasABblLk3Z6V7RZRvA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T13:01:03.230Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MERL1N"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/FqORBi5VY2ZjuwAVnoCBo7-OG54Agjlv57FRMjM0csri9uyznhECvrkO-dpWNx1hMyAP2MgKzJLxGnGc=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Почули",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n8ekGrmRxfXw1Miz__-Dk37V4-cThxUcU"
   }
 ]
