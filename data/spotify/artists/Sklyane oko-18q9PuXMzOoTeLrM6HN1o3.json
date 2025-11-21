@@ -42,5 +42,27 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/0QPlgY3dHJ6DEbyB2aTkF8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T20:29:50.113Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Fuji Moodji"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273026273b2c2ef544ae8061378",
+    "releaseDate": "2025-11-21",
+    "tags": [
+      "indie pop",
+      "indie rock"
+    ],
+    "title": "ПОСТФАНК",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7s5sUsAVWAWDofjbShW2Lu"
   }
 ]

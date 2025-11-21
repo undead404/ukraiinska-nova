@@ -1363,5 +1363,26 @@
     "totalTracks": 11,
     "type": "album",
     "url": "https://open.spotify.com/album/4FGYOkpLA3R60D0QOSJ9fD"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T20:22:29.322Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Міша Правильний"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735fceb700ab8ca5ac04788eb0",
+    "releaseDate": "2025-11-21",
+    "tags": [
+      "rap"
+    ],
+    "title": "Казка про Івана Д@рника",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6A5nBCZZeegFL4sqRutPZ3"
   }
 ]

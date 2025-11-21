@@ -324,5 +324,26 @@
     "totalTracks": 6,
     "type": "single",
     "url": "https://open.spotify.com/album/7zwDmmIQTPqScrDU1QkIpG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T20:29:47.705Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Shmiska"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273106638b26207273a41188b3f",
+    "releaseDate": "2025-11-21",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Афтерпаті",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/18bXGt1Aug26bkQPmzMtfd"
   }
 ]

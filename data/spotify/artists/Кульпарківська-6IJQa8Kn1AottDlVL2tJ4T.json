@@ -784,5 +784,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7N3uhmnqoARlqgTvpf7tFw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T20:21:44.710Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "W8till"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735d50ac2310939235cee3fd3e",
+    "releaseDate": "2025-11-21",
+    "tags": [],
+    "title": "Повен Крові",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5lRrLlbWLktK22a6LklJju"
   }
 ]
