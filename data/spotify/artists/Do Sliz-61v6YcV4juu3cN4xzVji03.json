@@ -298,5 +298,26 @@
     "totalTracks": 15,
     "type": "album",
     "url": "https://open.spotify.com/album/5tQPio57395KRxWzBguYIx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T07:23:04.698Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Do Sliz"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cbbfdb6e1a2ee318781a2447",
+    "releaseDate": "2025-11-21",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Зійде роса",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4iaOHtC0qqjThgq0ddipAu"
   }
 ]

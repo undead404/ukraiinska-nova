@@ -357,5 +357,26 @@
     "totalTracks": 14,
     "type": "album",
     "url": "https://open.spotify.com/album/7joElWTXRqYZYH4rkFjepN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T07:24:23.606Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MAYOROVA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c2b54a821cf052ee97c3978c",
+    "releaseDate": "2025-11-21",
+    "tags": [
+      "pop"
+    ],
+    "title": "BLA BLA",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/361dWFtyVFIrsK1orLh7Zz"
   }
 ]

@@ -420,5 +420,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2q1FplCYIkWcJ477KLdD16"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T07:24:06.921Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "cosyyy"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737d863c1c52b1b7de170598f2",
+    "releaseDate": "2025-11-20",
+    "tags": [],
+    "title": "ALTER EGO",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4Ff94a3oMBDmjYIfkeWqtD"
   }
 ]

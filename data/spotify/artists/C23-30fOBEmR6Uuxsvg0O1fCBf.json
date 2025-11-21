@@ -440,5 +440,28 @@
     "totalTracks": 8,
     "type": "album",
     "url": "https://open.spotify.com/album/3AVhx2tOuIRyrxNKxqL5Yd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T07:22:27.749Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "C23",
+      "Maksym Popyk"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739b1dd0d7dacd51ae67ff53c5",
+    "releaseDate": "2025-11-21",
+    "tags": [
+      "rap",
+      "dubstep"
+    ],
+    "title": "Сповідь",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0DbyrO2c1SS8DyF6Bdz2Rg"
   }
 ]

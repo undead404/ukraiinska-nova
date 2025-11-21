@@ -185,5 +185,26 @@
     "totalTracks": 6,
     "type": "single",
     "url": "https://open.spotify.com/album/3s4BM3eTSMvRffIhpAV1R7"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T07:23:53.480Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kurs Valüt"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273292b9be66e08fba4605797f4",
+    "releaseDate": "2025-11-21",
+    "tags": [
+      "ebm"
+    ],
+    "title": "Odne Ale",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4hAQFNZVJpwJwtmLJhXP2b"
   }
 ]
