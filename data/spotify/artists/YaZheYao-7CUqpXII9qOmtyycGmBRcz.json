@@ -591,5 +591,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7I92659wvhUNwPnBzS6tr6"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T15:29:44.015Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YaZheYao"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735d4260ab8533ab31227744f1",
+    "releaseDate": "2025-11-21",
+    "tags": [],
+    "title": "Прочерк",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0LJlAzN9ERNtfeTvQxvWwy"
   }
 ]
