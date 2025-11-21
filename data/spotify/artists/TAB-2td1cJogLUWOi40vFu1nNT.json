@@ -198,5 +198,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2jYNO9T3hTkeNb9V7vrndz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T00:45:45.354Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TAB"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732209fc1ab8de9a39d6c27162",
+    "releaseDate": "2025-11-20",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Зачитуюсь",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0R2CX8P3BApDI9PIM9mPYG"
   }
 ]

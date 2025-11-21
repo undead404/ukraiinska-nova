@@ -282,5 +282,26 @@
     "totalTracks": 30,
     "type": "album",
     "url": "https://open.spotify.com/album/6dF9irelKZ2nidNyG51Wt9"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T00:44:24.399Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Nora Plan"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cdb5ed721b085f6d0e93915c",
+    "releaseDate": "2025-11-20",
+    "tags": [
+      "metal"
+    ],
+    "title": "Veins",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2XQpvYrUrJjymcLIlmCiwO"
   }
 ]
