@@ -880,5 +880,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m_alNCgHid37ilc6-UFsSMFT26Mq5zHMY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T07:46:40.797Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Фрай"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/EZbUc0MR-TpNCjRYw1gRGgFc0VXQMEKjLdj0lzS8DwDTOydWcrtfdO_p2XqUdu7xRljXHdtmCM2XOj4=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "blues"
+    ],
+    "title": "Свариться",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kNOSqykphZo-HWxlonLtkceJowATbmIR8"
   }
 ]
