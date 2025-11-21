@@ -563,5 +563,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6jogLfppDAQDs0PNjShCVL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-21T05:29:20.480Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yevhenii Dubovyk"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27327213c2660ba473468bd1be4",
+    "releaseDate": "2025-11-21",
+    "tags": [
+      "jazz"
+    ],
+    "title": "Дивлюсь на все спокійними очима",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/57ZIKiICw0ozs6awHAoJ72"
   }
 ]
