@@ -1929,5 +1929,30 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/18ZQP3ZJzNM1fYwrJTWznd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-22T03:34:26.408Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "HORIZON",
+      "OSAD"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273399ab643beb4e5277e28d2e8",
+    "releaseDate": "2025-11-21",
+    "tags": [
+      "hardcore",
+      "rap",
+      "Stoner Rock",
+      "vietnamese"
+    ],
+    "title": "Ми щось більше",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1SMzougny6o0soxyXymAs7"
   }
 ]
