@@ -152,5 +152,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/03NjZ4i2ljL5PBD5gjGSqd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-22T15:24:32.683Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Gender Studies"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cfad2b4be5ea17f964baf488",
+    "releaseDate": "2025-11-21",
+    "tags": [
+      "Progressive rock",
+      "indie rock"
+    ],
+    "title": "Ми",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5qXtLPojz7semB3jPBj7Yp"
   }
 ]
