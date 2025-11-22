@@ -1049,6 +1049,10 @@
       {
         "time": "2025-11-21T14:26:03.776Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-22T14:25:50.659Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1139,5 +1143,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4SoboauTnoh7wJggTTZrZb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-22T14:25:50.659Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Pavoire"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e55b6a4caf60d75a1905b233",
+    "releaseDate": "2025-11-21",
+    "tags": [],
+    "title": "Progressive House Festival Anthems Vol. 5 (Mixed by Pavoire)",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7bKR9z7yveWAYWST3OjxGS"
   }
 ]
