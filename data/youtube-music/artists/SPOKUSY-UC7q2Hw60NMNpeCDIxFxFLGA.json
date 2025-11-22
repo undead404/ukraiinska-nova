@@ -334,5 +334,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mdNytA3cWclLA5tle7Rh8j0c1-RI9ruWo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-22T01:07:30.067Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SPOKUSY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/HHZYZSeDzA1_dLYh0cLej21OOfVpK5hDjpTgoWveUWG8xtRCDoycRD1A94NeYLyGQKDMpN578qCWYIch=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Вихідні",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m8TDnGUkymThm7gT12TIYyXS07JM4Aujo"
   }
 ]
