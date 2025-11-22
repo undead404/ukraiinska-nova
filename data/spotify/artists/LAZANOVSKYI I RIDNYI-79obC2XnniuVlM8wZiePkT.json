@@ -890,5 +890,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2xY1c3hdhA7Fh4q4GFty4p"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-22T00:42:16.778Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "LAZANOVSKYI I RIDNYI"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738c7e38929c39df4be5db31eb",
+    "releaseDate": "2025-11-21",
+    "tags": [],
+    "title": "Переживем",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/27ZoTYBNhTjeclGvnAxQfx"
   }
 ]

@@ -1086,5 +1086,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4aieANiH9ikaMSRDAQdTb8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-22T00:41:15.669Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MERL1N",
+      "CHUPA 12"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273596aaa5260b591e7b1a5298d",
+    "releaseDate": "2025-11-21",
+    "tags": [],
+    "title": "Почули",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/477qxuITEFkNUCYWKkujwM"
   }
 ]

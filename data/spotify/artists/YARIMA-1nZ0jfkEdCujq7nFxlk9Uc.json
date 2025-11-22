@@ -321,5 +321,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6hWd2OvOf6dYcZJRTUO4Sv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-22T00:46:15.483Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "vladislava melis"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27361f181ad02e05cb28d5e958d",
+    "releaseDate": "2025-11-21",
+    "tags": [],
+    "title": "НЕЗНАНА",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/28eKOBQG6lXnffXxW7av19"
   }
 ]

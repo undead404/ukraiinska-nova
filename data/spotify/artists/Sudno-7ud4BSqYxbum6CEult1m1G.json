@@ -777,5 +777,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3bgPWKbDY9pf7DB8cZogCa"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-22T00:44:18.718Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sudno"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735a18a2ac289b556c9a204170",
+    "releaseDate": "2025-11-21",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Акустичний",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3G2PP48zwPEKUsne1Y7ggz"
   }
 ]
