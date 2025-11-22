@@ -967,5 +967,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mXL1JCdlKHukayw0ODEy5PiQfubEMl6ss"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-22T23:47:53.666Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ruslan Nota"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/2IulYrxs-5FzhFSoT-yxFQUboeZ8hkm3z3wqGLohTBiYy-X08xyhGbyJBhH9RcooHSPUALfR6ahQE_sW=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Скрепная (feat. Isai Rasta)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nFgZYH7TmN_2pBxatXq0mcOzU51jkpyjM"
   }
 ]
