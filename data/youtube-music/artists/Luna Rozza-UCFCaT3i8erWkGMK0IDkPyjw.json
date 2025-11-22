@@ -334,5 +334,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nBwJFdif1ORrTDjjM8KSyz3296QVeo3Xs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-22T12:56:47.470Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Luna Rozza"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/n8egUhJZzu0IHuF6-0hrioauz6zCvhIxhvSKLo8OSVLnpsaXzTHU3Qa7If84SukBeSnXkv_XWmT3o6g=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Очі розмовляють",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kcFGw8rNWMdwvqrU4fLWSkWelbJOEmhxw"
   }
 ]
