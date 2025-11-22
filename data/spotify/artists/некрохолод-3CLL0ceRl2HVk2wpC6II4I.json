@@ -150,5 +150,27 @@
     "totalTracks": 6,
     "type": "single",
     "url": "https://open.spotify.com/album/42ioU7Kztoy1pdJECiWCSq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-22T11:20:29.637Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "некрохолод"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736a47e2ac970bffbbd7984d25",
+    "releaseDate": "2025-11-22",
+    "tags": [
+      "ambient",
+      "dark ambient"
+    ],
+    "title": "Khladna reka",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0ASNblZGTKmIWIAobNQhxv"
   }
 ]
