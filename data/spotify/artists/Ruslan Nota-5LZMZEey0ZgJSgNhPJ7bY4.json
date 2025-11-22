@@ -1653,5 +1653,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2mVot7iKTcTYRgoyeKT0XT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-22T05:25:50.400Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ruslan Nota"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735f0d1bfb35f1c042659a9fa7",
+    "releaseDate": "2025-11-19",
+    "tags": [],
+    "title": "Скрепная",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/15rpft6NVQxOyBwOqXJWnn"
   }
 ]
