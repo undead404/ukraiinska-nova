@@ -302,5 +302,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1bUGgzT34x6uOGG2FJAILk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-22T04:22:54.537Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Bankai_lofi",
+      "Sakura"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27366815b5eed11d259c41325fd",
+    "releaseDate": "2025-11-21",
+    "tags": [
+      "alternative",
+      "alternative rock"
+    ],
+    "title": "На кухні сама",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6Ruynno4BK9jgtsnA80rhq"
   }
 ]
