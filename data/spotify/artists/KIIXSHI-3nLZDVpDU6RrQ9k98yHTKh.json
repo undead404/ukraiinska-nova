@@ -1449,5 +1449,26 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/59K9IP2sH3yhAyv3ZUwWqe"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-22T02:46:43.089Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "RezaDead",
+      "KIIXSHI",
+      "TAKNAM"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739532894136e4f5911f64eb0e",
+    "releaseDate": "2025-11-21",
+    "tags": [],
+    "title": "MONTAGEM COCO",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5hnn6udaVnPNy45kq3UV2Y"
   }
 ]
