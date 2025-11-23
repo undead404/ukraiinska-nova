@@ -765,5 +765,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5OnIIRuU2jJh0ewvsKdDFB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-23T02:58:25.420Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Makarenko",
+      "Mon@rch"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b06b173c298543846f5ac8d1",
+    "releaseDate": "2025-11-20",
+    "tags": [],
+    "title": "Любила і плакала",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1meYrFrYldAai6lS8Ac1Cx"
   }
 ]
