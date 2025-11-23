@@ -340,5 +340,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k8QtvUW9K-wmR2J0tAG2T2oTGTEvKKYgk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-23T16:49:07.717Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Makarenko"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/vivECygmG5Egky3LT2aKOmBRyP3THeu3ml8cE-pA0Q5ByFwI3_IKThv8xmuCVSWjEm732DeaUWgBO2zV=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Любила і плакала",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nDIoE-zqeCNo3BaggCx9G8CyGF-k14h6w"
   }
 ]
