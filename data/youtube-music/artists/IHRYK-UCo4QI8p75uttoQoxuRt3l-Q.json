@@ -4,6 +4,10 @@
       {
         "time": "2025-09-22T08:49:35.827Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-24T08:51:15.489Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -26,6 +30,10 @@
       {
         "time": "2025-09-22T08:49:35.827Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-24T08:51:15.489Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -48,6 +56,10 @@
       {
         "time": "2025-09-22T08:49:35.827Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-24T08:51:15.489Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -70,6 +82,10 @@
       {
         "time": "2025-09-22T08:49:35.827Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-24T08:51:15.489Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -92,6 +108,10 @@
       {
         "time": "2025-09-22T08:49:35.827Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-24T08:51:15.489Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -114,6 +134,10 @@
       {
         "time": "2025-09-22T08:49:35.827Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-24T08:51:15.489Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -136,6 +160,10 @@
       {
         "time": "2025-09-22T08:49:35.827Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-24T08:51:15.489Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -158,6 +186,10 @@
       {
         "time": "2025-09-22T08:49:35.827Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-24T08:51:15.489Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -180,6 +212,10 @@
       {
         "time": "2025-09-22T08:49:35.827Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-24T08:51:15.489Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -202,6 +238,10 @@
       {
         "time": "2025-09-22T08:49:35.827Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-24T08:51:15.489Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -224,6 +264,10 @@
       {
         "time": "2025-09-22T08:49:35.827Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-24T08:51:15.489Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -240,5 +284,43 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kmtECVjuMSqeajeWZS9vnsr3lREyVITds"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-24T08:51:15.490Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Singles & EPs"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/DuThFYbH7ayMkisHTp0n3vgevmTuv9AsmUHOQvP2Yrhx484pS71c5pEucBwGYMWlbWY94T81aW1ma7HR=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [],
+    "title": "Речі, які колись",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nxPTtYCHh77XehRWm6v6Nlt-17ZT50ISc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-24T08:51:15.490Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Singles & EPs"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/tBbM2kL3nESaa-pCiR5s0QyXdYannUnQKJ7c0viMz2gSnV2ySa4h7WVs2MoHDsD9SfZ8xiGsHh6qoMMY=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [],
+    "title": "Сливове вино",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kCGoGs4fbdeDK-oOyaPl-0zPStcJNkoYo"
   }
 ]
