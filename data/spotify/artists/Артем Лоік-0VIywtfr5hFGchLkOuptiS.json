@@ -1635,5 +1635,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1ToGU0T7Pwt45mY7hHS1nB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-24T19:19:19.022Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Artem Loik"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273befdfae0b72ee31142795eab",
+    "releaseDate": "2025-11-24",
+    "tags": [],
+    "title": "Шухевич",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/43IGb0MeFuQ88RjniiRGEh"
   }
 ]
