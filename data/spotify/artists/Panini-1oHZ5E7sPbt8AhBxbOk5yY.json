@@ -505,5 +505,25 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/3LtvBOyBWsbKEeRID37zee"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-24T09:27:21.544Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Andrew Skat",
+      "Panini"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273598b251ef29abfa9676b2c81",
+    "releaseDate": "2025-11-22",
+    "tags": [],
+    "title": "Хит лета 2015",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0VYWXJlhKCHZW3zS3u0r9W"
   }
 ]
