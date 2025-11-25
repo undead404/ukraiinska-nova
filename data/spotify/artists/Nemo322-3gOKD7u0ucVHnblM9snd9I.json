@@ -738,5 +738,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0eJphgRTso5mmDLyVhoubp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-25T16:27:35.061Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Nemo322"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b85b78d627b422c9c4fb4b3f",
+    "releaseDate": "2025-11-23",
+    "tags": [
+      "rap"
+    ],
+    "title": "СЛОНЗМУЗЛОМ",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3J0uCmdvqoCuGgS3RsZvNI"
   }
 ]

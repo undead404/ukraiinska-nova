@@ -18,5 +18,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3v85oVpF0GLdmOdF5X0Sss"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-25T16:30:07.181Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TUZEMETS",
+      "ваня jbl"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b397dbc08ce0ddbb908e4c2e",
+    "releaseDate": "2025-11-18",
+    "tags": [],
+    "title": "акордеон",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0W2dyFeJzd2RftwVZbnwka"
   }
 ]
