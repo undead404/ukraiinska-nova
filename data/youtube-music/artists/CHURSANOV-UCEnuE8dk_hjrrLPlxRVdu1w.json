@@ -962,5 +962,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_moaEzpuGPUYjvI5f1d-oPpvUt1BS1DZ3o"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-25T13:02:05.113Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CHURSANOV"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/I5ye8QodxeP1aBAZyl-O0yV72xPENujA_mvIXP45SvgVxHxw89LtrxmSoYgm3FW1AOm3Awa5F5ArcHo=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Хуліганка",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k-jgfmzmkvw0G55KPuxjPkeyZZ1ZIbYJI"
   }
 ]
