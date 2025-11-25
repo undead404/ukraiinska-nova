@@ -2354,6 +2354,10 @@
       {
         "time": "2025-11-22T03:41:07.705Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-25T03:48:21.689Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2619,5 +2623,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5hWMqPI8RoaSvYNUsvomzL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-25T03:48:21.690Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MDR Rundfunkchor",
+      "Philipp Ahmann"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273959792f8ce814d8db67855e4",
+    "releaseDate": "2016-10-07",
+    "tags": [],
+    "title": "Weihnachtslieder aus Deutschland und aller Welt",
+    "totalTracks": 28,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4LfA8UD2iKinrtiQkauwNb"
   }
 ]

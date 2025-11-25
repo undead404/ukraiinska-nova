@@ -306,5 +306,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7i3OFjGi6e9HjDMdlDZVL2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-25T03:37:40.574Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Мері"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e4e561e24adf34947760410d",
+    "releaseDate": "2025-11-24",
+    "tags": [
+      "rock"
+    ],
+    "title": "Вертатись",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/14mzZCo4EpG8j0QeX6aCnq"
   }
 ]
