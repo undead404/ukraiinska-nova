@@ -82,5 +82,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1KYGMboQvjAhIfVsNRPptO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-25T06:29:53.424Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Zapovit"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27368a42d526bca0ee29edf31fa",
+    "releaseDate": "2025-08-02",
+    "tags": [
+      "atmospheric black metal",
+      "black metal"
+    ],
+    "title": "Сороковий День",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1EUrUewaKnyHp8GWdgtUID"
   }
 ]
