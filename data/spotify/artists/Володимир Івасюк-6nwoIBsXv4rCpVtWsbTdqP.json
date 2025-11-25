@@ -166,5 +166,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3d9ZXeqMhR9vadCBBsP7rE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-25T13:25:16.543Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Володимир Івасюк"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735b00f22488902f54d2974b78",
+    "releaseDate": "2025-11-24",
+    "tags": [
+      "pop"
+    ],
+    "title": "Пісня буде поміж нас",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5uCDYJKX6pcdnHxAmSiCpN"
   }
 ]
