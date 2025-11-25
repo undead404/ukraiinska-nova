@@ -614,5 +614,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nKW3rHjVsO5AoVKOnMxupnliC4XioMaf0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-25T05:49:04.134Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KONO"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/Mbu7uv80xuyuMsYP64DSoHc-GWg3GNjW6tPvAWGbh2xJLgjgQkdS-rI8w9I-2VQ0lOL336z4eeUJT3qvZA=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "House"
+    ],
+    "title": "GIỮ LẠI MỘT NGÀY THƯƠNG",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lF4Eboz2fjc3fvZnMeuQbN9a87WwGFsYU"
   }
 ]
