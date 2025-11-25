@@ -922,5 +922,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mJ2ETF12BSUQ-jLYakX6zUaKhQZpMbIKM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-25T20:47:48.169Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "МУЛЬТИТРЕК"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/sE8YuQvaC39EB-DhV_hWIsqebpGO8K-y4vKywtZUMkEiwqo69wRBLqTaIaSx0cY-G02KMk9wWIt-j74=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Метелик",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lgt4HuKuvqNin7YWv9bKMa9xVB2-gj2Ig"
   }
 ]
