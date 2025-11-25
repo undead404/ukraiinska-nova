@@ -718,5 +718,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0UCQnDFaI71qlWMb900Bo4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-25T18:26:16.161Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CHURSANOV"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730b7125116cea3abdc9c046e3",
+    "releaseDate": "2025-11-25",
+    "tags": [],
+    "title": "Хуліганка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6NS0WjAT9DGvcAHSVR4oDb"
   }
 ]
