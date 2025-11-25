@@ -189,5 +189,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5WyyKD8cRHkhb93urAcNfY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-25T14:22:48.225Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ariadna"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e64f69f798ca9339e63d200f",
+    "releaseDate": "2025-11-25",
+    "tags": [
+      "pop",
+      "electronic",
+      "indie pop"
+    ],
+    "title": "Svitlo",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/32DRO5GK0B3AFJFTIfbc02"
   }
 ]
