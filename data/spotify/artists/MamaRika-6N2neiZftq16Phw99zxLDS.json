@@ -1332,5 +1332,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4bDsXFvoedLYM6DDJKEdik"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-26T22:24:46.619Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MamaRika"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27315a735833fcf985f97b70ee8",
+    "releaseDate": "2025-11-26",
+    "tags": [
+      "pop"
+    ],
+    "title": "Люби себе",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1yJFrIRxg0cZy47YmBMclZ"
   }
 ]
