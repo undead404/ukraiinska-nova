@@ -226,5 +226,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6ffHMwLxfNVmy3SGYO1N2M"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-26T09:26:50.205Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROMMEDIA"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d6245a217b5478928a4cf781",
+    "releaseDate": "2025-11-24",
+    "tags": [],
+    "title": "Ти мій вайб",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7hEbUHZGDtG6LeHaAqJBH6"
   }
 ]
