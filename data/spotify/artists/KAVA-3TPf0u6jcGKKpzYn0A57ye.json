@@ -1685,5 +1685,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2CQI0jwVkNuPrt0Rk0iWxk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-26T18:27:48.251Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KAVA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c8f26431f954ddcc5b69d55a",
+    "releaseDate": "2025-11-26",
+    "tags": [
+      "pop",
+      "male vocalists"
+    ],
+    "title": "Ніч мене кличе",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6u5AGcABpwG2ApJ5L4f5Za"
   }
 ]

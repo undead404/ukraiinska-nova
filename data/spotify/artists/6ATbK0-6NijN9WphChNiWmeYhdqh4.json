@@ -237,6 +237,10 @@
       {
         "time": "2025-09-18T18:25:01.064Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-26T18:20:48.773Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -296,5 +300,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5HD0Qs87bHT322hwsuIpfH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-26T18:20:48.774Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "6ATbK0",
+      "RusikILL"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f4fcb84dd8748f42d0cdfd05",
+    "releaseDate": "2022-06-01",
+    "tags": [
+      "Garage Rock",
+      "Garage Punk",
+      "indie rock"
+    ],
+    "title": "БАНДЕРМОБІЛЬ",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7lGfGqwLKa7UnNv1ZwjDVF"
   }
 ]
