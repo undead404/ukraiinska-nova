@@ -635,5 +635,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7sAh1ZU9uvct9CtZz0QZHh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-26T01:51:17.888Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Софія Хома",
+      "МУЛЬТИТРЕК"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f0a5866e8b26e8b38b5f3bbe",
+    "releaseDate": "2025-11-21",
+    "tags": [],
+    "title": "Метелик",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5vEMpCOxDUCVFrSx34nBoi"
   }
 ]
