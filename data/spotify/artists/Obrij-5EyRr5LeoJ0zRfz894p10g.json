@@ -460,5 +460,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6BRZxFqw8GOpRi9jSVPUqT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-26T13:32:32.627Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Obrij"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738fadeb85ecb82df6cdbbb300",
+    "releaseDate": "2025-11-25",
+    "tags": [
+      "death metal",
+      "metal"
+    ],
+    "title": "Загублена у снах",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4pUiWIxB05S2zAUxEaLmyf"
   }
 ]
