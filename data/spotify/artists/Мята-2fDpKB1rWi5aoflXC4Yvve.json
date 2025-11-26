@@ -984,5 +984,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0NLa1U6ZDvrFgfGIXNeA2z"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-26T06:22:53.905Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Мята"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732b258fe147a75b4b0c0309e2",
+    "releaseDate": "2025-11-26",
+    "tags": [
+      "pop",
+      "rock"
+    ],
+    "title": "На нервах",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4OQnLBgwPhp2iyAkdFyPXk"
   }
 ]
