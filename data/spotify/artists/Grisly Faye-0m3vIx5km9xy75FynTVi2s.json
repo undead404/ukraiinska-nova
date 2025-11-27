@@ -749,5 +749,28 @@
     "totalTracks": 25,
     "type": "album",
     "url": "https://open.spotify.com/album/7ao6UCiMxzvoMpJqlHoPoy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-27T20:27:01.483Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sons da Lusofonia",
+      "Grisly Faye"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273346aa2f68e71d30a108e2ecf",
+    "releaseDate": "2025-11-27",
+    "tags": [
+      "electronic",
+      "trip-hop"
+    ],
+    "title": "Fora do Centro: Grisly Faye",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3HxOHkCKzHgo6JSUXmi6AN"
   }
 ]
