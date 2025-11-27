@@ -712,5 +712,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mJdi14EfXpvnD9cuDQjq79jibMl80l2Pc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-27T17:48:16.522Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "paashee"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/9gbFhRXzWVpybA99v_qJUkuTO2CAGlA0rEooCp8CnGkQXM2HNCcuV91pQ3jQHPJ2OpnDfn6bZdnX3TVgdw=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap"
+    ],
+    "title": "Не Стягую",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mCtnoosZ_KFBmrk08MB_P9EQRX5rM-8BU"
   }
 ]
