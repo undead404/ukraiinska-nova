@@ -278,5 +278,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2JfCISFgwJ4jlfn7LCv1YF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-27T17:28:06.120Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Phil It"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739bfc558e26556dd38d230e1d",
+    "releaseDate": "2025-11-27",
+    "tags": [
+      "electronic",
+      "electropop",
+      "art pop",
+      "indie pop"
+    ],
+    "title": "ПАМІНА (Reimagined)",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2kUX9MVM4In6Y5DZxWbqO1"
   }
 ]

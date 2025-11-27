@@ -468,5 +468,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7rQzDJO5C1Rjs60lo5iwfm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-27T17:19:48.708Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Андрій Кравченко"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273159bd4771151adedb492e61d",
+    "releaseDate": "2025-11-27",
+    "tags": [],
+    "title": "Чужа",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4IgGsrKMCg8XXDgKE0YxBr"
   }
 ]

@@ -1315,5 +1315,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6YB56Zk7RT9hvLqCHaromm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-27T17:20:07.404Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АСАФАТОV"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735c6aacb142d823fd8bec37e9",
+    "releaseDate": "2025-11-26",
+    "tags": [
+      "pop"
+    ],
+    "title": "Гарного дня! (Live in Kyiv /BelEtage)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0LCnfOUNM8Ya02dMMPhtRW"
   }
 ]
