@@ -396,5 +396,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2Rfnide638HiqLxF3L8y5M"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-27T23:25:14.417Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Scoof",
+      "Gorim!"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732a94dd13b02a3e955585a5f6",
+    "releaseDate": "2025-11-27",
+    "tags": [],
+    "title": "Кафе \"У Василя\"",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0AiLytYmFPDoaSHgoIAcSE"
   }
 ]
