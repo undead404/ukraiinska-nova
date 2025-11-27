@@ -68,12 +68,16 @@
       {
         "time": "2025-10-29T03:42:18.697Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-11-27T03:41:25.758Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Maryna Krut"
     ],
-    "artistsPopularity": 2,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f92fc52b781ed8e0c37fab2b",
     "releaseDate": "2025-02-20",
     "tags": [],
@@ -400,6 +404,10 @@
       {
         "time": "2025-09-23T03:26:37.670Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-27T03:41:25.758Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -601,6 +609,10 @@
       {
         "time": "2025-10-26T03:37:56.821Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-11-27T03:41:25.758Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -614,5 +626,159 @@
     "totalTracks": 6,
     "type": "single",
     "url": "https://open.spotify.com/album/4sq0P3LbSOot4pMKLjSgFP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-27T03:41:25.759Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Maryna Krut"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a8eb38b2066aeab4c051a6c8",
+    "releaseDate": "2024-04-11",
+    "tags": [],
+    "title": "Квітну з тобою",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1bclOZnQcI8N02mdPy1TqY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-27T03:41:25.759Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Maryna Krut"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27381b1480d87b83908f794e29c",
+    "releaseDate": "2023-11-23",
+    "tags": [],
+    "title": "Вір мені",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/23yQRx1Jd5gPYuixowWL6C"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-27T03:41:25.759Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Maryna Krut"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27316e1f0956825a17f420faf86",
+    "releaseDate": "2023-09-28",
+    "tags": [],
+    "title": "Пряля (Ой пряду пряду)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1msOgJyRHJrs9yitQBYpMQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-27T03:41:25.759Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Maryna Krut"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273973013b8c3b435c3cb3bd1ce",
+    "releaseDate": "2023-05-04",
+    "tags": [],
+    "title": "В містечку малому",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2XwT82A64tihMIlK0BxP1L"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-27T03:41:25.759Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Maryna Krut"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bf25f03f60db1e404cb87b04",
+    "releaseDate": "2023-02-22",
+    "tags": [],
+    "title": "Воля (full version)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1OjrAiQirLtHFhQ4Gt0twb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-27T03:41:25.759Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Maryna Krut"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273deb5a6df741f0eec56442221",
+    "releaseDate": "2022-12-09",
+    "tags": [],
+    "title": "Колискова",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/79wAofp2aQl6YvXv9YLLvB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-27T03:41:25.759Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Maryna Krut"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c74d9b199f6bbcdb94c671c5",
+    "releaseDate": "2022-04-04",
+    "tags": [],
+    "title": "Воля",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1njER8Hm6OmsLRMucVmTAS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-27T03:41:25.759Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KALUSH"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bcafcc77b75c6eebd5166702",
+    "releaseDate": "2024-02-28",
+    "tags": [
+      "rap"
+    ],
+    "title": "Десятка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5Ctb5E6TQpdz1JTPozzXq2"
   }
 ]
