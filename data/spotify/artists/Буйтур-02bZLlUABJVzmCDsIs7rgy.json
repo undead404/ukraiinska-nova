@@ -82,5 +82,26 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/0AALCJh960LoLe124vP9Ky"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-27T07:20:17.499Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Буйтур"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fecc2de5183c36e96af0e341",
+    "releaseDate": "2025-11-26",
+    "tags": [
+      "black metal"
+    ],
+    "title": "Поза межами болю",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0eEZ9kxnU8L3olSTd6QLWo"
   }
 ]
