@@ -919,5 +919,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3XYTPpiXg0kygOCx4NNkrP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-27T11:26:37.444Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lugovskiy",
+      "Lototskiy"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27315b78c906ec2b96b0c6fd8e3",
+    "releaseDate": "2024-03-08",
+    "tags": [
+      "deep house"
+    ],
+    "title": "Keeping You",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/70zZh5GTZXM5lmDNSG3sZv"
   }
 ]

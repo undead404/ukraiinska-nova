@@ -724,5 +724,26 @@
     "totalTracks": 7,
     "type": "album",
     "url": "https://open.spotify.com/album/2ocWcwjwg0NVW4iPJj8xvg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-27T11:29:06.750Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TVORCHI"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27373ae63edd1b61e61cfbbb430",
+    "releaseDate": "2025-11-27",
+    "tags": [
+      "pop"
+    ],
+    "title": "Вихідний",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5ElRUreUXsKVXKbIFx3keA"
   }
 ]
