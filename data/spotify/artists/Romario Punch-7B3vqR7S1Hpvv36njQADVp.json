@@ -432,5 +432,24 @@
     "totalTracks": 10,
     "type": "album",
     "url": "https://open.spotify.com/album/6B3m5Dm6k3gTMwcjCC4Gpg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-27T08:27:53.570Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Romario Punch"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fd00ad897b963eac4fcd7ae0",
+    "releaseDate": "2025-11-27",
+    "tags": [],
+    "title": "Home",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2aZQzH2ew5j8P3okwhHuxB"
   }
 ]
