@@ -104,5 +104,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2UzsPusjD5Tx5eH5JNnM9O"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-27T10:30:42.446Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ubrave",
+      "Oleksandr Seleznov"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733501ca6a644ffde3b23fcd02",
+    "releaseDate": "2025-11-27",
+    "tags": [],
+    "title": "Singing Drones",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5jyQRsisfTTXXBSU55k70f"
   }
 ]
