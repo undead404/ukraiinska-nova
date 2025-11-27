@@ -489,5 +489,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5jSPKAHV5164H4bTiU6YFm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-27T22:24:01.596Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "JEVAGA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732d6bf772ed29915278c163cc",
+    "releaseDate": "2025-11-27",
+    "tags": [
+      "pop"
+    ],
+    "title": "Тане сніг",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0msMXQ6JYsikjslFi7KEzF"
   }
 ]

@@ -251,5 +251,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0MFc8xCFkFr2474qpI1dBF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-27T22:28:15.902Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SMLSKP",
+      "Anton Kramar"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27368d07ac3ceb3357e00fb81d3",
+    "releaseDate": "2025-11-27",
+    "tags": [],
+    "title": "Мовчи",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5ukkSs9tUoTi9sth7xkNrr"
   }
 ]
