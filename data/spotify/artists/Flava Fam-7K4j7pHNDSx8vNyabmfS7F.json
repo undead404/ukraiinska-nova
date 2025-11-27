@@ -84,12 +84,16 @@
       {
         "time": "2025-11-15T12:26:37.750Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-11-27T12:27:06.867Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Flava Fam"
     ],
-    "artistsPopularity": 0,
+    "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27345a729885ec7f102f0b21e0a",
     "releaseDate": "2019-10-18",
     "tags": [],
