@@ -555,5 +555,26 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/5LnwXkNDzBXOxR9HSmM0pW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-27T16:27:47.631Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Parfeniuk"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734a651cbd03cdb9e807cc742c",
+    "releaseDate": "2025-11-27",
+    "tags": [
+      "pop"
+    ],
+    "title": "Корпорат",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7i3Xc3a5voNzElgvM0598O"
   }
 ]

@@ -66,5 +66,27 @@
     "totalTracks": 14,
     "type": "album",
     "url": "https://open.spotify.com/album/3ieEfFgdf9GvRXkB0UtoGW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-27T16:27:58.499Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "port mone"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739ec9a453d0fc8a11d2deb71f",
+    "releaseDate": "2025-11-27",
+    "tags": [
+      "instrumental",
+      "belarus"
+    ],
+    "title": "Whisper",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0NOJYQfkD8EvI8W8xILTUH"
   }
 ]
