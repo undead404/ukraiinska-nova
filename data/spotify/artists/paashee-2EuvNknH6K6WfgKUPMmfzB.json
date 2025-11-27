@@ -753,5 +753,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/00UmXdZSN5munkrH3DTdN9"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-27T09:26:22.359Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "paashee"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733c739db247a31cb2bcb38018",
+    "releaseDate": "2025-11-27",
+    "tags": [
+      "rap"
+    ],
+    "title": "Не Стягую",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0IC3rESXVGjDiSGN3dfXPI"
   }
 ]
