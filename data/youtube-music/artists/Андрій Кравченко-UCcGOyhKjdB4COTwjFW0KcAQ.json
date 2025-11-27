@@ -454,5 +454,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k5tdUD_s50w5UzQa5UaCHgYfeJDujVNYM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-27T07:45:52.110Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Андрій Кравченко"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/Oj17La1t-_z_1m87akpNFC9PyCh6OJ8_N3HXSTqY-uVOp5hkewbzPcGc_t0cV807XUWZECRT8Fj66-WCdA=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Чужа",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m2m0j8hHL22Dl-_IuRnBqCb3xYoabHz7s"
   }
 ]
