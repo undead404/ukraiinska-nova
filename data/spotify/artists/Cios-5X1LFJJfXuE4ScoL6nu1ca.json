@@ -247,6 +247,10 @@
       {
         "time": "2025-11-01T18:24:15.165Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-27T18:25:42.082Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -254,6 +258,29 @@
     ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27323482db459ce50cf822a115b",
+    "releaseDate": "2022-03-25",
+    "tags": [
+      "rap"
+    ],
+    "title": "Todos en un Fiat",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2OQ2CBw2C1IlA1v3uAutE6"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-27T18:25:42.083Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Aren",
+      "ElRoca",
+      "Triple Check"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f5061e5bf6818a6afdbcfbd8",
     "releaseDate": "2022-03-25",
     "tags": [
       "rap"
