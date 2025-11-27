@@ -1138,5 +1138,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nHI9TfprnEk2mNYvOWqt8aU0GR6zyNH9s"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-27T18:50:25.724Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Korolova"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/scG9bALtHgiVFWtyHzcV1Tt8ysl5eKnVMf3ZaQ3ruingtkhIKK1ldqXa0ebr-7Nkw-MojjrqUl16gpC7=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "Melodic House",
+      "House"
+    ],
+    "title": "Utopia (Korolova Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l7MWfgL0n80lT949u01ar4KS7wQeEtYuI"
   }
 ]
