@@ -87,5 +87,27 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/1cM1CgkpVBEqUsQ5ACcIBJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-27T01:54:21.822Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Hellfire Sox"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734483f872a354ad06a8510861",
+    "releaseDate": "2025-11-26",
+    "tags": [
+      "horror punk",
+      "punk rock"
+    ],
+    "title": "Поруч",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0uwsQOBr4Das8sAestI51E"
   }
 ]
