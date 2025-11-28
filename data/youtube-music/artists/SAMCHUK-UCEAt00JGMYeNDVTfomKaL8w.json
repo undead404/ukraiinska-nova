@@ -663,5 +663,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ndluo_fRmcygQa-yFD7ouzjLTbu6Nc000"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T16:51:01.019Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SAMCHUK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/p1jhVvP_rdlPh00e8lkc7ReMpMV2D3qWCSTOoTBwXNFi1GBfdTTkDNWNNYdFHvblETLTNNtJVWDuvio=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Я шукатиму",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mOcgzH6OxS9f3V1LXfjMZR87X7YBaxaSc"
   }
 ]
