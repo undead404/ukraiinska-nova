@@ -328,5 +328,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mJffgpRgb64PtSR86x8Rm3zt2XctOOtsw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T06:52:26.845Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DAKAYAK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/bB8-oT9xwz1wtGoz0-rIRS10i-Rm5ETTcPZi6Ciy8U-CvpgQyQwi-xNFbnL2KL3WofM6G4EOD3AX251e=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap"
+    ],
+    "title": "Мамо Не Кричи",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kegD7Iiam386VDAaaBbuetG8YCpybKnbA"
   }
 ]

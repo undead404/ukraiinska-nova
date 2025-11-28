@@ -321,5 +321,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nqrsP31_Ajlxqu-GlVXqTruaYM8mwBXvY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T06:53:19.963Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Marie Hellstein"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/2CBQj0rFOldADKET8ZnapoeX8JylI89H9gAehB_rHMs5-theOD78KmmMS3hXAK2kQEbo3aTxoU_jRBg=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "female vocalists",
+      "indie pop"
+    ],
+    "title": "Ха",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kno-kXlMoZOKt4mMN96lfJ4e9kjOFzajU"
   }
 ]
