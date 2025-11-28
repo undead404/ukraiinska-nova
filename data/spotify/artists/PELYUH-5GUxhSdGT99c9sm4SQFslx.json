@@ -903,5 +903,24 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/5rWgMjAJySyBVfwM2bjOTe"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T08:27:45.632Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PELYUH"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27388230f47014f4d637cccb169",
+    "releaseDate": "2025-11-28",
+    "tags": [],
+    "title": "Твоя магія",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1315d0nrpTnMCrrbLcIitD"
   }
 ]

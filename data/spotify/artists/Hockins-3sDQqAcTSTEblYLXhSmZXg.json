@@ -1967,5 +1967,30 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1qJ67BXIkrUHq6Y8hENPUt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T08:25:02.856Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lostlojic",
+      "Hockins"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739e6fee051eacf5b7075db66a",
+    "releaseDate": "2025-11-28",
+    "tags": [
+      "dubstep",
+      "garage",
+      "House",
+      "bass"
+    ],
+    "title": "Where You From (Hockins Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/155j5SXGgyDiZhiDDuH2Pz"
   }
 ]

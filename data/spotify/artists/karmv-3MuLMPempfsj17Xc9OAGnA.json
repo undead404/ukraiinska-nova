@@ -648,6 +648,10 @@
       {
         "time": "2025-09-17T08:20:45.903Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-28T08:25:59.687Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1953,5 +1957,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1EZsKsPAJsUJZW1Xl4IScq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T08:25:59.688Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "karmv"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27302298474b5960b4d20c14931",
+    "releaseDate": "2025-11-28",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Закоханий",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4iRrbvONsYv3WQ547u0Njs"
   }
 ]

@@ -230,5 +230,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6ac7bMX9koDceYEWM2wOvT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T08:29:55.702Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VECHIR"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c70ca4f8add651d49d98c9e4",
+    "releaseDate": "2025-11-28",
+    "tags": [
+      "pop",
+      "male vocalists"
+    ],
+    "title": "мільярди людей",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3dQflF0TxcWoUoIhHUm0sn"
   }
 ]
