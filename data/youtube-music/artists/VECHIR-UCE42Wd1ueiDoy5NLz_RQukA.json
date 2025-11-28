@@ -226,5 +226,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_maHtBDqBRhGQ8pRB3bYuqAygWfMkozBmA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T08:51:59.594Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VECHIR"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/qVrnQtIvNx5hhZnQEW3iflrQT5BUyi83RaZagldopGx8iJZq3PlmDVANdTIjQK1_p2uU3V6EWkRfzCJ8=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop",
+      "male vocalists"
+    ],
+    "title": "мільярди людей",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l8rdZjYsm30qtcYaXF07sKjLpxSYL4BGA"
   }
 ]
