@@ -719,5 +719,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5AHcz7iI2lHWKJ0NUjLECn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T22:26:57.443Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SAMCHUK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27344e0c5350d13e23848c3aeb7",
+    "releaseDate": "2025-11-28",
+    "tags": [],
+    "title": "Я шукатиму",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/64zYohom3xglONuA4NT9KA"
   }
 ]
