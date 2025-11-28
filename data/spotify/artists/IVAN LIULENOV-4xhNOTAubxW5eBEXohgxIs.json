@@ -514,5 +514,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4p1lZoNuIFNcMjGYQSUBhT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T03:40:03.845Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "IVAN LIULENOV"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732b02009cd3f21f9d37ecd4df",
+    "releaseDate": "2025-11-27",
+    "tags": [],
+    "title": "HAT-TRICK: ВІРА, ЛЮБОВ, НОСТАЛЬГІЯ",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5K2anu3BLUOmWNKzOFt6Os"
   }
 ]

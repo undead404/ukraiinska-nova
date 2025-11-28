@@ -212,5 +212,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/67U2w9pEeBrN0hHwG5AtSm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T03:40:30.545Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lady Aphina"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a3212f66a1ea9be6c5b9459d",
+    "releaseDate": "2025-11-28",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "Крихке Ч.2",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/17PmSijo967LXBxw7Rhujx"
   }
 ]

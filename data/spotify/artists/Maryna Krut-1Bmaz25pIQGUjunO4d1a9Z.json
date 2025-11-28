@@ -780,5 +780,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5Ctb5E6TQpdz1JTPozzXq2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T03:41:16.234Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Maryna Krut"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735b567e00c0235864505cdadd",
+    "releaseDate": "2025-11-27",
+    "tags": [],
+    "title": "Пісня буде поміж нас",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1DHsnXUiPLGtwMaqkUxA8Y"
   }
 ]
