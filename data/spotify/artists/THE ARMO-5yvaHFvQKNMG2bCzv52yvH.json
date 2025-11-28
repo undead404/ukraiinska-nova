@@ -579,5 +579,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/061LVlFYdRGdQIjGnPW0qU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T10:30:38.547Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "THE ARMO"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e1db9202927814fea49acb55",
+    "releaseDate": "2025-11-28",
+    "tags": [
+      "pop rock"
+    ],
+    "title": "Стерво",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5wRqZUJ6RuGTaC0MEmrhoe"
   }
 ]
