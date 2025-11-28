@@ -982,5 +982,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/59XrspD2obn5kZTTEMCFUP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T18:24:15.206Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CHOOB",
+      "Фрай"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27337ad5d3c72501c54732fc3b4",
+    "releaseDate": "2025-11-28",
+    "tags": [
+      "blues"
+    ],
+    "title": "Не сам",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0Yw00E9e7UV1YgAfXswNLO"
   }
 ]

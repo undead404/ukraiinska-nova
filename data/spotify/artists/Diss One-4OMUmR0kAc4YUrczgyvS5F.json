@@ -1070,5 +1070,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/18ZQP3ZJzNM1fYwrJTWznd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T18:26:14.215Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One",
+      "HORIZON"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731795ac8042c680c94ac1131d",
+    "releaseDate": "2025-11-28",
+    "tags": [
+      "hardcore",
+      "rap",
+      "Stoner Rock"
+    ],
+    "title": "Дійдем",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7D5I4yo6QzOYya6l6NwJaC"
   }
 ]
