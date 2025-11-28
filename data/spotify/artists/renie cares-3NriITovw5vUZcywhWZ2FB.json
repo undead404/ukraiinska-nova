@@ -597,11 +597,63 @@
       {
         "time": "2025-11-21T14:26:28.579Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-28T14:26:55.413Z",
+        "type": "LOST"
       }
     ],
     "artists": [
       "renie cares",
       "Олена Карась"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273155cf3e81e17b1b4471df020",
+    "releaseDate": "2025-11-20",
+    "tags": [
+      "electropop",
+      "indie pop"
+    ],
+    "title": "правила гри",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/02H7Fqph6a6M2uhVH8deWs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T14:26:55.413Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гурт Дно",
+      "renie cares"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273007fdd8ac5756f884d79bd4a",
+    "releaseDate": "2025-11-28",
+    "tags": [
+      "electropop",
+      "indie pop",
+      "indie rock",
+      "Avant-Pop"
+    ],
+    "title": "закрив пздк",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/60yTc5nh7JnmUGNLgzBLKr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T14:26:55.413Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "renie cares",
+      "Olena Karas"
     ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273155cf3e81e17b1b4471df020",

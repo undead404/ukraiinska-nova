@@ -234,5 +234,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6OuLVq6INRO9QgKAcHZL1d"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T14:27:00.842Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "REQUITIR"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eef65db29ccc0a1a82508d5e",
+    "releaseDate": "2025-11-28",
+    "tags": [],
+    "title": "Робочий клас",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1P1tDCBz2kkJLyoEPh74Y9"
   }
 ]
