@@ -435,5 +435,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kX15GA5YyamPKOhDiXsDaOnbwgx785dDg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T11:47:34.531Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "THE ARMO"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/c7HN8BalnIvutNAB4ZAuO20tDQVPMlIAn48TO-TzDzbKu1vvGbg3ewWn-f20aQkx7Qz8OQD2KmBccNr-XQ=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop rock"
+    ],
+    "title": "Стерво",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_niVe1sDYX0PmVTHV7sxz_yy4Ub62O9l3M"
   }
 ]
