@@ -1242,5 +1242,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2zfgOKDzmie83ZCaH9mHRu"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T09:29:29.560Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YOXDEN",
+      "BIOBITER",
+      "Gario Nells"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d71b733d5c77a33fa3161d6a",
+    "releaseDate": "2025-11-28",
+    "tags": [
+      "dance",
+      "electronic"
+    ],
+    "title": "ПРОПАДУ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5G1IWSgBQSHXKyA7iPHgYB"
   }
 ]

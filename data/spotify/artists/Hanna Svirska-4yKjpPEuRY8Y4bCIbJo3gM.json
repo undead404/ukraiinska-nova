@@ -240,5 +240,27 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/2iIs5yNIKkmtGil8luOuli"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T09:24:39.289Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Emika"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730b1785dc17d9a9414a90aa1c",
+    "releaseDate": "2025-07-25",
+    "tags": [
+      "dubstep",
+      "trip-hop"
+    ],
+    "title": "Frames",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0V7X970Q0KHRm5p8d1RD3T"
   }
 ]
