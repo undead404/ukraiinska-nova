@@ -1047,5 +1047,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6MMt82eeUk4ogZe1kZi2dY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T07:28:23.601Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YAKTAK"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f054acd6e734a9e579133c92",
+    "releaseDate": "2025-11-27",
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "title": "Буду собою",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5TPt1XupzkJn487hjlzme6"
   }
 ]
