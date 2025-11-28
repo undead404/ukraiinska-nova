@@ -886,5 +886,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/75nmkUTbUrtKbZh2nqGNAF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T19:22:44.595Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Bandi&Bagi",
+      "10GU"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c9bee65c785e5c6871b5a236",
+    "releaseDate": "2025-11-28",
+    "tags": [
+      "rap",
+      "Hip-Hop"
+    ],
+    "title": "Листопад",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/26dZBG1Hj2ucEgPKsRiepr"
   }
 ]

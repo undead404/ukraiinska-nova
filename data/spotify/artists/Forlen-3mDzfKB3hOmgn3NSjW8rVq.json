@@ -410,5 +410,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/54NHsdlJBkxfnFtXgMh6kw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T19:23:45.097Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Forlen"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b014d4bef2efdff00739b46d",
+    "releaseDate": "2025-11-28",
+    "tags": [],
+    "title": "Вільна ніч",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3HX99GgraWqCWbO5mcSW2t"
   }
 ]

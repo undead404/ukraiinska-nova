@@ -78,5 +78,25 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/1M5QBe7ZoH9Zg4vwO5TYmC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T19:22:51.155Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SomeLines",
+      "Belaha"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d3c8fc0c5742789e18aed317",
+    "releaseDate": "2025-11-28",
+    "tags": [],
+    "title": "Вперед (Belaha Remix Extended Version)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/17od6DoDxTUhbeg1Aw0Vvb"
   }
 ]
