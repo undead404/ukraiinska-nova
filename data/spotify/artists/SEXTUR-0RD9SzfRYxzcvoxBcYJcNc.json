@@ -472,5 +472,31 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6VXseITJYSQtuThrpozY0I"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T05:26:52.553Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SEXTUR",
+      "Guber",
+      "Verb",
+      "x.remibancks"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273471570989477827d8053dbb1",
+    "releaseDate": "2025-11-28",
+    "tags": [
+      "Drum and bass",
+      "pop",
+      "rap"
+    ],
+    "title": "ГТА",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3At6Yw20OpTKoFN3fyCq4v"
   }
 ]
