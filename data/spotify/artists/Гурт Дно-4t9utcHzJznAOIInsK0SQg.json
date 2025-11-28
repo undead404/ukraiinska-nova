@@ -2353,5 +2353,30 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6mx7Ko6O0NBf22JLWr1mDv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T06:22:06.726Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гурт Дно",
+      "renie cares"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273007fdd8ac5756f884d79bd4a",
+    "releaseDate": "2025-11-28",
+    "tags": [
+      "electropop",
+      "indie pop",
+      "indie rock",
+      "Avant-Pop"
+    ],
+    "title": "закрив пздк",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/60yTc5nh7JnmUGNLgzBLKr"
   }
 ]

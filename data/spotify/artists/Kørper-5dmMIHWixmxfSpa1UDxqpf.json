@@ -360,5 +360,29 @@
     "totalTracks": 15,
     "type": "album",
     "url": "https://open.spotify.com/album/6WLNCMWZjDuVo8dR9I9pML"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T06:27:39.939Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Morison",
+      "Kørper"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27374fb3e5f381c2c9538ca692a",
+    "releaseDate": "2025-12-12",
+    "tags": [
+      "black metal",
+      "depressive black metal",
+      "hard techno"
+    ],
+    "title": "Switch EP",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5o3TdT2dsfk4jUoGBDSp9H"
   }
 ]
