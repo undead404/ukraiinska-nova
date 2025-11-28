@@ -169,5 +169,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3Wk8sXEIOGNnTqb6wPbcPo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T00:39:45.321Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Михайло Хома",
+      "Eugen Khmara"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a2b9b114f5acefc6823b5f57",
+    "releaseDate": "2025-11-25",
+    "tags": [],
+    "title": "Там, де Різдво (з к/ф \"Потяг до Різдва\")",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3oq7YLjMprO3VMbVgOG0pp"
   }
 ]

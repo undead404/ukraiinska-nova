@@ -59,5 +59,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4rputq06d84zKDw458ajdl"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T00:46:10.761Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vilna Kasa"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a9e44c3e35b66520fafc2102",
+    "releaseDate": "2025-11-27",
+    "tags": [],
+    "title": "Зая бійся",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3ubfGMyIdoneFplZOnLUh1"
   }
 ]
