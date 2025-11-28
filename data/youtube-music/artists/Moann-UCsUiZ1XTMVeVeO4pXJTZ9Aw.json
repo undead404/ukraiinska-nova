@@ -313,5 +313,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lgahjfNpg3sZBp5xyzFFOXXlMzoeyNXMI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T18:50:37.577Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Moann"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/16RHnuZ_lNG7EXHshDCkaoQ-FkPN4NxcPhFQz1i7uxoCD3dhff0lH3otVsuupbfyc_36hFMfsxjs4Mdp=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "туманом",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lEHOYhiVE5hRQsY0Ex4FVMRZxHO-6G7L8"
   }
 ]

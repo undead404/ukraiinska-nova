@@ -796,5 +796,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l8u5wQIhrA9ruBwGpy1vnuvT30n5MlCAs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T18:50:59.689Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PELYUH"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/_3TbWava2PJ7AwxPe1aSWxb36J0y73RCPj447g3R6R0wIzvRqEnVWyWN7PHgW6a5IsaNZxIzhcCA7pmq=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Твоя магія",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mV7c55siPGUcA0cfgJLbESWWRPb2nJkQo"
   }
 ]

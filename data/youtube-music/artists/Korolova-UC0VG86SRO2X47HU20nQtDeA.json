@@ -1160,5 +1160,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l7MWfgL0n80lT949u01ar4KS7wQeEtYuI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T18:50:21.171Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Korolova"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/qbfI3QbDQjDMCPiNBygCEXfpG1tn7DdzN8gKDmzzOQj2PpfB97SHivWaytWB-ke2l7RKFcC94sTqs1A=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "Melodic House",
+      "House"
+    ],
+    "title": "Made For Love",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m0V0qjAdS7KoO8_3TjW_yicWZ64jEa45U"
   }
 ]
