@@ -324,5 +324,27 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/6JAPMmXAb1NA73tsriu0RD"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T12:29:19.895Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Marie Hellstein"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eebb4d0cf37d9c53c5e0b9b6",
+    "releaseDate": "2025-11-28",
+    "tags": [
+      "female vocalists",
+      "indie pop"
+    ],
+    "title": "Ха",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0FIXea5UccxqcjvMnSQumb"
   }
 ]

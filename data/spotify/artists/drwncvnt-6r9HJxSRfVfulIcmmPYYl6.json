@@ -1771,5 +1771,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7hEBZnWuVDM9cTQKLcVdpO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T12:27:04.176Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "drwncvnt"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27388736a3fe2b84a2c68d3017e",
+    "releaseDate": "2025-11-28",
+    "tags": [
+      "electronic"
+    ],
+    "title": "no connection",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/05lbjlozrzwYS1Ms1oKap9"
   }
 ]

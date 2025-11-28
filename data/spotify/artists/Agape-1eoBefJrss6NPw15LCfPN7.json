@@ -855,5 +855,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5psbqFAmFDejwQ3hAZOgiU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T12:25:36.222Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KALUSH",
+      "Agape"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737c45c5902118dacac3337884",
+    "releaseDate": "2025-11-27",
+    "tags": [
+      "electronic",
+      "rap",
+      "rock"
+    ],
+    "title": "Заплакана цариця",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3DLjmQ2Cgv1CJvanEAKqDA"
   }
 ]
