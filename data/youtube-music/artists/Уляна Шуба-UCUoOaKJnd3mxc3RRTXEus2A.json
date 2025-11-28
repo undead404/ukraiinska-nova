@@ -378,5 +378,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lQlAvnwQc3Ef83lhWo-Vovd7D1yTo7GlE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T02:18:54.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "УЛЯНА ШУБА"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/OvF4scmRimRNsufgCn8iLsGzrtIiBHZXCA8qzdiXUG-LuOu75zTIghb8ta2OxDfEbpBDZcmFQ53Yr2c=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "П'ятниця",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k9ySf3DaPV2K4uJOEdxeqaZIj48b--6bM"
   }
 ]
