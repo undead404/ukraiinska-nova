@@ -594,5 +594,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k-o3UE09H95nin6uUgjc-Vd4vcygnQEQU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T07:47:26.409Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Domiy"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/5BYAyHYE_SA86_12Tiak-p0dhBwhorAaVEkTBhOMArQ36Ls6BABfA56LhM2ei48FbwdoDWrQu3vXPIiFOA=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop"
+    ],
+    "title": "Побачимось завтра",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kPA4OjmQdAAM-ByfF0hY98iG1ITgmCzo0"
   }
 ]

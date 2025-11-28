@@ -2141,5 +2141,28 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mx8sXIlfcaVG7-cJOreUWQLk1cpYLRDYI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T07:46:01.776Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гурт Дно"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/nsJz2to7EIO48XQbItk4GcF0OrT7zIbCGZaA4JyyPefyo12r54DQn2PCUtTY-0piuoqP_ii_mPhTiSbc=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "indie pop",
+      "indie rock",
+      "Avant-Pop"
+    ],
+    "title": "закрив пздк (feat. caronlil & Yevhenii Dubovyk)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nQB7_88hx8VZWrTyUclLprqjzRzGRn0FU"
   }
 ]
