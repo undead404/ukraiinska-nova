@@ -529,5 +529,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1j5LQFa1PbZTDTJ47ls6CH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T21:27:45.042Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Schmalgauzen"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a56fdb5e0090fe134e87f214",
+    "releaseDate": "2025-11-28",
+    "tags": [
+      "cabaret"
+    ],
+    "title": "Сад Закоханих Лілій",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0ehui3qhR0asT3RwQeM8ig"
   }
 ]

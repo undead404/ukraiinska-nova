@@ -86,5 +86,24 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/5MFlAKcvaveAu8ukf3xPVb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T21:24:32.522Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Imager"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f59a941f5441c45a325a71d2",
+    "releaseDate": "2025-11-28",
+    "tags": [],
+    "title": "Сонна",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6j6lhIZrQL350eM5uztTJB"
   }
 ]

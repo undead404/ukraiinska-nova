@@ -196,5 +196,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1rdaUlFxwFWnoNtoMcQIYr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T21:25:27.319Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kvitka Gaevska",
+      "Андрій Сторож",
+      "Олександр Матієнко"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fe926ace451a239c71ec69c4",
+    "releaseDate": "2025-04-11",
+    "tags": [],
+    "title": "Ще раз",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5r20gorzfcUm2FQ10TJLYD"
   }
 ]

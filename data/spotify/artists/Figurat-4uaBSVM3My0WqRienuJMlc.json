@@ -308,5 +308,49 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0u1W8UzE8fg9oZzcgyTYnm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T21:23:59.435Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Figurat"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27356bee3ec9b08c5e96a11c8bb",
+    "releaseDate": "2025-11-28",
+    "tags": [
+      "funk",
+      "indie pop",
+      "indie rock"
+    ],
+    "title": "пісня про секс",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5BCJwXImLDVz96iDcRs7C3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T21:23:59.435Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "No Time For Swing"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273245c09399f45429512bed762",
+    "releaseDate": "2025-11-28",
+    "tags": [
+      "contemporary jazz"
+    ],
+    "title": "Swing Live",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2saieuWuuHQ30o3znTEQvE"
   }
 ]

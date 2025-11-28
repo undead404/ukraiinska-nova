@@ -986,5 +986,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1WqvTgY8FNGpX3kZbfrM1r"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T21:20:00.666Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Жахіття"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d69864d3e1123f8e5f8c04ed",
+    "releaseDate": "2025-11-28",
+    "tags": [],
+    "title": "Цунамі",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2uw2BNxdbo1Gg9OjaPEkWL"
   }
 ]
