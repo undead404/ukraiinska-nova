@@ -313,5 +313,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nncP_MJcglLNeVDfOETCLSELb2yzu7dBM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T21:47:14.367Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Shmiska"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/Gpx96DcsJQmT7bVXTfZRFjZVVvZpmumaZL61sjNyxJZH_ORVB-2ZrHrYcVNWUBWaNHgPFbfa55TbAnM=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Хто якщо не ми",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mSOD4mxjHTOcKJjBu9t2i75iQTLy85vSs"
   }
 ]

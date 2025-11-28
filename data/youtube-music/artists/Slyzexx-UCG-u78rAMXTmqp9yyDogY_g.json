@@ -2469,6 +2469,10 @@
       {
         "time": "2025-10-06T21:47:45.398Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-28T21:47:36.713Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2882,5 +2886,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kFwU4bcIvwknyOjN-kwuuSyzyvx-8A2_8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T21:47:36.715Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/bORQVbAEaQOUcBDZp1xOmVW0cX25cjVCuozhUn4YDTxBvNGpM2Uolx97V_YJ0pssAjPxNcceUzlzsqs=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Fill your life",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n0SOhUZkXMrSqxvJ5KGXqMBnD0Dc4vqFk"
   }
 ]
