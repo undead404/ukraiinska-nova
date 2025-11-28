@@ -530,5 +530,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kh6PHmp2m-hg-DeopiytwxD-2Jneytok4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T23:45:42.380Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "EDWAРД"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/6x-yXtooqNUtszzQL7sKbP5Ob2Lnd372ohPb0s2XG-7JG7i61_hQOGUqFPLDQVhNbw1QjbYMyyQGwGu9Uw=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop rap"
+    ],
+    "title": "Не йди",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kaTEw8y0W0EHooqtakv_m1tuVxMba-P4o"
   }
 ]

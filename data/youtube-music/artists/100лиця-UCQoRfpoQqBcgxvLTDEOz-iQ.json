@@ -780,5 +780,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nBbdE2xsn1RP5mfQAMkYnTwetG9EckA4s"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T23:44:20.735Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "100лиця"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/H4qpR-vaa0J6RLXgD6_rvTCKZ8W6ewrGEeYIYptrG3ZGmWxVVdON0FxCQHckqTPRyEwYIUBIg6DGAfo=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "male vocalists",
+      "pop"
+    ],
+    "title": "Гандзя",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kF2uKCykWwlBjBpe7MdCfWKZmIIPJ1AjI"
   }
 ]
