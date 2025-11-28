@@ -1495,5 +1495,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1QGxIkh2XLd6XulOTwhJwm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T11:23:03.621Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Artem Pivovarov"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a5b58f4fc1a110251cf48ba6",
+    "releaseDate": "2025-11-28",
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "title": "Ave Maria",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7g9UoynPtS4P89KPb81hsP"
   }
 ]

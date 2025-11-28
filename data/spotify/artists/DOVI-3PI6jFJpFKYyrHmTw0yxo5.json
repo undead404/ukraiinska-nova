@@ -790,5 +790,26 @@
     "totalTracks": 11,
     "type": "album",
     "url": "https://open.spotify.com/album/1c1dnvDEuprkoe1QuCS7lX"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T11:23:57.553Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DOVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ed9b0996f080cdb4d57c5163",
+    "releaseDate": "2025-11-27",
+    "tags": [
+      "dream pop"
+    ],
+    "title": "Ми всі в тумані",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0gWmGKxKm9Op0FxJQsM3cc"
   }
 ]

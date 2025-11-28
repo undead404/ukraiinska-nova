@@ -329,5 +329,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7EtQTck4YqKkwrSjcNk5K8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T11:27:16.643Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Moann"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27344fc621c43ff757078918138",
+    "releaseDate": "2025-11-28",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "туманом",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1qPZDRoRe3SpsQBpyICc72"
   }
 ]
