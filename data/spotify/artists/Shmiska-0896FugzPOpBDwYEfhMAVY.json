@@ -345,5 +345,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/18bXGt1Aug26bkQPmzMtfd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T20:30:23.541Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko",
+      "Shmiska"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27347cd3e657caa9ad93d5a59cc",
+    "releaseDate": "2025-11-27",
+    "tags": [
+      "indie pop",
+      "pop"
+    ],
+    "title": "Хто якщо не ми",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1Oaf7lnKX6HOXDIAEhDwc3"
   }
 ]

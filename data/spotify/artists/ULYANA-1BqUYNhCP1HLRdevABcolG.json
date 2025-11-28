@@ -44,5 +44,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4AIGhsryE8JUurNLBZrFYc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T20:32:08.879Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ULYANA"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c7e432004387b80fb8372c60",
+    "releaseDate": "2025-11-28",
+    "tags": [
+      "ambient",
+      "electronic"
+    ],
+    "title": "іскритися",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4XclcgtDvnXmzyQYB56qOi"
   }
 ]

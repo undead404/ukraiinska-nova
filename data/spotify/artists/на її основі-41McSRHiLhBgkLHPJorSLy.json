@@ -957,5 +957,26 @@
     "totalTracks": 7,
     "type": "album",
     "url": "https://open.spotify.com/album/4Zs9kx1otUIR3yweUhdWE0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T20:23:24.548Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "kolya dudchenko",
+      "vrochinskiy",
+      "на її основі"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e57e6e70e3ed76722ccedf01",
+    "releaseDate": "2025-11-28",
+    "tags": [],
+    "title": "360",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4c2KgKMWBOBZt7qGuVYOYE"
   }
 ]

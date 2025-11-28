@@ -251,5 +251,29 @@
     "totalTracks": 8,
     "type": "album",
     "url": "https://open.spotify.com/album/7yk7rrvRnymUfATR6HTipI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T20:32:04.902Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "uki"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fee0d2a90cb172271df28be2",
+    "releaseDate": "2025-11-28",
+    "tags": [
+      "easy listening",
+      "rock",
+      "chillout",
+      "japanese"
+    ],
+    "title": "ring",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1VfeVqm4NaDrmGA6DsglUD"
   }
 ]

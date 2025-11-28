@@ -558,5 +558,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3c3ZSWnM4bG2Ox7LyPDVOj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T20:26:01.885Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "OG Basa",
+      "Defy Def"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273737f6f53a411580028819e8d",
+    "releaseDate": "2024-09-20",
+    "tags": [
+      "rap"
+    ],
+    "title": "Critical",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0XWwG5aAOdBekXaABJBIBA"
   }
 ]
