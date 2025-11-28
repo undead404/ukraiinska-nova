@@ -359,5 +359,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mMkjQg1pL7H_cYEyrJwH88OMi5bSA0c3g"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T15:46:54.598Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Forlen"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/MkEzDdpR0aeOT7diDsYBVxg1SC1ro5K6kwzY2N1Sk8vVIxs67fKcx_Spf__Y0oPMqS4MXSDsg7A7axP3=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Вільна ніч",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mRvcQY7dxK8YitXxbLjTTRiPCWvXGyKFQ"
   }
 ]

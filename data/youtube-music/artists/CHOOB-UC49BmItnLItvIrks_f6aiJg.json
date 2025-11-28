@@ -435,5 +435,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kf1Q-KiY_--l1woNH0wNoy4kUzlQiiC2k"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T15:46:27.853Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CHOOB"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/j1r0DNTrvi7IDAslYkfBGrqQnzHNOB0BjqFivWtN00tUYavzokIIQRrJS7RiFW9WXqPs4dKDj5Tmfz4=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Не сам",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nGA-4CyO6LyinAYCt-t-FApnH6VG8UXmw"
   }
 ]
