@@ -768,5 +768,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k6I7yLJa7YhkoUdPhL3JLNhYueMDDA3zc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T14:49:44.207Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROMARO"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/xE070aPfjZJdsVwlNdF9aC5Sr_SrIdXnSItpPaJKQrDCzc_g2GLDkyOtRpbK94YruJap_0N2jOtaI9ak0Q=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "Hip-Hop",
+      "pop rap"
+    ],
+    "title": "Без Те",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mw9fuTNzUCsU34ejXsr-Mz1YfH0drfwc4"
   }
 ]
