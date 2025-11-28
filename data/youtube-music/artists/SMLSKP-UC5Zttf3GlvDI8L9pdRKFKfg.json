@@ -207,5 +207,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lnKao0c4n3Riqd9I-RckhjZPyNROnNFGU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T09:48:07.198Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SMLSKP"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/pge9sDRICaer9jyGm4LCB5u6E4IEyhQHpibOkv5eAH1xrJP9k7MiA4BnXyjm-Px2M7RNm7LvIuzK1L_T=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Мовчи",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mdTZx402ZXKx2ht5KHsGhvjVpEGbm0ZgU"
   }
 ]

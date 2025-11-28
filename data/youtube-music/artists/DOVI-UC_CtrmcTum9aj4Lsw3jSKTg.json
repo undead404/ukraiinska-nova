@@ -1187,5 +1187,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nKP4q6uS67AL6ykjDcx0V1cUMCb3L4ukY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T09:46:30.821Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DOVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/FWluKzmci9LR1MtWXVVKVffwCJw0K3F7gXhq4m2JBOZCVaBmK4xwriXwJOWpOYDgDiyw0dg6_dyVi3W6=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "dream pop"
+    ],
+    "title": "Ми всі в тумані",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mGp_u8ttPJDiqRTKMtt1GAMEux1YFv-VA"
   }
 ]
