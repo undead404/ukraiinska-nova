@@ -481,5 +481,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kye66nHiqq6zX33e1QkQ4Ji2heM3I8ojw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T20:46:43.652Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ЧАКІР"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/xE070aPfjZJdsVwlNdF9aC5Sr_SrIdXnSItpPaJKQrDCzc_g2GLDkyOtRpbK94YruJap_0N2jOtaI9ak0Q=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Без Те",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mw9fuTNzUCsU34ejXsr-Mz1YfH0drfwc4"
   }
 ]
