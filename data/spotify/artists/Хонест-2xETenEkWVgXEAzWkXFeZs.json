@@ -986,5 +986,26 @@
     "totalTracks": 7,
     "type": "album",
     "url": "https://open.spotify.com/album/6hT65ks5WwRrd7rNr1rABK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T17:22:18.323Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Хонест"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730843807fa77c238d0cd028e3",
+    "releaseDate": "2025-11-28",
+    "tags": [
+      "rap"
+    ],
+    "title": "Кримінал",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3xlsCmKVNg5ZeUOpJ2JUUO"
   }
 ]
