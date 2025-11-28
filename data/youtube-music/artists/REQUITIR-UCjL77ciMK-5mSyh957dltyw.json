@@ -207,5 +207,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kSnuJk3a5ddhJkPFqNBp6rz03-DKLBv40"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T05:49:50.974Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "REQUITIR"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/Mljf5xxgDCmBWHXcEIMWycp5ypoeMV9slfZ4k438W98gCB2ikjwJz_q6ysKxMu3YADQCxhWG5cf_MjwE=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Робочий клас",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lAF66wFxEXCyazfOlyg5QexImKtIr9-uM"
   }
 ]
