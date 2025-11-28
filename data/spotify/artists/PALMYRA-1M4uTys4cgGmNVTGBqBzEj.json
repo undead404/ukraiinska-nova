@@ -720,5 +720,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6MPu5niiSutGI6Jfjg2cpf"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T16:28:04.371Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PALMYRA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27381a0034fe9a30d0a069589e3",
+    "releaseDate": "2025-11-28",
+    "tags": [
+      "folk"
+    ],
+    "title": "ЦИТРУС",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/26fuPv9ajZaksg2n8aMWt1"
   }
 ]

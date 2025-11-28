@@ -23,6 +23,10 @@
       {
         "time": "2025-09-22T16:24:20.193Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-28T16:28:42.273Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -42,6 +46,10 @@
       {
         "time": "2025-09-22T16:24:20.193Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-28T16:28:42.273Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -117,5 +125,43 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6hBwN8PLLPXbtkueSnHOqd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T16:28:42.273Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ПРОБЛИСК"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c0efeb6ad991c909201673ed",
+    "releaseDate": "2024-10-11",
+    "tags": [],
+    "title": "Навіть не лютий",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5xDTFeOYZzuRXDTyJ5lKt8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T16:28:42.273Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ПРОБЛИСК"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ce0111cb25d6e4269d74ab2c",
+    "releaseDate": "2024-08-09",
+    "tags": [],
+    "title": "Проблиски",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1ww83cIoSxVx2BcUrYGKqc"
   }
 ]
