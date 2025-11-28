@@ -567,5 +567,27 @@
     "totalTracks": 12,
     "type": "album",
     "url": "https://open.spotify.com/album/6uk2AmZECOCVbbElfPVFXy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T23:20:53.862Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ігор Кайдаш"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735e894b18cafe9b23b32c52ef",
+    "releaseDate": "2025-11-28",
+    "tags": [
+      "indie pop",
+      "indie rock"
+    ],
+    "title": "останній день",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3ctOruORDGOfmPquRAqZ7c"
   }
 ]

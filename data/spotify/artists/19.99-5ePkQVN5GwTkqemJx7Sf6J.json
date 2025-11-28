@@ -36,5 +36,26 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/04QYvYNR5tDYE4GZX5Ndnr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-28T23:19:59.831Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "No Time For Swing"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273245c09399f45429512bed762",
+    "releaseDate": "2025-11-28",
+    "tags": [
+      "contemporary jazz"
+    ],
+    "title": "Swing Live",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2saieuWuuHQ30o3znTEQvE"
   }
 ]
