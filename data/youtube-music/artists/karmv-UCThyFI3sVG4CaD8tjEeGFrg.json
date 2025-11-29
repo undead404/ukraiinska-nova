@@ -321,5 +321,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nKs8cGvWMdvwFC4s4rZSMvNf5jQQaukI4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-29T04:49:04.204Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "karmv"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/kzyLsOXQWF7bP7pGqTjVX2oW1RODVvAdWHZZtEUqUsD950E-4Bp6cvEkozLWHl2QYOEnlaW1ZhgrHuFr=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Закоханий",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lKpCaR4ZPTUlte236kpJPIxAdkUyY65u0"
   }
 ]
