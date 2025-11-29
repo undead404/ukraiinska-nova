@@ -1336,5 +1336,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0LCnfOUNM8Ya02dMMPhtRW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-29T17:20:05.558Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АСАФАТОV"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738d88a1e0ba5bcf39d490b9b4",
+    "releaseDate": "2025-11-28",
+    "tags": [
+      "pop"
+    ],
+    "title": "ІПСО",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7sSawg5J1EyAHCIN0WWh1C"
   }
 ]
