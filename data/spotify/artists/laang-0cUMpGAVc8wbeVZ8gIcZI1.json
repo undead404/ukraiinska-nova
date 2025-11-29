@@ -759,5 +759,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3kdgs2KQyrIrd7DOuKK8BZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-29T04:26:25.522Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "laang"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738848aa334ea186907f0e38fc",
+    "releaseDate": "2025-11-28",
+    "tags": [
+      "black metal"
+    ],
+    "title": "збила машина",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6F9GzNZvH7Z7Wo10QeWZhi"
   }
 ]

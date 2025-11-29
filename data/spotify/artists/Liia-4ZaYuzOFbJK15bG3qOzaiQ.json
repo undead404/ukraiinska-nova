@@ -375,5 +375,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7BzFBFS8kRvEx2TczpzEwr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-29T04:26:33.915Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ortea",
+      "Liia"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737f51b76b3047a9d7569ddc69",
+    "releaseDate": "2025-11-28",
+    "tags": [
+      "art pop"
+    ],
+    "title": "Передчуття",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/085kmGbQtGWFbREiGdG7Oa"
   }
 ]
