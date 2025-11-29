@@ -388,5 +388,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nazCBY4EIOL5I_bRYj6VyVqSQrIsEMXeY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-29T17:46:19.563Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Fiamma"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/nxJ2hy2fmE5jiBt_3o2hvcDeIRNsdMKq1FlF9hY8gMWNrgasIvqdEwskg7lwNe2vi6Wa0aOlVjBKteDh=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "Gabber",
+      "hardcore techno"
+    ],
+    "title": "Backwood",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nVJcygnUxzuG4TKYz5tf8guifex6miNH4"
   }
 ]
