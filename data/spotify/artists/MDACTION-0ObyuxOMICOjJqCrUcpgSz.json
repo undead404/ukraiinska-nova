@@ -697,5 +697,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6fAKlGSszCS4kzLceKWzDK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-29T10:26:47.524Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MDACTION"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27320b9b897c38bcb151075b7b2",
+    "releaseDate": "2025-11-28",
+    "tags": [],
+    "title": "форевер лонли",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0V2sJatdidaPAE2NMvAW9a"
   }
 ]
