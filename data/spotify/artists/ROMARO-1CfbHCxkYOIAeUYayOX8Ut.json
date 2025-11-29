@@ -814,5 +814,29 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/65524E3kY5JYePV3nIj1X9"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-29T03:42:52.583Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TRAVINSKIY",
+      "ROMARO",
+      "ЧАКІР"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730301afd88907e87ee3ea2d03",
+    "releaseDate": "2025-11-28",
+    "tags": [
+      "Hip-Hop",
+      "pop rap"
+    ],
+    "title": "Без Те",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/77p7tmchXNnd7N5FOWf227"
   }
 ]

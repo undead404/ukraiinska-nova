@@ -544,5 +544,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3g4kqBNmf4SeiiIPAiJ15W"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-29T03:38:35.262Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "EDWAРД"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c5e4ebadc8089e4f3611e397",
+    "releaseDate": "2025-11-28",
+    "tags": [
+      "pop rap"
+    ],
+    "title": "Не йди",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0MbBecz9l0N66a0LLT1ySH"
   }
 ]

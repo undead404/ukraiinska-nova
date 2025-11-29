@@ -459,5 +459,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4E3lJwXVAInHKfLEJcu4vr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-29T03:44:05.452Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Banduragirl",
+      "Soundpill"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27321a0b609e3818ec5f93022fa",
+    "releaseDate": "2025-11-28",
+    "tags": [],
+    "title": "Боривітер (Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0OfcO4CnNQVmyWKfrRqMg1"
   }
 ]

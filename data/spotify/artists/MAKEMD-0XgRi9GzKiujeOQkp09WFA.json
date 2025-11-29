@@ -720,5 +720,26 @@
     "totalTracks": 13,
     "type": "album",
     "url": "https://open.spotify.com/album/7m81PUzbUshHayyqZiJy2J"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-29T03:40:59.198Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MAKEMD"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27365dd28e65cd0dded3c2c5be1",
+    "releaseDate": "2025-11-26",
+    "tags": [
+      "techno"
+    ],
+    "title": "Sunrise in the East",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7Cgo0lJcmGnjGCaZSrLHsv"
   }
 ]

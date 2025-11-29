@@ -3610,5 +3610,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4p0uobqIG19IVH6q9vl9cy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-29T03:43:48.531Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730fbd53a10b76a105fc6a23ae",
+    "releaseDate": "2025-11-28",
+    "tags": [],
+    "title": "Fill your life",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6nN3KPke5bh80GwuHiMsMT"
   }
 ]
