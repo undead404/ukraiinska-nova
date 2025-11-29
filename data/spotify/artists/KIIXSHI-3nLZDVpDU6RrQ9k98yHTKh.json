@@ -1470,5 +1470,25 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/5hnn6udaVnPNy45kq3UV2Y"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-29T02:50:47.350Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KIIXSHI",
+      "D4C"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f0a896747bd9ab0270c73686",
+    "releaseDate": "2025-11-28",
+    "tags": [],
+    "title": "PISTA LOUCA",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6fwJSiy81wzeclcpe2sUpb"
   }
 ]

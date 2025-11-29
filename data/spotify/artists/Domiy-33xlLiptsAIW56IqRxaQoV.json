@@ -469,5 +469,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4ywKHVrjPdmk94xuBoJNmo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-29T02:49:15.333Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Domiy"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739c9b1be56b10f26fde7ff2a0",
+    "releaseDate": "2025-11-28",
+    "tags": [
+      "pop"
+    ],
+    "title": "Побачимось завтра",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5PDUtLma1oYnfIW44CalFC"
   }
 ]

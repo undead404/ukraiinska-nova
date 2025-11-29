@@ -1243,5 +1243,34 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/5pDKp6dIUF2Dcu0FqlRx0D"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-29T02:51:52.978Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Korolova",
+      "Agents Of Time",
+      "Conor Ross"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738427b6f50cc076204878bfae",
+    "releaseDate": "2025-11-28",
+    "tags": [
+      "dance",
+      "electronic",
+      "Melodic House",
+      "techno",
+      "EDM",
+      "UK",
+      "House"
+    ],
+    "title": "Made For Love",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5lBJfXqwjdVj5txL43AlN8"
   }
 ]

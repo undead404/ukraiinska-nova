@@ -1025,6 +1025,10 @@
       {
         "time": "2025-09-27T02:42:33.159Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-29T02:55:01.592Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1148,5 +1152,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5EBTAWtNM9CPGILtarEzqb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-29T02:55:01.593Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Tony Tonite"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273922b0af8038c6cd60e913606",
+    "releaseDate": "2025-11-28",
+    "tags": [
+      "Hip-Hop",
+      "House"
+    ],
+    "title": "Stunta",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2DKmB6vp6qpPlCwcMCfGMi"
   }
 ]
