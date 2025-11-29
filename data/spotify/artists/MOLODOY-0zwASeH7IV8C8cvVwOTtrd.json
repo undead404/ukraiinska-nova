@@ -620,5 +620,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5wzWoPv4Fjk2DUsxPVBVkc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-29T13:28:26.643Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "OG Basa",
+      "MOLODOY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f1c0822b7ba9e7b78e5ec720",
+    "releaseDate": "2024-06-07",
+    "tags": [
+      "rap"
+    ],
+    "title": "ENZO",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1KpeNH3SeTFq1mtYMM83jq"
   }
 ]
