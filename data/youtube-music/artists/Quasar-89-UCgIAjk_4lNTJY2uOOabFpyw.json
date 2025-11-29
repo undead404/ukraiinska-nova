@@ -1897,5 +1897,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nXNxmgWCQODZPz3aAzT0gnc84WlJbp09Q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-29T15:47:41.313Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/CxHyPzRcPEAPdbCflJSAd__W3kIUsTU77qc8frGC8CfYiQH4-FYCqf7WJ7MBEOnhxzzgwcBCLcd8i7jp=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Quantum Field",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kET_fiPKl49P0HGRD5cdxOAI820hjULrs"
   }
 ]
