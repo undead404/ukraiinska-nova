@@ -890,5 +890,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6IgInSP7bd5oHbBZXjymhW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-29T00:38:10.805Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "100лиця"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f19a8fc5050d7c8eee137754",
+    "releaseDate": "2025-11-28",
+    "tags": [
+      "male vocalists",
+      "pop"
+    ],
+    "title": "Гандзя",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/61hQMFiZDZDyPh583rpASv"
   }
 ]
