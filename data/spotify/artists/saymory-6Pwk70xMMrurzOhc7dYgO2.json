@@ -1215,5 +1215,27 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/2GyJUmqbA6cRrakPopE2Eg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-29T01:56:59.034Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "saymory"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27350b16917ae77413ffc0c6d5c",
+    "releaseDate": "2025-11-28",
+    "tags": [
+      "ambient",
+      "electronic"
+    ],
+    "title": "Up to You",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4p77p7BSQh5Q9xvXey8bnW"
   }
 ]
