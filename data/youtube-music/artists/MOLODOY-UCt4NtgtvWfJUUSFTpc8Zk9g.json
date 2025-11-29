@@ -548,5 +548,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nwDf2vy7ylD6j2OmxblCBSUiYwvj4MiQA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-29T23:47:12.688Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MOLODOY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/dAcuKfFECuXgusHQAb6LjQO8tBTY2Uv1xE8otiOY36Afc2c78PWd4pEwHJrIUbRr0hp9YXjT2GEy05w=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "rap"
+    ],
+    "title": "ENZO",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kMo5nhEaxzq34uNTK5-zJ-RfHnle5PwoY"
   }
 ]
