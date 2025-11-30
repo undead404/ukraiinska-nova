@@ -2138,5 +2138,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0DhpqNdIzrj3hGuvP6xCXV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-30T10:24:53.992Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Eric Deray"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273be762c5f2bdc3048adffc882",
+    "releaseDate": "2025-11-30",
+    "tags": [],
+    "title": "Angel in Salem",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3bR1mn3vjOeIMGduJZnOEV"
   }
 ]
