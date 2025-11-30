@@ -103,5 +103,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0cl7cTzl9wEPHHExy4NsXe"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-30T06:21:15.088Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ВИР!"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27368f8b61fcff348e5853e04e1",
+    "releaseDate": "2025-11-30",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "27",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4EMsqiafMhW76LpffuhhdX"
   }
 ]
