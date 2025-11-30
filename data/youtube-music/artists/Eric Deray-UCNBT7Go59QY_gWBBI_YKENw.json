@@ -1866,6 +1866,10 @@
       {
         "time": "2025-09-22T17:45:56.497Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-11-30T17:46:43.901Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1921,5 +1925,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l301aIprK8T51QHDcCIHEMgLNc9iRNatw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-30T17:46:43.902Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Eric Deray"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/1cz0VqdmQA5Xs18Pt6QsgpbsOup7sVocjSu21r5F8T8xH3Cx2kRgFc0iCw3r68SF3DhVdKnEKQUNOYk=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Angel in Salem",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nIR5J2HBK_F9FCu0SSgr2xmoYkFx4hBhQ"
   }
 ]
