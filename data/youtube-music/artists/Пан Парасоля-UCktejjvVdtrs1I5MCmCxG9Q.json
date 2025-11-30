@@ -283,5 +283,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kRXCZX3Z4vr-H1eCdGsaNt8d4f0efjHWY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-30T13:45:57.714Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Пан Парасоля"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/Dvvm6RqzutFfQ_6936S0bwEkQ2DLdtBlWPFgvOgIRSzI-3hLTtx6hFPCAcDJzsC4EWSkzAkQ9KLOaCVM8w=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Ми будемо разом",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mgCuKTyHUHojzU4hz-q344vkzTJBkvTWw"
   }
 ]
