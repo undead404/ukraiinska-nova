@@ -283,5 +283,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4FkVfcz9FtY1zndKA7IQ7n"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-30T19:20:36.643Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Пан Парасоля"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737af86e4e23a335951027d9a3",
+    "releaseDate": "2025-11-30",
+    "tags": [],
+    "title": "Ми будемо разом",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5VQvZYXT6KCSyVp09Ym8o1"
   }
 ]
