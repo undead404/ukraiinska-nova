@@ -876,5 +876,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3HoMdibuJqvwhOz6NHQ8gi"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-11-30T07:22:17.054Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DILLA DANK"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732d71150f82703409bbda9bc2",
+    "releaseDate": "2025-11-30",
+    "tags": [],
+    "title": "PRIZRAK",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/26gr9d37c14sifDzuQx1bW"
   }
 ]
