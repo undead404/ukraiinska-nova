@@ -457,5 +457,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nOVDdltjuzX3AK6Y7mQKq0Lg7JXpy77Mg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-01T21:44:49.064Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Інна Главацька"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/oJ-_8PligLI7XwP0OA7RjbYYZYNkWa8pNdSOAPmP8i5HNpLAPo1AYFJ5L69_PHWx2Rm4o_0ICvPqW1Y=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "female vocalists",
+      "folk pop"
+    ],
+    "title": "Я лише для тебе",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kWcIaBzmaGlBnEbPaQMO6dzetCUAvPx_U"
   }
 ]
