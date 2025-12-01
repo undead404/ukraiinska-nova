@@ -663,5 +663,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_msp5dorApJxqPSIxWzEOp5MsxZjj89NMc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-01T07:47:54.080Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Baryk"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/fSP2-jXsyAbemDlS3on-2zw5ZLXqAz7Yn_42al_sy-01_nsaQhIAUqlikO9CXtDUvf_ViNipuVPpFxc=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop rock"
+    ],
+    "title": "Падає сніг",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m01CXGISFCmmnYbMvMoHic7R4xr0Atdog"
   }
 ]
