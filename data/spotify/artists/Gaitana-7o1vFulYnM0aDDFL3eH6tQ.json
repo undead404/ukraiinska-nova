@@ -755,5 +755,49 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/7iM2qFTlArDJdtB8Kb29Hp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-01T11:24:59.967Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Gaitana"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eb17fb5dba1de4849695ce69",
+    "releaseDate": "2003-12-08",
+    "tags": [
+      "pop",
+      "Eurovision"
+    ],
+    "title": "О тебе",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2ZgxuoTtE8yrxueueDh61O"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-01T11:24:59.967Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Gaitana"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b263a19411898bfa95d5cd57",
+    "releaseDate": "2012-07-04",
+    "tags": [
+      "pop",
+      "Eurovision"
+    ],
+    "title": "Viva, європа!",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6QiIKsa4ntURI6cBgu5Toi"
   }
 ]
