@@ -523,5 +523,30 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/23OA1dFyZ9E0KJrkNNY3kO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-01T09:26:45.062Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Тур",
+      "NAZVA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a3b33171083832951add26f6",
+    "releaseDate": "2025-12-01",
+    "tags": [
+      "folk",
+      "Hip-Hop",
+      "underground hip-hop",
+      "folk pop"
+    ],
+    "title": "Коли настане мир",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0lMaZX0yr8zmMpos5mxb17"
   }
 ]

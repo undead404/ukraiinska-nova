@@ -1393,5 +1393,26 @@
     "totalTracks": 14,
     "type": "album",
     "url": "https://open.spotify.com/album/2NsYDW5kC4NpmR5syjN3SB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-01T09:22:38.505Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Iryna Bilyk"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273884de41ae6ecce2fc4240bc6",
+    "releaseDate": "2025-12-01",
+    "tags": [
+      "pop"
+    ],
+    "title": "Запам'ятай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4lREA7q6zUAIU0iHZP7Z0M"
   }
 ]
