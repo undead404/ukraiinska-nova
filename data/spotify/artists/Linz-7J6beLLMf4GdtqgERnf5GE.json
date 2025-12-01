@@ -391,5 +391,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3FvDf7G5rdY7Zx7nT5ZXI8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-01T16:27:20.419Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Baryk",
+      "Linz"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735dba04fd57d8e5f5f3f113b1",
+    "releaseDate": "2025-12-01",
+    "tags": [
+      "pop rock"
+    ],
+    "title": "Падає сніг",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/62l0lMwMlcILztpXSykFAr"
   }
 ]
