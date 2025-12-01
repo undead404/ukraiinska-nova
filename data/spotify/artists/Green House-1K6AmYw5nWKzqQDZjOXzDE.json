@@ -633,5 +633,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4rYQtcOgvlFFSCFekzSt7C"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-01T18:28:17.070Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BORKUSS"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27378e01189e98a891494bf5367",
+    "releaseDate": "2025-12-01",
+    "tags": [],
+    "title": "4/4",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3YnJh8NTxXUY59TlAHqAvg"
   }
 ]

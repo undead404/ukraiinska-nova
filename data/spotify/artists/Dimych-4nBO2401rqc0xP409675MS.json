@@ -307,5 +307,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3rKkq4YERZt1NhJ3SqwgWI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-01T18:26:58.632Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Dack",
+      "Dimych"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273572829628f4b82b312f9d78f",
+    "releaseDate": "2025-12-01",
+    "tags": [],
+    "title": "DUCH EP REMIXED BY DIMYCH",
+    "totalTracks": 9,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7r3x4LmtuJ01Fy35P24fqI"
   }
 ]
