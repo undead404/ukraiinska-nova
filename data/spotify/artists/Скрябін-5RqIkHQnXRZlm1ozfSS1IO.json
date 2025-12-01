@@ -854,5 +854,26 @@
     "totalTracks": 20,
     "type": "album",
     "url": "https://open.spotify.com/album/1LMpkODrHfuoLBgHCjW35y"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-01T08:23:01.189Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Скрябін"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736b45c5457915d9d382257963",
+    "releaseDate": "2025-12-01",
+    "tags": [
+      "synthpop"
+    ],
+    "title": "Птахи-Лелеки",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5Tbq4zqxTV8CtQUNnOeypu"
   }
 ]
