@@ -963,6 +963,10 @@
       {
         "time": "2025-11-19T23:28:45.112Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-01T23:30:02.499Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1094,5 +1098,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3f79ggXH2JjwhzUV6x59vX"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-01T23:30:02.500Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Pero Culture Crew"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737e6b728d7c6f1e22c56d2d32",
+    "releaseDate": "2024-03-01",
+    "tags": [
+      "rap"
+    ],
+    "title": "Thinking Further",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2Cr7AHFXWWU7YPERpXtRYv"
   }
 ]
