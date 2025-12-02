@@ -189,5 +189,26 @@
     "totalTracks": 16,
     "type": "album",
     "url": "https://open.spotify.com/album/7oHTphOuMNRNykMvbk9GIC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-02T22:21:38.336Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Artistka Chuprynenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d141a6a6aae0ecbcc8e22a59",
+    "releaseDate": "2025-12-02",
+    "tags": [
+      "dark folk"
+    ],
+    "title": "Акула",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1lpSIisfy6b1BpnruBZEjH"
   }
 ]
