@@ -63,5 +63,26 @@
     "totalTracks": 6,
     "type": "single",
     "url": "https://open.spotify.com/album/1itveyHSSYUhAupf5zGiYx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-02T02:49:09.962Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Бакі г'юберт"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730658e16a2fc5f56d08bbd68d",
+    "releaseDate": "2025-12-01",
+    "tags": [
+      "rap"
+    ],
+    "title": "ОМ (IA - Iconoclastic Art)",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3ZIcdOLSyjj4mymDkpE6f8"
   }
 ]
