@@ -2643,5 +2643,31 @@
     "totalTracks": 28,
     "type": "album",
     "url": "https://open.spotify.com/album/4LfA8UD2iKinrtiQkauwNb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-02T03:51:07.493Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ralph Vaughan Williams",
+      "Valentin Silvestrov",
+      "Antonio Vivaldi",
+      "Edward Elgar"
+    ],
+    "artistsPopularity": 6,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bac6d7bfd1e6b57b617fccbe",
+    "releaseDate": "2023",
+    "tags": [
+      "Classical",
+      "contemporary classical",
+      "baroque"
+    ],
+    "title": "Namaste - Classical Music for Yoga",
+    "totalTracks": 35,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6N10yJCdJrFPfkNpXFQi8f"
   }
 ]
