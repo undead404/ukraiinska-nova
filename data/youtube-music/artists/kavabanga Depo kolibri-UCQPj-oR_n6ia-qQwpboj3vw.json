@@ -1957,6 +1957,10 @@
       {
         "time": "2025-11-14T10:50:03.002Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-02T10:50:52.161Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1969,6 +1973,27 @@
       "Hip-Hop"
     ],
     "title": "Love, like autumn",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lmm0vzyWXBlZIyTCeDAfoy8gaGw4mmZ7Q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-02T10:50:52.162Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "kavabanga Depo kolibri"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/BRDlZ0kWseAW4KB8OnxmKEmDhn6WNQLBguQKEQwDooZG35fHDi5W6qSW-F1fE1_4O91N-Gza30KkJvE=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Love like autumn",
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lmm0vzyWXBlZIyTCeDAfoy8gaGw4mmZ7Q"
