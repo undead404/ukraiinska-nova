@@ -1707,5 +1707,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6u5AGcABpwG2ApJ5L4f5Za"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-02T18:29:38.492Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KAVA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27372acc9b1957cdb70b2332d9e",
+    "releaseDate": "2025-12-02",
+    "tags": [
+      "pop",
+      "male vocalists"
+    ],
+    "title": "Хто я?",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3EzCofeZKeS8JX7UlK6wSR"
   }
 ]
