@@ -4,6 +4,10 @@
       {
         "time": "2025-09-23T04:46:26.234Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-02T04:50:24.125Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -574,5 +578,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lToqDWKv2Nuh9PpV7zIAy6nnwhYhKZkhs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-02T04:50:24.125Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Скрябін"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/fXPy9KKt2_ZPZ5QRfLx8pzoRTjl8o166WnqyghcO6mukWkVbyOj8R1p5Dqv6ril3qDg0hR7J2KKJunhA=w544-h544-l90-rj",
+    "releaseDate": "2019",
+    "tags": [
+      "synthpop"
+    ],
+    "title": "The Best (Deluxe Version)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kL5zddWWPlrD-zq9-UJqOIjiAbse6XWV4"
   }
 ]
