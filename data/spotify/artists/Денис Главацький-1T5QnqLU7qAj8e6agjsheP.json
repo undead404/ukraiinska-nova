@@ -192,5 +192,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4ND25eGO4U0yGW2w1GdWKM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-02T11:20:33.637Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Денис Главацький",
+      "Інна Главацька"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dcf9497152c3037934166aec",
+    "releaseDate": "2025-11-27",
+    "tags": [
+      "female vocalists",
+      "folk pop"
+    ],
+    "title": "Я лише для тебе",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6OhykIRTa2WRDoWmlkScoh"
   }
 ]

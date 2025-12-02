@@ -440,12 +440,16 @@
       {
         "time": "2025-12-01T11:28:48.859Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-02T11:28:35.855Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Stelsi"
     ],
-    "artistsPopularity": 4,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27308df11bc56fc41796f69d5b7",
     "releaseDate": "2022-03-30",
     "title": "Козацький марш",

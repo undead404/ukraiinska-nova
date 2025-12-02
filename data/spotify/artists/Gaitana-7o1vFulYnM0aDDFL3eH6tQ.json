@@ -799,5 +799,27 @@
     "totalTracks": 6,
     "type": "single",
     "url": "https://open.spotify.com/album/6QiIKsa4ntURI6cBgu5Toi"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-02T11:25:03.989Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Gaitana"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739fbfcbd68d4ad38e77c229c2",
+    "releaseDate": "2008-04-01",
+    "tags": [
+      "pop",
+      "Eurovision"
+    ],
+    "title": "Тайные желания",
+    "totalTracks": 14,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4UDMFH7rzF0ONU7S5CdCp3"
   }
 ]
