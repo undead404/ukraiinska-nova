@@ -986,5 +986,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nFgZYH7TmN_2pBxatXq0mcOzU51jkpyjM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-03T23:48:08.657Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ruslan Nota"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/7DMdjXJBqiC0eNi2JY5bLPT_JwA51cdG-aVwRKd4cd7YXsfvhy6iwL-wpCBpizfpsZlaa9q6nhQw6pTi=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [],
+    "title": "Бяки вояки",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lS3FUHXfa84b1_NAK1c465hmXAVmkg20I"
   }
 ]
