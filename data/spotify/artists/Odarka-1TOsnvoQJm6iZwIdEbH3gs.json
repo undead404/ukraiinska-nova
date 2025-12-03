@@ -1022,6 +1022,10 @@
       {
         "time": "2025-12-01T14:26:39.950Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-03T14:28:27.825Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1186,5 +1190,24 @@
     "totalTracks": 10,
     "type": "album",
     "url": "https://open.spotify.com/album/7bKR9z7yveWAYWST3OjxGS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-03T14:28:27.825Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Shell Robinson"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ca5c5a2753e1a54eede33195",
+    "releaseDate": "2025-02-28",
+    "tags": [],
+    "title": "#7 Special Edition Extended Mix - Top Progressive House, Trance & Melodic House (DJ Mix)",
+    "totalTracks": 33,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1MUpkE1JXfi7PUOcNlG6f4"
   }
 ]
