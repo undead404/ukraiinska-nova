@@ -1992,5 +1992,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/155j5SXGgyDiZhiDDuH2Pz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-03T08:25:12.667Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ASFUKA",
+      "Hockins"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273592d6fdedbd888e0f2908fea",
+    "releaseDate": "2025-11-30",
+    "tags": [
+      "garage",
+      "House",
+      "bass"
+    ],
+    "title": "Hues",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/01bsmqSFBEm1IMj87OfY7S"
   }
 ]
