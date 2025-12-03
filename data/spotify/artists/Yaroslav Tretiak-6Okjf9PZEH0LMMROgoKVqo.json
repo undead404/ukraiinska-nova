@@ -1093,5 +1093,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/73me64vZgvEydx8vLMza7h"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-03T17:33:22.700Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yaroslav Tretiak"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27383a9ee0008f329120b4fc11a",
+    "releaseDate": "2025-12-03",
+    "tags": [],
+    "title": "Focus",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0kRBPAQY8Bp0HiLSDhepPi"
   }
 ]
