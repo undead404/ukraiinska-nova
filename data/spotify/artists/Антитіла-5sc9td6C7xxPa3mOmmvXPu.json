@@ -933,5 +933,26 @@
     "totalTracks": 14,
     "type": "album",
     "url": "https://open.spotify.com/album/0a28QsFN8zbrWSvbSQ40PI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-03T16:21:28.653Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732d9982ef492faa9809c98c00",
+    "releaseDate": "2025-12-03",
+    "tags": [
+      "rock"
+    ],
+    "title": "Відколи",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7AQqRxE91i1hn1yLtAzWxN"
   }
 ]
