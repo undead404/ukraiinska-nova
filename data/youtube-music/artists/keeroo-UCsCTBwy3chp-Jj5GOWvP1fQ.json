@@ -880,5 +880,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lWC_yYq5ieTAbZj1M6qVBIdmtYBBqO1J8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-03T05:48:10.775Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "keeroo"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/ydDJI7G7wO8cSidA1qRgJeP6QCiBwZWa44t8vG1w2OxqrMY0K46bBvBVNBvRyZfOrOXfX3tOV2MjA13W=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "Lo-Fi"
+    ],
+    "title": "гіпноз",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mnBvqRV227PVtlLOkPcRIuQlqysh9mGKQ"
   }
 ]
