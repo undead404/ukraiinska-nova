@@ -200,5 +200,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/23OA1dFyZ9E0KJrkNNY3kO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-03T03:39:33.524Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Міша Правильний",
+      "Культурні сили",
+      "Sasha Chemerov"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731ce42cb29c072ffe07e1bd4a",
+    "releaseDate": "2025-12-02",
+    "tags": [
+      "rap"
+    ],
+    "title": "92-е життя",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2W6m3iMMNLw9UycJlipLf9"
   }
 ]
