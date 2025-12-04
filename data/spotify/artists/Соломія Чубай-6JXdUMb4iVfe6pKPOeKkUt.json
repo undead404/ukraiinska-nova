@@ -150,5 +150,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3oMfRFwinmuw4Nm2X35Zz8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-04T21:22:43.721Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Соломія Чубай"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273971d72280e9dd8d12ec601ab",
+    "releaseDate": "2025-12-04",
+    "tags": [],
+    "title": "Світло Різдва",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2GfOFDeleKcvRF5rALAp8V"
   }
 ]
