@@ -313,5 +313,26 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/7dwfnwUMbznz2C33AAp6vb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-04T04:26:12.946Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "FARINHATE"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27395d9d56219d3fee6c557149e",
+    "releaseDate": "2025-12-03",
+    "tags": [
+      "alternative"
+    ],
+    "title": "Маріонетка (акустична версія)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2LHNgRn75Fq2TU8Ewnahoa"
   }
 ]
