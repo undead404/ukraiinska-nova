@@ -2016,5 +2016,28 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/01bsmqSFBEm1IMj87OfY7S"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-04T08:25:16.680Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Hockins"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273703883e6dd370a45a11b531a",
+    "releaseDate": "2025-12-04",
+    "tags": [
+      "garage",
+      "House",
+      "bass"
+    ],
+    "title": "Blackout City",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1Fhh9aRMbbV5SaWqjfAZke"
   }
 ]
