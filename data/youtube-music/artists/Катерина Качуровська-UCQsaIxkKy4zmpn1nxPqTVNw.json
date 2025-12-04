@@ -194,6 +194,10 @@
       {
         "time": "2025-09-24T06:49:21.129Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-04T06:51:43.755Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -302,5 +306,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ngx0ZAJuch8HL8FZBee6qNbBnAqZU-k2c"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-04T06:51:43.756Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Катерина Качуровська"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/7DMdjXJBqiC0eNi2JY5bLPT_JwA51cdG-aVwRKd4cd7YXsfvhy6iwL-wpCBpizfpsZlaa9q6nhQw6pTi=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [],
+    "title": "Бяки вояки",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lS3FUHXfa84b1_NAK1c465hmXAVmkg20I"
   }
 ]
