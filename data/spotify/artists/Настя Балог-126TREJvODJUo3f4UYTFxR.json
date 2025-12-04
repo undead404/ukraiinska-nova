@@ -289,5 +289,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4wLrXaVXlX6utD4ZkkTA1d"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-04T23:22:20.422Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Настя Балог"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f065029fe9d309ac8497b139",
+    "releaseDate": "2025-12-04",
+    "tags": [
+      "female vocalists",
+      "pop"
+    ],
+    "title": "Поза зоною",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4mV8s2HM1L0QlXrlZQd4Cm"
   }
 ]
