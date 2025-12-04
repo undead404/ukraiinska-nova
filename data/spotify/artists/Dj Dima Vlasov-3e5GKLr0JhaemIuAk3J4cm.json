@@ -249,5 +249,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3NmfVDwtQ33wVTXXc4aq4W"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-04T22:22:18.208Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Dj Dima Vlasov"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27316dc87b2c81f99df7bb80d25",
+    "releaseDate": "2025-12-04",
+    "tags": [],
+    "title": "Uncharted Paths",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7oiOBQzM8VKseLI6bAF7ob"
   }
 ]
