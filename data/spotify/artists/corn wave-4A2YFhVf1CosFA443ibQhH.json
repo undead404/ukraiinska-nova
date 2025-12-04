@@ -364,12 +364,16 @@
       {
         "time": "2025-11-04T07:22:16.543Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-04T07:23:16.062Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "электроник"
     ],
-    "artistsPopularity": 2,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c718519ee34aa3f64f7769f2",
     "releaseDate": "2021-03-26",
     "tags": [
