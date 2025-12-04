@@ -533,5 +533,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6VdAnbSa0J1vUprrARwJxs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-04T20:24:57.061Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Юля Юріна"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f4e8de55519cff39dbc5d2c1",
+    "releaseDate": "2025-12-04",
+    "tags": [
+      "folk"
+    ],
+    "title": "Коляда",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1iurliihFJvJcwz18HjiWo"
   }
 ]

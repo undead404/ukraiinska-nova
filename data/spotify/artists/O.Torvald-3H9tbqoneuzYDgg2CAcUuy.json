@@ -980,6 +980,10 @@
       {
         "time": "2025-12-01T20:30:19.991Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-04T20:28:53.856Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1006,12 +1010,16 @@
       {
         "time": "2025-12-01T20:30:19.991Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-04T20:28:53.856Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Boombox"
     ],
-    "artistsPopularity": 57,
+    "artistsPopularity": 5,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27335bc5ba7b77a4eefef408545",
     "releaseDate": "2018-08-03",
     "tags": [
