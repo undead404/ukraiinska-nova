@@ -397,5 +397,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l9LKHqtRRu7cbep-MBTzi1Q4PSqOG2OsI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-04T19:48:03.412Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Victoria Niro"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/D9d0GW1c67q8R00nmSj0-HePWNbCgYeR6aMzjoXfJ56WlYFOnAcCWHVZxc-dGropBDk7_7dHit9oORIQFQ=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Все по плану",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lMILpQNFJb9JQJk3M8j2xp0YDGiHw3CJ0"
   }
 ]
