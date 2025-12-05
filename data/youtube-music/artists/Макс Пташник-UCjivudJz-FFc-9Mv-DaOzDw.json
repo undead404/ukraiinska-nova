@@ -596,5 +596,28 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mtI7IXdEb9vzO50Zm0ZW_QDR2Iwfnd6ng"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T19:45:08.592Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Макс Пташник"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/IdTIPpuIOg_vVClVoEBLafhGiuVPv5Zqs23rBYwwWbTDqESO_nt_HSDxY8Vs_msr0HTIs7sJs5_i7utwrA=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "folk",
+      "folk pop",
+      "pop"
+    ],
+    "title": "Додому на свята",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nxkNJiZ-2SQr9TduqSh1ZbdB6ByhBezR4"
   }
 ]
