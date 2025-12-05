@@ -806,5 +806,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7Lu0cYVFzhJvQhoXbuodUv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T22:24:01.601Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lizzzard"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27377ebf7fb3b8b2946785570be",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "rap"
+    ],
+    "title": "BRICK BY BRICK",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5ytcoJm4C9RdVdBwYZ77bz"
   }
 ]
