@@ -449,5 +449,24 @@
     "totalTracks": 8,
     "type": "album",
     "url": "https://open.spotify.com/album/2FzdfpP13nCD7iZa792ccD"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T06:28:30.315Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YATSUTA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a4ab77fd3872ce2fc3ac0f27",
+    "releaseDate": "2025-12-05",
+    "tags": [],
+    "title": "ЧАО",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/19dzmYihSsvHstu2PO3F5z"
   }
 ]

@@ -398,5 +398,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/76q6LOo6TLeJ6akMCoQaoR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T06:27:26.740Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "OSTY"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a50a9d7b52bd518720dfbd86",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "pop"
+    ],
+    "title": "Тисячі таємниць",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4qkqgsrzl2fGSOzLPBuw57"
   }
 ]

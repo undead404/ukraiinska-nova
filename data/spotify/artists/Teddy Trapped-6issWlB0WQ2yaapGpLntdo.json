@@ -386,5 +386,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2sMfZA9ZuLbaJVqpkLAFi9"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T06:27:53.978Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Teddy Trapped"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d2c9875c7c2b71554c0d729a",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "pop rap"
+    ],
+    "title": "не вистачає хвилини",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3ndOJDR64LJq39FaUvDQyF"
   }
 ]
