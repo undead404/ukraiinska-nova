@@ -988,13 +988,17 @@
       {
         "time": "2025-11-30T07:26:28.501Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-05T07:26:27.491Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "35cake",
       "STAS AZARENKO"
     ],
-    "artistsPopularity": 21,
+    "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733f198a7a45ed5baed8d1ed0b",
     "releaseDate": "2023-01-06",
     "tags": [

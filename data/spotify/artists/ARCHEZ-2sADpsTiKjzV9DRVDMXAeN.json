@@ -1955,5 +1955,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4VpEea04GqukmXFcLpTMn3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T07:21:53.067Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ARCHEZ"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27345a880b9c47646893eb16b5a",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "phonk"
+    ],
+    "title": "WORK AND DIE",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7sLbJ9y7mZmyKiDWIx9EI3"
   }
 ]

@@ -826,5 +826,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0e8JgHA471U7IPAPTe8q9l"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T07:25:55.800Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "alyona alyona"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739f2bc875a273c08820fba5a1",
+    "releaseDate": "2025-12-04",
+    "tags": [
+      "rap",
+      "Hip-Hop"
+    ],
+    "title": "Наймузичніша ялинка країни",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/74IoPnaj6H1cBBygS8dDMt"
   }
 ]
