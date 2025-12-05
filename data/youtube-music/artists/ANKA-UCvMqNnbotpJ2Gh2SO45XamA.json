@@ -376,5 +376,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n3FJs_e1AkBjXEqqVlz8V0m5KeSYWBUa4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T04:50:34.250Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ANKA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/fkMAPbapMmXysF0QY9AY_liM7YC7EC7vTnkgO8bnwIPFUOpTffJDYWEtB0Nn71kDo_XNpsouZ-y940Yk=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "alternative"
+    ],
+    "title": "СЯЙ (Remix by Roman NeRo)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kHq134TaZ9N0ox9raFXQ8szxbewYVfBqE"
   }
 ]
