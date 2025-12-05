@@ -946,5 +946,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5VCl8jWH1MFrusbBOlNNhm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T10:26:12.664Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kolaba"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735b52cf0e3417c4659e3155fc",
+    "releaseDate": "2025-12-05",
+    "tags": [],
+    "title": "Ой на горі два дубки",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0TPrnKae7VmjxV4zENfy3G"
   }
 ]

@@ -200,5 +200,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0QJi0JkNjE1216TIXCBA6F"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T10:29:18.972Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Tru Myself",
+      "YAMAMOTO"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27395765ebe0820d11d9990dc21",
+    "releaseDate": "2025-11-28",
+    "tags": [
+      "electronic",
+      "Hip-Hop",
+      "rap"
+    ],
+    "title": "YOLO",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0u0PgpL4BQiJE5h09OuSB2"
   }
 ]

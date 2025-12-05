@@ -686,5 +686,49 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3h0Ic2rhmMiCLQ14I7dFkm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T10:26:26.459Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KOZAK SIROMAHA",
+      "Who Else",
+      "DROHP"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bfacc10ceb3df13f87b0ea9b",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "folk"
+    ],
+    "title": "Gulialy",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6hVPqAvgNg4FtOTn8jNSA8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T10:26:26.459Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KOZAK SIROMAHA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734ba230da6797a6e35771b722",
+    "releaseDate": "2025-12-04",
+    "tags": [
+      "folk"
+    ],
+    "title": "Відчайдух",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/05vEAExLMT1TUReZbiGCFK"
   }
 ]
