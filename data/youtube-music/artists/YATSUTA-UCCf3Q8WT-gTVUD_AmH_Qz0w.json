@@ -397,5 +397,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_md5hTqETQYmbdcx56RK41ZkGYMNpqwyIE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T20:50:13.718Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YATSUTA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/wKdS8STRjVUJA2y6OQRV3JpPJRfAF-h_xZ2p3fjh3JDqFEtfdGG2xEV8FcmmFSdL__7xOcPl7UVHvw9d=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "ЧАО",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nfMD20qknSEY4fmxHLuYWtGE3ej0EW9cg"
   }
 ]
