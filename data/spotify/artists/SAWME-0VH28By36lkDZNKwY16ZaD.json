@@ -149,5 +149,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5HWSi8CcCWc4sTlbgHtYT4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T12:29:26.539Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SAWME"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737c223dccd1f84ff70ce26c53",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "rap",
+      "emo rap"
+    ],
+    "title": "ІНША СТОРОНА",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4XPJXFakdkOG0q7gQARnKg"
   }
 ]

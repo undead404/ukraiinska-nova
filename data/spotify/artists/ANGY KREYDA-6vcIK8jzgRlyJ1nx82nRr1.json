@@ -956,5 +956,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2Sm8JLJr5R64QAHnxfefy9"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T12:25:32.939Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ANGY KREYDA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27337aa43d8b651e3b301cd2c4b",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "pop"
+    ],
+    "title": "Ти Втратив",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6A46A3aQKNEuHncPGgZQMn"
   }
 ]

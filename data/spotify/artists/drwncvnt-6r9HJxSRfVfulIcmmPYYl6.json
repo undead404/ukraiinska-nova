@@ -1792,5 +1792,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/05lbjlozrzwYS1Ms1oKap9"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T12:26:35.243Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "drwncvnt"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c889fdb04021c70c8b0afb6b",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "electronic"
+    ],
+    "title": "bad boy jumpstyle",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6ze5yoiiuiSL1WG5JvcadR"
   }
 ]
