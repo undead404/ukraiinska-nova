@@ -613,5 +613,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/33h7teOvFK8no9SadLEHzH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T05:22:52.958Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BAH.ROMA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27375e2a22025ef0b090aa61de0",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "pop"
+    ],
+    "title": "Готель \"Надія\"",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3saNINSjTgsba68yKa8aKQ"
   }
 ]

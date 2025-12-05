@@ -122,5 +122,26 @@
     "totalTracks": 7,
     "type": "album",
     "url": "https://open.spotify.com/album/3r5qo3UZzIkmO3Q69xtW9d"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T05:28:04.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Zlypni"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ea9d8d3e8624bd841c985cc8",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "Люди",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5dZaWtCaoXKkguIOI4DfvQ"
   }
 ]
