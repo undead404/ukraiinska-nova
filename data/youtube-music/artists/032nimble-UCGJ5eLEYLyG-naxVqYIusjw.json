@@ -313,5 +313,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k0PHIIH59-DHilSysx3onejzXLovT0DQQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T07:45:31.663Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "032nimble"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/xBJgCRTetKBqn2fHntEpnHDbZv-RSXN_-KC5gRBAhkwo2TKjed6SZ3AFetcZRTWkZPuS-6O0jORytxs=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap"
+    ],
+    "title": "MOLLY SANTANA",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lcxatIjMwmmjpDZoV2phXKyQvidbBnvRM"
   }
 ]
