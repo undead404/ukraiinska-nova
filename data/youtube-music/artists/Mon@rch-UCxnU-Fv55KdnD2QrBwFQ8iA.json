@@ -340,5 +340,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nDIoE-zqeCNo3BaggCx9G8CyGF-k14h6w"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T21:47:26.602Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Mon@rch"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/TqawemTm1969weIQbIa1GVi5UTNUjnSQaBJjDQLFEDzfx2C75gaeoczoGdKKYvPU0SHUNLYtvPre_r5n4g=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "На автопілоті",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lUNQ_CNws3mHQmcxmfM9c2jI31OOfW8ik"
   }
 ]

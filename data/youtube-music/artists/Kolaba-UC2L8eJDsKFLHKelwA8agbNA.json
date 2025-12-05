@@ -1941,5 +1941,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kKKI8xb5P5z0hC0QZ4p7alTSkzBj9YdQ4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T21:47:09.712Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kolaba"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/PZmATdFkSAKqvWkJDQBbnXAxngk2-9MP4_N-oMGLyDSwu5ckEYPat_sh4sOvQZUSrYVaoWG9lXZbUaH7Sg=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Ой на горі два дубки",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nr7i3DdjWadNQX6Orb0B4h6m7U9gBis0w"
   }
 ]

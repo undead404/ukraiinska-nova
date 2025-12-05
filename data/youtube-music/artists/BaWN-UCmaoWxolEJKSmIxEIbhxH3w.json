@@ -649,5 +649,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mq6l7ymA_lg4YGPUWQcISfg53Z1dimGHg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T21:46:34.716Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BaWN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/2pk6lsyPd8EPvX0u0Qgd7dL8y3rD9HP_dWUNualuXiM-W6HEiDnRiL0IrtAPfq_71_xj1zxluJlo7aTY=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Серед хаосу",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l7X12fwAsGnJpemxQv-5r5eHhBojRmsDE"
   }
 ]
