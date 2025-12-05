@@ -642,5 +642,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1KpeNH3SeTFq1mtYMM83jq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T13:29:25.542Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MOLODOY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738c36fc9003c36d4439c1d408",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "rap"
+    ],
+    "title": "Скільки зірок",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7z1j4fzRUnPe65o3qOAFqF"
   }
 ]

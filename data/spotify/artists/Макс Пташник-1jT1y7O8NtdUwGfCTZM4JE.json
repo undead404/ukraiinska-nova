@@ -742,5 +742,30 @@
     "totalTracks": 13,
     "type": "album",
     "url": "https://open.spotify.com/album/0h3JaH6WJAiQRZi0L3KP9h"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T13:25:06.892Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "макс пташник",
+      "Dmytro Kod",
+      "на її основі"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27350a4f6ed7231c1f8a0859b10",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "folk",
+      "folk pop",
+      "pop"
+    ],
+    "title": "Додому на свята",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4pgIkIXgIsecnDguTXuAaP"
   }
 ]

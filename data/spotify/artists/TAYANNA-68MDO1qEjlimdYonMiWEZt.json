@@ -1256,5 +1256,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0wUyl9j02U3IkieEErkAui"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T13:30:39.864Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TAYANNA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b4da7076f56f70c31400a1ac",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "pop",
+      "Eurovision"
+    ],
+    "title": "Очі дівочі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3oUuzOdE1t3dsxfJq9s2AC"
   }
 ]
