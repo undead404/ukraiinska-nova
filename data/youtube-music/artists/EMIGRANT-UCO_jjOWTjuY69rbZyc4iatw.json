@@ -394,5 +394,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_me0a9xiurR3R5xjn9mjehtoZIsGZ6Cp4Q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T06:53:03.599Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Emigrant"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/4AykPE1b6G9IFSuzwuItizlLzTMksYBH4RbbbuDX-BbWY14tzlEvAhU1r7UGrEIaEEdhu6-n86jvS4g=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "indie pop",
+      "indie rock"
+    ],
+    "title": "Emigrant",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m7_UvAjmjtkwA70W-vBgrVJzJ-2pB2vaE"
   }
 ]
