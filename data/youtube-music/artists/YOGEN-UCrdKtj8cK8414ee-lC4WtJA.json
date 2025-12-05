@@ -328,5 +328,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lc1LSaESmHRwp7mLH9SDmAHn6tCN1up_U"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T01:07:56.653Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YOGEN"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/4KcLBwGD-zhyE1_0SWQSL-5N9Yva1VL3UH4JAwj4oftNJynnZTPp8CWxSeTjd-FZRfDOCcBVkY1Y7mcy=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "shoegaze",
+      "space rock"
+    ],
+    "title": "Біль заховав",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nR_x0NIOM-LyUEYurJWXP4qUZWFR1sNLk"
   }
 ]
