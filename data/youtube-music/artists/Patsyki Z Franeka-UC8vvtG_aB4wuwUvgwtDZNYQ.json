@@ -633,5 +633,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mK5yrQoSIyKEckQdbaX_g0EO65bXZ4XyI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T05:49:11.416Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PATSYKI Z FRANEKA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/moK-KNEtE7LLll5vhWZ4cwi-J-yCzW-S57P8jpcIYmXDY5Ly9c2BACdOWIvfqTE0BWdiUqFOeZTrz68=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop",
+      "pop rap"
+    ],
+    "title": "Накрило",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kwiT60fA1pto7g-p9PrBm1UxDC0pzb7N0"
   }
 ]
