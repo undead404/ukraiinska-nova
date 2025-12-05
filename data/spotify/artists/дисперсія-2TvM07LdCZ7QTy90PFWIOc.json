@@ -173,5 +173,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4yqddQgvpXY7IxweJiOrF3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T08:21:39.321Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "дисперсія"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bacac7fd55adbcd1116271ac",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "screamo"
+    ],
+    "title": "Проти Бога",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2w3H81WYT7zRXar6dD1EHM"
   }
 ]

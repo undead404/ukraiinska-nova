@@ -145,5 +145,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3JSNImbsKWzbfogdMUS0UM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T08:22:03.039Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "МОВА ЖЕСТІВ",
+      "PALMYRA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fd642ec560d28252516fee93",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "folk",
+      "Garage Rock",
+      "rock"
+    ],
+    "title": "Полум'я",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/543uanLaghKUU2SZZPSLq1"
   }
 ]
