@@ -250,5 +250,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nx12LiEzYVeXIqIeUzOjxto03Qy57s65Q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T14:49:54.055Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Polamav"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/qRaqd9X0JXsRmSZZBivz3TSJZaOUarRv-ZmmTLw6BBPpcObkVJjsotzsURQjcu4IF9YvmK-NzhZpef5f=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap"
+    ],
+    "title": "Парадокс",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kU_SDHH7XwjkCRnpBPl1ELFc7ieJV44wE"
   }
 ]
