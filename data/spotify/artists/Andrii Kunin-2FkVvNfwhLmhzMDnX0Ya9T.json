@@ -214,5 +214,28 @@
     "totalTracks": 9,
     "type": "album",
     "url": "https://open.spotify.com/album/271sAAdpClLNmNtMGDvJWn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T11:22:06.890Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Khrystyna Kirik",
+      "Andrii Kunin"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739910e35e26bc11217c7f27b8",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "ambient",
+      "drone"
+    ],
+    "title": "contrazither",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/21ekhwSl0VKi2cxb9B0G6Q"
   }
 ]

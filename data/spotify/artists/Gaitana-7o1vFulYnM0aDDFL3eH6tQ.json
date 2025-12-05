@@ -829,5 +829,27 @@
     "totalTracks": 14,
     "type": "album",
     "url": "https://open.spotify.com/album/4UDMFH7rzF0ONU7S5CdCp3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T11:24:08.585Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Gaitana"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736ebe1aa89aea21088c4b9121",
+    "releaseDate": "2012-04-03",
+    "tags": [
+      "pop",
+      "Eurovision"
+    ],
+    "title": "Be My Guest",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5g2TyyoQHVeWCTL6A2t4bB"
   }
 ]

@@ -598,5 +598,26 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/0ehui3qhR0asT3RwQeM8ig"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T11:21:10.850Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Маша Кондратенко"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737c4f5719c69dbaddeb824f8a",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "pop"
+    ],
+    "title": "Любим і мовчим",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3ngwoDNNklhLX3dfr0bOjl"
   }
 ]

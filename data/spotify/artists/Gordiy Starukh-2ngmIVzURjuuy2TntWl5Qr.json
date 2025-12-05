@@ -708,5 +708,26 @@
     "totalTracks": 27,
     "type": "album",
     "url": "https://open.spotify.com/album/3KwGBvwfQMp0nOTNR3Fl2S"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T11:24:34.592Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Gordiy Starukh"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732ce8540e769a56ccaf5e0fb3",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "folk"
+    ],
+    "title": "Щедрівка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6sKht23jmM4cJoK9kPTvMe"
   }
 ]

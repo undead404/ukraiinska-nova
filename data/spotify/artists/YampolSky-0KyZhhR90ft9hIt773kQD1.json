@@ -771,5 +771,30 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/24YVVnLAVIRyEl2oGBOm1O"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T11:28:18.474Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Taly Shum",
+      "YampolSky"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ca30958c9ce5f2bbb65b6f11",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "House",
+      "techno",
+      "melodic techno",
+      "Progressive House"
+    ],
+    "title": "One More Time",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2kpFrAkefIrpAB21CkhOiq"
   }
 ]
