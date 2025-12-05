@@ -310,5 +310,29 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n4i-uaVtPUdMFTF_ENZPdT6PmDKvaMrdY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T15:47:33.892Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Микола Серпень"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/XnNwFLFBnp2D_hQKNr1leF5gs8hVlHnjCt7IDPSFMaUKEyh28jmIXJzElPpaNK9ojKFFS135Wu0zhQhe=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "electronic",
+      "electropop",
+      "indie pop",
+      "Lo-Fi"
+    ],
+    "title": "Корпоратив",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_muB3UuQBU680XFN-6BVTnioWOFKbqrl0c"
   }
 ]
