@@ -749,5 +749,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4W2ektROTyGe1Sh8WXjdsU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T19:26:00.938Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Patsyki Z Franeka"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c89f2c6320613922de545ade",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "pop",
+      "pop rap"
+    ],
+    "title": "Накрило",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0VoDkiQVE7geMmJbgs8yZg"
   }
 ]

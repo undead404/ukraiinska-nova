@@ -909,5 +909,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/26dZBG1Hj2ucEgPKsRiepr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T19:22:27.573Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Bandi&Bagi"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e723ff9dac8768068116fb46",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "rap",
+      "Hip-Hop"
+    ],
+    "title": "Зима",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4ex2o8lnQmFLJxcC0PUl49"
   }
 ]
