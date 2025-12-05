@@ -508,5 +508,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7cnEHAu2hTg4FSa90LAuM5"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T09:21:41.299Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Мія Рамарі"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fae9dcecbdeae5446452b106",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Веган",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7CdBYR6RwlujHNFEXkAIWR"
   }
 ]

@@ -902,5 +902,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7J1A6kR3ml7dkmYErZao0h"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T09:27:33.280Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yagoda"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736beb97a159a7917a7dd21f5b",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "female vocalists",
+      "pop"
+    ],
+    "title": "Колядки",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/00TFY6QDVtuObHz0kVc5fp"
   }
 ]

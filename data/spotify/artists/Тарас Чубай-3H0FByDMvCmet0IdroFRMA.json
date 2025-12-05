@@ -169,5 +169,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/68CxuJn9b0kI8NfNx5s2Xj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T09:22:02.763Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Тарас Чубай",
+      "Плач Єремії"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c97fafd23a0042c188de814f",
+    "releaseDate": "2025-12-04",
+    "tags": [
+      "rock"
+    ],
+    "title": "Ти Втретє.. (2025 version)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4uCbUEiZRz59SENWAtz6Nf"
   }
 ]

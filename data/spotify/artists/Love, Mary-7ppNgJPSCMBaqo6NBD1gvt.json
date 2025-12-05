@@ -584,5 +584,26 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/3JuL60zYjZQI4JlZ6nbWNS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T09:20:19.286Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Love, Mary"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e55b7a54b12f2af8818391b4",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "electropop"
+    ],
+    "title": "Боса",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0WitseVz7kv6pzA0cZiYFV"
   }
 ]

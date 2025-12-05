@@ -294,5 +294,52 @@
     "totalTracks": 7,
     "type": "album",
     "url": "https://open.spotify.com/album/71ZqI71QpIej11lRuXIJHX"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T09:21:30.593Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Третя Штурмова",
+      "Курган",
+      "Слон"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735180446507a1ff17540f1ee2",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "Hip-Hop",
+      "rock",
+      "ska",
+      "rap"
+    ],
+    "title": "VAMP",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2B31wn4xbZ6rXAB1orSmMt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T09:21:30.593Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Третя Штурмова"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738e4907d74dfd9d0d48b731e4",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "rock"
+    ],
+    "title": "Camp3",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3jRso8Zo36tl9nCq1ODEQR"
   }
 ]
