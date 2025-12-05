@@ -257,5 +257,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6rvWfXdhwpiFQJaJvBsPgZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T16:25:11.415Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kuaskio"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730ef3bae0ca76b2bfb1bf14a6",
+    "releaseDate": "2025-12-05",
+    "tags": [],
+    "title": "я хочу обійматись",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2NMuZYUBceizByN0YUCZOK"
   }
 ]
