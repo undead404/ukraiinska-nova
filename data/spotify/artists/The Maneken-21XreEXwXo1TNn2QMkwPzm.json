@@ -662,5 +662,26 @@
     "totalTracks": 8,
     "type": "album",
     "url": "https://open.spotify.com/album/5B5g3O2fvRGlNUHCKFa4V4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T21:27:41.633Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ONUKA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ce97418a6db94c364580c7fe",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "electronic"
+    ],
+    "title": "DZERKALO",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2DJgtFKeqf8TLGbc83LtfK"
   }
 ]
