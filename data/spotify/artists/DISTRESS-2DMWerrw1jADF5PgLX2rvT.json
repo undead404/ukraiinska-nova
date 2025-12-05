@@ -197,5 +197,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/27fIs0yqHHJyJqTkYjDmkF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T14:22:50.995Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Remover"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737c6e36f458ad4143c97f145d",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "german",
+      "hardcore",
+      "germany"
+    ],
+    "title": "Свинка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7bYzDPXG0OdWeCUHhUMxs3"
   }
 ]

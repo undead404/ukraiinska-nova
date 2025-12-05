@@ -729,5 +729,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2CmWjPgFsCkn7lCjAGXjVJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T14:21:07.519Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Околиця"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ea27cb4fa84918b54ba861d4",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "dream pop",
+      "indie folk"
+    ],
+    "title": "Все, що в мене є",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5ibQmAYLll2oxTC8hCYwvJ"
   }
 ]

@@ -754,5 +754,69 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2W6m3iMMNLw9UycJlipLf9"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T14:21:39.258Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Третя Штурмова",
+      "Sasha Chemerov"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27338075a52de67a5d112bd65dc",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "rock"
+    ],
+    "title": "Я націоналіст",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2LVva4KigfpwekWEDz804n"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T14:21:39.258Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BAH.ROMA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27375e2a22025ef0b090aa61de0",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "pop"
+    ],
+    "title": "Готель \"Надія\"",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3saNINSjTgsba68yKa8aKQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T14:21:39.258Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Третя Штурмова"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738e4907d74dfd9d0d48b731e4",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "rock"
+    ],
+    "title": "Camp3",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3jRso8Zo36tl9nCq1ODEQR"
   }
 ]

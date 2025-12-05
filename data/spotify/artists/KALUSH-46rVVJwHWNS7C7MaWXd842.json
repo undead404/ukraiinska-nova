@@ -1556,5 +1556,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3DLjmQ2Cgv1CJvanEAKqDA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T14:23:59.923Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BEREZA",
+      "KALUSH"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733cccd06dc1cddc7d056bd148",
+    "releaseDate": "2025-12-04",
+    "tags": [
+      "rap"
+    ],
+    "title": "Ліхтарі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4dTOvqwu1En1uaUOB8pRER"
   }
 ]
