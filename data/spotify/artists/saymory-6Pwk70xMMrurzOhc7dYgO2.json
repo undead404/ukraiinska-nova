@@ -1237,5 +1237,27 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/4p77p7BSQh5Q9xvXey8bnW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T01:56:52.772Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "saymory"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273386dc8947b086a0cc25f99ff",
+    "releaseDate": "2025-12-04",
+    "tags": [
+      "ambient",
+      "electronic"
+    ],
+    "title": "Moontides",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/13J1ijlLQApyKEZ7drWTht"
   }
 ]
