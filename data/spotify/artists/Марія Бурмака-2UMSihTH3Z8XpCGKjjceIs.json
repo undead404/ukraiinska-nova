@@ -1172,5 +1172,26 @@
     "totalTracks": 16,
     "type": "album",
     "url": "https://open.spotify.com/album/3nuQZ2STGY8EMUt9czm4J8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T23:22:26.303Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Марія Бурмака"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f6fd3306499d771b9adb4b66",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "female vocalists"
+    ],
+    "title": "Наш веселий Миколай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3OsUEulY5E4uXe9r86nhZD"
   }
 ]

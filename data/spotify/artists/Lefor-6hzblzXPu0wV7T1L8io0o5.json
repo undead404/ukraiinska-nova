@@ -994,5 +994,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3evMXMowGe0nSJYk44AdNh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T23:26:11.483Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lefor",
+      "SDU"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733d2dafcad2ae3caa8072d97a",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "rap"
+    ],
+    "title": "Дресс-код",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4SKJdcSJacWf883ZtjsalP"
   }
 ]

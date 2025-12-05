@@ -124,5 +124,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4HmUHPMpRmuthtKU45A89l"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T23:29:24.208Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ZDRV"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273db103368da693765a7a69d7d",
+    "releaseDate": "2025-12-05",
+    "tags": [],
+    "title": "ТРІПОВОЗКА",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2UaWTuNgUQRTjtM6joP5Xd"
   }
 ]
