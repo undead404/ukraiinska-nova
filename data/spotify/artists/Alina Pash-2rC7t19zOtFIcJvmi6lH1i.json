@@ -1014,6 +1014,10 @@
       {
         "time": "2025-09-23T02:40:09.145Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-05T02:51:52.058Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1078,5 +1082,30 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5M3sdIDTTkGEDn0U5h1X3p"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T02:51:52.059Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "What So Not",
+      "Buunshin"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27310830e8e7fe3ddf792b06246",
+    "releaseDate": "2025-12-03",
+    "tags": [
+      "Drum and bass",
+      "trap",
+      "electronic",
+      "neurofunk"
+    ],
+    "title": "The Quiet That Hurts",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7t9HdYryY0IyVDhzv1eIB2"
   }
 ]
