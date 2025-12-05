@@ -182,5 +182,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6HrKQKy6eROqv8UY8PG91s"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T17:20:19.692Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Снохода",
+      "Забавка"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b85052c82890a7eb78de20cb",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "folk",
+      "synthpop"
+    ],
+    "title": "Зберегти любов",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0bD0BNa0oFZdkMvZWCgGe1"
   }
 ]
