@@ -594,5 +594,26 @@
     "totalTracks": 7,
     "type": "album",
     "url": "https://open.spotify.com/album/19HAViUfM17jjGdPqiylz5"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T15:29:45.818Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Wavewalkrs"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a8182821375f4629b7be3b6b",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Wave Walker",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6zoAXVjFqwrEpPXRYiQIN6"
   }
 ]
