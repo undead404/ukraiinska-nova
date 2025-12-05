@@ -679,5 +679,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4uG4VbrkDsl5ANbWhT1Vlv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T18:30:06.307Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "teeNsad"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739a32a0dd4d1074f37a5c4325",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "pop",
+      "indie pop"
+    ],
+    "title": "cudri",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4pGYxDt7w1L32FP3d3EgC0"
   }
 ]

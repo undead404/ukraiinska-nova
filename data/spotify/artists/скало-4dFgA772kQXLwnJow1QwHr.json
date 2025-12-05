@@ -498,5 +498,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5HdS16eza28A9me4lIZbeW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T18:23:17.547Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "XXV кадр",
+      "скало"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b8fed2e31757828d8dc78afc",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "rap",
+      "Hip-Hop"
+    ],
+    "title": "Коло замикається",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/51X3YpnTzOvthUyJjV3tUT"
   }
 ]

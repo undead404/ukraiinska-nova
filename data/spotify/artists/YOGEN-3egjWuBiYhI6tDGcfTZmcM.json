@@ -351,5 +351,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4cpYJsA5dmSoJt6FmYt5yo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T18:30:17.839Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YOGEN"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ea8c48ddab109c52a912fc18",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "shoegaze",
+      "space rock"
+    ],
+    "title": "Біль заховав",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4VBNth2vQz6kJMIloQhoGK"
   }
 ]

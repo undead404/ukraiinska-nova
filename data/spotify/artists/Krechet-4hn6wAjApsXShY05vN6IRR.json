@@ -1293,5 +1293,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/55fPPVjp0UgaWcC40ECJgr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-05T18:28:10.612Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Krechet"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a2260aa60b51d71b7b65bb96",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "rap"
+    ],
+    "title": "Текіла Санрайз",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2jVyaBokmLyT3W8cpafco5"
   }
 ]
