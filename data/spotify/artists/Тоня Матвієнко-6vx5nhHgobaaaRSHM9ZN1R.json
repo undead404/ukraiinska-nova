@@ -1048,5 +1048,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6ll72CbwZDKwxOh3vTU7fz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-06T13:24:07.719Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ніна Матвієнко"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273711606d9281d6366165b8c4f",
+    "releaseDate": "2023-12-15",
+    "tags": [
+      "folk"
+    ],
+    "title": "Колядки та щедрівки",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3tqj0xjTXU25tB3Bq1VNx8"
   }
 ]
