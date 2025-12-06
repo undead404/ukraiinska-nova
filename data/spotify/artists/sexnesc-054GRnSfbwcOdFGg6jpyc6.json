@@ -443,5 +443,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1uT5RVHAZ39laMMavkp9XI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-06T18:29:57.006Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "sexnesc"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dc76c1f795728d30fe4d83ea",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "alternative metal",
+      "Nu Metal"
+    ],
+    "title": "No More",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3aKG3PCahBTtvbKo1SGkVZ"
   }
 ]
