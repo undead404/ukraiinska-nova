@@ -731,5 +731,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1ZYrzwtqMv7I79Kvks7Upm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-06T04:22:51.570Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BaWN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273267306a5b36bf929c5193bc3",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Серед хаосу",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4KZPaeemlVT8uRsHbP8Vw2"
   }
 ]
