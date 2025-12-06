@@ -785,5 +785,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1meYrFrYldAai6lS8Ac1Cx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-06T02:51:26.379Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Mon@rch"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cdfbdcc7ca960753425cb581",
+    "releaseDate": "2025-12-05",
+    "tags": [],
+    "title": "На автопілоті",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/61H4xkFL4nPZOXXzQvQpNb"
   }
 ]
