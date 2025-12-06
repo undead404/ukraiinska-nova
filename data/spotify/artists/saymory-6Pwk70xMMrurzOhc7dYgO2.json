@@ -1259,5 +1259,27 @@
     "totalTracks": 7,
     "type": "album",
     "url": "https://open.spotify.com/album/13J1ijlLQApyKEZ7drWTht"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-06T01:55:30.328Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "saymory"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738a245c713896ca2fe51b8f6b",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "ambient",
+      "electronic"
+    ],
+    "title": "What Will Be",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7B4BndWZh6fxqegTHxvJQA"
   }
 ]

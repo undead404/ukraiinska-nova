@@ -382,5 +382,26 @@
     "totalTracks": 10,
     "type": "album",
     "url": "https://open.spotify.com/album/7HailjAHtvXS5yzdOZpgYD"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-06T01:55:02.426Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Polamav"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e67764d653eb5cc2e6ee7936",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "rap"
+    ],
+    "title": "Парадокс",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3zupXvbrrsMQY0D2YhUUGp"
   }
 ]
