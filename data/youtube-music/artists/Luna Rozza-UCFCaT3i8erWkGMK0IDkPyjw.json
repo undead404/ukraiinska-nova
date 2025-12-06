@@ -355,5 +355,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kcFGw8rNWMdwvqrU4fLWSkWelbJOEmhxw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-06T12:59:15.478Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Luna Rozza"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/sZkkaqz3HMKIjQCbDm7jgg-MKlojrE4QBMHhvf99xy-ez01wKQCVTeLZVJOuzeKZmIUmrWlBB8ATFfo=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Спокій і віра",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n0A29d06TId6g6gfJs2rntWf9_CX5fvTQ"
   }
 ]

@@ -284,5 +284,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_npaScC0lfsK6ol4a5HlzOGUU9vopO2E5s"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-06T12:57:48.271Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Настя Балог"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/20yMGIhBRs14wLlWCF83GSUUA7nsoWTJSIrKKO3QVja5kP8Id7vUN9i11Yuao_6l_PCgW2mW9GOY1SWA=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "female vocalists",
+      "pop"
+    ],
+    "title": "Поза зоною",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kV0DjO_C803tuILgLMrAwfwo8H-2vME5g"
   }
 ]
