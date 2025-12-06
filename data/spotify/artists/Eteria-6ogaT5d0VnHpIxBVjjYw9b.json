@@ -523,5 +523,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/05SyKmfPGp0Mvw5YrNNtau"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-06T07:22:24.499Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Eteria"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736fd8d2db6f8ea16662166f30",
+    "releaseDate": "2025-12-04",
+    "tags": [
+      "folk"
+    ],
+    "title": "Новая Рада",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7EY3ICP1usXPnkxHzxdfo8"
   }
 ]
