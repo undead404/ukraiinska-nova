@@ -376,5 +376,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k0f7XInlQSTVZ0GMW8Xur0VWzoAE70BI4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-06T03:07:50.579Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "OSTY"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/-d9ADsW3IPsP9we7z0CZo8Y2mrDxjrJqyvYTHRkixBRiHFuhTMGM1KuHcuBzzt6ChFW-YeNRkIpLIE0=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop"
+    ],
+    "title": "Тисячі таємниць",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mRjYjzaTL2638LKkALskP8MKu4xnkS5K0"
   }
 ]
