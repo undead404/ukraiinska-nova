@@ -259,5 +259,25 @@
     "totalTracks": 11,
     "type": "album",
     "url": "https://open.spotify.com/album/544igGAMXKeXlHvHwQVD6Q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-06T03:35:41.112Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "astlvsta",
+      "$IFE"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c64f2fb1c154397ae16fe9d7",
+    "releaseDate": "2025-12-05",
+    "tags": [],
+    "title": "Живим",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5jnJFrFmeFhHQdDH9MrJty"
   }
 ]

@@ -97,5 +97,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0PqoNyM1o1GttcmvAbZpfV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-06T03:39:51.180Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PERNATIZ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27329488e68cf780003aab845fa",
+    "releaseDate": "2023-04-10",
+    "tags": [],
+    "title": "Перепрошую",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1NPF76H9tUtdOpTwMPF4wn"
   }
 ]

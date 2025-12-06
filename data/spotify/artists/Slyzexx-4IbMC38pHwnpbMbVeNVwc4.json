@@ -3629,5 +3629,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6nN3KPke5bh80GwuHiMsMT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-06T03:41:14.332Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ac110bd84f0b577b98b791f5",
+    "releaseDate": "2025-12-05",
+    "tags": [],
+    "title": "Magician",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6B4r5SYStjLUPqa2hnWVGb"
   }
 ]
