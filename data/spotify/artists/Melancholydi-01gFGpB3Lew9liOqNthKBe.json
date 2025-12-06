@@ -175,5 +175,46 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/3RrX5A4x5RoDNfrMmc6Ahr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-06T00:43:17.792Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Melancholydi"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738749fe3ab732b874f3b6061e",
+    "releaseDate": "2025-12-05",
+    "tags": [],
+    "title": "вода",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3jt7uwB2q2AnySbYpTsj8P"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-06T00:43:17.792Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Околиця"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ea27cb4fa84918b54ba861d4",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "dream pop",
+      "indie folk"
+    ],
+    "title": "Все, що в мене є",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5ibQmAYLll2oxTC8hCYwvJ"
   }
 ]
