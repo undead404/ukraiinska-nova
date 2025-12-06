@@ -460,5 +460,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lUijGyhwoFlA6_U0d7ddIjCBIPpctqydY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-06T04:47:09.033Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Мія Рамарі"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/6FCMHBz9LdmD5YghsPL7ckuekAkghvYqTuo4DxkX-sp0GGRa_6zt-pfPBytdZ-RblQtn3z4L2_SZEGfO=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Веган",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_leaOpciZQ-H6py18n2REHcCtwV9k8MRls"
   }
 ]
