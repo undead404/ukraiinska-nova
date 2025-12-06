@@ -230,5 +230,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/03zKSMGRRWk42Br4UDZlHJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-06T21:26:42.320Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TOY MAYK"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731e44945f581625362d2c0e6f",
+    "releaseDate": "2025-12-05",
+    "tags": [],
+    "title": "Маленький світ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2LUnzKz4ybvguBkWJgaPZF"
   }
 ]
