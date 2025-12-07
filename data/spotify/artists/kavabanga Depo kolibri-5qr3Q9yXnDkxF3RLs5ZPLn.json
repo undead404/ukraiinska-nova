@@ -2873,5 +2873,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4Sh2gujYW47nE2voqvuQfb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-07T12:27:28.323Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "RASA",
+      "kavabanga Depo kolibri"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273118265dc6054ebe8f6516c2f",
+    "releaseDate": "2018-05-18",
+    "tags": [
+      "Hip-Hop",
+      "new age",
+      "ambient"
+    ],
+    "title": "Витамин",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4xUMhQh5M0NIzXPRJ03xox"
   }
 ]
