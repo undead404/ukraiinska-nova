@@ -2053,5 +2053,68 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_klJhP6-Kj2MIoF6lEsApbOew0mN35kAEQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-07T17:48:57.144Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Zippy Kid"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/9eZU4HrkQ31iSIbwSdoWkMauUPTt5fQsvGEBHfUikDxmkeJIiMzJa8G1M-kg61TvvIgUZIJLRR0EgUoP=w544-h544-l90-rj",
+    "releaseDate": "2011",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Broadway Mambo",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kzvMYxHK2-fXY9cnaNqlKev5wFDMwE0hQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-07T17:48:57.144Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Zippy Kid"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/wAyIlIGLFMYP23k0OGYysUnSfIHigURSFGdwGOf8IFRkeCnrGG02cPbU9QNnF63UA3GVprItJsy_XR7o=w544-h544-l90-rj",
+    "releaseDate": "2009",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Kuba Mambo",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kMT4-cAA-8qxROoxhy8yHyxZR_2ypvLoQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-07T17:48:57.144Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Zippy Kid"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/CuZnTATzxOlo2gv2rZY9srV1hboOSLE6ZjgLjsQO9VKCrFuqnP8FfvS_RPY92WR7gwavegBkWekPDnhC=w544-h544-l90-rj",
+    "releaseDate": "2015",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Pérez Prado - El Rey del Mambo",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mfpi3MkZGULmMzqaB_JBtycNumtwut4Vc"
   }
 ]
