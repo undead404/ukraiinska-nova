@@ -1875,5 +1875,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5iCsk2vbIW32JaAC8ozXzg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-08T05:28:03.290Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Uno Kaya"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731de42d1f5a7fe262762466ee",
+    "releaseDate": "2025-12-08",
+    "tags": [],
+    "title": "Без слів",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2sIXS3pY4wFbFaUVEbicqy"
   }
 ]
