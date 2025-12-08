@@ -214,6 +214,10 @@
       {
         "time": "2025-09-29T22:19:27.398Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-08T22:20:20.872Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -256,6 +260,10 @@
       {
         "time": "2025-09-29T22:19:27.398Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-08T22:20:20.872Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -380,6 +388,10 @@
       {
         "time": "2025-09-29T22:19:27.398Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-08T22:20:20.872Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -619,5 +631,68 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/4yTUXpIaRQMfDAW9tsRC60"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-08T22:20:20.872Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sofia Nersesian",
+      "2K DJ",
+      "MalYar"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ed0824f28aed643ab9471da2",
+    "releaseDate": "2023-10-13",
+    "tags": [],
+    "title": "Пташка (MalYar, 2K DJ Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/544XS0eHQTUymPYo71JQJq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-08T22:20:20.872Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sofia Nersesian",
+      "2K DJ",
+      "MalYar"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fbf6a95b36a109544d63bce7",
+    "releaseDate": "2023-04-28",
+    "tags": [],
+    "title": "Козак (MalYar, 2K DJ Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3np8FtqGgKh7PJeI3YgvkN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-08T22:20:20.872Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sofia Nersesian",
+      "2K DJ",
+      "MalYar"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731bf1b0972b2c27a76b88b3b7",
+    "releaseDate": "2022-09-11",
+    "tags": [],
+    "title": "Одна єдина (VIP Mix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3RXwfW5Cjvc351GxUq9tmK"
   }
 ]
