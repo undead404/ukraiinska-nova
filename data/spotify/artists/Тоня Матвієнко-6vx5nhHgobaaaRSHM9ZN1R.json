@@ -1054,6 +1054,10 @@
       {
         "time": "2025-12-06T13:24:07.719Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-08T13:28:34.503Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1069,5 +1073,27 @@
     "totalTracks": 13,
     "type": "album",
     "url": "https://open.spotify.com/album/3tqj0xjTXU25tB3Bq1VNx8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-08T13:28:34.504Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "alyona alyona"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739f2bc875a273c08820fba5a1",
+    "releaseDate": "2025-12-04",
+    "tags": [
+      "rap",
+      "Hip-Hop"
+    ],
+    "title": "Наймузичніша ялинка країни",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/74IoPnaj6H1cBBygS8dDMt"
   }
 ]
