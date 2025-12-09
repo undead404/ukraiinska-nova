@@ -376,5 +376,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2GsyAq7Be8Die5MegKJi03"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-09T05:21:27.867Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Цвях"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d23cbc580eacd8f1c224e2f5",
+    "releaseDate": "2025-11-15",
+    "tags": [
+      "rock"
+    ],
+    "title": "Театру Треба Реквізит",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0OnKNGi9jOPyWenmnvVAUu"
   }
 ]
