@@ -859,5 +859,28 @@
     "totalTracks": 10,
     "type": "album",
     "url": "https://open.spotify.com/album/4GGGPuNoKyw4jo2CmW7qHr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-09T13:30:56.120Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kostiuchenko",
+      "datboyjeezo"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ef7cdfdf33260c9a405a7452",
+    "releaseDate": "2025-12-08",
+    "tags": [
+      "rap",
+      "trap"
+    ],
+    "title": "відміни мене",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6Sh7NgLl4p7fuErqQJ08EX"
   }
 ]
