@@ -191,5 +191,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4uCbUEiZRz59SENWAtz6Nf"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-09T09:22:37.652Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Тарас Чубай"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273744308bf07617b215eb704b3",
+    "releaseDate": "2025-12-09",
+    "tags": [
+      "rock"
+    ],
+    "title": "Миколай Бородатий (2025 version)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1UDhYj9zJ8MqOYV8yHeNiD"
   }
 ]
