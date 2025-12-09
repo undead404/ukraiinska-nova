@@ -1328,5 +1328,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k47xq3yhI4nZnEGkkJLPn3kppYNjWlDxA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-09T17:48:03.750Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Колін"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/Fi_Z9rv2yc0uEL2pyYyOcQUXxPubXaZroulFvvRhISRlkulWFfiwY3-NqH7wBr89kn-VBtHqB2ml89h-=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Зараза",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mbkikWhCqVMoAonsnhp9TSHqAx1GzPFEc"
   }
 ]
