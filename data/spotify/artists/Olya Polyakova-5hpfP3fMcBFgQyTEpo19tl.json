@@ -1054,6 +1054,10 @@
       {
         "time": "2025-10-17T10:27:07.463Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-09T10:27:53.175Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1092,5 +1096,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/13bZtHYzObghz4L06D74TZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-09T10:27:53.176Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Olya Polyakova"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739246eafd4ec80df8b58f5a72",
+    "releaseDate": "2025-12-09",
+    "tags": [
+      "pop",
+      "dance"
+    ],
+    "title": "Warrior",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5jaqLGsz0tFshQMU3pOTD6"
   }
 ]
