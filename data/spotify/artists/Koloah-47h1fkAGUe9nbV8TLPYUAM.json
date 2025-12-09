@@ -894,5 +894,25 @@
     "totalTracks": 8,
     "type": "album",
     "url": "https://open.spotify.com/album/1hTy4zp6Ob9J8vCh0Xmkce"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-09T02:53:28.354Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Oleksandr Filonenko",
+      "Dmytro Avksentiev"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a8af1e9c10fe0467b5b3bb7d",
+    "releaseDate": "2021-09-06",
+    "tags": [],
+    "title": "Шинель",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3d42vzJk1tgBZ4VZlAsdFD"
   }
 ]
