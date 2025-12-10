@@ -8,6 +8,10 @@
       {
         "time": "2025-12-09T16:53:40.598Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-10T16:54:07.796Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -33,6 +37,10 @@
       {
         "time": "2025-12-09T16:53:40.598Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-10T16:54:07.796Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -58,6 +66,10 @@
       {
         "time": "2025-12-09T16:53:40.598Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-10T16:54:07.796Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -133,6 +145,10 @@
       {
         "time": "2025-12-09T16:53:40.598Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-10T16:54:07.796Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -208,6 +224,10 @@
       {
         "time": "2025-12-09T16:53:40.598Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-10T16:54:07.796Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -258,6 +278,10 @@
       {
         "time": "2025-12-09T16:53:40.598Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-10T16:54:07.796Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -283,6 +307,10 @@
       {
         "time": "2025-12-09T16:53:40.598Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-10T16:54:07.796Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -333,6 +361,10 @@
       {
         "time": "2025-12-09T16:53:40.598Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-10T16:54:07.796Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -358,6 +390,10 @@
       {
         "time": "2025-12-09T16:53:40.598Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-10T16:54:07.796Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -383,6 +419,10 @@
       {
         "time": "2025-12-09T16:53:40.598Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-10T16:54:07.796Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -398,5 +438,89 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nxV4efXBHJXqJ69Hnhrs4X7GLmcA__5ks"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-10T16:54:07.796Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vopli Vidopliassova"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/53cWL86niCJ0xWSyABp8ML6xwapfUZPOsr4O_ba66mSiqj73bbNmdyoFMk0pAmVvL7rCXPOUsF3hzHygxw=w544-h544-l90-rj",
+    "releaseDate": "2020",
+    "tags": [
+      "rock"
+    ],
+    "title": "Хвилі амура",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kVyD7zX9Dy_XeieFMP9qFQfYP8iFwo-IU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-10T16:54:07.796Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vopli Vidopliassova"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/Xwi0JVPbn6OssOrLVQC9ezebmrUN_hG3BKEDVZMOKkGwi6K7QPvzvqqsmxwbloZWznWfCZm7xlED_9muqg=w544-h544-l90-rj",
+    "releaseDate": "2007",
+    "tags": [
+      "rock"
+    ],
+    "title": "Збірка романтична",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ntE4Q4AkAyEk9MEZnqoJ9BRv7WsL2ndEo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-10T16:54:07.796Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vopli Vidopliassova"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/m7hcSAbc1l1RRiw6z5kJzVFzJCpPHm69oAeh8KfBcu9toAFeJCUMBAoP-OXQ1kgfaY8m2EYc9Yd95GP0=w544-h544-l90-rj",
+    "releaseDate": "2007",
+    "tags": [
+      "rock"
+    ],
+    "title": "Fayno",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nOKxOrwGsbp9BIrjykKONdaZ7wzDN_u9Q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-10T16:54:07.796Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vopli Vidopliassova"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/y8nHHSTRo3-YfW7i8h66zzRtN0ByTmPDPa2nQNLMFI_1SROsGIwziD6TEWbWAkQr9wkiizH0A8qJTIgF=w544-h544-l90-rj",
+    "releaseDate": "1997",
+    "tags": [
+      "rock"
+    ],
+    "title": "Країна Мрій",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lZYl6ajANafOJuOvex9L8_HKdlGRzNZeA"
   }
 ]

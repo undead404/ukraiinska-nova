@@ -1701,5 +1701,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lGioj1uI2jovXkUA__LXollcd2CF_xq7E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-10T16:50:58.306Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Анна Трінчер"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/I3esjOWMJlcBglwqzEsLnzbk5Zd0h_qFwBoAvLY5eiHAUWL4hk-r_WzwUhidmcO_ZVRoDK2IXGM5OzH_3Q=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop"
+    ],
+    "title": "Любов-шутер",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lNyw_AGWR9420Kf7ZDIzOlB7Vs0Bty0Ao"
   }
 ]
