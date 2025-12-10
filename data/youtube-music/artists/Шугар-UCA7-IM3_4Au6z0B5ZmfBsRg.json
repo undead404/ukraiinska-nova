@@ -927,5 +927,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lOutcw_qcL6AjasXwOaAkRK22rPKLN65Y"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-10T15:48:34.793Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Шугар"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/rcY8Mt5U9b6L9SDTEu2TQhvV3jFZhDMV6geLWlDNmCbu10p8iNH5qlHA_18X43lj9E4ybpgOmyASY8jKnQ=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "З понеділка",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mOpHAlvljLvH4tMg_tkO0WmY3i0chb0fY"
   }
 ]
