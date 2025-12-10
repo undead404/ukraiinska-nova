@@ -1006,5 +1006,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1ORbTZ1dvxzscy1HE3zz8y"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-10T00:42:06.185Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Володимир Вермінський"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27344c2e8faa196d3fad40aba39",
+    "releaseDate": "2025-12-08",
+    "tags": [
+      "folk"
+    ],
+    "title": "Плакуча гітара",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0PoBF3v4LqAU7QrEfvxDZP"
   }
 ]
