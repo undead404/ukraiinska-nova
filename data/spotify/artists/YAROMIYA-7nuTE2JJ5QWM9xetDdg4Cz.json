@@ -788,5 +788,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1zmDvQub8cRvGyacA7nJ72"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-10T11:28:39.700Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YAROMIYA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e29137b3301cae9008f6752a",
+    "releaseDate": "2025-12-08",
+    "tags": [
+      "pop"
+    ],
+    "title": "Любов це",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2eUgr1c4lgIqcAaetNLlBa"
   }
 ]
