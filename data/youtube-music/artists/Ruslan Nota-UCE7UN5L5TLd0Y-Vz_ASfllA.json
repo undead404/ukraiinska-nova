@@ -1005,5 +1005,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lS3FUHXfa84b1_NAK1c465hmXAVmkg20I"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-10T23:50:38.509Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ruslan Nota"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/9ugWAjRWJCZY5u0b9CScdrHYItgzTxA_6N9IlDO9lk3SXEeWIkpHZlt9XPjYTBm3B-IE67YQPUpu-DQ=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Квітка Розмарія (feat. Людмила Клименко)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_no9KH21DuzevQeupDekdQQu6jP_0UL-50"
   }
 ]
