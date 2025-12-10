@@ -403,5 +403,30 @@
     "totalTracks": 16,
     "type": "album",
     "url": "https://open.spotify.com/album/6w0F37HM4WQzS5oK8YSMIa"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-10T19:26:33.374Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "OLIVIA",
+      "Motor'Rolla"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f67af9c90f1469ec83121c5b",
+    "releaseDate": "2025-12-10",
+    "tags": [
+      "japanese",
+      "J-rock",
+      "j-pop",
+      "female vocalists"
+    ],
+    "title": "Миколай бородатий",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5taamgREx2JCfKJ4YQLOQA"
   }
 ]
