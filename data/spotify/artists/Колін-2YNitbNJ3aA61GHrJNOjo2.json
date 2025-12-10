@@ -1312,5 +1312,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3ahSIv56iPPuxxEXOkDll7"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-10T02:51:12.494Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Колін"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273700fa64851d27aa1aa6854dd",
+    "releaseDate": "2025-12-09",
+    "tags": [],
+    "title": "Зараза",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5L1p1LhOFYnqslaH9IqhMK"
   }
 ]
