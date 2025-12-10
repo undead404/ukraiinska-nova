@@ -1544,5 +1544,28 @@
     "totalTracks": 9,
     "type": "album",
     "url": "https://open.spotify.com/album/74IoPnaj6H1cBBygS8dDMt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-10T17:24:13.819Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "alyona alyona",
+      "Шугар"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273621edc6f7488c85483f7bb37",
+    "releaseDate": "2025-12-09",
+    "tags": [
+      "rap",
+      "Hip-Hop"
+    ],
+    "title": "З понеділка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/72TK0h3RVvkRc0tbidF9RZ"
   }
 ]
