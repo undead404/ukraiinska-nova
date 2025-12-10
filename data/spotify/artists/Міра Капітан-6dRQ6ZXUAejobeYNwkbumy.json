@@ -116,5 +116,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5Q9g6tZZVzjbJnI4oopYWB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-10T21:22:40.516Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Міра Капітан"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27324a99ffbdc525aefd24559b9",
+    "releaseDate": "2025-12-10",
+    "tags": [],
+    "title": "Якийсь злий",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/04d1cBw5rvblQyLBgpwPxF"
   }
 ]
