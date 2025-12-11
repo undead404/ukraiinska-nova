@@ -703,5 +703,24 @@
     "totalTracks": 9,
     "type": "album",
     "url": "https://open.spotify.com/album/2YBfDbR87Nw2h7EWorBQzK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-11T10:23:28.828Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Dima PROKOPOV"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f38d0f5b0654f4f8915980ff",
+    "releaseDate": "2025-12-11",
+    "tags": [],
+    "title": "Зробіть гучніше",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7rLQIZ6sT5uZ6tL9fNgMyU"
   }
 ]
