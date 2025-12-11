@@ -675,5 +675,47 @@
     "totalTracks": 9,
     "type": "album",
     "url": "https://open.spotify.com/album/7lvUOFPEThxUZbItZZkhsK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-11T22:23:01.048Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "FORCEGNG"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27325cd6b239353adc2c5e4ccc3",
+    "releaseDate": "2024-02-09",
+    "tags": [
+      "rap"
+    ],
+    "title": "Не загуби себе",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1ASTdwb4iQeogZg9zS1VSq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-11T22:23:01.048Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "FORCEGNG"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27328de8a418da7885e994cdbf9",
+    "releaseDate": "2023-08-25",
+    "tags": [
+      "rap"
+    ],
+    "title": "UFO SWAG SEASON",
+    "totalTracks": 7,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2uJbhIyLw4bKVuIumRweHK"
   }
 ]

@@ -439,5 +439,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0f5k92O6RraZP17gRtVClu"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-11T22:25:51.766Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Roma Tuz"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a721867f628634716afe5991",
+    "releaseDate": "2025-12-11",
+    "tags": [
+      "female vocalists",
+      "pop"
+    ],
+    "title": "Фобія",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/06SQ9TON2vwP7MvBLWa4cd"
   }
 ]
