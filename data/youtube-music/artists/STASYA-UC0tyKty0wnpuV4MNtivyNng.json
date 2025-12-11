@@ -760,5 +760,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mYISOjboCrFS-4z4sMK5sPTrChVkjm43k"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-11T16:55:24.935Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "STASYA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/H1yVhuGIfNqvb0CjhIHtBaqAQcX5RW8dW6CL821tikLXs-ZhablNEKZQo0gvF0KdmX90jyMMbn7-NluC=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "folk",
+      "ethnic"
+    ],
+    "title": "Неоновий дощ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mSYD5YxyVl9S6hg_wmAEt4fH-R93zLPZg"
   }
 ]
