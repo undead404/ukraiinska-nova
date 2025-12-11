@@ -1919,5 +1919,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kET_fiPKl49P0HGRD5cdxOAI820hjULrs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-11T15:51:42.763Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/jHW-N41iwF0UOXQ2hnACQZn5KAQMLht1RVdeSaJS7gsGygLshWETSAywZooLbPP6C111kB6lETQeRLX5Jg=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Echoes of Time (feat. Modern Children)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mBFF9GMx4bjfBVFwN8OYVH1iD2w1XHV5o"
   }
 ]
