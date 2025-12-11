@@ -927,5 +927,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/67jdkyzs56Pq6qx9XJhu9f"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-11T19:23:35.565Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Curtie And The Boombox"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a7e4fd616ade0f6af778f7fb",
+    "releaseDate": "1985-04-01",
+    "tags": [
+      "dutch"
+    ],
+    "title": "Black Kisses (Never Make You Blue) [Remastered]",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2uOdgmvlBi93n0NqEoIYyC"
   }
 ]
