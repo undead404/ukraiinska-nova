@@ -108,12 +108,16 @@
       {
         "time": "2025-12-09T16:28:24.441Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-11T16:29:22.416Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Vopli Vidopliassova"
     ],
-    "artistsPopularity": 35,
+    "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27393b6551f77ca71d1fe24ea9e",
     "releaseDate": "2008-06-06",
     "tags": [
@@ -216,12 +220,16 @@
       {
         "time": "2025-12-09T16:28:24.441Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-11T16:29:22.416Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Vopli Vidopliassova"
     ],
-    "artistsPopularity": 35,
+    "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a7e9d5800aee6dbc6e560af8",
     "releaseDate": "2007-08-08",
     "tags": [
@@ -764,13 +772,17 @@
       {
         "time": "2025-12-09T16:28:24.441Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-11T16:29:22.416Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Vopli Vidopliassova",
       "Олег Скрипка"
     ],
-    "artistsPopularity": 35,
+    "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732fef6d891e7cbf560a95598b",
     "releaseDate": "2018-08-24",
     "tags": [
