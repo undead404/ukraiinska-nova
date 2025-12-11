@@ -491,5 +491,24 @@
     "totalTracks": 9,
     "type": "album",
     "url": "https://open.spotify.com/album/74IoPnaj6H1cBBygS8dDMt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-11T06:22:51.095Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Максим Бородін"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bddb037d4782abe9bcc42d06",
+    "releaseDate": "2025-12-11",
+    "tags": [],
+    "title": "Київ-Гавана",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7hJN5byomIfdzDJyiQGbBx"
   }
 ]
