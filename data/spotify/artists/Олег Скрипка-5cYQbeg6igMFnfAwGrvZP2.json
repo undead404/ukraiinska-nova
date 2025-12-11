@@ -8,6 +8,10 @@
       {
         "time": "2025-12-10T01:52:16.406Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-11T01:52:30.058Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -34,6 +38,10 @@
       {
         "time": "2025-12-10T01:52:16.406Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-11T01:52:30.058Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -60,6 +68,10 @@
       {
         "time": "2025-12-10T01:52:16.406Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-11T01:52:30.058Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -112,6 +124,10 @@
       {
         "time": "2025-12-10T01:52:16.406Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-11T01:52:30.058Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -138,6 +154,10 @@
       {
         "time": "2025-12-10T01:52:16.406Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-11T01:52:30.058Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -189,6 +209,10 @@
       {
         "time": "2025-12-10T01:52:16.406Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-11T01:52:30.058Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -215,6 +239,10 @@
       {
         "time": "2025-12-10T01:52:16.406Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-11T01:52:30.058Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -241,6 +269,10 @@
       {
         "time": "2025-12-10T01:52:16.406Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-11T01:52:30.058Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -267,6 +299,10 @@
       {
         "time": "2025-12-10T01:52:16.406Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-11T01:52:30.058Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -372,6 +408,10 @@
       {
         "time": "2025-12-10T01:52:16.406Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-11T01:52:30.058Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -423,6 +463,10 @@
       {
         "time": "2025-12-10T01:52:16.406Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-11T01:52:30.058Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -452,6 +496,10 @@
       {
         "time": "2025-12-10T01:52:16.406Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-11T01:52:30.058Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -478,6 +526,10 @@
       {
         "time": "2025-12-10T01:52:16.406Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-11T01:52:30.058Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -530,6 +582,10 @@
       {
         "time": "2025-12-10T01:52:16.406Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-11T01:52:30.058Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -584,6 +640,10 @@
       {
         "time": "2025-12-10T01:52:16.406Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-11T01:52:30.058Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -610,6 +670,10 @@
       {
         "time": "2025-12-10T01:52:16.406Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-11T01:52:30.058Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -910,6 +974,10 @@
       {
         "time": "2025-12-10T01:52:16.406Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-11T01:52:30.058Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -926,5 +994,144 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4mSVS4nFBzcMkhGBECn0mV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-11T01:52:30.058Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олег Скрипка",
+      "Марія Коваленко"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273168ad42ae7e493fa4b2807c9",
+    "releaseDate": "2025-10-03",
+    "tags": [
+      "rock",
+      "blues rock"
+    ],
+    "title": "Любов (Violon Version)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2ioso10RCTQgneOeLXUBLe"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-11T01:52:30.058Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олег Скрипка",
+      "Олег Бондар"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273215870e928fcb4eef22fb404",
+    "releaseDate": "2022-09-02",
+    "tags": [
+      "rock",
+      "blues rock"
+    ],
+    "title": "Воля",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/46UYl9nu7zX70Sgx1mNoqQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-11T01:52:30.058Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олег Скрипка",
+      "Bakun"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731de87c89bd3b9e46e6675268",
+    "releaseDate": "2018-12-14",
+    "tags": [
+      "rap",
+      "rock",
+      "blues rock"
+    ],
+    "title": "Щедрик (Bakun Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7MA9HbVYtBVs4KIMFO3S8g"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-11T01:52:30.058Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олег Скрипка",
+      "Yan Zapolsky"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27384a0c733d2cc0ed87cb063f3",
+    "releaseDate": "2018",
+    "tags": [
+      "rock",
+      "blues rock"
+    ],
+    "title": "Героям Слава! (Yan Zapolsky Remix)",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1L0OUTQDSood0zCtxxK1z0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-11T01:52:30.058Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олег Скрипка",
+      "Марія Коваленко"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273be0ae7049d1591ded12a0ada",
+    "releaseDate": "2018",
+    "tags": [
+      "rock",
+      "blues rock"
+    ],
+    "title": "Відрада (Violin Version)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/515SGzxaassVXBUd3nxFPx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-11T01:52:30.058Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олег Скрипка",
+      "Jazz Cabaret \"Zabava\""
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27365184c3eeb0b34cd2b98fd25",
+    "releaseDate": "2017-10-14",
+    "tags": [
+      "rock",
+      "blues rock"
+    ],
+    "title": "Вибране",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0paFj9YdgXiTn67JNxRrYn"
   }
 ]
