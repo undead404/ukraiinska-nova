@@ -130,5 +130,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/14LMnMuZpfIDNaXx5ghbrE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-11T18:23:02.815Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ЛТК"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f45e60f2c84a33aefb96e356",
+    "releaseDate": "2025-12-11",
+    "tags": [
+      "indie pop",
+      "pop"
+    ],
+    "title": "Неоновий слід",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5ZqgSOXzMbsUvodnBBUI8a"
   }
 ]
