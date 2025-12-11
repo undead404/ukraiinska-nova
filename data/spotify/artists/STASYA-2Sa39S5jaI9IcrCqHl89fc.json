@@ -697,5 +697,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2dHLI4pAwYMbxtXluB7xwv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-11T08:27:49.908Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "STASYA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731b25f959915dae7f81ee0c7d",
+    "releaseDate": "2025-12-10",
+    "tags": [
+      "folk",
+      "ethnic"
+    ],
+    "title": "Неоновий дощ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1QWEx97of9tzNByGpdGffM"
   }
 ]
