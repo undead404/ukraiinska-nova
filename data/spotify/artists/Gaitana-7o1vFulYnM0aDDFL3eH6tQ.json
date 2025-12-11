@@ -991,5 +991,27 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/5g2TyyoQHVeWCTL6A2t4bB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-11T11:24:29.704Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Gaitana"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737c9aa98bd3437ba74e1249a7",
+    "releaseDate": "2010-09-01",
+    "tags": [
+      "pop",
+      "Eurovision"
+    ],
+    "title": "Только сегодня",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2UAZMA8kMpCtUcdb7RCY9c"
   }
 ]
