@@ -1029,5 +1029,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/242jDDURU1tAfaVPacXfrP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-11T05:23:27.758Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олег Скрипка",
+      "Bakun"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731de87c89bd3b9e46e6675268",
+    "releaseDate": "2018-12-14",
+    "tags": [
+      "rap",
+      "rock",
+      "blues rock"
+    ],
+    "title": "Щедрик (Bakun Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7MA9HbVYtBVs4KIMFO3S8g"
   }
 ]

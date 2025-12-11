@@ -1672,5 +1672,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/15rpft6NVQxOyBwOqXJWnn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-11T05:26:10.756Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ruslan Nota"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b894eba4679aa39eed8b3572",
+    "releaseDate": "2025-12-10",
+    "tags": [],
+    "title": "Квітка Розмарія",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4HXvQ3mQ72D3gYlcs6SGGN"
   }
 ]
