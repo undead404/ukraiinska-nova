@@ -120,5 +120,43 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1NPF76H9tUtdOpTwMPF4wn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-11T03:49:11.495Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PERNATIZ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732a6b44938ce9a339e0202370",
+    "releaseDate": "2023-04-19",
+    "tags": [],
+    "title": "Бейдевінд",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7fJn5NMwEmrm3ap2SKK3bt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-11T03:49:11.495Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PERNATIZ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aa0c69a3aefde5e0824ee93b",
+    "releaseDate": "2023-04-18",
+    "tags": [],
+    "title": "Крила",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1fU0RCa9C0Qq0uMwiK75M0"
   }
 ]

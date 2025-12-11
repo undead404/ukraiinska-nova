@@ -1269,5 +1269,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7DokZhB4LPyNxNZcKGUI54"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-11T03:42:08.760Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Анна Трінчер"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27301457076a3b98de41b1f451e",
+    "releaseDate": "2025-12-10",
+    "tags": [
+      "pop"
+    ],
+    "title": "Любов-шутер",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6XVRyNUUO85S9YOfZZT2zm"
   }
 ]
