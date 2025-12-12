@@ -606,5 +606,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_neEmLiklUZs5kcpadqf9AKCh33alWMefA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T02:26:15.469Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Dima Prokopov"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/duQrzgzXcKTcOlb4P4WfGEhHc1KLPrt41JM_YXWRzX9Qtwun-zy6JQXL25wbkJhe1VG_kvduxNWi95J7=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Зробіть гучніше",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k0tObOmZG6FaUrsk_V4v4xGW9Xf5-lQjo"
   }
 ]

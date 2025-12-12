@@ -4,6 +4,10 @@
       {
         "time": "2025-12-06T02:19:25.005Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-12T02:26:30.332Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -229,5 +233,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lSw22b57RYEtbAX_CWxkKzzzl_beJypvM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T02:26:30.332Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Hurtom"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/NxeqJ03npzV8vYM6d8Md8Q36mJqw61sX4oF4wg3bYttynLmO0Tjsr6G8kl1oKLPVf9xR9XAQaZLNUKQe=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rock"
+    ],
+    "title": "Додому на Pіздво",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kcVPfbxIrZG4ubl37Cqo1xUoOPtH0kYOY"
   }
 ]
