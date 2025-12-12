@@ -340,5 +340,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5NZKEKXPNCZ4OxyqGCxxHe"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T19:26:57.861Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Skydan"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730d5e3e922d5f199fa9798b89",
+    "releaseDate": "2025-12-12",
+    "tags": [],
+    "title": "La Casa De Papi",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3U54DlgX4nf1l5prBM7DPm"
   }
 ]
