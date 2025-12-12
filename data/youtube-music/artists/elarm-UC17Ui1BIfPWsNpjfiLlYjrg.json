@@ -313,5 +313,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nXecqMAic32lhBG1HvmnW7064L4nORPbs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T06:53:51.230Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "elarm"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/MVXbll3LIjrFPx4n2gYGbmlLgcCu61p5gGiytj8OjFucwZ8yUK2NfaATXoc5njIuOaVmrwPV1nbRhUBd=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap"
+    ],
+    "title": "Steak",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kAI9tH7oRrT3Q8hWSABeYhf2U8e-EJs-Q"
   }
 ]
