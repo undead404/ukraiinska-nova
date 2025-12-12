@@ -303,5 +303,24 @@
     "totalTracks": 10,
     "type": "album",
     "url": "https://open.spotify.com/album/6H533aHdX44OnVkNxw1N1R"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T16:29:09.741Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yaski"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27387d5928ac0298c86088de7f8",
+    "releaseDate": "2025-12-12",
+    "tags": [],
+    "title": "Вільний вітер",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1dkLJukdSwk6jP8TjqRukn"
   }
 ]

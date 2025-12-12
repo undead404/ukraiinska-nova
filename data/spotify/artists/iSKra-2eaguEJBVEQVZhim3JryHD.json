@@ -181,5 +181,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5yPX7pHhaeQCqTLKbBTmuZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T16:24:02.779Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "iSKra"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aaa43de1da73cb24fe55ef83",
+    "releaseDate": "2025-12-12",
+    "tags": [
+      "Crust",
+      "blackened crust",
+      "black metal"
+    ],
+    "title": "Твоє право",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6SMOdAU2fijEk8B5MfFZPk"
   }
 ]

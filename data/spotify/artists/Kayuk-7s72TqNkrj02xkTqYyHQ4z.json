@@ -835,5 +835,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2zu6DI1MCn4x6GUpj7xip1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T16:24:46.283Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kayuk",
+      "9 Вал"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a0ac508ba42b4cf62030d283",
+    "releaseDate": "2025-12-12",
+    "tags": [
+      "hatecore"
+    ],
+    "title": "Сумо",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3DFRZYcFivo8Viwp75VciQ"
   }
 ]
