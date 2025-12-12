@@ -376,5 +376,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_keV6ZD5B8HkNannsuPL-NTubz11kgq69Y"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T09:50:48.193Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NAIMES"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/R3msTp0Iz6THczh0ony7nX8cu4iIvVzIi4etV17J4bXwGz2kCofIXqOU1Py9oqCiZUaQYLMZBDtoWp0=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "світ для нас",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mX_ZcUhp4bypLaUxt8483ujRPnuHOwzVQ"
   }
 ]
