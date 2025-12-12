@@ -137,5 +137,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3Z0EbEOSx2WfEX3Q1hl0nK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T00:46:53.151Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yasnychka",
+      "SanYan"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b7ab9d9313b61f76df87da03",
+    "releaseDate": "2025-12-11",
+    "tags": [
+      "ambient",
+      "noise"
+    ],
+    "title": "ЗИМА",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4tH9kFwH37RAQwRo1w8JYL"
   }
 ]

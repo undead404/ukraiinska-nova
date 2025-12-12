@@ -566,5 +566,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/21NKUNySdBLlVpZh8xmrUL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T00:42:37.456Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Кімната Гретхен"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736fd790363299cc01eea10610",
+    "releaseDate": "2025-12-11",
+    "tags": [
+      "Disco"
+    ],
+    "title": "Магія В Простих Речах",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5HNd5Y6JcwRaQsQcl5f5K7"
   }
 ]
