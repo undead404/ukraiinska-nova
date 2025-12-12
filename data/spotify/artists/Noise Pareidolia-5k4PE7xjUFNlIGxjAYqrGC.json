@@ -886,5 +886,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5HfogQkwEQy0oGNWxlfs94"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T21:25:43.550Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Noise Pareidolia"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739c4760ec4571925fece22b4c",
+    "releaseDate": "2025-12-12",
+    "tags": [
+      "alternative rock",
+      "rock"
+    ],
+    "title": "Did Someone Call the Avant-Garde Dudes?",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7nyCsfZw9MFWIqe1rYUD5I"
   }
 ]

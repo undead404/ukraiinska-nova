@@ -889,5 +889,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7zwWjr7jmGKt1Tqk9k03r8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T21:22:38.843Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alexjazz"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d1e775b11594ad25caeb5195",
+    "releaseDate": "2025-12-12",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Алкоголь агоній",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5euRt70yYfhMdaySSCit1Q"
   }
 ]
