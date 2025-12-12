@@ -2415,6 +2415,10 @@
       {
         "time": "2025-10-06T21:47:45.398Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-12T21:47:58.253Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2928,5 +2932,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nVqrsaW1ic3jhitUx4k2bWxRlTnKTeedo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T21:47:58.255Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/6JpKXpyx6lqSKukfzadZGInKMX4DPWocJ7wkXOCiN1IaAoPGhtzGj8R-y6241G5CR4jwyk0oNI20_9c=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Пульсар",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_le3oelTns-ek5YC0cffeOkEc3KjH_0f_w"
   }
 ]
