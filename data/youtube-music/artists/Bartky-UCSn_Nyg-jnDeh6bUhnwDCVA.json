@@ -240,5 +240,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nC385dxWQyrCbwC-nxE2bz0qIksdLroY4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T11:47:08.731Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Bartky"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/n1Rz9I6wKKOelOM4NXwq7g5o4vJaRMMtTUrBcPcx6rXryOITKrJrfpG1UYUK-m72SXwglCdaB-917Z7zug=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "metal",
+      "folk"
+    ],
+    "title": "Hory",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kFQm2dh-FM9daQf3I-SmrxpohJrOcGKaU"
   }
 ]
