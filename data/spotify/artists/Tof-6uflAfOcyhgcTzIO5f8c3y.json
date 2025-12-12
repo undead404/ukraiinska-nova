@@ -1312,5 +1312,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3s2ndFs4y83wG3a4s6BQIo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T09:27:58.496Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Фир",
+      "Tof"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c417145cdabd85b58c2a39f7",
+    "releaseDate": "2025-12-12",
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "dance"
+    ],
+    "title": "Розбуди мене",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5uTbhC0Su2uUEYAaIbaES2"
   }
 ]
