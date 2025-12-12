@@ -637,5 +637,24 @@
     "totalTracks": 7,
     "type": "album",
     "url": "https://open.spotify.com/album/36qj7kzW0qzpPmtZhQP2Au"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T13:28:34.293Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Хейхал"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a2dbc71aed4ce592ea9a9a51",
+    "releaseDate": "2025-12-05",
+    "tags": [],
+    "title": "Трикутник",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2WJUdZSkdxzNwTyYFP5zxt"
   }
 ]
