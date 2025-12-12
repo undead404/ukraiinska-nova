@@ -262,5 +262,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k6svoWS9_8AbCBP1NsCPDZcCOm6AWFi2E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T15:49:10.016Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Gunna Chorna"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/UqeycZGnCudqNlb88Gbs2bUmjE5PSBOPN8mF6wDHUi2hu1w2LW_uzB9ucIXpUAKElMimXZdWwBp7nNi-pQ=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop"
+    ],
+    "title": "Номерок",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lcyWM49MI25RD4oPAUGDdXW1qNiP3k5fc"
   }
 ]

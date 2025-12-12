@@ -274,5 +274,51 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kmceXbScFlFWSB2AVq392dPSBmhq32Ges"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T15:50:38.017Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TOF"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/aEWeR8XBtrviWqLlOFUYNEDAIr_sMO5AZlZSJxlpt7KxUkS55bji0PPGJxy-FjLsSxxJovDGn7tk6PEOnQ=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap",
+      "dance",
+      "Hip-Hop"
+    ],
+    "title": "TRONCHES DE VIE VIE EN TRANCHES 17 Dit Sex Etre",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nPTBk2BxQigqQsl7JYgUeMARO0oXpPjdY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T15:50:38.017Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TOF"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/RFjbzHcSiiEhlLZM-v2Apxv7qnj-Jfe6_z-BfsV8hIow82XvPzS0nRoHLdrrANEv30xommxOuyPOscAY=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap",
+      "dance",
+      "Hip-Hop"
+    ],
+    "title": "Tronches de Vie Vie en Tranches 12 Tout Elle Veut",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mcVRVRJxpMnHQ5epTQ3MOKq4cl4hua8tI"
   }
 ]
