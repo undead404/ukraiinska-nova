@@ -610,5 +610,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0LJlAzN9ERNtfeTvQxvWwy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T15:29:51.103Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YaZheYao"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27359eb4280f8b40718e87949eb",
+    "releaseDate": "2025-12-12",
+    "tags": [],
+    "title": "Квартал",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5RyM6uS0FOTa9EvIkcQLcR"
   }
 ]

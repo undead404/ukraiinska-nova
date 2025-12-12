@@ -615,5 +615,29 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/6zoAXVjFqwrEpPXRYiQIN6"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T15:29:33.947Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KUGATESSA",
+      "Wavewalkrs"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733509c8e9b16604aaaca37829",
+    "releaseDate": "2025-12-12",
+    "tags": [
+      "electronic",
+      "pop",
+      "indie pop"
+    ],
+    "title": "не така як тобі треба",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2JX9Ray8Koo1kfP84FJouM"
   }
 ]

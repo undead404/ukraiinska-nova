@@ -103,5 +103,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2Beya9jisT2BHxVDVWxQox"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T15:30:24.137Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ZGARDA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273510d84acc6de9160a6050bf1",
+    "releaseDate": "2025-12-12",
+    "tags": [
+      "folk"
+    ],
+    "title": "Koliada",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0PcaPHxzkvS5tZTobkTVLu"
   }
 ]

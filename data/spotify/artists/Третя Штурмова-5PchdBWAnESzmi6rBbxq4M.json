@@ -591,5 +591,26 @@
     "totalTracks": 6,
     "type": "single",
     "url": "https://open.spotify.com/album/3jRso8Zo36tl9nCq1ODEQR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T15:23:21.564Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Третя Штурмова"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27372754b79a768936605b9192e",
+    "releaseDate": "2025-12-12",
+    "tags": [
+      "rock"
+    ],
+    "title": "Ми тут щоб жити",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5i6i8MC75FR7ZofwqWczmf"
   }
 ]

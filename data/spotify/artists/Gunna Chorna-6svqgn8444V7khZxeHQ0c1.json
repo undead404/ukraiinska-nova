@@ -287,5 +287,29 @@
     "totalTracks": 26,
     "type": "album",
     "url": "https://open.spotify.com/album/6lQ4ObNucFw5FDJJloeyg9"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T15:25:45.767Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Gunna Chorna",
+      "The Budchuk"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e14579564e82d7520cdc86f4",
+    "releaseDate": "2025-12-12",
+    "tags": [
+      "pop",
+      "electropop",
+      "folk pop"
+    ],
+    "title": "Номерок",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1xu6Y5d7CEpajxB3aFNv40"
   }
 ]
