@@ -772,5 +772,26 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/3HxOHkCKzHgo6JSUXmi6AN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T20:26:49.127Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Monotonne"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ec745edda9e63b3215e1b127",
+    "releaseDate": "2025-12-12",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Days Move Slow",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2UGRPqrjcYza0ktMn9f4jH"
   }
 ]
