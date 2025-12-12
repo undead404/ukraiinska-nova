@@ -397,5 +397,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kAaQ6B8bFJbxwIBPhLfMSsHLaBqhNjj1s"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T18:51:58.741Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CKAYA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/T3D5lEGKU8V7evNR9mL4105eMhkGYnlWmNpj0EZ2FpLLgkO2uOW3atV-ppmj8Cleps0uNIKeVlDS5RaMXA=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Спогадами",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m64Iw0d97MvBsuoo3In6ncnl3ngZBGz1w"
   }
 ]
