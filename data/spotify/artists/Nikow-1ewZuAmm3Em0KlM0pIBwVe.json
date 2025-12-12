@@ -317,5 +317,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/39yft8YDcwnIUE1CsUPHm8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T05:24:53.536Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Nikow"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27349bc124f7be845bf67666b2f",
+    "releaseDate": "2025-12-12",
+    "tags": [
+      "pop"
+    ],
+    "title": "мультивсесвіт",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6oMmhKjvV4gI1yGHic6Zkk"
   }
 ]

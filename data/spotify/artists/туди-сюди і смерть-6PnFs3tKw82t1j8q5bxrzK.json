@@ -396,5 +396,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6Vh7u2qs4ly6yjbQZWNsfj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T05:21:05.084Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "туди-сюди і смерть"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e14a989d15d6b4094307b99e",
+    "releaseDate": "2025-12-12",
+    "tags": [
+      "Garage Rock",
+      "indie rock",
+      "punk rock"
+    ],
+    "title": "Я малюю знак",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2LotcDJp06LEXrGQVFGJFk"
   }
 ]
