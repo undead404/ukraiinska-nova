@@ -1042,5 +1042,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5sZHYIZUjc8OCyfLptB3v5"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T06:23:44.807Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Схожа"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730cc7d52705f833b016d20587",
+    "releaseDate": "2025-12-12",
+    "tags": [
+      "pop",
+      "electropop"
+    ],
+    "title": "Драма Квін",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0VLd2rzjlgFpH1OHO39ckA"
   }
 ]
