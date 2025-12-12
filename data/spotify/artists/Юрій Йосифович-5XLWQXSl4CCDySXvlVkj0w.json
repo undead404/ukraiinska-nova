@@ -386,5 +386,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7KrurqtLJ80gvay3NMYj1o"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T08:22:58.242Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Юрій Йосифович"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fa2d79577d7373d168c85770",
+    "releaseDate": "2025-12-11",
+    "tags": [
+      "folk"
+    ],
+    "title": "Дорога додому",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6ijm2QonVRPEvaHJKqPozP"
   }
 ]

@@ -649,5 +649,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2NeRnIhyN8alTxvzFtRM1g"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T08:28:39.328Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "To Eternity"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fbddccf383cccff111a5ff9b",
+    "releaseDate": "2025-12-12",
+    "tags": [
+      "indie pop",
+      "pop"
+    ],
+    "title": "Alt F4",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4xgk9B4YtcdckOSyzNZoYv"
   }
 ]

@@ -436,5 +436,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6ksdjnDRQ57cvxR0dOoHqg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T08:26:20.885Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NAIMES"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273abbd73c9b5a3102f8d3a614f",
+    "releaseDate": "2025-12-11",
+    "tags": [],
+    "title": "світ для нас",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7Khs8P2S3Ji0EXjRL68jXz"
   }
 ]
