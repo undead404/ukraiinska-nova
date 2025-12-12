@@ -1602,5 +1602,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1y1FAX4oekEuUvigC6qqHQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T03:43:02.089Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Довгий Пес"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273883c31f159dc55a47eb6772e",
+    "releaseDate": "2025-12-11",
+    "tags": [
+      "rap"
+    ],
+    "title": "Зло",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3oaSTSHpliGylIkTvlfqrJ"
   }
 ]
