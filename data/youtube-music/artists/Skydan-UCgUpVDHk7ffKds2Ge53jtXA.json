@@ -283,5 +283,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l57nqOwKkpMuaoeEkvL1AeOEv-RZypM3o"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T08:52:44.529Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Skydan"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/4u9gg7SITa9LdpwRsc1YUdDGI-NrwQRmNkKnQvhs6NZaVrCfejhx_CKUQYpqfQ-Q_3DVFRVrRvXKe1nQ=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "La Casa De Papi",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l6tVCTOkNmByxdDBMl9q_SxYiLBtgU49I"
   }
 ]
