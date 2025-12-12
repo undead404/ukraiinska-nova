@@ -1813,5 +1813,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6ze5yoiiuiSL1WG5JvcadR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T12:26:38.721Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "drwncvnt"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27333690505adeee774a0377048",
+    "releaseDate": "2025-12-12",
+    "tags": [
+      "electronic"
+    ],
+    "title": "breakcvnt",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7KiNJr3JFmYt5zhSgAiJ7l"
   }
 ]

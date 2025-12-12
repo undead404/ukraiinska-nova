@@ -363,5 +363,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6aoLS1Jj9OmQVTJrxDUTZz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T12:26:44.251Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Entely"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c7c7b3dd950836e58eeb7fc6",
+    "releaseDate": "2025-12-12",
+    "tags": [
+      "soul"
+    ],
+    "title": "хоча хочу",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6faiKVbCbAlp5FZv4s3r5t"
   }
 ]
