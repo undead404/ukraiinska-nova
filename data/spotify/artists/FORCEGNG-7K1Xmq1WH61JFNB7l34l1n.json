@@ -717,5 +717,47 @@
     "totalTracks": 7,
     "type": "single",
     "url": "https://open.spotify.com/album/2uJbhIyLw4bKVuIumRweHK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T22:23:05.900Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "FORCEGNG"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27367bf684bb616999b3db95352",
+    "releaseDate": "2024-01-26",
+    "tags": [
+      "rap"
+    ],
+    "title": "Підіймаюсь",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/39cEXvwx9GI7VJoFmBSPfX"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T22:23:05.900Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "4ERDAK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cd1a0949bf84f533e3ace240",
+    "releaseDate": "2025-12-12",
+    "tags": [
+      "trap"
+    ],
+    "title": "Kvadrat 16",
+    "totalTracks": 16,
+    "type": "album",
+    "url": "https://open.spotify.com/album/67dz18wFZkgP3gTjaqxegg"
   }
 ]
