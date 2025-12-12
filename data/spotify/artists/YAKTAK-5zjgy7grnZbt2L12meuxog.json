@@ -1069,5 +1069,27 @@
     "totalTracks": 10,
     "type": "album",
     "url": "https://open.spotify.com/album/5TPt1XupzkJn487hjlzme6"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T07:28:23.545Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YAKTAK"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ade9be21074f5fa45e74715f",
+    "releaseDate": "2022-05-25",
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "title": "Біля тополі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4QsGfintBb18XuVI4oGdx7"
   }
 ]
