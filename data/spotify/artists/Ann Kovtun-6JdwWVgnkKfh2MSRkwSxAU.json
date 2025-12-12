@@ -961,5 +961,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2VEK7M1EPVL2QW3f071bLu"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T18:25:21.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ann Kovtun",
+      "на її основі",
+      "сashalot"
+    ],
+    "artistsPopularity": 3,
+    "releaseDate": "2025-12-12",
+    "tags": [
+      "electropop",
+      "pop"
+    ],
+    "title": "Зорепад",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6dBTIiTcD9vPmAepLv0QGG"
   }
 ]

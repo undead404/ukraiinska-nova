@@ -1094,5 +1094,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7D5I4yo6QzOYya6l6NwJaC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T18:26:46.286Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a0126abb51f45920a98ccf56",
+    "releaseDate": "2025-12-12",
+    "tags": [
+      "rap"
+    ],
+    "title": "Бруд",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3Zl4CIsxyZAGsil2t17d5V"
   }
 ]
