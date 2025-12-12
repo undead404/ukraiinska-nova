@@ -1013,5 +1013,49 @@
     "totalTracks": 15,
     "type": "album",
     "url": "https://open.spotify.com/album/2UAZMA8kMpCtUcdb7RCY9c"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T11:24:10.059Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Gaitana"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a7f70cbee05d36624fa43d07",
+    "releaseDate": "2008-01-01",
+    "tags": [
+      "pop",
+      "Eurovision"
+    ],
+    "title": "Кукабарра",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1JRY2f19mhxrYNkeWTf7Pu"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T11:24:10.059Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Gaitana"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735846a564c86bcb14964c685f",
+    "releaseDate": "2005-04-20",
+    "tags": [
+      "pop",
+      "Eurovision"
+    ],
+    "title": "Слідом за тобою",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/17dqN1RAAYAIUismNe7VhG"
   }
 ]

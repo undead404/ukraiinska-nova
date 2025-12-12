@@ -214,5 +214,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2yFtJKvkMw8RRl1y6W7MFU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T11:22:53.593Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Bartky"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a73991c6f13f513627c78bf3",
+    "releaseDate": "2025-12-12",
+    "tags": [
+      "metal",
+      "folk"
+    ],
+    "title": "Hory",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5uJdxEh4clhtaeRoDNSRNg"
   }
 ]

@@ -316,5 +316,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1pbW7gh7tNUNr3nuIjgQ02"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T11:21:54.104Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "o.hroza",
+      "СИЛУЕТ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738c6cb0f7876dc960c7c44920",
+    "releaseDate": "2025-12-11",
+    "tags": [],
+    "title": "смерть не біда",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3oKhHlTsiCoNOli3zmCBgj"
   }
 ]
