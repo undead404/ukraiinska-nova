@@ -1016,5 +1016,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4SKJdcSJacWf883ZtjsalP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T23:25:31.296Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lefor"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273192f5098e4ac2f0d7a576e69",
+    "releaseDate": "2025-12-12",
+    "tags": [
+      "rap"
+    ],
+    "title": "Пращури",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7kxF02QIJfvKtYsms3SAfH"
   }
 ]
