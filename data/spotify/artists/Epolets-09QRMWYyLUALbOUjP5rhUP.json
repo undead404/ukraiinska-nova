@@ -747,5 +747,26 @@
     "totalTracks": 12,
     "type": "album",
     "url": "https://open.spotify.com/album/305r1O2dyH5sAHqXpWA7RM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T10:24:18.870Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Epolets"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731a89bf5a76f02d8179b8e3b2",
+    "releaseDate": "2025-12-12",
+    "tags": [
+      "rock"
+    ],
+    "title": "Live Faine Misto",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6V0M1F1qXh1unA47puURwG"
   }
 ]

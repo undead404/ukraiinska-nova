@@ -922,5 +922,24 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/0sRhsMbqPBrJFxlRdQg6kA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T10:22:24.307Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BID0NCI0N"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fcb4fee7460a92bf7c0b7fbc",
+    "releaseDate": "2025-12-12",
+    "tags": [],
+    "title": "UI",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3n4GvFKbLBlUXDaUs0cDls"
   }
 ]

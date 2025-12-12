@@ -1979,5 +1979,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2maEkewCAqQfvjrTwOcZoh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T10:23:06.792Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Costel Van Dein",
+      "Edu Trevizan"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bac0b2bf475fde7e60a69c67",
+    "releaseDate": "2025-12-12",
+    "tags": [
+      "House",
+      "brazil"
+    ],
+    "title": "Call Me Daddy",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3krRyKnq2uZUyq17lyXNzm"
   }
 ]

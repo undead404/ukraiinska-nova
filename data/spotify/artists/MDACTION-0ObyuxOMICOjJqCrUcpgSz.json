@@ -716,5 +716,24 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/0V2sJatdidaPAE2NMvAW9a"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-12T10:27:16.957Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MDACTION"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eb93c12841457903c7d73447",
+    "releaseDate": "2025-12-12",
+    "tags": [],
+    "title": "luv u",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/43E26IOM8zJrVhs1iN4qrH"
   }
 ]
