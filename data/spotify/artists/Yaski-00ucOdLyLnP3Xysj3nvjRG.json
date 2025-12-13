@@ -322,5 +322,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1dkLJukdSwk6jP8TjqRukn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-13T16:28:25.933Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ostap Drivko",
+      "Yaski"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273efcc5c13120c438cea38a529",
+    "releaseDate": "2025-12-13",
+    "tags": [
+      "pop"
+    ],
+    "title": "Лелій",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/62OcMmN8LO0taMrtTT33Oq"
   }
 ]
