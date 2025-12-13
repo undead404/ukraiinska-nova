@@ -879,5 +879,33 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3DLjmQ2Cgv1CJvanEAKqDA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-13T12:24:43.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ZippO",
+      "Agape",
+      "RUNA",
+      "karmv"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27323c762c49e2dc8e850b00507",
+    "releaseDate": "2023-09-01",
+    "tags": [
+      "celtic",
+      "electronic",
+      "rock",
+      "Stoner Rock",
+      "techno"
+    ],
+    "title": "Доберман (Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2kwVfjRwQ9NzF4Su8KgClA"
   }
 ]
