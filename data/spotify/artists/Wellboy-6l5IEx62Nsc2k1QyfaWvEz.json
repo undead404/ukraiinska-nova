@@ -780,5 +780,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6k6MiW6HqyeRZoMnyQmRyX"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-13T07:28:21.138Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vaib UA"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27355973a73a86b4006bd1c4f40",
+    "releaseDate": "2025-12-13",
+    "tags": [],
+    "title": "Уходи",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7EMJtAQutd5iOOqCeksxTO"
   }
 ]
