@@ -651,5 +651,26 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/5R1LVuXbRGnOHQbZH0V95Z"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-13T04:24:50.792Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "FliT"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732a0a017b7d56c7adb12b03d1",
+    "releaseDate": "2025-12-12",
+    "tags": [
+      "punk rock"
+    ],
+    "title": "НОЧІ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7BeYhOx5Jz7A3krh0HsQU7"
   }
 ]

@@ -780,5 +780,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6F9GzNZvH7Z7Wo10QeWZhi"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-13T04:26:11.909Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "laang"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27390b5cc7462ee210e5387d11f",
+    "releaseDate": "2025-12-12",
+    "tags": [
+      "black metal"
+    ],
+    "title": "ми не навіки",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6byJ1YKbjswirCh22eT7xO"
   }
 ]

@@ -417,5 +417,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3mIcX0Cbabp1M59jjL2M5x"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-13T04:25:15.700Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "HOHLAN"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27305441079649dc1894948f579",
+    "releaseDate": "2025-12-12",
+    "tags": [],
+    "title": "Щедрик",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/56E22yWDpLW1aU4llbdJgu"
   }
 ]
