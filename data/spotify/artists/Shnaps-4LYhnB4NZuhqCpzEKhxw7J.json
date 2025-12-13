@@ -397,6 +397,10 @@
       {
         "time": "2025-09-27T10:26:01.797Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-13T10:28:20.722Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1330,5 +1334,25 @@
     "totalTracks": 6,
     "type": "single",
     "url": "https://open.spotify.com/album/6jSGVrTLGiS323YJ8Z9HBc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-13T10:28:20.723Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MISS IRIS",
+      "Shnaps"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c0503694124ae20eef68ae2a",
+    "releaseDate": "2022-09-09",
+    "tags": [],
+    "title": "Привіт (Shnaps Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/01jwup2iTfLONNRM9putoB"
   }
 ]
