@@ -481,5 +481,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nGuxJc6SJjujTJaHLBvOEfTJOeVo-AeZU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-13T13:00:44.748Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Valentine Lawrence"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/dC9gLH56cf18u7kEIleBNPMqueAdPQOU_1fHrdaX12EHeyjhSn0glsguz1JIicO5h5BSKE-No6EJgaXe=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "rap"
+    ],
+    "title": "24.02",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lGv00u-aqu3akgSHrvpYxwrmT9ydK3hSg"
   }
 ]

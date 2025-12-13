@@ -397,5 +397,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nFbUXoocV9UIuuBxhmWQE_y2sxFOSIR0s"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-13T12:59:33.498Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "HOHLAN"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/qYFEqeebD95h9cFi6tjqPMGS8Bgln4jjr_Ufta26D9m5i7XYwH39fr0vDznJ-crQD-Oll3rQHfdLZez6=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Щедрик",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nm0gdBcBCvdAjZgfCb4z_jd4uIVCTal18"
   }
 ]
