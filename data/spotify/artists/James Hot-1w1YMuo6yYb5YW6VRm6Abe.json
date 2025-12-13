@@ -526,5 +526,31 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6EzK7BiGGES59jCucxBQZN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-13T00:42:45.707Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Міша Правильний",
+      "Тур",
+      "Гаррі Шульц"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27374105090e075deab1d61c8ac",
+    "releaseDate": "2025-12-12",
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "rock",
+      "underground hip-hop"
+    ],
+    "title": "Не ходи",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6avlebIQT2KKO33XPiGxfY"
   }
 ]
