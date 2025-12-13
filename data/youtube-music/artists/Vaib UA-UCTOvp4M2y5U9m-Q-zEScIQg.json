@@ -346,6 +346,10 @@
       {
         "time": "2025-11-19T16:53:04.071Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-13T16:51:25.025Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -359,5 +363,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ns4DT3yrFlggvt9jBmoAqIZgzp2L_gIDA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-13T16:51:25.025Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vaib UA"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://lh3.googleusercontent.com/HO6Jeg_b9hEqigKBnQqIRHMeeCPSP58-26Rrp8L7zyQjQ0Z9h8-iUUUuniGyfqANYXpCAdGDWSB-TadEAQ=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Уходи (feat. Wellboy & Perezvuk)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ntLGao2RQvCK7Zfe5kf9dnPX8VG_0E3lo"
   }
 ]
