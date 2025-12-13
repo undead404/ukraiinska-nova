@@ -1057,5 +1057,27 @@
     "totalTracks": 12,
     "type": "album",
     "url": "https://open.spotify.com/album/17dqN1RAAYAIUismNe7VhG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-13T11:23:24.097Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Gaitana"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273961a1031a224078bff956661",
+    "releaseDate": "2007-12-04",
+    "tags": [
+      "pop",
+      "Eurovision"
+    ],
+    "title": "Капли дождя",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0394SGIWTcTclTz6IgdQ3Z"
   }
 ]

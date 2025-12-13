@@ -101,6 +101,10 @@
       {
         "time": "2025-10-17T11:26:43.102Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-13T11:27:16.101Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -348,6 +352,10 @@
       {
         "time": "2025-10-25T11:26:55.484Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-13T11:27:16.101Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -399,5 +407,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1K7GfZx54k7wYbHC7yc11z"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-13T11:27:16.101Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vaib UA"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27355973a73a86b4006bd1c4f40",
+    "releaseDate": "2025-12-13",
+    "tags": [],
+    "title": "Уходи",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7EMJtAQutd5iOOqCeksxTO"
   }
 ]
