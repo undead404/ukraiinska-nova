@@ -1826,5 +1826,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7jTyTSQ0grWYefQJyvrwmS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-13T08:25:50.832Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MAX BARSKIH"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c839f1efcb0fcfe881488a3b",
+    "releaseDate": "2025-12-12",
+    "tags": [
+      "pop"
+    ],
+    "title": "Не складається",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1e043cqReHkbrPd6VRLNTN"
   }
 ]
