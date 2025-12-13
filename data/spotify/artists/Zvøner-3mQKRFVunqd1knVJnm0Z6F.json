@@ -136,5 +136,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1wX8JvRmqmV1WyQMsf9yZR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-13T13:29:34.804Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Zvøner"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732e58e6737f9070a4f774ec45",
+    "releaseDate": "2025-12-12",
+    "tags": [],
+    "title": "My World Is Melting",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2GLvh28UiGRDWLZuFxGW5e"
   }
 ]
