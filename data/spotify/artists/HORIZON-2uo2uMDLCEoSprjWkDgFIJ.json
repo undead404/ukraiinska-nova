@@ -1978,5 +1978,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7D5I4yo6QzOYya6l6NwJaC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-13T03:41:06.109Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "HORIZON"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27378edd590bf40ad042f0326a9",
+    "releaseDate": "2025-12-12",
+    "tags": [
+      "hardcore",
+      "Stoner Rock"
+    ],
+    "title": "Best CHRISTMAS",
+    "totalTracks": 20,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0rmVpSvg1EgjOQDwuJsUMQ"
   }
 ]

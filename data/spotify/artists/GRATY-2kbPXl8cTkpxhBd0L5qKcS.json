@@ -206,5 +206,26 @@
     "totalTracks": 10,
     "type": "album",
     "url": "https://open.spotify.com/album/7vxibUnMag8ve4Hy9NxRtM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-13T03:40:35.831Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "GRATY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733a282e8d2f7c86979f357488",
+    "releaseDate": "2025-12-12",
+    "tags": [
+      "rock"
+    ],
+    "title": "Вітражі",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5MSSpYy9UhMo5GD985KT3l"
   }
 ]

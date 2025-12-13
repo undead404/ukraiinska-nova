@@ -223,5 +223,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2W6m3iMMNLw9UycJlipLf9"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-13T03:37:32.319Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Культурні сили"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ee6a7a83dd1eb4d942116669",
+    "releaseDate": "2025-12-11",
+    "tags": [],
+    "title": "Без страху",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5fUGzqvHdWkwyHLV739Gfp"
   }
 ]

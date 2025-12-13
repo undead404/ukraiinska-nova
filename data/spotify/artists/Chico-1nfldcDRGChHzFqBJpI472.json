@@ -414,5 +414,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1vXgPGYP52MlqV7QkfZVQZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-13T03:39:20.479Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Chico",
+      "Hundred Grand Production"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739ec85e2d9f74214b2335181f",
+    "releaseDate": "2025-12-12",
+    "tags": [
+      "polish",
+      "Nu Metal"
+    ],
+    "title": "Regretting",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5OWLOEPw1BqNT6tAKrLgiN"
   }
 ]
