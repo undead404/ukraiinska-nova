@@ -652,5 +652,26 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/3YnJh8NTxXUY59TlAHqAvg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-13T18:26:14.503Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Green House"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d3be7d05e9dac1c875231e2b",
+    "releaseDate": "2025-12-12",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Крутимо педалі далі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0DF5kjAzsRO5vLryo87U4b"
   }
 ]

@@ -1332,6 +1332,10 @@
       {
         "time": "2025-09-22T18:25:14.924Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-13T18:26:25.494Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1757,6 +1761,10 @@
       {
         "time": "2025-12-09T18:27:10.907Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-13T18:26:25.494Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1901,5 +1909,31 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3EzCofeZKeS8JX7UlK6wSR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-13T18:26:25.494Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NASTEISHA",
+      "INSOMNIA",
+      "KAVA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732769ea2b42a969f83a09cf16",
+    "releaseDate": "2023-10-20",
+    "tags": [
+      "pop",
+      "psytrance",
+      "male vocalists",
+      "thrash metal"
+    ],
+    "title": "ZABUTY (Remix)",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7krVDAWb5VXfx8dft5fy4s"
   }
 ]
