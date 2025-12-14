@@ -702,6 +702,10 @@
       {
         "time": "2025-12-11T22:23:01.048Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-14T22:22:59.731Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -759,5 +763,26 @@
     "totalTracks": 16,
     "type": "album",
     "url": "https://open.spotify.com/album/67dz18wFZkgP3gTjaqxegg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-14T22:22:59.732Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "FORCEGNG"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27328de8a418da7885e994cdbf9",
+    "releaseDate": "2023-08-25",
+    "tags": [
+      "rap"
+    ],
+    "title": "UFO SWAGG SEASON",
+    "totalTracks": 7,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2uJbhIyLw4bKVuIumRweHK"
   }
 ]
