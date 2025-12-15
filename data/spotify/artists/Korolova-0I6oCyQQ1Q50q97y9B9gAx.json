@@ -1173,6 +1173,10 @@
       {
         "time": "2025-10-03T02:41:29.814Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-15T02:57:08.069Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1272,5 +1276,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5lBJfXqwjdVj5txL43AlN8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-15T02:57:08.069Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Armin van Buuren"
+    ],
+    "artistsPopularity": 6,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273201da5e7d7c35dc7ac52041c",
+    "releaseDate": "2025-12-12",
+    "tags": [
+      "trance",
+      "progressive trance"
+    ],
+    "title": "A State of Trance Year Mix 2025 (Mixed by Armin van Buuren)",
+    "totalTracks": 113,
+    "type": "album",
+    "url": "https://open.spotify.com/album/11hKL1GmHT30riBDSoNLoE"
   }
 ]

@@ -1184,6 +1184,10 @@
       {
         "time": "2025-12-06T02:53:25.380Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-15T02:59:55.058Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1196,6 +1200,29 @@
     "tags": [
       "Hip-Hop",
       "rap",
+      "House"
+    ],
+    "title": "Від землі і до зірок",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/04FyYrvLAV2Vz7NhgtM6xb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-15T02:59:55.059Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Tony Tonite",
+      "Ліон"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27321443a61e28a459a31f8670d",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "Hip-Hop",
       "House"
     ],
     "title": "Від землі і до зірок",
