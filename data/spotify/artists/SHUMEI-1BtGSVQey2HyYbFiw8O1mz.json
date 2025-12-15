@@ -599,5 +599,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0SgcRjeFwtfmhnrzW1Fn4t"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-15T17:30:29.844Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SHUMEI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734e1a4a2f9fec24cb4760ae89",
+    "releaseDate": "2025-12-15",
+    "tags": [
+      "pop"
+    ],
+    "title": "Світло Різдва",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4RqieNAbZILH4MZgHLQps4"
   }
 ]

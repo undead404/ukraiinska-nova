@@ -136,6 +136,10 @@
       {
         "time": "2025-09-18T17:23:39.072Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-15T17:24:01.714Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -942,5 +946,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4iiA9hs9wTQXD3q6CECt1M"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-15T17:24:01.714Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ALEKSEEV"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bf5d5f06eb25b5db3aaf5f7c",
+    "releaseDate": "2024-12-05",
+    "tags": [
+      "pop"
+    ],
+    "title": "Вальс",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2bYIm5ZvFlQg7y75vFNl0E"
   }
 ]
