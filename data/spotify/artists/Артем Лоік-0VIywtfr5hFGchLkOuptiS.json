@@ -1654,5 +1654,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/43IGb0MeFuQ88RjniiRGEh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-15T19:20:38.593Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Artem Loik"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c2791a59a8628d437e26eb28",
+    "releaseDate": "2025-12-14",
+    "tags": [],
+    "title": "Національна академія НГУ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4PlMj2mw7KVngDFFI8VNwr"
   }
 ]

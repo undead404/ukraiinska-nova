@@ -27,6 +27,10 @@
       {
         "time": "2025-09-19T19:24:16.900Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-15T19:28:41.334Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -231,6 +235,10 @@
       {
         "time": "2025-09-19T19:24:16.900Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-15T19:28:41.334Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -291,5 +299,49 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/473nT2W1BJqeqG4djM5Poi"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-15T19:28:41.334Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TUMAZAR"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ac76fdde096d845dea63e929",
+    "releaseDate": "2024-07-11",
+    "tags": [
+      "pop",
+      "synthpop"
+    ],
+    "title": "ЛИПЕНЬ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6110VKbFxxKzzzqw4u3E1G"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-15T19:28:41.334Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TUMAZAR"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736e9eb4721cde58daeeec5ff4",
+    "releaseDate": "2023-12-13",
+    "tags": [
+      "pop",
+      "synthpop"
+    ],
+    "title": "Сонце",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3nGBBia1OxDxLh42nsY8be"
   }
 ]

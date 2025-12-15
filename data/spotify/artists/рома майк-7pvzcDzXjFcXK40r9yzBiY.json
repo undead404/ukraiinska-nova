@@ -1093,5 +1093,26 @@
     "totalTracks": 20,
     "type": "album",
     "url": "https://open.spotify.com/album/2jjJkZlrTWj3cT2uRkh8eZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-15T19:22:25.467Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "рома майк"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27375448674cb6c0a88d433a42d",
+    "releaseDate": "2025-12-15",
+    "tags": [
+      "rap"
+    ],
+    "title": "Вбий свою голову",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0PLEJy5LCKqmm27oBFptQq"
   }
 ]
