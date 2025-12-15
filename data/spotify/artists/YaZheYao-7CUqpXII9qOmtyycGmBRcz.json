@@ -629,5 +629,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5RyM6uS0FOTa9EvIkcQLcR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-15T15:29:39.957Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Толян Lazio"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b934044ef7689336032c8713",
+    "releaseDate": "2025-12-15",
+    "tags": [],
+    "title": "Божевільня",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0nYG7wazHKkbOJAgVwSp5l"
   }
 ]
