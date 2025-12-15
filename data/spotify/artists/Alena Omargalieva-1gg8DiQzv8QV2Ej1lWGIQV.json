@@ -656,6 +656,10 @@
       {
         "time": "2025-09-25T05:27:28.914Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-15T05:22:57.834Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -780,5 +784,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2Y0mXdZdGWGWrKSdLWmPJ2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-15T05:22:57.834Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ліон"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c4b2d7f5a13e87ee2ac8e17a",
+    "releaseDate": "2010-05-08",
+    "tags": [],
+    "title": "Львиное сердце",
+    "totalTracks": 14,
+    "type": "album",
+    "url": "https://open.spotify.com/album/70LhayN5Fvzbl43WJ9uQir"
   }
 ]
