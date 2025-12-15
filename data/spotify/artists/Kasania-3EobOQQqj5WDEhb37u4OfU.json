@@ -55,5 +55,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0Yf0MqiApdYfBspeNcDI2i"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-15T00:47:37.881Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kasania"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735e91562ae9f651b9d96a0de8",
+    "releaseDate": "2025-12-14",
+    "tags": [],
+    "title": "Несказане",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4EK06M48xqh4KjP4QQxyod"
   }
 ]
