@@ -942,6 +942,10 @@
       {
         "time": "2025-12-02T20:28:36.031Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-15T20:27:45.541Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1090,5 +1094,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1y1FAX4oekEuUvigC6qqHQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-15T20:27:45.541Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Mr.Tkach"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738396831466b422866ad2b627",
+    "releaseDate": "2025-12-13",
+    "tags": [],
+    "title": "Андергрунт",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/47qToUabIXOHvyNzQOc49G"
   }
 ]
