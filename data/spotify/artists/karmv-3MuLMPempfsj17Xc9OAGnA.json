@@ -2011,5 +2011,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2kwVfjRwQ9NzF4Su8KgClA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-15T08:25:58.646Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vanyasho",
+      "karmv"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ae76231df0d25498c8d27d4b",
+    "releaseDate": "2025-12-15",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Vyhadav (karmv Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0wkzmVrVzp7Tb1U4Yq84QH"
   }
 ]
