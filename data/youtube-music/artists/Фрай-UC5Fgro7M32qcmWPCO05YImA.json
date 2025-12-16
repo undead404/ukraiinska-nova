@@ -901,5 +901,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kNOSqykphZo-HWxlonLtkceJowATbmIR8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-16T07:47:54.894Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Фрай"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/j1r0DNTrvi7IDAslYkfBGrqQnzHNOB0BjqFivWtN00tUYavzokIIQRrJS7RiFW9WXqPs4dKDj5Tmfz4=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "blues"
+    ],
+    "title": "Не сам",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nGA-4CyO6LyinAYCt-t-FApnH6VG8UXmw"
   }
 ]
