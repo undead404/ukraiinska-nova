@@ -689,5 +689,24 @@
     "totalTracks": 15,
     "type": "album",
     "url": "https://open.spotify.com/album/0aECwchoRo5s1yyNCzlb5B"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-16T17:30:44.616Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vlad Darwin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273581e94696cca6c78d0675b6b",
+    "releaseDate": "2025-12-16",
+    "tags": [],
+    "title": "Чай гарячий",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5zcPKIuBv7PfIA6cA4Sv3j"
   }
 ]
