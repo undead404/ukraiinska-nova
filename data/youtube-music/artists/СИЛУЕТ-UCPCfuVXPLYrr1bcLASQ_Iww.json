@@ -226,5 +226,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nkZJa17NuLY53RNCjS8OinllQhUuMoskM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-16T08:51:55.657Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "СИЛУЕТ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/ljUaRFy5S3_yoIBufaD-Ctf72MC2hM3AhzrAWzh4-me1zk884PFonu6iEMxXUcMMYtp3ftB34m2GJtY=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "смерть не біда",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k-g9vifSlhX1SzpI8_BTKT_Q1DYJP43Gk"
   }
 ]
