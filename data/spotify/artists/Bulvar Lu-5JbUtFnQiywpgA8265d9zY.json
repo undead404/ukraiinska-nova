@@ -233,5 +233,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3S1IqIzlRVnJfld6JhCJ5D"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-16T14:23:05.171Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Bulvar Lu",
+      "Magnushevskyi"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b1223d9781aba84eff072242",
+    "releaseDate": "2025-12-15",
+    "tags": [],
+    "title": "Щасливі дні (Magnushevskyi remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0qeFI1zpjJ2RtIOtOxEKsc"
   }
 ]
