@@ -1915,6 +1915,10 @@
       {
         "time": "2025-12-13T18:26:25.494Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-16T18:28:26.840Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1929,6 +1933,29 @@
       "pop",
       "psytrance",
       "male vocalists",
+      "thrash metal"
+    ],
+    "title": "ZABUTY (Remix)",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7krVDAWb5VXfx8dft5fy4s"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-16T18:28:26.840Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NASTEISHA",
+      "INSOMNIA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732769ea2b42a969f83a09cf16",
+    "releaseDate": "2023-10-20",
+    "tags": [
+      "psytrance",
       "thrash metal"
     ],
     "title": "ZABUTY (Remix)",
