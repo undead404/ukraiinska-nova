@@ -589,5 +589,26 @@
     "totalTracks": 7,
     "type": "album",
     "url": "https://open.spotify.com/album/3o0F7RnQ0lNJwf0OBSwK4e"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-16T20:26:05.127Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DenyMo"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273272bf63efc5e75325c7ca507",
+    "releaseDate": "2025-12-16",
+    "tags": [
+      "rap"
+    ],
+    "title": "Марабу",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4Aseh8Gq1YcmQnXAo8lmgK"
   }
 ]
