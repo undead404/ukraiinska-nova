@@ -1099,6 +1099,10 @@
       {
         "time": "2025-12-15T19:22:25.467Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-16T19:22:17.609Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1114,5 +1118,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0PLEJy5LCKqmm27oBFptQq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-16T19:22:17.610Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "рома майк"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f8d9e42dc0d4d57dc49c6ff9",
+    "releaseDate": "2025-12-14",
+    "tags": [
+      "rap"
+    ],
+    "title": "Вбий свою голову",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4xCtD59RNCovfmb5hySlzb"
   }
 ]
