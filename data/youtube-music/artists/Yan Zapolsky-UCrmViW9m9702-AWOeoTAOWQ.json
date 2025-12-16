@@ -207,5 +207,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kbgqQsg_8eJ8ndw02vCQ0xC3b9-4ZCljM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-16T04:05:16.373Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yan Zapolsky"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/sTneUgL3ag2FQLu637rwQ2ZH6H9MDb3C3hhUwcyJmw9GHU009j7h1jOJE1xCirdi-_AcwNjZB1NcxfVO_A=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Світло",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nDfcZGzZo9Nxo4vI-b3o_bf-Li62H0sXU"
   }
 ]
