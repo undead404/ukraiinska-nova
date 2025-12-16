@@ -124,5 +124,28 @@
     "totalTracks": 8,
     "type": "album",
     "url": "https://open.spotify.com/album/48xmyXojuI8jyKsVVu3yLY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-16T05:25:42.188Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Morwan",
+      "A Place To Bury Strangers"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cdc7fe4c6b70df82e4115705",
+    "releaseDate": "2025-12-16",
+    "tags": [
+      "post-punk",
+      "shoegaze"
+    ],
+    "title": "Забудь себе",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/25hP58qzxlgVO1OL8Qds6t"
   }
 ]

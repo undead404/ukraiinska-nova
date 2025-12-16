@@ -737,5 +737,30 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0THSxM57wcedxbuoJXjSfH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-16T05:27:42.121Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TaRuta",
+      "Biplan"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734d768f9fe2ae7e630ed48bc8",
+    "releaseDate": "2025-12-16",
+    "tags": [
+      "folk",
+      "folk rock",
+      "lithuanian",
+      "rock"
+    ],
+    "title": "Лікуйте душі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6WCdyDaV7sRO3jEInyRvJ8"
   }
 ]
