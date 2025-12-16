@@ -224,6 +224,10 @@
       {
         "time": "2025-09-22T09:48:08.574Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-16T09:51:42.133Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -262,5 +266,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nbDyepGETahjGZxOAnPi_lUqCqloXqH1M"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-16T09:51:42.133Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TUMAZAR"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/WCSkknUd0Z5WjGLu5Frns1_mWGWitBmjAReg2W5aYLVzYQNqzMbNCyewQ-W43_g4h2KwHKgLJJTZVnvoiA=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop",
+      "synthpop"
+    ],
+    "title": "Сонце",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kTtWxv_yY2_wLwulNrjumAqqvNPkXjZpg"
   }
 ]
