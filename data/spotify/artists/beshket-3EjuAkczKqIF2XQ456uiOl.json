@@ -674,5 +674,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2ffJEKD9TyBwTgfRSEwkX4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-16T07:22:38.272Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "beshket",
+      "takn"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b709fb7d0aa4c2d152b74faa",
+    "releaseDate": "2025-12-16",
+    "tags": [
+      "rap",
+      "indie pop",
+      "indie rock"
+    ],
+    "title": "Закінчиться вечірка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/10kAWK48aZJ7gl9mw1A8pc"
   }
 ]
