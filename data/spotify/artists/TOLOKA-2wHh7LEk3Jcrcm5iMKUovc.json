@@ -365,5 +365,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6gSsr38tnOC2MjXTbaRPUy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-17T02:56:57.247Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "OLIVIA"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27344dadb8309dacf21f469e2b1",
+    "releaseDate": "2025-12-16",
+    "tags": [
+      "japanese",
+      "J-rock",
+      "j-pop",
+      "female vocalists"
+    ],
+    "title": "Сонце Сходило",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7EkGmHYW1pqupfaKuqNCWp"
   }
 ]
