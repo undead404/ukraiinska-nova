@@ -150,5 +150,26 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/1knctd4yyhlswctrv4xsg7"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-17T05:24:43.008Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Пиріг і Батіг"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27372bebe91d4518647611d3755",
+    "releaseDate": "2025-12-17",
+    "tags": [
+      "folk rock"
+    ],
+    "title": "Замордовані. Подзвін другий",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3zt79XavZatawEHxpOrPdM"
   }
 ]
