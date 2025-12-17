@@ -530,5 +530,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ltk3FPx5uDr-CbfHnwrubfgsVzXZhUYng"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-17T16:52:05.917Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ХЕЙХАЛ"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/areM5zxGBCeg2BwcP5Kund_L_olpF5FKv6SuKrxNWKU58sC-k0pR4VOPXSpfU6SEtKFe0EK2lBeC0Ir_Jw=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Трикутник",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nMoVw-42lMhVj8rx_G00ZlqfxoLjlOBHc"
   }
 ]
