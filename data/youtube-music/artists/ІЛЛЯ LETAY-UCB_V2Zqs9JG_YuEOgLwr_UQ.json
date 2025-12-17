@@ -321,5 +321,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lFq3CCmJrkNWYod7LWk6_IH6Kj-hd1E_k"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-17T01:05:57.544Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ІЛЛЯ LETAY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/QYLHjzRdk1VIYHc5JuqV3rWPmDtoOPI6rqw4Fyr_wrf6so0bq1rq99wTNQ5P9pSt6dHXPQtQBIvxu7Ei=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "male vocalists"
+    ],
+    "title": "Часу не вистачає (Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_khT5Lir4L6nKpBiRLknQsY90-li4XO1po"
   }
 ]
