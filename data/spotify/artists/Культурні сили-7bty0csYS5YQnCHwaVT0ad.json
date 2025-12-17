@@ -242,5 +242,28 @@
     "totalTracks": 9,
     "type": "album",
     "url": "https://open.spotify.com/album/5fUGzqvHdWkwyHLV739Gfp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-17T03:41:22.154Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KOZAK SIROMAHA",
+      "Ян Шипула",
+      "Культурні сили"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e5eab2fedd146569d98eff49",
+    "releaseDate": "2025-12-16",
+    "tags": [
+      "folk"
+    ],
+    "title": "Едельвейс",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0d3ultUwDdwfaBHKwHtiS4"
   }
 ]
