@@ -510,5 +510,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0msMXQ6JYsikjslFi7KEzF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-17T22:24:00.316Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "JEVAGA",
+      "5ROCK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d17ca064de82f0896bcae42f",
+    "releaseDate": "2025-12-15",
+    "tags": [
+      "pop"
+    ],
+    "title": "Тане сніг (5rock remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3aYHb91zF4iaBbTrmARBrE"
   }
 ]
