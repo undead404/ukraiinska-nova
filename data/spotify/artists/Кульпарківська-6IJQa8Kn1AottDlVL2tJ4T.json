@@ -803,5 +803,27 @@
     "totalTracks": 15,
     "type": "album",
     "url": "https://open.spotify.com/album/5lRrLlbWLktK22a6LklJju"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-17T20:21:55.109Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Кульпарківська"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731ecfe93a2633edf361d37812",
+    "releaseDate": "2025-12-17",
+    "tags": [
+      "rap",
+      "underground hip-hop"
+    ],
+    "title": "na dobranich",
+    "totalTracks": 19,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5ENHRoxLKUxvt73Dwi4UeU"
   }
 ]
