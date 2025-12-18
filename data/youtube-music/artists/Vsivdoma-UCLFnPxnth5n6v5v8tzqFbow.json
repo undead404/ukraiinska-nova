@@ -422,5 +422,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n1wD_uTN1SkH-eaH4TPez8MjMtnpWxM8w"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-18T15:51:32.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vsivdoma"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/4dyX7-oIhnDsKFXR06dZxK6bqBV0u13NDT9cCRVc0gzbxQKQJkIV5M2NDDZgtxmqcWdxN7fSWJ_z9rg=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Світло",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kbywnkzu2e1MR6M9YgptxpGBDlvVMCJ10"
   }
 ]

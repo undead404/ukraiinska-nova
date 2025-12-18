@@ -1941,5 +1941,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mBFF9GMx4bjfBVFwN8OYVH1iD2w1XHV5o"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-18T15:50:48.195Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/AK6fZwHR4nwNKTIWJKarVY--VeK435FvSBbi9tpINZNzyoq9Xkcm3fYm6opVdLDuEG-dtOh0HDNI4EA_Xg=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Сонце (Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n6msGvbZ4YqqOS5LMYQK7wzLZlO9b4ENc"
   }
 ]
