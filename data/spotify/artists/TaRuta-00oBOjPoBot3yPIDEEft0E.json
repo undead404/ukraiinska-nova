@@ -762,5 +762,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6WCdyDaV7sRO3jEInyRvJ8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-18T05:27:47.843Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TaRuta"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732b9d4512a26e2229601f0eec",
+    "releaseDate": "2025-12-18",
+    "tags": [
+      "folk",
+      "folk rock"
+    ],
+    "title": "Skraidinkim sielas",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6GqQf2ZB23X8KDXibE0olH"
   }
 ]
