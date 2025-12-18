@@ -728,5 +728,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0gqRYutlAP3mfJWmkT21KC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-18T21:21:47.371Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Natalka Karpa",
+      "Павло Табаков"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27398928c03d00089f9233d1c71",
+    "releaseDate": "2025-12-18",
+    "tags": [
+      "dance"
+    ],
+    "title": "У твоє серце стукає Різдво",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2XqlOIAqCrJOhyq85E74mY"
   }
 ]
