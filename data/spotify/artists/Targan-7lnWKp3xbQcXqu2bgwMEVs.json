@@ -612,5 +612,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4ShlZnZdtPSNY6oavNlA9h"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-18T20:30:51.864Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Targan"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27381820242f95d6ef261a17259",
+    "releaseDate": "2025-12-18",
+    "tags": [
+      "singer-songwriter",
+      "sadcore"
+    ],
+    "title": "Кара. (Acoustic Version)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2vXeWop1df4AjRXJtUH3oU"
   }
 ]
