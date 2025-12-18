@@ -245,5 +245,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nX39b603ccgj_eR0Eclm5LAP-imEVi3Hc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-18T13:03:48.887Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Odarka"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/qcWMlcPRREd_iPgxxrZzuTrSSDWGu06GzFu3ASkkjBMgBEkFao-6HDFKw54P9iDpye0jkxZBogXPeCoM1Q=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Добрий веір тобі (Alessandro Lega Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nd1AyQQNVhflQHOGXWiTh_7linL3vGp4U"
   }
 ]
