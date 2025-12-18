@@ -1145,5 +1145,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6KEvIdxPODnzRdTiCS5SYG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-18T08:29:00.083Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TESLENKO"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27391e58b6660a9a86c0095fec9",
+    "releaseDate": "2025-12-18",
+    "tags": [
+      "pop"
+    ],
+    "title": "Снігопад",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/75JLJu5aZwKXHXmQ0ZH4tL"
   }
 ]

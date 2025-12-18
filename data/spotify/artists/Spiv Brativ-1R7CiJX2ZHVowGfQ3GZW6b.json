@@ -511,5 +511,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5ekCun2TL7FAAaa9JenqTI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-18T08:28:16.879Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Spiv Brativ"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273db7e9156c8b83301be7bd940",
+    "releaseDate": "2025-12-18",
+    "tags": [],
+    "title": "Те, що сталось двічі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5SRX6hoYjKQfHbglS97aGk"
   }
 ]
