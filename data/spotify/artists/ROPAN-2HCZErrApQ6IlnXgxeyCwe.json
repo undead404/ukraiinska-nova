@@ -1164,6 +1164,10 @@
       {
         "time": "2025-09-18T18:27:57.994Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-18T18:29:37.747Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1231,6 +1235,10 @@
       {
         "time": "2025-11-11T18:32:55.027Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-18T18:29:37.747Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1244,5 +1252,30 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3K3mQAZuGLP8Io7sfF2NyA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-18T18:29:37.748Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROPAN",
+      "dujina"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730655587f307f9cea348dff8a",
+    "releaseDate": "2025-12-17",
+    "tags": [
+      "dub",
+      "reggae",
+      "dancehall",
+      "rap"
+    ],
+    "title": "Тікаю",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4EdlIop7E9El5I7HSoEChc"
   }
 ]

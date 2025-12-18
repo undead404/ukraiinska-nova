@@ -722,5 +722,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4XUUU8HSMgILFEnpatph38"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-18T18:29:22.250Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Roland (UA)",
+      "Odarka",
+      "Alessandro Lega"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ade46670ee335ce1ca8eeeb2",
+    "releaseDate": "2025-12-18",
+    "tags": [],
+    "title": "Добрий веір тобі (Alessandro Lega Remix)",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1HxlYhMgAgzErE6qq0R2F9"
   }
 ]

@@ -900,5 +900,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3rdbcVuinUX0sepAgfDttd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-18T18:21:48.041Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Білий Бо"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273266e930a87281629474749b8",
+    "releaseDate": "2025-12-18",
+    "tags": [],
+    "title": "Тихо йшов",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3nPWwgK3vXLxD81jMA6Ihg"
   }
 ]
