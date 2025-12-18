@@ -568,5 +568,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nNfm7O_1x-209YjM_dWiuTDiJNYzUKitE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-18T16:54:01.403Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Scroodgee"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/wDS-LRgZRptjkd6fZqCCEC62eYYJHXpj5rpMx21hvaXqxFCKWp_SSa1cHic2631Dj04TIXZehwrVMe4=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "Hip-Hop",
+      "rap"
+    ],
+    "title": "Алло",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mg1zyQIOhZ_-BhWccOeVxw7m8yUmWZvxE"
   }
 ]
