@@ -306,5 +306,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4UiPJ5usyIpB7Cpggo8K9o"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-18T22:23:07.542Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "e-ho"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e59ab7b22171da8ccc8ec602",
+    "releaseDate": "2025-12-18",
+    "tags": [
+      "alternative",
+      "rock"
+    ],
+    "title": "Яна",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/01Pz9rLjOvuPHRC1rZasT5"
   }
 ]
