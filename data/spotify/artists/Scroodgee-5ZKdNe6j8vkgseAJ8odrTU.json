@@ -631,5 +631,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6oQZbFvSzaGLV3QKMwVXfF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-18T00:43:42.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Scroodgee"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a035a229ee8ad4050eeef327",
+    "releaseDate": "2025-12-18",
+    "tags": [
+      "Hip-Hop",
+      "rap"
+    ],
+    "title": "Алло",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6fqLJuP3Y1GkQl1ndWmM6f"
   }
 ]
