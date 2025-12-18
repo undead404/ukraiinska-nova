@@ -809,5 +809,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2eUgr1c4lgIqcAaetNLlBa"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-18T11:29:38.569Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YAROMIYA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731c1592d8b93880178f1a3dd1",
+    "releaseDate": "2025-12-17",
+    "tags": [
+      "pop"
+    ],
+    "title": "Прийшло Різдво",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7H3RjiBPh82yqvjgKERmd0"
   }
 ]
