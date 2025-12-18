@@ -1095,5 +1095,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4QsGfintBb18XuVI4oGdx7"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-18T07:28:54.971Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YAKTAK"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733c995969fc65dba0f03eccd2",
+    "releaseDate": "2022-10-03",
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "title": "Повістка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5JMIYV356dfi1LlqpiPnfw"
   }
 ]
