@@ -284,5 +284,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_noAjUHn1TZoKvDubOjM7cZyaSDz2zlzbs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-18T10:50:39.722Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "e-ho"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/klYNvUoFf7d68uV_kW-WVOQfyTZYbCSbAWhGfs8y6RzNMwIBVgZbw08-1LlCVePhOmhsNi7L6FtTlzg=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "alternative",
+      "rock"
+    ],
+    "title": "Яна",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lj0u-YgtTRIS-rhaJn8jFeyZh6C1d5zUQ"
   }
 ]
