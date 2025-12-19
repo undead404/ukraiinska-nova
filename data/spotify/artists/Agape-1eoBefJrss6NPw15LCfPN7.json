@@ -907,5 +907,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2kwVfjRwQ9NzF4Su8KgClA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T12:25:13.946Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KALUSH",
+      "Agape"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a91f0c18dd72f7768fa5a500",
+    "releaseDate": "2025-12-18",
+    "tags": [
+      "electronic",
+      "rap",
+      "rock"
+    ],
+    "title": "Ніч догорає",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1NQV2ZapwjFpznkt3HTk3R"
   }
 ]

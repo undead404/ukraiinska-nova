@@ -751,5 +751,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2XH5z5JZUylkqrnVwqlfrB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T12:30:56.241Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Volkanov"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b5ad2d63df4a0226ea923e47",
+    "releaseDate": "2025-12-19",
+    "tags": [
+      "pop",
+      "male vocalists"
+    ],
+    "title": "Кордони",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3TZfT7QwB1xupsw0DsHoth"
   }
 ]

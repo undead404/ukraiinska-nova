@@ -977,5 +977,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6A46A3aQKNEuHncPGgZQMn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T12:25:35.292Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ANGY KREYDA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b8a5c49a2db46d954955dc88",
+    "releaseDate": "2025-12-19",
+    "tags": [
+      "pop"
+    ],
+    "title": "Залізо",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0jTz8YqUeccTKJFFhadfXn"
   }
 ]

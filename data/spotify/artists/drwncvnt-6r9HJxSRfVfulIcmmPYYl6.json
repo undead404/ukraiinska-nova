@@ -1834,5 +1834,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7KiNJr3JFmYt5zhSgAiJ7l"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T12:26:38.812Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "drwncvnt"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730f9d79af0b03fb7d4527fa48",
+    "releaseDate": "2025-12-19",
+    "tags": [
+      "electronic"
+    ],
+    "title": "selected analog works 10-12",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1kVouFpL3h2MrT2sNnpm7x"
   }
 ]

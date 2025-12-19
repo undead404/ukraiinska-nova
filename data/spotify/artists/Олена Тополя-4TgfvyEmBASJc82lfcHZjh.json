@@ -1109,5 +1109,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7FCGY91HXqQM7PSR24HWUy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T12:23:38.693Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олена Тополя"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731bd4a1f231eaf8ed01a0ff23",
+    "releaseDate": "2025-12-19",
+    "tags": [],
+    "title": "25 годин",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0eTb1zhuwU4UotfMTEbqwV"
   }
 ]
