@@ -753,5 +753,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0d3ultUwDdwfaBHKwHtiS4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T10:26:33.640Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KOZAK SIROMAHA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732da9581350ae6cda28fe7821",
+    "releaseDate": "2025-12-18",
+    "tags": [
+      "folk"
+    ],
+    "title": "Залізні",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5RcFvzYsd9cZJYqeFmzci7"
   }
 ]

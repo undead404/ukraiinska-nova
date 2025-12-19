@@ -697,5 +697,26 @@
     "totalTracks": 14,
     "type": "album",
     "url": "https://open.spotify.com/album/3nXCs6OON8pASrUHBLD9VV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T10:25:02.255Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Illaria"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e93c747090935b0c10b7aa78",
+    "releaseDate": "2025-12-19",
+    "tags": [
+      "folk"
+    ],
+    "title": "Carol of the Bells (Shchedryk)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1ANGXLhe9Jyx6G6evqxqfW"
   }
 ]

@@ -2002,5 +2002,27 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/3krRyKnq2uZUyq17lyXNzm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T10:22:58.434Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Costel Van Dein",
+      "Avi Sic"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27303387dd6e206799463ef5735",
+    "releaseDate": "2025-12-19",
+    "tags": [
+      "House"
+    ],
+    "title": "No Tears",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3lRSi7gW3awQJBiVfJdMin"
   }
 ]

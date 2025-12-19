@@ -710,5 +710,24 @@
     "totalTracks": 25,
     "type": "album",
     "url": "https://open.spotify.com/album/6leGWNinykgR6vvkRHeClM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T10:27:53.824Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Pospelov"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273881840c88681ceacf47107ff",
+    "releaseDate": "2025-12-19",
+    "tags": [],
+    "title": "Сердце на фон",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4gP8NqbJZ0dGE5Sk3YoeeP"
   }
 ]
