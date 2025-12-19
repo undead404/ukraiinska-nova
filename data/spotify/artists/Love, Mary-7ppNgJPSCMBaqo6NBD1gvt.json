@@ -501,6 +501,10 @@
       {
         "time": "2025-09-17T09:23:50.905Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-19T09:21:01.901Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -605,5 +609,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0WitseVz7kv6pzA0cZiYFV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T09:21:01.902Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TENDITNA",
+      "Love, Mary"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27366338e4b4ab42ad3c3f82dbf",
+    "releaseDate": "2025-12-19",
+    "tags": [
+      "electropop"
+    ],
+    "title": "Голограма",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2FiNJqMUb5QMmvRxTr6mfS"
   }
 ]

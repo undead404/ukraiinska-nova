@@ -1414,5 +1414,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4lREA7q6zUAIU0iHZP7Z0M"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T09:22:13.949Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Khrystyna Soloviy",
+      "Iryna Bilyk"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273134f1c37c274e434eba2a36e",
+    "releaseDate": "2025-12-19",
+    "tags": [
+      "pop",
+      "folk pop"
+    ],
+    "title": "Франсуа",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3tuTCr2wT7xKAFjUhlYLQY"
   }
 ]

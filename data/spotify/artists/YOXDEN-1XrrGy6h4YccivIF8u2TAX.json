@@ -1266,5 +1266,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5G1IWSgBQSHXKyA7iPHgYB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T09:28:40.091Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YOXDEN",
+      "Gario Nells"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738e0417e6332545e30058ec38",
+    "releaseDate": "2025-12-19",
+    "tags": [
+      "dance",
+      "electronic"
+    ],
+    "title": "КОРОЛЕВА КОРПОРАТИВА",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6KYkUStWKNYpGcoTW021nc"
   }
 ]
