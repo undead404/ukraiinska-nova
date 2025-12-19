@@ -592,5 +592,26 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/0kY0Zgf0jwwuqcfTDV1ZIR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T02:58:06.348Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ruslana"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273241f157a5743adf8c931c748",
+    "releaseDate": "2025-12-18",
+    "tags": [
+      "pop"
+    ],
+    "title": "Гей, Маланка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0TFesVQwJQTFhjj67UJt0E"
   }
 ]
