@@ -773,5 +773,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4QR7IHubEB3yEqPkm92kn0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T23:22:49.216Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Оля Цибульська"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273247a86328fe5786a8139eb4a",
+    "releaseDate": "2025-12-19",
+    "tags": [],
+    "title": "Зі мною так не можна",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0OFJ30SI7NUsmcv0zHULuj"
   }
 ]

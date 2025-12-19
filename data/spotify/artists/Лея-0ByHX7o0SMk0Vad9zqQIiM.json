@@ -516,5 +516,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5CQ7FhXIiFK4Fcfe2mTMh8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T23:21:56.156Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Лея"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fbb9f9af049ab5efc198d275",
+    "releaseDate": "2025-12-18",
+    "tags": [
+      "folk rock"
+    ],
+    "title": "Сирена",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3wDTb9G0DWm9G8JnQCpIGy"
   }
 ]

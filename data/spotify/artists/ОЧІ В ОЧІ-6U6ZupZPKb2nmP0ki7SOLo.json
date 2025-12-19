@@ -381,5 +381,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1j838rWfyAupppdXMrVlaM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T23:22:57.063Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ОЧІ В ОЧІ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f34287ed3770d25ccf03848e",
+    "releaseDate": "2025-12-18",
+    "tags": [],
+    "title": "Моє серце",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7hUHPcfDJN7YdnFbS2j3ug"
   }
 ]

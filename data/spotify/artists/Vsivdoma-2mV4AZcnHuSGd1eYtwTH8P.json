@@ -303,5 +303,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2WQC9yVctoXp4xoZbS9Pcj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T23:30:01.049Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vsivdoma"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f8b3dc0b3ffb1c3cb392b2d8",
+    "releaseDate": "2025-12-18",
+    "tags": [],
+    "title": "Світло",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2NTVisU6DSP4JQPYdqQJXA"
   }
 ]

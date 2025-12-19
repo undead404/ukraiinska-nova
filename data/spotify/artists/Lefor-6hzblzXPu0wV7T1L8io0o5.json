@@ -1037,5 +1037,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7kxF02QIJfvKtYsms3SAfH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T23:26:45.441Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lefor"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cb63cd8efff030d452ad3db4",
+    "releaseDate": "2025-12-19",
+    "tags": [
+      "rap"
+    ],
+    "title": "Наперекур",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6axisUGdHd89GfEQWfDiVK"
   }
 ]

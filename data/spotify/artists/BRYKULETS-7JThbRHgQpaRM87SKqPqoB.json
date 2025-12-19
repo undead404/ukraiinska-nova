@@ -637,5 +637,30 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6pH2hPmLjNE5OdP2ZKIYHV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T23:24:34.563Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROXOLANA",
+      "BRYKULETS"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e1f5d255d8cc8f0813894928",
+    "releaseDate": "2025-12-18",
+    "tags": [
+      "funk",
+      "pop",
+      "rap",
+      "trap"
+    ],
+    "title": "Роди, Боже, жито",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0kfuO9fIxeydMHNEwqZ4Nd"
   }
 ]
