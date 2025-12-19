@@ -472,5 +472,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4XCUoEC9XXQaKoGzhlLtTt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T16:22:41.484Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ANKA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739febe68367a7d8e595d95802",
+    "releaseDate": "2025-12-18",
+    "tags": [
+      "alternative"
+    ],
+    "title": "MONEY MANTRA",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6iLYCDeK9gifCzfDdfONwJ"
   }
 ]

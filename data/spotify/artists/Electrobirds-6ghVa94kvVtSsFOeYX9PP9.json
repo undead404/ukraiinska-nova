@@ -278,5 +278,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5hLFkBtN6KxpxRYJGC1myb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T16:23:22.099Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Electrobirds"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732a826d23f52c0831d5029421",
+    "releaseDate": "2025-12-19",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Мости",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5eH7zgYWs7dNPApIHpgn16"
   }
 ]

@@ -765,5 +765,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/543uanLaghKUU2SZZPSLq1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T16:26:38.439Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "laang"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738b1fd53c9163f4972f0c8cab",
+    "releaseDate": "2025-12-19",
+    "tags": [
+      "black metal"
+    ],
+    "title": "покоління ще не зрозуміло, що я його голос",
+    "totalTracks": 18,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0wfdxuwX6CRNDTVGpRJsjZ"
   }
 ]

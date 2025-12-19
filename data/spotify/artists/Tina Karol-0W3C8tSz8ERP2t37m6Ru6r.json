@@ -1570,5 +1570,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6xqNpRMlebpI3MNFrSKE1o"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T16:28:21.166Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Tina Karol"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27365286a11a72200e479be6f7d",
+    "releaseDate": "2025-12-19",
+    "tags": [
+      "pop"
+    ],
+    "title": "Шиншила",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0vJRuTCQzUlMn7pDV9HeAy"
   }
 ]
