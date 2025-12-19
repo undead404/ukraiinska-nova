@@ -1262,5 +1262,29 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kjLzFuZkNEWacz7_0cRPuxSnToOxe_hIs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T11:48:04.750Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROPAN"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/DEkDP3h6G9d6lXAfeEYDdu4cYjl0aiZg5d6D2aXwY1O4W1cMdPsQYHCLLd8-nmIvL8MYtma4T71F0QS6=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "dub",
+      "reggae",
+      "dancehall",
+      "rap"
+    ],
+    "title": "Янгол",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lSkB1VgeI8Flf8pw4pro8iMrJZBGVS96s"
   }
 ]
