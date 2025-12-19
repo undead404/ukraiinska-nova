@@ -250,5 +250,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kUiXN-f7hDHbLSpjkJlV9SYk7KcvG5-BY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T22:48:06.408Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Do Sliz"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/5LhpB1kjfnmtG9hGLKmj6SKoCMBWjmFRkqht9pmR9yo8DzFcCaJ1vnoes2ujHlQWiEibfRwdbM3oRQVJ=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Готель Вараш",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nYx6qkYx54Bl-ZuI5SYXKt0GDsBexfqz0"
   }
 ]
