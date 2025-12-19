@@ -776,5 +776,28 @@
     "totalTracks": 10,
     "type": "album",
     "url": "https://open.spotify.com/album/2iWl2rrZLLkrLUhBacJqXl"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T03:44:09.723Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Після Дощу"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e9c34ad3b6ec470676334d8c",
+    "releaseDate": "2025-12-19",
+    "tags": [
+      "electronic",
+      "pop",
+      "pop rock"
+    ],
+    "title": "Після Бою",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1naAj8L1wz9PXJHbHj8rFF"
   }
 ]
