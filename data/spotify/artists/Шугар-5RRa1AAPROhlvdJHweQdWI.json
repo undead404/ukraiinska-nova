@@ -868,5 +868,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/72TK0h3RVvkRc0tbidF9RZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T08:22:32.875Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Шугар",
+      "IVAN LIULENOV",
+      "REMIXER"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e4da2371bab8d61219178a21",
+    "releaseDate": "2025-12-18",
+    "tags": [],
+    "title": "Панічка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2XbM1RSqFmEQtW3LCUJkV3"
   }
 ]

@@ -2034,5 +2034,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0wkzmVrVzp7Tb1U4Yq84QH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T08:25:15.590Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "karmv"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27373e30d5358d0e6b2211ffa78",
+    "releaseDate": "2025-12-19",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Холодний туман",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/72gDbFo4oDooQEM7ix7onX"
   }
 ]
