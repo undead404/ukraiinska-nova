@@ -58,5 +58,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2EU4r7E6H5b1k3SDOLrGPq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T13:26:28.245Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ANSTAY",
+      "потворний Еліс",
+      "на її основі"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27319cb6be20cf5fa1771edab3f",
+    "releaseDate": "2025-12-19",
+    "tags": [],
+    "title": "На її Різдво",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2Vsw5D4Xxo1qeGckM4qY3h"
   }
 ]
