@@ -457,5 +457,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kaRhejZ-toxfz-_OmcjmO_zas-iptj3kM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T13:04:05.706Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VARASH"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/Nwbt19DFN7AggGvTfFpLhQtw_MEKsj6c6v-Y4dsBi8wzgaLDtIOUcvVczj0dL0_LsviVlz_pw6u53v2LVQ=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "НЕ ВІДПУСКАЙ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lYu1dLN5LndZU-0GnIF214lwprfdAGLq8"
   }
 ]
