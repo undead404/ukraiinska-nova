@@ -1342,5 +1342,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nyH7c4Fq_Y0npizrc3o_m00689A3g5Frw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T15:51:00.246Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Volkanov"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/1fJQJVMuK7oc6i3FlVHscywlzd10NS9epMisXec0G5Y7K3hjvv3z4kh8K0VY-c4tv1JqTSUNPGMN7ls=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop",
+      "male vocalists"
+    ],
+    "title": "Кордони",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lb5QoSuLBT_sZ-Gn5Sln9B9naIFuJXbLc"
   }
 ]

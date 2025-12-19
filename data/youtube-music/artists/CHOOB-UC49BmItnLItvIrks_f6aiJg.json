@@ -458,5 +458,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nGA-4CyO6LyinAYCt-t-FApnH6VG8UXmw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T15:48:37.644Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CHOOB"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/fdt43xj4GJuFCbDSYiXBvHZTgGbw6Rq228fZ6RGTi1H9LOoHXAaSv0-vSUVvCPDMSiHIzz9PnBCkKfFk=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Земля",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kMwkRlPJ_ckJhd-jdBKxewhILrZ25AGu8"
   }
 ]
