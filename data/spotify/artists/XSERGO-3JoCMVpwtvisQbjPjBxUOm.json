@@ -1155,5 +1155,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7rC77GlSNHELbg5Cctrnrd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T17:29:38.977Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "XSERGO"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b78df35bc66eb7b85a07c58a",
+    "releaseDate": "2025-12-19",
+    "tags": [
+      "male vocalists",
+      "pop"
+    ],
+    "title": "Сніжинки",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2kPUximqh8ancUwYY6Y7um"
   }
 ]
