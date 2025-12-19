@@ -397,5 +397,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kHq134TaZ9N0ox9raFXQ8szxbewYVfBqE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T04:02:27.887Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ANKA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/XAAa1MBbQJdEq1JPYjVGig47jmYT3KfuVrH7Abhso_vntKvb9UMiiqio_KbyS1jcKO3UJNB6DirkBpM=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "alternative"
+    ],
+    "title": "MONEY MANTRA",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kP79qUKKsCsaU8QQ43YeplQpC3s8kk3BI"
   }
 ]
