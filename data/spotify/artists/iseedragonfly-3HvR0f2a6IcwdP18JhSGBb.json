@@ -240,5 +240,24 @@
     "totalTracks": 6,
     "type": "single",
     "url": "https://open.spotify.com/album/4JnZdLOMjLbN1Zc83cC9hp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T06:26:19.315Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "iseedragonfly"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733d84f72457d129809d034a34",
+    "releaseDate": "2025-12-19",
+    "tags": [],
+    "title": "дихай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3FYyAOqqb7dHQ0oYquh91M"
   }
 ]

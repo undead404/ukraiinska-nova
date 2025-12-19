@@ -767,5 +767,27 @@
     "totalTracks": 7,
     "type": "album",
     "url": "https://open.spotify.com/album/4Zs9kx1otUIR3yweUhdWE0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T06:24:17.407Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alice Change"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27359fb80071b2aa7372446a2b1",
+    "releaseDate": "2025-12-19",
+    "tags": [
+      "indie pop",
+      "indie rock"
+    ],
+    "title": "Метелик, лети",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6KW05bJjFHhkaiR47Hx0gZ"
   }
 ]

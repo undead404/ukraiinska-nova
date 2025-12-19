@@ -362,5 +362,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4dm5ySlMBw3hSd8voNkbK2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T06:26:54.884Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "LUSHCHINSKA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739afe02c9c17be03dba63e028",
+    "releaseDate": "2025-12-19",
+    "tags": [],
+    "title": "New Year",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4CV0jtRCSgrycx0DnZxsLx"
   }
 ]
