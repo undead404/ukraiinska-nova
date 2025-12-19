@@ -221,5 +221,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3iwfJ9Zl9gXcv5RPVxgUcr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T01:51:17.612Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Фома",
+      "Мандри"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27385127a1036e5bbb74407a305",
+    "releaseDate": "2025-12-18",
+    "tags": [
+      "folk"
+    ],
+    "title": "Хата",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1uI6h4bsJ1iA8U3ZdrnkbU"
   }
 ]
