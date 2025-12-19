@@ -551,5 +551,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kaTEw8y0W0EHooqtakv_m1tuVxMba-P4o"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T23:47:12.142Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "EDWAРД"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/LT-o7Td0cIUK9rO5PS9E9ZEadfp8QxAMlQa3bH2d91s-OSVasCBOwYWZZWwQu9By0DoXvkjWZQiV4L7n=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop rap"
+    ],
+    "title": "Мандаринка",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k-UYap-CZHgsdMEbDbgP0uPJTZvFiD9a8"
   }
 ]
