@@ -736,5 +736,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k2UjEOzmPHM3yPWNc6fhWdPpGEMAZcAno"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T14:50:02.583Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "IRYN"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/OT5YvH4ivz-IF496nxB13bUYRVOpHYwLWKxLoqwbqIwkAF11oRtC-UZc7OEH96PQdNwrcxzzNBXVeqs=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop",
+      "rnb"
+    ],
+    "title": "Лід",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mjLE6HZzQ6y3KHXogdR4GGE1CZFn_vQ2g"
   }
 ]
