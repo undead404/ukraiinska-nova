@@ -811,5 +811,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0gWmGKxKm9Op0FxJQsM3cc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T11:23:32.427Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DOVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27304a1a4f728a8ee8eb7cd214f",
+    "releaseDate": "2025-12-18",
+    "tags": [
+      "dream pop"
+    ],
+    "title": "Пальто",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4rOY8WHFLpWoKFLrYm7Caz"
   }
 ]

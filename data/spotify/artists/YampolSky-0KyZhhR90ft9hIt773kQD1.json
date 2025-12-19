@@ -674,6 +674,10 @@
       {
         "time": "2025-09-24T11:34:47.320Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-19T11:28:40.105Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -796,5 +800,25 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/2kpFrAkefIrpAB21CkhOiq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T11:28:40.105Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YampolSky",
+      "Xenia Torino"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739c16dd8956986e6a38f0014c",
+    "releaseDate": "2025-12-19",
+    "tags": [],
+    "title": "Timeless",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4vV8J5oOKzrStEFnxlZRyN"
   }
 ]
