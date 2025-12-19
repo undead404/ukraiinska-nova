@@ -1208,5 +1208,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mGp_u8ttPJDiqRTKMtt1GAMEux1YFv-VA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T09:48:35.136Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DOVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/ZPB7Lbz-A48DAkEIILqh7exnM8Fyt46BCll4g8NT9_m05yZBywfgUZ6ZHyABOiPdBcdzeLIYd3O0meMz=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "dream pop"
+    ],
+    "title": "Пальто",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lmwJYjA5jO5BDIDWd3ELKwT4SR8gsbMkE"
   }
 ]
