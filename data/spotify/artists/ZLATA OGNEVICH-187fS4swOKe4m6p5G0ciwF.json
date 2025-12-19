@@ -1636,5 +1636,26 @@
     "totalTracks": 8,
     "type": "album",
     "url": "https://open.spotify.com/album/2FzdfpP13nCD7iZa792ccD"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T14:28:43.131Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ZLATA OGNEVICH"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273550ffbfed340e26c94fefeec",
+    "releaseDate": "2025-12-19",
+    "tags": [
+      "Eurovision"
+    ],
+    "title": "Пристрасть",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5XblAdeZ25DyNQfs9ISVsF"
   }
 ]
