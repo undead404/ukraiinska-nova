@@ -378,5 +378,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nfy3sfncgldJfENmuM1MAZO7vL4eljhOk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T03:14:08.408Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ОЧІ В ОЧІ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/WXPoYegkIva-m3v-N22-HRylXLbDq1LIV25vCYDZQsNBm0ak3Bx-otFIfa-U6jwWoelXk-k4JCZqrxlb=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Моє серце",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ldmfA6XAoEtP23FLRX_620VBa2jjr5byc"
   }
 ]
