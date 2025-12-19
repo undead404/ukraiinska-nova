@@ -635,5 +635,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lF4Eboz2fjc3fvZnMeuQbN9a87WwGFsYU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T05:49:52.713Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KONO"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/PTjL1wJM9pYbMoRxTnljIQxmIo7iYZedVg7NEcOvQ_lM9LljGNRJRunV4fmVoicHEKd4IQuWwpItGgKf=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "House"
+    ],
+    "title": "Контроль",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_llksTpizSHAmW8pGxtbrpQymtkcat-ZJc"
   }
 ]
