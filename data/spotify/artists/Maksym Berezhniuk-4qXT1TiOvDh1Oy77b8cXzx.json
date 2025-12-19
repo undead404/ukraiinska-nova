@@ -20,5 +20,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0s1RgsHJktdqd6l9d3oqMY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T19:24:55.061Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Maksym Berezhniuk"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e4b41b05e7b9edc793259acd",
+    "releaseDate": "2025-12-18",
+    "tags": [],
+    "title": "\"Колядуймо!\"",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5Rnvr5PJpvWugWiu4yTqlm"
   }
 ]

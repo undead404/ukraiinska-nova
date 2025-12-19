@@ -175,12 +175,16 @@
       {
         "time": "2025-12-18T19:21:50.758Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-19T19:21:53.136Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Тінь Сонця"
     ],
-    "artistsPopularity": 33,
+    "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27336c5cf71fe03e1f437dc12a4",
     "releaseDate": "2023-06-29",
     "tags": [
@@ -225,13 +229,17 @@
       {
         "time": "2025-12-18T19:21:50.758Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-19T19:21:53.136Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Тінь Сонця",
       "Військовий оркестр Оперативного командування \"Схід\""
     ],
-    "artistsPopularity": 33,
+    "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e680b96dfa0b4b0cc8d0fb75",
     "releaseDate": "2022-08-29",
     "tags": [
@@ -363,12 +371,16 @@
       {
         "time": "2025-12-18T19:21:50.758Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-19T19:21:53.136Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Тінь Сонця"
     ],
-    "artistsPopularity": 33,
+    "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738d73fd86c131c7cd01b76632",
     "releaseDate": "2017-05-04",
     "tags": [
