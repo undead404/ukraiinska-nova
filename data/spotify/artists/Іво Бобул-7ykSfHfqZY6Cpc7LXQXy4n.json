@@ -865,5 +865,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0Zl7dXK9UlXcY7XiUiIuJf"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T18:22:16.477Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Іво Бобул"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d8545e477b8583298865bdb6",
+    "releaseDate": "2025-12-19",
+    "tags": [
+      "pop"
+    ],
+    "title": "Білий сніг",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4CRmZ8syBsOSnpXQ4AjFVu"
   }
 ]

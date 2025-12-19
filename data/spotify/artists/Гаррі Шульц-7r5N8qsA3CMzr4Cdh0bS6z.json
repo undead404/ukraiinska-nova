@@ -394,5 +394,51 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6avlebIQT2KKO33XPiGxfY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T18:21:48.279Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гаррі Шульц",
+      "Тур"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a47e8125c60a26c643e34064",
+    "releaseDate": "2025-12-19",
+    "tags": [
+      "Hip-Hop",
+      "rock",
+      "underground hip-hop",
+      "rap"
+    ],
+    "title": "Граніт",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1yH3A66GDTg08MyoKwFLjv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T18:21:48.279Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Міша Правильний"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27306050ac527df7ab787641108",
+    "releaseDate": "2025-12-19",
+    "tags": [
+      "rap"
+    ],
+    "title": "Додому. Глава 1: Болота",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0v8WhybvMOxSkPwaQZft7h"
   }
 ]

@@ -250,5 +250,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7rC77GlSNHELbg5Cctrnrd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T18:27:25.060Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KRABIK"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737e4af09c5dd19bf54c45d62c",
+    "releaseDate": "2025-12-19",
+    "tags": [],
+    "title": "Закрутила голову",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0CvDOOQsCSIPDllRi0RY2U"
   }
 ]

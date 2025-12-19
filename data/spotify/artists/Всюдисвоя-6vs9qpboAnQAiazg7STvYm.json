@@ -321,5 +321,24 @@
     "totalTracks": 19,
     "type": "album",
     "url": "https://open.spotify.com/album/1dA7dwOXS1WvPf7rn5AjD5"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T18:21:38.069Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Всюдисвоя"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27325623ec82d3ef68d9bb7a8d9",
+    "releaseDate": "2025-12-18",
+    "tags": [],
+    "title": "Різдво і Радість",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2oeFCylIYg0NqUMFwMNwYa"
   }
 ]

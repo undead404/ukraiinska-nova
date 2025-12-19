@@ -713,5 +713,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5QTXwlDDRwNrefnv7BPujl"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T18:28:20.621Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MniShek"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730b24114c1907a9bbde7b157f",
+    "releaseDate": "2025-12-19",
+    "tags": [
+      "rock",
+      "folk",
+      "folk rock"
+    ],
+    "title": "Двійник",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1JtK3SmwvFh2wWVeoLi1ed"
   }
 ]

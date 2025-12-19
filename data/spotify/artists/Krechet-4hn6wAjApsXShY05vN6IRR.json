@@ -1314,5 +1314,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2jVyaBokmLyT3W8cpafco5"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T18:27:43.909Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Krechet"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27357ee1e3eb5fb027ff01f6a45",
+    "releaseDate": "2025-12-19",
+    "tags": [
+      "rap"
+    ],
+    "title": "Супермама",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6PNCFdxmZNnMgvClgYBJFJ"
   }
 ]
