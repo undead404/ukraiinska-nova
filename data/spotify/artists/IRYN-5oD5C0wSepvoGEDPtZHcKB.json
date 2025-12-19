@@ -468,5 +468,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1MaBs0fTUBtTtyVHitAjNn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T05:24:19.379Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "IRYN"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736e3abd86d33fb3a779540592",
+    "releaseDate": "2025-12-19",
+    "tags": [
+      "pop",
+      "rnb"
+    ],
+    "title": "Лід",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0tA7rrFQOpbOzWT1neeODJ"
   }
 ]
