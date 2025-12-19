@@ -1997,5 +1997,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lmm0vzyWXBlZIyTCeDAfoy8gaGw4mmZ7Q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T10:50:23.946Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "kavabanga Depo kolibri"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/laxbKCKS2pQ9bbOtd6aG71GwMdI1yN9HXSZ7aCBcNwjqa1Bm4tI_YWO1-mNuKzDH6_zUgbDp80srKZGg=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Квіти на підвіконні",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kKGNFV9AKxwzQml9pHySV8ZhZrR2eLzto"
   }
 ]
