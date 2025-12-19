@@ -334,5 +334,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mWmH0dYDHdfKKz9crUdRQtFOQai9xGun8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T17:48:05.165Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TAYNA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/bsCRN0E4XqsT_-sKb657po9v3NRd65h1Kon74BcDygicaTNh61XqwwVjdukJ6kL9YeCOFWZXvLk_MXA8=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap"
+    ],
+    "title": "ЩЕДРИК",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lpLdUhbvhIvT0E3w9TIPBE26qLC3MlLv0"
   }
 ]
