@@ -1976,5 +1976,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7sLbJ9y7mZmyKiDWIx9EI3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T07:22:25.560Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MoonDeity",
+      "ARCHEZ"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27393c954b142f303766dcb386b",
+    "releaseDate": "2025-12-19",
+    "tags": [
+      "phonk"
+    ],
+    "title": "OVERKILL",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0GCbgmJCl1VReKGSHYAAwY"
   }
 ]

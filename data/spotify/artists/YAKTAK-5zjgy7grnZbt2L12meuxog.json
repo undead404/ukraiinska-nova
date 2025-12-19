@@ -925,6 +925,10 @@
       {
         "time": "2025-09-17T07:25:36.887Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-19T07:28:24.810Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1117,5 +1121,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5JMIYV356dfi1LlqpiPnfw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T07:28:24.810Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Jerry Heil",
+      "YAKTAK"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273328632435d2bbe27d86e0eb1",
+    "releaseDate": "2022-05-18",
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "title": "В пустій кімнаті",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6VYG0hHSP8IvLl2Oql3bPN"
   }
 ]

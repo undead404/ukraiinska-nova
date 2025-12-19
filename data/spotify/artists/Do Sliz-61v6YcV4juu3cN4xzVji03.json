@@ -319,5 +319,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4iaOHtC0qqjThgq0ddipAu"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T07:23:25.799Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Do Sliz",
+      "Nervacia"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c2da1e9acef82edc8120180e",
+    "releaseDate": "2025-12-19",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Готель Вараш",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5poYOMNs33FOUy49Tu8Tfj"
   }
 ]

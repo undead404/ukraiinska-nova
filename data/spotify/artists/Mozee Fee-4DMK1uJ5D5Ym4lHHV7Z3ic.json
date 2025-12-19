@@ -152,5 +152,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2Y24vTAa8UAHft0NoTlxiL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T07:24:45.616Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Mozee Fee"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c4c88f651f486a2010826b0b",
+    "releaseDate": "2025-12-19",
+    "tags": [
+      "indie rock",
+      "Lo-Fi"
+    ],
+    "title": "Ти або я",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1DvajV6BGB6WKLA5iZo5GB"
   }
 ]
