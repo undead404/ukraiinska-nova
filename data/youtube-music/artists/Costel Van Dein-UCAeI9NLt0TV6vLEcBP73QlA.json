@@ -3239,5 +3239,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kbyjBRtafG1fuh0-dUaMEgI6lSHz1wrIY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T19:45:50.377Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Costel Van Dein"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/ioZSlQRfHe6yCv82iHVBhb4TDE4Ox8W6mCwIPJfnNqFYpVJVpwiRghoWih7frJPIDlNjI9Wrs-hCfkgf=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "House"
+    ],
+    "title": "No Tears",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mtk9HFwcDB65-omwrXtWIkz-RVozTEKGs"
   }
 ]
