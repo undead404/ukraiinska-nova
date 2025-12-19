@@ -229,5 +229,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mScX-zKqh3L_qO78AnxygmZLpTreuY1MM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T07:46:29.366Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Міша Правильний"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/6FwQTMnn6a3QTmja42fNw3rOOUSuqZCK83gKHp7KTdW-UzgMV4nTJM4DVVWw4Fx3rV1clmAZkS_vcIk=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap"
+    ],
+    "title": "Додому. Глава 1: Болота",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kGEKLf5KDTYb9BUJjr_9reYUgYAVQXrPU"
   }
 ]

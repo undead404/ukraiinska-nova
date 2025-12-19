@@ -359,5 +359,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mE2f3ZSzq-teRfmszIpxYIoakTlFT7eGA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T07:48:18.528Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NIKITAIDISYUDA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/e9FOTKZkcc7XMG3QTQg-K1rohU3Iay92UEjJSkM6JCtPKaeuetYm3dhtOkvKpSjdYr-p0qzLk0I5C0FJ=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Nothing More",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k1ZxzrNDgVS3kQ9YLO2t7kWHf2zdsfJF8"
   }
 ]
