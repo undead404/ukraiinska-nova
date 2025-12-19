@@ -682,5 +682,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mOcgzH6OxS9f3V1LXfjMZR87X7YBaxaSc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T16:52:33.262Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SAMCHUK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/boKYkwuJG2y6thtQDyukrFWjub-enyfp1hlW6eCrvPgt0EHVwvgwYbi1fkG0dSrAEv44uchUz2p3z24=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Аромат дами",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nsBRWkaZD5z8IupVQdWPFz5rDUCfa2D3Y"
   }
 ]
