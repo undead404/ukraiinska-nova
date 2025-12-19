@@ -245,5 +245,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nxnJ_-XzVlUW0RGB-nzEK2TI0dbG5RMbw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T21:47:35.511Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KRABIK"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/XmX8GMZPaGmyWJ4IfwbW8X5-tj1Vil4T4LvbpIou9mrc5b5GJTp5vXhwvjysOyJd46QJdDLSqbuPzocf=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Закрутила голову",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lN5kbC7li5EPjM0fE5zP0VlsN6tCMCQoU"
   }
 ]
