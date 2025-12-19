@@ -241,5 +241,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6UFWO7hXR0BjQwvJMjmEbM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-19T22:25:12.280Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Monokate"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a79500b16628c1b101178a64",
+    "releaseDate": "2025-12-19",
+    "tags": [
+      "pop"
+    ],
+    "title": "Щедрий вечор",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1Af2tZ7NnDQJOypYUUc1AU"
   }
 ]
