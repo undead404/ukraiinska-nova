@@ -491,5 +491,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1LQXRDTk5vpMheVoVqcz5z"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-20T04:22:45.667Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ярий",
+      "ХудийJointt"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d50159930a82c8c1027c0d34",
+    "releaseDate": "2025-12-18",
+    "tags": [
+      "rap"
+    ],
+    "title": "ВТРАЧЕNO",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3cZqIv0sUyBw8kQeWJ4isx"
   }
 ]
