@@ -210,5 +210,29 @@
     "totalTracks": 12,
     "type": "album",
     "url": "https://open.spotify.com/album/7qahCGu2ewfxldCyc1tqg4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-20T18:24:05.347Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Шабля"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734d1377555a3a1716dcfe94de",
+    "releaseDate": "2025-12-20",
+    "tags": [
+      "pop",
+      "rock",
+      "dark folk",
+      "folk rock"
+    ],
+    "title": "Апельсини в ЧоколЯді",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4b9Ny4Kh9ySEnHpA06b48w"
   }
 ]
