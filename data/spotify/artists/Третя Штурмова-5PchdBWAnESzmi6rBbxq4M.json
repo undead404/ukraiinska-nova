@@ -528,6 +528,10 @@
       {
         "time": "2025-12-05T15:23:47.611Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-20T15:22:04.013Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -612,5 +616,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5i6i8MC75FR7ZofwqWczmf"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-20T15:22:04.014Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Третя Штурмова",
+      "Саша Чемеров"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273653cbfe0c9ea3d3bd7b05b8e",
+    "releaseDate": "2025-12-05",
+    "tags": [
+      "pop rock",
+      "rock"
+    ],
+    "title": "Я націоналіст",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0BqCz197VVAiq30YnxY6OD"
   }
 ]
