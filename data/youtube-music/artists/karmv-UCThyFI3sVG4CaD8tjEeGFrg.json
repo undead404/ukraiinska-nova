@@ -343,5 +343,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lKpCaR4ZPTUlte236kpJPIxAdkUyY65u0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-20T04:49:54.981Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "karmv"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/gkJtPCGQAyc8zxseWB2HJdyw8zxK2b8b_e8EPTBCmO264e0KszxC8_kkKAzIjbHuYeakR3iiyeuWXeY=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Холодний туман",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m3bTJn_hrYCIJQ0SwCcW-jrf7bD5KMk58"
   }
 ]
