@@ -340,5 +340,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2VnFFk1c3eJgBgQOfFBLgd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-20T02:56:22.084Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VARASH",
+      "MARY KO"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27360007ab12744db0a2c8d97df",
+    "releaseDate": "2025-12-19",
+    "tags": [],
+    "title": "НЕ ВІДПУСКАЙ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/49Q4KSzPlIb6bVDmbhXjJq"
   }
 ]
