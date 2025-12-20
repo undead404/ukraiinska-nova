@@ -669,5 +669,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0kfuO9fIxeydMHNEwqZ4Nd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-20T10:27:26.417Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROXOLANA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273be0a5a28d72647a84f256016",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "настрій: колядувати. Всі разом",
+    "totalTracks": 22,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0JEnTrY3SyoCVUNmKZMn5x"
   }
 ]
