@@ -598,5 +598,77 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/57eW3RgEFS5XVSfD0sMIgI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-20T20:20:44.028Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Геля Зозуля",
+      "QANO"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733ad3c112af1e735d646987d6",
+    "releaseDate": "2024-07-10",
+    "tags": [
+      "female vocalists",
+      "pop",
+      "art pop"
+    ],
+    "title": "В горі і в радості (QANO Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0hf08rk3omni6bIz9I3BBA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-20T20:20:44.028Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Геля Зозуля",
+      "QANO"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734d7d6ab01a0f2d9fbd8426f1",
+    "releaseDate": "2024-01-31",
+    "tags": [
+      "female vocalists",
+      "pop",
+      "art pop"
+    ],
+    "title": "Колір музики (QANO Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7aSrIGpfuZg8Y8yBGYHugr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-20T20:20:44.028Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Геля Зозуля",
+      "QANO"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27325aba3249f61da28ad647dd1",
+    "releaseDate": "2023-12-15",
+    "tags": [
+      "female vocalists",
+      "pop",
+      "art pop"
+    ],
+    "title": "І ось (QANO Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/676vxK51s8K1rvPGwpxrrc"
   }
 ]
