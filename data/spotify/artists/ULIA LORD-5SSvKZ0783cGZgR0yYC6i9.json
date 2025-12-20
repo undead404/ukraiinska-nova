@@ -319,5 +319,26 @@
     "totalTracks": 14,
     "type": "album",
     "url": "https://open.spotify.com/album/6QliWntwZOLsxlxgKaWhNa"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-20T14:27:10.264Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ULIA LORD"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273105dd40e0e059f1f8b7c98e1",
+    "releaseDate": "2012-12-01",
+    "tags": [
+      "trip-hop"
+    ],
+    "title": "8 секунд",
+    "totalTracks": 14,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7HejK9IXyTME0JDizrHL6J"
   }
 ]
