@@ -1164,5 +1164,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k1csPsuYDeuuHA-iA6YYOYpAtNfucSxOQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-20T03:10:32.093Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yoxden"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/2xBSQciNp6Zx6N4z6vpkuOsD5cAzNVSCeTFGdt0mttFkUWBFOXQ0uLBMla5j2Y48u_XKSgPFGi_2ocI=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "dance",
+      "electronic"
+    ],
+    "title": "КОРОЛЕВА КОРПОРАТИВА",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nIoeK7G-T6LsKJIpwruIhoWF7B383wc7s"
   }
 ]
