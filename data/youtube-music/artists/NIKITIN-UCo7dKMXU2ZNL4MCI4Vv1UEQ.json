@@ -437,5 +437,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nz3A47l0ODgRAKNENrhvjW7BXr_bNL-Ww"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-20T14:48:13.391Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NIKITIN"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/vAMiWk3nTrRUD7MmqXYfSwx4wq_b69-7v8fdTNJ_LvBPumg6eTwMleAY2fDa9rMOS1P6fGYP4fFB4bzP=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "dance"
+    ],
+    "title": "Бузина",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lQvtWHsAsVM7ab-q2ao0FxyQDYdpgJXQU"
   }
 ]
