@@ -1505,6 +1505,10 @@
       {
         "time": "2025-11-21T17:22:51.751Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-20T17:22:47.411Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1591,5 +1595,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/04QLjzlpRuJ3FWEjO84EUP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-20T17:22:47.412Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Максим Бородін",
+      "alyona alyona"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e538c46cfd2f0e12aec3e26f",
+    "releaseDate": "2025-11-21",
+    "tags": [
+      "rap",
+      "Hip-Hop"
+    ],
+    "title": "Там, де живе любов",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2U2P1ra2N8BwSUoKhm7la0"
   }
 ]
