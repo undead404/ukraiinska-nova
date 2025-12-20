@@ -552,5 +552,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6avlebIQT2KKO33XPiGxfY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-20T00:42:35.374Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Міша Правильний"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27306050ac527df7ab787641108",
+    "releaseDate": "2025-12-19",
+    "tags": [
+      "rap"
+    ],
+    "title": "Додому. Глава 1: Болота",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0v8WhybvMOxSkPwaQZft7h"
   }
 ]

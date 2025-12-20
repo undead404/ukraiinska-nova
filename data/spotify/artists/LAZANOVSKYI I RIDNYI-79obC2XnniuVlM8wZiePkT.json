@@ -909,5 +909,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/27ZoTYBNhTjeclGvnAxQfx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-20T00:43:04.630Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "LAZANOVSKYI I RIDNYI"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273885c91caa62df3ca2045e0c9",
+    "releaseDate": "2025-12-19",
+    "tags": [],
+    "title": "Коломийка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3zvOnDRAuQbLZ76497KZJb"
   }
 ]
