@@ -440,5 +440,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3bmi7qEFD7IyLRCRbk0Tt8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-20T03:36:47.494Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Безвихідь"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27331dafb962feed5d3fbc35cf8",
+    "releaseDate": "2025-12-19",
+    "tags": [
+      "electropop",
+      "pop",
+      "Lo-Fi"
+    ],
+    "title": "НАВІЧНО 14",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1PEz1VgZiyzuAovUlJENjM"
   }
 ]

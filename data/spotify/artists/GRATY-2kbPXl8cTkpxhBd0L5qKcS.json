@@ -227,5 +227,26 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/5MSSpYy9UhMo5GD985KT3l"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-20T03:40:47.472Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "GRATY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e76a4e4d3b5188e349149385",
+    "releaseDate": "2025-12-19",
+    "tags": [
+      "rock"
+    ],
+    "title": "Вітражі (Christmas Version)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/78lxJeJ2fvACj7JT3soyNV"
   }
 ]

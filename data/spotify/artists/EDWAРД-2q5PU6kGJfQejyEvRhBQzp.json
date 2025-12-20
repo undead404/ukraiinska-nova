@@ -565,5 +565,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0MbBecz9l0N66a0LLT1ySH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-20T03:40:11.832Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "EDWAРД"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739cec1a58ec93f6550c5ea70c",
+    "releaseDate": "2025-12-19",
+    "tags": [
+      "pop rap"
+    ],
+    "title": "Мандаринка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7FvhOYUdmZOTtYIp7XDm8u"
   }
 ]

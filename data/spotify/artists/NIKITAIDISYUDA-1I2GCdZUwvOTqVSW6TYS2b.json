@@ -517,5 +517,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2fpEF8Z6ucmfHcfk6RN9JD"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-20T03:43:29.132Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NIKITAIDISYUDA",
+      "Sevara"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f37d966116257bf4de26d5e9",
+    "releaseDate": "2025-12-19",
+    "tags": [],
+    "title": "Nothing More",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1LxaAyAUaLwJofUcJLxJk1"
   }
 ]
