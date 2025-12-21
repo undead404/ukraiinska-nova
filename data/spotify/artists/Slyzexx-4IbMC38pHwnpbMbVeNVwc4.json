@@ -3667,5 +3667,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2b5PotITfSofEnYQrylJ3n"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-21T03:54:24.485Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27399b9c3c499ae43b89464ef11",
+    "releaseDate": "2024-12-20",
+    "tags": [],
+    "title": "Rodeo",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/08Z0yatfFYmO8qMWrzRAdR"
   }
 ]
