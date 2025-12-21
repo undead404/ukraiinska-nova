@@ -266,5 +266,24 @@
     "totalTracks": 8,
     "type": "album",
     "url": "https://open.spotify.com/album/0V7X970Q0KHRm5p8d1RD3T"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-21T09:23:34.424Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Various Artists"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273535a9dae52bbd3f96ea1c474",
+    "releaseDate": "2025-12-19",
+    "tags": [],
+    "title": "Звукові Ландшафти",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6MITTICRU3uRGY9H4NiFMb"
   }
 ]
