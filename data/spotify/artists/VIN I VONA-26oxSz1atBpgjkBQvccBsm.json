@@ -697,5 +697,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0OqCTfqFtr0Ow5BOR0HavE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-21T21:27:44.766Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VIN I VONA",
+      "VIN"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c7ea94fcaf3a1df3305e16cf",
+    "releaseDate": "2025-12-19",
+    "tags": [
+      "metal",
+      "screamo"
+    ],
+    "title": "I’m Your Token",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/234flaP7HKMniW8w6LucLz"
   }
 ]
