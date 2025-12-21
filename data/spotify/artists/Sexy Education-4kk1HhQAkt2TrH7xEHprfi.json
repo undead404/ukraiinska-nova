@@ -78,5 +78,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1Er3XYKF9OlJNRha5cjgp4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-21T01:57:27.266Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sexy Education"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ee962c7fec84fd38eb57f02f",
+    "releaseDate": "2025-12-19",
+    "tags": [],
+    "title": "Светр",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0thWBV1vPVVTTbiauOaA6O"
   }
 ]
