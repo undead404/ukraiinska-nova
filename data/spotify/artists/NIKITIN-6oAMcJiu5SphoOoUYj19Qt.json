@@ -441,5 +441,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4NX8NQ1VldbVXTya5YFRsd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-21T02:58:06.433Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NIKITIN"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27346ec719404a02a63d572c962",
+    "releaseDate": "2025-12-20",
+    "tags": [
+      "dance"
+    ],
+    "title": "Бузина",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2uHvWnqtjgfSe774rfuRo3"
   }
 ]
