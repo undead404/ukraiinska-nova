@@ -8,12 +8,16 @@
       {
         "time": "2025-12-18T19:21:50.758Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-22T19:22:27.742Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Тінь Сонця"
     ],
-    "artistsPopularity": 33,
+    "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fe213e8a61c5abd9f2a43368",
     "releaseDate": "2021-10-22",
     "tags": [
@@ -75,12 +79,16 @@
       {
         "time": "2025-12-18T19:21:50.758Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-22T19:22:27.742Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Тінь Сонця"
     ],
-    "artistsPopularity": 33,
+    "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731ea4689b9e2e858b14e67d81",
     "releaseDate": "2016-10-14",
     "tags": [
@@ -100,12 +108,16 @@
       {
         "time": "2025-12-18T19:21:50.758Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-22T19:22:27.742Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Тінь Сонця"
     ],
-    "artistsPopularity": 33,
+    "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730d58ecad6d7aa01039d2c501",
     "releaseDate": "2014-05-04",
     "tags": [
