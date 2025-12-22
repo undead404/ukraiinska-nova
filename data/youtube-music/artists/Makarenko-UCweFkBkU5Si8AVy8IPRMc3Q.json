@@ -359,5 +359,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nDIoE-zqeCNo3BaggCx9G8CyGF-k14h6w"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-22T16:51:44.466Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Makarenko"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/lvodzQOrxYcifzDuh8_PhQJ-qOMDAn-S-6h18f5K-zsrdvQSY1yPW-80UHyLKjklwDPcHvxAjvNL_30=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Цариця",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nJJI38U2VxktU7JaGtr91riOTsKtGXImg"
   }
 ]
