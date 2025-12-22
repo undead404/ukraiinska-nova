@@ -868,6 +868,10 @@
       {
         "time": "2025-09-19T12:28:48.974Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-22T12:28:57.037Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1075,12 +1079,16 @@
       {
         "time": "2025-12-21T12:28:48.200Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-22T12:28:57.037Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Various Artists"
     ],
-    "artistsPopularity": 0,
+    "artistsPopularity": 5,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d64f20ee6008d8737c7ac945",
     "releaseDate": "2021-12-10",
     "tags": [],
