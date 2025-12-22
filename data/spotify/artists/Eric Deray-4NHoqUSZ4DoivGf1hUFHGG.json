@@ -2157,5 +2157,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3bR1mn3vjOeIMGduJZnOEV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-22T10:25:22.722Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Eric Deray"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27364e404052d6573c331c92a86",
+    "releaseDate": "2025-12-22",
+    "tags": [],
+    "title": "Take on Me",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1bJ6Wu8eX8YJPM7k7X7WTH"
   }
 ]
