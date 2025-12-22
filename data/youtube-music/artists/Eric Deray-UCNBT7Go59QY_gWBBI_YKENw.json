@@ -1847,6 +1847,10 @@
       {
         "time": "2025-09-22T17:45:56.497Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-22T17:48:18.099Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1944,5 +1948,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nIR5J2HBK_F9FCu0SSgr2xmoYkFx4hBhQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-22T17:48:18.100Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Eric Deray"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/UAFMLiioGMcmFKi7kVWceJgKHPZdI96WQXuYz37JZT_zIPHUjsQYtlYFzIjVWhVS_rZuyvZ7MoIcTeOd=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Take on Me",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ltetygj0oj3YKVz1dmskfzrk8KoIzE8oo"
   }
 ]
