@@ -373,5 +373,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5iDgRFXFgVftXqPB1P2ha4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-22T22:22:30.633Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Darie Lu"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a89425df9322921987357a1a",
+    "releaseDate": "2025-12-22",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Вечеряй без мене",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4Ehqlx6t49ugx5lEHmd5lO"
   }
 ]

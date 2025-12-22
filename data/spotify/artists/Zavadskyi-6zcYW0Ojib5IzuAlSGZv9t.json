@@ -225,5 +225,27 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/6tfYXB7mmT7H54FnSALaK2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-22T22:28:22.341Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Наталія Бучинська",
+      "Zavadskyi"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273005f64ef36b5019c96826f5c",
+    "releaseDate": "2025-05-04",
+    "tags": [
+      "pop"
+    ],
+    "title": "Жоржини (Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/70ecTyYwWG6uHnMEwoUKwO"
   }
 ]
