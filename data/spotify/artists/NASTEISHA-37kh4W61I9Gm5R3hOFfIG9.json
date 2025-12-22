@@ -475,5 +475,28 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/7krVDAWb5VXfx8dft5fy4s"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-22T16:26:27.353Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NASTEISHA",
+      "INSOMNIA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f2e6259b9ea0a7f4169b3237",
+    "releaseDate": "2025-12-13",
+    "tags": [
+      "psytrance",
+      "thrash metal"
+    ],
+    "title": "тілом і душею",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1ye9dpruK9Qp2dky9r7gPp"
   }
 ]
