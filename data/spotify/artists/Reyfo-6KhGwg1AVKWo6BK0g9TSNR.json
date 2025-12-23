@@ -476,5 +476,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5UpF2ue7qO5O1A2Shyr2rf"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-23T12:29:17.409Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Reyfo"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273604d7bd56fa952d617b6d21b",
+    "releaseDate": "2025-12-22",
+    "tags": [],
+    "title": "Shut Up, Sit Down",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4QNjuwwovy93LqXRZ03dTU"
   }
 ]
