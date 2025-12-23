@@ -411,5 +411,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/26eV54Mg2rEa8nNZKWBl4Y"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-23T05:25:17.402Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lida Lee"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27349edea83bc95715b2296a635",
+    "releaseDate": "2025-12-23",
+    "tags": [
+      "rnb"
+    ],
+    "title": "Схожі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/76ID1R9c35UKtIbf78ljbG"
   }
 ]

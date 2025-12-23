@@ -609,5 +609,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/60yTc5nh7JnmUGNLgzBLKr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-23T05:29:09.291Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Olena Karas",
+      "INGRET",
+      "Yevhenii Dubovyk"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b7be9f3683bd723d22a479f9",
+    "releaseDate": "2025-12-23",
+    "tags": [
+      "pop",
+      "jazz"
+    ],
+    "title": "Ой, орле-орле, сизеє перо",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/57I4KwqtVdKCysl37YoU2Z"
   }
 ]

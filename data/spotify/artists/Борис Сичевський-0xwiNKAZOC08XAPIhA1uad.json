@@ -161,6 +161,10 @@
       {
         "time": "2025-09-23T05:19:43.563Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-23T05:20:54.713Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -176,5 +180,341 @@
     "totalTracks": 13,
     "type": "album",
     "url": "https://open.spotify.com/album/7oKDG58Ys9Yj95L6QnXAUr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-23T05:20:54.713Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Борис Сичевський"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27376990da5e84f57b7d5c923ea",
+    "releaseDate": "2025-12-22",
+    "tags": [
+      "folk"
+    ],
+    "title": "Я іду до куми",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3dt1oGffHJ1v3jCxOsR7QX"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-23T05:20:54.713Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Борис Сичевський"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27334b3e61d3308f7dccc149929",
+    "releaseDate": "2025-12-22",
+    "tags": [
+      "folk"
+    ],
+    "title": "Я не сам випивав",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5aIwWrtc5zvOCTl8fcdx6W"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-23T05:20:54.713Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Борис Сичевський"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737c7b4d9f02b673b6b99f25db",
+    "releaseDate": "2025-12-22",
+    "tags": [
+      "folk"
+    ],
+    "title": "Теща каже",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/40jvhECTBWILthC26qTIPl"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-23T05:20:54.713Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Борис Сичевський"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d59d9d5ec2d07a9dd3db4e51",
+    "releaseDate": "2025-12-22",
+    "tags": [
+      "folk"
+    ],
+    "title": "Сурадель",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/41sAtYRJL0HnVn1SsBfeod"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-23T05:20:54.713Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Борис Сичевський"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27362888da034e61b6b709087c9",
+    "releaseDate": "2025-12-22",
+    "tags": [
+      "folk"
+    ],
+    "title": "Півень і я",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3SjyghMNvjRev0hOY6F9ds"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-23T05:20:54.713Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Борис Сичевський"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27323ba79106ff81b8748198972",
+    "releaseDate": "2025-12-22",
+    "tags": [
+      "folk"
+    ],
+    "title": "Ой, ми, мамо, господині",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6aUijGbliZd6kEbSaYMN4Q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-23T05:20:54.713Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Борис Сичевський"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d63d625abbd86ed01f81622f",
+    "releaseDate": "2025-12-22",
+    "tags": [
+      "folk"
+    ],
+    "title": "Оженюсь",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7cMo0A3gOqEgQhlJzHneaO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-23T05:20:54.713Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Борис Сичевський"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731992bbd3db4aa9b469973181",
+    "releaseDate": "2025-12-22",
+    "tags": [
+      "folk"
+    ],
+    "title": "На коня",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3RTOuCnurdrR4p9oh1eO5o"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-23T05:20:54.713Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Борис Сичевський"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732f93e9c5198ed037221db007",
+    "releaseDate": "2025-12-22",
+    "tags": [
+      "folk"
+    ],
+    "title": "На городі буркун",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7kzwBK53dzU2quR0yAPbBe"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-23T05:20:54.713Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Борис Сичевський"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27397eab4bc997eb2e0a31c35e0",
+    "releaseDate": "2025-12-22",
+    "tags": [
+      "folk"
+    ],
+    "title": "Кучері",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4uMCHsjidPK2ie6rUvOdhp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-23T05:20:54.713Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Борис Сичевський"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d1f18dd30eff5961f7c3272a",
+    "releaseDate": "2025-12-22",
+    "tags": [
+      "folk"
+    ],
+    "title": "Кума мене в губи цьом",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3re0PexpNEPIAopw8mqQrC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-23T05:20:54.713Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Борис Сичевський"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730bb03051f22f0fabdc0e5210",
+    "releaseDate": "2025-12-22",
+    "tags": [
+      "folk"
+    ],
+    "title": "Все як у людей",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5jXmDNeOV9Gn4cDlMmvsx1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-23T05:20:54.713Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Борис Сичевський"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b4ec959c93fa112ee94daa88",
+    "releaseDate": "2025-12-22",
+    "tags": [
+      "folk"
+    ],
+    "title": "Випий, кумо, до дна",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5t2ncnYaWmtEKXajNp1xC7"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-23T05:20:54.713Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Борис Сичевський"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736b7b7c15ec0ad57a8b5a07a0",
+    "releaseDate": "2025-12-22",
+    "tags": [
+      "folk"
+    ],
+    "title": "Весільний карапет",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4ehm6BOhwHH9gBunJ9ivf0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-23T05:20:54.713Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Борис Сичевський"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d8febbf4f77969eee24b27fb",
+    "releaseDate": "2025-12-22",
+    "tags": [
+      "folk"
+    ],
+    "title": "Весільна чарочка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/479HT49tlOVsVjO3F06NCx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-23T05:20:54.713Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Борис Сичевський"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732e03cd5da62166ef605d7be2",
+    "releaseDate": "2025-12-22",
+    "tags": [
+      "folk"
+    ],
+    "title": "Буги вуги",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4XVPDRxGHBSsYP54fIY1Aa"
   }
 ]
