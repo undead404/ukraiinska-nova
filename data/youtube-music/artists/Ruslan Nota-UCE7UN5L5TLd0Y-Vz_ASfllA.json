@@ -1024,5 +1024,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_no9KH21DuzevQeupDekdQQu6jP_0UL-50"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-23T23:48:47.626Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ruslan Nota"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/mdQvOPjayyUeSFD97xdMNAcDtf692_fKGxEdAGORzTGRFCpf6woLUr0Il7eK90CvGyBFHhQOqJJUHjNZ=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Колядую",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l5xwwOAip7RM7EKCUYvC1ONxQlN90eDMI"
   }
 ]
