@@ -355,5 +355,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nRmPJxMvTHsDu2qqL_HRpu3LyskCyaZ8Q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-23T11:47:53.685Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lida Lee"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/aG50dNPgQCtN2fQIN5LYVdGle0-D7pix-jes5eboD6-GnZiKT1pwpHWafGkSkIliHrcPrWqaSJjQ5mWM=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rnb"
+    ],
+    "title": "Схожі",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lM47jMlF21LGkVA3qzHqogiBXPvj_398k"
   }
 ]
