@@ -792,5 +792,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0OFJ30SI7NUsmcv0zHULuj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-23T23:22:23.196Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Оля Цибульська",
+      "Твоя опора"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730d76668f9ece292915b01c7b",
+    "releaseDate": "2025-12-23",
+    "tags": [],
+    "title": "Хай Ісус мале дитя благословить Ваше життя",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3xtd5d93OlNci8Hsn1nfjp"
   }
 ]
