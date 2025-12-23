@@ -283,5 +283,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nZriu9yjiwbIEsXU5uQoUwWKOIaukihYE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-23T04:06:18.450Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Viktor Pasko"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/bqjba0wvb0eUkRlA7_EPmDeeXgrw5SgtR2z9pGzzdPEtVcadlr_M-dvHFtjNPg7xERv9E56qQ-E-9P8d=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Зоря",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lvEmUvp8dAiFIeNY8cKHo4uxbIfXYb38U"
   }
 ]
