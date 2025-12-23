@@ -884,6 +884,10 @@
       {
         "time": "2025-11-23T17:21:09.925Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-23T17:21:54.002Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -978,5 +982,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/25UXAVzoCbRxe44Vm1y4wG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-23T17:21:54.003Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Тарас Боровок"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27349d2bfca2676c5f0169ada1f",
+    "releaseDate": "2025-12-22",
+    "tags": [],
+    "title": "НАШ КАПЕЛАН",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2eMPnN35pVqojwe4WsWwfg"
   }
 ]
