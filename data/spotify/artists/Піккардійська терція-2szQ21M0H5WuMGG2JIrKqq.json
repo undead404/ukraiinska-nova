@@ -357,5 +357,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7qASlMw16oDaqmZRRAVxMz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-23T08:22:21.579Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Піккардійська терція"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27366365895cceaa26b0fc82688",
+    "releaseDate": "2025-12-22",
+    "tags": [
+      "folk"
+    ],
+    "title": "Зірка на небі сходить",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6VSePUIozhMDvNk8rHJvIl"
   }
 ]

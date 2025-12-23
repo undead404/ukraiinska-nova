@@ -437,5 +437,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/16iXpG2mbC7QEbCYXj4yr6"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-23T08:29:28.224Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Viktor Pasko"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273806b6525634b3f1e4420c2fb",
+    "releaseDate": "2025-12-18",
+    "tags": [],
+    "title": "Зоря",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4G6NrG8wJQBYKaCGGtctzi"
   }
 ]
