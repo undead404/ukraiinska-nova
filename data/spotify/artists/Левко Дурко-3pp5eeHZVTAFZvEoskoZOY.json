@@ -946,5 +946,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1FrD8HvcA4rHh2Tv7hB0RW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-23T02:52:33.212Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Левко Дурко",
+      "Лідія Бебешко"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273108a7bb1924a565a4a223620",
+    "releaseDate": "2025-12-22",
+    "tags": [
+      "reggae",
+      "Rave"
+    ],
+    "title": "Завітай, Миколай",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7uVVxQtmPm9Kw0q5nJgncw"
   }
 ]
