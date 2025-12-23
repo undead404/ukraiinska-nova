@@ -2176,5 +2176,24 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/1bJ6Wu8eX8YJPM7k7X7WTH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-23T10:25:02.783Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Eric Deray"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736a72413889accb31b8bfd342",
+    "releaseDate": "2025-12-23",
+    "tags": [],
+    "title": "Pump It Up",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6vgpIsY08Ka5QLod3XEhDn"
   }
 ]
