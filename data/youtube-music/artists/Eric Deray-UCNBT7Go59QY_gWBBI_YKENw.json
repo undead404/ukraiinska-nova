@@ -1828,6 +1828,10 @@
       {
         "time": "2025-09-22T17:45:56.497Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-23T17:49:09.892Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1967,5 +1971,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ltetygj0oj3YKVz1dmskfzrk8KoIzE8oo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-23T17:49:09.893Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Eric Deray"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/97A7pjE9uJdMY3XybRVYmGjJtB6kPR_q2tXSeH6eLHF2HmVhojSFcTgFTe_jNaypi3GNmW0Qcy8ZAIE=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Pump It Up",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mtK2yMP0GDHXy8IVNsCaMtAFTldrmGOnU"
   }
 ]
