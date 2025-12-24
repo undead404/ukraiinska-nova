@@ -226,5 +226,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/36waymF1YxER8rEqC6myWT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-24T22:20:29.339Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "300hrnbeatz"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731b6fa3f00e52fff6167f8ba1",
+    "releaseDate": "2025-12-23",
+    "tags": [],
+    "title": "львівський різдвяний еліксир",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/03f1EQHqoFyvSCTovJsHp3"
   }
 ]
