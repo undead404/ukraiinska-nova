@@ -1691,5 +1691,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4HXvQ3mQ72D3gYlcs6SGGN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-24T05:26:43.683Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Людмила Клименко",
+      "Ruslan Nota"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27339291dd912a233db3cf911de",
+    "releaseDate": "2025-12-15",
+    "tags": [],
+    "title": "Колядую",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2IZbaEDwW3eYfudpu5vY2m"
   }
 ]
