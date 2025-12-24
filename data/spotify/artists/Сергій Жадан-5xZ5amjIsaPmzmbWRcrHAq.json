@@ -243,5 +243,26 @@
     "totalTracks": 16,
     "type": "album",
     "url": "https://open.spotify.com/album/6DMjowXykeAqTA6bp4cq1V"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-24T23:23:31.738Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DakhaBrakha"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27335bb39130a073ea78919fe3b",
+    "releaseDate": "2025-12-24",
+    "tags": [
+      "folk"
+    ],
+    "title": "Ptakh",
+    "totalTracks": 14,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5VT806K72ocKmiMVkS41JR"
   }
 ]

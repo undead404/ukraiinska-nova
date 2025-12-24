@@ -1058,5 +1058,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6axisUGdHd89GfEQWfDiVK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-24T23:26:07.501Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lefor"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273930a62d873e5613551083e65",
+    "releaseDate": "2025-12-24",
+    "tags": [
+      "rap"
+    ],
+    "title": "Valiza",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1ZXYEjt9gT7PNQR4QUKhiI"
   }
 ]
