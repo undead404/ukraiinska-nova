@@ -872,12 +872,16 @@
       {
         "time": "2025-12-22T12:28:57.037Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-24T12:28:50.799Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "The Unsleeping"
     ],
-    "artistsPopularity": 38,
+    "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ac38eb6abd147540b92aebea",
     "releaseDate": "2024-11-15",
     "tags": [
@@ -1083,6 +1087,10 @@
       {
         "time": "2025-12-22T12:28:57.037Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-24T12:28:50.799Z",
+        "type": "LOST"
       }
     ],
     "artists": [
