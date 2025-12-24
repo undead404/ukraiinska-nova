@@ -327,5 +327,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2vDU05tRfoIfUIehEhdHvF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-24T11:26:48.422Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Olivan"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bad31a40723d7507609a5fb2",
+    "releaseDate": "2025-12-24",
+    "tags": [],
+    "title": "Прощавай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1NOHU5Bg2BSQpChzoF8oqM"
   }
 ]
