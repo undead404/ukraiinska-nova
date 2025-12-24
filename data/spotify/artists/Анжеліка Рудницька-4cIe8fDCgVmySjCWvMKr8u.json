@@ -1214,5 +1214,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6wX8I3EuUC2tL0xxfgglIG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-24T03:42:20.728Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Анжеліка Рудницька",
+      "Зіновій Карач",
+      "Андрій Стецюк"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734a573536e114233f7ad0fcea",
+    "releaseDate": "2025-12-23",
+    "tags": [
+      "pop"
+    ],
+    "title": "Територія РіздвА. Дух нескорених. Бог предвічний",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1qdJ6S8MugAHws1eDU6kjB"
   }
 ]
