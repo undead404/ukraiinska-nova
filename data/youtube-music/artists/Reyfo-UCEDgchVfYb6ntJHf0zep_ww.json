@@ -416,5 +416,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l4A3e13PtWGKlnt8b5RgKZvlcpxnXz2Hk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-24T03:15:57.973Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Reyfo"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/ohAHWsouQfzWy6SVFU921nqKqqq9m4rJLM6Ata5KXwOCjWaGBOAHU0_4ZjtPgGA2xrGnLfU71K8DAD8=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Shut Up, Sit Down",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kmLxK5x5woiTf8t1tp4WC7ovFbyMOMgN8"
   }
 ]
