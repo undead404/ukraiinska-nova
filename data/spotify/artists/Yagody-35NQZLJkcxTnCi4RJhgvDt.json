@@ -124,5 +124,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3nwLd125SL7lAC7pffqZUX"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-24T09:28:03.447Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YAGODY"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27389af027451912d1aa4a227c7",
+    "releaseDate": "2025-12-23",
+    "tags": [
+      "folk"
+    ],
+    "title": "Рай розвився",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4ZQmevsXHaUjg2YsrweJgH"
   }
 ]

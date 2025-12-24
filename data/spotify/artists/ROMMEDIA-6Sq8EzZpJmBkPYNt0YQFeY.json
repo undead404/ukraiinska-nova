@@ -291,5 +291,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/787LlykDbGxhvzXZDZ8DoW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-24T09:26:30.234Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROMMEDIA"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738080225c48da15e236695cf5",
+    "releaseDate": "2025-12-22",
+    "tags": [],
+    "title": "Подарунок долі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7C0xBtNco5czdG2KgSiERU"
   }
 ]
