@@ -607,5 +607,26 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/5O1mQuHz1UFLoNH6yTMVU5"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-24T01:58:35.682Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "XenjeS"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f6c9f04563ce99f44c91d357",
+    "releaseDate": "2025-12-23",
+    "tags": [
+      "electronic"
+    ],
+    "title": "DiSCOLORATiON",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0Xo7GCkvj86M3ltw7CKqSe"
   }
 ]
