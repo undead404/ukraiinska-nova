@@ -265,5 +265,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0d3ultUwDdwfaBHKwHtiS4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-25T03:45:19.009Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Культурні сили",
+      "Іван Ткаленко",
+      "Andrii Barmalii"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732b5db9f24c586514ae2bd5eb",
+    "releaseDate": "2025-12-24",
+    "tags": [
+      "folk",
+      "jazz"
+    ],
+    "title": "Щедрик",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1ptfW6RkybFOdrxR4u6dtF"
   }
 ]
