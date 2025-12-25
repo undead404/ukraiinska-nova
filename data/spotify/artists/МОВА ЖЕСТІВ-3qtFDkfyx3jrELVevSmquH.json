@@ -169,5 +169,30 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/543uanLaghKUU2SZZPSLq1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-25T08:21:56.091Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "МОВА ЖЕСТІВ",
+      "PALMYRA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a567071cc55b79b7a037b6b0",
+    "releaseDate": "2025-12-25",
+    "tags": [
+      "folk",
+      "Garage Rock",
+      "rock",
+      "ukrainian rock"
+    ],
+    "title": "Полум'я (Acoustic)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0ITuohC1foKX3MOQj2IDhU"
   }
 ]
