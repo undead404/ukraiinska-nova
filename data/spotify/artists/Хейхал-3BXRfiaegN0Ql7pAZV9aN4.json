@@ -656,5 +656,24 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/2WJUdZSkdxzNwTyYFP5zxt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-25T13:27:16.617Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Хейхал"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731a7c66610f52e802fbb17962",
+    "releaseDate": "2025-12-25",
+    "tags": [],
+    "title": "План б",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3KHSV6W0nEpGMNC5ZVCClE"
   }
 ]

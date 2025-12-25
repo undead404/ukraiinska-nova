@@ -207,5 +207,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1qKNziubtbQnB2ljZUuq6V"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-25T13:24:24.674Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Власне Виробництво"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731bc90d8eb750d0554f1057f7",
+    "releaseDate": "2025-12-22",
+    "tags": [],
+    "title": "Трунар 2025",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4oqSwHje1wOcD8H8LKv8nH"
   }
 ]
