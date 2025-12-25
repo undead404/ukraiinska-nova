@@ -167,5 +167,33 @@
     "totalTracks": 22,
     "type": "album",
     "url": "https://open.spotify.com/album/0JEnTrY3SyoCVUNmKZMn5x"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-25T21:21:00.886Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АЗОВ.ONE",
+      "Марія Квітка",
+      "Bunht"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273097352d23bcf85a0311a0a71",
+    "releaseDate": "2025-12-25",
+    "tags": [
+      "ambient",
+      "electronic",
+      "folk",
+      "indie folk",
+      "idm",
+      "folk pop"
+    ],
+    "title": "Колядники Азову",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2UwNTJfaE7V1pIln58BmGv"
   }
 ]
