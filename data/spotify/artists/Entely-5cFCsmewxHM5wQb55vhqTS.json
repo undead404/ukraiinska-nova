@@ -384,5 +384,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6faiKVbCbAlp5FZv4s3r5t"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-25T12:26:32.343Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Entely"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734d642f9e778930576c3b0576",
+    "releaseDate": "2025-12-25",
+    "tags": [
+      "soul"
+    ],
+    "title": "Бажання чи свобода",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2piOAKx4oejT74w8ClgDIT"
   }
 ]
