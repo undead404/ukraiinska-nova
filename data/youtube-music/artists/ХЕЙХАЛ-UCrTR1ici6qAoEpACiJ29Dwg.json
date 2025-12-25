@@ -549,5 +549,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nMoVw-42lMhVj8rx_G00ZlqfxoLjlOBHc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-25T16:50:16.280Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ХЕЙХАЛ"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/BqJod_PtPutmXx_jC6ic-X7wmsfXJpudRxAyawzSJ3kHSVZHBj_UhHa-m738rMatvA6pL8ZRkCsMEW4Xcw=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "План б",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k6kLzK3edhUKVYjnxOCPBb4S8wdz6wxY4"
   }
 ]
