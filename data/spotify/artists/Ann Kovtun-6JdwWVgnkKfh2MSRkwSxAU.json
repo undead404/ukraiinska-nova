@@ -984,5 +984,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6dBTIiTcD9vPmAepLv0QGG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-25T18:24:37.465Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "на її основі"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273608ac82385997bcf347bf61a",
+    "releaseDate": "2025-12-25",
+    "tags": [],
+    "title": "За її лаштунками, Vol. 4",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3uYSgBHUpfnm8IHYLKoPcu"
   }
 ]
