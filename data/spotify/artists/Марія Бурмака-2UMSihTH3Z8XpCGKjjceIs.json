@@ -1193,5 +1193,30 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3OsUEulY5E4uXe9r86nhZD"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-25T23:22:29.590Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Анжеліка Рудницька",
+      "Марія Бурмака",
+      "Едуард Драч"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273602eb8949797f796de8b9daa",
+    "releaseDate": "2025-12-23",
+    "tags": [
+      "folk",
+      "pop",
+      "singer-songwriter"
+    ],
+    "title": "Територія РіздвА. Дух нескорених. В полі-полі плужок оре",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1bLh8UBFcamCGugmuoaJKV"
   }
 ]

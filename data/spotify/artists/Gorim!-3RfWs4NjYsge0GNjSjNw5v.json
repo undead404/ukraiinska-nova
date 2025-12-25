@@ -416,5 +416,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0AiLytYmFPDoaSHgoIAcSE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-25T23:25:33.373Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Gorim!",
+      "Scoof"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27355f3a2b8799a7f47b566ee3d",
+    "releaseDate": "2025-12-25",
+    "tags": [],
+    "title": "Сумний Новий Рік",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5BHzvZJxi09zGq9b46qhvI"
   }
 ]
