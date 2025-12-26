@@ -290,6 +290,10 @@
       {
         "time": "2025-09-19T22:23:23.853Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-26T22:21:43.436Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -352,5 +356,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2LQxfeNVKqR6HQRRTDESzz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T22:21:43.437Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Boombox"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ffa3cf5e603a81288218401f",
+    "releaseDate": "2019-09-12",
+    "tags": [
+      "funk",
+      "Hip-Hop"
+    ],
+    "title": "Таємний код Рубікон Частина 1",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0bCE96Wz7yruIMH5tGZm6K"
   }
 ]
