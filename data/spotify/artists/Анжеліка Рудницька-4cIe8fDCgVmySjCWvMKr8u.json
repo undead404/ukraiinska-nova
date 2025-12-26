@@ -1237,5 +1237,145 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1qdJ6S8MugAHws1eDU6kjB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T03:42:14.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Анжеліка Рудницька",
+      "Володимир Трач",
+      "Наталя Трач",
+      "Хор Ансамблю Нацгвардії України"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733b5fb67b82c165b0d6c8654a",
+    "releaseDate": "2025-12-24",
+    "tags": [
+      "pop"
+    ],
+    "title": "Територія РіздвА. Дух нескорених. У полі, у полі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/12vBkQTxVjrr5CSSIfpjcv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T03:42:14.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Анжеліка Рудницька",
+      "Христина Панасюк",
+      "Vlad Darwin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e80f30b65478b0cca42843c6",
+    "releaseDate": "2025-12-24",
+    "tags": [
+      "pop"
+    ],
+    "title": "Територія РіздвА. Дух нескорених. Спи, Ісусе, спи",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3JcVo5jN8i1eenDWBrI0Yh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T03:42:14.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Анжеліка Рудницька",
+      "Юлія Тайра Паєвська",
+      "Олег Фагот Михайлюта"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27371cadbe1cab7a86ece02e005",
+    "releaseDate": "2025-12-24",
+    "tags": [
+      "pop"
+    ],
+    "title": "Територія РіздвА. Дух нескорених. Ой зійшли-зійшли з неба ангели",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3u9FHyLXIoUMeOWPZMdFWM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T03:42:14.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Анжеліка Рудницька",
+      "Марта Адамчук",
+      "Хор Ансамблю Нацгвардії України"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736193e87943e5dad24fc6ea2b",
+    "releaseDate": "2025-12-23",
+    "tags": [
+      "pop"
+    ],
+    "title": "Територія РіздвА. Дух нескорених.У містечку Вифлеємі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2epkoILoZfHBjFiU1CT1td"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T03:42:14.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Анжеліка Рудницька",
+      "Віталій Кириченко"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734a2025a69b5e1168a0109773",
+    "releaseDate": "2025-12-23",
+    "tags": [
+      "pop"
+    ],
+    "title": "Територія РіздвА. Дух нескорених. Ой рано-рано та й загадано",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1TuFhEJSIeN2xLLlde5yQS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T03:42:14.559Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Анжеліка Рудницька",
+      "Марія Бурмака",
+      "Едуард Драч"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273602eb8949797f796de8b9daa",
+    "releaseDate": "2025-12-23",
+    "tags": [
+      "folk",
+      "pop",
+      "singer-songwriter"
+    ],
+    "title": "Територія РіздвА. Дух нескорених. В полі-полі плужок оре",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1bLh8UBFcamCGugmuoaJKV"
   }
 ]
