@@ -2003,5 +2003,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6RSNezC7WSnqLJwUWyTmns"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T01:50:22.971Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гурт Експрес"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734ec5edd12f7fae059841b7ec",
+    "releaseDate": "2025-12-24",
+    "tags": [
+      "pop"
+    ],
+    "title": "Небо і земля",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6UOWpEZTFluir6Wc0XAF00"
   }
 ]
