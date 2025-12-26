@@ -369,5 +369,28 @@
     "totalTracks": 6,
     "type": "single",
     "url": "https://open.spotify.com/album/0JvR8rJX8z8ExtQil8nB2G"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T00:42:56.355Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kalashnikhans",
+      "Лунар"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736bd1c602e26f6d5c5b77eb42",
+    "releaseDate": "2025-12-25",
+    "tags": [
+      "dream pop",
+      "post-punk"
+    ],
+    "title": "I Met an Angel",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5A19WkugJu1Gkt8SAktQMl"
   }
 ]
