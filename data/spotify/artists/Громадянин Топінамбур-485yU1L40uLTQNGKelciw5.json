@@ -601,5 +601,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6UPTPTSb8iBI2MkQA7JLgt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T07:21:10.331Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Громадянин Топінамбур"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735c9eab62c5549c88468eeec8",
+    "releaseDate": "2025-12-26",
+    "tags": [],
+    "title": "За Течією",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2E4jrAjEREjEUG8sWnZSra"
   }
 ]
