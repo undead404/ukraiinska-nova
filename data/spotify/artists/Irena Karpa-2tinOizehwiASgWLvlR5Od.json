@@ -1,0 +1,83 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T14:23:21.755Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Irena Karpa",
+      "Grigory Semenchuk",
+      "Lyuba Yakimchuk",
+      "Yuriy Gurzhy"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e91e529f029e8d8807bd4ae8",
+    "releaseDate": "2022-10-13",
+    "tags": [],
+    "title": "Ukrainian Songs Of Love And Hate",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6nCzgC8Uq5uPogln6NYH6b"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T14:23:21.755Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Dan Alien"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731526d7d83b02d784926f720e",
+    "releaseDate": "2019-07-16",
+    "tags": [],
+    "title": "Bootlegger's Dream Part 1",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5VYRFLsLzsxaVkZbauwbBg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T14:23:21.755Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Louis-cyrille Trebuchet"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736b9e18c9c0f9f3d442430910",
+    "releaseDate": "2020-11-10",
+    "tags": [],
+    "title": "Midlife",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7xpY64UH5faCNSAQyElEjl"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T14:23:21.755Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Poesiekollektiv Landschaft",
+      "Ulrike Almut Sandig",
+      "Grigory Semenchuk"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739eb66fc7404a04de0e569693",
+    "releaseDate": "2023-02-23",
+    "tags": [],
+    "title": "Bavovna (Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2j5Vypk06Q2ymqb2NeOkTk"
+  }
+]
