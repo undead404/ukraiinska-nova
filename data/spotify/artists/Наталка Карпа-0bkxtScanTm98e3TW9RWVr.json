@@ -750,5 +750,30 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2XqlOIAqCrJOhyq85E74mY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T21:21:38.886Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Анжеліка Рудницька",
+      "Natalka Karpa",
+      "тато Семен",
+      "доня Злата"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731368c68241b5abab2b19f03c",
+    "releaseDate": "2024-12-23",
+    "tags": [
+      "dance",
+      "pop"
+    ],
+    "title": "СТАРИЙ РІК МИНАЄ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6FSdrcRyiia7vAMSaY6bU5"
   }
 ]

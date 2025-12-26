@@ -245,5 +245,25 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/512FXkndmBBEwWBm6tsffs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T21:23:39.360Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Passway",
+      "Driplla"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a7fba1ef5bce6a9956c06704",
+    "releaseDate": "2025-12-26",
+    "tags": [],
+    "title": "Меседж",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3jmmQhceST2ZTIvyR3p3ga"
   }
 ]

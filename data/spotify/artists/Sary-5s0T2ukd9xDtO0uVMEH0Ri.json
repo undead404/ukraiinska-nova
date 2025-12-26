@@ -298,5 +298,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2H6hvkqRM7nwZlklkJ7Bcm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T21:27:08.202Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sary"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273583a10abe7bf1a16a5040e43",
+    "releaseDate": "2025-12-26",
+    "tags": [
+      "electronic",
+      "hyperpop",
+      "pop",
+      "rnb"
+    ],
+    "title": "назавжди",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/487oRZc3pKTZ6l81i6CX7C"
   }
 ]
