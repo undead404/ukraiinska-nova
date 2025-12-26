@@ -1397,5 +1397,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3yFdXRulY6BEGsVvzac75q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T13:26:34.114Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "xɛniaq"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273570249bd27bd6a0aa40664c7",
+    "releaseDate": "2025-12-26",
+    "tags": [],
+    "title": "sisxxx",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2fmkp7UDXQEJ1sl5nAz5cX"
   }
 ]
