@@ -1,0 +1,41 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T18:31:46.223Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Turchinka",
+      "Zavadskyi"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273749272f751c3ee85ad5c714d",
+    "releaseDate": "2022-04-20",
+    "tags": [],
+    "title": "Біла ніч (remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7IaQpkFao7C8XDUm29vMfG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T18:31:46.223Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Turchinka"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273332ee560e59fe5ba64e2fc80",
+    "releaseDate": "2022-01-17",
+    "tags": [],
+    "title": "Біла ніч",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/59sU8PO83JVKTK6rRw009f"
+  }
+]
