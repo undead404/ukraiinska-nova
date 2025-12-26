@@ -625,5 +625,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lCyk-A1K8RUM8V23KorekMB4r9dyCx34Q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T18:52:36.258Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YampolSky"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/GnAXwVUzXi0WiTsd7R8jqPUwornlJL3lETmtMzlzyxuT63SgB6aPkRaJRH-tBvLwmqSgWxskMy8lcGM=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Play Right",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nD7EAO7SvsB8AUM-N6BxWX_yoq1S78o0g"
   }
 ]
