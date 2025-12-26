@@ -263,5 +263,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5amHPC0PPxol0DnoSHuLxg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T17:24:44.025Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DYKTOR"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b4fa7eec599c2a415cfe04a1",
+    "releaseDate": "2025-12-26",
+    "tags": [],
+    "title": "Мить )",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6OEEEQYQbFPlEZPj2inJQJ"
   }
 ]
