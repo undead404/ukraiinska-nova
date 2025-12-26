@@ -970,5 +970,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2virzPz2VZBr8MzA9LDRZR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T06:28:14.543Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "whitelope"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27305bdd7a0042b03f8762aa401",
+    "releaseDate": "2025-12-26",
+    "tags": [
+      "rap"
+    ],
+    "title": "70к за fit",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7g8kmJbLHCitPBP51iKm7j"
   }
 ]

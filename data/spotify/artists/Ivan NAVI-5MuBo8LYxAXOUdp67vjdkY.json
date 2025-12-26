@@ -1102,6 +1102,10 @@
       {
         "time": "2025-11-05T06:26:38.133Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-26T06:26:46.693Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1117,5 +1121,26 @@
     "totalTracks": 7,
     "type": "album",
     "url": "https://open.spotify.com/album/1Sbcj2v05TKMqOVEsT7WYJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T06:26:46.693Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b156f990311739461f37fe65",
+    "releaseDate": "2025-12-26",
+    "tags": [
+      "pop"
+    ],
+    "title": "П’яний чоловік",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2AslhHJFC9L2Jxd9s2y7Ud"
   }
 ]

@@ -2378,5 +2378,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/60yTc5nh7JnmUGNLgzBLKr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T06:22:11.766Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гурт Дно",
+      "вероніка"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273780bc65a9fa86b9b6d7ebee3",
+    "releaseDate": "2025-12-26",
+    "tags": [
+      "Avant-Pop",
+      "indie pop",
+      "indie rock"
+    ],
+    "title": "save you soon (euro song)",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5nVYCfJzystTQSXIRAuAp5"
   }
 ]
