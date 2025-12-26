@@ -877,13 +877,17 @@
       {
         "time": "2025-12-25T10:21:53.961Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-26T10:21:33.948Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "ТНМК",
       "Alex Fleev"
     ],
-    "artistsPopularity": 40,
+    "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734c4b431dcb5c0b8cdbc067a2",
     "releaseDate": "2021-01-22",
     "tags": [
@@ -903,13 +907,17 @@
       {
         "time": "2025-12-25T10:21:53.961Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-26T10:21:33.948Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "ТНМК",
       "Luckie Joe"
     ],
-    "artistsPopularity": 40,
+    "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a59ad7237484882c6d494497",
     "releaseDate": "2021-01-04",
     "tags": [
@@ -1059,12 +1067,16 @@
       {
         "time": "2025-12-25T10:21:53.961Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-26T10:21:33.948Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "ТНМК"
     ],
-    "artistsPopularity": 40,
+    "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732415021a9508e4bb3b44edb4",
     "releaseDate": "2019-06-14",
     "tags": [
@@ -1129,12 +1141,16 @@
       {
         "time": "2025-12-25T10:21:53.961Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-26T10:21:33.948Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "VSE.SVIT"
     ],
-    "artistsPopularity": 1,
+    "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27317059db185c1247d731a4a1b",
     "releaseDate": "2016-07-27",
     "tags": [],
@@ -1152,12 +1168,16 @@
       {
         "time": "2025-12-25T10:21:53.961Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-26T10:21:33.948Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Диджей Ларин"
     ],
-    "artistsPopularity": 0,
+    "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dfafdca6646f3456ed047389",
     "releaseDate": "2016-04-30",
     "tags": [],
