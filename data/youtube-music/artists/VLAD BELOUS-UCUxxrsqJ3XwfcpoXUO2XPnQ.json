@@ -454,5 +454,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lNoWMfy2_hqyltmssJuay1rreuDQG1LFU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T22:50:09.120Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VLAD BELOUS"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/XR17vhSM34Oysp1PpO2snB9EahufF83iemcyvp1Ja6P-cGgjhFrk4WGs2RRLnW3rMNGR39FDLx1UmTuP=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "All About You",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n88uSXa10HQVuTzynoQEsHezy8kUO-7Q8"
   }
 ]
