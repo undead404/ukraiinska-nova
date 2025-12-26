@@ -320,5 +320,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nX78S5qgdJEe4ceCUW7VgSS1QRzOdON8U"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T20:48:56.426Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SHI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/DblVo0L6MkoSboGDnXaeq9gNEeOB4_MKQqurh_K6ICDDCvbkhSZIRwhILZl4NRoHpQ2J9hLa4u-sqqc=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "ambient",
+      "darkwave"
+    ],
+    "title": "Зозуля (Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m1zL2o2gR4OlM2hFDcmpYFij2db0MK0rw"
   }
 ]
