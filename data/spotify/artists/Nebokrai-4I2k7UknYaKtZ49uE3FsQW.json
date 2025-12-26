@@ -74,5 +74,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2k2uTejIwOl9Rq09r1nbbh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T20:28:11.909Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Nebokrai"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734747d2aef0cd82a4eb991a41",
+    "releaseDate": "2025-12-26",
+    "tags": [],
+    "title": "раут (VC)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2Izsy3vFEJI9xDKqKoccbV"
   }
 ]
