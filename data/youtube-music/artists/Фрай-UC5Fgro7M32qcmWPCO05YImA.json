@@ -922,5 +922,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nGA-4CyO6LyinAYCt-t-FApnH6VG8UXmw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T07:47:19.137Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Фрай"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/jBtgbsmR8sjwKnRYxFeZCEUzvt70v-vsxAZTpOUn2KOrAV0Oo0Yw-FK8s6JklLRd5nQ4I52oR0p5DhGw=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "blues"
+    ],
+    "title": "Падаю",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_li3WqMNBlRkPGr480zMFbs-P23hPZfQ9o"
   }
 ]

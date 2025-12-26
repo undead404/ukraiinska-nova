@@ -2164,5 +2164,28 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nQB7_88hx8VZWrTyUclLprqjzRzGRn0FU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T07:46:36.475Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гурт Дно"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/QNwNcUsa0HfR303lDRyRildX1jX_Lhgt_D_gY0HH1cXsDZ4icGDw4LHMIdcB84SOEZYgBw7qjXpELrg=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "Avant-Pop",
+      "indie pop",
+      "indie rock"
+    ],
+    "title": "save you soon (euro song)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nOTTHSXe8RK65J0J_LcgK8C-eJvvudHcQ"
   }
 ]
