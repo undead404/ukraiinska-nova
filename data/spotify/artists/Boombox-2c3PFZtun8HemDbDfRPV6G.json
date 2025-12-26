@@ -4,6 +4,10 @@
       {
         "time": "2025-09-19T19:22:43.685Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-26T19:22:47.051Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -26,6 +30,10 @@
       {
         "time": "2025-09-19T19:22:43.685Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-26T19:22:47.051Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -338,6 +346,10 @@
       {
         "time": "2025-09-19T19:22:43.685Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-26T19:22:47.051Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -948,5 +960,49 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/2uOdgmvlBi93n0NqEoIYyC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T19:22:47.051Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Boombox"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733691d60c484c30e5573cf996",
+    "releaseDate": "2019-12-13",
+    "tags": [
+      "funk",
+      "Hip-Hop"
+    ],
+    "title": "Таємний код Рубікон, Ч. 2",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2w57Gh1MCUvbuauVt3bz1h"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T19:22:47.051Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Boombox"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ffa3cf5e603a81288218401f",
+    "releaseDate": "2019-09-12",
+    "tags": [
+      "funk",
+      "Hip-Hop"
+    ],
+    "title": "Таємний код Рубікон Частина 1",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0bCE96Wz7yruIMH5tGZm6K"
   }
 ]
