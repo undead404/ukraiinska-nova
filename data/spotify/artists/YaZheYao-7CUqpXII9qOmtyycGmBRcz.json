@@ -648,5 +648,25 @@
     "totalTracks": 8,
     "type": "album",
     "url": "https://open.spotify.com/album/0nYG7wazHKkbOJAgVwSp5l"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T15:28:46.859Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Big Skeelz",
+      "YaZheYao"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e9ae8636431b16b18867995d",
+    "releaseDate": "2025-12-26",
+    "tags": [],
+    "title": "Імена",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3mznkdNBYGOfWr7Y9P7Oaw"
   }
 ]

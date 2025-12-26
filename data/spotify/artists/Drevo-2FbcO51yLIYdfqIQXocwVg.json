@@ -418,5 +418,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2yScM2btxT8gIkikeA2z9q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T15:24:14.145Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Drevo"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cb1a86c448c3c4905597cd49",
+    "releaseDate": "2025-12-26",
+    "tags": [
+      "folk"
+    ],
+    "title": "Енкарапіста",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1m1WVnSkvhI9A0RCaPDJoq"
   }
 ]
