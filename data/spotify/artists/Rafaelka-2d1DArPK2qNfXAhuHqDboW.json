@@ -1,0 +1,42 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T11:26:20.374Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YourSAD",
+      "Rafaelka"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cd7e2ecc9e9bd63ffec9df27",
+    "releaseDate": "2025-12-05",
+    "tags": [],
+    "title": "Діамант",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5lqlU0mxhEAKUsJHcMzfe8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T11:26:20.374Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YourSAD",
+      "Rafaelka"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273623cfd07fe0b7c29b127d9c3",
+    "releaseDate": "2025-02-14",
+    "tags": [],
+    "title": "Автомагістраль",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2j2mMWx4UpLO3DXZHYae8p"
+  }
+]
