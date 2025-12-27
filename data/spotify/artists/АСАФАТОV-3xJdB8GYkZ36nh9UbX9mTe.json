@@ -1357,5 +1357,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7sSawg5J1EyAHCIN0WWh1C"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-27T17:19:57.856Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АСАФАТОV"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ade7cdf8ab61c325b74b4ac5",
+    "releaseDate": "2025-12-26",
+    "tags": [
+      "pop"
+    ],
+    "title": "БОБЕР - ІНЖЕНЕР",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1R4se0o0xg3CFWUUsZ6JkU"
   }
 ]
