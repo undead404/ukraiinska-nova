@@ -1410,5 +1410,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2JufwUfXzhOKhDTefYx9R0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-27T04:23:39.258Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "JENYA NAIDENKO"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27390affd7cbbe2c806ad513b2a",
+    "releaseDate": "2023",
+    "tags": [],
+    "title": "XXX",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/206KPnxJSWEhhCnddQjTx0"
   }
 ]
