@@ -773,5 +773,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3TZfT7QwB1xupsw0DsHoth"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-27T12:31:00.248Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Volkanov"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27394919e0b8bcb875f9fe7c988",
+    "releaseDate": "2025-12-26",
+    "tags": [
+      "pop"
+    ],
+    "title": "В Україні жити",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/05FIWwBv6ysBRWobEESMVA"
   }
 ]

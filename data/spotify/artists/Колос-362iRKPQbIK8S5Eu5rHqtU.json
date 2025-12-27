@@ -389,5 +389,26 @@
     "totalTracks": 20,
     "type": "album",
     "url": "https://open.spotify.com/album/6oe69Zf6V8DfEzLTgx3oFJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-27T12:22:30.819Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BREM STOKER"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730b86aff19d5bd5b9cd5d12ef",
+    "releaseDate": "2013-06-17",
+    "tags": [
+      "ska punk"
+    ],
+    "title": "Frankenstein",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0ozh6qPHCF2M6T0gUC8EcB"
   }
 ]

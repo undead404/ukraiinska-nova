@@ -1855,5 +1855,26 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/1kVouFpL3h2MrT2sNnpm7x"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-27T12:26:27.493Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "drwncvnt"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c3b1d869381d402e79f82e88",
+    "releaseDate": "2025-12-26",
+    "tags": [
+      "electronic"
+    ],
+    "title": "009 dreamscape",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3scIVRgC1BqamedM4Kvhys"
   }
 ]
