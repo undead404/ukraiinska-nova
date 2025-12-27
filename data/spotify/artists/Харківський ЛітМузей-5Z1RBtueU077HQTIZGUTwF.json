@@ -1,0 +1,23 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-27T02:52:03.317Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Харківський ЛітМузей",
+      "Serhiy Zhadan",
+      "Yuriy Gurzhy"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a2d617c566154726e8859b12",
+    "releaseDate": "2023-10-12",
+    "tags": [],
+    "title": "SKOVORODANCE",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6CHUEENkbpgNITRamzLWSy"
+  }
+]
