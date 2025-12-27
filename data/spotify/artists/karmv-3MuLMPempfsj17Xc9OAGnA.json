@@ -2056,5 +2056,53 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/72gDbFo4oDooQEM7ix7onX"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-27T08:25:22.915Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "karmv"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27318b9582aca240b94cc17e621",
+    "releaseDate": "2025-12-27",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "не реви",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1fDQabR3o6rO2eeQzPy5VI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-27T08:25:22.915Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ірина Євтушенко",
+      "karmv",
+      "MAVER"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737c0a9329775448e440313492",
+    "releaseDate": "2022-11-29",
+    "tags": [
+      "electronic",
+      "House",
+      "dance",
+      "techno"
+    ],
+    "title": "При долині кущ калини (karmv & MAVER Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2UamHQ9Kl19V7VZD0Mmt7w"
   }
 ]
