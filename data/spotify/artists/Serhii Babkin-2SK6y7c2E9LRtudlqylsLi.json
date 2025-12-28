@@ -1277,5 +1277,25 @@
     "totalTracks": 12,
     "type": "album",
     "url": "https://open.spotify.com/album/1vKakwu3DsfL500Cyj2EVW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-28T22:27:03.272Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kvartal 95",
+      "Женский Квартал"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a2ad2cbf1d581453dfbf91fe",
+    "releaseDate": "2021-03-13",
+    "tags": [],
+    "title": "Женский Квартал 13 марта 2021",
+    "totalTracks": 5,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4mcPRK6Ffx2uOnYMcEfC5T"
   }
 ]
