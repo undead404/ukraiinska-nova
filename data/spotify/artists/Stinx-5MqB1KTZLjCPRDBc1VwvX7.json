@@ -187,5 +187,26 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/5vgVwxKs5v0K9tAMaPi72R"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-28T03:59:30.570Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Stinx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738ee770fedccceb0295b161df",
+    "releaseDate": "2025-12-27",
+    "tags": [
+      "street punk"
+    ],
+    "title": "Down Hellroad on Hellride",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6juwizNnIe8gaULYcte20p"
   }
 ]

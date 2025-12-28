@@ -302,5 +302,31 @@
     "totalTracks": 10,
     "type": "album",
     "url": "https://open.spotify.com/album/2kUX9MVM4In6Y5DZxWbqO1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T17:27:46.730Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MONATIK",
+      "Phil It"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734023b5e8cf106e2db2a369a7",
+    "releaseDate": "2025-12-26",
+    "tags": [
+      "electronic",
+      "electropop",
+      "pop",
+      "art pop",
+      "indie pop"
+    ],
+    "title": "Спогади",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1OJTiM7zHEL7eNCCNtBCkc"
   }
 ]

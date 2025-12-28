@@ -1,0 +1,43 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T14:23:56.848Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kazko"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737626a67720e5193e36c0e470",
+    "releaseDate": "2020-12-03",
+    "tags": [],
+    "title": "Glitches",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3be6hjSU4hqVSnxAXurgvN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T14:23:56.848Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YULIYA ROZNEN",
+      "Kazko"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273934d81edf2090a12380bceb5",
+    "releaseDate": "2020-09-28",
+    "tags": [
+      "pop"
+    ],
+    "title": "Розкажи (remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5hqeOz6HyrIIGipWoQsVSE"
+  }
+]

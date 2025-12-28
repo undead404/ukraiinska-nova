@@ -1115,5 +1115,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3Zl4CIsxyZAGsil2t17d5V"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T18:27:09.642Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One",
+      "MADB1T"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27378d22bbb2ec8817500a964c6",
+    "releaseDate": "2025-12-26",
+    "tags": [
+      "rap"
+    ],
+    "title": "Очі твої",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2oBBx0bt9Ly2cAJeBa7NAW"
   }
 ]

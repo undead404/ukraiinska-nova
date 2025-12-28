@@ -820,5 +820,24 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/4vV8J5oOKzrStEFnxlZRyN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T11:28:03.273Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YampolSky"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27394dcd6b7bb13d562f15af7ec",
+    "releaseDate": "2025-12-26",
+    "tags": [],
+    "title": "Play Right",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4Qk8rBKlqO8FRdRo1Xi1o8"
   }
 ]

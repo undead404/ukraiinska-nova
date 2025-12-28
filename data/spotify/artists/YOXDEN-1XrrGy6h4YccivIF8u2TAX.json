@@ -1289,5 +1289,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6KYkUStWKNYpGcoTW021nc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-27T09:28:20.478Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YOXDEN",
+      "Gario Nells"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739936f99879291134995e81f3",
+    "releaseDate": "2025-12-26",
+    "tags": [
+      "dance",
+      "electronic"
+    ],
+    "title": "ДЗУСЬКИ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6jMHTIpzMTAWkTBUUceLBe"
   }
 ]

@@ -1238,5 +1238,26 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/1HxlYhMgAgzErE6qq0R2F9"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T14:25:46.372Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Odarka",
+      "DJ EAS",
+      "Club Marconex Records"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733dfe14bebe8b3846d41d5b95",
+    "releaseDate": "2025-12-26",
+    "tags": [],
+    "title": "In the Middle of Nowhere",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0BIZK94hNzBm0EJK0nAI8t"
   }
 ]

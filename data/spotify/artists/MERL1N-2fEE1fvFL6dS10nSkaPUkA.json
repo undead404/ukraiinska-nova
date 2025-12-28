@@ -635,5 +635,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/477qxuITEFkNUCYWKkujwM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T21:25:56.707Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MERL1N"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bc11d1b9b742be39a3df7cd9",
+    "releaseDate": "2025-12-26",
+    "tags": [],
+    "title": "Destroy Alone",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5tO1Y1cqidY3AA9xbS1cu9"
   }
 ]

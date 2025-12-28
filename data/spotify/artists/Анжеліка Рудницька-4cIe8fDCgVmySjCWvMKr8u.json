@@ -1290,6 +1290,10 @@
       {
         "time": "2025-12-26T03:42:14.559Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-27T03:41:13.188Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1377,5 +1381,30 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1bLh8UBFcamCGugmuoaJKV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-27T03:41:13.189Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Анжеліка Рудницька",
+      "Natalka Karpa",
+      "тато Семен",
+      "доня Злата"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731368c68241b5abab2b19f03c",
+    "releaseDate": "2024-12-23",
+    "tags": [
+      "dance",
+      "pop"
+    ],
+    "title": "СТАРИЙ РІК МИНАЄ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6FSdrcRyiia7vAMSaY6bU5"
   }
 ]

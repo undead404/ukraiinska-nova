@@ -247,5 +247,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/70ecTyYwWG6uHnMEwoUKwO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-27T22:28:44.355Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Віктор Павлік",
+      "Zavadskyi"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27329df49ca35fea16ae1f90e66",
+    "releaseDate": "2025-12-18",
+    "tags": [
+      "pop"
+    ],
+    "title": "Білі черемхи (Zavadskyi Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6NXFq5VXyPS7JWUmPhVT4Y"
   }
 ]

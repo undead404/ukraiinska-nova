@@ -496,5 +496,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3VC9CVsqnn9Bx5KDsMpowF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-27T04:29:48.739Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VLAD BELOUS"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273563dd8cd1c003de15321fe6c",
+    "releaseDate": "2025-12-26",
+    "tags": [],
+    "title": "All About You",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0fQzSOo3PQCzi77cFcwqqs"
   }
 ]

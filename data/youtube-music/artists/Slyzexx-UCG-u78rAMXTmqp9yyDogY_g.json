@@ -2388,6 +2388,10 @@
       {
         "time": "2025-10-06T21:47:45.398Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-26T21:48:11.139Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2951,5 +2955,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_le3oelTns-ek5YC0cffeOkEc3KjH_0f_w"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T21:48:11.141Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/lul8TxVXwiLm0emJ1FwEW2Y95bgkCHx6M8jXPGd1MaMI3RAcWPYQqFgZp-Gcjd7FT_2mLdPTK3Omy9A=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Промінь",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nlIVsCwzGQ-g4R-Y42MxUoJgPFcnPcVro"
   }
 ]

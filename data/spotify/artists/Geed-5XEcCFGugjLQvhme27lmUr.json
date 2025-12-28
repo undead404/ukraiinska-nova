@@ -183,12 +183,38 @@
       {
         "time": "2025-12-25T20:26:31.328Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-26T20:26:42.349Z",
+        "type": "LOST"
       }
     ],
     "artists": [
       "Geed"
     ],
     "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739d9a152791fa8b8418431ba4",
+    "releaseDate": "2025-12-25",
+    "tags": [
+      "pop"
+    ],
+    "title": "Дихай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7k7Y9kns5sKnrdRb1uC09i"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T20:26:42.349Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Geed",
+      "Вікторія Деркач"
+    ],
+    "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739d9a152791fa8b8418431ba4",
     "releaseDate": "2025-12-25",
     "tags": [

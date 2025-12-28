@@ -426,5 +426,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0sYJuVKeNtlZFOqBU6ozYF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T15:26:22.679Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Nebesnyi",
+      "Nazar Zakharko"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273df741cae71216598050f75c9",
+    "releaseDate": "2025-12-26",
+    "tags": [],
+    "title": "Пофігу мені",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/07FvS5ESDTmoHE1avfRAWy"
   }
 ]

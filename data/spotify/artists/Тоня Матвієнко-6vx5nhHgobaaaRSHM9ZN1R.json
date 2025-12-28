@@ -1099,5 +1099,27 @@
     "totalTracks": 9,
     "type": "album",
     "url": "https://open.spotify.com/album/74IoPnaj6H1cBBygS8dDMt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-27T13:25:05.482Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Тоня Матвієнко"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732b67b4ea5a195614042f91e8",
+    "releaseDate": "2022-01-01",
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "title": "У нашого пана",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3oZO8JATZoMCWkvsXsBxaz"
   }
 ]

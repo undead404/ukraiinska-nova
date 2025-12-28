@@ -666,5 +666,30 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/02H7Fqph6a6M2uhVH8deWs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T14:26:12.602Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BADWOR7H",
+      "renie cares"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27304ba674461266ce93735aa69",
+    "releaseDate": "2025-12-26",
+    "tags": [
+      "electronic",
+      "electropop",
+      "indie pop",
+      "breakbeat"
+    ],
+    "title": "МОЗОК ДИСКО",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2HtXhgOFTZhbOOmmSfGPM5"
   }
 ]

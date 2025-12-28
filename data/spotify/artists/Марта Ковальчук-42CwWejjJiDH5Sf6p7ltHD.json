@@ -1,0 +1,60 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T22:21:52.361Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Марта Ковальчук"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a23db3425fb591cb9b74e9c6",
+    "releaseDate": "2024-03-02",
+    "tags": [],
+    "title": "З тобою",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0l1AOZA8SiNeujvn5UbP1I"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T22:21:52.361Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Марта Ковальчук",
+      "Zavadskyi"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739072fd6753a0315ef9643b36",
+    "releaseDate": "2022-07-02",
+    "tags": [],
+    "title": "Для Твоїх (Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2cvYt3eIZJsw461qN2sI0n"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T22:21:52.361Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Марта Ковальчук"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732f0ed19a1b06571aae174112",
+    "releaseDate": "2022-06-16",
+    "tags": [],
+    "title": "Україна",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5vdS5rab8fZN1jdtzKwVLl"
+  }
+]

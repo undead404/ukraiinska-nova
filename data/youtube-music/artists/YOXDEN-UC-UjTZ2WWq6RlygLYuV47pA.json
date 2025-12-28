@@ -1618,5 +1618,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nIoeK7G-T6LsKJIpwruIhoWF7B383wc7s"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-27T03:16:37.669Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yoxden"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/hLPxdvpgzFl2bndyPACn519_e8dk-oNE5_-X0vv5xMW4W7r--cFspV5wWNzgYdezppfr2MBV9KN0crhq=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "dance",
+      "electronic"
+    ],
+    "title": "ДЗУСЬКИ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n8l72GWEdtZsztu8cPL4NIvP7bcj39tBE"
   }
 ]

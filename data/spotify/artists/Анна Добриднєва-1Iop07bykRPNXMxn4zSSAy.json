@@ -543,5 +543,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0XQ6F7uiNfWz9nFg2Hp2wM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-27T09:20:43.510Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Анжеліка Рудницька",
+      "Анна Добриднєва",
+      "мама Наталя"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e62cfd131221abb04072dd3d",
+    "releaseDate": "2025-01-03",
+    "tags": [
+      "pop"
+    ],
+    "title": "НОВА РАДІСТЬ СТАЛА",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4wLIIAi7b0JPpotIv5syoB"
   }
 ]

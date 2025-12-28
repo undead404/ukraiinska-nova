@@ -538,5 +538,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1y76MOemYQgsvzfpMIoDU4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-28T07:23:46.912Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Makarenko",
+      "Mon@rch",
+      "BID0NCI0N"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c5136770cf2a79d4adece904",
+    "releaseDate": "2025-12-28",
+    "tags": [],
+    "title": "Любила і плакала (Bid0nci0n Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/591Rit1mjVbN2ssGXLTAWd"
   }
 ]

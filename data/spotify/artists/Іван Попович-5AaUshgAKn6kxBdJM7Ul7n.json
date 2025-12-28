@@ -313,6 +313,10 @@
       {
         "time": "2025-09-23T02:38:41.555Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-27T02:50:42.432Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1587,5 +1591,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0uVp4YKOgiIC086Saj0cnk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-27T02:50:42.433Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Іван Попович"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c7cb56d7c4cd79df6389bc09",
+    "releaseDate": "2024-09-18",
+    "tags": [
+      "pop"
+    ],
+    "title": "Тільки ти (Рімейк, 2024)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3y5FrDSPcqy3pqrVDszM4N"
   }
 ]

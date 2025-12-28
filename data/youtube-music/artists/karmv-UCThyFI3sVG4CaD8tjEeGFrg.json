@@ -365,5 +365,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m3bTJn_hrYCIJQ0SwCcW-jrf7bD5KMk58"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-28T04:06:41.424Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "karmv"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/-VFpGutctNUAgS141gfUdGOlKu1vIEnj7mgYUwOSCKZLTsUAIcKUeju4ocG4Bq8x0dnq3Duyppb_PTeT=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "не реви",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mUMUStNVefKshFGWTnqrHddyyOV7GpBqo"
   }
 ]

@@ -207,5 +207,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6YEA3m9zSRC2wEjIVwAWfB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-28T09:23:09.063Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Яка існуЄ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cfd6071e3c8c435af18c6096",
+    "releaseDate": "2025-12-27",
+    "tags": [
+      "ukrainian rock"
+    ],
+    "title": "Наш Маніфест",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5CnmUmlKpiF6JhKH1nKNmw"
   }
 ]

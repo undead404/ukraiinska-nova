@@ -1004,5 +1004,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0Yw00E9e7UV1YgAfXswNLO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-26T18:25:02.234Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Фрай"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27389cdeb700d07498d87dcc073",
+    "releaseDate": "2025-12-26",
+    "tags": [
+      "blues"
+    ],
+    "title": "Падаю",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0E5bS6trW43wEiemp9UIiR"
   }
 ]

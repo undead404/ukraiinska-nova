@@ -188,5 +188,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0yeNstJN3JZbvf7BqMSqhL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-27T21:27:01.330Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "pystelnukArt"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d8f41d02a3ed28b889e970b4",
+    "releaseDate": "2025-12-27",
+    "tags": [],
+    "title": "Щедрий вечір (щедрівка)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6WdfSxv19wXA4Kqq3PaLgd"
   }
 ]

@@ -196,5 +196,30 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4ORJnuaDDr12jfzoxpZFZY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-27T08:27:15.946Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "GRRRA",
+      "shi"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a2e380823ee8e7a4d7ee6aa4",
+    "releaseDate": "2025-12-26",
+    "tags": [
+      "ambient",
+      "rap",
+      "darkwave",
+      "dance"
+    ],
+    "title": "Зозуля (Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0Ah2WI2321CPUUCBJGpRR8"
   }
 ]
