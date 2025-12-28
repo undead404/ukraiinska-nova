@@ -267,5 +267,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5eJ6aifsV63hIfNnC44w0h"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-28T13:26:24.979Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Comechelet"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fccaff17c4ffdbe71b452c5c",
+    "releaseDate": "2021-12-18",
+    "tags": [],
+    "title": "Чиста вода",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1ZUAhVfBjc3I9fK5rgNL01"
   }
 ]
