@@ -1525,5 +1525,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3PQExoB1VTSz1N3J4cMzXC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-29T23:28:56.888Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739e30263316248f7e00f8325f",
+    "releaseDate": "2025-12-29",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Vortex Bloom",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6FwlO8r7NEkkd1u6XtHTGo"
   }
 ]

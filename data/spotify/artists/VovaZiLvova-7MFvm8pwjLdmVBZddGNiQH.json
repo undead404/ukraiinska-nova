@@ -1102,6 +1102,10 @@
       {
         "time": "2025-12-05T23:29:16.119Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-29T23:30:23.469Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1160,5 +1164,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0svjqIp4f6OVZMprohlXRc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-29T23:30:23.470Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VovaZiLvova",
+      "Morphom"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273180ad99042e6a3a210164f38",
+    "releaseDate": "2025-12-29",
+    "tags": [
+      "Hip-Hop",
+      "indie pop"
+    ],
+    "title": "Вчуся бачити",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3Pk4IDpzItBdoYAoV84Opt"
   }
 ]
