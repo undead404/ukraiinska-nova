@@ -525,5 +525,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0I4JMyfVjiiMYjeqHtzrzC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-29T19:24:31.747Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Reyfo"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27333670d1d97aae622de5dfe39",
+    "releaseDate": "2025-12-28",
+    "tags": [],
+    "title": "На Війну / На Войну",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/69PhRwNs4fmNLryH0gePqc"
   }
 ]
