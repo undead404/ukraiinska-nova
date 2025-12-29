@@ -775,5 +775,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6FSdrcRyiia7vAMSaY6bU5"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-29T21:21:53.774Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Павло Табаков",
+      "Natalka Karpa",
+      "Зіновій Карач"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c0910a0c2317a26b11f4a02c",
+    "releaseDate": "2025-12-29",
+    "tags": [
+      "dance"
+    ],
+    "title": "Покотилось колесо",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3UpfNuBUWYycl1KSAVM18K"
   }
 ]
