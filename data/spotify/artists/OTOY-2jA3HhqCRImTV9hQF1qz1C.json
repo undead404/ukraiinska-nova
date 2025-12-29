@@ -1125,5 +1125,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3tantstmws6LROZk1RjhKR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-29T12:30:21.405Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Uklon",
+      "OTOY",
+      "KLER"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e175bd4672fb7b772242020d",
+    "releaseDate": "2025-12-29",
+    "tags": [
+      "pop",
+      "rap"
+    ],
+    "title": "Новорічні радощі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0ZCjrCB8i8rUscG5ScUzay"
   }
 ]
