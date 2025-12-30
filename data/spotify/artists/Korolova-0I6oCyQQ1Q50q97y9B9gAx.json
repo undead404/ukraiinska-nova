@@ -1181,6 +1181,10 @@
       {
         "time": "2025-12-19T02:55:58.733Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-30T02:57:25.385Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1302,5 +1306,27 @@
     "totalTracks": 113,
     "type": "album",
     "url": "https://open.spotify.com/album/11hKL1GmHT30riBDSoNLoE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-30T02:57:25.386Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Markus Schulz"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b21918a6a2565e153fa5864b",
+    "releaseDate": "2025-12-26",
+    "tags": [
+      "trance",
+      "progressive trance"
+    ],
+    "title": "Year in Review 2025",
+    "totalTracks": 72,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5PAFh40fS4Tdaj5mlolvQd"
   }
 ]
