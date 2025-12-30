@@ -625,5 +625,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mAfDmH3TAyGsYe8TrO0BWRF_t-GH5uqPc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-30T22:47:13.724Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гошуля"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/0gQ2_vISnn77n0s0QEwSTwpzZbglbaj-uJkLcxln9ezXdKtOiqEcPnAzuaJsrerXOKg4zW43ajrn2OgNpQ=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Стан натур",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lRo3xeRyWAKA7uvoppUiKTIH1kc6XziM0"
   }
 ]
