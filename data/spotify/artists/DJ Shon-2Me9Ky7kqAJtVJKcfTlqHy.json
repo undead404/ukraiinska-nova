@@ -1052,5 +1052,26 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/3qHzTbtQfuE6W5FvgT2T8s"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-30T03:50:08.728Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DJ Shon"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27341e53f53b77a9b8cf29b5c2c",
+    "releaseDate": "2025-12-28",
+    "tags": [
+      "instrumental hip-hop"
+    ],
+    "title": "4 Culture",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4Gv1H5jmzspKxzwak16s6M"
   }
 ]
