@@ -1011,6 +1011,10 @@
       {
         "time": "2025-12-10T23:50:38.509Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-31T23:49:01.484Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1043,5 +1047,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l5xwwOAip7RM7EKCUYvC1ONxQlN90eDMI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-31T23:49:01.485Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ruslan Nota"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/tJTkCO4DmDSweNdS1G1dKBUUio12ZogqgbQGDaqP0USrnd1UEKgx15zWpAv9X4IL8IRU2ZNGDKyCYwA=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Квітка розмарія",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_khX4MVQ81dwi4WwUPqPeirrBx-p4tWDwo"
   }
 ]
