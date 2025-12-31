@@ -382,5 +382,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n9J7THQRut0VEkvn60owKs3X0_MNRV-aw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-31T18:52:41.296Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TIMA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/tocaMEBuVyfDoSggzcl8RORwOZ7KJXipmMNNNZWLDB1HgBg8LcSXa6QNDo8oOtMj_C-1m-eNyJUbkc52=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "lounge",
+      "downtempo"
+    ],
+    "title": "Тримай мене мамо",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l-CqipbMV_Rb17nuE_ah2F_k4hRGB_9K0"
   }
 ]
