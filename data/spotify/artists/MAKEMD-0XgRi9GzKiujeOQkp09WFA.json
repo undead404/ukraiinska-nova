@@ -778,5 +778,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1iMzePaYVl8g3FuoSKsdXi"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-31T03:51:40.236Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MAKEMD"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f2c6471bb961716a71ba7f77",
+    "releaseDate": "2025-12-29",
+    "tags": [
+      "techno"
+    ],
+    "title": "Йо-Йо (Dark Dance Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4FbY5VwuHRZ3AvyOlGsDrp"
   }
 ]
