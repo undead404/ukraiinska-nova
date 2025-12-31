@@ -736,6 +736,10 @@
       {
         "time": "2025-12-18T18:29:22.250Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-31T18:32:04.349Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -772,5 +776,26 @@
     "totalTracks": 12,
     "type": "single",
     "url": "https://open.spotify.com/album/006EPvpRWSSGyV6Lzv77ka"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-31T18:32:04.350Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Roland (UA)",
+      "Odarka",
+      "Alessandro Lega"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ade46670ee335ce1ca8eeeb2",
+    "releaseDate": "2025-12-18",
+    "tags": [],
+    "title": "Добрий вечір тобі (Alessandro Lega Remix)",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1HxlYhMgAgzErE6qq0R2F9"
   }
 ]
