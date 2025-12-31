@@ -540,5 +540,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3K9Fc1jiYu1UTN5Jb0X91H"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-31T20:27:21.947Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YOXDEN",
+      "Gario Nells"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a18e61ae00b29e4b26c57ee4",
+    "releaseDate": "2025-12-30",
+    "tags": [
+      "dance",
+      "electronic"
+    ],
+    "title": "ПРОСТО ТАК ВЗЯВ КОНЬЯК",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/24Q0ejTxDTGrM1KxwvzaxA"
   }
 ]
