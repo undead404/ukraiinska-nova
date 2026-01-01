@@ -1547,5 +1547,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6FwlO8r7NEkkd1u6XtHTGo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-01T23:28:41.959Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273db68be3441aa3e9b65d60ecc",
+    "releaseDate": "2025-11-27",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Quantum Field (Original Mix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7e3LuQNF15V5DlgHkuTc9v"
   }
 ]
