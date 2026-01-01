@@ -8,12 +8,16 @@
       {
         "time": "2025-10-30T19:26:29.783Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-01T19:27:31.418Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "The Pamphlets"
     ],
-    "artistsPopularity": 5,
+    "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cfb5eb908fdd3df5b8682a71",
     "releaseDate": "2023-05-30",
     "tags": [
@@ -56,12 +60,16 @@
       {
         "time": "2025-10-30T19:26:29.783Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-01T19:27:31.418Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "The Pamphlets"
     ],
-    "artistsPopularity": 5,
+    "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273026369beb434c20a88aeb88a",
     "releaseDate": "2025-03-28",
     "tags": [
@@ -82,12 +90,16 @@
       {
         "time": "2025-10-30T19:26:29.783Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-01T19:27:31.418Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "The Pamphlets"
     ],
-    "artistsPopularity": 5,
+    "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fd7cc2785bd510efc54343e1",
     "releaseDate": "2024-12-13",
     "tags": [
@@ -108,12 +120,16 @@
       {
         "time": "2025-10-30T19:26:29.783Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-01T19:27:31.418Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "The Pamphlets"
     ],
-    "artistsPopularity": 5,
+    "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734790920fc930f778a13c888a",
     "releaseDate": "2024-10-11",
     "tags": [

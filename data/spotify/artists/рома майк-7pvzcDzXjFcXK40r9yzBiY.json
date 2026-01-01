@@ -1139,5 +1139,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4xCtD59RNCovfmb5hySlzb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-01T19:21:52.407Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "рома майк"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738d5fc8eff224b56aa9a50e2c",
+    "releaseDate": "2025-12-31",
+    "tags": [
+      "rap"
+    ],
+    "title": "Микола Калкін",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0AZotSj4NDAFIKYOuD8i3I"
   }
 ]
