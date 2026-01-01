@@ -998,5 +998,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0jTz8YqUeccTKJFFhadfXn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-01T12:25:29.738Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ANGY KREYDA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739417657ccdd983fe50946091",
+    "releaseDate": "2026-01-01",
+    "tags": [
+      "pop"
+    ],
+    "title": "Класно",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1ruuveobqn8PS2VaA1jPOR"
   }
 ]
