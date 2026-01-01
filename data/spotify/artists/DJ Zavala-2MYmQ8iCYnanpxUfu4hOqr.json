@@ -831,5 +831,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1FORk4cyyh5sQbkWPPFMVt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-01T10:23:46.541Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Mordax Bastards",
+      "Get Better",
+      "Jeremy Carr"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734351f033e8f031ad6e6a30ea",
+    "releaseDate": "2019-08-16",
+    "tags": [],
+    "title": "We Only Have Tonight (The Remixes)",
+    "totalTracks": 12,
+    "type": "single",
+    "url": "https://open.spotify.com/album/006EPvpRWSSGyV6Lzv77ka"
   }
 ]
