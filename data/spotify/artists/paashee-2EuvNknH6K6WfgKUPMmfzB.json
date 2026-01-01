@@ -700,12 +700,16 @@
       {
         "time": "2025-12-31T09:26:57.565Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-01T09:26:37.416Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "paashee"
     ],
-    "artistsPopularity": 44,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733cf4a780cc2e01894c4e3b12",
     "releaseDate": "2021-05-14",
     "tags": [
