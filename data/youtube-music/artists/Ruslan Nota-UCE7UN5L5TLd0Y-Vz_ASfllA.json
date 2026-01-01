@@ -1066,5 +1066,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_khX4MVQ81dwi4WwUPqPeirrBx-p4tWDwo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-01T23:49:14.161Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ruslan Nota"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/WpBOnouqSd-rvlJHX3E2fUnV23sEdZAFLG2yL3m7IP_6pqmJGhlHZONNiGgYkhDG3VyEpzE79diupeE=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Розмова з маразмом",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kBzKr__uc2FPxwhwmbGFDXoF5yibOjWMk"
   }
 ]
