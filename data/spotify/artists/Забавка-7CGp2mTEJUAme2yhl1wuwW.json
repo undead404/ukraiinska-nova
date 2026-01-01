@@ -228,5 +228,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0psTSSwZWEUcbdQtKR2AUc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-01T17:20:44.436Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Забавка",
+      "Imagination Project"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d8845eca8dafd4f5028fca61",
+    "releaseDate": "2025-12-31",
+    "tags": [
+      "electronic",
+      "folk",
+      "world"
+    ],
+    "title": "Книга кохання",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5UmHbJwaNi6gyDEG0dpFeP"
   }
 ]
