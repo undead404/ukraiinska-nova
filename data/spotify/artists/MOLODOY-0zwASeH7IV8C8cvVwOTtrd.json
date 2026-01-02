@@ -663,5 +663,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7z1j4fzRUnPe65o3qOAFqF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-02T13:30:22.923Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MAYAK (DF)"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273561017a86116ecdffd9f6de6",
+    "releaseDate": "2026-01-02",
+    "tags": [],
+    "title": "Плани",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4uBD7zp0MnDf767It32zUv"
   }
 ]

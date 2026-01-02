@@ -208,5 +208,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6mDAYKSirq5x2djXhKb8Ie"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-02T13:30:35.924Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Netri"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739b13c336b9a34feb6df2c1bf",
+    "releaseDate": "2026-01-01",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Нерозпізнано німі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5SmKGvlCarZMmFON2iSPyc"
   }
 ]
