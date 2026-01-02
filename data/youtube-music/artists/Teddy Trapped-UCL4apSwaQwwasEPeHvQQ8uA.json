@@ -542,5 +542,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l0LIxb-prSYbJqs5k_uY4YxCEO-XRngSU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-02T19:47:10.313Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Teddy Trapped"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/0ge5EQzb3GAfuG-QkY3ep1mzL1PWUtyLbWy7b9U3rTCAospS50G3rGBoA-K00wWO2bpb6pEZxVE0NgZZ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop rap"
+    ],
+    "title": "кусай мене",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lbT3zuwMUpfTKlz16M-KDLvZNOeuKx3pc"
   }
 ]
