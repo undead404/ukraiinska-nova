@@ -521,5 +521,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/51X3YpnTzOvthUyJjV3tUT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-02T18:23:45.060Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "скало"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732dd176c80c256460a3912be7",
+    "releaseDate": "2026-01-02",
+    "tags": [
+      "rap"
+    ],
+    "title": "Topchim",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2TagTKD3uclkjOaq1r9rRF"
   }
 ]
