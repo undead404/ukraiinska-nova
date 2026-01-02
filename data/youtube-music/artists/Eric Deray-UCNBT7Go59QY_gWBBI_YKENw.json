@@ -1809,6 +1809,10 @@
       {
         "time": "2025-09-22T17:45:56.497Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-02T17:48:01.042Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1990,5 +1994,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mtK2yMP0GDHXy8IVNsCaMtAFTldrmGOnU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-02T17:48:01.043Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Eric Deray"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/cmsIEX8OZFUPcQkRg7qlgQPonqyK1gO9PyzQLQTp3l0Y21NXD98Hl_cfxXSKhI05VMHfw_qBzqgni_6M=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Sandstorm",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l-iFdGfSmWZnLQxM4WzooIe0YlZe2Y7OY"
   }
 ]
