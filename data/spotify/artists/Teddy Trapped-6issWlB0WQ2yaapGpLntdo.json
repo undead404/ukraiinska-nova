@@ -407,5 +407,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3ndOJDR64LJq39FaUvDQyF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-02T06:28:12.374Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Teddy Trapped"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738790bd60c47cc30e9f736a42",
+    "releaseDate": "2026-01-02",
+    "tags": [
+      "pop rap"
+    ],
+    "title": "кусай мене",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6AJn6eB0oU1OfMzYK0nZ1i"
   }
 ]

@@ -124,5 +124,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4OdFLSvRydL8kuSq6cWpLR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-02T06:23:09.725Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Назарій Яремчук"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738beb93d24813794cfc7e943d",
+    "releaseDate": "2025-12-31",
+    "tags": [
+      "rock"
+    ],
+    "title": "Ти Щаслива Будеш (Folk Remix 2026)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5qk5RK9ZUDbgiH52fbX5JU"
   }
 ]

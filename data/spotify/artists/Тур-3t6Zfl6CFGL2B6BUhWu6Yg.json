@@ -501,5 +501,30 @@
     "totalTracks": 11,
     "type": "album",
     "url": "https://open.spotify.com/album/0v8WhybvMOxSkPwaQZft7h"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-02T06:24:14.557Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Тур",
+      "Гаррі Шульц"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f720a679a5f503ae5abaf69c",
+    "releaseDate": "2026-01-02",
+    "tags": [
+      "Hip-Hop",
+      "rock",
+      "underground hip-hop",
+      "rap"
+    ],
+    "title": "Шоу-біз",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/55aG7joFor7jZT9cTc42hr"
   }
 ]
