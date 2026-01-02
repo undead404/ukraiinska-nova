@@ -560,5 +560,49 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4geTv4k89wU2k9ACKWABp0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-02T01:54:55.698Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kadnay"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cf3ffa11c8dc3ed6b23719bc",
+    "releaseDate": "2017-07-27",
+    "tags": [
+      "electronic",
+      "indie pop"
+    ],
+    "title": "Freedom In My Mind",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3R4newupVLqsV0kY9wfe01"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-02T01:54:55.698Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kadnay"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730f490b24cb99869955e685d3",
+    "releaseDate": "2016-10-17",
+    "tags": [
+      "electronic",
+      "indie pop"
+    ],
+    "title": "You Know How I Roll",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6sRIt9MWdenkOzkKToO9Ev"
   }
 ]
