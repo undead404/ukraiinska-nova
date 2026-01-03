@@ -46,6 +46,10 @@
       {
         "time": "2025-09-23T05:19:52.800Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-03T05:20:36.678Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -237,5 +241,29 @@
     "totalTracks": 13,
     "type": "album",
     "url": "https://open.spotify.com/album/04vzMV9OmsbZb4Yqw2CbqU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-03T05:20:36.679Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ВІЙ",
+      "Леся Рой"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d995373840051e1ce3fb60dd",
+    "releaseDate": "2012-02-16",
+    "tags": [
+      "dark folk",
+      "folk",
+      "pop"
+    ],
+    "title": "Казки з Задзеркалля",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2FDp0POUJIlyiFFuFeEeff"
   }
 ]
