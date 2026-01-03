@@ -548,5 +548,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/69PhRwNs4fmNLryH0gePqc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-03T19:24:28.580Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Трикут"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eaaa89e44b62f294f9cbe13e",
+    "releaseDate": "2026-01-03",
+    "tags": [],
+    "title": "Ми Всі Одне",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/76P135rQOvHO2u0cxFivaX"
   }
 ]
