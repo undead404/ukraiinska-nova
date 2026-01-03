@@ -759,5 +759,26 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/3J0uCmdvqoCuGgS3RsZvNI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-03T16:26:32.135Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Nemo322"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f46e2c4d936bced02b70a21a",
+    "releaseDate": "2026-01-02",
+    "tags": [
+      "rap"
+    ],
+    "title": "СЛОНЗМУЗЛОМ (в районі)",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3xvqQ3BBaNLRUSJRHhGAqm"
   }
 ]
