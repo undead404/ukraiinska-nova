@@ -673,5 +673,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6OkMyCVP8e9F4pVlTSKsvG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-04T15:27:18.236Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "RAJA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27316236d56bbf81e9ba0af1c4c",
+    "releaseDate": "2026-01-04",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Geeza",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0zGkDLmv1VBbW8wGmgVibC"
   }
 ]
