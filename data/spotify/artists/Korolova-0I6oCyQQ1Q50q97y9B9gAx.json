@@ -1032,6 +1032,10 @@
       {
         "time": "2025-09-25T02:45:27.991Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-04T03:05:10.368Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1328,5 +1332,29 @@
     "totalTracks": 72,
     "type": "album",
     "url": "https://open.spotify.com/album/5PAFh40fS4Tdaj5mlolvQd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-04T03:05:10.368Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Armin van Buuren",
+      "Armin van Buuren ASOT Radio"
+    ],
+    "artistsPopularity": 6,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d91f54d239f9e381f338d540",
+    "releaseDate": "2026-01-01",
+    "tags": [
+      "electronic",
+      "trance",
+      "progressive trance"
+    ],
+    "title": "ASOT 1258 - A State of Trance Episode 1258 (Including A State Of Trance Showcase - Mix 028: Rub!k)",
+    "totalTracks": 57,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6en2rUxiPHFrlNMOyM6kGz"
   }
 ]
