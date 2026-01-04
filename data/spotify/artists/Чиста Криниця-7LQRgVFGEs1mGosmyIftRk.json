@@ -396,5 +396,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0Y91phxHKKNZmTIAB9I6IR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-04T20:23:54.787Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Чиста Криниця"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27356eb07141c939db88ec0cc94",
+    "releaseDate": "2026-01-02",
+    "tags": [
+      "nsbm",
+      "pagan metal"
+    ],
+    "title": "Первісний інстинкт",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2kn7J7c2YfbTUTr2tnnLQ3"
   }
 ]
