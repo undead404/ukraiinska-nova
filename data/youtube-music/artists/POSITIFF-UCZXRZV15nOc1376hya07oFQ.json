@@ -378,6 +378,10 @@
       {
         "time": "2025-12-24T08:52:25.791Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-05T08:54:31.553Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -391,6 +395,28 @@
       "pop rock"
     ],
     "title": "Це не сон (до к/ф \"Жив пес Сірко\")",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mfzyk4xvMT19EnWkr2ALYX32kk1klJMMk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-05T08:54:31.554Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "POSITIFF"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/uiSRrq4kwIZiKPLXVIRqjwA6Je0YWhSZ2RoCH5ygk_lw5t2FSLc1IlYshit-S7zOJptLEpfjY9eRVtQ=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop",
+      "pop rock"
+    ],
+    "title": "Це не сон (до к/ф «Жив пес Сірко»)",
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mfzyk4xvMT19EnWkr2ALYX32kk1klJMMk"
