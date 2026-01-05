@@ -265,5 +265,26 @@
     "totalTracks": 8,
     "type": "album",
     "url": "https://open.spotify.com/album/2FDp0POUJIlyiFFuFeEeff"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-05T05:25:56.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ВІЙ"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f23124eae8f0e4aafa12dab8",
+    "releaseDate": "2023-03-31",
+    "tags": [
+      "dark folk"
+    ],
+    "title": "Серед поля навесні (2022)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/52Ior9XqNkc8tPOUfdXbNn"
   }
 ]
