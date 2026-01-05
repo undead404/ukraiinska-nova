@@ -515,5 +515,24 @@
     "totalTracks": 16,
     "type": "album",
     "url": "https://open.spotify.com/album/7EFGtggm26K11fIt0dU5P8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-05T13:32:59.091Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TaeGotit"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27337c60155259794d5018ce7fd",
+    "releaseDate": "2026-01-05",
+    "tags": [],
+    "title": "The Most Hated",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0xXA6FX8YqU85MNHuNE8ZD"
   }
 ]
