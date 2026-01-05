@@ -421,5 +421,68 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1kYre9r0sJIiMrGK5o4zx2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-05T08:27:23.568Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Nia Barbia"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739a95d87c9703a2a34c1cf3fa",
+    "releaseDate": "2022-07-15",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Striptease",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1rU6AfDC0ixZmsiLlDhsAf"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-05T08:27:23.568Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Nia Barbia"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27351bb0e996be95b6c67ac2ce8",
+    "releaseDate": "2022-06-10",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Bitch from Ukraine",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1q6exCY1XHwqSon6PTHvbc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-05T08:27:23.568Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Nia Barbia"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730290cc34e0f7a5f53f70eff5",
+    "releaseDate": "2022-04-16",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Jackpot",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6PtJ3t3w3wz0AE8cctfA73"
   }
 ]

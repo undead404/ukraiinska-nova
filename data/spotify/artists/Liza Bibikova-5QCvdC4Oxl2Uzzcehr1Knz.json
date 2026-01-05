@@ -178,6 +178,10 @@
       {
         "time": "2025-12-29T08:26:28.213Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-05T08:26:28.539Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -192,6 +196,25 @@
       "pop",
       "rap"
     ],
+    "title": "Новорічні радощі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0ZCjrCB8i8rUscG5ScUzay"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-05T08:26:28.540Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Uklon"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e175bd4672fb7b772242020d",
+    "releaseDate": "2025-12-29",
+    "tags": [],
     "title": "Новорічні радощі",
     "totalTracks": 1,
     "type": "single",
