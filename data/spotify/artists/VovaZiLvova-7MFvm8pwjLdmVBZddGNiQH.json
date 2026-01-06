@@ -1032,12 +1032,16 @@
       {
         "time": "2025-12-30T23:30:04.420Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-06T23:30:30.129Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Frazé-Frazénko"
     ],
-    "artistsPopularity": 11,
+    "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b22a31d6387749c38236753d",
     "releaseDate": "2020-04-11",
     "tags": [],
@@ -1114,6 +1118,10 @@
       {
         "time": "2025-12-30T23:30:04.420Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-06T23:30:30.129Z",
+        "type": "LOST"
       }
     ],
     "artists": [
