@@ -24,10 +24,33 @@
       {
         "time": "2025-11-03T00:42:22.870Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-06T00:44:46.779Z",
+        "type": "LOST"
       }
     ],
     "artists": [
       "Соловйов Андрій"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dae0d73570248167b4302733",
+    "releaseDate": "2025-11-04",
+    "tags": [],
+    "title": "Балта Моя",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6v59Vc8RDYv1SCSQMGkl8p"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-06T00:44:46.779Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Андрій Соловйов"
     ],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dae0d73570248167b4302733",
