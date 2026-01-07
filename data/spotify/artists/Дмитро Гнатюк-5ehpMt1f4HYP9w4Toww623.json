@@ -439,5 +439,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/487dzMtify0yNi4BTZIyYO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-07T09:22:15.547Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Дмитро Гнатюк"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ed8749bc1ed5e5ab59c58eb8",
+    "releaseDate": "2026-01-03",
+    "tags": [
+      "opera"
+    ],
+    "title": "Мамо",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6WGGlYHklFACrGmRyxgpMH"
   }
 ]
