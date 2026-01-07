@@ -479,5 +479,24 @@
     "totalTracks": 6,
     "type": "single",
     "url": "https://open.spotify.com/album/5XJxAm63S82ubelRxE6d9H"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-07T18:26:03.540Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "$ilver $quad"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736425123e6c5cd18f8b15cb43",
+    "releaseDate": "2026-01-03",
+    "tags": [],
+    "title": "Kill Service",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2CxOMcaTt7sFQ37RFm7EOW"
   }
 ]
