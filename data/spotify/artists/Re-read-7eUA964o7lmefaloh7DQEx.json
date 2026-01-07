@@ -216,5 +216,27 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/17VeBvS5dtyRrRG2yQJ6ye"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-07T11:27:50.037Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Re-read"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27306c07c3d25207315a395c2b1",
+    "releaseDate": "2026-01-05",
+    "tags": [
+      "emo",
+      "midwest emo"
+    ],
+    "title": "Duvet (Ukrainian version)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/53rhP9d5fPl6Qy5ShGtSWV"
   }
 ]
