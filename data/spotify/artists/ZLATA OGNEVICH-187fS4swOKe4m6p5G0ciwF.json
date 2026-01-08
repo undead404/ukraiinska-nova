@@ -1657,5 +1657,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5XblAdeZ25DyNQfs9ISVsF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-08T14:30:10.301Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ZLATA OGNEVICH",
+      "Юля Юріна"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b781c75b4b493dc50c022de8",
+    "releaseDate": "2026-01-08",
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "title": "Беньки-Бубеньки",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5Gw8mdOMc6awALdikWwMUf"
   }
 ]
