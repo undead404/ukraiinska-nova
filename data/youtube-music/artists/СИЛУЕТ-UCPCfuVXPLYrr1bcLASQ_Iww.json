@@ -245,5 +245,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k-g9vifSlhX1SzpI8_BTKT_Q1DYJP43Gk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-08T08:51:48.113Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "СИЛУЕТ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/bdbq0tZlC-NrmrX1rX1pL1UTlZLCXW_IKZgB2SmPy6JRGnCIBPjVw_QFS-V-Gok-GzaOsONKohiQ6ODl=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [],
+    "title": "ніхто (окрім тебе) тебе не врятує",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kEwuh45UIDn5XK-I7G2kkpaeSFxbut1Fg"
   }
 ]
