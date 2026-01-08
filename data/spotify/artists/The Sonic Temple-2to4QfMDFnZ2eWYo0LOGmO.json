@@ -131,5 +131,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6z4J4c9vkk2FzKsPqBPAl5"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-08T08:28:27.649Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "The Sonic Temple"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273959f68caa6f82a8eab04aa4f",
+    "releaseDate": "2026-01-08",
+    "tags": [
+      "alternative metal",
+      "alternative rock"
+    ],
+    "title": "Moonage Daydream (Live)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/072QvSyNzlE3kW6HpgPudq"
   }
 ]
