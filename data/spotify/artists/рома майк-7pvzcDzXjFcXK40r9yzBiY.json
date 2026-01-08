@@ -1185,5 +1185,29 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/7fg4j03z6vQ2kgVXgsUnMh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-08T19:22:33.457Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "рома майк",
+      "Ekspert",
+      "Матвій М."
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f77e6f5ea97b87ef0da2d174",
+    "releaseDate": "2026-01-08",
+    "tags": [
+      "Neo-Soul",
+      "rap"
+    ],
+    "title": "Майкчек 1 2",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1Yshk7dUxiY2y06iqSzlAf"
   }
 ]
