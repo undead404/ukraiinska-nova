@@ -530,5 +530,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2PYp9SHbQjIXIcBQwZG7rO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-31T07:21:26.205Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Люцина Хворост"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732c249c0fa61640656b5575ed",
+    "releaseDate": "2025-12-31",
+    "tags": [],
+    "title": "Присвята Щедрику",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/27qBXEe45FLcirYxTsKBkc"
   }
 ]

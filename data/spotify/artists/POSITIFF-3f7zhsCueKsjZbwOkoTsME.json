@@ -485,6 +485,10 @@
       {
         "time": "2025-12-24T19:26:29.974Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-05T19:27:07.993Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -500,6 +504,30 @@
       "pop rock"
     ],
     "title": "Це не сон (до к/ф \"Жив пес Сірко\")",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4lLKRlAZPXcR9V2YZJjmsv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-05T19:27:07.994Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "POSITIFF",
+      "Юля Юріна"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739a7786ac74572f3fa8d1c8eb",
+    "releaseDate": "2025-12-24",
+    "tags": [
+      "folk",
+      "pop",
+      "pop rock"
+    ],
+    "title": "Це не сон (до к/ф «Жив пес Сірко»)",
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4lLKRlAZPXcR9V2YZJjmsv"

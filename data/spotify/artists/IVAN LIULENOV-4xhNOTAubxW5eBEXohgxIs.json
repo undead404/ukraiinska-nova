@@ -539,6 +539,10 @@
       {
         "time": "2025-12-19T03:47:08.527Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-07T03:52:03.750Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -551,6 +555,27 @@
     "releaseDate": "2025-12-18",
     "tags": [],
     "title": "Панічка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2XbM1RSqFmEQtW3LCUJkV3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-07T03:52:03.750Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Шугар",
+      "IVAN LIULENOV",
+      "REMIXER"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e4da2371bab8d61219178a21",
+    "releaseDate": "2025-12-18",
+    "tags": [],
+    "title": "Панічка (Remix)",
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2XbM1RSqFmEQtW3LCUJkV3"

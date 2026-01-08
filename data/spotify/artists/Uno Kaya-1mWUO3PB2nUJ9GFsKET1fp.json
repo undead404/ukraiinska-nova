@@ -1919,6 +1919,10 @@
       {
         "time": "2025-12-22T05:28:26.687Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-05T05:33:08.765Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1941,6 +1945,10 @@
       {
         "time": "2025-12-22T05:28:26.687Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-05T05:33:08.765Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1960,6 +1968,10 @@
       {
         "time": "2025-12-22T05:28:26.687Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-05T05:33:08.765Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1979,6 +1991,10 @@
       {
         "time": "2025-12-22T05:28:26.687Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-05T05:33:08.765Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1998,6 +2014,10 @@
       {
         "time": "2025-12-22T05:28:26.687Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-05T05:33:08.765Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2020,6 +2040,10 @@
       {
         "time": "2025-12-22T05:28:26.687Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-05T05:33:08.765Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2039,6 +2063,10 @@
       {
         "time": "2025-12-22T05:28:26.687Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-05T05:33:08.765Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2058,6 +2086,10 @@
       {
         "time": "2025-12-22T05:28:26.687Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-05T05:33:08.765Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2077,6 +2109,10 @@
       {
         "time": "2025-12-22T05:28:26.687Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-05T05:33:08.765Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2096,6 +2132,10 @@
       {
         "time": "2025-12-22T05:28:26.687Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-05T05:33:08.765Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2115,6 +2155,10 @@
       {
         "time": "2025-12-22T05:28:26.687Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-05T05:33:08.765Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2134,6 +2178,10 @@
       {
         "time": "2025-12-22T05:28:26.687Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-05T05:33:08.765Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2153,6 +2201,10 @@
       {
         "time": "2025-12-22T05:28:26.687Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-05T05:33:08.765Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2172,6 +2224,10 @@
       {
         "time": "2025-12-22T05:28:26.687Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-05T05:33:08.765Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2187,5 +2243,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/19hOBWyRtjwya3BCj4HOhT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-05T05:33:08.767Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Uno Kaya"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f2887940fe2ca52743b02b81",
+    "releaseDate": "2026-01-05",
+    "tags": [],
+    "title": "Слідами вітру",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3FwmDddDfkOS87yEvOIzsC"
   }
 ]

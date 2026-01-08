@@ -479,13 +479,17 @@
       {
         "time": "2025-11-13T08:29:19.962Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-04T08:29:05.666Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "To Eternity",
       "Daniel Otuonye"
     ],
-    "artistsPopularity": 33,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733358d9943af43074c45d3df8",
     "releaseDate": "2021-09-03",
     "tags": [
@@ -633,6 +637,10 @@
       {
         "time": "2025-11-12T08:29:40.914Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-04T08:29:05.666Z",
+        "type": "LOST"
       }
     ],
     "artists": [

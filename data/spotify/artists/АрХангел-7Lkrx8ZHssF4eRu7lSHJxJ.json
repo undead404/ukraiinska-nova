@@ -1187,5 +1187,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/59gVKtkb9TDAYcDVfhZFLT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-30T15:20:50.006Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АрХангел",
+      "Samopal"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a834307f31b83f869811af52",
+    "releaseDate": "2025-12-26",
+    "tags": [
+      "rock",
+      "hard rock",
+      "post-punk"
+    ],
+    "title": "Не надо миллионы",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4tBeENSj8d2eBVzYjg3Dyc"
   }
 ]

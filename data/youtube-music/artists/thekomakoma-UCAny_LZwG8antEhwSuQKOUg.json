@@ -680,5 +680,31 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nVeKXkl1gmJg4-G-HFgLbtMAklnmHJVl4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-31T02:29:01.741Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-01T02:35:34.982Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "thekomakoma"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/0GOKWG6cMCZ7Ehb7Z2wg7Xl6js0F17SnRzd55WdY-8h-jwE71Iq7Q6_2sKVTD-uRWKiRPygxJphr4qJwEA=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "dance",
+      "electronic"
+    ],
+    "title": "Б",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nyG69_ze8b4OYa3ft0LrvX1axzT8MqTx4"
   }
 ]

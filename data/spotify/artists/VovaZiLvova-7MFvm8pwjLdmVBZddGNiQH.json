@@ -1028,12 +1028,20 @@
       {
         "time": "2025-09-20T23:26:18.891Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-30T23:30:04.420Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-06T23:30:30.129Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Frazé-Frazénko"
     ],
-    "artistsPopularity": 11,
+    "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b22a31d6387749c38236753d",
     "releaseDate": "2020-04-11",
     "tags": [],
@@ -1102,6 +1110,18 @@
       {
         "time": "2025-12-05T23:29:16.119Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-29T23:30:23.469Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2025-12-30T23:30:04.420Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-06T23:30:30.129Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1160,5 +1180,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0svjqIp4f6OVZMprohlXRc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-29T23:30:23.470Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VovaZiLvova",
+      "Morphom"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273180ad99042e6a3a210164f38",
+    "releaseDate": "2025-12-29",
+    "tags": [
+      "Hip-Hop",
+      "indie pop"
+    ],
+    "title": "Вчуся бачити",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3Pk4IDpzItBdoYAoV84Opt"
   }
 ]

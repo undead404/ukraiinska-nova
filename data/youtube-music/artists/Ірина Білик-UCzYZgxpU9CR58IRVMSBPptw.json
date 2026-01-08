@@ -226,5 +226,28 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lFS2-_beS2v_AUWbudTgeYj_C8sDxGcRQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-31T02:26:31.391Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-01T02:33:00.240Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Irina Bilyk"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/NYwE1FoAH0G0nHzwsiMzgF8wEiT9-VQmIinshwoqwwnZiP-lDywJs76sSQVs1gAvDSfzB96_FQO4s2E=w544-h544-l90-rj",
+    "releaseDate": "2001",
+    "tags": [],
+    "title": "Країна",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kbcDzrxc_vYu3H8i0GcDXLynM2gBRCelY"
   }
 ]

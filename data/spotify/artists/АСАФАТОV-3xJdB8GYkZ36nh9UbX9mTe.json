@@ -1363,6 +1363,10 @@
       {
         "time": "2025-12-27T17:19:57.856Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-29T17:20:39.051Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1375,6 +1379,27 @@
       "pop"
     ],
     "title": "БОБЕР - ІНЖЕНЕР",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1R4se0o0xg3CFWUUsZ6JkU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-29T17:20:39.052Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АСАФАТОV"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c07c1915f1f91574301fa231",
+    "releaseDate": "2025-12-26",
+    "tags": [
+      "pop"
+    ],
+    "title": "БОБЕР",
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1R4se0o0xg3CFWUUsZ6JkU"

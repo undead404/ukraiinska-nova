@@ -378,5 +378,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nJJI38U2VxktU7JaGtr91riOTsKtGXImg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-28T16:51:14.091Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Makarenko"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/GmabdKf9x5IybHi8_A6L2serKIe03cUH2Z93XNU2tZ6QIPGTiWuf4TbnQn-4KB9OB_eq9ZBAZuCU68RR=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Любила і плакала (bid0nci0n remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n8r5RAHInBva5d0v6MWgCyNc1DKG-ajxw"
   }
 ]

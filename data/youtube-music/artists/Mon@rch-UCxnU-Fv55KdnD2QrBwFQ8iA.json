@@ -359,5 +359,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lUNQ_CNws3mHQmcxmfM9c2jI31OOfW8ik"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-28T21:47:39.296Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Mon@rch"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/GmabdKf9x5IybHi8_A6L2serKIe03cUH2Z93XNU2tZ6QIPGTiWuf4TbnQn-4KB9OB_eq9ZBAZuCU68RR=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Любила і плакала (bid0nci0n remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n8r5RAHInBva5d0v6MWgCyNc1DKG-ajxw"
   }
 ]

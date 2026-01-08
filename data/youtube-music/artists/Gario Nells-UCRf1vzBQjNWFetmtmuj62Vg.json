@@ -359,5 +359,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kLWIO1HuT3AMuG4PbZbg3akRAbr7O5B0g"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-30T08:51:31.851Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Gario Nells"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://lh3.googleusercontent.com/6j-Fbp5CuZzZBf7_c6I_VBfM9YmZZ44cyBlS6ZogYlzioTmDZdLKjhZKVuBGwb6KgSssLsLux1otQEt2PA=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "ПРОСТО ТАК ВЗЯВ КОНЬЯК",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mhhRlIkgIydv5zc1kYjxJrZxlndryNgw0"
   }
 ]

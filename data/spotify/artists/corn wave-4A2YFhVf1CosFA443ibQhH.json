@@ -443,5 +443,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/36S4SfSEZifZoFI2t7gVPx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-01T07:23:04.075Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "corn wave"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27363bb1c98bae6e1548abbceab",
+    "releaseDate": "2026-01-01",
+    "tags": [
+      "dream pop",
+      "shoegaze"
+    ],
+    "title": "new year theme 2026",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3zAcgnVr98aSJmlf8nh2Qv"
   }
 ]

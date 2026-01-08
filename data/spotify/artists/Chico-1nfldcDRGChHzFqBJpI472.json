@@ -437,5 +437,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5OWLOEPw1BqNT6tAKrLgiN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-04T03:54:13.791Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Chico",
+      "Markland"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27321261fb395e52d2a1a525a3e",
+    "releaseDate": "2026-01-03",
+    "tags": [
+      "Nu Metal"
+    ],
+    "title": "Tan Inna Yu Lane",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0yKIDtcPgCaWMtscRdAmKG"
   }
 ]

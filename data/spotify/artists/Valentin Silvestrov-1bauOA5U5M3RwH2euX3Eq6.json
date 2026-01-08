@@ -2087,6 +2087,10 @@
       {
         "time": "2025-12-11T03:52:53.052Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-07T03:57:53.578Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2682,6 +2686,14 @@
       {
         "time": "2025-12-16T03:54:58.953Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-30T03:59:51.540Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-08T03:57:08.453Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -2709,6 +2721,10 @@
       {
         "time": "2025-10-31T03:42:54.137Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-07T03:57:53.578Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -2944,6 +2960,10 @@
       {
         "time": "2025-12-11T03:52:53.052Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-08T03:57:08.453Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -3049,5 +3069,30 @@
     "totalTracks": 35,
     "type": "album",
     "url": "https://open.spotify.com/album/6N10yJCdJrFPfkNpXFQi8f"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-30T03:59:51.541Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Edvard Grieg",
+      "Antonio Vivaldi",
+      "Johann Sebastian Bach",
+      "Franz Liszt"
+    ],
+    "artistsPopularity": 6,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b1bbefd40b33207196817382",
+    "releaseDate": "2025-11-29",
+    "tags": [
+      "Classical",
+      "baroque"
+    ],
+    "title": "Morning Coffee Classical",
+    "totalTracks": 40,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7krPIkZqOB6CdByTksDGMB"
   }
 ]

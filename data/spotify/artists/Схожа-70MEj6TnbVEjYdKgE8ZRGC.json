@@ -1064,5 +1064,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0VLd2rzjlgFpH1OHO39ckA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-06T06:23:48.392Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Схожа"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a76253bff051870f28cfd500",
+    "releaseDate": "2026-01-06",
+    "tags": [
+      "pop",
+      "electropop"
+    ],
+    "title": "Зозуленька (live studio performance)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4pHPuNpf7cBTLRjhx0aZTQ"
   }
 ]

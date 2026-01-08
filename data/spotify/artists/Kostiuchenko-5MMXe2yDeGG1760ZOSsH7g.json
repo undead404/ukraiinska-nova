@@ -904,5 +904,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3KIMbmw1ctvWaoGpxZef4h"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-29T13:32:12.958Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kostiuchenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e25c65b662f63fab4b739dec",
+    "releaseDate": "2025-12-29",
+    "tags": [
+      "trap"
+    ],
+    "title": "PRIME",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/468wbZ7m95wOFhxvUXqGxV"
   }
 ]

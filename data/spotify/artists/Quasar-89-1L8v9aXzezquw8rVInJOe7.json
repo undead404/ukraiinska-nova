@@ -1525,5 +1525,53 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3PQExoB1VTSz1N3J4cMzXC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-29T23:28:56.888Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739e30263316248f7e00f8325f",
+    "releaseDate": "2025-12-29",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Vortex Bloom",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6FwlO8r7NEkkd1u6XtHTGo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-01T23:28:41.959Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-03T23:28:27.418Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273db68be3441aa3e9b65d60ecc",
+    "releaseDate": "2025-11-27",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Quantum Field (Original Mix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7e3LuQNF15V5DlgHkuTc9v"
   }
 ]

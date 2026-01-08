@@ -1112,5 +1112,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0kRBPAQY8Bp0HiLSDhepPi"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-01T17:31:33.465Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yaroslav Tretiak"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27381f946666cb19a712a2fb196",
+    "releaseDate": "2025-12-30",
+    "tags": [],
+    "title": "Endless Hope",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5vFHjEuXWqimnHaoNQbpdO"
   }
 ]

@@ -1711,5 +1711,44 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2IZbaEDwW3eYfudpu5vY2m"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-01T05:27:41.233Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ruslan Nota"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731c24429516c0fbfa598066fb",
+    "releaseDate": "2025-12-28",
+    "tags": [],
+    "title": "Розмова з маразмом",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4whcxUTTBEr0Prq2OuvJGd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-01T05:27:41.233Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Людмила Клименко",
+      "Ruslan Nota"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27337aa3ad5d9476f294b486a67",
+    "releaseDate": "2025-12-10",
+    "tags": [],
+    "title": "Квітка розмарія",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0XO9ga8unUKDCRPgz5cjm4"
   }
 ]

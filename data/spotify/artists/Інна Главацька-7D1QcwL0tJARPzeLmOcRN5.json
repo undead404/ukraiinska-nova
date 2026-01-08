@@ -504,5 +504,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6OhykIRTa2WRDoWmlkScoh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-31T08:21:42.939Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Інна Главацька"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738efbf89e4723f7cc06a82bfc",
+    "releaseDate": "2025-12-30",
+    "tags": [
+      "folk pop"
+    ],
+    "title": "Під мандаринку",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2WzzPOT9CsxCTWpEylG8CO"
   }
 ]

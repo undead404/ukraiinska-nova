@@ -631,5 +631,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5HZK6jsBjCWXpOOqTcQruy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-31T05:23:52.101Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гошуля"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c9569c79c0b9d8c8bfcf422e",
+    "releaseDate": "2025-12-30",
+    "tags": [],
+    "title": "Стан натур",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4OGE9GrP3I4zlsdAaB7sTj"
   }
 ]

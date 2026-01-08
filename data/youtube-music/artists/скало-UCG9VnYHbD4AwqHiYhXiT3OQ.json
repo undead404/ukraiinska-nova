@@ -371,5 +371,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nKoBkqKZHKrNrZt2kRu7el4BdMjwFV4Yk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-02T05:50:11.975Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "скало"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/vyMuHaNaAtAR4rasJ7NobgepU86WpjIZdSNPJQOLIU2no60vKVnoSeT-jsJ0oGJHXNO8K_umP2NRnbjc=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Topchim",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mVmVI3EqsRgWpcucMFMD1Q_xTAxxZqOIg"
   }
 ]

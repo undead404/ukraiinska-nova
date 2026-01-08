@@ -344,5 +344,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3aNrci6U7sTmqcFwFn8NAy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-03T01:55:34.114Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MARATTI"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731d16f774c063a80660695eb6",
+    "releaseDate": "2026-01-02",
+    "tags": [],
+    "title": "Вмираю",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7Jitoc5qwjEM5ybo13W9Nv"
   }
 ]

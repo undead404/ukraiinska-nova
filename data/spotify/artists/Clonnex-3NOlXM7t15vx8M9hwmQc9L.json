@@ -1203,5 +1203,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2pfvVNxKdFbT1EXPfU7HWE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-02T15:24:58.580Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Clonnex",
+      "Lizzzard"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e0e3723e533d6d764d595c27",
+    "releaseDate": "2026-01-02",
+    "tags": [
+      "rap"
+    ],
+    "title": "LOCKED IN",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6MlZk48j16sfcc9MBkSBVd"
   }
 ]

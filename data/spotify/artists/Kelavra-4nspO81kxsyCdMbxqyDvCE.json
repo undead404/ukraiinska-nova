@@ -402,6 +402,10 @@
       {
         "time": "2025-09-19T19:23:12.846Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-30T19:24:57.608Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -525,5 +529,43 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0I4JMyfVjiiMYjeqHtzrzC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-29T19:24:31.747Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Reyfo"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27333670d1d97aae622de5dfe39",
+    "releaseDate": "2025-12-28",
+    "tags": [],
+    "title": "На Війну / На Войну",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/69PhRwNs4fmNLryH0gePqc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-03T19:24:28.580Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Трикут"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eaaa89e44b62f294f9cbe13e",
+    "releaseDate": "2026-01-03",
+    "tags": [],
+    "title": "Ми Всі Одне",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/76P135rQOvHO2u0cxFivaX"
   }
 ]

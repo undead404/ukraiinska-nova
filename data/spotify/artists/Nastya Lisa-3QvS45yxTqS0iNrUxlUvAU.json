@@ -113,5 +113,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1DKQBHzjlwbndJat8UBWGB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-07T08:26:57.854Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Nastya Lisa"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cafc258de7b294a11a31bda5",
+    "releaseDate": "2026-01-07",
+    "tags": [],
+    "title": "Вірю",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1NuCSxAOQSZZEBhZfOkwPB"
   }
 ]

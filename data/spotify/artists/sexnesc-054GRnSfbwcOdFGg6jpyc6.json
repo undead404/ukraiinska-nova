@@ -465,5 +465,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3aKG3PCahBTtvbKo1SGkVZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-01T18:31:43.706Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "sexnesc"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f6901d01686e898e453abe47",
+    "releaseDate": "2025-12-31",
+    "tags": [
+      "alternative metal",
+      "Nu Metal"
+    ],
+    "title": "Сама Не Своя",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6az4pzBfvf8uNkf7EII16p"
   }
 ]

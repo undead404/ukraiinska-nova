@@ -192,6 +192,10 @@
       {
         "time": "2025-09-30T18:27:53.244Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-28T18:30:11.585Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -706,6 +710,10 @@
       {
         "time": "2025-12-14T18:28:31.883Z",
         "type": "LOST"
+      },
+      {
+        "time": "2025-12-28T18:30:11.585Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -728,6 +736,10 @@
       {
         "time": "2025-12-18T18:29:22.250Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-31T18:32:04.349Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -740,6 +752,52 @@
     "releaseDate": "2025-12-18",
     "tags": [],
     "title": "Добрий веір тобі (Alessandro Lega Remix)",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1HxlYhMgAgzErE6qq0R2F9"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-30T18:29:35.054Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-02T18:29:38.585Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Mordax Bastards",
+      "Get Better",
+      "Jeremy Carr"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734351f033e8f031ad6e6a30ea",
+    "releaseDate": "2019-08-16",
+    "tags": [],
+    "title": "We Only Have Tonight (The Remixes)",
+    "totalTracks": 12,
+    "type": "single",
+    "url": "https://open.spotify.com/album/006EPvpRWSSGyV6Lzv77ka"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-31T18:32:04.350Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Roland (UA)",
+      "Odarka",
+      "Alessandro Lega"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ade46670ee335ce1ca8eeeb2",
+    "releaseDate": "2025-12-18",
+    "tags": [],
+    "title": "Добрий вечір тобі (Alessandro Lega Remix)",
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/1HxlYhMgAgzErE6qq0R2F9"

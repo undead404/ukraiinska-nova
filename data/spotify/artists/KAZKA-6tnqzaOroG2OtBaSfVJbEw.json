@@ -1098,6 +1098,10 @@
       {
         "time": "2025-12-14T17:25:50.308Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2025-12-28T17:26:18.755Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1114,5 +1118,26 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/0p3pSECFvboUAULEFubOtp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-28T17:26:18.756Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROXOLANA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273be0a5a28d72647a84f256016",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "настрій: колядувати. Всі разом",
+    "totalTracks": 22,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0JEnTrY3SyoCVUNmKZMn5x"
   }
 ]

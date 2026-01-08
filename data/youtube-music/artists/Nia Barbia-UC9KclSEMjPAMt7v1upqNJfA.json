@@ -274,5 +274,68 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kSz2RSCtFF1ep-el3yjXyWj18GjPduMqU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-05T16:52:38.758Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Nia Barbia"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/FDY6gGMR6IwAByWdIr1rFTNN3RIgiGhU6tGD9A-48MY9Whl9SxWCDu1kfJMAs5dAbSF3aFFKR35SjyRFQA=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Striptease",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nBepom6OUDmhK_lVQ6GuegvycrNvTyx60"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-05T16:52:38.758Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Nia Barbia"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/Wnlxiqz_MbplYbYt8WcpnJ9jNq8ebtJ46cwHhUMNHAFaM38rPlQ2_5dveehcQHjW8cW4fKzV_8PY6Ww=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Bitch from Ukraine",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_khuEI2_Injh4ZgMLmRMmdaYzl7uF12KMQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-05T16:52:38.758Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Nia Barbia"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/QnUvq0J80f5YuFI0HOEa325r-Ue-vb6QU5wuWwG9SI0QZ9BrzapTmI6Ov7yuP1YXsuZrlsRBByTJOKYvHQ=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Jackpot",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nkUIEzzkXc3bcZi0EV6xmuw1Epj9i8SUo"
   }
 ]

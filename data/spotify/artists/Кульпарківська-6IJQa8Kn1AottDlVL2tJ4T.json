@@ -847,5 +847,71 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0glZKUlxz0bhTAThn9bI9L"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-29T20:21:35.291Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Кульпарківська"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732e6c2a50322cd3ba9e00c4b1",
+    "releaseDate": "2025-12-28",
+    "tags": [
+      "rap",
+      "underground hip-hop"
+    ],
+    "title": "шеновна (зі сраки версія)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5iSNrEnWcu04EbAEWwLSLd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-29T20:21:35.291Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Кульпарківська"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27399f458c629ba47c93ff86ba3",
+    "releaseDate": "2025-12-28",
+    "tags": [
+      "rap",
+      "underground hip-hop"
+    ],
+    "title": "пустити газ (live from срака)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5SiHKA1uQn2h6IG3bstthy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-29T20:21:35.291Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Кульпарківська"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738c37b575cb5028872277d7c0",
+    "releaseDate": "2025-12-28",
+    "tags": [
+      "rap",
+      "underground hip-hop"
+    ],
+    "title": "boga vkraly",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1WWyGmVZgOvhmJPZFgI5lo"
   }
 ]

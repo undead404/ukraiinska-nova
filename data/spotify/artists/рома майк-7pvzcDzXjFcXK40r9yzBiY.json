@@ -1139,5 +1139,51 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4xCtD59RNCovfmb5hySlzb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-01T19:21:52.407Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "рома майк"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738d5fc8eff224b56aa9a50e2c",
+    "releaseDate": "2025-12-31",
+    "tags": [
+      "rap"
+    ],
+    "title": "Микола Калкін",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0AZotSj4NDAFIKYOuD8i3I"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-06T19:21:35.489Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "рома майк",
+      "Воха"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27362ab29a9cbdd590327203707",
+    "releaseDate": "2026-01-06",
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "underground hip-hop",
+      "underground rap"
+    ],
+    "title": "Хай пощастить мені завтра",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7fg4j03z6vQ2kgVXgsUnMh"
   }
 ]

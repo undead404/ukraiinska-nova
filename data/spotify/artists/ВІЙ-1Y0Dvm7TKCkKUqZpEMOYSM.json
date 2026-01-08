@@ -46,6 +46,10 @@
       {
         "time": "2025-09-23T05:19:52.800Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-03T05:20:36.678Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -109,6 +113,10 @@
       {
         "time": "2025-09-23T05:19:52.800Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-07T05:21:13.580Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -187,5 +195,100 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4N2wAJn8kn4AXwSQAuUb46"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-31T05:23:40.282Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-01T05:21:41.248Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "ВІЙ"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733e92b9c07efc26f191413cd3",
+    "releaseDate": "2010-02-16",
+    "tags": [
+      "dark folk"
+    ],
+    "title": "Йшов я небом",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6osbHZf3IBn9FcDlqFSpbt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-31T05:23:40.282Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-01T05:21:41.248Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "ВІЙ"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737d962d5f4f953fbfd4e9d397",
+    "releaseDate": "1994",
+    "tags": [
+      "dark folk"
+    ],
+    "title": "Чорна рілля",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/04vzMV9OmsbZb4Yqw2CbqU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-03T05:20:36.679Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ВІЙ",
+      "Леся Рой"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d995373840051e1ce3fb60dd",
+    "releaseDate": "2012-02-16",
+    "tags": [
+      "dark folk",
+      "folk",
+      "pop"
+    ],
+    "title": "Казки з Задзеркалля",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2FDp0POUJIlyiFFuFeEeff"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-05T05:25:56.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ВІЙ"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f23124eae8f0e4aafa12dab8",
+    "releaseDate": "2023-03-31",
+    "tags": [
+      "dark folk"
+    ],
+    "title": "Серед поля навесні (2022)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/52Ior9XqNkc8tPOUfdXbNn"
   }
 ]

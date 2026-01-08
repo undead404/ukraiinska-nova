@@ -1101,5 +1101,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/78BoVoQ5Djm6aAqirlcQDt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-30T11:24:26.544Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Gaitana"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731c043f3dde70d24f8785ddb7",
+    "releaseDate": "2014-09-30",
+    "tags": [
+      "pop"
+    ],
+    "title": "Ти все, що в мене є",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/41jtmtik8nM8ZN9Duqf60G"
   }
 ]

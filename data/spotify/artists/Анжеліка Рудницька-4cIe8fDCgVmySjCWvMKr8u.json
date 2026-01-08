@@ -1406,5 +1406,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6FSdrcRyiia7vAMSaY6bU5"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-31T03:44:48.209Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Анжеліка Рудницька",
+      "Ада Роговцева",
+      "Катя Степанкова і родина"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731b4a0740ca0d1b91680d90d1",
+    "releaseDate": "2025-12-30",
+    "tags": [
+      "pop"
+    ],
+    "title": "Територія РіздвА. Дух нескорених. Ой у полі-полі виросла ялина",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7ahezXe2M5IoIiRFGH04ia"
   }
 ]

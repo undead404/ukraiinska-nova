@@ -1876,5 +1876,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3scIVRgC1BqamedM4Kvhys"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-02T12:26:45.978Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "drwncvnt"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737ae876b36f1bd2ab434c33c7",
+    "releaseDate": "2026-01-02",
+    "tags": [
+      "electronic"
+    ],
+    "title": "paprika parade slowed breakcore",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2LgMtq2zW2LW3e9KRF0cVZ"
   }
 ]

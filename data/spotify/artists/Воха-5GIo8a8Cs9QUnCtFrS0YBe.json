@@ -598,5 +598,30 @@
     "totalTracks": 20,
     "type": "album",
     "url": "https://open.spotify.com/album/2jjJkZlrTWj3cT2uRkh8eZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-07T08:21:36.382Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "рома майк",
+      "Воха"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27362ab29a9cbdd590327203707",
+    "releaseDate": "2026-01-06",
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "underground hip-hop",
+      "underground rap"
+    ],
+    "title": "Хай пощастить мені завтра",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7fg4j03z6vQ2kgVXgsUnMh"
   }
 ]

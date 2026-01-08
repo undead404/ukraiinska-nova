@@ -718,5 +718,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1ANGXLhe9Jyx6G6evqxqfW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2025-12-30T10:25:47.883Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Illaria"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273369a76ce4376520c2aa6b2ad",
+    "releaseDate": "2025-12-30",
+    "tags": [
+      "folk"
+    ],
+    "title": "Зелено древо",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5RGn4OSJ10uXp4vS35nfsQ"
   }
 ]

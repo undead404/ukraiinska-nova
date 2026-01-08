@@ -695,5 +695,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2gvCSnv4YIqx2EDMRjLgsh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-02T18:27:11.782Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Green House"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c631fb8070e46105ff280da4",
+    "releaseDate": "2026-01-02",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Кривий Ріг",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3QPIAISEkMRQtNRmmWXofy"
   }
 ]

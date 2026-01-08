@@ -2195,5 +2195,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6vgpIsY08Ka5QLod3XEhDn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-08T10:24:57.773Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Eric Deray"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737978b0b3afd278e490b91158",
+    "releaseDate": "2026-01-02",
+    "tags": [],
+    "title": "Sandstorm",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4hwvfkvkY4Yk6PhLwxIo8Y"
   }
 ]

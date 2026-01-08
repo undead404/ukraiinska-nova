@@ -1005,5 +1005,24 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/2uw2BNxdbo1Gg9OjaPEkWL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-01T21:20:46.466Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Жахіття"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732e84730891403c901621d847",
+    "releaseDate": "2026-01-01",
+    "tags": [],
+    "title": "Залікуй мене(Сора Сіруха)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0JfHNJOW09Zu9TvGO38eja"
   }
 ]

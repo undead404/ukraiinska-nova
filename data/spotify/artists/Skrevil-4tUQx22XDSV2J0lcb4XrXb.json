@@ -154,5 +154,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1EIXCEdQuFo5PhZRWEBne7"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-07T01:57:44.531Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Skrevil"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e9a606d658d7d31feebb6718",
+    "releaseDate": "2026-01-06",
+    "tags": [],
+    "title": "Night Terror",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6gE12s7isXbfvZeUyjN8ne"
   }
 ]

@@ -3705,5 +3705,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3jtFf0iCpdX2OgAml7ik1w"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-03T03:50:31.965Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27345cb8ba3235e08bff4affc43",
+    "releaseDate": "2026-01-02",
+    "tags": [],
+    "title": "Горизонт",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5tsWVyWRvUJ55e5HFQ6UrJ"
   }
 ]
