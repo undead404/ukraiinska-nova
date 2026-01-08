@@ -132,7 +132,14 @@ export class SpotifyService {
       const albumResponse = await this.spotifyApi.getAlbums(
         albumsChunk.map(({ id }) => id),
       );
+      if (albumResponse.statusCode >= 400) {
+        console.error(albumResponse.body);
+        throw new Error(`Error ${albumResponse.statusCode}`);
+      }
       const albumsDetails = albumResponse.body.albums;
+      if (albumsDetails.some((details) => !details)) {
+        console.warn(albumsDetails);
+      }
 
       const chunkReleases = albumsDetails.map((albumDetails) =>
         mapSpotifyAlbumDetailsToMusicRelease(albumDetails),
