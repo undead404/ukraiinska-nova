@@ -111,12 +111,16 @@
       {
         "time": "2026-01-07T09:27:42.148Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-08T09:26:50.884Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "ROMMEDIA"
     ],
-    "artistsPopularity": 0,
+    "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730cbe4a28947dceebf925dcc3",
     "releaseDate": "2025-10-11",
     "tags": [],
@@ -305,12 +309,16 @@
       {
         "time": "2026-01-07T09:27:42.148Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-08T09:26:50.884Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "ROMMEDIA"
     ],
-    "artistsPopularity": 0,
+    "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738080225c48da15e236695cf5",
     "releaseDate": "2025-12-22",
     "tags": [],
