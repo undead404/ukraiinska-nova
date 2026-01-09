@@ -142,5 +142,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6rvWfXdhwpiFQJaJvBsPgZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-09T05:25:06.073Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kuaskio",
+      "Liesad"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c2c53fba1f0a4e630cb9490e",
+    "releaseDate": "2025-11-07",
+    "tags": [
+      "indie pop",
+      "post-punk"
+    ],
+    "title": "de tu",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6amiFqj3jPX8K5hx8vCcft"
   }
 ]
