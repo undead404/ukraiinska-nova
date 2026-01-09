@@ -1026,5 +1026,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/03vxpu706SXc72iDgVhCRD"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-09T17:29:02.630Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PROBASS ∆ HARDI"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730ec92e0893f245c43bf5975f",
+    "releaseDate": "2026-01-08",
+    "tags": [
+      "EDM"
+    ],
+    "title": "Коріння",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1rxXLtPItRhz0r29yChoNf"
   }
 ]
