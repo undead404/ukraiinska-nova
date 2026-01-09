@@ -436,5 +436,24 @@
     "totalTracks": 12,
     "type": "album",
     "url": "https://open.spotify.com/album/7IppcWylLc4tXAaYeaLrGE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-09T23:31:08.387Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sonnium"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27306bc7f9138f01483f1a999f8",
+    "releaseDate": "2026-01-09",
+    "tags": [],
+    "title": "Без питань",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5XkvpDurzAX39E80PxPRWq"
   }
 ]
