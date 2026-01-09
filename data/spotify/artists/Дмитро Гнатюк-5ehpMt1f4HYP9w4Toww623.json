@@ -460,5 +460,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6WGGlYHklFACrGmRyxgpMH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-09T09:22:07.264Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Дмитро Гнатюк"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273da4e8d36bc7b4904e724f491",
+    "releaseDate": "2000",
+    "tags": [
+      "opera"
+    ],
+    "title": "Маритана",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2cceuDhGbPSXJvb1dZyEw7"
   }
 ]
