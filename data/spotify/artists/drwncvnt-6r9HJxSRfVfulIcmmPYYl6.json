@@ -1897,5 +1897,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2LgMtq2zW2LW3e9KRF0cVZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-09T12:27:15.695Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "drwncvnt"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fe2e3951987705ce7beeb7c8",
+    "releaseDate": "2026-01-09",
+    "tags": [
+      "electronic"
+    ],
+    "title": "digital snowflakes",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5vLWdR8WuOpgKSlxk7tWsD"
   }
 ]
