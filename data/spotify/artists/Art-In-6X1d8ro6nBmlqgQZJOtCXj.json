@@ -447,5 +447,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4VqCdTmWdWVnWgtCD8JnAo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-09T19:23:52.231Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Art-In"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273afe265d8f13dcd5605345b74",
+    "releaseDate": "2026-01-09",
+    "tags": [],
+    "title": "Deepest Dream",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4nvE0oRVUKZiYAigvI4sR0"
   }
 ]

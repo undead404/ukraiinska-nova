@@ -218,5 +218,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2MwELcvPOFP4KlpwyXJ9cN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-09T19:22:49.587Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ризиковий План"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730dab42fbe104fa06075ed940",
+    "releaseDate": "2026-01-09",
+    "tags": [
+      "Garage Rock",
+      "alternative rock",
+      "indie rock"
+    ],
+    "title": "Вогні",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4l1Y1OmSGI4qalJ449MZis"
   }
 ]

@@ -292,5 +292,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5TUpC4mBrXNn3JTF2uS0qF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-09T19:22:11.465Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "краш тест"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27314804c64fb08ddfead3da47b",
+    "releaseDate": "2026-01-09",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "без//сила",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3vd7XCtVsEqfgleMptO0Af"
   }
 ]
