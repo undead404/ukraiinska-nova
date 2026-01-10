@@ -1106,5 +1106,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/477qxuITEFkNUCYWKkujwM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-10T00:45:25.445Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CHUPA 12"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731c60769a9d9600eb3ffedcc4",
+    "releaseDate": "2026-01-09",
+    "tags": [],
+    "title": "BASHMAKY",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3pKEnFfhsMINyNAlWHolhw"
   }
 ]
