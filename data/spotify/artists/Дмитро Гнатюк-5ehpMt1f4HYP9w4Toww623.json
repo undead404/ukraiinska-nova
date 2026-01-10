@@ -481,5 +481,47 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2cceuDhGbPSXJvb1dZyEw7"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-10T09:20:47.760Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Дмитро Гнатюк"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ccd52079eb71199cce50a09c",
+    "releaseDate": "2026-01-08",
+    "tags": [
+      "opera"
+    ],
+    "title": "Ніч така місячна (Ремастер 2026)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/01HqavNwLeGcqULwCepxBn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-10T09:20:47.760Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Дмитро Гнатюк"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a06aba8b41c078ed5917e448",
+    "releaseDate": "2026-01-08",
+    "tags": [
+      "opera"
+    ],
+    "title": "Дозвольте! Дозвольте! Пролог до опери ''Паяци''",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3VTLJzw29vYAGClvwZFgBy"
   }
 ]
