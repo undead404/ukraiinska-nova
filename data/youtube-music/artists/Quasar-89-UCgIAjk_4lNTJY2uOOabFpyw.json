@@ -1963,5 +1963,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n6msGvbZ4YqqOS5LMYQK7wzLZlO9b4ENc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-10T15:48:46.288Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/Hm6pMG_cOQZeFZL7mcrdRfxLveHFX9O5hDHYKi5WJJNaikCIESuKWD0gpAN1wkfu2F4Eygp1dSYLgTw-cg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Flame",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nV24tmkUK1zbTPQngIGjESL94gCxs70ZI"
   }
 ]
