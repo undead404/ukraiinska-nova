@@ -820,5 +820,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/335Y9ZRLDqfQzF181LMid9"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-10T03:48:27.729Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MAKEMD"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731815dcb1d1b812403b641279",
+    "releaseDate": "2026-01-09",
+    "tags": [
+      "techno"
+    ],
+    "title": "No Time to Die (Radio Version)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5knACJMwfB92rs8iYtT0Ij"
   }
 ]
