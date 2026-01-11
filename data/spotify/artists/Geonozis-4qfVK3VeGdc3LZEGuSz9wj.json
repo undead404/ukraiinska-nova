@@ -1098,5 +1098,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/58ue1tLbqUoR2yLe138H4n"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-11T06:25:51.956Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SEVERYNA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273099267b57e90f9546a4dbf63",
+    "releaseDate": "2022-12-13",
+    "tags": [],
+    "title": "Новий рік (Geonozis Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4x01MHOsY5RPtjEx3KADuz"
   }
 ]
