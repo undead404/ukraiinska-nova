@@ -694,5 +694,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0zGkDLmv1VBbW8wGmgVibC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-11T15:27:11.176Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "RAJA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b9c303578bf74175e92bf511",
+    "releaseDate": "2026-01-11",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Anuraya",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3aj5WjrsRN80Dl2dWkKEFE"
   }
 ]
