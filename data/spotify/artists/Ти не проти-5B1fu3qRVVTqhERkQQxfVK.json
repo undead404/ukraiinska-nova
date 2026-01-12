@@ -1,0 +1,44 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-12T13:32:39.308Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ти не проти"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739d22c89811793c293df9eb68",
+    "releaseDate": "2025-09-19",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Пливи, рибо, пливи",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2jeDQEeZxGAJYVWCpYOxsS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-12T13:32:39.308Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ти не проти"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273794ed2c6d206895a78548692",
+    "releaseDate": "2025-07-11",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "З тобою",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/60Oxq2R91HzkefDukJWuUm"
+  }
+]
