@@ -1985,5 +1985,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nV24tmkUK1zbTPQngIGjESL94gCxs70ZI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-12T15:52:40.335Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/iyYjnUGSn-X0lPwqFE0UUr6-mU9Gwo5DDYKFlwStGc2cK25D28i_PyhCHAYRA9lE9qrAKYUznutFzVk=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Through the Pain",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mn7s647UEiH0_Rrp5NO8kBJWe9w5pnZRw"
   }
 ]
