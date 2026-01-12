@@ -954,5 +954,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7AQqRxE91i1hn1yLtAzWxN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-08T16:21:33.756Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АНТИТІЛА"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27383611ca3ef21e0b628540753",
+    "releaseDate": "2026-01-08",
+    "tags": [
+      "rock"
+    ],
+    "title": "Відколи (Andi Vax Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6bYAK18AZMHUYxwN3uYdUj"
   }
 ]

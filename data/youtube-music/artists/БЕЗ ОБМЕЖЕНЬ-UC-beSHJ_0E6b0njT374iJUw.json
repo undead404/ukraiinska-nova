@@ -72,6 +72,10 @@
       {
         "time": "2025-11-21T12:58:39.529Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-10T12:59:08.261Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -358,5 +362,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_myKCfgrR7RBh7dKSyfhDOp14Aclg24WB8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-10T12:59:08.261Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "БЕЗ ОБМЕЖЕНЬ"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/O9Wr5FIkmemUgpu3RMyoTFNLBo5ju9hBWbG2wT17Xt8oSlN0-W2B_TScNyMNgSA7F0xJShEvHUzUhDkr=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [
+      "rock",
+      "rap"
+    ],
+    "title": "Краще 2021",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lhn-j3JSMGJWJ010MpCyVGibZ_v0apbH0"
   }
 ]

@@ -74,5 +74,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0zxoh0cBM6NbveZ1unKFmX"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-08T23:19:31.416Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "те, що більше ніж ліс"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732f5362c4b73562870cbfbc48",
+    "releaseDate": "2026-01-06",
+    "tags": [],
+    "title": "більше ніж ліс",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1gchIDyfq3MMPJbElCN20k"
   }
 ]

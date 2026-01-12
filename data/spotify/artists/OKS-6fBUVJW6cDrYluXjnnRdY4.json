@@ -616,5 +616,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4yl0RAFCKf3xKK4kqXYVBw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-09T02:58:07.344Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "OKS"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732b61ca3f2382899f191e986f",
+    "releaseDate": "2026-01-08",
+    "tags": [
+      "russian rock"
+    ],
+    "title": "Say it all",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4WEeYCybBDzgHjEvQdPXWh"
   }
 ]

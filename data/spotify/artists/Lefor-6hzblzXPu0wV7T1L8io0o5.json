@@ -1121,5 +1121,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7uIqsUsh3iXuLE2Xsbj4tZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-09T23:28:24.015Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lefor"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a492aae98b1488385763b471",
+    "releaseDate": "2026-01-09",
+    "tags": [
+      "rap"
+    ],
+    "title": "Рани",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1BROFd5R6tb0Hp5mRXAYLV"
   }
 ]

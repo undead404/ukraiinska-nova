@@ -798,5 +798,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3UpfNuBUWYycl1KSAVM18K"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-09T21:22:44.596Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SEVERYNA",
+      "Natalka Karpa"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737e3582dc8948ab08c66d1ffa",
+    "releaseDate": "2026-01-09",
+    "tags": [
+      "dance"
+    ],
+    "title": "Квіти",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/35pOfvXtd9QtcEzi9cUhe0"
   }
 ]

@@ -269,5 +269,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6NXFq5VXyPS7JWUmPhVT4Y"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-11T22:28:45.126Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Roman Lavruk",
+      "Zavadskyi"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bca33223215d166d9192c3ed",
+    "releaseDate": "2026-01-02",
+    "tags": [],
+    "title": "Та любімся файна рибко (Zavadskyi Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7dtNQHtAYiez6IokV6KNBs"
   }
 ]

@@ -2334,6 +2334,10 @@
       {
         "time": "2025-10-06T21:47:45.398Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-09T21:49:24.067Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2997,5 +3001,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lA6qwyQ1B9xiscy1s0oYZ-YnZsTpefDWU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-09T21:49:24.069Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/79AS0ODtqHi7TRqVcnLbEAEpmBBRs5BjFOmp96BsL-1JR_msP-NBUCyq-FL2QX1Pdr7VJ0lC_RiiGo4=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Штучні зірки",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lPiZ9anEstr_--k2RrGlLsrMYXWuVHT2M"
   }
 ]

@@ -252,5 +252,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5UmHbJwaNi6gyDEG0dpFeP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-09T17:21:06.004Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Забавка"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273542855650677c2a43520c4d0",
+    "releaseDate": "2026-01-09",
+    "tags": [
+      "folk"
+    ],
+    "title": "Магніт",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1OuXNMJ9vYzn8yrudcng30"
   }
 ]

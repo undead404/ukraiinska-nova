@@ -271,5 +271,24 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/2MHxLMtc6pKp3KJxxv8ZIj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-09T11:25:27.731Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KARYOTYPE"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a8027872ebd74f96ceb3ee93",
+    "releaseDate": "2026-01-08",
+    "tags": [],
+    "title": "DNA",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/72tarBu2OSvRAdzVCjuqNx"
   }
 ]

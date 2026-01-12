@@ -679,5 +679,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5C3FGj7F1dlskmMaaVdVeQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-09T23:28:00.780Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KHAYAT"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a35241609e8f890aee9a5364",
+    "releaseDate": "2026-01-08",
+    "tags": [
+      "folk"
+    ],
+    "title": "Герци",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6MlCMk3yb2HFgHAOeAbPFS"
   }
 ]

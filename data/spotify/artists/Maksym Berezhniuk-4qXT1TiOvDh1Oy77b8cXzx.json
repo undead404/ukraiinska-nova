@@ -39,5 +39,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5Rnvr5PJpvWugWiu4yTqlm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-08T19:26:51.551Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Troye Zillia",
+      "Banduragirl"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b0731e0f5f6e7fefa2d337ff",
+    "releaseDate": "2026-01-01",
+    "tags": [],
+    "title": "Koleda",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2Ka9lFKMJop0Nvxct8mLP6"
   }
 ]

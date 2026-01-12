@@ -1573,5 +1573,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7e3LuQNF15V5DlgHkuTc9v"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-09T23:30:12.469Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lucky Choice",
+      "Quasar-89"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c3d5ca14e8d302301caa8cf9",
+    "releaseDate": "2026-01-09",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Flame",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4yAD0hqheLcXogpSLbO3ZR"
   }
 ]
