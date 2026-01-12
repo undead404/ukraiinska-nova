@@ -1596,5 +1596,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4yAD0hqheLcXogpSLbO3ZR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-12T23:27:23.295Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273acf9178a4d653828bd829697",
+    "releaseDate": "2026-01-12",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Through the Pain",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1E7cvzNSkNA6FIX4w3ywbJ"
   }
 ]
