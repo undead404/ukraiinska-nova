@@ -937,5 +937,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0ZCjrCB8i8rUscG5ScUzay"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-13T01:53:19.110Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Культурні сили",
+      "Іван Ткаленко",
+      "Andrii Barmalii"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d73e23ab74febfeaa26d67ca",
+    "releaseDate": "2026-01-07",
+    "tags": [
+      "folk",
+      "jazz"
+    ],
+    "title": "Щедрик за реквіємом",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3dM63uh4cwL7TGHnMagm3r"
   }
 ]
