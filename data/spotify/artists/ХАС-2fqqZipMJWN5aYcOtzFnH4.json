@@ -1274,5 +1274,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3dVHZQP6BaBeFZ0BfB36CN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-13T17:24:05.812Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ХАС"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733efbc1576950b28c8b939ab3",
+    "releaseDate": "2026-01-13",
+    "tags": [],
+    "title": "Тече ріка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0mb4CsEOmsgq4PwWVdQZxG"
   }
 ]
