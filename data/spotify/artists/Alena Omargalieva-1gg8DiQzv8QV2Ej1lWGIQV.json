@@ -803,5 +803,26 @@
     "totalTracks": 14,
     "type": "album",
     "url": "https://open.spotify.com/album/70LhayN5Fvzbl43WJ9uQir"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-13T05:22:57.203Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alena Omargalieva"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736353ae0a0d18a54dd38a1511",
+    "releaseDate": "2026-01-13",
+    "tags": [
+      "pop"
+    ],
+    "title": "Не пʼяна – закохана (Acoustic Version)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2btOmZsin2hbwsHKRBIehG"
   }
 ]
