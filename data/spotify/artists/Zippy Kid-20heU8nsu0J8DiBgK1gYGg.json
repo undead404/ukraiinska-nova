@@ -38223,5 +38223,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6DtZLlMop4EwTc0BYeZMN8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-13T12:40:27.926Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Zippy Kid"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734a5f1fe27439e54633fd67e3",
+    "releaseDate": "2026-01-13",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Killing Angel in the Garden of Chaos",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0GEGQZP326ErRLBlR59xxf"
   }
 ]
