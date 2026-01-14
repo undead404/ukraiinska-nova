@@ -1117,5 +1117,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4x01MHOsY5RPtjEx3KADuz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-14T06:27:47.391Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SEVERYNA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736d15441c612a876f0b007063",
+    "releaseDate": "2022-02-14",
+    "tags": [],
+    "title": "Хочу (Geonozis Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3CgaFpAHKAJz42dvDWN75T"
   }
 ]

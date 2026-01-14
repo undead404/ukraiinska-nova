@@ -1006,5 +1006,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4OQnLBgwPhp2iyAkdFyPXk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-14T06:24:56.772Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Мята"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d5b1a764bffe59ada765daac",
+    "releaseDate": "2026-01-14",
+    "tags": [
+      "pop",
+      "rock"
+    ],
+    "title": "Апероль (Acoustic)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2zuQY3rG91vJAtKsWymVcy"
   }
 ]
