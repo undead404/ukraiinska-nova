@@ -137,6 +137,10 @@
       {
         "time": "2025-12-08T11:21:02.432Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-14T11:21:42.320Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -144,7 +148,7 @@
       "OSTY",
       "KAVA"
     ],
-    "artistsPopularity": 50,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730cbe2c1ee5ec0e9fe24ee2ad",
     "releaseDate": "2024-08-04",
     "title": "Білі ночі (Kava Remix)",
@@ -199,13 +203,17 @@
       {
         "time": "2025-12-08T11:21:02.432Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-14T11:21:42.320Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Маша Кондратенко",
       "KAVA"
     ],
-    "artistsPopularity": 46,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27362c886d2ba26ecdeaba1cedc",
     "releaseDate": "2024-04-19",
     "title": "un deux trois (Kava Remix)",
