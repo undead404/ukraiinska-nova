@@ -709,5 +709,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mz127pQg3gj9bvhUyH78RxOxUNvLxtp8g"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-14T23:47:35.704Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "GARNA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/NqdIyxSOdT1IWZGVltNzfwIjHOkI4WtOX3ZFAYmrxTpKQLU3vNSBl5JCY5tZY_exbyGfhvDJmu6Ip0NH=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop",
+      "electronic"
+    ],
+    "title": "Нейросценарій",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lGMwNln0m2OxR3PTC4h52RejtyL62A0lo"
   }
 ]
