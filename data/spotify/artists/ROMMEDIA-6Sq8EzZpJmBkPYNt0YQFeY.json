@@ -326,5 +326,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7C0xBtNco5czdG2KgSiERU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T09:27:23.591Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "kavabanga Depo kolibri",
+      "ROMMEDIA",
+      "QANO"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734e813c275172f4d43ea7666b",
+    "releaseDate": "2024-09-09",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Аромат (QANO, ROMMEDIA remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1Q3qsdQO8aLaoE4a77SKLR"
   }
 ]
