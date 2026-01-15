@@ -290,5 +290,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/52Ior9XqNkc8tPOUfdXbNn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T05:21:45.488Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ВІЙ"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d209c34f9cbbf8263690919d",
+    "releaseDate": "2006-03-18",
+    "tags": [
+      "dark folk"
+    ],
+    "title": "Хата скраю села",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5fATQtenSns8piYqUNLb4o"
   }
 ]

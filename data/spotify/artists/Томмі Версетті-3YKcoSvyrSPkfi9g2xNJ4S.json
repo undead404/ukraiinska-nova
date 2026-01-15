@@ -209,5 +209,43 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5saqYeXywSzw6CVE9m5HzW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T05:22:24.567Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Томмі Версетті"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c8978fafbde2087f96dd887c",
+    "releaseDate": "2024-03-17",
+    "tags": [],
+    "title": "Зі знижкою",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3aEOfONtx94PVGSCimjyLR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T05:22:24.567Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Томмі Версетті"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f0a766ecb0f36b961280c921",
+    "releaseDate": "2023-07-16",
+    "tags": [],
+    "title": "Барвами",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5jnNjpoCfU2ipxrBR5fmc0"
   }
 ]
