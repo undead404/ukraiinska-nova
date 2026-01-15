@@ -737,5 +737,24 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/00AA6196b1zPGSAlidNXg1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T16:26:39.720Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Томмі Версетті"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27345c46e9ae563a28a13e07213",
+    "releaseDate": "2023-02-04",
+    "tags": [],
+    "title": "Вітер",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5CZXT7NscIyLIYHCfxGdQJ"
   }
 ]
