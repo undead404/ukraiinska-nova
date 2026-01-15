@@ -925,5 +925,26 @@
     "totalTracks": 15,
     "type": "album",
     "url": "https://open.spotify.com/album/468wbZ7m95wOFhxvUXqGxV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T13:33:55.182Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kostiuchenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27363aefd0033ff6d215d0411d4",
+    "releaseDate": "2026-01-15",
+    "tags": [
+      "trap"
+    ],
+    "title": "клоунада",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0ply1USZg77AAU5o38x73F"
   }
 ]
