@@ -355,5 +355,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l2jqCiUWKT4Pf6jtUMLrI5uYBMShW5tSs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T03:20:28.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "OXANA TRACH"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/WUfsAsakCSYNWQAScFfyW823cbcAInPebqz4I6MDk40ryZQADTPzfT7pji_NELYw6NyZDaID9LpqMfKH=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Розтану",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mGu8J71SBcRxgM0Iqt1-LZshupX8ujEFw"
   }
 ]
