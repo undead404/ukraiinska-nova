@@ -375,5 +375,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4Tcx10pIeDaRORpGywQZq3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T06:28:05.851Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Oxana Trach"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736b36fcbdc3733b37788fb974",
+    "releaseDate": "2026-01-14",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Розтану",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/35lcLngycCHHy2WdbaYNXv"
   }
 ]
