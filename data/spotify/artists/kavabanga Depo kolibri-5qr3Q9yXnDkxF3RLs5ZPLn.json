@@ -2934,5 +2934,72 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3frjNU5EGMN7RVwYxeZwqz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T12:29:18.668Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "kavabanga Depo kolibri",
+      "QANO"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732c529ecb3a407132426ee098",
+    "releaseDate": "2025-06-08",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Віскі кола (QANO remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6qJyX8bilXt6XnpHmPPS4k"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T12:29:18.668Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "kavabanga Depo kolibri",
+      "ROMMEDIA",
+      "QANO"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734e813c275172f4d43ea7666b",
+    "releaseDate": "2024-09-09",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Аромат (QANO, ROMMEDIA remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1Q3qsdQO8aLaoE4a77SKLR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T12:29:18.668Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "kavabanga Depo kolibri",
+      "QANO"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c95475f463087e018cbc090a",
+    "releaseDate": "2024-08-01",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Убий мене (QANO remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5HU411Sj583w8BbwpvAmDj"
   }
 ]

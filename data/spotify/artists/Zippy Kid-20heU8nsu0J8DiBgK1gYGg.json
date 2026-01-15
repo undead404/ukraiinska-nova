@@ -38244,5 +38244,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0GEGQZP326ErRLBlR59xxf"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T12:41:11.552Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Zippy Kid"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e924b5d04aba669fbbcbc2f1",
+    "releaseDate": "2026-01-15",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Anti-Severance",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6VC3hl3ecsWr54m9PzoDsg"
   }
 ]
