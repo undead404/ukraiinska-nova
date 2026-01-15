@@ -718,5 +718,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/62l0lMwMlcILztpXSykFAr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T11:23:16.156Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Baryk"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733b07552b7200b75733909fd1",
+    "releaseDate": "2026-01-15",
+    "tags": [
+      "pop rock",
+      "ukrainian rock"
+    ],
+    "title": "Танцюй",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4FYGnB8o0ovmoiTZQXyMPE"
   }
 ]
