@@ -684,5 +684,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m01CXGISFCmmnYbMvMoHic7R4xr0Atdog"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T07:48:56.645Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Baryk"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/XGmTRzbwIUfdDczGUP4Xz_brVcHUcwKiDU7siX2yWOsnwAnOGot7KOhYCjCU2uOTLCGCQxMEAmUZ9BR2=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop rock",
+      "ukrainian rock"
+    ],
+    "title": "Танцюй",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lrXKkxLUjd1BRO34oeFLMGOpDmMuU_xmo"
   }
 ]
