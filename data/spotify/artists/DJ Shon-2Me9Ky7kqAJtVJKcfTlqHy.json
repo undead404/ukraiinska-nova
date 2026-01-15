@@ -1073,5 +1073,542 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4Gv1H5jmzspKxzwak16s6M"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T03:52:19.498Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DJ Shon",
+      "Zombo",
+      "I Wannabe"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731e7204fadd7628d48a52b4ee",
+    "releaseDate": "2026-01-14",
+    "tags": [
+      "dubstep",
+      "instrumental hip-hop",
+      "rap"
+    ],
+    "title": "Дихає",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7itJSxIHzPiFWgRhvVaWJy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T03:52:19.498Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DJ Shon",
+      "Zombo"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734b086cd845dc23397c9bd349",
+    "releaseDate": "2026-01-14",
+    "tags": [
+      "instrumental hip-hop",
+      "rap"
+    ],
+    "title": "Дихає",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6YzSqfcXqkOrXBaJflerc2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T03:52:19.498Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Довгий Пес"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f47d0831a56086f9777b4dfb",
+    "releaseDate": "2020-02-25",
+    "tags": [
+      "rap"
+    ],
+    "title": "#олскул",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5orXynjmfRph3dTaPLn3p4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T03:52:19.498Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Young KF"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273327553d9a933f3669736e987",
+    "releaseDate": "2019",
+    "tags": [],
+    "title": "In KAP We Trust",
+    "totalTracks": 22,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0IHwMuVl5OJYT5B8ukamXk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T03:52:19.498Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Довгий Пес",
+      "Wootabi"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273122a7b65f8f80c744a26eea6",
+    "releaseDate": "2024-02-09",
+    "tags": [
+      "rap"
+    ],
+    "title": "Холодриґґа",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6MLckkaXXgWMosrwtbb5cO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T03:52:19.498Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Pero Culture Crew",
+      "ROPAN",
+      "dujina"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e2a50f94ef8771349bb1b015",
+    "releaseDate": "2025-05-18",
+    "tags": [
+      "dub",
+      "rap",
+      "reggae",
+      "dancehall"
+    ],
+    "title": "Глухий слухач",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0EqJHnQxZMVJpvpmT7face"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T03:52:19.498Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Pero Culture Crew",
+      "Shirkach",
+      "Limit White Line"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734a7eec7b03f8fbb89f2b5f4f",
+    "releaseDate": "2025-03-29",
+    "tags": [
+      "rap"
+    ],
+    "title": "Поки ми тут",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4b5CGqpdjtAE0ZKVa39FKE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T03:52:19.498Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Pero Culture Crew",
+      "Bob Croma",
+      "Wootabi"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273125d71c2300a64686eab0ea1",
+    "releaseDate": "2024-04-25",
+    "tags": [
+      "rap"
+    ],
+    "title": "The Hate",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/31kwjUmHDDiKlAixrrdBIS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T03:52:19.498Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Джонні Дивний",
+      "Notnow Tunes"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733d745dcaaa5417a860a86390",
+    "releaseDate": "2023-11-30",
+    "tags": [
+      "rap"
+    ],
+    "title": "Rapperisch Punkt",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4rOphm30mb2bxK10R7IaSK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T03:52:19.498Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Nemo322"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734ca1970609d29bbf2ff71b41",
+    "releaseDate": "2024-12-12",
+    "tags": [
+      "rap"
+    ],
+    "title": "Х.Л.А.М.2",
+    "totalTracks": 20,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3IRdXM3ekEZCHLUm1KTE7C"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T03:52:19.498Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Джонні Дивний",
+      "TAB"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27372337f04eab3edf75c7930cf",
+    "releaseDate": "2024-10-25",
+    "tags": [
+      "Hip-Hop",
+      "rap"
+    ],
+    "title": "Моменти",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5rBjrwh6oSshKOqGUj7yRE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T03:52:19.498Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Jointjay",
+      "KEYSEE"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b0cddde3ec0e8a8bf519ee02",
+    "releaseDate": "2025-03-21",
+    "tags": [],
+    "title": "Veni vidi vici",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/42yNFig1MSslSB8rVjXskp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T03:52:19.498Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Drud"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b4f1baf4607164878647cb27",
+    "releaseDate": "2014-09-15",
+    "tags": [
+      "black metal",
+      "Post-Black Metal"
+    ],
+    "title": "Balance",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/795zzSrcdZ1WB3Jf6bStSA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T03:52:19.498Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Notnow Tunes"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c6bc6a7e7757698708c52648",
+    "releaseDate": "2024-07-05",
+    "tags": [],
+    "title": "Nightflowmotive",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7aZWhrSUhonaBjZjNfzE8U"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T03:52:19.498Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Денні Дельта",
+      "Максі кренк"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735f7d07862b4ece9fdf5b7b96",
+    "releaseDate": "2024-02-29",
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "underground rap"
+    ],
+    "title": "danksy",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3B8pRlisBDScXRovcOhsCB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T03:52:19.498Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Pero Culture Crew",
+      "Shirkach"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dffdfc5afe9adb19d2ec647e",
+    "releaseDate": "2024-04-21",
+    "tags": [
+      "rap"
+    ],
+    "title": "Generator",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4vwbzGY6AJarhshTGlijHm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T03:52:19.498Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Masta Q"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d7ce00380c2e071248382292",
+    "releaseDate": "2020-08-28",
+    "tags": [],
+    "title": "A.A.A",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/08N6eSeAxDyFPVXfCxBYxX"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T03:52:19.498Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Various Artists"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734f2e652556508f182a0b85da",
+    "releaseDate": "2023-04-07",
+    "tags": [],
+    "title": "Psychology of Beat",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7GYbstMenWsSMe5j17YECQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T03:52:19.498Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Dolla Bill Dillz"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27382afb194985670e49c451c42",
+    "releaseDate": "2020-07-14",
+    "tags": [],
+    "title": "DILLZ IN A DROUGHT",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6uyhACEOQ2NqJxcSFx2k92"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T03:52:19.498Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "M.Justa"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732a1b517eb03052a2094a2bb9",
+    "releaseDate": "2021-03-05",
+    "tags": [
+      "Drum and bass",
+      "jungle",
+      "dubstep",
+      "UK Garage"
+    ],
+    "title": "Levandovka EP",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0vmZ7RRhsf3TiLIMQtcfwD"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T03:52:19.498Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Pero Culture Crew",
+      "Leshanemoy",
+      "RAAMBeats"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b42b7e015f742ea39550cc97",
+    "releaseDate": "2024-03-27",
+    "tags": [
+      "rap"
+    ],
+    "title": "Ukraine Together",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/38zGwzlIHZEd8IwSHR978A"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T03:52:19.498Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Nemo322"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730ebe5476d7ca7e88b054b81f",
+    "releaseDate": "2022-10-13",
+    "tags": [
+      "rap"
+    ],
+    "title": "GYBU",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3YQTkkgtCVp8z8IuKjQYFD"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T03:52:19.498Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Dimych"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dc84e2ccae946bee5673fefe",
+    "releaseDate": "2025-06-08",
+    "tags": [],
+    "title": "В Такт",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5rfcawpzbTo0Xp2RP32HIR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T03:52:19.498Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Masta Q"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27310701c9771487541c1495e82",
+    "releaseDate": "2021-07-30",
+    "tags": [],
+    "title": "Born Hustler (Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5cUIxkdNAQmnKkpgqKAoKN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T03:52:19.498Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Masta Q"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273864b15b81a3e52a336c301df",
+    "releaseDate": "2020-01-22",
+    "tags": [],
+    "title": "Dark Nights",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/54KIcckW33Pp3b1Ir8CwyO"
   }
 ]
