@@ -359,5 +359,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3U54DlgX4nf1l5prBM7DPm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T19:28:30.205Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Skydan"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734ecb70f7743ed76be313bc79",
+    "releaseDate": "2025-03-14",
+    "tags": [],
+    "title": "Ісусе Довіряю Тобі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/527odtEsbVo5k8sN4hyGnX"
   }
 ]
