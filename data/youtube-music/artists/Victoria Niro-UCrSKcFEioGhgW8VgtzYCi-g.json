@@ -416,5 +416,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lMILpQNFJb9JQJk3M8j2xp0YDGiHw3CJ0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T19:50:35.839Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Victoria Niro"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/ECyHF2KO1q9rgu2rhoJn8-9CP6Qil2WP681CoJcnhDiay9smpIFZHb4i1w4RSLmAnQ3fkGMvRbpyAT0=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "In the dark",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mGd2ABVasTLyCdqTmBS5URibxgS3zvaJE"
   }
 ]
