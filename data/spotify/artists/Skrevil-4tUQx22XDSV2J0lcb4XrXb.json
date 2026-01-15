@@ -173,5 +173,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6gE12s7isXbfvZeUyjN8ne"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T01:58:00.904Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Skrevil"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27310b27f84d4709ada794fc473",
+    "releaseDate": "2026-01-14",
+    "tags": [],
+    "title": "Alone",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3olfWZPoyfws90L4v2ACIY"
   }
 ]
