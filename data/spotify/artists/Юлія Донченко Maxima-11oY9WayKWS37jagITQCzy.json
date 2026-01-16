@@ -169,5 +169,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/67cr3206bgT1zHa674WGKt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T06:24:19.417Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Юлія Донченко Maxima"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ef97f3d5ccd6ab2320741f69",
+    "releaseDate": "2026-01-16",
+    "tags": [],
+    "title": "Свято душі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0JMQoHfC2F91qZ7ZItIGCD"
   }
 ]

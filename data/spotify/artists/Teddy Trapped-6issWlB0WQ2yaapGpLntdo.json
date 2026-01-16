@@ -428,5 +428,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6AJn6eB0oU1OfMzYK0nZ1i"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T06:28:17.788Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Teddy Trapped"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fe2cc79d00a431857f5c1d31",
+    "releaseDate": "2026-01-16",
+    "tags": [
+      "pop rap"
+    ],
+    "title": "хвилі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3QQapVjKVpBQDLLqWP7mR3"
   }
 ]
