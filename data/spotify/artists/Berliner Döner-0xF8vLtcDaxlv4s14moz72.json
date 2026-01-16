@@ -357,5 +357,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/77zFI6GJwqBA3TiAgM91Le"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T20:24:49.647Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Berliner Döner"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e71873e705a332508d35348a",
+    "releaseDate": "2026-01-16",
+    "tags": [
+      "rap"
+    ],
+    "title": "машинам-вулицям",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3AhfPM37N6nxUlL7ewPFGd"
   }
 ]
