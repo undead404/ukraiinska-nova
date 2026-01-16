@@ -1007,5 +1007,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3xlsCmKVNg5ZeUOpJ2JUUO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T17:23:44.165Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "keeroo",
+      "Хонест"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c2160c528b0423eb20d0a531",
+    "releaseDate": "2026-01-16",
+    "tags": [
+      "rap"
+    ],
+    "title": "Невроз",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2CZufxwoxUORrp1nt0eapP"
   }
 ]
