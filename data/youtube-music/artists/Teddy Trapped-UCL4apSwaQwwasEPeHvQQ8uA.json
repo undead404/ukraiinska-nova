@@ -563,5 +563,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lbT3zuwMUpfTKlz16M-KDLvZNOeuKx3pc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T19:47:06.189Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Teddy Trapped"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/UY_6S68l1JIDOKR3nDZSpCJ3MRT-KkuissheKFjs3NME_FftPQKUt5YIpMZe7kc9A4Sw1YCETB-w5xWp=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop rap"
+    ],
+    "title": "хвилі",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mI7sNw4yKBcRlaKhmciZvb9fgxbUS_i6E"
   }
 ]
