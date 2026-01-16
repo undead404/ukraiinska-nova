@@ -670,5 +670,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l7X12fwAsGnJpemxQv-5r5eHhBojRmsDE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T21:47:41.806Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BaWN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/S_IAJyzgdNgtaIFPmagA6kFCcjQ5RqdiFXityMosyFnLgAcczBzi8LxepK4-szTjCgN6tKlpfPKOAFkm=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Хороший громадянин",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m3JQRr0s3h5sP6gQ5oWPnIX6F08yXCBPw"
   }
 ]
