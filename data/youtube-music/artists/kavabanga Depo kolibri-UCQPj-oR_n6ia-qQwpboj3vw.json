@@ -2072,5 +2072,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nP1aroSRi_xP_kM6OkEIqCWaVSIwZBFoA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T10:51:22.401Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "kavabanga Depo kolibri"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/bbQ9DGZhYlVY275ckdw1JCrNIA-_IJODTQeQsywD5Op8YmjsdIpJkq7YCx8BncwrgUp5F-R7wRQH9iqmXw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "По проспекту",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_njZNz5FPa4HEZ277eHA3FiE-SQzsaVDBY"
   }
 ]
