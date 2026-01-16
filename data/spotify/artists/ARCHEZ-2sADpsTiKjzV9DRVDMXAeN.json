@@ -1998,5 +1998,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0GCbgmJCl1VReKGSHYAAwY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T07:22:25.267Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ARCHEZ"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d920557c879396fcce04bc92",
+    "releaseDate": "2026-01-16",
+    "tags": [
+      "phonk"
+    ],
+    "title": "RE METAMORPHOSIS",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5OZVBxoCndv1UIllt43U6e"
   }
 ]
