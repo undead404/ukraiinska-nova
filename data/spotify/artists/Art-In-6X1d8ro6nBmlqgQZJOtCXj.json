@@ -488,5 +488,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1j7umeuEf6Q31sIw5gQVcZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T19:22:55.085Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Art-In"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f7d8a16c44e3f9c3e22bf8aa",
+    "releaseDate": "2026-01-16",
+    "tags": [],
+    "title": "Vikhola",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1KlS97nniBRORhCoiZaSpg"
   }
 ]
