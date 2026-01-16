@@ -163,5 +163,26 @@
     "totalTracks": 12,
     "type": "album",
     "url": "https://open.spotify.com/album/2saieuWuuHQ30o3znTEQvE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T09:23:29.821Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ЩукаРиба"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27389d3558f943ce58424a95db4",
+    "releaseDate": "2026-01-15",
+    "tags": [
+      "folk"
+    ],
+    "title": "Моя Земля",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2XKgNMaVK9tAYQ6sk8Mm3d"
   }
 ]
