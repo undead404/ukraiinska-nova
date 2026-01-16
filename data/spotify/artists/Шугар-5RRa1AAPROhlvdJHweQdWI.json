@@ -914,5 +914,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2XbM1RSqFmEQtW3LCUJkV3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T08:22:33.940Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Шугар",
+      "Настя Борщ"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273da6ad6937ac7a68bc1be5750",
+    "releaseDate": "2026-01-15",
+    "tags": [],
+    "title": "Онліфанс",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4YpxKYGKKoaSALoMpnFcyj"
   }
 ]
