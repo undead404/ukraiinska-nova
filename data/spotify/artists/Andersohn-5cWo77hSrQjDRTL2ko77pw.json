@@ -39,5 +39,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/20LlTbbfZBx5GuFn2diFtP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T16:22:53.136Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Andersohn"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731e1d1acc17884ec57955d1ff",
+    "releaseDate": "2026-01-16",
+    "tags": [],
+    "title": "Сумує",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7BAZNLneKGO69gr0HO7rZt"
   }
 ]

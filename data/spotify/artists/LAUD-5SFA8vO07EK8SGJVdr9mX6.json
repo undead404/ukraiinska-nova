@@ -756,5 +756,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5CZXT7NscIyLIYHCfxGdQJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T16:25:34.552Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "LAUD"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735b8d6df5d93f219c73cfef4d",
+    "releaseDate": "2026-01-16",
+    "tags": [],
+    "title": "LIGHTKEEPER",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4rkkbJB7itjHx3YNqHazDE"
   }
 ]

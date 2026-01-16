@@ -632,5 +632,26 @@
     "totalTracks": 11,
     "type": "album",
     "url": "https://open.spotify.com/album/1z5TbywTIpWufwpeZxjVos"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T16:22:50.549Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ЯРРА"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e45b87beba245f85758cc5a6",
+    "releaseDate": "2026-01-16",
+    "tags": [
+      "folk metal"
+    ],
+    "title": "Люлька",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0Vzw7FnuBhBKF4EKGNfbgi"
   }
 ]

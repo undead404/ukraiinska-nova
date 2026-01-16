@@ -1522,5 +1522,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6VYG0hHSP8IvLl2Oql3bPN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T16:24:42.364Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Jerry Heil"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27305eeeca306e1b2c767ac293b",
+    "releaseDate": "2026-01-16",
+    "tags": [
+      "pop"
+    ],
+    "title": "CATHARTICUS (prayer)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6BaxdtefdTdELBbxuIdM2K"
   }
 ]
