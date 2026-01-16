@@ -920,5 +920,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lWade6tfhulmRLmg_tC9eHDySWvP5ckQw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T05:50:54.234Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "keeroo"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/PjDDsPAZXHBKD2L4kqBh4jUq4RHYRVQHxZhHlfO9ELx_Dc7b3OQcC4uHW_tMzBZHYHi8rTpzINbRS1KHhQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Невроз",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_neSvu-szW7avfN2tiPloVvVlu6BLOcdGc"
   }
 ]
