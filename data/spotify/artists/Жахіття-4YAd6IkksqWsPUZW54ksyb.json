@@ -1024,5 +1024,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0JfHNJOW09Zu9TvGO38eja"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T21:20:39.277Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Жахіття"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dce9fc7bc5ba94afc0ed8e66",
+    "releaseDate": "2026-01-16",
+    "tags": [],
+    "title": "Білий стяг",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0eB7B4QtzFGKWCOjngTsGb"
   }
 ]
