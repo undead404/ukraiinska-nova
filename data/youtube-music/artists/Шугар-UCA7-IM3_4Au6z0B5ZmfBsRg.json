@@ -969,5 +969,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mZTcGZ0fVHnhM8tzEln3Me1ZXHaAqWpdE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T15:49:18.239Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Шугар"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/1tg9gpFGFmTjRajI4-kPDwQLheRTAIBR0GH2K_sei3b6gy6Lgkh65F4zGbbUE8DlHJaFCKQOYs-THAEWmA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Онліфанс",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n90GiRME8cTNfjOV6q5Cd5DWp5b3gLpyo"
   }
 ]

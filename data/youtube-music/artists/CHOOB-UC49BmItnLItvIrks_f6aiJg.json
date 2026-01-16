@@ -481,5 +481,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kMwkRlPJ_ckJhd-jdBKxewhILrZ25AGu8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T15:49:34.760Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CHOOB"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/p1nokRbztcj5WzEb6brNnIMbXck1sCoIxpmhCzdZO76FxGr8Iq_BlioFLChOFLUmdMVqgs_iobUMHXg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Часи",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kiOiYIPWumwOzhFp_GG7g0n38Xy9XOqKw"
   }
 ]
