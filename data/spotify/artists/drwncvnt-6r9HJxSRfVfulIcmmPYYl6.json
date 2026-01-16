@@ -1918,5 +1918,26 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/5vLWdR8WuOpgKSlxk7tWsD"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T12:26:34.751Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "drwncvnt"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732d6408183c47915bb91bf147",
+    "releaseDate": "2026-01-16",
+    "tags": [
+      "electronic"
+    ],
+    "title": "gaster's theme breakcore",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6gniRclKyOv3NrbQVr0NxG"
   }
 ]
