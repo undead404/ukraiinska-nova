@@ -234,6 +234,10 @@
       {
         "time": "2026-01-15T05:22:24.567Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-16T05:21:41.609Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -247,5 +251,101 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5jnNjpoCfU2ipxrBR5fmc0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T05:21:41.609Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Томмі Версетті",
+      "Тася"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f0a766ecb0f36b961280c921",
+    "releaseDate": "2023-07-16",
+    "tags": [],
+    "title": "Барвами",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5jnNjpoCfU2ipxrBR5fmc0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T05:21:41.609Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Томмі Версетті"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27345c46e9ae563a28a13e07213",
+    "releaseDate": "2023-02-04",
+    "tags": [],
+    "title": "Вітер",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5CZXT7NscIyLIYHCfxGdQJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T05:21:41.609Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Томмі Версетті"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ce5b3ac1f0471ba5855e8009",
+    "releaseDate": "2023-02-04",
+    "tags": [],
+    "title": "Відпускаю",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/18gU1UTndGaluT8WL7R7qg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T05:21:41.609Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Томмі Версетті"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735bdc1fb2dcd561801910f012",
+    "releaseDate": "2023-01-31",
+    "tags": [],
+    "title": "Одна на мільйон",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3Gb7wfaPbmyjSMtuN8GFcu"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T05:21:41.609Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Томмі Версетті"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27388abb6e06fb31a5a7598599b",
+    "releaseDate": "2023-01-31",
+    "tags": [],
+    "title": "Намалюй",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6VPtBtOAHuQceSnkfpZn96"
   }
 ]
