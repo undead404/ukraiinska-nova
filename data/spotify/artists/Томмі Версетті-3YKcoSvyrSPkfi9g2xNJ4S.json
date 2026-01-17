@@ -347,5 +347,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6VPtBtOAHuQceSnkfpZn96"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-17T05:21:07.864Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Томмі Версетті",
+      "MAEVE"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f3fefa0c8908362a330a48c8",
+    "releaseDate": "2023-02-04",
+    "tags": [
+      "pop"
+    ],
+    "title": "Мені тебе не треба",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5BhuUohHHiyT7G9ez3VT8l"
   }
 ]
