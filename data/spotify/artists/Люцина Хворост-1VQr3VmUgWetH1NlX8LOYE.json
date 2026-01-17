@@ -549,5 +549,24 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/27qBXEe45FLcirYxTsKBkc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-17T07:20:25.507Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Люцина Хворост"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27313ea7a79aeec02c4d82cf73a",
+    "releaseDate": "2026-01-11",
+    "tags": [],
+    "title": "Без сонця",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5g6ibppjWmW84IsBpLxRRn"
   }
 ]
