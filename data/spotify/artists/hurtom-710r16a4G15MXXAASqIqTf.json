@@ -229,5 +229,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3nEHKJIk7rxRkXRydXoQnj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-17T04:26:24.994Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "hurtom"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273238e77bc71db0adaf4baf89d",
+    "releaseDate": "2026-01-16",
+    "tags": [
+      "rock"
+    ],
+    "title": "Азуль",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0cuP1yhOq9PK9sf0sKNWKI"
   }
 ]

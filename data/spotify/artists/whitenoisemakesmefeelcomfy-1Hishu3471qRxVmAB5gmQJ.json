@@ -534,5 +534,27 @@
     "totalTracks": 13,
     "type": "album",
     "url": "https://open.spotify.com/album/02S523fv6pPpr4kHdBHzdR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-17T04:29:11.892Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Burned Time Machine"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c1848c3b346991cc638e8f8c",
+    "releaseDate": "2026-01-16",
+    "tags": [
+      "metal",
+      "metalcore"
+    ],
+    "title": "Жертва",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5q6r55ULEu1M2qrpwiA8wg"
   }
 ]
