@@ -376,5 +376,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n0A29d06TId6g6gfJs2rntWf9_CX5fvTQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-17T13:01:03.990Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Luna Rozza"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/lZrmvJRy7kJrQ2b3N3mZvKKrqHIyDbVIcos91rXGJTvtzSL-D5EmenxnjakDBao_4yNFVDIGyPH2EXbthg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Роздуми",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lZ1pY67Zp_wuyUKHbkswTPOudlVU-sPTk"
   }
 ]
