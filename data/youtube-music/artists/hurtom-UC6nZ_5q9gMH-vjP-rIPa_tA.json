@@ -254,5 +254,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kcVPfbxIrZG4ubl37Cqo1xUoOPtH0kYOY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-17T02:25:27.762Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Hurtom"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/cTBdYrjJ-UGDDsoPttLml2hOjnDcdiaYcLDUO3Xl1ZLsnM4Fp3376cYDPjCVBqSCZxO-0zQ2FTiDO7xX=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rock"
+    ],
+    "title": "Азуль",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mSlBm2BoGHZqCWXk_SNvblH8jQVaHD8CM"
   }
 ]
