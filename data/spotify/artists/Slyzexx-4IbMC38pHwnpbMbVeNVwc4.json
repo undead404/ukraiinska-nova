@@ -3743,5 +3743,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4iuUzCaQcrniHiu2OBHPBU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-17T03:49:46.901Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27352c362d5fc9acaa6293574c2",
+    "releaseDate": "2026-01-16",
+    "tags": [],
+    "title": "Loving you",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1SMjCCfenclMvukVm9feKg"
   }
 ]
