@@ -327,5 +327,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0yJk8ygHfNl6Ebn3Pgp0BX"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-17T18:30:33.794Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sidorskyi"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27395b4f0d3a779097353b22142",
+    "releaseDate": "2026-01-15",
+    "tags": [],
+    "title": "Генерація",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6HIavOAr0xOK0Ji9EwdSsM"
   }
 ]
