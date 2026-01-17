@@ -88,6 +88,10 @@
       {
         "time": "2025-09-22T18:49:02.899Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-17T18:51:11.856Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -334,5 +338,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lEHOYhiVE5hRQsY0Ex4FVMRZxHO-6G7L8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-17T18:51:11.857Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Moann"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/iToe72OqxYZa_qkBfmUZsUW9tmnX63cU8j4xuMNMC2hY519axsgi2-_2hKU0K2ZnIssrz-FjCQODE74=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "повітряний змій (feat. Вова Павловський, Кістеньов & Caronlil)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n-fWrLQKHGsrUXJcokFNOM__FjFiZTuqE"
   }
 ]
