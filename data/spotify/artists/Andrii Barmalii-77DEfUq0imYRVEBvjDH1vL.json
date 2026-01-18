@@ -447,6 +447,10 @@
       {
         "time": "2025-09-23T01:51:17.746Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-18T01:53:54.579Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -961,5 +965,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3dM63uh4cwL7TGHnMagm3r"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T01:53:54.580Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Stas Koroliov"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273efb5b2cd9c98a4c01de70aa9",
+    "releaseDate": "2024-04-19",
+    "tags": [
+      "post-rock",
+      "art rock"
+    ],
+    "title": "Round 2: Цифровий Утікач",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2hcskuu86zMddZwGDpHwuJ"
   }
 ]

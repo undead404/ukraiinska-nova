@@ -373,6 +373,10 @@
       {
         "time": "2025-10-14T01:59:00.143Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-18T01:58:10.549Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -476,5 +480,27 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/313ajnJOcZPIfIoe35zGIh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T01:58:10.550Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Stas Koroliov"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aedfa0dbd644c22d3d0fc82b",
+    "releaseDate": "2024-10-04",
+    "tags": [
+      "post-rock",
+      "art rock"
+    ],
+    "title": "R2:ЦУ live at Brave! Factory",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2feNFlUe8IwR4V3T64PXux"
   }
 ]
