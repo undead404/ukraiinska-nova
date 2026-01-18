@@ -937,5 +937,24 @@
     "totalTracks": 14,
     "type": "album",
     "url": "https://open.spotify.com/album/78owNp4lzRiLUIX5BQofsn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T05:24:59.398Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alex Fleev"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730247e7f1bcc461b616a77429",
+    "releaseDate": "2026-01-18",
+    "tags": [],
+    "title": "Predator",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1ETBLSM7zgt10wAdQzR2TW"
   }
 ]

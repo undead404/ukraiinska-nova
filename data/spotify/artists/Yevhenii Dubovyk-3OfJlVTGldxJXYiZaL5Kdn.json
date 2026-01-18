@@ -160,6 +160,10 @@
       {
         "time": "2025-09-23T05:25:14.524Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-18T05:31:26.422Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -633,5 +637,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/57I4KwqtVdKCysl37YoU2Z"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T05:31:26.422Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Stas Koroliov",
+      "Yevhenii Dubovyk"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27309ec702f4ec6cbd2b8a97d97",
+    "releaseDate": "2023-12-15",
+    "tags": [
+      "jazz",
+      "post-rock",
+      "art rock"
+    ],
+    "title": "Людина миру",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1kfJOequrpUqfjC5qWwtsj"
   }
 ]
