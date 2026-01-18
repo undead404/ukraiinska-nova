@@ -1403,5 +1403,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1R4se0o0xg3CFWUUsZ6JkU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T17:20:45.450Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АСАФАТОV"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e73a8c9449ea80fe8611275a",
+    "releaseDate": "2026-01-17",
+    "tags": [
+      "pop"
+    ],
+    "title": "ВСЕ ПО КАЙФУ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5U659UPKTw51sKcNWqzFkX"
   }
 ]
