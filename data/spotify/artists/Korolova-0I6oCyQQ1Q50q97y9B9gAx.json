@@ -1767,6 +1767,10 @@
       {
         "time": "2026-01-17T02:55:22.864Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-18T03:02:57.724Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1780,5 +1784,25 @@
     "totalTracks": 11,
     "type": "album",
     "url": "https://open.spotify.com/album/1lsFsMXqgaBJaPgH6AUdpH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T03:02:57.725Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Chill Executive Officer",
+      "Maykel Piron"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c086d505ebd3bec99a0c2332",
+    "releaseDate": "2022-08-05",
+    "tags": [],
+    "title": "Chill Executive Officer (CEO), Vol. 19 [Selected by Maykel Piron]",
+    "totalTracks": 20,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0d6wAmXVNRY5tRZVr0vgXV"
   }
 ]
