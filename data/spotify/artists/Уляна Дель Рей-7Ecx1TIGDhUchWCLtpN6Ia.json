@@ -362,5 +362,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4vTpT5iPxLrbcAIml3yzgn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-19T18:28:26.075Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Уляна Дель Рей"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735576d82091404e8b1520d3b7",
+    "releaseDate": "2026-01-19",
+    "tags": [
+      "pop punk"
+    ],
+    "title": "Уляна Дель Акустік (Live)",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0dB2l9JcHs4h5nLUAjuPB1"
   }
 ]
