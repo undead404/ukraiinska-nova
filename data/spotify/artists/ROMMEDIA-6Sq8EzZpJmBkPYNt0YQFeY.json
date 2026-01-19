@@ -349,5 +349,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1Q3qsdQO8aLaoE4a77SKLR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-19T09:31:05.804Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROMMEDIA"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27344d24eb5a9b9a36de1d0583d",
+    "releaseDate": "2026-01-17",
+    "tags": [],
+    "title": "Ідеально моя",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6ithMzxH0V2OaHnUvf3BaP"
   }
 ]
