@@ -18,5 +18,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1tpTSTq1UhGajj0j9cN1Kf"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-20T02:55:51.142Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Наталія Валевська",
+      "DJ VET"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27386bbea699df6ee855d075d9c",
+    "releaseDate": "2026-01-19",
+    "tags": [
+      "pop"
+    ],
+    "title": "Я - Українка (DJ VET Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1dFpgIEEV4GcvyOpeOBPZT"
   }
 ]
