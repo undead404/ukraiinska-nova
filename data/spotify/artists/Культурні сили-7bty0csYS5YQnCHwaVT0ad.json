@@ -337,5 +337,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3dM63uh4cwL7TGHnMagm3r"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-20T03:50:31.482Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ян Шипула",
+      "Культурні сили"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d2ae43d0067b5d644c68e883",
+    "releaseDate": "2026-01-19",
+    "tags": [],
+    "title": "Ще довго",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3fyirkltrcEUR7y38VXRFz"
   }
 ]
