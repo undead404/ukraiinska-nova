@@ -249,5 +249,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2LUnzKz4ybvguBkWJgaPZF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-20T21:30:29.628Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TOY MAYK"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aea290b7de5214c2f7dc279f",
+    "releaseDate": "2026-01-19",
+    "tags": [],
+    "title": "Хіба не чудо",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1RqAADuGPXGBVTydIfrJCO"
   }
 ]
