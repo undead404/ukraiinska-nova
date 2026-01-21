@@ -357,5 +357,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3fyirkltrcEUR7y38VXRFz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-21T03:50:12.768Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sasha Boole",
+      "Культурні сили"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735df3a5aadc122f3952909675",
+    "releaseDate": "2026-01-20",
+    "tags": [
+      "folk",
+      "country"
+    ],
+    "title": "Піхота короля",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/21oTwLLxsQqsMjxjHYKoL0"
   }
 ]
