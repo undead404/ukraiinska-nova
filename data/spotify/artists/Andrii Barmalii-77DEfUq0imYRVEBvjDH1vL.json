@@ -987,5 +987,27 @@
     "totalTracks": 9,
     "type": "album",
     "url": "https://open.spotify.com/album/2hcskuu86zMddZwGDpHwuJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-21T01:53:25.543Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Проспект Соборний",
+      "Andrii Barmalii"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273220263192a0b7bce23cb9c69",
+    "releaseDate": "2026-01-20",
+    "tags": [
+      "jazz"
+    ],
+    "title": "Порада",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1bu5x8ErS1dpYSfypU5pnU"
   }
 ]
