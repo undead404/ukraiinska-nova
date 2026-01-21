@@ -226,5 +226,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nDfcZGzZo9Nxo4vI-b3o_bf-Li62H0sXU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-21T04:08:14.187Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yan Zapolsky"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/ETCOfN0RBckErmq0VilFONmFD6Bq9cjJtT8ZYhgbmX7YCOMHOc-1_qONbvVA5VYkNQtJ-ie-Tv2sTgdT=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "One More Time",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kE9FseqHWLYD04L55XS-72dPsR6lxQR04"
   }
 ]
