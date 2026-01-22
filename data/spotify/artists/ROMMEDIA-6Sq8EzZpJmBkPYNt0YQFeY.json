@@ -372,5 +372,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6ithMzxH0V2OaHnUvf3BaP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-22T09:29:08.447Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROMMEDIA"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733baea28248a8e4f27f6e726d",
+    "releaseDate": "2026-01-20",
+    "tags": [],
+    "title": "В надійних руках",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6tJ2fhVFvtV0gyX5DGq87J"
   }
 ]
