@@ -202,5 +202,25 @@
     "totalTracks": 9,
     "type": "album",
     "url": "https://open.spotify.com/album/4x4FolLXQlSDzo3dZ2kQPG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T09:23:14.212Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Томмі Версетті",
+      "Тася"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f0a766ecb0f36b961280c921",
+    "releaseDate": "2023-07-16",
+    "tags": [],
+    "title": "Барвами",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5jnNjpoCfU2ipxrBR5fmc0"
   }
 ]

@@ -473,5 +473,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/63Vp8ttaNipprhsTqYFEIn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T23:27:03.752Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Luna Rozza"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733d3cbc7bead379523d3aaffa",
+    "releaseDate": "2026-01-16",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Роздуми",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5WwOd1HyZhPKxZYYDhmApm"
   }
 ]

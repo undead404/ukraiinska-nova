@@ -447,6 +447,10 @@
       {
         "time": "2025-09-23T01:51:17.746Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-18T01:53:54.579Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -937,5 +941,73 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0ZCjrCB8i8rUscG5ScUzay"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-13T01:53:19.110Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Культурні сили",
+      "Іван Ткаленко",
+      "Andrii Barmalii"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d73e23ab74febfeaa26d67ca",
+    "releaseDate": "2026-01-07",
+    "tags": [
+      "folk",
+      "jazz"
+    ],
+    "title": "Щедрик за реквіємом",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3dM63uh4cwL7TGHnMagm3r"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T01:53:54.580Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Stas Koroliov"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273efb5b2cd9c98a4c01de70aa9",
+    "releaseDate": "2024-04-19",
+    "tags": [
+      "post-rock",
+      "art rock"
+    ],
+    "title": "Round 2: Цифровий Утікач",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2hcskuu86zMddZwGDpHwuJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-21T01:53:25.543Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Проспект Соборний",
+      "Andrii Barmalii"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273220263192a0b7bce23cb9c69",
+    "releaseDate": "2026-01-20",
+    "tags": [
+      "jazz"
+    ],
+    "title": "Порада",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1bu5x8ErS1dpYSfypU5pnU"
   }
 ]

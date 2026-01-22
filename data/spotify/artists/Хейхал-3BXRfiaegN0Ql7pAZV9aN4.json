@@ -675,5 +675,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3KHSV6W0nEpGMNC5ZVCClE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-21T13:34:17.228Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Хейхал"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27358455a70e0740395618c1c61",
+    "releaseDate": "2026-01-21",
+    "tags": [],
+    "title": "Ba la la Ei",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3q8GGLlqezGTKbRM105Jwq"
   }
 ]

@@ -117,5 +117,24 @@
     "totalTracks": 9,
     "type": "album",
     "url": "https://open.spotify.com/album/5ayYO3nBqVAZh4CLCyX1kL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T19:26:47.504Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MMCLI"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f4a478ece000fe641694de55",
+    "releaseDate": "2026-01-15",
+    "tags": [],
+    "title": "Elsewhere",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6ELv7xAEeQAaokBDpRW4sE"
   }
 ]

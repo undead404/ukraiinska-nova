@@ -696,5 +696,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m9N51TrwfSUTgZvJhLLgiu96fj4zejGTU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-20T06:57:18.156Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alex Yarmak"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/thLrzU9XlBdAAPz5EwJUxLrQolvDK8BytJaNn--5bAB3I2hq1jcuPi0CZ5tRQPrYu18boWgQY5Bk_bk=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "metal"
+    ],
+    "title": "Hollow Knight Goes Metal",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mNNDjRS_xK5ItmM4RnjOPCvis-FE9yf0U"
   }
 ]

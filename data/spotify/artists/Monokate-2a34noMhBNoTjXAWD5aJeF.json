@@ -262,5 +262,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1Af2tZ7NnDQJOypYUUc1AU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T22:24:52.963Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Monokate"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273065f46c2d531b0ba7e1cd136",
+    "releaseDate": "2026-01-16",
+    "tags": [
+      "pop"
+    ],
+    "title": "TYT",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5e5IyjB6CJTrEh8TD5YzhR"
   }
 ]

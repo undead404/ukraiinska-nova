@@ -953,5 +953,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3npfItYafDH6LA0YEmGlOE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T19:23:11.752Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Bandi&Bagi"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273110d912fbc93202ab0bedd05",
+    "releaseDate": "2026-01-16",
+    "tags": [
+      "rap",
+      "Hip-Hop"
+    ],
+    "title": "Sun",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2ysFFCwM1dglzIyLXkdBYb"
   }
 ]

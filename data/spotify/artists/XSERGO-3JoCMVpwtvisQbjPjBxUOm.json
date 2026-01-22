@@ -1177,5 +1177,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2kPUximqh8ancUwYY6Y7um"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T17:31:08.657Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "XSERGO"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dbf9c1462531a376ad998318",
+    "releaseDate": "2026-01-16",
+    "tags": [
+      "pop"
+    ],
+    "title": "Дівчина з картинки",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/25ueLCrWAYxoDX4lPa8gEW"
   }
 ]

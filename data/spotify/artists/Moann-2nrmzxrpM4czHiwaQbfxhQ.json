@@ -350,5 +350,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1qPZDRoRe3SpsQBpyICc72"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-22T11:27:10.012Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Moann"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273546ebefea1e6d9f311854f82",
+    "releaseDate": "2026-01-22",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "метелики",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0IAXjYi0FXB15hB8e4aBDx"
   }
 ]

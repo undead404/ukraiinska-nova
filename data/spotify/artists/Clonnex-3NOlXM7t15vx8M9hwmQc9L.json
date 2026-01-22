@@ -1225,5 +1225,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6MlZk48j16sfcc9MBkSBVd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T15:25:03.532Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Clonnex",
+      "kissesfromeldar"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735bb3f8858734a62db7fd7dc4",
+    "releaseDate": "2026-01-16",
+    "tags": [
+      "cloud rap",
+      "rap"
+    ],
+    "title": "bohème",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7s89P8zGgha7j1nHDNrb9a"
   }
 ]

@@ -27,12 +27,16 @@
       {
         "time": "2025-11-07T17:27:11.661Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-12T17:27:34.900Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Levyy MC"
     ],
-    "artistsPopularity": 18,
+    "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b21056175f77f0501ee015f3",
     "releaseDate": "2025-05-29",
     "tags": [],
@@ -50,12 +54,16 @@
       {
         "time": "2025-11-07T17:27:11.661Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-12T17:27:34.900Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Levyy MC"
     ],
-    "artistsPopularity": 18,
+    "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d2b28b3ee0d99d0f199ed6a3",
     "releaseDate": "2025-03-27",
     "tags": [],

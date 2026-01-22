@@ -320,5 +320,28 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mcVRVRJxpMnHQ5epTQ3MOKq4cl4hua8tI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-12T15:53:03.363Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TOF"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/B5MjVwYiMfNIqrZOfFtXVKCTsqI3Nndnh3wDxJJOU5gvActsFHhyC92d_ijqsM5dB8QR0q374zzHqPc=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap",
+      "dance",
+      "Hip-Hop"
+    ],
+    "title": "TRONCHES DE VIE VIE EN TRANCHES (18 Dit Huître)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l_rbl7U-9zlGBVqF9rJbm36fN8MgVaEzY"
   }
 ]

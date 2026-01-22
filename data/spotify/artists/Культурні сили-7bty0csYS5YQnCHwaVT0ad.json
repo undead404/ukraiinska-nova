@@ -293,5 +293,92 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1ptfW6RkybFOdrxR4u6dtF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-14T03:51:34.715Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "REMEZ",
+      "Культурні сили"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27338c89cc81485e2b923c1a05e",
+    "releaseDate": "2026-01-12",
+    "tags": [],
+    "title": "Можливо, знову загримлять гармати",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7EmifQeCy1USpRvQ7wv6pt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-14T03:51:34.715Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Культурні сили",
+      "Іван Ткаленко",
+      "Andrii Barmalii"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d73e23ab74febfeaa26d67ca",
+    "releaseDate": "2026-01-07",
+    "tags": [
+      "folk",
+      "jazz"
+    ],
+    "title": "Щедрик за реквіємом",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3dM63uh4cwL7TGHnMagm3r"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-20T03:50:31.482Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ян Шипула",
+      "Культурні сили"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d2ae43d0067b5d644c68e883",
+    "releaseDate": "2026-01-19",
+    "tags": [],
+    "title": "Ще довго",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3fyirkltrcEUR7y38VXRFz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-21T03:50:12.768Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sasha Boole",
+      "Культурні сили"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735df3a5aadc122f3952909675",
+    "releaseDate": "2026-01-20",
+    "tags": [
+      "folk",
+      "country"
+    ],
+    "title": "Піхота короля",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/21oTwLLxsQqsMjxjHYKoL0"
   }
 ]

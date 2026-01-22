@@ -174,5 +174,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/19MRIFrW0sYPGmPxPlGCmu"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T07:27:27.750Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "The Soul Delusion"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c529151f0cc3778836577850",
+    "releaseDate": "2026-01-16",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
+    "title": "Секс за містом",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1hbOTCcu0q6tvBUmw0xqjD"
   }
 ]

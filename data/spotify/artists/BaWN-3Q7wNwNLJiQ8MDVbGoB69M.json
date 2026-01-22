@@ -752,5 +752,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4KZPaeemlVT8uRsHbP8Vw2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-17T04:24:43.315Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BaWN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bd4c3613fa18301343402d57",
+    "releaseDate": "2026-01-16",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Хороший громадянин",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0EOfBsj3oH3wqECYuucwTq"
   }
 ]

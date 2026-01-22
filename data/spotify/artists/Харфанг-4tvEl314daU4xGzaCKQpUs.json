@@ -238,5 +238,26 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/2NM2ugLDnqtiy71AiEWVxp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T18:25:58.160Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Харфанг"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d6e0e0fdf39ee58c5e3d2003",
+    "releaseDate": "2026-01-15",
+    "tags": [
+      "rap"
+    ],
+    "title": "3.4",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4DdlqQbs6DPO4PRxAJVlNN"
   }
 ]

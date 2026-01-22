@@ -777,5 +777,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6DVRJ9btTwatdDI8063ZT0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-17T04:23:30.639Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ульмо Три"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273836d5b14043ee4d6afecd86b",
+    "releaseDate": "2026-01-16",
+    "tags": [],
+    "title": "Госпел",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/22hxM3erzgwrBKEvsMZCDG"
   }
 ]

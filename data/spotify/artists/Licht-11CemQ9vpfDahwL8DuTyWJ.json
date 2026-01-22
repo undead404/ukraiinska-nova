@@ -1,0 +1,71 @@
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-13T04:32:39.333Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Licht"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a70f46981cbb9e38c5bef137",
+    "releaseDate": "2025-11-21",
+    "tags": [
+      "ambient",
+      "noise",
+      "post-rock"
+    ],
+    "title": "вул. чумна",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0g5tJrRwyV9y7tti7cSJq1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-13T04:32:39.333Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Licht"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dbd12d94a97c904fc43046fd",
+    "releaseDate": "2025-05-16",
+    "tags": [
+      "ambient",
+      "noise",
+      "post-rock"
+    ],
+    "title": "Спогади",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7CuffT2YaNSuLYX48stfZT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-13T04:32:39.333Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Licht"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b0bead5a69529e856e037bf2",
+    "releaseDate": "2025-01-31",
+    "tags": [
+      "ambient",
+      "noise",
+      "post-rock"
+    ],
+    "title": "Faite à deux",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1BCMa8k6Jitcm95fHioIr5"
+  }
+]

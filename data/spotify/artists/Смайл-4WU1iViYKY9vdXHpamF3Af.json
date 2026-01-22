@@ -227,5 +227,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2nAMvl5Mn7iY2N8UcfS1gW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T07:21:48.061Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Смайл"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731557c947a92f5617d682e54d",
+    "releaseDate": "2026-01-16",
+    "tags": [],
+    "title": "ще один раз?",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1wCMjTF8VjBqwQ8fF4sBht"
   }
 ]

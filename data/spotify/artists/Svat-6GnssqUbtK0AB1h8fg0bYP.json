@@ -336,5 +336,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/66EpKpEyuZPnAsAN4xCjr0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T19:28:19.265Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Svat",
+      "PEKH"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fced1b45bfc687f129c65162",
+    "releaseDate": "2026-01-16",
+    "tags": [],
+    "title": "Nas nie każdy zrozumie",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4T6oWiZfkGwZ5YQiaoEy1Q"
   }
 ]

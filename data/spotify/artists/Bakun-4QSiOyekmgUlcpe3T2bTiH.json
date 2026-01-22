@@ -1053,5 +1053,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7MA9HbVYtBVs4KIMFO3S8g"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T05:24:37.839Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "OLIVIA"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734f2521cc0f2741c61ce8d7ad",
+    "releaseDate": "2026-01-15",
+    "tags": [
+      "J-rock",
+      "j-pop"
+    ],
+    "title": "Пригадай",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0paInKd6vfsVPdbyhHcfjZ"
   }
 ]

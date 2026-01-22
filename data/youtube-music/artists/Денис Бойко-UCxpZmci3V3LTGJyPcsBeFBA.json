@@ -476,5 +476,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lWmrdYdQjxWbjDDzduIYZYJ1jzOD2BvKw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T17:53:40.011Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Денис Бойко"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/WW513A0RWmZEvrjX8TdpE-6jXjedOzzFM36u2RZSMOmE-N5ycHk3uqHkb9fvhC1hyyR-_cFqkKm19v37NQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "nedostupna",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kv-MELVP-iiXvC5JS6GDF4d5J6I90Qw6w"
   }
 ]

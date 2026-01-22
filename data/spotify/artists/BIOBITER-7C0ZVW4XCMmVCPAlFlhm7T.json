@@ -250,5 +250,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2i3Z8jf5GeAfop6wKqa5mV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-17T01:53:16.599Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BIOBITER"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734a63b2b3f278c29fa2970ffe",
+    "releaseDate": "2026-01-16",
+    "tags": [],
+    "title": "Будь в моєму житті",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/76VBe7UiU9jbQbUcasH7Ep"
   }
 ]

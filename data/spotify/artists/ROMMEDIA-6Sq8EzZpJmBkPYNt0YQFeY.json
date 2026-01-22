@@ -37,6 +37,10 @@
       {
         "time": "2025-12-08T09:26:51.401Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-20T09:28:24.613Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -326,5 +330,66 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7C0xBtNco5czdG2KgSiERU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T09:27:23.591Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "kavabanga Depo kolibri",
+      "ROMMEDIA",
+      "QANO"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734e813c275172f4d43ea7666b",
+    "releaseDate": "2024-09-09",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Аромат (QANO, ROMMEDIA remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1Q3qsdQO8aLaoE4a77SKLR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-19T09:31:05.804Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROMMEDIA"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27344d24eb5a9b9a36de1d0583d",
+    "releaseDate": "2026-01-17",
+    "tags": [],
+    "title": "Ідеально моя",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6ithMzxH0V2OaHnUvf3BaP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-22T09:29:08.447Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROMMEDIA"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733baea28248a8e4f27f6e726d",
+    "releaseDate": "2026-01-20",
+    "tags": [],
+    "title": "В надійних руках",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6tJ2fhVFvtV0gyX5DGq87J"
   }
 ]

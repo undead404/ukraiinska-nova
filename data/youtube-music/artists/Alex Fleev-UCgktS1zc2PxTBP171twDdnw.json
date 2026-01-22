@@ -492,5 +492,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lBiezbp2yht4GdeAGdtetisY5gjKmNEB4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T03:21:08.736Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alex Fleev"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/Qviu2QuwzDcKuZAs4oecT6oYHRqOlnSGZe0wj2moa-axhigGJgw3E6-HvFtEunpUAnbzTcDhxzWQIgpC=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Predator",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lVSAVD9l7hAyoyObT4GVeVTZvc5fb2b_M"
   }
 ]

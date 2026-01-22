@@ -1204,5 +1204,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nJ1sxVDKJ3QOyoEv3dq_l1YqlgMEfagUc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T18:53:52.982Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Korolova"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/3Po40nGqkLl5PIpACWM4VrbaI1Cm7cW-NU7VBRBWhHtdncmHZYp3Cneze_0LotJiogcYKRyJuW7yLQXpEw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "Melodic House",
+      "House"
+    ],
+    "title": "Empty Skies",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mzIu25nabtaPDsXZZlC-qppINNzUAUmVk"
   }
 ]

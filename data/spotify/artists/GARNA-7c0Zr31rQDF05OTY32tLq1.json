@@ -739,5 +739,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2Yh6eGZksdtdRnmS0xFfNC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T10:25:13.095Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "GARNA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730a5ac8c934a8d7ab94df7e4e",
+    "releaseDate": "2026-01-15",
+    "tags": [
+      "pop",
+      "electronic"
+    ],
+    "title": "Нейросценарій",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7t7WVzOfmVgoqGCZQOS4Km"
   }
 ]

@@ -335,5 +335,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0dUGj5sBEbhLhkzXp6K4M0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T04:13:26.098Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YULIYA ROZNEN"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27393ae60c692f210f0a8b63566",
+    "releaseDate": "2026-01-16",
+    "tags": [
+      "pop"
+    ],
+    "title": "Злива",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0riWD8hfLHCGe5Cu0szlN4"
   }
 ]

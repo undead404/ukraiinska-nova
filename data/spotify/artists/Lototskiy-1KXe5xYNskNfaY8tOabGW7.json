@@ -857,5 +857,25 @@
     "totalTracks": 12,
     "type": "album",
     "url": "https://open.spotify.com/album/4cORa5Ld6UTZWQosd6O9Gd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T12:28:32.404Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lototskiy",
+      "Keeone"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273122308c7e6378c4b1a899095",
+    "releaseDate": "2026-01-16",
+    "tags": [],
+    "title": "Dance Floor",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1bB3EoSk72twy1uo9Y8Viv"
   }
 ]

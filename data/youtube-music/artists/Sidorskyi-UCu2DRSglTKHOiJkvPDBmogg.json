@@ -226,5 +226,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lwAyKrOts7RJXSeW0Zk3ZP9FeWrIenj4o"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T05:50:41.785Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sidorskyi"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/WNGHcIDfaZRi4_TVH0vCyg_7R72JhJB3JYg6S7cp2xuC-C0enzR1UbdyISyWImqSqxTBLC_X-kaKvI58CQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Генерація (feat. JustFaded)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_luKc-nlW2zOvVTYT6lgvuxryi243roic4"
   }
 ]

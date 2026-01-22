@@ -1,1 +1,927 @@
-[]
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T09:48:13.875Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-19T09:54:50.440Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/2coSCKSC4InEpg_EFDFJdEEqud-oYeJQH5CZ0bsOQCfIvPt2qvRQEyKN1LTgQIIacto7hFPjHmPQS4dH=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop"
+    ],
+    "title": "я горю не згораю",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ljdf0SzlruD3qLmfXu1mHZpWcbLxZ2evQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T09:48:13.875Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-19T09:54:50.440Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/9XdKbtlnmc4c7Nt-z4kJqhbFgEApyX35idr5MosNpGv7C8C5BD1xp4ijpF-_l0wvMI1IOLo5psg5XcJd=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop"
+    ],
+    "title": "не схожі",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mysQgBlZSGbpphTeFVq0h1WYB2wuX8rHE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T09:48:13.875Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-19T09:54:50.440Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/iJLaa9WUmuW9Cc79sjuEg2ASXKqxk5Rs1Ad1X47-LorvIVxDLjH3C0oz7Z-PJ0AvqKEv-60kIvBlTyeE=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop"
+    ],
+    "title": "просто лети",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nJvIMaXUEQkvXq4S_OTgj6eu-RSTYDHdM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T09:48:13.875Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-19T09:54:50.440Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/Kc-oX4aZpgYls9nrd-jWxuLiIkE3laPSd-QrEc3V4pxfKM6yOPRIoyJ4NqkssggWpj35hg_e0Ma176ym=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop"
+    ],
+    "title": "Мені так треба Вітрила!",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kPjHjmQd576lBIHIJMsGcNv5KZQySQ-ZA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T09:48:13.875Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-19T09:54:50.440Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/2gBeDG1mpSJ88q5agVmLqltuBG7Jzw55Dj2Xo2-5pZtib8U9yi7E7Zc1i7GsPFJDZozt4Paw9-wCOhI=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop"
+    ],
+    "title": "тормоз чи на газ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lnDtzJaMoUDXOnUnBL-qsSXx5qMMblRMA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T09:48:13.875Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-19T09:54:50.440Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/h8r_ryWH8wGvtrpXcJuZ1Pd5RjNJNZOAGcVXw393UHRMogitLcdOhxFVN9QfGQUq1A2ayEKaqW1_xnc8=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop"
+    ],
+    "title": "Твоя вина",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_md7UbD0yyVvMcXgBSeVIVlAvA2k_2CXcs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T09:48:13.875Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-19T09:54:50.440Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/DzhvmgW--ur2kbb2uwf9_cvmskJSaV1MhdAqyTE_B3giE33rvFPJuhXK40xWXzUmbEGSNkQ_c9GfApI=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "pop"
+    ],
+    "title": "Новорічна-2",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n_H9eh8OdzAGrkL-pN0LhDbEohmV8dpcY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T09:48:13.875Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-19T09:54:50.440Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/Pdw458rh-9xHLc9Sxb3o7MB8LI-qES-6IWAT6_sFmUNM2hy6xxzov9NQT2sCbCVzPQMPZ0eKVvzbmmu8=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "pop"
+    ],
+    "title": "Зодіак",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mPmjzL-8RdYLMjtrmTRib54Rqi2fqiEUU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T09:48:13.875Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-19T09:54:50.440Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/ZjHcJsKhfeUj2aSS22wHW1fD-2MyCOYNvnF-JcxjXoPbSfg9YAI1PKiWyQPX8eqX_tD1vSs06W-3hMo=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "pop"
+    ],
+    "title": "Обиратиму себе (feat. iSKra)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n_RImsSGBRX9KLzOCNVjRImbVK7nsScDs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T09:48:13.875Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-19T09:54:50.440Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/js8GFzm2cgxLbwLvug9hO5ryc23sRcgPq6mhkZFs0uTgtC-xGi50ANTj5CJA6gVPQBglj8-7yadfebYL=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "pop"
+    ],
+    "title": "Вбиваєш мене",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kyZSbkyA6Jxat5eIFgbJByE6CVB3KWE-k"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T09:48:13.875Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-19T09:54:50.440Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/pMXQavo9M5w66QWPetMw3MAZ5wP6nuu3b4OhR1t7Vre5sHLgYGI06m-_mGqjhTB9S2pR9X8nzLEVpPp8=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "pop"
+    ],
+    "title": "DREAMER",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kVmnxg9fUvxH9yQLlNUSsI1sYdMf298iw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T09:48:13.875Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-19T09:54:50.440Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/aUfk3qBekX9vRpF0Fnyy2oREmvTuXpI3T8wtywfKciZ0Ldjdvzt5ZscKEHYjnbNBzny8wPRnrLDW-y3A=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "Один Не Один",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nPV77AD38X40Xg_wyJKpofZkEsLlNaico"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T09:48:13.875Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-19T09:54:50.440Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/7vPfq942wZoxokIHfJnb_vvfWRrwcfRGk3LZ2LFkMPt04grlsXEegx7OFxxht8KkieqCzmknsz4Hj18T=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "Don't need your love",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kcuVMblty2b4RQ58mymriuVCPAaQBB1DE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T09:48:13.875Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-19T09:54:50.440Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/y5sh_01rSgu2NUlCXVKmcq18qUGyHk9AGMYmlrr1sQjpKTP3pf9a14g5sjUZ0YnOCP3XPmOyHZF-r9wLng=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "The Best (UA)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nqBX3DBcUvUZMs1xi2c6nO2m3pxqrVeA0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T09:48:13.875Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-19T09:54:50.440Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/jlGBkOF83aR89XlzuvSOVMQ97Iq-YgLwP9rCi9bIh2zz7yxotoFp3kn5qTEx2_wsWie6Ld9yRENDxUac=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "pop"
+    ],
+    "title": "мені не дзвони",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lmRpjR9B5ElIk7AlNhNgeVBhxXN2Xjzn0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T09:48:13.875Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-19T09:54:50.440Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/iJKJi5AnHjPKzpxy-R__dIGpKBIuOqUox8BmhNMqREvTHtcQz7nYUYscrpdD25QNLkOhI1m-rh0r04IB=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "pop"
+    ],
+    "title": "Не зволікай",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kjwD7McXUWh2q9o-UXOtf-VsxB6vvvwxs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T09:48:13.875Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-19T09:54:50.440Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/L4cZdpLw74gVMfxjR9p9ni68WwhhgAUOZchepf81OXWHqfKjbATueuuVpFlDv2Ss-pHTWZ94JQ5e8MPZLg=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [
+      "pop"
+    ],
+    "title": "Таємний знак",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k94d1OZs-IO4h-m6z1VXtokp-Gr5C1rHM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T09:48:13.875Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-19T09:54:50.440Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/5sn7cqZfaRiB_g_G2iKeMKXTfKZ_qJX35a9mR_uk9YfUhQtX5v8BwaAMhw-2KXBLjd84cYWsSjZaOEki=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [
+      "pop"
+    ],
+    "title": "І кров кипить",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mVb0stRekcMSvvlSvXmgoEmIUy0o5YiVc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T09:48:13.875Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-19T09:54:50.440Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/XlyYfouO6Io7czR1Yia1TIjmWkjHn8U2_kjO9ZEGXyFx9dm874612PvHYnhSxyE1L6pkFccf87awUDoS=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [
+      "pop"
+    ],
+    "title": "Кіт і драма",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mok_K0jbBH4T8N_ZiGkXz5rHQGBJovBKU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T09:48:13.875Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-19T09:54:50.440Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/4pE0gHbsfZgvkR9Uxin_0me90W-20Sk2xG0clegnUpqdnsOofoleDYO0FTqRWNAw4_8cXT3fMIQOMdQ=w544-h544-l90-rj",
+    "releaseDate": "2020",
+    "tags": [
+      "pop"
+    ],
+    "title": "Dance With The Devil",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lZyVke0f9Vu4-GsnsYO81hQTBs9eniErE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T09:48:13.875Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-19T09:54:50.440Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/IrEyH_fhq1aipQa3F20I5fRGU21y0rHF-QtU4taz2RK8FuZ9wJ4dBlB835-q36eAQQM1AfmwczCvOIx_=w544-h544-l90-rj",
+    "releaseDate": "2019",
+    "tags": [
+      "pop"
+    ],
+    "title": "Oh, No!",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nRy7HoRLGxmkUQuj__i5aV2HTzBbKUXSs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T09:48:13.875Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-19T09:54:50.440Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/KOXc_dvAS2lFTblXoxfWAaIxICf0NZcFupKqAURV0WSNU0KKqRM7-rIsIrVaTMf8n3UtFG4J-2SU3ggM=w544-h544-l90-rj",
+    "releaseDate": "2019",
+    "tags": [
+      "pop"
+    ],
+    "title": "Вітрила",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m8Tbea5yK2R33bE-r0xho_7Zx-0dpBlz0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T09:48:13.875Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-19T09:54:50.440Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/bnlDFHdhBdqsznBFF5fy2n7FaVUvnF17ceDtoriQr6SfLhT8LVL98Ts9iz_LKQyYAamyltRlOt-AF4rm=w544-h544-l90-rj",
+    "releaseDate": "2019",
+    "tags": [
+      "pop"
+    ],
+    "title": "Ти",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lbyWcNWwCfDGPxBU-EVhhEdolU3zL-ij4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T09:48:13.875Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-19T09:54:50.440Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/UdtYkqcWAyi2jKHOvr_GmwRgIqwFmdFfYsSaVm9ERaWQOmI6y9bfkKYiWfA11LbvCJ0eKuD4YPle7EcB=w544-h544-l90-rj",
+    "releaseDate": "2018",
+    "tags": [
+      "pop"
+    ],
+    "title": "Чудова мить",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ntyWYfvpGdgHXourP4O2TgaEbOHOwUN6Q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T09:48:13.875Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-19T09:54:50.440Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/SP3OuSCvZRKm-3I1s2i-RdrTVCDPUlzetvOSp2u6T_A416-Ojft5IMLgfBsutKsHNz_Q29PAKIOpmKQ=w544-h544-l90-rj",
+    "releaseDate": "2018",
+    "tags": [
+      "pop"
+    ],
+    "title": "Under The Ladder (Instrumental Version)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lmydqpD0QX9zWnxk1LE78A2pTXiwf2T2s"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T09:48:13.875Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-19T09:54:50.440Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/Ehs2mP0AyNFw0pYIRjCcnWQXdLa2Rscwm2pa_01e66o2mySizeUHaZfL18gofZzuJ9KYYvuhe-CkeuMFeg=w544-h544-l90-rj",
+    "releaseDate": "2018",
+    "tags": [
+      "pop"
+    ],
+    "title": "That's Your Role",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nFfJhAsCJD13JIwNKb3VCzlJskTO6lw74"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T09:48:13.875Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-19T09:54:50.440Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/wPk5xmuzmeV9NClRXTNbYb3XsM-2UczExnrLo5O5ji4ec5rHpFJ2yTLwGHwAWFX7l80QflcEYZiIaH9p=w544-h544-l90-rj",
+    "releaseDate": "2018",
+    "tags": [
+      "pop"
+    ],
+    "title": "Under the Ladder",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kSIt0gQsYXnrs0UzAbAyTu_Ol9DV54lUI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T09:48:13.875Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-19T09:54:50.440Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/8jzDDZBwFBTyS0eac1eYwOt_F8Nr-7sdFz0IUCwK3ayvd32NTKVMo9rahR3Arp_KPrDD9dwJ2aNBt2R5=w544-h544-l90-rj",
+    "releaseDate": "2018",
+    "tags": [
+      "pop"
+    ],
+    "title": "З тобою, зі мною, і годі",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mq2o0VY9jifta9BmanQ0LsI_WsMyhBZSM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T09:48:13.875Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-19T09:54:50.440Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/ZtXYFZtm-QN7q0Z7YOUzez9ANvgSqcDcXGDit-fariYvXu-_Kxl-KsoWOJyxcA_IkCnIZj3dg25THWTpAw=w544-h544-l90-rj",
+    "releaseDate": "2017",
+    "tags": [
+      "pop"
+    ],
+    "title": "Unbroken",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k3Yoy1HXBROtpD-weH5eHcY8TajDwkVNI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T09:48:13.875Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-19T09:54:50.440Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/d6BJNhizUKmekPn5PvoEXxtY2lrqsNk9Z86szYHgCjqkKtahPv5YCaltYfAvWuGtaUgacDMg0RMGxbI=w544-h544-l90-rj",
+    "releaseDate": "2017",
+    "tags": [
+      "pop"
+    ],
+    "title": "Face to Face",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lt-lhUmDBlm_m-vWCU7GqguvM4a6Irt1E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T09:48:13.875Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-19T09:54:50.440Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/xt6QC5PO8C4xjKGSEMTsiM0geeDxnPHklu8o7F9ey1tT8nn5RAimhYcSszEgPEe-2YTWA2Mzp86-Y2xc=w544-h544-l90-rj",
+    "releaseDate": "2017",
+    "tags": [
+      "pop"
+    ],
+    "title": "Hooligan",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l5KdJ8VpQlJ7swHTHdVsOmqrWK8XBSjLU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T09:48:13.875Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-19T09:54:50.440Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/tfuyzgXidV1YGArNRlKpPXHmzpRP5cWn-FTPaojMOPMgidKlZOWd-eo7zaZnODzJ9J_6030V2Ge0GFDLfg=w544-h544-l90-rj",
+    "releaseDate": "2016",
+    "tags": [
+      "pop"
+    ],
+    "title": "Wonder",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kNoM9gxuJAcfBIRUBh872o6p2eQh7q6Ns"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T09:48:13.875Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-19T09:54:50.440Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/cFRn2Or5gaGHjhCqsy2EM_J6-tdixcunECia8rZQ4bizG8_pMNS4rHdfYV5h31peGf_OMxdNx-39hag=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "Вітрила (Rulia Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mlrB2Rq7f3LjgzvxFAlTVJoFraELUuMSw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T09:48:13.875Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-19T09:54:50.440Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/NXKtOdRsABF7hSb71sQkq7CDAMAJLg3435vo94wh_Wt4u5l2NVA5CuPmbeFP5hATug0JSLclWA9vWoQ=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "Кіт і драма (Forse & Fizruk Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l759iZBVI27xCzHafWAkFvlxL9H_FB36M"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T09:48:13.875Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-19T09:54:50.440Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/KpcyxsEIUe_5yZ4GhfHB28QEhOIjv1Ac4TgGMqXHHkPaKaSASptBtPjaV_sypSKDW5BlW-UQrtazpHvY=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [
+      "pop"
+    ],
+    "title": "І кров кипить (Julik Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kkktcXgVNETpq8hhlru4b_HLdmkZxmvQo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T09:48:13.875Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-19T09:54:50.440Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/jMp2droFUDvW7VhtYgrhF_c5ubCkUYTucEZR7J4ZULqzo_E9kQMvCGU2D1TFY4mTcFL-KD1K76CIXcM=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [
+      "pop"
+    ],
+    "title": "Таємний знак (Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m7BXEqDKTNrxV-EU-vHAOCwkXQVJDCrkE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-18T09:48:13.875Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-19T09:54:50.440Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/lIGUC8_6kVUuOuS350GrW7XLjkrcXQNOe0UF4QKeelwXUQUGwPjiRsSoCX5rhY8fhuE-miZoN9ZYpjc=w544-h544-l90-rj",
+    "releaseDate": "2019",
+    "tags": [
+      "pop"
+    ],
+    "title": "Ти (Shnaps & Sanya Dymov Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mkNaYAxVmZJ0T_OWjBhpdA2xWMFNeJFuY"
+  }
+]

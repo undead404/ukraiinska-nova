@@ -879,6 +879,10 @@
       {
         "time": "2025-09-17T08:20:26.024Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-16T08:23:47.137Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1142,5 +1146,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1Oaf7lnKX6HOXDIAEhDwc3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T08:23:47.137Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273391022acea96b6b46c69d77a",
+    "releaseDate": "2022-12-08",
+    "tags": [
+      "pop"
+    ],
+    "title": "Не шукай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7MaTonrqG78nLIqTok3jbL"
   }
 ]

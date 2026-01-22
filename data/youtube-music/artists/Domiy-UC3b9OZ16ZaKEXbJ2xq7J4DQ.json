@@ -386,6 +386,10 @@
       {
         "time": "2025-09-22T07:45:37.186Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-16T07:49:03.428Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -615,5 +619,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kPA4OjmQdAAM-ByfF0hY98iG1ITgmCzo0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T07:49:03.428Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Domiy"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/9YfAQ48l5exKbFAwYHZ-TFcpeivZzA9agCRRtvvfLMT9sTrx9LaU_A-1gRJlVsvv_VBnhM6QkQuxx6wh=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "З вечора до рання",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mjlxHNqFetx8coAUEA6NVlgYH3HUBEWuw"
   }
 ]

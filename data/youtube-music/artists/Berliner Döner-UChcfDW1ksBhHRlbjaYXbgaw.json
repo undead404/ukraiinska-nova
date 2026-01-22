@@ -334,5 +334,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lw0DFgzMtumMgoamIZAJ1LaEdWBsQr-QQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T22:49:31.735Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Berliner Doner"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/JIApnFsoDdyQiAXjIf709NKHUz92ywVuJiG71ep8eS9Su3O5BIJPe1JbUrYDxPr5FOVN5Q-DXCo6UBM=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "noise pop"
+    ],
+    "title": "машинам-вулицям",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lSyCtoBTmJsNKpoZQsck_s2LRgbjqOBMs"
   }
 ]

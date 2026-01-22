@@ -979,5 +979,24 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/7o0gToRezEDfwyXZxQp6M7"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-19T05:23:39.637Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Damant"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27324ef79d1103de390ffa5007c",
+    "releaseDate": "2026-01-19",
+    "tags": [],
+    "title": "День мені",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5PA6FKmtzeap2wDASYZfZ0"
   }
 ]

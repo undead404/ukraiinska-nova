@@ -336,5 +336,26 @@
     "totalTracks": 6,
     "type": "single",
     "url": "https://open.spotify.com/album/5RTuI4Hh5Hh1RXE0iIbDFg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-17T16:25:03.864Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Leléka"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735ea8839e2c8a846565206e6e",
+    "releaseDate": "2026-01-16",
+    "tags": [
+      "jazz"
+    ],
+    "title": "Ridnym",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7dr61EZEcX5C7jaaEyf8zn"
   }
 ]

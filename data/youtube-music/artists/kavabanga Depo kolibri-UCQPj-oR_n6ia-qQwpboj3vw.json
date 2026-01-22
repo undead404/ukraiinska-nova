@@ -2030,5 +2030,68 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kKGNFV9AKxwzQml9pHySV8ZhZrR2eLzto"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T10:51:49.445Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "kavabanga Depo kolibri"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/o7Di2ZtLIIrgC00mSoB0ho3ppFmpH1a1z_BYmn8YmREZTNBmFqjon8xJcSTuTE1UbiJ0k846dpJ83njKYg=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Аромат (QANO, ROMMEDIA remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nm29MV5okL6GAdh1Wwjtz6jruFUoeiU1g"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T10:51:49.445Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "kavabanga Depo kolibri"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/g1KCcHZccIW73QnFSliha1ibxGFnRrQGjtAiZg0IQTGzjcEiETLdKozpQgvvnQEQruu6qKJykY7REW5q=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Убий мене (QANO remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nP1aroSRi_xP_kM6OkEIqCWaVSIwZBFoA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T10:51:22.401Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "kavabanga Depo kolibri"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/bbQ9DGZhYlVY275ckdw1JCrNIA-_IJODTQeQsywD5Op8YmjsdIpJkq7YCx8BncwrgUp5F-R7wRQH9iqmXw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "По проспекту",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_njZNz5FPa4HEZ277eHA3FiE-SQzsaVDBY"
   }
 ]

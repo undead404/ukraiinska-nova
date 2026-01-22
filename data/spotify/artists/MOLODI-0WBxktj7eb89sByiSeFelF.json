@@ -574,5 +574,26 @@
     "totalTracks": 14,
     "type": "album",
     "url": "https://open.spotify.com/album/7joElWTXRqYZYH4rkFjepN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T02:57:28.732Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MOLODI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27360f199ef781c1b069020ad09",
+    "releaseDate": "2026-01-16",
+    "tags": [
+      "pop"
+    ],
+    "title": "legends",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6nWl9d3ZdRxfFxU4VFdhqQ"
   }
 ]

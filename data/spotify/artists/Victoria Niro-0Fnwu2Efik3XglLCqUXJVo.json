@@ -365,5 +365,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6VvPSMGoqgiZqMhUbENGOk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T14:28:51.890Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Victoria Niro"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736eb6418a56ff1b5465c6624d",
+    "releaseDate": "2026-01-15",
+    "tags": [],
+    "title": "In the dark",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/21puYuE4acIgc3FxbLUzGq"
   }
 ]

@@ -361,5 +361,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1tGTqa5lNONxJiClJVXDiH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-14T23:20:29.570Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Денис Бойко"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27346c09e14dbe3bb432779cd6c",
+    "releaseDate": "2026-01-14",
+    "tags": [],
+    "title": "nedostupna",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0uLEYB3k6dw4IS3gEesydp"
   }
 ]

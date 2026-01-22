@@ -2024,5 +2024,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3lRSi7gW3awQJBiVfJdMin"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T10:22:52.173Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "EMDI",
+      "Costel Van Dein"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732361de1c299a559480855bdd",
+    "releaseDate": "2026-01-16",
+    "tags": [
+      "House"
+    ],
+    "title": "Feel It",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/36IBpWGq0TkB6IqXpnn6le"
   }
 ]

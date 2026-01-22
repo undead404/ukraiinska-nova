@@ -1118,5 +1118,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1NKWKGvYhCLvTBrOD2CDU6"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T20:32:47.471Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yan Zapolsky",
+      "Odarka"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e32f6d881b944c9e1e0afc11",
+    "releaseDate": "2025-11-14",
+    "tags": [],
+    "title": "One More Time",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/78yXNLDvcDO1CoHJalfLxe"
   }
 ]

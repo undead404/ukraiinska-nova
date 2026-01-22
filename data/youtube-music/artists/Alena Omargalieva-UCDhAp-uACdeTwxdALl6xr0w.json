@@ -839,5 +839,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mycGXOv7qgMuuKfjtnLqybdG1_ze0G9Cc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-17T13:00:16.308Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alena Omargalieva"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/V0Hz_Bng7y4ZrlghG2vG_BMBpNru-pbdv9pknpAt_t9OQUkQ3FZkTwyznzgJd5-VN5RfaOCxCKJAdl0=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Не пʼяна – закохана (Acoustic Version)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lZtP4BuBDzSaVtF7RzjPtPvnuUDC5GeMw"
   }
 ]

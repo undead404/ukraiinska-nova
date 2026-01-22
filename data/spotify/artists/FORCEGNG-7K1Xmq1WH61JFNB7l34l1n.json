@@ -27,6 +27,10 @@
       {
         "time": "2025-09-26T22:21:49.192Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-12T22:23:38.242Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -685,6 +689,10 @@
       {
         "time": "2025-12-31T22:23:55.243Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-14T22:25:51.440Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -730,6 +738,14 @@
     "appearanceLog": [
       {
         "time": "2025-12-12T22:23:05.900Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-12T22:23:38.242Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-14T22:25:51.440Z",
         "type": "FOUND"
       }
     ],
@@ -788,5 +804,47 @@
     "totalTracks": 7,
     "type": "single",
     "url": "https://open.spotify.com/album/2uJbhIyLw4bKVuIumRweHK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-14T22:25:51.441Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "FORCEGNG"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d63c689892ce56c4978f6957",
+    "releaseDate": "2025-06-14",
+    "tags": [
+      "rap"
+    ],
+    "title": "Black Diamond",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/78zH6MIHNfjVeT9AC2H3ks"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-14T22:25:51.441Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "FORCEGNG"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c10807716c604bb81da271e2",
+    "releaseDate": "2024-01-12",
+    "tags": [
+      "rap"
+    ],
+    "title": "Звик до цього",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0TlNzXUNoVFLrysLNMn7lm"
   }
 ]

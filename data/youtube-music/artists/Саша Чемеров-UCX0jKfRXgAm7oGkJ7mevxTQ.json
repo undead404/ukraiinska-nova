@@ -658,5 +658,49 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lzkpeGoq7YubnzKUEBDR374CYcHHwCWe8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T06:54:26.617Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Саша Чемеров"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/a49kFtvG_BMw03jXZgbQ2eo0RTq62L-rn_eBh9JKrIsCRnqACkmhNqs2A7LFYpvPqEcnp1wQvdhdKl2x=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop rock",
+      "rock"
+    ],
+    "title": "92-е життя",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_noYIrGIdmbqADaggs2UidNBMAj1dBIXBY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-15T06:54:26.617Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Саша Чемеров"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/nGwbpVeeMTYkr69vvn-j_e6jdBevPWJgj3kpgHK8fL98qibeAsLTYuMvrlsNt-o6-_dd_FMK1wTOFyvs=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop rock",
+      "rock"
+    ],
+    "title": "Божою милістю",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k7eVurOiYsU72OEZQGQvkROatCxKdtghc"
   }
 ]

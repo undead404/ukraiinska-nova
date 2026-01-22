@@ -699,5 +699,26 @@
     "totalTracks": 22,
     "type": "album",
     "url": "https://open.spotify.com/album/0JEnTrY3SyoCVUNmKZMn5x"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-22T01:58:26.424Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Volodymyr Dantes"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733ba3c39702beeec0aba4e245",
+    "releaseDate": "2026-01-21",
+    "tags": [
+      "pop"
+    ],
+    "title": "В ОБІЙМАХ (З к/ф «Всі відтінки спокуси»)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/01rufuoJip2cvCUfjehOeU"
   }
 ]

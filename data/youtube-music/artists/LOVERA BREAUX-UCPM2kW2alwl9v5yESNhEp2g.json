@@ -512,5 +512,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n3ceZl03T5ocuaP4mkY9n9UKo_lQ2TMnw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-21T01:07:33.374Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "LOVERA BREAUX"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/NsgFFVXBu1xY9blwIMEJ1hmfNJuWwLYmcvCsiZkVXWKNV947Yf5XYgtB0_HdaUV9im8MY5cDLPX0UU21=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Тихий шторм",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mN6siU-W4bpOLW0ZDZsw_125rIc-r0yMU"
   }
 ]

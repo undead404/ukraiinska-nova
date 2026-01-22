@@ -466,5 +466,46 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4nvE0oRVUKZiYAigvI4sR0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-12T19:23:30.151Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Art-In",
+      "mesmerized"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27310ebceb858adf8990648da19",
+    "releaseDate": "2026-01-12",
+    "tags": [
+      "death metal"
+    ],
+    "title": "Beam of Light",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1j7umeuEf6Q31sIw5gQVcZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T19:22:55.085Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Art-In"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f7d8a16c44e3f9c3e22bf8aa",
+    "releaseDate": "2026-01-16",
+    "tags": [],
+    "title": "Vikhola",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1KlS97nniBRORhCoiZaSpg"
   }
 ]

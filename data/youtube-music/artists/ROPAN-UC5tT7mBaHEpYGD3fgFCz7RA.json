@@ -1286,5 +1286,29 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lSkB1VgeI8Flf8pw4pro8iMrJZBGVS96s"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-14T11:49:13.968Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROPAN"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/SRJfF2YoIvifwpEDMmf2YZYKNzOIHvpkEjMj6I0DndbQOBgmddld7BrFdnR-2JCPk1FOYhyJBjnBxH8P=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "dub",
+      "reggae",
+      "dancehall",
+      "rap"
+    ],
+    "title": "Тікаю",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mDVV2g5I_WkHSZh1alRp87lmXD-tA8ivc"
   }
 ]

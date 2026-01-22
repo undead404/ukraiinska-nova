@@ -229,5 +229,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kw1POoelBfaCrqJDW7kQ1nps5RJJHLjjs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-16T15:52:30.353Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yevhenii Dubovyk"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/mHKVHvrmBJpBUM-cKJpXNw0GZr7EPTWPsE7eqykbQPYfbFrirpCh8LJWuoAN3xN7-bj6kjdf1jgNoNg=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "jazz"
+    ],
+    "title": "Ой, орле-орле, сизеє перо",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m5puT0GG58whsLLUnu_XyyLqXYr6cTmhw"
   }
 ]

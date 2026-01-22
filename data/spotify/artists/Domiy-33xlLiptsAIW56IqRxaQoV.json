@@ -490,5 +490,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5PDUtLma1oYnfIW44CalFC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-17T02:53:07.406Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Domiy"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730f31a593be40ff5b914af43b",
+    "releaseDate": "2026-01-16",
+    "tags": [
+      "pop"
+    ],
+    "title": "З вечора до рання",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1odPuaSTXDr1ReraPYbTh1"
   }
 ]

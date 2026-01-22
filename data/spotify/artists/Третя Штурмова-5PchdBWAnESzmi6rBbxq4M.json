@@ -8,12 +8,16 @@
       {
         "time": "2026-01-03T15:23:01.221Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-12T15:23:33.535Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Третя Штурмова"
     ],
-    "artistsPopularity": 34,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27302db2a5a8989c7e3c8534812",
     "releaseDate": "2025-05-30",
     "tags": [
@@ -303,13 +307,17 @@
       {
         "time": "2026-01-03T15:23:01.221Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-12T15:23:33.535Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Третя Штурмова",
       "MoonDeity"
     ],
-    "artistsPopularity": 60,
+    "artistsPopularity": 5,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739698b4d75675e8a2c1a07835",
     "releaseDate": "2025-05-30",
     "tags": [
