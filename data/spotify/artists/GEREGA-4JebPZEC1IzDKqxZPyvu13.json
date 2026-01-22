@@ -210,5 +210,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/09k3MVpLy0sq50fCJkXeZ8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-22T23:25:26.117Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "GEREGA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273860ab38c98ea53a86889d88e",
+    "releaseDate": "2026-01-22",
+    "tags": [],
+    "title": "Далі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5Y3WxtVqOv3kcFuDNWmB5h"
   }
 ]

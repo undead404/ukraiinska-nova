@@ -1142,5 +1142,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1BROFd5R6tb0Hp5mRXAYLV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-22T23:27:28.182Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lefor"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738731df63ba0137a4593147d2",
+    "releaseDate": "2026-01-22",
+    "tags": [
+      "rap"
+    ],
+    "title": "Сліди",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/61uQE1Dp1ihRB26y0HPgjH"
   }
 ]
