@@ -211,5 +211,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1j7jj5dksnQdysNB7teJGt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-22T03:52:38.853Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "тобі не зайде"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273be93ab325ac11ee316cd28ce",
+    "releaseDate": "2026-01-21",
+    "tags": [
+      "metal"
+    ],
+    "title": "дбсвсх (невидане)",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2oW4PmqkwGo5mLVYJgmMjU"
   }
 ]
