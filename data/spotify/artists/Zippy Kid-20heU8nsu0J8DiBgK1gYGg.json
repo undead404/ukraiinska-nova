@@ -38286,5 +38286,68 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1KGpQ2jyuljeUx1jeNa2aF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-22T12:40:44.231Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Zippy Kid"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27359b4650ed7da2f58db93e464",
+    "releaseDate": "2026-01-22",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Прощай, немытая Россия",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7JD89QC6pxTKMFJ5WZyfGj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-22T12:40:44.231Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Zippy Kid"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27314a86cbfe4d3da96347a4df6",
+    "releaseDate": "2026-01-22",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Джунгли не прощают",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2tjUdUhQtH8gC7uAaqslHx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-22T12:40:44.231Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Zippy Kid"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27321dac2a025862db1e4fd7ad4",
+    "releaseDate": "2026-01-22",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Dead Soldiers",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6jum33gHIzmDTcDcXWrt9g"
   }
 ]
