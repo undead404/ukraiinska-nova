@@ -462,5 +462,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kGplSKl7Q14Zs2J1AG87WFh5JNFp4cTMs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T20:50:59.859Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KRYLATA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/7AbvFCTDaDZGxMOsKBh_oa9yKAcy9tzinl1e5T1ApbOEMUz6ahHitabYqnIPE1b8736vULWvXMs07udx0A=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Vanil'",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kZSb8mYs_RBLcys228wYSI7fl5y5YVLMc"
   }
 ]
