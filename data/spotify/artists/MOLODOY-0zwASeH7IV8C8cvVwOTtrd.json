@@ -682,5 +682,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4uBD7zp0MnDf767It32zUv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T13:36:06.836Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MOLODOY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739a3d26f105041689a506cf3b",
+    "releaseDate": "2026-01-23",
+    "tags": [
+      "rap"
+    ],
+    "title": "Зима",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0pNiey1yUXJMmig1WPLXKd"
   }
 ]

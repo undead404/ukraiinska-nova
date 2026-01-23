@@ -881,5 +881,27 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/1eDj3r0aTUJi9qNgVU30zq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T13:32:25.895Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Сметана band"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27308ca61d417605f90100fcf1b",
+    "releaseDate": "2018-09-18",
+    "tags": [
+      "rock",
+      "pop rock"
+    ],
+    "title": "Pichot",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3tkUXQVibXmLZwMpTDOYTv"
   }
 ]

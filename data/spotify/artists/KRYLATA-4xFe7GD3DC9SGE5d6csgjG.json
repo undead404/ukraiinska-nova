@@ -357,5 +357,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4Buo344ysT04bCYOPIiaf3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T13:35:25.535Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KRYLATA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bed1bf8ff56e0618286263e7",
+    "releaseDate": "2026-01-23",
+    "tags": [
+      "pop"
+    ],
+    "title": "Vanil'",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0h6kM9zJLStRAZuCErOd3k"
   }
 ]
