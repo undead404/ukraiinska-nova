@@ -848,6 +848,10 @@
       {
         "time": "2025-10-01T21:23:30.812Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-23T21:26:00.419Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -905,6 +909,10 @@
       {
         "time": "2025-10-01T21:23:30.812Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-23T21:26:00.419Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -924,6 +932,10 @@
       {
         "time": "2025-10-01T21:23:30.812Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-23T21:26:00.419Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -962,6 +974,10 @@
       {
         "time": "2025-10-01T21:23:30.812Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-23T21:26:00.419Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1076,6 +1092,10 @@
       {
         "time": "2025-10-01T21:23:30.812Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-23T21:26:00.419Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2103,6 +2123,10 @@
       {
         "time": "2025-10-31T21:24:13.009Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-23T21:26:00.419Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2139,5 +2163,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4W2ektROTyGe1Sh8WXjdsU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T21:26:00.420Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "iPunkz"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273564de6b55cc31260b62cf3b2",
+    "releaseDate": "2021-11-10",
+    "tags": [
+      "Brostep"
+    ],
+    "title": "Gadem (Vakhal Edit)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1If2Ty7hLernptJrhPDod5"
   }
 ]

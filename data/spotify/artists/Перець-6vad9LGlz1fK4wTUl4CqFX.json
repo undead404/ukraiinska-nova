@@ -49,5 +49,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5i8I2onKfjrGRRjWczIblB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T21:23:21.718Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Перець"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b920e5627414ae29b0b774be",
+    "releaseDate": "2026-01-23",
+    "tags": [
+      "Garage Punk",
+      "Garage Rock",
+      "indie pop",
+      "indie rock"
+    ],
+    "title": "22",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/64UFO1oSSHIONJ22kLrt4A"
   }
 ]

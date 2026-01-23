@@ -717,5 +717,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/74eg4wb369JZF0l76p12Or"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T21:28:16.724Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Santorin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369210c5be48c9d614a1782d0",
+    "releaseDate": "2026-01-23",
+    "tags": [
+      "rap"
+    ],
+    "title": "Я взяв свою біль",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5iM8cje7UlB9PXjHA76KxU"
   }
 ]
