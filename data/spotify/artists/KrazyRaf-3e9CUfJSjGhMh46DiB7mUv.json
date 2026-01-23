@@ -1120,5 +1120,90 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7HD4BuNyNHtln7IIuBnJCi"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T14:25:52.309Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DILL"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273246291994b1430336c513ba9",
+    "releaseDate": "2018-08-06",
+    "tags": [
+      "idm",
+      "ambient"
+    ],
+    "title": "Я не они",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3ZdSlxfBjixJ2kKTMIOmQw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T14:25:52.309Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Davlad"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b3cb804389e52b491c72d917",
+    "releaseDate": "2018-01-25",
+    "tags": [
+      "pop"
+    ],
+    "title": "Невероятно",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5im39K7XnbFwwxHjtKBFVn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T14:25:52.309Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "The lost day"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735eabd19f11d6b39ba575db71",
+    "releaseDate": "2019",
+    "tags": [
+      "rock",
+      "hardcore"
+    ],
+    "title": "The lost day",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/47KPUG6DiPaXxbso2en5s8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T14:25:52.309Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alexander Savvidi",
+      "Alexandra Savvidi"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735829829d6b464879ee5d1127",
+    "releaseDate": "2022-02-11",
+    "tags": [],
+    "title": "So Close",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4pEuS1tcEJQmswtvOrX7dO"
   }
 ]
