@@ -2280,6 +2280,10 @@
       {
         "time": "2025-10-06T21:47:45.398Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-23T21:50:01.952Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -3043,5 +3047,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nBJYh89ZIlFfgC47k4b2z0mLEVkrjsceE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T21:50:01.953Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/J4FF9g2dhu8pSY4EKks-x7CWjYK8CapzzmTrlCCTWeBZ2szgxai5XTlPaeHk5wwXTDULk27n-_R1cs7e=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Dark hall",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kIQMdKpGdCmRFbw8P9jYxg-LnQa4h0hV0"
   }
 ]

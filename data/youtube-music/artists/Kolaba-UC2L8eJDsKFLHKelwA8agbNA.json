@@ -1960,5 +1960,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nr7i3DdjWadNQX6Orb0B4h6m7U9gBis0w"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T21:48:51.529Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kolaba"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/lhi3-t0ehavsNnzGZIXti3aexgniqkdjDets-4scibggZqKMJ6z591QeVK97YjJz_LzqE_CFLPz95SJgTg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Зробіть гучніше (Dance Version)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mNCYQ-mZ-rwJxgHPg9q2F4yaFLf12FZGk"
   }
 ]
