@@ -1939,5 +1939,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6gniRclKyOv3NrbQVr0NxG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T12:26:51.089Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "drwncvnt"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27314c58b069e237b8d9d9f1173",
+    "releaseDate": "2026-01-23",
+    "tags": [
+      "electronic"
+    ],
+    "title": "one&one jumpstyle/nightcore",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5MYCdnpmcn91YpJtG9HpTf"
   }
 ]
