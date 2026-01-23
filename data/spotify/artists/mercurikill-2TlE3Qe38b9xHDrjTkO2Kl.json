@@ -257,5 +257,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4AyECN3x6VPFVC8jXfUP3I"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T06:28:23.556Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "mercurikill"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e0587d890459e95fba894168",
+    "releaseDate": "2026-01-23",
+    "tags": [
+      "rock"
+    ],
+    "title": "мені все одно",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1LMJ2hZPZdp9vNo3VWPKhG"
   }
 ]
