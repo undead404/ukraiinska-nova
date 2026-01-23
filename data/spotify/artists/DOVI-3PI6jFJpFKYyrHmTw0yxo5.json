@@ -832,5 +832,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4rOY8WHFLpWoKFLrYm7Caz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T11:24:21.635Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DOVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27354e4a5aa5c82d04740922b49",
+    "releaseDate": "2026-01-22",
+    "tags": [
+      "dream pop"
+    ],
+    "title": "Просто неба",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4eTXNfK1bEQLBfkxV1YsD6"
   }
 ]
