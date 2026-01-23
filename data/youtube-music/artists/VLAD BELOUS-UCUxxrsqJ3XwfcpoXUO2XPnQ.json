@@ -473,5 +473,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n88uSXa10HQVuTzynoQEsHezy8kUO-7Q8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T22:51:03.002Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VLAD BELOUS"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/wtbRh7lJ8Yn-0uE0ZZo1dFPNPWbdJKDHqAaNC5bdGfqzQYVyyv1_omfD0nA91lSHNb5hOWZv2eLO2A3Czw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "One Touch",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k_i9DicfL_xnxiqiMwHgDvD5_R_Q8en-0"
   }
 ]

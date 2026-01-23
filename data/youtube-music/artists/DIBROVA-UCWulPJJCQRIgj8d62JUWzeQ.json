@@ -607,5 +607,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_luqkGIP-8c6k5jvnx0agUfRVzfIJxZzlw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T22:48:55.528Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DIBROVA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/03nvjaPyn801u2ulE29F5SY7TcmE4NgFMkYMe8OZWH4ZO-C5VQATOyrSoYboiqwSIjou9eNl9AjQ8rIl=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Танцювала",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nBjamtQb7agRdqBlav_yEyY3iPnEWUMEc"
   }
 ]
