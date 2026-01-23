@@ -2093,5 +2093,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_njZNz5FPa4HEZ277eHA3FiE-SQzsaVDBY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T10:52:26.540Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "kavabanga Depo kolibri"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/1DD67oaJixpldD5aykFfoIULN9BUPATLIpTDaxrwEE5Y68GsZu7ZH1FWLqj9JqQKadQETkKZPfspfJXX=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Троянди",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mszowwAnVJ-UuLUHDOrIi6AtXQAlwUgHI"
   }
 ]
