@@ -1347,5 +1347,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nqUFiD9BTjiREvkb9KB9HOTm9s33bN_vU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T15:51:26.203Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Gezweirdo"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/ZLO5DESUDVcc54TngEAn0v96NrpYxUQ-WtydY48pyQ9gAjonclwpMwnJFIk23YPhRV-BmotWmpX5YnE=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Where Is My Home?",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nK7aSoHMpi20ElAh_abmCwoe0q0R_PDTw"
   }
 ]
