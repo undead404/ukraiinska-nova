@@ -1167,5 +1167,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7MaTonrqG78nLIqTok3jbL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T08:24:46.871Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b7862e37f5bf78a028f2e20d",
+    "releaseDate": "2026-01-22",
+    "tags": [
+      "pop"
+    ],
+    "title": "Подихом",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6xUg7EmIim8cSAcK7OpMNd"
   }
 ]
