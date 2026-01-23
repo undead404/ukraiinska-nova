@@ -721,5 +721,29 @@
     "totalTracks": 16,
     "type": "album",
     "url": "https://open.spotify.com/album/6DMjowXykeAqTA6bp4cq1V"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T16:30:11.618Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Zhadan i Sobaky",
+      "Tina Karol",
+      "Хартія"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eedd5c30664b608db8b49d44",
+    "releaseDate": "2026-01-23",
+    "tags": [
+      "pop",
+      "rock"
+    ],
+    "title": "Ніч",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6w6nKd6KHVeaAfA37ujEvc"
   }
 ]
