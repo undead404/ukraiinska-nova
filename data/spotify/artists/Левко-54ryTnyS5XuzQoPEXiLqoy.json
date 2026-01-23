@@ -363,5 +363,26 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/6NbfsHi9obArMcHCIHYp5F"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T15:22:01.466Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "завірюга"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27320edd1cdcb3ab2bac976cd85",
+    "releaseDate": "2026-01-23",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "цвяхи",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6lKkPvpq4qLo1XllkFW74y"
   }
 ]
