@@ -93,5 +93,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1qBvCsxzghrjqYyahxYSgc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T18:23:16.463Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Врангель"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27328f49e45d039aa400747a983",
+    "releaseDate": "2026-01-23",
+    "tags": [],
+    "title": "Альтернатива для України",
+    "totalTracks": 17,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1EF4Y8p6koQbrT0lzwekeE"
   }
 ]

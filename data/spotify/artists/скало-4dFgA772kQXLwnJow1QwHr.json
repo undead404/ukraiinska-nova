@@ -542,5 +542,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2TagTKD3uclkjOaq1r9rRF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T18:24:09.055Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Elijah Soul",
+      "скало"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739520745c94fa4091e92a4116",
+    "releaseDate": "2026-01-23",
+    "tags": [
+      "rap"
+    ],
+    "title": "MaxTac",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4ARydyeGxdF8ZYMGZh3qyK"
   }
 ]

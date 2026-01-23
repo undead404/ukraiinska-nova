@@ -513,6 +513,10 @@
       {
         "time": "2025-09-18T18:27:28.419Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-23T18:28:44.371Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -597,6 +601,10 @@
       {
         "time": "2025-09-18T18:27:28.419Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-23T18:28:44.371Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -767,6 +775,10 @@
       {
         "time": "2025-09-18T18:27:28.419Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-23T18:28:44.371Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -830,6 +842,10 @@
       {
         "time": "2025-09-18T18:27:28.419Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-23T18:28:44.371Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -864,5 +880,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6C60mzZrim6kAK3fy6dklX"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T18:28:44.371Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ІЛЛЯ LETAY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27342846c7dddb301dc952604fc",
+    "releaseDate": "2021-01-22",
+    "tags": [],
+    "title": "Закохані злодії",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/15hmzDoHYE3wFvef45hDgp"
   }
 ]
