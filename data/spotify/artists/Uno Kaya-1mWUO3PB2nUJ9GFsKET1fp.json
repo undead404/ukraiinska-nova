@@ -2262,5 +2262,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3FwmDddDfkOS87yEvOIzsC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T05:30:08.235Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Uno Kaya"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f77ffdf02fadd495d3c691f0",
+    "releaseDate": "2026-01-23",
+    "tags": [],
+    "title": "Ніч Така Місячна",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2npdMp2Kj42X3fZFF0er96"
   }
 ]

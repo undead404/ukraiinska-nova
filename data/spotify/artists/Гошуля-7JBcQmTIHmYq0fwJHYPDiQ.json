@@ -650,5 +650,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4OGE9GrP3I4zlsdAaB7sTj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T05:22:02.713Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гошуля"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eb7f9affd76280e74fd28d2e",
+    "releaseDate": "2026-01-22",
+    "tags": [],
+    "title": "Зимую",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5DCOsiJxPLRWz0I7YP5XmM"
   }
 ]
