@@ -215,6 +215,10 @@
       {
         "time": "2025-10-17T17:24:38.500Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-23T17:29:04.776Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -234,6 +238,10 @@
       {
         "time": "2025-10-17T17:24:38.500Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-23T17:29:04.776Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -253,6 +261,10 @@
       {
         "time": "2025-10-17T17:24:38.500Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-23T17:29:04.776Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -272,6 +284,10 @@
       {
         "time": "2025-10-17T17:24:38.500Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-23T17:29:04.776Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -291,6 +307,10 @@
       {
         "time": "2025-10-17T17:24:38.500Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-23T17:29:04.776Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -580,6 +600,10 @@
       {
         "time": "2025-10-17T17:24:38.500Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-23T17:29:04.776Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -599,6 +623,10 @@
       {
         "time": "2025-10-17T17:24:38.500Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-23T17:29:04.776Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -679,6 +707,10 @@
       {
         "time": "2025-10-17T17:24:38.500Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-23T17:29:04.776Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -698,6 +730,10 @@
       {
         "time": "2025-10-17T17:24:38.500Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-23T17:29:04.776Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -717,6 +753,10 @@
       {
         "time": "2025-10-17T17:24:38.500Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-23T17:29:04.776Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -793,6 +833,10 @@
       {
         "time": "2025-10-17T17:24:38.500Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-23T17:29:04.776Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -855,6 +899,10 @@
       {
         "time": "2025-10-17T17:24:38.500Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-23T17:29:04.776Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1101,5 +1149,66 @@
     "totalTracks": 16,
     "type": "album",
     "url": "https://open.spotify.com/album/2dpWyDsuAO723GQbFTLmZp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T17:29:04.776Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Harland Kasten"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ea0df79180353c1fce21d7e4",
+    "releaseDate": "2023-06-01",
+    "tags": [],
+    "title": "Believe",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6ZYZDRrHjYxO3dBNmU91dg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T17:29:04.776Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Cheetoz, Ivan Deyanov"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27378b62034b3770c74f44d1a64",
+    "releaseDate": "2016-12-16",
+    "tags": [],
+    "title": "Forever Young",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2cuR7wGkTGuMKFA6gCGMBi"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T17:29:04.776Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KAZAKY"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273606b4934f39211b812c70746",
+    "releaseDate": "2025-07-14",
+    "tags": [
+      "dance",
+      "electronic",
+      "pop"
+    ],
+    "title": "Kazaky Collaborative Remixes, Vol.1",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2ZY3oB151E55Pph934Rpxr"
   }
 ]

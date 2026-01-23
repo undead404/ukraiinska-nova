@@ -431,5 +431,27 @@
     "totalTracks": 8,
     "type": "album",
     "url": "https://open.spotify.com/album/113N8FQKOzfrTNPO3AdGal"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T17:22:39.360Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Скажи щось погане"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b5d9bf32146390c42c609265",
+    "releaseDate": "2026-01-23",
+    "tags": [
+      "new wave",
+      "Psychedelic Rock"
+    ],
+    "title": "Передоз",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0jvWJYLEaXRDGWx7NZx3tu"
   }
 ]
