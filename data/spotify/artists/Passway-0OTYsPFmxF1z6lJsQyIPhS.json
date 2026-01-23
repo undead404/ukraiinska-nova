@@ -208,5 +208,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3jmmQhceST2ZTIvyR3p3ga"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T09:27:56.195Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Passway",
+      "Driplla"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dc6baddf0a0066968894c0dc",
+    "releaseDate": "2026-01-23",
+    "tags": [],
+    "title": "Restart",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0BhIaSi5wI2a7UEtaJdcJ9"
   }
 ]
