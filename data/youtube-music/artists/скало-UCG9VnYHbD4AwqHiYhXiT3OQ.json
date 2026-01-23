@@ -392,5 +392,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mVmVI3EqsRgWpcucMFMD1Q_xTAxxZqOIg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T05:50:42.086Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "скало"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/qeiHAEc1pzER0Cg0-IAFGV-MrID4MMDG3unfcfHiPLBoLBydHE2THZ4NL8VWAW22aSuWE1qmH3n-9oWi=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "MaxTac",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lEGCtAb7qaBHjrjUeeZR2YdK8ndbpsHnM"
   }
 ]
