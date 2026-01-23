@@ -2019,5 +2019,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5OZVBxoCndv1UIllt43U6e"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T07:23:02.798Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ARCHEZ"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c014542136912128a1f2d6fb",
+    "releaseDate": "2026-01-23",
+    "tags": [
+      "phonk"
+    ],
+    "title": "DIE_SON",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4T4sAZ0EMT1Q3XdXAFL3tm"
   }
 ]
