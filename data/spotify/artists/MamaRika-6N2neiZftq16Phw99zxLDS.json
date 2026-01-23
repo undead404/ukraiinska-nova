@@ -1353,5 +1353,69 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1yJFrIRxg0cZy47YmBMclZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T22:25:35.427Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VovaZiLvova"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c2af8f0de8d0740896017b83",
+    "releaseDate": "2023-12-29",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Маленький український реп альманах",
+    "totalTracks": 16,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0WVARo8tcylcdUu07YNry0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T22:25:35.427Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Olya Polyakova",
+      "DOROFEEVA",
+      "Jerry Heil"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273413e0eb844ac9d95252e4239",
+    "releaseDate": "2022-04-21",
+    "tags": [
+      "pop",
+      "dance"
+    ],
+    "title": "Разом до перемоги",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/58PWe2Emeo0hxXViqhHqES"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T22:25:35.427Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "МАЛЮТКА"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736ff3b4733ac4a16fb4d342f7",
+    "releaseDate": "2024-01-12",
+    "tags": [],
+    "title": "Колискові з українською душею",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1cTCPiPTFbV8lRwLgp9chf"
   }
 ]

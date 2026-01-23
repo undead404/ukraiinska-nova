@@ -320,5 +320,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0bDtu0OPv0UQFCT61mH0an"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T22:27:20.111Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ORIONIX"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738b67038d9c7d15c3b13ab790",
+    "releaseDate": "2026-01-23",
+    "tags": [
+      "alternative rock",
+      "pop rock",
+      "synth rock"
+    ],
+    "title": "Не такі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1XCT5KLitgiX1CqZWzmfEE"
   }
 ]
