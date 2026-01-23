@@ -229,5 +229,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nSYJdRlPXrqg2mN5o5t6T7OMRxQ6802_A"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T09:51:06.034Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Darie Lu"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/8z_pupiUlz1CfCkQ1Yqoxw6EmF3coy7aFCSYBtpE0m5ifAXguhC1wD2RGLeFf6uDPMSp2gcUxWHSSow=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Епізод",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lw4uE_SdE412pkqeoQsDraKzfYMx4M86k"
   }
 ]

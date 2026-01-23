@@ -1229,5 +1229,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lmwJYjA5jO5BDIDWd3ELKwT4SR8gsbMkE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T09:51:18.235Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DOVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/qpxS1-usaafhrIcXbkC7gCly0lzbz3T9MYyUQd0FWvywK5EVZuKhTiZt1jd5s8mZOIKwwtTv102F03HD=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "dream pop"
+    ],
+    "title": "Просто неба",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_njcUmEypcdZJVYD0kwUR9m6DLLg_sdPv0"
   }
 ]
