@@ -461,5 +461,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/70PuZJUa7NPOuc6YR7BPnF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T20:25:28.369Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Delirium"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733821c524a56ef3c8dcc0ec8e",
+    "releaseDate": "2026-01-23",
+    "tags": [
+      "death metal",
+      "Progressive rock"
+    ],
+    "title": "Спіраль Мовчання",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3dLjja2dSLeK48608NM6xY"
   }
 ]

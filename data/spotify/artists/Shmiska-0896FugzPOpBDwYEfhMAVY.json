@@ -368,5 +368,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1Oaf7lnKX6HOXDIAEhDwc3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T20:29:31.598Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Shmiska",
+      "анастимоза"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273054a57d7ee35de3096a58a15",
+    "releaseDate": "2026-01-23",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Ти винен сам",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/70xcGE515etdEXFKJT6Sps"
   }
 ]
