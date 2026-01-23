@@ -590,5 +590,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lKL50c-1juGUUPw83oVFQCOQoi5EpIwfg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T23:49:17.567Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MOLODOY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/jKDckFSbrZnIcWl7P6Qx-6AXGIDGYUpdogjor3z0qDDFpfIq4_fci4EH7X8V1jn-BF0mKOSHJ3AdDKlY=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Зима",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nbumLIMkQKjSna8kPNAAmb8St_s0yA-uw"
   }
 ]
