@@ -571,5 +571,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0wHBidtZwDsBXzP0xw7bc9"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T20:27:55.571Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lugovskiy"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ecd70b7e7cfe506439311382",
+    "releaseDate": "2024-01-27",
+    "tags": [
+      "deep house",
+      "House"
+    ],
+    "title": "30",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7trNbMKu2keiGwVKWsnRuw"
   }
 ]
