@@ -517,12 +517,16 @@
       {
         "time": "2026-01-23T18:28:44.371Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-24T18:27:56.459Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Kozak System"
     ],
-    "artistsPopularity": 41,
+    "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ee55683188f3012d8faa47e0",
     "releaseDate": "2020-01-20",
     "tags": [
@@ -605,12 +609,16 @@
       {
         "time": "2026-01-23T18:28:44.371Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-24T18:27:56.459Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Kozak System"
     ],
-    "artistsPopularity": 41,
+    "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735a9cf96c60c08dc05025730c",
     "releaseDate": "2018-07-02",
     "tags": [
@@ -779,12 +787,16 @@
       {
         "time": "2026-01-23T18:28:44.371Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-24T18:27:56.459Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Kozak System"
     ],
-    "artistsPopularity": 41,
+    "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27363e3c01a3943ddb9f2a725c6",
     "releaseDate": "2016-03-18",
     "tags": [
@@ -846,12 +858,16 @@
       {
         "time": "2026-01-23T18:28:44.371Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-24T18:27:56.459Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Kozak System"
     ],
-    "artistsPopularity": 41,
+    "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735876fb6595f936e48771ccdb",
     "releaseDate": "2014-09-26",
     "tags": [
@@ -886,6 +902,10 @@
       {
         "time": "2026-01-23T18:28:44.371Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T18:27:56.459Z",
+        "type": "LOST"
       }
     ],
     "artists": [
