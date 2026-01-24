@@ -46,6 +46,10 @@
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T08:25:48.981Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -196,6 +200,10 @@
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T08:25:48.981Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -369,6 +377,10 @@
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T08:25:48.981Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -502,6 +514,10 @@
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T08:25:48.981Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -565,6 +581,10 @@
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T08:25:48.981Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -629,6 +649,10 @@
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T08:25:48.981Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -713,6 +737,10 @@
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T08:25:48.981Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -782,6 +810,10 @@
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T08:25:48.981Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1128,6 +1160,10 @@
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T08:25:48.981Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1170,6 +1206,10 @@
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T08:25:48.981Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1191,6 +1231,10 @@
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T08:25:48.981Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1212,6 +1256,10 @@
       {
         "time": "2025-09-17T08:21:07.795Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T08:25:48.981Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1626,6 +1674,10 @@
       {
         "time": "2025-09-18T08:29:44.865Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T08:25:48.981Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1647,6 +1699,10 @@
       {
         "time": "2025-09-18T08:29:44.865Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T08:25:48.981Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1773,6 +1829,10 @@
       {
         "time": "2025-10-03T08:24:58.756Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T08:25:48.981Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1851,5 +1911,49 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1e043cqReHkbrPd6VRLNTN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T08:25:48.982Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Artem Pivovarov"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273da8ca6a4ac932845282b0aac",
+    "releaseDate": "2024-11-29",
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "title": "Твої Вірші, Мої Ноти PT.2",
+    "totalTracks": 17,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4NYbJJwI4ylj4DLOTuhD1E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T08:25:48.982Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DJ Antoine"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735353396ae1bf5b815b321521",
+    "releaseDate": "2013-01-25",
+    "tags": [
+      "House",
+      "dance"
+    ],
+    "title": "Sky Is the Limit",
+    "totalTracks": 36,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5cr6XhyGTx1bqHIznhLJyi"
   }
 ]
