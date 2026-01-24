@@ -1430,5 +1430,30 @@
     "totalTracks": 22,
     "type": "album",
     "url": "https://open.spotify.com/album/0JEnTrY3SyoCVUNmKZMn5x"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T10:25:06.239Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Jamala",
+      "Andi Vax"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734f52277be9ca21a353ba6a81",
+    "releaseDate": "2022-02-25",
+    "tags": [
+      "electro house",
+      "House",
+      "jazz",
+      "soul"
+    ],
+    "title": "ПОТАЙКИ (Andi Vax Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7ECeRpxW7ryvSsNNoeNVcl"
   }
 ]
