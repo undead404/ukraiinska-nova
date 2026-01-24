@@ -285,5 +285,27 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/6MITTICRU3uRGY9H4NiFMb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T09:23:29.694Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Hanna Svirska"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739e59c70c0b2d933c670bf32d",
+    "releaseDate": "2022-04-27",
+    "tags": [
+      "electronic",
+      "neoclassical"
+    ],
+    "title": "Shepit",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6OGh95WRLIF8P3DhXN3fBA"
   }
 ]

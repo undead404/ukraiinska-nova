@@ -1336,5 +1336,191 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5uTbhC0Su2uUEYAaIbaES2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T09:26:51.086Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YARMAK"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733bea368aa240de5499728f9d",
+    "releaseDate": "2022-08-26",
+    "tags": [
+      "rap"
+    ],
+    "title": "МОЯ КРАЇНА",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1hbtwvlGAJtPrtlObSxZVE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T09:26:51.086Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YARMAK"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273df8a4e707ee52628a8da1b1c",
+    "releaseDate": "2015-03-21",
+    "tags": [
+      "rap"
+    ],
+    "title": "Made in UA",
+    "totalTracks": 18,
+    "type": "album",
+    "url": "https://open.spotify.com/album/23cRZVIOTVoEBkog5wjR2D"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T09:26:51.086Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YARMAK"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731ec5353655f8f0af9fb99198",
+    "releaseDate": "2020-12-11",
+    "tags": [
+      "rap"
+    ],
+    "title": "RED LINE",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2lc4Awatby2yLj6PgSksm3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T09:26:51.086Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YARMAK"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f973d989d9edc53799ca6402",
+    "releaseDate": "2017-04-07",
+    "tags": [
+      "rap"
+    ],
+    "title": "RESTART",
+    "totalTracks": 16,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5GD1ovWrc2ImFiYfX8niMp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T09:26:51.086Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YARMAK"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273128f0773f1ee4642ba13446b",
+    "releaseDate": "2014",
+    "tags": [
+      "rap"
+    ],
+    "title": "22",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/76lIDnnhiXX5z3nuDYgHoE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T09:26:51.086Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Бардак"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733262ddc46438756f6b148ee9",
+    "releaseDate": "2014-12-07",
+    "tags": [],
+    "title": "Рандом",
+    "totalTracks": 16,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1FwpOIk3o0vlJ5Fa4qJeZ8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T09:26:51.086Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Фир"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27391c5c642df991cab64160f35",
+    "releaseDate": "2015-01-01",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Выход",
+    "totalTracks": 16,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7mAsheaHZtZ3cBLaDAkcLv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T09:26:51.086Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Various Artists"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27366cde2ffed2c00845c7f8fbf",
+    "releaseDate": "2019-04-26",
+    "tags": [],
+    "title": "Ostap Banger",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4WLwgheHwdQD0LZHbUoh8A"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T09:26:51.086Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "FIR",
+      "Xeigen"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cf17a82083f66b7d95fd62d6",
+    "releaseDate": "2021-07-03",
+    "tags": [
+      "C-pop"
+    ],
+    "title": "Красавица (Xeigen Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1qUpgMxbvcFo7Z6yXrI865"
   }
 ]
