@@ -211,13 +211,17 @@
       {
         "time": "2026-01-23T23:23:04.213Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-24T23:22:59.717Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Kolaba",
       "Павло Зібров"
     ],
-    "artistsPopularity": 41,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273978b41776f2a5bd1c6efaa17",
     "releaseDate": "2024-06-21",
     "tags": [
@@ -304,13 +308,17 @@
       {
         "time": "2026-01-23T23:23:04.213Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-24T23:22:59.717Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Kolaba",
       "Павло Зібров"
     ],
-    "artistsPopularity": 41,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d25b6578d915561a3db404b4",
     "releaseDate": "2023-11-03",
     "tags": [
