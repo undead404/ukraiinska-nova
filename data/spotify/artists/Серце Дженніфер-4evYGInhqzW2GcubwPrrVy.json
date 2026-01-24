@@ -82,5 +82,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0vcyqAf028pl19wHdbAL5e"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T06:23:14.190Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Серце Дженніфер"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b7590194e39b3141e7d71fb1",
+    "releaseDate": "2013-09-19",
+    "tags": [
+      "pop rock"
+    ],
+    "title": "XXXO (Censored)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/148mQ1DhmBR0REGEuOU45n"
   }
 ]
