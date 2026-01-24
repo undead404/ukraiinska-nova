@@ -2114,5 +2114,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mszowwAnVJ-UuLUHDOrIi6AtXQAlwUgHI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T10:49:41.317Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "kavabanga Depo kolibri"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/Qt7YdlhLpqvzGRqrV3B1Cra7A1JAhbJ6p1LrgqcqYcy_lvYxVlBkXGy2UVathF33ON17AB2NJ3ZPfkZS=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Віскі кола (QANO remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mzBOyyRebwrTfKMXXYLv5rCJxnRpd2s4c"
   }
 ]
