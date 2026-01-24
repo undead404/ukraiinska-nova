@@ -302,5 +302,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5VQvZYXT6KCSyVp09Ym8o1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T19:21:16.101Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Пан Парасоля"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27335b548ba3bff423ad4f7fd6e",
+    "releaseDate": "2026-01-23",
+    "tags": [],
+    "title": "Близько",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0Q9yWzsmaEB8aZH5kpAiI2"
   }
 ]
