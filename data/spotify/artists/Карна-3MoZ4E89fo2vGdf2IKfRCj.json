@@ -481,5 +481,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3Yw7JK7HeSkwT9gGz39URF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T01:50:40.979Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Карна"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b831f457f635e5fa12a2a02d",
+    "releaseDate": "2026-01-23",
+    "tags": [
+      "Nu Metal",
+      "alternative metal"
+    ],
+    "title": "Перша Карпатська Симфонія",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/40pl7Ch8fwj5ikHzvRRKGe"
   }
 ]
