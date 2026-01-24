@@ -547,5 +547,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mUMUStNVefKshFGWTnqrHddyyOV7GpBqo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T04:04:30.118Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "karmv"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/riqcGTQorzYtoVTLKoNj9y5gVKX2VegK6i6_hvrtcTF3GizKUe3Dc5jq7-0n3msn0SeZz4BjWYTSuJTA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Твоя краса – провокація",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kX0fp4f0BZ09_5ksSL4lCj76cjypOf210"
   }
 ]
