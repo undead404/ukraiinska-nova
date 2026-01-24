@@ -143,13 +143,17 @@
       {
         "time": "2026-01-23T22:26:51.056Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-24T22:25:43.961Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Morphom",
       "макс пташник"
     ],
-    "artistsPopularity": 34,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738b3224b7c3fb51d460e488cd",
     "releaseDate": "2025-02-21",
     "tags": [
@@ -1101,13 +1105,17 @@
       {
         "time": "2026-01-23T22:26:51.056Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-24T22:25:43.961Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "макс пташник",
       "Morphom"
     ],
-    "artistsPopularity": 34,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730f70bd82d23d66af65ae0d8d",
     "releaseDate": "2021-11-12",
     "tags": [
@@ -1399,12 +1407,16 @@
       {
         "time": "2026-01-23T22:26:51.056Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-24T22:25:43.961Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Morphom"
     ],
-    "artistsPopularity": 34,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273395e054253d43c83b541db7d",
     "releaseDate": "2021-08-12",
     "tags": [
@@ -1425,12 +1437,16 @@
       {
         "time": "2026-01-23T22:26:51.056Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-24T22:25:43.961Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Morphom"
     ],
-    "artistsPopularity": 34,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738fe35443aa13a1f4d39f3b8d",
     "releaseDate": "2021-08-06",
     "tags": [
@@ -1475,12 +1491,16 @@
       {
         "time": "2026-01-23T22:26:51.056Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-24T22:25:43.961Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Morphom"
     ],
-    "artistsPopularity": 34,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aeb97c0b95171bcc31c85f25",
     "releaseDate": "2021-07-22",
     "tags": [
@@ -1501,12 +1521,16 @@
       {
         "time": "2026-01-23T22:26:51.056Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-24T22:25:43.961Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Morphom"
     ],
-    "artistsPopularity": 34,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273946e9c6d6a347db0a36d5864",
     "releaseDate": "2021-07-19",
     "tags": [
@@ -1527,12 +1551,16 @@
       {
         "time": "2026-01-23T22:26:51.056Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-24T22:25:43.961Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Morphom"
     ],
-    "artistsPopularity": 34,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738e22eb21c98f60a6d42ca770",
     "releaseDate": "2021-07-15",
     "tags": [
@@ -1576,13 +1604,17 @@
       {
         "time": "2026-01-23T22:26:51.056Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-24T22:25:43.961Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "VovaZiLvova",
       "Morphom"
     ],
-    "artistsPopularity": 44,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735d1e4bbfff2766afdfddadd9",
     "releaseDate": "2021-03-01",
     "tags": [

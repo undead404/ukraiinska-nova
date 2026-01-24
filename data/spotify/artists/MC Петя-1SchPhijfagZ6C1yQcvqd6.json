@@ -336,5 +336,26 @@
     "totalTracks": 7,
     "type": "album",
     "url": "https://open.spotify.com/album/53a5Zjga7bCNRbCDH7zB8d"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T22:25:09.733Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MC Петя"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273930dada43505e891e251293b",
+    "releaseDate": "2026-01-23",
+    "tags": [
+      "rap"
+    ],
+    "title": "Діти сироти",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0rqWyAHnz788ntmIL8R8RI"
   }
 ]

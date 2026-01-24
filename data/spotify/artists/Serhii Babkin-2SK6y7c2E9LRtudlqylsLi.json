@@ -475,12 +475,16 @@
       {
         "time": "2026-01-23T22:28:33.176Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-24T22:27:16.938Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Serhii Babkin"
     ],
-    "artistsPopularity": 35,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736458adb317e0835814c9c33f",
     "releaseDate": "2024-02-09",
     "tags": [
@@ -526,13 +530,17 @@
       {
         "time": "2026-01-23T22:28:33.176Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-24T22:27:16.938Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Serhii Babkin",
       "Yurii Kabo"
     ],
-    "artistsPopularity": 35,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273662397cc898b9ad2e28f5953",
     "releaseDate": "2023-12-01",
     "tags": [
@@ -809,13 +817,17 @@
       {
         "time": "2026-01-23T22:28:33.176Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-24T22:27:16.938Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Serhii Babkin",
       "Веселина Бабкіна"
     ],
-    "artistsPopularity": 35,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27398865a6ac16afdfe8843af6f",
     "releaseDate": "2020-12-23",
     "tags": [
@@ -1119,12 +1131,16 @@
       {
         "time": "2026-01-23T22:28:33.176Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-24T22:27:16.938Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Serhii Babkin"
     ],
-    "artistsPopularity": 35,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737c2a65d7c5aeba92766c85c3",
     "releaseDate": "2016-08-22",
     "tags": [
@@ -1192,12 +1208,16 @@
       {
         "time": "2026-01-23T22:28:33.176Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-24T22:27:16.938Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Serhii Babkin"
     ],
-    "artistsPopularity": 35,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ae8991a0f757cda97f82d56a",
     "releaseDate": "2013-07-02",
     "tags": [
@@ -1265,12 +1285,16 @@
       {
         "time": "2026-01-23T22:28:33.176Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-24T22:27:16.938Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Состояние Души"
     ],
-    "artistsPopularity": 4,
+    "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27303e67800431a70cd7e60fa1f",
     "releaseDate": "2019-04-30",
     "tags": [
@@ -1292,12 +1316,16 @@
       {
         "time": "2026-01-23T22:28:33.176Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-24T22:27:16.938Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Состояние Души"
     ],
-    "artistsPopularity": 4,
+    "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ef401f2424445dfc92af41cc",
     "releaseDate": "2021-03-26",
     "tags": [
@@ -1319,6 +1347,10 @@
       {
         "time": "2026-01-23T22:28:33.176Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-24T22:27:16.938Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
