@@ -4,6 +4,10 @@
       {
         "time": "2025-09-23T05:23:50.243Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T05:26:26.499Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -63,6 +67,10 @@
       {
         "time": "2025-09-23T05:23:50.243Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T05:26:26.499Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -162,6 +170,10 @@
       {
         "time": "2025-09-23T05:23:50.243Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T05:26:26.499Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -181,6 +193,10 @@
       {
         "time": "2025-09-23T05:23:50.243Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T05:26:26.499Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -243,6 +259,10 @@
       {
         "time": "2025-09-23T05:23:50.243Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T05:26:26.499Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -364,6 +384,10 @@
       {
         "time": "2025-09-23T05:23:50.243Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T05:26:26.499Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -403,6 +427,10 @@
       {
         "time": "2025-09-23T05:23:50.243Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T05:26:26.499Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -442,6 +470,10 @@
       {
         "time": "2025-09-23T05:23:50.243Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T05:26:26.499Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -499,6 +531,10 @@
       {
         "time": "2025-09-23T05:23:50.243Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T05:26:26.499Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -537,6 +573,10 @@
       {
         "time": "2025-09-23T05:23:50.243Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T05:26:26.499Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -595,6 +635,10 @@
       {
         "time": "2025-09-23T05:23:50.243Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T05:26:26.499Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -634,6 +678,10 @@
       {
         "time": "2025-09-23T05:23:50.243Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T05:26:26.499Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -710,6 +758,10 @@
       {
         "time": "2025-09-23T05:23:50.243Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T05:26:26.499Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1174,6 +1226,10 @@
       {
         "time": "2025-09-23T05:23:50.243Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T05:26:26.499Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1370,6 +1426,10 @@
       {
         "time": "2025-09-23T05:23:50.243Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T05:26:26.499Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1430,6 +1490,10 @@
       {
         "time": "2025-09-23T05:23:50.243Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T05:26:26.499Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1449,6 +1513,10 @@
       {
         "time": "2025-09-23T05:23:50.243Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T05:26:26.499Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1750,5 +1818,81 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0XO9ga8unUKDCRPgz5cjm4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T05:26:26.500Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ruslan Nota"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739c9cf530c740ac6451b16284",
+    "releaseDate": "2024-07-25",
+    "tags": [],
+    "title": "Made in Ua",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7MurmrcGkpFK1Mtp3hPvoc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T05:26:26.500Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ruslan Nota"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e6ff7a3b8624e9a4d2ebefa7",
+    "releaseDate": "2024-03-22",
+    "tags": [],
+    "title": "Чача в стилі ЗСУ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7ohehApfaRCVodC4qh79Zq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T05:26:26.500Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ruslan Nota"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27344066b54fb4c723aa2b1f6a1",
+    "releaseDate": "2023-12-25",
+    "tags": [],
+    "title": "З днем народження хай радіє душа",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2swExT2sF2AQjlRF0rk4Zh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T05:26:26.500Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ruslan Nota"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fc2d006ea5d2630369ff6106",
+    "releaseDate": "2023-09-07",
+    "tags": [],
+    "title": "Горіли танки коло хати",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/38VVZMHk05wqfqCnLzhy8m"
   }
 ]
