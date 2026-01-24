@@ -849,5 +849,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5knACJMwfB92rs8iYtT0Ij"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T03:50:15.521Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89",
+      "MAKEMD"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730856995d4f64d33bba48e873",
+    "releaseDate": "2026-01-23",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Flux (Original Mix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0sUWqQslkO43lTGkH1DsPx"
   }
 ]
