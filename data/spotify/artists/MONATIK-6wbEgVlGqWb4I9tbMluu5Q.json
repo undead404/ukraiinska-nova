@@ -314,13 +314,17 @@
       {
         "time": "2026-01-23T15:26:41.799Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-24T15:26:12.073Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Jamala",
       "MONATIK"
     ],
-    "artistsPopularity": 54,
+    "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738ec377ccfcf0a8b80c31b765",
     "releaseDate": "2024-11-28",
     "tags": [
@@ -1210,12 +1214,16 @@
       {
         "time": "2026-01-23T15:26:41.799Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-24T15:26:12.073Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "MONATIK"
     ],
-    "artistsPopularity": 54,
+    "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c4ef7e342ce0ee3e96e9510d",
     "releaseDate": "2018-12-31",
     "tags": [

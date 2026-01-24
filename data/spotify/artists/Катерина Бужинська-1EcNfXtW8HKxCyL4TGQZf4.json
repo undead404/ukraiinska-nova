@@ -990,5 +990,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/31bAJUTuX715Niib2q3Hvy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T15:21:12.362Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Катерина Бужинська"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cfefb9b1c1790f817e952677",
+    "releaseDate": "2026-01-24",
+    "tags": [],
+    "title": "Ти скажеш дружині",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/51psFtJfHtf7TRYV9tVFa8"
   }
 ]
