@@ -570,5 +570,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/52XIyfTpGdVPJv3amLJKsG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T04:27:47.008Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "GEZWEIRDO"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a0ad1f8c61f0bfafb9b3b436",
+    "releaseDate": "2026-01-23",
+    "tags": [],
+    "title": "Where Is My Home?",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7e7VmuaDwB53e6heyn46SE"
   }
 ]
