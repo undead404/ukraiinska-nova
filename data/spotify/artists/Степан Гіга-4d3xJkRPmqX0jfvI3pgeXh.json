@@ -490,5 +490,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1QGxIkh2XLd6XulOTwhJwm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-25T11:21:39.809Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Степан Гіга"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737e55fad3c111a929a0deba41",
+    "releaseDate": "2026-01-24",
+    "tags": [
+      "nsbm"
+    ],
+    "title": "Мої роки - моя молитва",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2BN5sgB063G7iC8dM1IBJa"
   }
 ]
