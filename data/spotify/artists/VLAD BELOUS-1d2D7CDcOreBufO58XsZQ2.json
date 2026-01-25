@@ -515,5 +515,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0fQzSOo3PQCzi77cFcwqqs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-25T04:43:21.968Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VLAD BELOUS"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735eb83abf38abee00f5537152",
+    "releaseDate": "2026-01-23",
+    "tags": [],
+    "title": "One Touch",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3hoe5bEAPlqI46mOJpDwPd"
   }
 ]
