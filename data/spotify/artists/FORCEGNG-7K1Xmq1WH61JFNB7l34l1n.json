@@ -846,5 +846,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0TlNzXUNoVFLrysLNMn7lm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-25T22:23:17.632Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "FORCEGNG"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ad196bb60f52d11fa70da6db",
+    "releaseDate": "2022-12-16",
+    "tags": [
+      "rap"
+    ],
+    "title": "HUNNIDZ UP",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/60jglMy3WZlVznHBrq0z6K"
   }
 ]
