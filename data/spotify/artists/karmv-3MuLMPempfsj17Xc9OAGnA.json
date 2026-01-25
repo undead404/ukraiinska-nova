@@ -226,13 +226,17 @@
       {
         "time": "2026-01-24T08:25:06.274Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-25T08:25:01.652Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "RKTKOSS",
       "karmv"
     ],
-    "artistsPopularity": 38,
+    "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733c8354bb00ef438b91953258",
     "releaseDate": "2025-05-09",
     "tags": [],
@@ -359,13 +363,17 @@
       {
         "time": "2026-01-24T08:25:06.274Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-25T08:25:01.652Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "RKTKOSS",
       "karmv"
     ],
-    "artistsPopularity": 38,
+    "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273920abcc6391b2bfbc44b203c",
     "releaseDate": "2024-12-13",
     "tags": [],
@@ -433,13 +441,17 @@
       {
         "time": "2026-01-24T08:25:06.274Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-25T08:25:01.652Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "RKTKOSS",
       "karmv"
     ],
-    "artistsPopularity": 38,
+    "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27304923883389abee8110c7371",
     "releaseDate": "2024-11-01",
     "tags": [],
@@ -1031,13 +1043,17 @@
       {
         "time": "2026-01-24T08:25:06.274Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-25T08:25:01.652Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "RKTKOSS",
       "karmv"
     ],
-    "artistsPopularity": 38,
+    "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b0c26682068d13fd1aa031de",
     "releaseDate": "2024-04-26",
     "tags": [],
@@ -1375,13 +1391,17 @@
       {
         "time": "2026-01-24T08:25:06.274Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-25T08:25:01.652Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Pospelov",
       "karmv"
     ],
-    "artistsPopularity": 38,
+    "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273964ffde27061fd9717228111",
     "releaseDate": "2023-12-30",
     "tags": [],
@@ -1791,6 +1811,10 @@
       {
         "time": "2026-01-24T08:25:06.274Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-25T08:25:01.652Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1799,7 +1823,7 @@
       "karmv",
       "4ETVERGOV"
     ],
-    "artistsPopularity": 49,
+    "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27349397a14f4242d0e1b1402bf",
     "releaseDate": "2021-10-12",
     "tags": [
@@ -2128,5 +2152,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2UamHQ9Kl19V7VZD0Mmt7w"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-25T08:25:01.652Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "karmv"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f7cbaa457d7e96a3014c453e",
+    "releaseDate": "2026-01-23",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Твоя краса – провокація",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3QoPzcmZRGeVqaONvEwM8m"
   }
 ]
