@@ -715,5 +715,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3aj5WjrsRN80Dl2dWkKEFE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-25T15:27:17.831Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "RAJA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730a80a9306ca2ca3090b5e7a7",
+    "releaseDate": "2026-01-25",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Diskoteka",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3C1vtqg10sbFPKWwHRcoDM"
   }
 ]
