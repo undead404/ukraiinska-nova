@@ -4,6 +4,10 @@
       {
         "time": "2025-09-30T16:48:25.929Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -25,6 +29,10 @@
       {
         "time": "2025-09-30T16:48:25.929Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -46,6 +54,10 @@
       {
         "time": "2025-09-30T16:48:25.929Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -67,6 +79,10 @@
       {
         "time": "2025-09-30T16:48:25.929Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -88,6 +104,10 @@
       {
         "time": "2025-09-30T16:48:25.929Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -109,6 +129,10 @@
       {
         "time": "2025-09-30T16:48:25.929Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -130,6 +154,10 @@
       {
         "time": "2025-09-30T16:48:25.929Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -151,6 +179,10 @@
       {
         "time": "2025-09-30T16:48:25.929Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -172,6 +204,10 @@
       {
         "time": "2025-09-30T16:48:25.929Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -193,6 +229,10 @@
       {
         "time": "2025-09-30T16:48:25.929Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -214,6 +254,10 @@
       {
         "time": "2025-09-30T16:48:25.929Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -235,6 +279,10 @@
       {
         "time": "2025-09-30T16:48:25.929Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -250,5 +298,614 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nadMNstc2t119E4gZi1O2Z-PL2YaUdfCw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Iво Бобул"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/HZyoONJPPBZeUrsbVYABzDxRKsAxAVcpe9j-DxfaHG-7bZjCia2LykaNAYalYC-YbQi-Zt6dRYTbeGw=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop"
+    ],
+    "title": "Білий сніг",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kQ1aVn916yQf0tD-vsmgngVoeGrjfCGBQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Iво Бобул"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/bK__Ne-S_vJ0uHU2oEJv30luUmKPA1eSfkNMN73xdgIvAVwiyiZ40isUWUiJi0kbDprxDPppVsMhC5k=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop"
+    ],
+    "title": "Зоряна любов",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kwhq0bV6Z3qfK9B-dCt3OuMTWGaI-JLXc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Iво Бобул"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/z4_nC7X695JAa68GqGo2Cdx_ozxCJaV7h3FZjkT5iWGwtaQyFRTNhx43nGVl9NYsW4A8wLmFB95f32-AMg=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop"
+    ],
+    "title": "Різні в нас долі",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mROvK4H2onLy43GU92oV9GRMie7aeYphk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Iво Бобул"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/Jh8p16ys8xzyTVDz1xtyMnDYYTLSlxz4ZFHzHGAZvHwnpZac4frqXriIjPEeXTZRt203G0RNliVe7MQ=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop"
+    ],
+    "title": "Жіноче щастя",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nFhLORNSf1NeyIDXkcUI7TRDTHpb2wDZM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Iво Бобул"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/0p2cJpqgZpv8bmp9By6QQr7YXMiV1diblvXdY64Pw2qCP-UFG0-U5CGdvklwQTIFochAPhA5Lyhf2g4=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop"
+    ],
+    "title": "Покохай мене гуцулко",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kjVQWtSJWodt9o687CJmrfGEBJPru9vGc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Iво Бобул"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/3Bx5hxCigDeZ-LwBzh9rYvtbsp84dYhgg_Gh0a5-lhR98uyvR-rZ5TGFGN5xv6yZFGWefCLYmvHB0zs=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "pop"
+    ],
+    "title": "Почуття",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mxgeWMl2rjKjZ0G_Ny8loec2kaaq6nHEY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Iво Бобул"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/tHGDizU2TdZVL9Z0tWeVFbMHg_-RKxw8mPef5aUhROqzDXlSj9AbeDo7j2AUYnxrnHfdS6g7wIh6AnCH=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "pop"
+    ],
+    "title": "Білявка зима",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l1TB6WDxdiMuYijTqtJH4n7Gk2XefFo3A"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Iво Бобул"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/IawU9K7vCYUugi8fA4rEJQhL9xIqrMX7mBcQ0kqYGA6uKR62YfmjcSL5ehkhw3rFeaFCNMtfBdcpw2v8_g=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "pop"
+    ],
+    "title": "Шторм кохання",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lcN3yfG5wnIQXdsSfOm6dFGQ6CmK3H4xs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Iво Бобул"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/dXxptj7RnfZwudAlldZrdgOgHMjaX6UpJcEMHooyCnK-ND-Q2SaWgPqhB2qFv5_MOh6Myw1UQ2tt-O4=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "pop"
+    ],
+    "title": "Розмова з тобою",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l4Nh2bgHoKf9MhW2WagYFxHu8aBIqQ9Hw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Iво Бобул"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/c-JAiuiEcU17XQBNcRIuZCTySpLKrAVxG2bxx_mnX8kwGtIDD-pTfOV37jNPCtgZy_3ZYfu7bOAleTu-=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "pop"
+    ],
+    "title": "Серпанкові очі",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mZ23-Np0k8AnVVm3sysghiIN-SeQqPI-U"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Iво Бобул"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/BNoUUs1t9BQ9cJE4Tnj_t-LEqLLQLtQOTdPzG310ohq6mMF_-F9whXdp9ZX46OCJRIHAQ7inhjwL4olf=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "Моя Держава",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n8_Dn9BmAlkDsdeEjJzGHXlobMzQTPKT0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Iво Бобул"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/l63QFZFD7jIABl1Bt-KF86wsUmd4ob9aTT7zXbSTU_r8-htDqCoPWAosWGpdLdzA9OV_vOAp9CtzrWYu=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "Яке це щастя",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mWv3mTAkwOuZikC2-DspFj9F8v2Xckb8A"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Iво Бобул"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/LL9O-XTiMkfC8Nck0NzEhh2g3q1sNVHJwmsqmFSVFqBMWSURQDady1gxvB4SApGG_o0COpnwDv5ndMA=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "Буває так",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nG0pVhTQPqZuZbiRe-_pavzwNICQkp-ok"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Iво Бобул"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/ITu-mVfzwERBV5F4ZY62f-TtwYjXhspGScM9Vdgge0WztcZp57B-QAjgvaseQO0ORq3Hpc_rPn-sA0g9=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "Війна",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ksnpDLn6NfFQ2eKWoLOvftORgMqqSojCA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Iво Бобул"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/IJdH35TfMKK9wO93jowNPy9KbE9LetKbulLRMZ3XWWVhyS0ogyc-wTtzRHDAWj8cme2SsWYkb_TN3LiN=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "А липи цвітуть (New version 2023)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kgT4LLrpUwgfpz5VwErU9veqxRPscMXXI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Iво Бобул"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/g4e0uBTPXfumxNzbgWAOBlEfa6NWGh3dThCve6HofkiTOxZFqkZC00qB2Yv7yCc9DY3uwphO_0HsTHEkvg=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "Immigrant song",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n0eMVByLK2tQfg2C0Pa0-G-erZQIR71N4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Iво Бобул"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/lsmhoBvIlrxI0KuHfY6OeEJ-nUQKUL92BL4K_JpbLaShiWSvfs3hrAst9FUljqVndVzaPlxzr5ma7xq5Pw=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "День народження",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k4HivHFNI5v4P9qiBykKha8wQ9LN2Wuno"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Iво Бобул"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/raWnfkU3ckqEbnKS1q9GDejxM7JnyUFcNQVn_6s9P1AFcCRmF-SBC0Yy-wGzTJGqS9kRKfeIuX8dI8g=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "А липи цвітуть",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m49SLVmebKrKrCkBKQlTnhWH26wwZRf78"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Iво Бобул"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/Y_vy03kwWleKED379-xShFx3OQG2DbCIICRgYcUXtDt3cG3d-dGf3lCr4AZIEqB4pr20p1mUyez8lBE=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "Розмова з тобою",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nsNSS6_6L6v4IxQ3yW2UXMUa1LUCJHOSI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Iво Бобул"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/oiOYh_UkZGsqtS1ECwv5I_hJZIu5sNr6NIy38oQAMDQPHCAQEDmsbVg3htS798TnHp4dcobq3cuWMG4=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "pop"
+    ],
+    "title": "Солдат",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nlGKHo3XYQ_lrN7wQVktekILJkiKyoaEo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Iво Бобул"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/__cenXZtoRoenHrH4yK6d5JmEX8VmqH5k_oLR2Q0D4K5DqWMrSf5xakuB0aBAeXoo16j_o0kppsqmriq=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "pop"
+    ],
+    "title": "Рідна хата",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nmL_mRMZeSZ4WFX8uYqYoNpwD8J9IAvYY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Iво Бобул"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/3e7LZzWdef8bOGFVmOV-_-LYavNpvzzYbA5zIJvrLzTdg2IssgV8Jda7gXXd5tN6nNov6SG1uN3024wb=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [
+      "pop"
+    ],
+    "title": "Акація",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lKitA2vkoY94YhgCxoe5QWebKZYU6Yf4w"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Iво Бобул"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/paIp9st8fcr3uBWBCNJsFVgJ2P_1EVpbL6V37nADusyC4g_SN7sMYQY5SmVl7d4IIrUZbhQL9XpUJjsjLA=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [
+      "pop"
+    ],
+    "title": "Чи ти любила",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mTfUlJua9z9k6CXWaT8LZ52MM2vgxkOSk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Iво Бобул"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/OKGJykb9_PIjasSbCMoS0mGo54UYcG-8Y3CHDIjiHRD08McS36voZ9ne7eveu89MEQn5Fl06Xaa2aFeR=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [
+      "pop"
+    ],
+    "title": "Все золото світу",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nB8Lvxh1bZXltz26DGJcqVc3cJXW37qwg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Iво Бобул"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/sQB5RGBfeWhg6aXWG403zJp4kKZtLFVZs0LiaAO6sUqFwJOG4dxkI8CFIrH3gFmGBJQTP-SXNNoytcZ7mQ=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [
+      "pop"
+    ],
+    "title": "Прощай",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mvvxqb0slMhDenYnwcEPccpV9CHzCFIvg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Iво Бобул"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/yZDY4hZ27cGqYqdp_Jze__5_KC-l05_Ji1r3ns3s5-udDal5LBbMVcCbxZjiClKni0sI4NiTuj6wLHNCkw=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [
+      "pop"
+    ],
+    "title": "Осінній сад",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nEM79I_nDsAn6HJP_znxhWEt_-rSX1BFs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Iво Бобул"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/94r04iTGFLOR-w8BVuW1svpvlpKcOpuxoC3xcJ0Ed_ukTqbb03VBsn-_Q6vQSzaGRrprupT1_1n5E0TgJA=w544-h544-l90-rj",
+    "releaseDate": "2020",
+    "tags": [
+      "pop"
+    ],
+    "title": "Де ти моя любов",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mspoZ5qfPrlV1UXBOEdBbIKRZS9zvvkMM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Iво Бобул"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/DgfEa1eYo6bBRTCM6ASeX-NQecgzdNylgXG4tPlciQMrW0dCGEsx5I7K5bzv8faMojoyrQxMVf_TOzg=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "pop"
+    ],
+    "title": "Серпанкові очі (Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l4WbO7FG-HGqCKFNA0UxG7GhlfppJymrk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-25T16:49:55.315Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Iво Бобул"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/1HvZleS4tTGlmUvthGxCmdV-G6ND0VlXt8bTexYaA3lVOlkojgOPOuuHAdcxfhNLxY02UnRtK-Xvulon=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "pop"
+    ],
+    "title": "Осінній сад (Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m3j9oKNGmeRh8oOU4GySqjQLL3Kzkxwd0"
   }
 ]
