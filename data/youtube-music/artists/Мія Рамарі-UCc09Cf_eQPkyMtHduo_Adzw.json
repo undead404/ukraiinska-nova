@@ -481,5 +481,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_leaOpciZQ-H6py18n2REHcCtwV9k8MRls"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-25T04:09:07.412Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Мія Рамарі"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/xo9ZZgrqcouF-RBTAuW32kkFEeHvLSxeuI1xkn8MPUpT131LyoZGIVorYfAP3DZN9lKSfpmDAsbqCikA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Побачення",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mryGZ1oKijw4MXlwb6EsrMvO67Y31kZgc"
   }
 ]
