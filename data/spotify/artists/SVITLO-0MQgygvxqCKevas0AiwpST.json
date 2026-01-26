@@ -609,5 +609,26 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/0TQekQziMgmsulfZJfes1g"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-26T11:27:19.339Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SVITLO"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f5e20dd318176dde4b959264",
+    "releaseDate": "2026-01-26",
+    "tags": [
+      "dark ambient"
+    ],
+    "title": "Coffee at 2 Am",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4AMvlNgy0bQmxH4lASFHoI"
   }
 ]
