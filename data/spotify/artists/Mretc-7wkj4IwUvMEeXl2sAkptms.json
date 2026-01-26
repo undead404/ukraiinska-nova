@@ -145,5 +145,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7J0DjUW8CMreBKzx1D9s32"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-26T23:27:36.020Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Mretc"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c59bc825201488dfe540f5db",
+    "releaseDate": "2026-01-24",
+    "tags": [
+      "black metal"
+    ],
+    "title": "Winter",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1lG2Na7SAUvyep39bTQD6n"
   }
 ]
