@@ -397,5 +397,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k9ySf3DaPV2K4uJOEdxeqaZIj48b--6bM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-27T02:33:03.565Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "УЛЯНА ШУБА"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/pHjnP0xUjsLi3KRMSeOHpyX4525jWUJ1JEVaQvWopQB3m_PbV_ecBQdlRFo5SuGLkxvAawr5RehSWnVk=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [],
+    "title": "Помилка",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_klnbWk4XRNO7UltTuSEoIdJguageVUbfA"
   }
 ]
