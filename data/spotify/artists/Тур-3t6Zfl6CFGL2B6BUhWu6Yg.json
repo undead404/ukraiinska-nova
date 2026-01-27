@@ -526,5 +526,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/55aG7joFor7jZT9cTc42hr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-27T06:24:12.075Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Тур",
+      "Lana Rednich",
+      "Культурний Десант"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27319b0ef31d0944162b0b0cf0b",
+    "releaseDate": "2024-08-08",
+    "tags": [
+      "Hip-Hop",
+      "underground hip-hop"
+    ],
+    "title": "Сила (Фронтова студія)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0qJSa4gy0je6ZGQHkifrWO"
   }
 ]
