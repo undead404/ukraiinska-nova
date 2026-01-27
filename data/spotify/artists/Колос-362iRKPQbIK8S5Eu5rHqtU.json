@@ -410,5 +410,93 @@
     "totalTracks": 9,
     "type": "album",
     "url": "https://open.spotify.com/album/0ozh6qPHCF2M6T0gUC8EcB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-27T12:23:04.607Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Колос"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b133fc9cdcc6d7051c78778e",
+    "releaseDate": "2022-03-18",
+    "tags": [
+      "rock",
+      "noise"
+    ],
+    "title": "Люмен",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5bcE4U396q0SbF0acKKS3F"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-27T12:23:04.607Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Колос"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273034f4b90285c16e0fdfcd8ef",
+    "releaseDate": "2022-03-01",
+    "tags": [
+      "rock",
+      "noise"
+    ],
+    "title": "Паук",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5AAPNt7y4PJgOqo9YKZDYa"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-27T12:23:04.607Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Колос"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d58d3575d4c92e2b78fe9f84",
+    "releaseDate": "2022-02-04",
+    "tags": [
+      "rock",
+      "noise"
+    ],
+    "title": "Читер",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5XfbJ4VSj7L9o9TopmHiYl"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-27T12:23:04.607Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Колос"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c9565fbdfef025d5259cdf27",
+    "releaseDate": "2021-12-17",
+    "tags": [
+      "rock",
+      "noise"
+    ],
+    "title": "BODREY 2",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/53YH7s8g9kZ0RBx7jEn3IN"
   }
 ]
