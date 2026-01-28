@@ -1047,5 +1047,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0OHTlF1Orae44z7jX5R9on"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-28T16:32:47.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олег Скрипка",
+      "Vopli Vidopliassova"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273378a098467e7fe82d3b6883b",
+    "releaseDate": "2026-01-28",
+    "tags": [
+      "rock",
+      "blues rock"
+    ],
+    "title": "Болеро",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/67Zbf14MwKJZ7Lpv6YRiVy"
   }
 ]
