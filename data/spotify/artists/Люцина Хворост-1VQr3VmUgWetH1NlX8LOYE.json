@@ -591,5 +591,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0fmHHgy0oNNT414b1ryLsC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-28T07:21:31.353Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Люцина Хворост"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739f37676238cee888faa89b45",
+    "releaseDate": "2026-01-18",
+    "tags": [],
+    "title": "Танґо в дубовому лісі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/47VtNtidGJ5xqsB2HLRHnN"
   }
 ]
