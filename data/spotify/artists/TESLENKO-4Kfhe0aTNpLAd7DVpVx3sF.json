@@ -1166,5 +1166,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/75JLJu5aZwKXHXmQ0ZH4tL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T08:30:52.695Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TESLENKO"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27306a570048d2db029677ddffb",
+    "releaseDate": "2026-01-29",
+    "tags": [
+      "pop"
+    ],
+    "title": "Дивак",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3JY8ksMGQd2COHiqGC7jop"
   }
 ]
