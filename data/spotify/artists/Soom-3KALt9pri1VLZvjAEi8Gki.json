@@ -218,5 +218,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0jYsHBUt2wzVSlx4LcCj9q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T16:32:44.478Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Soom"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e1c99af2900a45649f551007",
+    "releaseDate": "2026-01-18",
+    "tags": [
+      "doom metal"
+    ],
+    "title": "ВСЕ, ЩО Я НАМАГАВСЯ СХОВАТИ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5tLpOcSuRoMywRimTF4z97"
   }
 ]
