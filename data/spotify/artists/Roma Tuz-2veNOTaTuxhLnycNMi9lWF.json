@@ -461,5 +461,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/06SQ9TON2vwP7MvBLWa4cd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T22:29:37.569Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Roma Tuz"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732377815b9255f5a153571e96",
+    "releaseDate": "2026-01-29",
+    "tags": [
+      "pop"
+    ],
+    "title": "Капала",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6MPsYxtx9SfgkNj3EcHoO7"
   }
 ]
