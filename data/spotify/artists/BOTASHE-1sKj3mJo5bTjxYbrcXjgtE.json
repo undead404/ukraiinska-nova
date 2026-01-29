@@ -484,5 +484,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7bQt6fS2RKsToQ5evh5fqG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T12:27:59.621Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BOTASHE"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27392170dfbee4a46f996c3c004",
+    "releaseDate": "2026-01-29",
+    "tags": [
+      "rap",
+      "Hip-Hop"
+    ],
+    "title": "З тобою",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2srzGDypw7jZ5bF3KAC8za"
   }
 ]

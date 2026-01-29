@@ -901,5 +901,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/20eSuu8UqJ2YXUfhD9N2fn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T12:26:57.674Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Adam"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27373bbdcc01a2c4349ed32cbd4",
+    "releaseDate": "2026-01-29",
+    "tags": [
+      "dark electro",
+      "ebm"
+    ],
+    "title": "Canım Yanar",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3QEnfFhJ7iUt3sZ9cyH5sK"
   }
 ]
