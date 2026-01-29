@@ -2710,6 +2710,10 @@
       {
         "time": "2026-01-14T04:01:08.590Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-29T03:20:39.077Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -3149,5 +3153,36 @@
     "totalTracks": 62,
     "type": "album",
     "url": "https://open.spotify.com/album/4dXb4CHlUW4Q7tJH7gAOnO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T03:20:39.078Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alfred Kugel",
+      "Frédéric Chopin",
+      "Ludwig van Beethoven",
+      "Antonio Vivaldi",
+      "Erik Satie",
+      "Robert Schumann",
+      "Sergei Rachmaninoff",
+      "Franz Schubert",
+      "Georges Bizet"
+    ],
+    "artistsPopularity": 6,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273572a9b06c85a1f707dc445a0",
+    "releaseDate": "2026-01-26",
+    "tags": [
+      "Classical",
+      "baroque",
+      "opera"
+    ],
+    "title": "\"068 Classical Piano Essentials\": The Wisp",
+    "totalTracks": 68,
+    "type": "album",
+    "url": "https://open.spotify.com/album/07XcoN7IWu3cFTEXQTso9B"
   }
 ]
