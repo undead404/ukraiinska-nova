@@ -229,5 +229,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5Y3WxtVqOv3kcFuDNWmB5h"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T23:25:43.644Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "GEREGA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736b5b994c67e15ef536477f86",
+    "releaseDate": "2026-01-29",
+    "tags": [],
+    "title": "516",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1XvkrukParpy8e6XZCFVBr"
   }
 ]
