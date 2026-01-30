@@ -145,5 +145,26 @@
     "totalTracks": 6,
     "type": "single",
     "url": "https://open.spotify.com/album/4ZQmevsXHaUjg2YsrweJgH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T09:32:10.926Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YAGODY"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734fbb328934337738c328cf09",
+    "releaseDate": "2026-01-29",
+    "tags": [
+      "folk"
+    ],
+    "title": "Не ламай калину",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/040Sf8HTa1PgfxVbaOF9Mp"
   }
 ]

@@ -238,5 +238,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5jnNjpoCfU2ipxrBR5fmc0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T09:26:55.081Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Тася"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736595ede357a25182a26137af",
+    "releaseDate": "2026-01-30",
+    "tags": [],
+    "title": "Поміж світів",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7I16NveaLQmx5J8PzF4Mxe"
   }
 ]
