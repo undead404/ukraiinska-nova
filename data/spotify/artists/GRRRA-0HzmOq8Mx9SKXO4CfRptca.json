@@ -326,5 +326,30 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0Ah2WI2321CPUUCBJGpRR8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T18:32:09.067Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "GRRRA",
+      "shi"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733d5ca7936fb77d5b873e88a5",
+    "releaseDate": "2026-01-30",
+    "tags": [
+      "ambient",
+      "rap",
+      "darkwave",
+      "dance"
+    ],
+    "title": "ТОП-ТОП",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5N8ZcIdJj1a9HBKX8UbD0r"
   }
 ]

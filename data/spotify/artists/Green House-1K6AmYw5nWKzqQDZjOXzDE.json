@@ -716,5 +716,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3QPIAISEkMRQtNRmmWXofy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T18:32:04.096Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Green House"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731634335c96b4a3bcf1ffd684",
+    "releaseDate": "2026-01-30",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Big Joint",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4J6p8NrRdniIxs10SKXwlg"
   }
 ]

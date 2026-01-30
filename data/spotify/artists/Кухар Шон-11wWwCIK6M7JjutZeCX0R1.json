@@ -112,5 +112,26 @@
     "totalTracks": 17,
     "type": "album",
     "url": "https://open.spotify.com/album/1EF4Y8p6koQbrT0lzwekeE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T18:25:33.437Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Врангель",
+      "михаль",
+      "Кухар Шон"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e07d3f2bfc2a7f7287fa91a4",
+    "releaseDate": "2026-01-28",
+    "tags": [],
+    "title": "Вперше (Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2abH6gp2rY1wMWFJMsd7iv"
   }
 ]

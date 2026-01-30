@@ -967,6 +967,10 @@
       {
         "time": "2025-09-18T18:27:03.848Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T18:31:11.590Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1137,5 +1141,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2oBBx0bt9Ly2cAJeBa7NAW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T18:31:11.591Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KA$A",
+      "Diss One",
+      "ХудийJointt"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e29980eff641acd61a5e2ed1",
+    "releaseDate": "2026-01-30",
+    "tags": [
+      "rap"
+    ],
+    "title": "Місто",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3Psn321ocjR7FkEnkSWJCh"
   }
 ]
