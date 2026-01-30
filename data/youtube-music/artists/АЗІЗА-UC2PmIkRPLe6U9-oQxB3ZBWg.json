@@ -313,5 +313,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lTjzmUixSdveUnx1o1hAzvt8lN1KkoIDg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T05:05:37.002Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АЗІЗА"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/FkzO4pyxct2cKyb_EvY7GOKXH0kysJIPHEfMXTPBfUrcdvi9MqrMfpCp-rmFgNxx3HMBDekw2C8eqlk=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Серце зі сталі",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mydnW67RXzyP2cgZ74wjfZPWnXftKRYgA"
   }
 ]
