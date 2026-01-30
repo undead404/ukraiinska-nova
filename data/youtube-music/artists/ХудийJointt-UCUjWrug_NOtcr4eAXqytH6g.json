@@ -371,5 +371,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nkpipGloI8wir38ia7IhuY8tSxuBEb238"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T11:50:56.737Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ХудийJointt"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/z-v4ejx37TkzRkEdr6mZ2S67iEo9lqJFf1lwMziE_DgQiTyRhnNDdIVuRtZECOGkR-z2PJQiaUwt6Ga5_w=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Місто (feat. C.W.M & Fog)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lFR4YS-fXCLUH4Q4YALFm5fKquLcgYC5w"
   }
 ]
