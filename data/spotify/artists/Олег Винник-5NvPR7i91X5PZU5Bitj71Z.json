@@ -500,5 +500,25 @@
     "totalTracks": 15,
     "type": "album",
     "url": "https://open.spotify.com/album/77FbGLDrfihEEGKTyuzUIo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T16:24:16.633Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Olegg Vynnyk (Олег Винник)",
+      "Hoodtrap"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730eef8107def213ec7ca0ef29",
+    "releaseDate": "2026-01-30",
+    "tags": [],
+    "title": "Вовчиця (Hoodtrap Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6bjbRl677F9AmOXpXO4jhP"
   }
 ]
