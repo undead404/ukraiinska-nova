@@ -757,5 +757,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3cPKhsG9WGz2FY0UIaqJwq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T22:28:23.848Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SAMCHUK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273caa85767c4c7480f87f8d4da",
+    "releaseDate": "2026-01-30",
+    "tags": [],
+    "title": "Неземна",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5cOwGWgz7vJ0ptAO2g2N00"
   }
 ]

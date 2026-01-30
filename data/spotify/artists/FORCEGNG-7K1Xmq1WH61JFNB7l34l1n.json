@@ -871,5 +871,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/60jglMy3WZlVznHBrq0z6K"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T22:24:38.624Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "FORCEGNG"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734073c0857f3e37f09dfba37e",
+    "releaseDate": "2026-01-30",
+    "tags": [
+      "rap"
+    ],
+    "title": "The Victim",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3JGKlGJtyeqauxNAx8JMCa"
   }
 ]
