@@ -2633,5 +2633,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2npdMp2Kj42X3fZFF0er96"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T05:41:00.191Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Uno Kaya"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27348ff45f7a40be21eb44db3c9",
+    "releaseDate": "2026-01-30",
+    "tags": [],
+    "title": "Очі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1cgAzCmJMRKC1B7XYbSu5b"
   }
 ]
