@@ -248,5 +248,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l8rdZjYsm30qtcYaXF07sKjLpxSYL4BGA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T08:59:49.986Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VECHIR"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/mFSHInVdKlSUFyGOwlDK091VXIH6_PAav7eAzWPsSiUIeApoKtaUXakJZvJSNHzoOAACYn65H2DtlNA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "пташка",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ngzeEoo0O6PN4-kj2dj6AmroDYTFk20Co"
   }
 ]
