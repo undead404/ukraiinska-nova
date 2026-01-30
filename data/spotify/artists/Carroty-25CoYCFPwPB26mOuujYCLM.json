@@ -353,5 +353,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5a3VvXaCv6flWXCnMvdTQn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T17:28:33.934Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Carroty",
+      "Jayme Fortune"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27393b16e2fa3bcff0cc99c5f4a",
+    "releaseDate": "2026-01-30",
+    "tags": [],
+    "title": "God Bless",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0BCp52GquXPC8yy6oDmfYd"
   }
 ]
