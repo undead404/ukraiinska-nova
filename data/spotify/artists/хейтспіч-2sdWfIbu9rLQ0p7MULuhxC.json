@@ -1041,5 +1041,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5jbcsT24SKHF8WYtsVch6U"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T15:26:23.438Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "хейтспіч"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273754d9a37534678090f2345e3",
+    "releaseDate": "2026-01-30",
+    "tags": [
+      "dance-punk",
+      "punk rock"
+    ],
+    "title": "МПЗД!",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4eym1G9XSk6994qcEF2gN8"
   }
 ]
