@@ -630,5 +630,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4AMvlNgy0bQmxH4lASFHoI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T11:29:47.023Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SVITLO"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27345bbf9e6ebe8403f3137b2a6",
+    "releaseDate": "2026-01-30",
+    "tags": [
+      "dark ambient"
+    ],
+    "title": "Late Night Interior",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4xeqKcFdKDGunrLiu9oeBE"
   }
 ]

@@ -354,5 +354,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4U5n4ztZdjfGVANhpYL3Ue"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T11:21:34.307Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "77PID’YIZD"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27374891955b8f09d9510ea9ff6",
+    "releaseDate": "2026-01-30",
+    "tags": [
+      "new wave"
+    ],
+    "title": "Зима",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3MH4vQvoRZt9aVdPZiZSkI"
   }
 ]
