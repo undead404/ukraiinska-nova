@@ -64,5 +64,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nUMbLPUw0-OKbH1ezY0sa1GUBWP6yzexc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T14:03:50.938Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROMA TUZ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/pkswUafzANJS6Pz4soqKGex8Np2B_8g4qhCNHUCc8vc1gmRrikTHNAsuucRv3XN1oBsFKfxvDsqwg0ie=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Капала",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l7WF1D1KncEEtd3Ry_jKz6JHrcdjb-AMY"
   }
 ]
