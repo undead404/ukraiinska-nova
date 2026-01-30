@@ -1188,5 +1188,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/53TE9w5OZXQnBKt1ou5S7f"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T23:28:48.587Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lefor"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a86d6a6f7b5280d5254ebb1b",
+    "releaseDate": "2026-01-30",
+    "tags": [
+      "rap"
+    ],
+    "title": "Не хочу",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7FtogN7ic2iyJr0T3EqMc9"
   }
 ]

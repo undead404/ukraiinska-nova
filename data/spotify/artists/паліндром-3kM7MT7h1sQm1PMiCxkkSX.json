@@ -980,5 +980,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7g8IKPPAmsbDjzD2AuU9uW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T23:25:14.854Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "паліндром"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27322d5e227b705ad3475bdada6",
+    "releaseDate": "2026-01-30",
+    "tags": [
+      "synthpop",
+      "dream pop"
+    ],
+    "title": "Ніщо",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/18qY4ebzCg5TjEwZbH3m1Y"
   }
 ]
