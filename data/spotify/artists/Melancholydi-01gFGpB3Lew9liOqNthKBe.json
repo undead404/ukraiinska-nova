@@ -235,5 +235,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4zX18VhlMWUecF6A6or8TE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T00:54:39.518Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Melancholydi"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27381278d65ed23bbd7245fec50",
+    "releaseDate": "2024-09-26",
+    "tags": [],
+    "title": "insha",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3D99upz922ZHyVpuyIEBpR"
   }
 ]
