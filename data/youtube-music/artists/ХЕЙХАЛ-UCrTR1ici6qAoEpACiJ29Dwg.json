@@ -568,5 +568,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k6kLzK3edhUKVYjnxOCPBb4S8wdz6wxY4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-22T16:55:43.712Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ХЕЙХАЛ"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/q-HBpYLkh_Qa_u_2P2OlARNW-OLO-Sx-osjGybbhVxS7hW50nWoUMLYxG7lMbhlIQ7HifOHA55frdhqcxA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Ba la la Ei",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nZoFV7Bu2gUpH5ueEgwKVdvn8pu5IUkv4"
   }
 ]

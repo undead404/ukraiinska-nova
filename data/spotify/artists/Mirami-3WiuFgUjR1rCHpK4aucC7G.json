@@ -816,5 +816,68 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/01noPFuKusq9dgbcpeGOeR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T13:35:53.496Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Mirami"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b652c894872dced5a7beb707",
+    "releaseDate": "2026-01-23",
+    "tags": [
+      "dance"
+    ],
+    "title": "Мало, мало",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2ysPI9DRo6nZXj3iyAsFGT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T13:35:53.496Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Mirami"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bd69bae1a93104ac9c8756b9",
+    "releaseDate": "2026-01-23",
+    "tags": [
+      "dance"
+    ],
+    "title": "Prawie, prawie",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5ZdRW1D4ZwDwm7CxVFsmSN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T13:35:53.496Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Mirami"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273314826e41b59ce24378dae47",
+    "releaseDate": "2026-01-23",
+    "tags": [
+      "dance"
+    ],
+    "title": "Never, Never",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/45bV7ETozDXscSnwRgBkQe"
   }
 ]

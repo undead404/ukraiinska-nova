@@ -124,5 +124,26 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/5uOQcpKVNVSworTxVmNu77"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-27T04:39:25.106Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Merzotna Potvora"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273243bda050e8448aa9a537914",
+    "releaseDate": "2019",
+    "tags": [
+      "black metal"
+    ],
+    "title": "Su​č​a Maty (2023 Remastered Version)",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/787sWDgzBrKhFFWIFEmaKR"
   }
 ]

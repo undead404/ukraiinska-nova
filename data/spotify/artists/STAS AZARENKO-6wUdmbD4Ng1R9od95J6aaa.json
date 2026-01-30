@@ -1170,6 +1170,10 @@
       {
         "time": "2025-09-17T07:24:35.157Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-29T07:35:37.432Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1534,5 +1538,581 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7BkbKfdPWGVjbUDMCV8ySs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T07:26:12.499Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T07:26:34.866Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "4ERDAK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739866ec7ec96bbd792fa45aef",
+    "releaseDate": "2025-12-12",
+    "tags": [
+      "trap"
+    ],
+    "title": "Kvadrat 16",
+    "totalTracks": 16,
+    "type": "album",
+    "url": "https://open.spotify.com/album/67dz18wFZkgP3gTjaqxegg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T07:26:12.499Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T07:26:34.866Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "4ERDAK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a942590a086be274c141c684",
+    "releaseDate": "2025-03-28",
+    "tags": [
+      "trap"
+    ],
+    "title": "Red Light",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/53tv3487pU6wl2GiUBgia2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T07:26:12.499Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T07:26:34.866Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Pozer90"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27324bab48573f78e12de065988",
+    "releaseDate": "2024-12-27",
+    "tags": [],
+    "title": "Korsun Andreas",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2wDyKtodVi7D3Qd1am8O4l"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T07:26:12.499Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T07:26:34.866Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "йо"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737e138e43a848cde285a6d32c",
+    "releaseDate": "2023-08-18",
+    "tags": [
+      "rap"
+    ],
+    "title": "pixel's affection",
+    "totalTracks": 21,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1Jkm96b8NG8iOjbwllFA7z"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T07:26:12.499Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T07:26:34.866Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "LIL Pink"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737774e23481c45dcf56a58cb4",
+    "releaseDate": "2025-08-08",
+    "tags": [
+      "rap"
+    ],
+    "title": "ugly",
+    "totalTracks": 14,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4c1kBqH3hGhtBVah1If5ku"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T07:26:12.499Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T07:26:34.866Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "4ERDAK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bbac88faf92695a5f9b214a8",
+    "releaseDate": "2025-09-12",
+    "tags": [
+      "trap"
+    ],
+    "title": "Now",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1YrLvllGkII9aXPZuAUtLy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T07:26:12.499Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T07:26:34.866Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "AveKucher"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27348c78b85bbd244958744572d",
+    "releaseDate": "2023-04-14",
+    "tags": [],
+    "title": "Трепанація",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2O3wVOE67fP60w5AoYnbdn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T07:26:12.499Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T07:26:34.866Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "EXPLAIN"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27326741d8d8078ae968678f65a",
+    "releaseDate": "2024-07-12",
+    "tags": [
+      "techno"
+    ],
+    "title": "SASUKE",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2U2XJbu7AzOxJbuTBZQyx3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T07:26:12.499Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T07:26:34.866Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Defy Def"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bfd1b47059617cca6a0586fd",
+    "releaseDate": "2024-06-14",
+    "tags": [
+      "rap"
+    ],
+    "title": "\"DOUBLE D\" TAPE, Vol. 1",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0mecOvW8MoqKiQXjRgRVXn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T07:26:12.499Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T07:26:34.866Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Driplla"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733ecc28b1ab12a4e14333e29f",
+    "releaseDate": "2023-03-31",
+    "tags": [],
+    "title": "Вуличні казки",
+    "totalTracks": 19,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1zBPARrkKOviCNOK6CbYQy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T07:26:12.499Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T07:26:34.866Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Hella"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27359b63f865f8e5fc98da77db5",
+    "releaseDate": "2025-07-11",
+    "tags": [
+      "math rock",
+      "noise rock"
+    ],
+    "title": "Willy Wonka",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/371qFY6Vo4LW2pkMESc8mf"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T07:26:12.499Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T07:26:34.866Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Various Artists"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e66e3f44344aa4dcecc6a154",
+    "releaseDate": "2023-12-08",
+    "tags": [],
+    "title": "Ua Open 2023",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/74eg4wb369JZF0l76p12Or"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T07:26:12.499Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T07:26:34.866Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Packlord"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273754622d549313165022f00f7",
+    "releaseDate": "2025-03-07",
+    "tags": [
+      "rap"
+    ],
+    "title": "Juice Juggler",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0OelTsP7mnNbxIWp2BH3eD"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T07:26:12.499Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T07:26:34.866Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "LiL Flash$"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a7afd0958575f3efd8e148e9",
+    "releaseDate": "2021-07-26",
+    "tags": [],
+    "title": "Slime All the Time",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4QeV0vvMCaziaWssddUaKv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T07:26:12.499Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T07:26:34.866Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Sagul"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27338e00bb4f5bcedafcc4f61af",
+    "releaseDate": "2023-01-13",
+    "tags": [],
+    "title": "WAY TO 913",
+    "totalTracks": 19,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7lWvmeCwn9XpPB5YgUFwt1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T07:26:12.499Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T07:26:34.866Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "WhiteJunk"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b0d5a05bd2499b48f8f406d9",
+    "releaseDate": "2023-07-14",
+    "tags": [
+      "rap"
+    ],
+    "title": "CHEMICAL",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2losrEJMGo36lkFMmrd8XO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T07:26:12.499Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T07:26:34.866Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "OKAYSAMMY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b0f7ea33294d84133c5d7a12",
+    "releaseDate": "2025-04-11",
+    "tags": [],
+    "title": "KOLO",
+    "totalTracks": 16,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0qajUKudHFHOTnNjODeujp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T07:26:12.499Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T07:26:34.866Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "flowflow3r"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a8e6fb8f2d16ff2cb34109fb",
+    "releaseDate": "2024-12-27",
+    "tags": [],
+    "title": "Zerofortyeight",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6XwQtjDYaDl1pUSlNPkeFI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T07:26:12.499Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T07:26:34.866Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Асадай"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731675472de2be93e1be87fe43",
+    "releaseDate": "2022-06-17",
+    "tags": [],
+    "title": "On Plug",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1k5qRiOeHnFQVLuTgPeVog"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T07:26:12.499Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T07:26:34.866Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Driplla"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27342ba5ea726ab962c37555bb7",
+    "releaseDate": "2023-02-10",
+    "tags": [],
+    "title": "Suka",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1Aju9m2eDUGIZvSOAR8ogo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T07:26:12.499Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T07:26:34.866Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "EZZ1Y"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ba577a170d9aa8a9ae3c591c",
+    "releaseDate": "2023-10-13",
+    "tags": [],
+    "title": "057 EDUCATION",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/46FdVFMeLz97GYClP3Ki2H"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T07:26:12.499Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T07:26:34.866Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "KONO"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27385e3dc806ff95c2231ab8fec",
+    "releaseDate": "2024-11-15",
+    "tags": [
+      "House"
+    ],
+    "title": "Money Luv",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2Bir4Ys2o1FR7KLQAB8iyb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T07:26:12.499Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T07:26:34.866Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Gruppa ZODIAC X"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273333ca5e33e33c8ebc8fa83b4",
+    "releaseDate": "2023-09-03",
+    "tags": [],
+    "title": "Рожеві сни",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4PNQnz8XekWfrIIaeWPkJG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T07:26:12.499Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T07:26:34.866Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "draqone",
+      "pluggy"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735ca6a9fbebe8b6521fa27313",
+    "releaseDate": "2021-12-13",
+    "tags": [],
+    "title": "Romantique",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6GiiXEKtEyKZGWiiNJLJRy"
   }
 ]

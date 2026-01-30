@@ -4,6 +4,14 @@
       {
         "time": "2025-09-23T01:05:48.046Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-29T01:07:06.550Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -24,6 +32,14 @@
     "appearanceLog": [
       {
         "time": "2025-09-23T01:05:48.046Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-29T01:07:06.550Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
         "type": "FOUND"
       }
     ],
@@ -46,6 +62,14 @@
       {
         "time": "2025-09-23T01:05:48.046Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-29T01:07:06.550Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -66,6 +90,14 @@
     "appearanceLog": [
       {
         "time": "2025-09-23T01:05:48.046Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-29T01:07:06.550Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
         "type": "FOUND"
       }
     ],
@@ -88,6 +120,14 @@
       {
         "time": "2025-09-23T01:05:48.046Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-29T01:07:06.550Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -108,6 +148,14 @@
     "appearanceLog": [
       {
         "time": "2025-09-23T01:05:48.046Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-29T01:07:06.550Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
         "type": "FOUND"
       }
     ],
@@ -130,6 +178,14 @@
       {
         "time": "2025-09-23T01:05:48.046Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-29T01:07:06.550Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -150,6 +206,14 @@
     "appearanceLog": [
       {
         "time": "2025-09-23T01:05:48.046Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-29T01:07:06.550Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
         "type": "FOUND"
       }
     ],
@@ -172,6 +236,14 @@
       {
         "time": "2025-09-23T01:05:48.046Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-29T01:07:06.550Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -192,6 +264,14 @@
     "appearanceLog": [
       {
         "time": "2025-09-23T01:05:48.046Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-29T01:07:06.550Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
         "type": "FOUND"
       }
     ],
@@ -214,6 +294,14 @@
       {
         "time": "2025-09-23T01:05:48.046Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-29T01:07:06.550Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -235,6 +323,14 @@
       {
         "time": "2025-09-23T01:05:48.046Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-29T01:07:06.550Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -250,5 +346,830 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_najkmmT4vRDULTlO3BH1OR2UbxvJYqHSM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T01:07:06.551Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Океан Ельзи  "
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://lh3.googleusercontent.com/78xdZJt3EnT94ojwc0TuPMypFPaDF3iw7S-s8sXryE_MSD6l5NALftZogi1pnVwyxtHHU9FNp_GvT6A=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rock"
+    ],
+    "title": "Двоє",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nfpwTf8WsCzbW7ywm_4B-f97jUqtsXS0Y"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T01:07:06.551Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Океан Ельзи  "
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://lh3.googleusercontent.com/9oLNc9XKW9CehZ94Z0e7EOsIZsiYN7LMrdY8UHZjZIsFzWUFPRx0VTQx7cyaFTVk1McpMnILFRY5_2Lc=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "rock"
+    ],
+    "title": "Мукачево",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kMm9J72ZERl_Pb8NB5Ro3nH0W4jC1kE1Q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T01:07:06.551Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Океан Ельзи  "
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://lh3.googleusercontent.com/yHmU6tuZP7K-PJxA4S2DwcBamYJfajR_DuhufAdEnWxeNtu8Ce8gtfZU0po8DDlXjbH9fi4TsPpFi8s=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "rock"
+    ],
+    "title": "Lighthouse (feat. John Rzeznik)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lUFFPxreaifJtubkyY_xJzrCrg2mQFfvM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T01:07:06.551Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Океан Ельзи  "
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://lh3.googleusercontent.com/GJ03QZm9JzUl6fLztEoRcsgLTXs00mbb3Uc5xy4gBeCnUv3T2bd9IaKxx2Wad5yx47fyNBDlayxXD_Z6FA=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "rock"
+    ],
+    "title": "Той день [OE30 edition] (feat. YAKTAK, KOLA, SHUMEI & Jerry Heil)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lOeQySwXq9jSoNQzS5Vqfm4XAjWK_ofzY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T01:07:06.551Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Океан Ельзи  "
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://lh3.googleusercontent.com/oeUfRBpgTQZwwU_njChVCfitzG2yT_dSMem0zcC-hGM2MEAg3KG5qvxdiL2DnebR8Dj4vPVUMXP-wGq7=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "rock"
+    ],
+    "title": "Voices Are Rising",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lYNvca1rE1fDpvvqCkf_nS0C9HYIjN61E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T01:07:06.551Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Океан Ельзи  "
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://lh3.googleusercontent.com/gx03Y0E4s0CxSE8Qq2j9z6miXefXGQsFabzP0gW86GzAbi9iYDIT6TXp5cRYxMo1FY0vujDCxTCisxvv=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "rock"
+    ],
+    "title": "Відповідь",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nniO0yOiJTYUPSGZsdv9nz_LdTvYnUsB8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T01:07:06.551Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Океан Ельзи  "
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://lh3.googleusercontent.com/1b56ivcAIHH77E-p58lfaVc25FJmszUZ7mra2DzpsjarVeFOUHdhVsE_Kbr0X28k1WPbVxz-TaQBVlWX=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "rock"
+    ],
+    "title": "Я їду додому (2023 Version)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mrGQpCaSndeFKH-k5kKVuX0Z1LEjlEer8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T01:07:06.551Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Океан Ельзи  "
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://lh3.googleusercontent.com/fELSkKg3f7MsH9FpJxTf8W5hr1F7gvJzrDXz5buZWpGJwMQweRuy7lPm5L2qSjgJIeLvGIHjglOPryM=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "rock"
+    ],
+    "title": "Коли ми двоє",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mfQizvLw-TvY-mX84bNse3cpNmt4e2VH8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T01:07:06.551Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Океан Ельзи  "
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://lh3.googleusercontent.com/Sg5StyAM9msoqE307lz-ZclktMzSWaSYGRTrm8I0JYZVS1_E2bs7SJGuAb11avgYTk9Mjy6Hbig8olv-=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "rock"
+    ],
+    "title": "Obiymy (Legacy of War Mix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_knd-QQgKKX0zXCkF9Q4bv1RIizL9bGFoI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T01:07:06.551Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Океан Ельзи  "
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://lh3.googleusercontent.com/Yakfd5VMKDqmxRi_45L3gkdr3Uf77d3gOFXG1q9UoFFmVrWX1uMHc2x_haBh_FDdtAHm_ACZxHWK_leL4Q=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "rock"
+    ],
+    "title": "Квіти мінних зон",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lTNCLddMFz_hkd0P4lbJQgzUjp1LPBmbc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T01:07:06.551Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Океан Ельзи  "
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://lh3.googleusercontent.com/dIqGYqBw2nb1BFVQ5EimiTNBEXM7QmVmh4XYS8rk97CR0xP15N-22hO9ionjugpKa8J0YOfOZ0Ez3byv3g=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "rock"
+    ],
+    "title": "Місто Марії",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lLAt9Td3an_46uUx7eRyxTVUlujwxJZ6I"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T01:07:06.551Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Океан Ельзи  "
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://lh3.googleusercontent.com/dakxMuOJL_mEaoRxhBoxxONdGqhD_64vR2faA_FqPN-iHeWgJIVFhY3WXXBTUKfpwW8KWTtocqWTWNSD=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "rock"
+    ],
+    "title": "UA So Beautiful (cover by Slava Vakarchuk/Okean Elzy)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lBT4C1lqrXS1hFt__UG9YRaQtfitiuBlA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T01:07:06.551Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Океан Ельзи  "
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://lh3.googleusercontent.com/RXVrGVDNxQ5G8605s7aVGpB3kHZf_dqtLlbyll9Q8fTPI1fnfL31my4cnw3g5pknxEOMqPJKH-_yk2li8Q=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "rock"
+    ],
+    "title": "Весна",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_noFfmdeyYNaZfXQUNLEb7EmVnGa-zBP7g"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T01:07:06.551Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Океан Ельзи  "
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://lh3.googleusercontent.com/85GXn7Y2NMYRgvf2UEsH9Y1YITzQ7jcHT5YJ9zyGbW49LLJoCjeh8zWR3dnWbeZCK7zi8POtmEkcH6-B=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [
+      "rock"
+    ],
+    "title": "Перемога",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nB8YYeUSYkB0AhTwaUko3mt4qlakNWQvo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T01:07:06.551Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Океан Ельзи  "
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://lh3.googleusercontent.com/EbaH_RVGrryDf-5X3CQUTbTMjvW7aWdTg659JQ0iD9BXeWPFTXfojXEyyLCjmnsA-WaEsievsPz2IG5X=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [
+      "rock"
+    ],
+    "title": "Місто весни (feat. Один в каное)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kGASkGaGHthnoGfAzIMMPFpcvPGxIlQkM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T01:07:06.551Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Океан Ельзи  "
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://lh3.googleusercontent.com/8_Cw-d1S3ZauylfHhiHGaiQed6WHVs3XBc9Nnnjx9tLL6gLaPblWVhnS-QUivwDn3QO3iqJ8i1Y2zwE=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [
+      "rock"
+    ],
+    "title": "Країна дітей (Okean Elzy Version) (feat. alyona alyona)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lqgtg0Ok-pb32yBiWbLaP2TQBxeXpJFXM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T01:07:06.551Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Океан Ельзи  "
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://lh3.googleusercontent.com/DbCSTRNJlGxhR0amz3UTne6f6MbcSz5nTRyvx5UJYEbFcyFoyCef9NP0zLqkvEeydkgaVuPo2Ft_gRk=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [
+      "rock"
+    ],
+    "title": "Країна дітей (feat. alyona alyona)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lfZVOVDehOlPWWhMZEzuQz-66yIGPnbFE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T01:07:06.551Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Океан Ельзи  "
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://lh3.googleusercontent.com/fV6SPUtV4q-IpT5bsoIE5CPD050GchIB36ehmFgfLJosw-aeBH5pWlQ2iwCCcRz8rKNSVEj54xxSY1g=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [
+      "rock"
+    ],
+    "title": "#Без тебе мене нема",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lvGF2dgUmCnuturaG654cikt7Yz6zIC_w"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T01:07:06.551Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Океан Ельзи  "
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://lh3.googleusercontent.com/ICSKKQJCLIJ31k2X1tmBU1rQUgSHnYCTZ605zenKD0E0Et1eZfZ33mNdenG3NbV4i6Wl6dfPDLLKp2o=w544-h544-l90-rj",
+    "releaseDate": "2020",
+    "tags": [
+      "rock"
+    ],
+    "title": "Тримай",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nAd33oOdrF27cqDJX56jEyhU_ynhJOhfg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T01:07:06.551Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Океан Ельзи  "
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://lh3.googleusercontent.com/f4jO5t5eFEnEjxfn9hrUqt7e9f1OP_P7svZtrjDe2NHDKHn3ZiIQdroJsmLArQrop97Gx-JQMqZUUjvn=w544-h544-l90-rj",
+    "releaseDate": "2020",
+    "tags": [
+      "rock"
+    ],
+    "title": "Коли ми станем собою",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kihYGfNtAhhfMB5_JlNb8HJ3VxJgRwOdQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T01:07:06.551Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Океан Ельзи  "
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://lh3.googleusercontent.com/NfdoOiQgF2c-jXp7nObuoU9gkyDp1lw1Lmyqa_0XNVBOkkgpghF1JH6OWzH7JqhsWYuaTIlyyua3BMws=w544-h544-l90-rj",
+    "releaseDate": "2019",
+    "tags": [
+      "rock"
+    ],
+    "title": "Перевал (З фільму \"Захар Беркут\")",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k6svkGuFDncoXaI1Rg3du1O3vwv8c8GiI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T01:07:06.551Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Океан Ельзи  "
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://lh3.googleusercontent.com/yQJo3Yp58jhvKtr1XmnFrwA5fGLux7WotB3G9E59M_lpAKT9pUjidNdIk-bp9hTfu9YPY59hWSqyMsWu=w544-h544-l90-rj",
+    "releaseDate": "2019",
+    "tags": [
+      "rock"
+    ],
+    "title": "Човен",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mNSgsy8VVr8NdQmOoPVUhc98I6wNPMk6c"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T01:07:06.551Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Океан Ельзи  "
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://lh3.googleusercontent.com/jqo8vBnd38hFicIPWg80hI3R49wuvuuld5QMs4Uuuo1cstuzoHqqROqt06-ebohg-sV-vbha6HfkjQpd=w544-h544-l90-rj",
+    "releaseDate": "2018",
+    "tags": [
+      "rock"
+    ],
+    "title": "Скільки нас",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nPo2njpQdGoaaLvTkwsXbB93KMA8BkOaQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T01:07:06.551Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Океан Ельзи  "
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://lh3.googleusercontent.com/cPWW6LLZwJPz5v3HbApNOjWqQoZd2iXrEQU2zQeItYz2NxvPigRlRht8O5tny6gPC5L3qfGr49qNIAbJKQ=w544-h544-l90-rj",
+    "releaseDate": "2018",
+    "tags": [
+      "rock"
+    ],
+    "title": "В небо жене",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k9-sd3IFFtlVGtUA67LLv8EKf0IWSk8iA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T01:07:06.551Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Океан Ельзи  "
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://lh3.googleusercontent.com/mJW1PcBF0BAmqOsjxYYseVI9XRYvmgyR6LeJFgWw36a8C1B6zuHbDU3KeLRaTQkdjxPMbzSOQLEMgWc=w544-h544-l90-rj",
+    "releaseDate": "2018",
+    "tags": [
+      "rock"
+    ],
+    "title": "Без тебе",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kW3JzMPdmGktB8TKY7DVwsz5ONtbxz7nE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T01:07:06.551Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Океан Ельзи  "
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://lh3.googleusercontent.com/UuScNt75GryiXRtt9QSeLxeqhMA7eeciGNGiYxuT1z_y2fisALNGuFlNyEZKTRYJFpdOtNTvXPan0JyVHg=w544-h544-l90-rj",
+    "releaseDate": "2017",
+    "tags": [
+      "rock"
+    ],
+    "title": "Сонце (Radio Edition)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lgCWeJfT33HhCGN7t6AeWb7QPMqHBnZn8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T01:07:06.551Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Океан Ельзи  "
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://lh3.googleusercontent.com/evRxXjCcQDssLdIJYblsB37_L3XV3ALVRetdoxjtclY03qBnal6TM6n97DN1BjLkGEa48Y7MhSiaDDkB=w544-h544-l90-rj",
+    "releaseDate": "2016",
+    "tags": [
+      "rock"
+    ],
+    "title": "Не йди",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_neemSmXCAJQenJ-PZ1LkhOy85LhzEsCLQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T01:07:06.551Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Океан Ельзи  "
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://lh3.googleusercontent.com/4SLlWz4-j8TN9szf8Cymhx4F1tH2vQ-1UQ_UlOljMBNIMfMLYyNEDwhejD-tOCtQH3_9qkyG4eOy1S4F=w544-h544-l90-rj",
+    "releaseDate": "2015",
+    "tags": [
+      "rock"
+    ],
+    "title": "Життя починається знов",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mzlucH5n_k60-2CNW7F3iIt_375PtaFcU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T01:07:06.551Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Океан Ельзи  "
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://lh3.googleusercontent.com/T-gFHovjAYrttzhMw5To228viz3c1E0_rOM_4NjSJjCwd4rzxv58tdSAix1YK_F16tEgmtGRMYAFSkE=w544-h544-l90-rj",
+    "releaseDate": "2015",
+    "tags": [
+      "rock"
+    ],
+    "title": "Не твоя війна",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kOaCW4nkqa0kNpr4Ul3PTIvmsYnEeQLf4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T01:07:06.551Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Океан Ельзи  "
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://lh3.googleusercontent.com/oqZ9wHTbrEAn6CAU18PzJ7QR1upkCQYmpVQT0GviPr3GLWPzOnGTbWnrZHV14HCOM-Gk_K9q_7UVRLzs=w500-h500-l90-rj",
+    "releaseDate": "2010",
+    "tags": [
+      "rock"
+    ],
+    "title": "Там, де нас нема",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nYSLZFghcdy09jNy6-xYAiFHrJywqMSVs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T01:07:06.551Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Океан Ельзи  "
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://lh3.googleusercontent.com/nAFqTj0Uqvj7FKKBsOt8kHbDRsI52oPmh1NE-udwElaqu-9yMdLICfC5GWQ16hIDHDbC_6sz-CXTEAN5=w544-h544-l90-rj",
+    "releaseDate": "2004",
+    "tags": [
+      "rock"
+    ],
+    "title": "Дякую",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nUDtqBIbIZJpsZbnc9FPGOwj7UMEFPlts"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T01:07:06.551Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Океан Ельзи  "
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://lh3.googleusercontent.com/qeORSt24TZk3aOOxENCxJMYSqTujk5NErWdLClr8nkE5V45HKu14aOr5ctZYE3o1BWwV-IQ72lKhQrw=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rock"
+    ],
+    "title": "Як ніколи (involver remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mvS8HY1WsFevFch5L9WWkO6KxUUc4YP1Q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T01:07:06.551Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T01:06:50.447Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Океан Ельзи  "
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://lh3.googleusercontent.com/VXzTmNZpWsxJVsPe7xJdoPqCw242beRogzhJ6gJc4qNDueGK9XIvosIIoe8H6WbtVcz63gdEeTST9_yG=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [
+      "rock"
+    ],
+    "title": "Taka Yak Ty (Callmearco Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nKQteBKm3IQQRT24RFJziBAvijd2DxT8k"
   }
 ]

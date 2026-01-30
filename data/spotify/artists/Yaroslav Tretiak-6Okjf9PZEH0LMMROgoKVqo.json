@@ -1131,5 +1131,107 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5vFHjEuXWqimnHaoNQbpdO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T17:34:59.521Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T17:31:25.276Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Green Grey"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a840eb381defad62f4ceb7b8",
+    "releaseDate": "2025-06-16",
+    "tags": [
+      "funk"
+    ],
+    "title": "Емігрант (Yaroslav Tretiak Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1WOclfq4cOHJVggalP8fpW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T17:34:59.521Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T17:31:25.276Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Микола Серпень"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738b31965ad12f5ad2d4742c97",
+    "releaseDate": "2025-08-18",
+    "tags": [
+      "electronic",
+      "electropop",
+      "indie pop"
+    ],
+    "title": "Серпень (Yaroslav Tretiak Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0Vrnx19FF2RjWNpiik7GzH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T17:34:59.521Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T17:31:25.276Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "End Morphine"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e769c2ee517196e27c6c151a",
+    "releaseDate": "2024-01-08",
+    "tags": [],
+    "title": "Minus 40 (Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1ZdV8MFB76rLNijqFI2K1B"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T17:34:59.521Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T17:31:25.276Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "GLOSS"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f73b111d6ac61bab893faead",
+    "releaseDate": "2024-08-21",
+    "tags": [
+      "Hip-Hop",
+      "indie rock",
+      "dream pop"
+    ],
+    "title": "НаПоказ (Yaroslav Tretiak Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0HP8tM5pTjxlKgu3Ihdw5S"
   }
 ]

@@ -136,5 +136,28 @@
     "totalTracks": 5,
     "type": "album",
     "url": "https://open.spotify.com/album/46nNDhoGGeBn6ebGVURUuC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T04:30:13.175Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Severoth"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735580f9c9ef52b2e95d45c188",
+    "releaseDate": "2026-01-23",
+    "tags": [
+      "black metal",
+      "atmospheric black metal",
+      "ambient black metal"
+    ],
+    "title": "Live in Finland",
+    "totalTracks": 4,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5WPfhb67LOtRQQOXQOiLjv"
   }
 ]

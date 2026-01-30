@@ -1024,5 +1024,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ntkS1pvLkAta7n4SOVMHQQW7eeGrFk-ck"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T10:57:47.975Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KATERYNA BUZHYNSKA"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/QzanoSvDTjvW1Y4My6gHZcuBUAyCoD1UaEgYB4ajf-BRtt0E_SYPNqNk62JRIi7CgpXkf7jDHW_89NPZ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Ти скажеш дружині",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l9Ro6RhBF-gshP5M7fUTEb8IoGgIazo7g"
   }
 ]

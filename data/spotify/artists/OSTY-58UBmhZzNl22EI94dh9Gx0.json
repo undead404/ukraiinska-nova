@@ -427,5 +427,30 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4qkqgsrzl2fGSOzLPBuw57"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T06:27:14.212Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T06:26:55.549Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "OSTY"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730bce82c1038ac72acf939057",
+    "releaseDate": "2023-10-24",
+    "tags": [
+      "pop"
+    ],
+    "title": "Перед очима (навіть не починай)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4fa6XmBQVAeZNoJcwJbgiV"
   }
 ]

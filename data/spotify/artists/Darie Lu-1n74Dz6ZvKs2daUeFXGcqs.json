@@ -394,5 +394,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4Ehqlx6t49ugx5lEHmd5lO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-22T22:23:06.012Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Darie Lu"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273de70755d9a1acfa9256387ca",
+    "releaseDate": "2026-01-22",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Епізод",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1vgKUpSLpqhP9Pcpdy28hh"
   }
 ]

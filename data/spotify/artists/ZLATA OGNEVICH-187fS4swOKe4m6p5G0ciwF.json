@@ -200,12 +200,20 @@
       {
         "time": "2025-09-16T14:27:22.260Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-23T14:30:27.323Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-24T14:28:24.053Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "ZLATA OGNEVICH"
     ],
-    "artistsPopularity": 45,
+    "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f6e5ed0beb85726a27bf1889",
     "releaseDate": "2025-05-02",
     "tags": [
@@ -790,12 +798,20 @@
       {
         "time": "2025-09-16T14:27:22.260Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-23T14:30:27.323Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-24T14:28:24.053Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "ZLATA OGNEVICH"
     ],
-    "artistsPopularity": 45,
+    "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c9a1b7caf6ce7a64d492b6ae",
     "releaseDate": "2021-10-08",
     "tags": [
@@ -898,12 +914,20 @@
       {
         "time": "2025-09-16T14:27:22.260Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-23T14:30:27.323Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-24T14:28:24.053Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "ZLATA OGNEVICH"
     ],
-    "artistsPopularity": 45,
+    "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bf3b6e6831ca79f16ca6dbbe",
     "releaseDate": "2021-04-09",
     "tags": [
@@ -1662,6 +1686,14 @@
     "appearanceLog": [
       {
         "time": "2026-01-08T14:30:10.301Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-23T14:30:27.323Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-24T14:28:24.053Z",
         "type": "FOUND"
       }
     ],

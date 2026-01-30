@@ -209,5 +209,24 @@
     "totalTracks": 11,
     "type": "album",
     "url": "https://open.spotify.com/album/0v8WhybvMOxSkPwaQZft7h"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T05:41:04.372Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ValeryBlahBlah"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736ebfa2c7191ff80921880ba3",
+    "releaseDate": "2026-01-30",
+    "tags": [],
+    "title": "Тону",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6PXFwdox0XXqHrbKhd0a5a"
   }
 ]

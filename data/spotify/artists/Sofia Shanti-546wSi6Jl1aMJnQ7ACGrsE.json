@@ -513,5 +513,25 @@
     "totalTracks": 16,
     "type": "album",
     "url": "https://open.spotify.com/album/2rFhcTbDYz5470LEOTdjOo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T00:47:39.307Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DENOMA",
+      "Sofia Shanti"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273793e607aa19b0bbcf2b1c491",
+    "releaseDate": "2026-01-23",
+    "tags": [],
+    "title": "далеке майбутнє",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3eQAwhd7PP1IVhlsYa5mTz"
   }
 ]

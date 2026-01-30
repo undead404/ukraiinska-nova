@@ -762,5 +762,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lVVa1vD_avEe8phwXn2vfP32GIRH2DM24"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T04:21:19.964Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SKYLERR"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/EylcDRwjwN5DoGp-3KTWRUqrsFtA_nHFFjKIAS3OKF04G3yMUcpKtsWW3q2tmpsLilpgoAnx0TaQKndA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Лід-вогонь",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_llsT3EdBYL2naS4KnTu9XMMk7mlEUD9bE"
   }
 ]

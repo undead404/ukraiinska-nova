@@ -1475,5 +1475,45 @@
     "totalTracks": 11,
     "type": "album",
     "url": "https://open.spotify.com/album/0v8WhybvMOxSkPwaQZft7h"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T20:22:32.205Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Врангель"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27328f49e45d039aa400747a983",
+    "releaseDate": "2026-01-23",
+    "tags": [],
+    "title": "Альтернатива для України",
+    "totalTracks": 17,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1EF4Y8p6koQbrT0lzwekeE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T20:22:32.205Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "LIL Pink"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737da3aa86956609abb273df56",
+    "releaseDate": "2026-01-16",
+    "tags": [
+      "rap"
+    ],
+    "title": "04211",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/78NrZeANBFzSjsHHNog5Ps"
   }
 ]

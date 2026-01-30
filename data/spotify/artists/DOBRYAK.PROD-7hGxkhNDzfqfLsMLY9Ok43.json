@@ -234,5 +234,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4k0i3yYAQY8G43rqx98KV6"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T11:23:44.906Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DOBRYAK.PROD"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c3a80277425b400fc3c2f645",
+    "releaseDate": "2026-01-23",
+    "tags": [],
+    "title": "НЕ МОЖУ ЗУПИНИТИСЬ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4qLtp6UzTSpFEycmZmuR42"
   }
 ]

@@ -537,5 +537,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1LxaAyAUaLwJofUcJLxJk1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T03:17:54.085Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KøDi",
+      "Daniel",
+      "OKARO",
+      "NIKITAIDISYUDA"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27321f8fc63749013bc7a23744c",
+    "releaseDate": "2026-01-21",
+    "tags": [
+      "sertanejo"
+    ],
+    "title": "DOBRZE",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4PiOn3vaiyFuD4vmwAQgwk"
   }
 ]

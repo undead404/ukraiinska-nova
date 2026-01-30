@@ -919,5 +919,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3nPWwgK3vXLxD81jMA6Ihg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T18:22:11.950Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Білий Бо"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e935177800db46b62e0a138d",
+    "releaseDate": "2026-01-22",
+    "tags": [],
+    "title": "Вуличний вальс",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/44By52W1PgKypNwOy56Szu"
   }
 ]

@@ -80,12 +80,20 @@
       {
         "time": "2025-09-19T19:21:26.196Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-23T19:21:37.034Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-24T19:19:59.424Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Василь Зінкевич"
     ],
-    "artistsPopularity": 26,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f71f91254018ec18f73d09d2",
     "releaseDate": "2023-10-12",
     "tags": [],
@@ -156,12 +164,20 @@
       {
         "time": "2025-09-19T19:21:26.196Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-23T19:21:37.034Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-24T19:19:59.424Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Василь Зінкевич"
     ],
-    "artistsPopularity": 26,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f05eba7ce7308248f6250f1c",
     "releaseDate": "2023-09-08",
     "tags": [],

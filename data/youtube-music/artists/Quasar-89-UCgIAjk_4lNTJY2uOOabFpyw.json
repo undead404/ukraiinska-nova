@@ -2007,5 +2007,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mn7s647UEiH0_Rrp5NO8kBJWe9w5pnZRw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T15:52:35.680Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/oYOB7pI4rM5x18PSc4J8azboQgZujRIL0T9bf_AcEmr_2E51pRHYGl5KvxZ3kRMquMKSTD0IcT596fLi=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Flux",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mDmwRmnXS7WqB7VHvG3VDBLMmZfUpiyLo"
   }
 ]

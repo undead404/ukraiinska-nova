@@ -226,5 +226,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mujf3N0cTF1i_N5PRtRoJSnsrtvqYAi5w"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T06:56:06.071Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DOBRYAK.PROD"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/a5l9mGdgu59J67_7A7bfTB8-GAlPUTGqqNxT7IkqpTEv3i6afKXEtNbl-HIha6i7DdWcvQcsIt03grY=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "НЕ МОЖУ ЗУПИНИТИСЬ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k8RTHBZilClf71nHXyxFbDe8kMyl7Tua0"
   }
 ]

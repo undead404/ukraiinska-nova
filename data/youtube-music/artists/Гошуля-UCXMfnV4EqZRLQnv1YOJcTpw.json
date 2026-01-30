@@ -916,5 +916,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lRo3xeRyWAKA7uvoppUiKTIH1kc6XziM0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-22T22:49:20.782Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гошуля"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/ZDpKYBy5h3DZ2-1MH4ar17icJRfdcC4K4HNUM02L79teF929V_BAZz_vMe3xnKgLxhitReyC67QTVxuQbQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Зимую",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k7hQqUoscyBlxCeGgkSUg48Is9IZa93Us"
   }
 ]

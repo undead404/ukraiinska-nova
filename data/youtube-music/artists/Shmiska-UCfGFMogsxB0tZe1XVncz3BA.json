@@ -334,5 +334,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mSOD4mxjHTOcKJjBu9t2i75iQTLy85vSs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T21:49:38.918Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Shmiska"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/6mpnmSCuTxSl_oHwGIKuzhU_oaAvOIeJYFOiJ9FxLH35tuqcn8Iq5G7BkWnCcW11lw2ec48AQLeq0gKVpA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Ти винен сам",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lr0fjy3d5F9aHBv5KoftBgqPbqafvMnjM"
   }
 ]

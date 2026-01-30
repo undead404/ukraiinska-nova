@@ -3762,5 +3762,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1SMjCCfenclMvukVm9feKg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T03:52:50.697Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273074d9106da72547c46200426",
+    "releaseDate": "2026-01-23",
+    "tags": [],
+    "title": "Dark hall",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/59wWTaV9sdToJdZmOoQbxq"
   }
 ]

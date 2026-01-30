@@ -226,5 +226,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kT5LC2K0ET0eDaQgih0YzeAJNxsu6f7jY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T02:34:22.539Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BIOBITER"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/CJyewfhV_LhEMW16eCScerEgy79_JGgwu5iHYz0z3aBD2RpxFO0WDPrQe4BDSHT-TVVz11YVqsRoCqqr=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Будь в моєму житті",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nSK_kBuTObbLZIbW4ukvzMl5PVXj-9fXg"
   }
 ]

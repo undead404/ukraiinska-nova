@@ -250,5 +250,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lBVJDlHoILlXZZtjXQ4IRi8NYQbz4NdpM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T23:49:25.736Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Mose"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/ZacrUzUIPWNwNlwdBCOS_E6IRFA_tI6uXD8VED8-NEiQiW6C6ceNjlYAaTpv-VMLjHI4XUJpW_eunbqT=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "doom metal"
+    ],
+    "title": "По ночах",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_myR49s7Ve1d_q2Febb5k2F2t-wgA6m7Io"
   }
 ]

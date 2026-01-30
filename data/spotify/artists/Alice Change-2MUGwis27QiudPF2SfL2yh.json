@@ -789,5 +789,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6KW05bJjFHhkaiR47Hx0gZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T06:24:52.454Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alice Change"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bfbd078d877be3c0c11fb791",
+    "releaseDate": "2026-01-23",
+    "tags": [
+      "indie pop",
+      "indie rock"
+    ],
+    "title": "Little Star",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0LLpAFcDKdbHqMLADxs8Od"
   }
 ]

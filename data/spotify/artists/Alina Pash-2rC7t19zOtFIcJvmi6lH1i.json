@@ -154,6 +154,14 @@
       {
         "time": "2025-09-23T02:40:09.145Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T02:53:27.949Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-27T02:59:13.364Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -174,6 +182,14 @@
     "appearanceLog": [
       {
         "time": "2025-09-23T02:40:09.145Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T02:53:27.949Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-27T02:59:13.364Z",
         "type": "FOUND"
       }
     ],
@@ -264,6 +280,14 @@
       {
         "time": "2025-09-23T02:40:09.145Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T02:53:27.949Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-27T02:59:13.364Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -311,6 +335,14 @@
       {
         "time": "2025-09-23T02:40:09.145Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T02:53:27.949Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-27T02:59:13.364Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -353,6 +385,14 @@
       {
         "time": "2025-09-23T02:40:09.145Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T02:53:27.949Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-27T02:59:13.364Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -373,6 +413,14 @@
     "appearanceLog": [
       {
         "time": "2025-09-23T02:40:09.145Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T02:53:27.949Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-27T02:59:13.364Z",
         "type": "FOUND"
       }
     ],
@@ -459,6 +507,14 @@
     "appearanceLog": [
       {
         "time": "2025-09-23T02:40:09.145Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T02:53:27.949Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-27T02:59:13.364Z",
         "type": "FOUND"
       }
     ],
@@ -589,6 +645,14 @@
     "appearanceLog": [
       {
         "time": "2025-09-23T02:40:09.145Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T02:53:27.949Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-27T02:59:13.364Z",
         "type": "FOUND"
       }
     ],
@@ -753,6 +817,14 @@
     "appearanceLog": [
       {
         "time": "2025-09-23T02:40:09.145Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T02:53:27.949Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-27T02:59:13.364Z",
         "type": "FOUND"
       }
     ],
@@ -996,6 +1068,14 @@
       {
         "time": "2025-12-25T02:53:49.388Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-24T02:53:27.949Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-27T02:59:13.364Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1022,6 +1102,14 @@
       {
         "time": "2025-12-05T02:51:52.058Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-24T02:53:27.949Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-27T02:59:13.364Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1046,6 +1134,14 @@
       },
       {
         "time": "2025-11-22T02:44:41.327Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-24T02:53:27.949Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-27T02:59:13.364Z",
         "type": "LOST"
       }
     ],
@@ -1111,5 +1207,157 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/7t9HdYryY0IyVDhzv1eIB2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T02:53:27.950Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Apashe",
+      "Alina Pash"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736f2c0ec1ee75a68009cd1168",
+    "releaseDate": "2026-01-23",
+    "tags": [
+      "pop",
+      "trap",
+      "dubstep"
+    ],
+    "title": "Hymns Of Resilience",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4vpm5D4OuNa4hA6OHFmzGm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T02:53:27.950Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-27T02:59:13.364Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Krechet"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273301e64aa20a7438148a42437",
+    "releaseDate": "2021-01-22",
+    "tags": [
+      "rap"
+    ],
+    "title": "Україностан",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7dcUlhrCXCj5sFQ1h8rVKD"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T02:53:27.950Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-27T02:59:13.364Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Apashe",
+      "Nitepunk"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731bf4dea3af2c4ebf048fb81e",
+    "releaseDate": "2022-07-07",
+    "tags": [
+      "dubstep",
+      "trap",
+      "jungle"
+    ],
+    "title": "Witch (Nitepunk Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3m8fLUzHNEJBQNdGUgmWkt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T02:53:27.950Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-27T02:59:13.364Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Krechet"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c389d3a591adfb8748ab1374",
+    "releaseDate": "2021-07-09",
+    "tags": [
+      "rap"
+    ],
+    "title": "Zodiac",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5X19fmLpYYjVtIWgdDYnEe"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T02:53:27.950Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-27T02:59:13.364Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Tina Karol"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738a07ba3f96b667c3d7ae81c5",
+    "releaseDate": "2022-03-25",
+    "tags": [
+      "pop"
+    ],
+    "title": "Українські пісні",
+    "totalTracks": 22,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7gEapZ5kT3iXEH2iD4coHB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T02:53:27.950Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-27T02:59:13.364Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Tina Karol"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ff5f8a94ba63dfd387b5467c",
+    "releaseDate": "2021-08-20",
+    "tags": [
+      "pop"
+    ],
+    "title": "Молода кров",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1Sbcj2v05TKMqOVEsT7WYJ"
   }
 ]

@@ -219,5 +219,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3kS8l00aYCvihmjuRGJhWq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T14:28:36.127Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Puncher",
+      "Smile (UA)"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aba8c0e6d5c9a63778bf0f0a",
+    "releaseDate": "2026-01-23",
+    "tags": [
+      "House",
+      "Progressive House"
+    ],
+    "title": "Warmth",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/60BjA8JBkqbqxXYk5Hkqif"
   }
 ]

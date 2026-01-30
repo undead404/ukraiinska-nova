@@ -264,5 +264,27 @@
     "totalTracks": 14,
     "type": "album",
     "url": "https://open.spotify.com/album/5VT806K72ocKmiMVkS41JR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T23:24:31.995Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Сергій Жадан",
+      "Юрій Гуржи"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f49c344db5da131773007408",
+    "releaseDate": "2026-01-29",
+    "tags": [
+      "poetry"
+    ],
+    "title": "Шостий Псалом",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/330YA6QezF6Gp1zgu82byF"
   }
 ]

@@ -945,5 +945,71 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/70zZh5GTZXM5lmDNSG3sZv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-25T11:25:20.015Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lugovskiy"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ecd70b7e7cfe506439311382",
+    "releaseDate": "2024-01-27",
+    "tags": [
+      "deep house",
+      "House"
+    ],
+    "title": "30",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7trNbMKu2keiGwVKWsnRuw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-28T11:26:47.427Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kassian",
+      "Lugovskiy"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273592efa19093713cac92e3775",
+    "releaseDate": "2026-01-28",
+    "tags": [
+      "deep house",
+      "House"
+    ],
+    "title": "Hollow (Lugovskiy Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2FB20V1xvJJX6VJf45oBFJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-28T11:26:47.427Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kassian"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aba1a7002faa0f2548ff6cd4",
+    "releaseDate": "2026-01-28",
+    "tags": [
+      "deep house"
+    ],
+    "title": "Faux Poly: Remixed 004",
+    "totalTracks": 7,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6ZRD4L0eTMivyp0QTfN4N3"
   }
 ]

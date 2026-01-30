@@ -1164,5 +1164,31 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6KkMm0JHZXdvyEBhvcKzIG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T09:26:16.045Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T09:26:29.887Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Just Name",
+      "Chillinwith"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27366889390a06395fdb2bfa755",
+    "releaseDate": "2022-01-31",
+    "tags": [
+      "rap"
+    ],
+    "title": "Місто",
+    "totalTracks": 14,
+    "type": "album",
+    "url": "https://open.spotify.com/album/39ugZh0GNemxPgiWRFoQt9"
   }
 ]

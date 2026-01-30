@@ -568,5 +568,47 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5g6ibppjWmW84IsBpLxRRn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T07:20:27.013Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T07:20:51.974Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Люцина Хворост"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732109063aa3cacaba09964029",
+    "releaseDate": "2025-06-29",
+    "tags": [],
+    "title": "Міський Орфей",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0fmHHgy0oNNT414b1ryLsC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-28T07:21:31.353Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Люцина Хворост"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739f37676238cee888faa89b45",
+    "releaseDate": "2026-01-18",
+    "tags": [],
+    "title": "Танґо в дубовому лісі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/47VtNtidGJ5xqsB2HLRHnN"
   }
 ]

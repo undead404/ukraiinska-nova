@@ -885,12 +885,20 @@
       {
         "time": "2025-09-17T10:23:45.202Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T10:24:19.559Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-25T10:24:35.800Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Eric Deray"
     ],
-    "artistsPopularity": 18,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734ff6882460b1bfa782d84672",
     "releaseDate": "2023-07-22",
     "tags": [],
@@ -946,13 +954,21 @@
       {
         "time": "2025-09-17T10:23:45.202Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T10:24:19.559Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-25T10:24:35.800Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Eric Deray",
       "Goldy"
     ],
-    "artistsPopularity": 18,
+    "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f90b50bb8623a5ae0d5b3f38",
     "releaseDate": "2023-04-27",
     "tags": [
@@ -1658,12 +1674,20 @@
       {
         "time": "2025-09-17T10:23:45.202Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T10:24:19.559Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-25T10:24:35.800Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Eric Deray"
     ],
-    "artistsPopularity": 18,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c5ae9eb4fb209592a34864f9",
     "releaseDate": "2022-01-13",
     "tags": [],
@@ -1793,12 +1817,20 @@
       {
         "time": "2025-09-17T10:23:45.202Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T10:24:19.559Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-25T10:24:35.800Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Eric Deray"
     ],
-    "artistsPopularity": 18,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e69b4357730024bd55f25d72",
     "releaseDate": "2021-10-08",
     "tags": [],
@@ -1832,12 +1864,20 @@
       {
         "time": "2025-09-17T10:23:45.202Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T10:24:19.559Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-25T10:24:35.800Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Eric Deray"
     ],
-    "artistsPopularity": 18,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738956d7e2958817eec844bc51",
     "releaseDate": "2021-09-20",
     "tags": [],
@@ -2004,12 +2044,20 @@
       {
         "time": "2025-09-17T10:23:45.202Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T10:24:19.559Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-25T10:24:35.800Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Eric Deray"
     ],
-    "artistsPopularity": 18,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273889cba61dd4d954b8ae1fcde",
     "releaseDate": "2020-11-03",
     "tags": [],
@@ -2061,12 +2109,20 @@
       {
         "time": "2025-09-17T10:23:45.202Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T10:24:19.559Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-25T10:24:35.800Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Eric Deray"
     ],
-    "artistsPopularity": 18,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a8e74420f4186290112e8e6f",
     "releaseDate": "2020-10-02",
     "tags": [],

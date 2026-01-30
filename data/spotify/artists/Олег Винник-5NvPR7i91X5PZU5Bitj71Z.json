@@ -176,6 +176,14 @@
       {
         "time": "2025-09-23T16:21:37.402Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-23T16:22:36.804Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-24T16:22:09.451Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -469,5 +477,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/73AD8eVJIVMQUgsd4FN64f"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T16:22:36.804Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T16:22:09.451Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Olegg Vynnyk (Олег Винник)"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c5492deb84c90051984cc693",
+    "releaseDate": "2013",
+    "tags": [],
+    "title": "Счастье",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/77FbGLDrfihEEGKTyuzUIo"
   }
 ]

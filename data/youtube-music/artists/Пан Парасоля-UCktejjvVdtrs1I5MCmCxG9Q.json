@@ -430,5 +430,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mgCuKTyHUHojzU4hz-q344vkzTJBkvTWw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T13:48:55.997Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Пан Парасоля"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/3FiD5mVb7lwcDbb-Z9eoLPKUJVvSvnSs5SkypHFLTYT-m_9NPiQTGHYXe7Omf0ryFIQ96i1TnYJKWh_U=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Близько",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mdku1RKRk9WPZhLyHdiu0m0y_dfS0C8co"
   }
 ]

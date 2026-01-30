@@ -722,5 +722,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7rLQIZ6sT5uZ6tL9fNgMyU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T10:23:39.477Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kolaba",
+      "Dima PROKOPOV"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27388289f69ccce1a4084b21fef",
+    "releaseDate": "2026-01-23",
+    "tags": [],
+    "title": "Зробіть гучніше (Dance version)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/02ZbCFov4L6q7SpfHeGVuw"
   }
 ]

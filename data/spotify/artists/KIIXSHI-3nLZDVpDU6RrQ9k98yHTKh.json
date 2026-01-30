@@ -1490,5 +1490,172 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/6fwJSiy81wzeclcpe2sUpb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T02:55:30.931Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-27T03:01:02.345Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "MoonDeity"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27304823f6035403e3500f83598",
+    "releaseDate": "2024-04-26",
+    "tags": [
+      "phonk"
+    ],
+    "title": "CYBERPSYCHOSIS 2",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5sJCQ2Egyia5hDdTCMFqMc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T02:55:30.931Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-27T03:01:02.345Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Третя Штурмова"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734f4548ca31ab5bcb4e5d7a57",
+    "releaseDate": "2025-05-30",
+    "tags": [
+      "rock"
+    ],
+    "title": "FPS",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5ZWiGZf0V842vNZwRNtmFZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T02:55:30.931Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-27T03:01:02.345Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "D4C"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27355f99d677691ac9c2072b5c6",
+    "releaseDate": "2023-08-25",
+    "tags": [
+      "jumpstyle"
+    ],
+    "title": "MY STORY",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6sfoXr4Cq9IgNIEwPD4nIM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T02:55:30.931Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-27T03:01:02.345Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "XI$OW"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27332bbbe92d9e6b186f0ab7330",
+    "releaseDate": "2024-04-19",
+    "tags": [],
+    "title": "SOLITUDE",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7xmAAY9aROnSsANdQdDoRX"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T02:55:30.931Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-27T03:01:02.345Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "DRIFT WISH"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e0da413dbdd74d0abfa124e4",
+    "releaseDate": "2023-01-06",
+    "tags": [],
+    "title": "SADCAT",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0rG1vG1vIKhKFlVoJ3zjtF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T02:55:30.931Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-27T03:01:02.345Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "DRIFT WISH"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731714e29ee185ae6a8c46117a",
+    "releaseDate": "2023-02-02",
+    "tags": [],
+    "title": "DREAMS & NIGHTMARE$",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4PlTocv1ViaQIawDO0Bjk5"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T02:55:30.931Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-27T03:01:02.345Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "yash1oka"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a55d2c9e529f8301d34fa262",
+    "releaseDate": "2024-02-12",
+    "tags": [],
+    "title": "LOCK IN",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/738Kvp1xqxLwz1k7dAhbsa"
   }
 ]

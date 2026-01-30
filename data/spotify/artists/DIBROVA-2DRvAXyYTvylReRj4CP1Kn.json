@@ -636,5 +636,26 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/5Ebjo8Q6yRECBA5y1ywO7d"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T09:25:01.604Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DIBROVA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737c97128f3471e278d6cfe6f1",
+    "releaseDate": "2026-01-23",
+    "tags": [
+      "pop"
+    ],
+    "title": "Танцювала",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1BGF2YKE4zdRCUo0NlTZ2D"
   }
 ]

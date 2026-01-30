@@ -645,6 +645,14 @@
       {
         "time": "2025-09-25T02:44:14.743Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T02:54:49.698Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-27T03:00:20.727Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -849,6 +857,14 @@
       {
         "time": "2025-09-25T02:44:14.743Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T02:54:49.698Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-27T03:00:20.727Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1017,6 +1033,14 @@
     "appearanceLog": [
       {
         "time": "2025-09-25T02:44:14.743Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T02:54:49.698Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-27T03:00:20.727Z",
         "type": "FOUND"
       }
     ],
@@ -1361,5 +1385,30 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/59euc6nW99DamiZJp4Kef2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T02:54:49.699Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-27T03:00:20.727Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Gvozdini"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733cf10a13337ca95e9f49d6c4",
+    "releaseDate": "2014-11-17",
+    "tags": [
+      "Progressive House"
+    ],
+    "title": "Lemberg",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2m3fmVDiD0GwJ1ZFPWSxXn"
   }
 ]

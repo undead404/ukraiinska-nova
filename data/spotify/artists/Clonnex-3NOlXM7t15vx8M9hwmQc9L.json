@@ -155,12 +155,20 @@
       {
         "time": "2025-09-18T15:25:49.537Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-23T15:24:42.271Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-24T15:24:14.818Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Clonnex"
     ],
-    "artistsPopularity": 47,
+    "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bea49e0d7d53ba63bf083703",
     "releaseDate": "2025-07-25",
     "tags": [
@@ -561,6 +569,14 @@
       {
         "time": "2025-09-18T15:25:49.537Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-23T15:24:42.271Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-24T15:24:14.818Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -568,7 +584,7 @@
       "Clonnex",
       "NIKITAIDISYUDA"
     ],
-    "artistsPopularity": 69,
+    "artistsPopularity": 5,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730199584380c22e25f18334a5",
     "releaseDate": "2024-02-16",
     "tags": [
@@ -1248,5 +1264,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7s89P8zGgha7j1nHDNrb9a"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-28T15:26:16.958Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Clonnex"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732ae6f265305b8dc0bf7ffd52",
+    "releaseDate": "2026-01-28",
+    "tags": [
+      "rap"
+    ],
+    "title": "САМЫЙ ЛУЧШИЙ РУССКИЙ РЕПЕР",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2hM51AfNnu7B9ZZ0fdkmN9"
   }
 ]

@@ -181,6 +181,14 @@
       {
         "time": "2025-09-27T10:25:18.132Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T10:27:15.796Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-25T10:27:35.052Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -966,6 +974,14 @@
       {
         "time": "2025-09-27T10:25:18.132Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T10:27:15.796Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-25T10:27:35.052Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1035,6 +1051,14 @@
       },
       {
         "time": "2025-12-19T10:27:41.354Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-24T10:27:15.796Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T10:27:35.052Z",
         "type": "LOST"
       }
     ],
@@ -1106,6 +1130,14 @@
       {
         "time": "2025-12-09T10:27:53.176Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T10:27:15.796Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-25T10:27:35.052Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1144,5 +1176,30 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6DwyrRkwplYo7Oul3dMp2D"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T10:27:15.797Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T10:27:35.052Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Олександр Пономарьов"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27322dcba4e00317618f77ae28d",
+    "releaseDate": "2021-12-25",
+    "tags": [
+      "pop"
+    ],
+    "title": "Христос Народився",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4iiA9hs9wTQXD3q6CECt1M"
   }
 ]

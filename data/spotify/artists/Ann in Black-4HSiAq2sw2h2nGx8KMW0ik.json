@@ -519,5 +519,24 @@
     "totalTracks": 7,
     "type": "album",
     "url": "https://open.spotify.com/album/5ZEmegECtWBknjqyFbCqAw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T04:33:11.528Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ann in Black"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732fa72996fb1db09cd4a8dce4",
+    "releaseDate": "2026-01-22",
+    "tags": [],
+    "title": "Роби як вмієш",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0S8rVzra7tDILIeCYq1eys"
   }
 ]

@@ -172,5 +172,28 @@
     "totalTracks": 11,
     "type": "album",
     "url": "https://open.spotify.com/album/0ASNblZGTKmIWIAobNQhxv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T11:21:58.840Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Fabric Decay"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ef7ef2cb25b4eedb7a7341e8",
+    "releaseDate": "2026-01-23",
+    "tags": [
+      "ambient",
+      "electronic",
+      "noise"
+    ],
+    "title": "White Gate",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/55kIIYdtb4N5Qel6UMFfFT"
   }
 ]

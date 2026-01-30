@@ -1003,5 +1003,27 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/3uYSgBHUpfnm8IHYLKoPcu"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T18:25:23.174Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ann Kovtun"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e471a4654357aede0c8d62e1",
+    "releaseDate": "2026-01-22",
+    "tags": [
+      "electropop",
+      "pop"
+    ],
+    "title": "Insomnia",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/59OgFZ5AG7t9W0UQe9WpsZ"
   }
 ]

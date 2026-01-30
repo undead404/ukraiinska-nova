@@ -251,5 +251,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/79Drg7ktrjy8nCkrB52qzA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T06:28:37.866Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Mose",
+      "DORILEY"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27397121c9b51d9e095a53bf522",
+    "releaseDate": "2026-01-23",
+    "tags": [
+      "doom metal"
+    ],
+    "title": "По ночах",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1NsiRAYoL00hx5bYhDCS8n"
   }
 ]

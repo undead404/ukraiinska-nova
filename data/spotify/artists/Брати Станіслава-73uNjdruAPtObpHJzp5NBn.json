@@ -170,5 +170,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1hxT9sYGVYDRoYBsrgMwGn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T22:20:36.369Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Брати Станіслава"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273713174634e96d88ab2b241ec",
+    "releaseDate": "2026-01-22",
+    "tags": [
+      "rock"
+    ],
+    "title": "Поролоновий світ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4KUYNnAsCGTgu7z586xaFW"
   }
 ]

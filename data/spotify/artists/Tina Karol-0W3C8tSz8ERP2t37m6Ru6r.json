@@ -1595,5 +1595,296 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0vJRuTCQzUlMn7pDV9HeAy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T16:29:12.500Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Zhadan i Sobaky",
+      "Tina Karol",
+      "Хартія"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eedd5c30664b608db8b49d44",
+    "releaseDate": "2026-01-23",
+    "tags": [
+      "pop",
+      "rock"
+    ],
+    "title": "Ніч",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6w6nKd6KHVeaAfA37ujEvc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T16:29:12.500Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T16:29:12.355Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Tina Karol"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732a964886137950bb2fac55be",
+    "releaseDate": "2015-12-12",
+    "tags": [
+      "pop"
+    ],
+    "title": "Україна – це ти",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5EXdjJJ6vh9QkLF7RVVaQV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T16:29:12.500Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T16:29:12.355Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Dan Balan"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273830dfb486458e1e17d47c785",
+    "releaseDate": "2021-04-20",
+    "tags": [
+      "pop",
+      "dance"
+    ],
+    "title": "Freedom, Pt. 2",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6SKMlxzXLclHtsbkb4p0eP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T16:29:12.500Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T16:29:12.355Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Олександр Пономарьов"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a10fea7fe54e43533f8fa033",
+    "releaseDate": "2021-01-04",
+    "tags": [
+      "pop"
+    ],
+    "title": "Нова радість стала",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6tSvAf8zCerIUAA0mlMW04"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T16:29:12.500Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T16:29:12.355Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Stas Mikhaylov"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273283de075c6f948d361bedeaf",
+    "releaseDate": "2017-05-26",
+    "tags": [],
+    "title": "В кругу друзей (Лучшие дуэты)",
+    "totalTracks": 19,
+    "type": "album",
+    "url": "https://open.spotify.com/album/42AYVcG0abNYU7zoxYJcoD"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T16:29:12.500Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T16:29:12.355Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Julia Sanina"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737234eda3f59b95b2c16d7e7a",
+    "releaseDate": "2024-09-12",
+    "tags": [
+      "dance",
+      "pop"
+    ],
+    "title": "Special Kiss. Live",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1N6uOXF9LDPMF6DNAm2eSt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T16:29:12.500Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T16:29:12.355Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Stas Mikhaylov"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f7b1afb5a32e5fc59103d8df",
+    "releaseDate": "2015",
+    "tags": [],
+    "title": "Дуэты (Live)",
+    "totalTracks": 20,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2FJuvKevjbmXY1cZJyDHOn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T16:29:12.500Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T16:29:12.355Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Luca Dayz"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27357ff11e4daf0b4baf88fbf43",
+    "releaseDate": "2020-08-28",
+    "tags": [],
+    "title": "Blow Your Mind",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5maZeGtvcUMdkR038uRZ2w"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T16:29:12.500Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T16:29:12.355Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Luca Dayz",
+      "Legendary Marquest"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735a1c24e157f8293ca70ac708",
+    "releaseDate": "2021-01-29",
+    "tags": [],
+    "title": "Phenomenal",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5zl7tEGshzSxYyaIOWurR6"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T16:29:12.500Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T16:29:12.355Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Take Five"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273058ebc636d12c0b81d6075e3",
+    "releaseDate": "2022-05-30",
+    "tags": [
+      "synthpop",
+      "new wave"
+    ],
+    "title": "Перечекати",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3DlSWZMtdCODdli6XQC7Pi"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T16:29:12.500Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T16:29:12.355Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Various Artists"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27393003550fbe064ba05462aa2",
+    "releaseDate": "2017-04-21",
+    "tags": [],
+    "title": "Голос країни (Півфінал)",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/28ZVdkOtACSNU9TbHhxQKM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T16:29:12.500Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T16:29:12.355Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Various Artists"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27337f955ea8feef32a35b21ae6",
+    "releaseDate": "2020-10-29",
+    "tags": [],
+    "title": "Soul Cruise the EP",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5A7X0QlBrBZ9rez6RlMef1"
   }
 ]

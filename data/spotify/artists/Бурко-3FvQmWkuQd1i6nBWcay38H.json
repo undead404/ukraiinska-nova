@@ -136,5 +136,32 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1IUuyWLa3vXHijXcq8wThT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-26T22:21:01.412Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "БУРКО",
+      "Крамдада"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27321059240d818964be0965ea5",
+    "releaseDate": "2026-01-26",
+    "tags": [
+      "dream pop",
+      "indie pop",
+      "rap",
+      "folk pop",
+      "indie folk",
+      "spoken word"
+    ],
+    "title": "Жду дзвінка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3rxDtV4ezYuK3kUpIZlMv3"
   }
 ]

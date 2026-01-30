@@ -48,6 +48,10 @@
       {
         "time": "2025-09-23T13:24:17.790Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-26T13:33:07.711Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -296,5 +300,26 @@
     "totalTracks": 14,
     "type": "album",
     "url": "https://open.spotify.com/album/7la654CI5lJKPlYYlrDelu"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-26T13:33:07.711Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "теорія розбитих вікон"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27374c42597b26550b85e1bc62e",
+    "releaseDate": "2024-10-14",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "cамотні монстри",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/12J5HSzWCo3RvOUZblfbKX"
   }
 ]

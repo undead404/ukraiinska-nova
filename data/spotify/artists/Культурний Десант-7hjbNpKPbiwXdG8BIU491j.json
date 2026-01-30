@@ -578,6 +578,10 @@
       {
         "time": "2025-09-23T21:20:01.240Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-26T21:21:43.791Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -650,5 +654,27 @@
     "totalTracks": 9,
     "type": "album",
     "url": "https://open.spotify.com/album/5fUGzqvHdWkwyHLV739Gfp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-26T21:21:43.792Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "REMEZ",
+      "Коля Сєрга",
+      "Karrabuss",
+      "Культурний Десант"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ba4ccdc99044149635a918a9",
+    "releaseDate": "2024-07-18",
+    "tags": [],
+    "title": "Плем'я",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3YJFD5mu6Gn9BJ8V549Bh2"
   }
 ]

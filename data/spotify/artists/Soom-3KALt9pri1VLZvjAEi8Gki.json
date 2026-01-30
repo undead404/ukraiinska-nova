@@ -4,6 +4,10 @@
       {
         "time": "2025-09-20T16:26:04.171Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-28T16:31:00.706Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -67,6 +71,10 @@
       {
         "time": "2025-09-20T16:26:04.171Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-28T16:31:00.706Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -122,5 +130,114 @@
     "totalTracks": 23,
     "type": "album",
     "url": "https://open.spotify.com/album/4wKgQVJbRWEkdCcuPfXGx7"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-27T16:29:28.776Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Soom"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732b7532c9c263c4b61b705d0c",
+    "releaseDate": "2018-04-20",
+    "tags": [
+      "doom metal"
+    ],
+    "title": "Джєбарс",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6jTOiUUHoNk9LJW6Af0zZ5"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-27T16:29:28.776Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Soom"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733f864afb3035ed39e6de30f9",
+    "releaseDate": "2016-07-03",
+    "tags": [
+      "doom metal"
+    ],
+    "title": "Наґно",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2IREo346JbJpK1BjgZQGVo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-27T16:29:28.776Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Soom"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d79d1cf82c84c82f08fd5ef2",
+    "releaseDate": "2015-09-19",
+    "tags": [
+      "doom metal"
+    ],
+    "title": "Жах і Огида",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/04SCS7xNatqYpk2wnsPQhF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-27T16:29:28.776Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-28T16:31:00.706Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Soom"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734f06d8350be187bcad3dd65e",
+    "releaseDate": "2014-05-11",
+    "tags": [
+      "doom metal"
+    ],
+    "title": "Чорна Зима, Червоне Небо",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0jYsHBUt2wzVSlx4LcCj9q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T16:32:44.478Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Soom"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e1c99af2900a45649f551007",
+    "releaseDate": "2026-01-18",
+    "tags": [
+      "doom metal"
+    ],
+    "title": "ВСЕ, ЩО Я НАМАГАВСЯ СХОВАТИ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5tLpOcSuRoMywRimTF4z97"
   }
 ]

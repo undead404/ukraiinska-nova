@@ -360,5 +360,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/63JlHplOt5RM7SA4UUpjdx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T04:53:23.739Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KILL! KILL! KILL!"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e3e27e188abd3ab130b52421",
+    "releaseDate": "2026-01-29",
+    "tags": [
+      "Garage Punk",
+      "Garage Rock"
+    ],
+    "title": "Scumbag",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6esvnt3rOHqNJyLwsrMuyV"
   }
 ]

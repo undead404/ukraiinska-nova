@@ -954,12 +954,20 @@
       {
         "time": "2025-09-18T17:22:27.879Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-23T17:21:54.849Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-24T17:20:09.352Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "АСАФАТОV"
     ],
-    "artistsPopularity": 32,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f0d5bbf75bf476c24163bac2",
     "releaseDate": "2022-08-16",
     "tags": [],
@@ -973,12 +981,20 @@
       {
         "time": "2025-09-18T17:22:27.879Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-23T17:21:54.849Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-01-24T17:20:09.352Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "АСАФАТОV"
     ],
-    "artistsPopularity": 32,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27359cc5b1b8b258ede667ca0a6",
     "releaseDate": "2022-07-15",
     "tags": [],

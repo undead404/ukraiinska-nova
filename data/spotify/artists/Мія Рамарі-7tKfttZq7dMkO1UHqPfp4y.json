@@ -529,5 +529,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7CdBYR6RwlujHNFEXkAIWR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T09:23:26.127Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Мія Рамарі"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27373b69e2331c3b20f9bd4ce4e",
+    "releaseDate": "2026-01-23",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Побачення",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1KwDuPszgCNdB6cSxYg1FB"
   }
 ]

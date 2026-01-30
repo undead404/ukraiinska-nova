@@ -130,5 +130,31 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0KftP7ZZca3ZyvpYe1hIB5"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T10:25:15.347Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T10:25:32.651Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Jazzforacat"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d5e6491dd87ff2f6b210100d",
+    "releaseDate": "2019-02-21",
+    "tags": [
+      "indie pop",
+      "singer-songwriter"
+    ],
+    "title": "Важливі деталі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/15QQdua2O6rSyXrXUwLLws"
   }
 ]

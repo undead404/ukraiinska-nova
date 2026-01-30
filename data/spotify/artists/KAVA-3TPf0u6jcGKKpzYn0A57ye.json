@@ -1238,6 +1238,10 @@
       {
         "time": "2026-01-12T18:27:59.774Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-28T18:31:08.012Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1423,6 +1427,10 @@
       {
         "time": "2026-01-12T18:27:59.774Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-29T18:31:45.548Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1787,6 +1795,10 @@
       {
         "time": "2025-11-08T18:26:30.563Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-27T18:29:21.792Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2077,5 +2089,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3EzCofeZKeS8JX7UlK6wSR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-29T18:31:45.549Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DAYREN",
+      "QANO"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dd19ce0823aecfeed016554e",
+    "releaseDate": "2023-10-19",
+    "tags": [],
+    "title": "А ти лети (QANO Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4M4irvxNH2Gtb1ztvjI2a7"
   }
 ]

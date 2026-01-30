@@ -831,6 +831,10 @@
       {
         "time": "2025-09-20T23:25:12.153Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-24T23:26:59.665Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1142,5 +1146,47 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1BROFd5R6tb0Hp5mRXAYLV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-22T23:27:28.182Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lefor"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738731df63ba0137a4593147d2",
+    "releaseDate": "2026-01-22",
+    "tags": [
+      "rap"
+    ],
+    "title": "Сліди",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/61uQE1Dp1ihRB26y0HPgjH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T23:26:21.668Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lefor"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c1ca482939b2cce1744f30ab",
+    "releaseDate": "2026-01-23",
+    "tags": [
+      "rap"
+    ],
+    "title": "Non Sdoh",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/53TE9w5OZXQnBKt1ou5S7f"
   }
 ]

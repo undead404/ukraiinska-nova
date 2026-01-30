@@ -359,5 +359,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n-fWrLQKHGsrUXJcokFNOM__FjFiZTuqE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-22T18:56:20.638Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Moann"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/9VTC4xQfQKEhRgI_zqKlPnhrE2Jczd1mvTqWFNPssSxeyvaZWiJVuxGHXjEm_rViBfXXYjmiGbcZvS4=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "метелики",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k9786nUcm0QYaY-PevWETXbX4rXg9m3Ws"
   }
 ]

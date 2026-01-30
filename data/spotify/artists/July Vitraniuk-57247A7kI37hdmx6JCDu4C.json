@@ -378,5 +378,59 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4E3lJwXVAInHKfLEJcu4vr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T01:54:24.420Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T01:55:15.393Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "The Doox",
+      "July Vitraniuk"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273779823eb141481447d5f388a",
+    "releaseDate": "2024-12-25",
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "title": "РУСАЛОЧКИ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/48U5UBsWSTOnjCICQjCKEj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-24T01:54:24.420Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-01-25T01:55:15.393Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "The Doox",
+      "July Vitraniuk"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f8d50a52839b86c9234d9a04",
+    "releaseDate": "2024-12-12",
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "title": "Гостї",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1nEKO7CB3nGnRsSiKeuvyW"
   }
 ]

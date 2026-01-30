@@ -720,5 +720,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0t74NPlKrKBHxtPA710Eas"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T09:28:35.109Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "satelibra"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d1da95a9b7c5dc8935f1ca47",
+    "releaseDate": "2026-01-23",
+    "tags": [],
+    "title": "Санрайз",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4FK7mJ3ilr8qCzgt00gJTW"
   }
 ]

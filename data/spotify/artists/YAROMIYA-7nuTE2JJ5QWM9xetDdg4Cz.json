@@ -830,5 +830,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7H3RjiBPh82yqvjgKERmd0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-23T11:29:36.894Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YAROMIYA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cb3e87f51b35ad4a2158f564",
+    "releaseDate": "2026-01-22",
+    "tags": [
+      "pop"
+    ],
+    "title": "Викрадав",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4var9ZGqGhH5x6ZGuR8PU4"
   }
 ]
