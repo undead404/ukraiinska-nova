@@ -908,5 +908,27 @@
     "totalTracks": 12,
     "type": "album",
     "url": "https://open.spotify.com/album/7nyCsfZw9MFWIqe1rYUD5I"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-31T21:28:03.970Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Noise Pareidolia"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27318f735850c58b09b7413545f",
+    "releaseDate": "2026-01-29",
+    "tags": [
+      "alternative rock",
+      "rock"
+    ],
+    "title": "Зима прийшла",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6DyovhRC4gSUoDojx7nruC"
   }
 ]

@@ -505,5 +505,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0JzfTcPobsW8oDmmEhZF36"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-31T21:28:32.023Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DAYREN",
+      "REZUS",
+      "RVSTY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273773ea46cbfe23c02dacd375c",
+    "releaseDate": "2026-01-30",
+    "tags": [],
+    "title": "А ти лети (REZUS & RVSTY Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/11DSvy0XIFzrGi5ndrWm5p"
   }
 ]
