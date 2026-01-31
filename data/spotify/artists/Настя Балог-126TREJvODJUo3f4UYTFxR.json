@@ -311,5 +311,134 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4mV8s2HM1L0QlXrlZQd4Cm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-31T23:24:35.533Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Шугар",
+      "Настя Балог"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273da6ad6937ac7a68bc1be5750",
+    "releaseDate": "2026-01-15",
+    "tags": [
+      "pop"
+    ],
+    "title": "Онліфанс",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4YpxKYGKKoaSALoMpnFcyj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-31T23:24:35.533Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Настя Балог"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273caea3c9e0d3e1cfad77f3ad3",
+    "releaseDate": "2025-11-13",
+    "tags": [
+      "pop"
+    ],
+    "title": "Чупа Чупс",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7uGsQuikDNuOSuJJijzkJP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-31T23:24:35.533Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Настя Балог",
+      "Шугар"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736a2aeaea6c9230a8daa4168b",
+    "releaseDate": "2025-08-14",
+    "tags": [
+      "pop"
+    ],
+    "title": "Йо-йо",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5pqT70zEsZdcJf0vTgCsGq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-31T23:24:35.533Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Настя Балог"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b66cdeb48d96f699527cb0e4",
+    "releaseDate": "2025-06-12",
+    "tags": [
+      "pop"
+    ],
+    "title": "Кордони",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/51GZY8xThCnKx5vMQ8pTLB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-31T23:24:35.533Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Настя Балог"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27363a5bc205f1f0c7bb9d85ea4",
+    "releaseDate": "2025-02-14",
+    "tags": [
+      "pop"
+    ],
+    "title": "Хованки",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1KpMOfxfab3QC3uJWL5uVV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-31T23:24:35.533Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Шугар",
+      "Настя Балог"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273166ec1d018b302757bda46b3",
+    "releaseDate": "2024-12-05",
+    "tags": [
+      "pop"
+    ],
+    "title": "Тікток",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/65dQ9H9gZOsRzWDHCbVHwz"
   }
 ]
