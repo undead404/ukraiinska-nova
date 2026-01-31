@@ -912,5 +912,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/61hQMFiZDZDyPh583rpASv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-31T00:46:55.672Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "100лиця"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27371ff82540a9b67078f02dbd3",
+    "releaseDate": "2026-01-30",
+    "tags": [
+      "pop"
+    ],
+    "title": "Тигриці",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2t6Wv1uTp0NXuwytB0inl5"
   }
 ]
