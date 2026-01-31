@@ -403,5 +403,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3zupXvbrrsMQY0D2YhUUGp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-31T01:57:27.514Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Polamav"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733985a4661a617fc5849ee37b",
+    "releaseDate": "2026-01-30",
+    "tags": [
+      "rap"
+    ],
+    "title": "Серенада",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/154NN8mMJitYuEFZ8bHOCc"
   }
 ]
