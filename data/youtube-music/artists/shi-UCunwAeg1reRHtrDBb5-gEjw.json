@@ -368,5 +368,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_llLzV9l0bnRlssWqElCOiy04c-AY3EHZY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-31T20:52:27.828Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SHI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/sxuQ5COYDZrcE4JER5KdhS3rTH9PTYD5jwY9jyxCMH0nafW1W0i6u3YoK9ss7gztvgYgIdnkKkqiYvYY=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "ambient",
+      "darkwave"
+    ],
+    "title": "Teguh Setia (cover)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lFOhDrJVUr-RvUT7OKwBfl9bQLzAIKaJY"
   }
 ]
