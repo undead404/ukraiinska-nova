@@ -559,5 +559,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/591Rit1mjVbN2ssGXLTAWd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-31T07:26:23.263Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Makarenko"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f18e61e972944363e8b38a02",
+    "releaseDate": "2026-01-30",
+    "tags": [],
+    "title": "До нестями",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/19ny3ZBXbzKPm5B3VWdHiC"
   }
 ]
