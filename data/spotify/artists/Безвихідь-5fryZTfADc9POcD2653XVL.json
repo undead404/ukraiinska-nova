@@ -463,5 +463,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1PEz1VgZiyzuAovUlJENjM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-31T03:06:30.387Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Безвихідь"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273193a3c64241877a5fe7fccd9",
+    "releaseDate": "2026-01-30",
+    "tags": [
+      "electropop",
+      "pop"
+    ],
+    "title": "МОЯ МИЛА ЛІДО",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4mMBHoXubyujijSfEYDTTX"
   }
 ]
