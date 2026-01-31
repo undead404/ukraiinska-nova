@@ -241,5 +241,28 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/3UAflsEiM7mMFct34xiEny"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-31T12:23:11.680Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Максі кренк"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273837c3b8581ebbb24b6497cb8",
+    "releaseDate": "2026-01-30",
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "underground rap"
+    ],
+    "title": "Чоловік",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5bbT88UVWteV17y0E8uPwx"
   }
 ]
