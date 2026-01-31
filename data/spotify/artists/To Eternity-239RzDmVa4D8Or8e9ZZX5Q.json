@@ -679,5 +679,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4xgk9B4YtcdckOSyzNZoYv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-31T08:29:34.155Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "To Eternity",
+      "Jwaltzz"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736fee743b22af302de13ab444",
+    "releaseDate": "2026-01-30",
+    "tags": [
+      "indie pop",
+      "pop"
+    ],
+    "title": "Point of View",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5ixtuxTgAMpA0l0QrAiQ6i"
   }
 ]

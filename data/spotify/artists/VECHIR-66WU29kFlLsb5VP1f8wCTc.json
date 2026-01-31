@@ -252,5 +252,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3dQflF0TxcWoUoIhHUm0sn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-31T08:29:41.930Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NAIMES",
+      "VECHIR"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736a8b01cad0be6231283a18b3",
+    "releaseDate": "2026-01-30",
+    "tags": [
+      "pop"
+    ],
+    "title": "пташка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1IXnImAEP1yqqpoiMy03qF"
   }
 ]

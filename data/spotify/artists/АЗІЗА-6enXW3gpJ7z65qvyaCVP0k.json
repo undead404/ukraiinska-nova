@@ -317,5 +317,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/73MEpLMYZ0SBzEuyDlx3EL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-31T08:21:24.967Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АЗІЗА"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27301348ffc0a90ded0f2841b19",
+    "releaseDate": "2026-01-30",
+    "tags": [
+      "pop"
+    ],
+    "title": "Серце зі сталі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6gjWB2us6wHkNM4rGgd4yK"
   }
 ]
