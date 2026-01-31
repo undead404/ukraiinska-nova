@@ -1221,6 +1221,10 @@
       {
         "time": "2025-12-19T10:28:39.043Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-31T10:29:06.767Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1247,6 +1251,10 @@
       {
         "time": "2025-12-19T10:28:39.043Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-31T10:29:06.767Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1272,6 +1280,10 @@
       {
         "time": "2025-12-19T10:28:39.043Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-31T10:29:06.767Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1295,6 +1307,10 @@
       {
         "time": "2025-12-19T10:28:39.043Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-31T10:29:06.767Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1318,6 +1334,10 @@
       {
         "time": "2025-12-19T10:28:39.043Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-31T10:29:06.767Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1343,6 +1363,10 @@
       {
         "time": "2025-12-19T10:28:39.043Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-31T10:29:06.767Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1369,6 +1393,10 @@
       {
         "time": "2025-12-19T10:28:39.043Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-31T10:29:06.767Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1406,5 +1434,43 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/01jwup2iTfLONNRM9putoB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-31T10:29:06.767Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Shnaps"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732119e11a26d82ff1b95916f3",
+    "releaseDate": "2026-01-30",
+    "tags": [],
+    "title": "Danсing shadows",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6H4EJTahKrrEPXrKyDRjKo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-31T10:29:06.767Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Shnaps"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738da088ead3ba93a910898b53",
+    "releaseDate": "2026-01-26",
+    "tags": [],
+    "title": "Ніч на ніч",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5GCsXjytZnwcqjfilwt4m4"
   }
 ]
