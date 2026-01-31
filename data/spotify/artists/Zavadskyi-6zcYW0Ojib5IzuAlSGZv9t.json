@@ -289,5 +289,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7dtNQHtAYiez6IokV6KNBs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-31T22:30:46.594Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "GenSouls",
+      "Zavadskyi"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273066a4b33bcf4948a3b4f3345",
+    "releaseDate": "2026-01-24",
+    "tags": [],
+    "title": "Привіт мій любий (Zavadskyi Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3ASNlVWlZDE9CXz73Ffmp0"
   }
 ]

@@ -268,5 +268,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7oiOBQzM8VKseLI6bAF7ob"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-31T22:24:06.764Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Dj Dima Vlasov"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733d9a9e50bb9ce95d1330e23f",
+    "releaseDate": "2026-01-31",
+    "tags": [],
+    "title": "Siren Call",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1P5wW7uERFyofVeZoQksXu"
   }
 ]
