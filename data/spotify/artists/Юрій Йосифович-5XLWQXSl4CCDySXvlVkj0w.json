@@ -428,5 +428,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3v65yps5TGN0MDUnTpdETf"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-01T08:23:41.166Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Юрій Йосифович"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27367d2f3a65c335a3ec24960be",
+    "releaseDate": "2026-01-12",
+    "tags": [
+      "folk"
+    ],
+    "title": "Не забудь - ЙОСИФОВИЧ LIVE",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5LOgEtY0zRw0b8G1mcnzvz"
   }
 ]

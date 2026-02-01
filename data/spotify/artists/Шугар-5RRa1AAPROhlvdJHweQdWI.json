@@ -23,6 +23,10 @@
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-01T08:23:31.932Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -100,6 +104,10 @@
       {
         "time": "2025-09-17T08:20:00.972Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-01T08:23:31.932Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -920,6 +928,10 @@
       {
         "time": "2026-01-16T08:22:33.940Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-01T08:23:31.932Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -954,5 +966,71 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0Aa1JvU8v3emrFtSTF46lq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-01T08:23:31.933Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Шугар",
+      "Настя Балог"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273da6ad6937ac7a68bc1be5750",
+    "releaseDate": "2026-01-15",
+    "tags": [
+      "pop"
+    ],
+    "title": "Онліфанс",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4YpxKYGKKoaSALoMpnFcyj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-01T08:23:31.933Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Настя Балог",
+      "Шугар"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736a2aeaea6c9230a8daa4168b",
+    "releaseDate": "2025-08-14",
+    "tags": [
+      "pop"
+    ],
+    "title": "Йо-йо",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5pqT70zEsZdcJf0vTgCsGq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-01T08:23:31.933Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Шугар",
+      "Настя Балог"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273166ec1d018b302757bda46b3",
+    "releaseDate": "2024-12-05",
+    "tags": [
+      "pop"
+    ],
+    "title": "Тікток",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/65dQ9H9gZOsRzWDHCbVHwz"
   }
 ]
