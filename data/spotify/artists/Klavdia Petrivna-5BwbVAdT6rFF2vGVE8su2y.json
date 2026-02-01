@@ -632,5 +632,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3yHBRGlcTKvOkl0J9PC2SB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-01T04:58:29.578Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Klavdia Petrivna"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731ee40b58f8cc307981671610",
+    "releaseDate": "2026-01-31",
+    "tags": [
+      "pop"
+    ],
+    "title": "Катерина",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7MvHVMDPzT76mxfUSHykpa"
   }
 ]
