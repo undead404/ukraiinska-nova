@@ -522,5 +522,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7hJN5byomIfdzDJyiQGbBx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-01T06:30:14.194Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Максим Бородін"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273083b47fb5a86a128046f5c2a",
+    "releaseDate": "2023-03-10",
+    "tags": [],
+    "title": "Марічка трошниця",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4ts8n7nxpE4BvPFjbkK2go"
   }
 ]

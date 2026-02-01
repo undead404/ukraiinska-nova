@@ -282,6 +282,10 @@
       {
         "time": "2025-10-17T06:28:08.247Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-01T06:36:48.880Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -320,6 +324,10 @@
       {
         "time": "2025-10-17T06:28:08.247Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-01T06:36:48.880Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -468,5 +476,43 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/19dzmYihSsvHstu2PO3F5z"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-01T06:36:48.881Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YATSUTA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b0855ce88c61c6e84b437e8f",
+    "releaseDate": "2022-11-22",
+    "tags": [],
+    "title": "Додому",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4EvaFdq6D4KqXztK5HYhor"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-01T06:36:48.881Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YATSUTA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738b85bd482a59a1aa8bcb358d",
+    "releaseDate": "2022-07-14",
+    "tags": [],
+    "title": "Квітка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6ifcj8y3GE4FoC0artL3qA"
   }
 ]
