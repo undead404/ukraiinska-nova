@@ -4,6 +4,10 @@
       {
         "time": "2025-09-30T17:46:44.714Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-02T17:59:53.196Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -23,6 +27,10 @@
       {
         "time": "2025-09-30T17:46:44.714Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-02T17:59:53.196Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -42,6 +50,10 @@
       {
         "time": "2025-09-30T17:46:44.714Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-02T17:59:53.196Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -61,6 +73,10 @@
       {
         "time": "2025-09-30T17:46:44.714Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-02T17:59:53.196Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -80,6 +96,10 @@
       {
         "time": "2025-09-30T17:46:44.714Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-02T17:59:53.196Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -99,6 +119,10 @@
       {
         "time": "2025-09-30T17:46:44.714Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-02T17:59:53.196Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -118,6 +142,10 @@
       {
         "time": "2025-09-30T17:46:44.714Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-02T17:59:53.196Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -137,6 +165,10 @@
       {
         "time": "2025-09-30T17:46:44.714Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-02T17:59:53.196Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -156,6 +188,10 @@
       {
         "time": "2025-09-30T17:46:44.714Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-02T17:59:53.196Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -175,6 +211,10 @@
       {
         "time": "2025-09-30T17:46:44.714Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-02T17:59:53.196Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -194,6 +234,10 @@
       {
         "time": "2025-09-30T17:46:44.714Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-02T17:59:53.196Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -207,5 +251,43 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lnPRdCRUoyeC0Psf3u1e_iWEF4heLbMt0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-02T17:59:53.196Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Singles & EPs"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/41ODITc3F4c_Xf6fAcD348Yuud_VMj-l2D-h-0oKoTCNhQrJ1JdkcJUHxBhe5jZ6jwVKUhxo0GJnKO4=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [],
+    "title": "Авва",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_laYxght3qnZaC1dxOgtuccCm_R2dIaQM0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-02T17:59:53.196Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Singles & EPs"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/EgfxqveY2tkDhSPkbGVsOoPCSpthBOuaVWuM3IU86Pjcfj8msvA5PjUtCcCXk24omoAGAD7KFiO0Ls6Q=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [],
+    "title": "Нехай буде мир",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mGlIVhRf5Bd15RXDv19uzRQVG0uMir86c"
   }
 ]
