@@ -152,5 +152,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3CnTKG4sM5cKSet4kVr6iD"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-02T07:35:34.695Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ТИМПАЧЕ"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27338d8e625c75f007ea52d2484",
+    "releaseDate": "2026-02-02",
+    "tags": [
+      "pop",
+      "synthpop"
+    ],
+    "title": "Лоск",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2DD92xTxAKDtGSqbpjMUXT"
   }
 ]
