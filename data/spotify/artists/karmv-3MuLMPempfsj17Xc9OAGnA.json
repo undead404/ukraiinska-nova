@@ -2174,5 +2174,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3QoPzcmZRGeVqaONvEwM8m"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-02T08:30:39.137Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Santorin",
+      "karmv"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b9664831041a17957315d8a7",
+    "releaseDate": "2026-02-02",
+    "tags": [
+      "electronic",
+      "rap",
+      "techno"
+    ],
+    "title": "Я взяв свою біль (Karmv remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1r4sRrII3CsHjZLwZYiPbj"
   }
 ]
