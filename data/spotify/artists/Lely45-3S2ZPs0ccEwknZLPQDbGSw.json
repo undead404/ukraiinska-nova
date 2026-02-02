@@ -623,6 +623,10 @@
       {
         "time": "2025-09-16T11:52:58.217Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-02T11:33:53.688Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -953,5 +957,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7f8TLce95xA1BNPzJLx68n"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-02T11:33:53.688Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Artem Pivovarov",
+      "Lely45"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27351040f9336aa18192e10d665",
+    "releaseDate": "2022-04-01",
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "title": "Радiсно",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6wfcBDmcwqRFpL2r0dsFbF"
   }
 ]

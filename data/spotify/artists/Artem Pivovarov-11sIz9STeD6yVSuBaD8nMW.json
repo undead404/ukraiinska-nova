@@ -705,6 +705,10 @@
       {
         "time": "2025-09-16T11:50:50.347Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-02T11:30:55.030Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -871,6 +875,10 @@
       {
         "time": "2025-09-16T11:50:50.347Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-02T11:30:55.030Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -891,6 +899,10 @@
       {
         "time": "2025-09-16T11:50:50.347Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-02T11:30:55.030Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1637,5 +1649,77 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7g9UoynPtS4P89KPb81hsP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-02T11:30:55.031Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Artem Pivovarov",
+      "Lely45"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27351040f9336aa18192e10d665",
+    "releaseDate": "2022-04-01",
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "title": "Радiсно",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6wfcBDmcwqRFpL2r0dsFbF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-02T11:30:55.031Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Artem Pivovarov",
+      "Evgeny Khmara",
+      "Павло Шилько"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27361b5745c2b27c8a819703875",
+    "releaseDate": "2021-08-24",
+    "tags": [
+      "Classical",
+      "folk",
+      "pop"
+    ],
+    "title": "Арфами, арфами",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0S4LXT9ZEn05CKJmL6o2C6"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-02T11:30:55.031Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Artem Pivovarov",
+      "YARMAK"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b01d2b7e38ff7fbe87879ee3",
+    "releaseDate": "2021-05-20",
+    "tags": [
+      "folk",
+      "pop",
+      "rap"
+    ],
+    "title": "Минають дні, минають ночі (Acoustic Live)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5n8as9gWWQBfpOxS4OVNyB"
   }
 ]
