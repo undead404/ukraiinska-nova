@@ -473,5 +473,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m2m0j8hHL22Dl-_IuRnBqCb3xYoabHz7s"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-03T07:02:55.829Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Андрій Кравченко"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/MnvwSxtRI0AeT2mebj61o1n_1BNInbs0H_jG2p_xsG_gk5GoH0PpmW_M8JyaT9FB2g1SrMNR-8z7-14=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [],
+    "title": "Наречена",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mYEDK-ULXqfHKOWw7rpoV183XP1-QZ2Mk"
   }
 ]
