@@ -1232,5 +1232,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4ag9C6fcSB8bvIrOgGGLkP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-03T19:34:23.980Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "рома майк",
+      "Матвій М."
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bdd680183bfc9dd7e69323d3",
+    "releaseDate": "2026-02-02",
+    "tags": [
+      "Neo-Soul",
+      "rap"
+    ],
+    "title": "Ще по одній",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4R89NV4eaVF82XC0MaPGDM"
   }
 ]
