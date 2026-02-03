@@ -48,5 +48,26 @@
     "totalTracks": 18,
     "type": "album",
     "url": "https://open.spotify.com/album/0VcFKtD5F3Ut047WtV5HtU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-03T20:26:59.186Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Polarpalm"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b7ab0480886562560e998e37",
+    "releaseDate": "2026-01-31",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "ПЛЕСО",
+    "totalTracks": 21,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2CAVdqASauK2qhUYoI8kOm"
   }
 ]
