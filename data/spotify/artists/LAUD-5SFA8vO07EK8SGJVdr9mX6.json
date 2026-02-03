@@ -775,5 +775,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4rkkbJB7itjHx3YNqHazDE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-03T16:36:38.219Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VovaZiLvova"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735b935413b3b6a5b6d4372b13",
+    "releaseDate": "2020-11-13",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "День в обіймах твоїх",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0FIeAFxyETeLTORCwyvTwm"
   }
 ]
