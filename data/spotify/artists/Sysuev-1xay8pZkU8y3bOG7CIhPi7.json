@@ -1190,5 +1190,26 @@
     "totalTracks": 14,
     "type": "album",
     "url": "https://open.spotify.com/album/39ugZh0GNemxPgiWRFoQt9"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-04T09:35:29.890Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sysuev"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733d3dfe60172a101134405ca5",
+    "releaseDate": "2026-02-04",
+    "tags": [
+      "pop"
+    ],
+    "title": "Холодно",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5iD0Ehl47V0EXKQFm1wEwS"
   }
 ]
