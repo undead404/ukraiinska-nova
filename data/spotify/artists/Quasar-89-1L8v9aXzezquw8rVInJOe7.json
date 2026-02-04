@@ -1889,5 +1889,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0sUWqQslkO43lTGkH1DsPx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-04T23:29:22.373Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cfd202d4cb02b7b5584674da",
+    "releaseDate": "2026-02-05",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Night Hustle",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3hAv37NsDkDtJUHFVitKhT"
   }
 ]

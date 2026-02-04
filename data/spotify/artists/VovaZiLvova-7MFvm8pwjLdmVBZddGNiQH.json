@@ -1227,5 +1227,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3Pk4IDpzItBdoYAoV84Opt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-04T23:30:51.196Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VovaZiLvova",
+      "KRUTЬ"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736a330aa34037a412e46b98a8",
+    "releaseDate": "2022-02-11",
+    "tags": [
+      "Hip-Hop",
+      "soul",
+      "indie pop"
+    ],
+    "title": "Пробач",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3XXgLTrUO2qflJknTrpThR"
   }
 ]
