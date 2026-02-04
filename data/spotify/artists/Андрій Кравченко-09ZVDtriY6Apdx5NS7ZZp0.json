@@ -487,5 +487,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4IgGsrKMCg8XXDgKE0YxBr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-04T17:30:18.750Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Андрій Кравченко"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b8aafcf9a9d1030364f12e7c",
+    "releaseDate": "2024-05-30",
+    "tags": [],
+    "title": "Наречена",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/50uJSdkbNLWh8zSuksyE5y"
   }
 ]
