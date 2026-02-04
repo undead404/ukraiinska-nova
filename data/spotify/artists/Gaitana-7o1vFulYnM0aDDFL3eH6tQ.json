@@ -1122,5 +1122,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/41jtmtik8nM8ZN9Duqf60G"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-04T11:28:20.138Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Gaitana"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734345d55afb95c8aa5c59f3f9",
+    "releaseDate": "2015-09-14",
+    "tags": [
+      "pop"
+    ],
+    "title": "You Are the One",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7cC5eCfWrOQIFxW85FA1Hx"
   }
 ]
