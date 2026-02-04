@@ -573,5 +573,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/56C9fIcZNT5tAfFJrVjpSO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-04T15:33:06.828Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kulshenka"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273edf39ac15e7459faa28b867d",
+    "releaseDate": "2026-01-29",
+    "tags": [
+      "pop"
+    ],
+    "title": "Меланхолія",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1acdSKCgqdekdG98qEHdIX"
   }
 ]
