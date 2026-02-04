@@ -27,13 +27,17 @@
       {
         "time": "2026-02-01T08:23:31.932Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-02-04T08:26:10.657Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Настя Борщ",
       "Шугар"
     ],
-    "artistsPopularity": 55,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736a2aeaea6c9230a8daa4168b",
     "releaseDate": "2025-08-14",
     "tags": [],
@@ -108,13 +112,17 @@
       {
         "time": "2026-02-01T08:23:31.932Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-02-04T08:26:10.657Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Шугар",
       "Настя Борщ"
     ],
-    "artistsPopularity": 55,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273166ec1d018b302757bda46b3",
     "releaseDate": "2024-12-05",
     "tags": [],
@@ -932,6 +940,10 @@
       {
         "time": "2026-02-01T08:23:31.932Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-02-04T08:26:10.657Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -972,6 +984,10 @@
       {
         "time": "2026-02-01T08:23:31.933Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-04T08:26:10.657Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -994,6 +1010,10 @@
       {
         "time": "2026-02-01T08:23:31.933Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-04T08:26:10.657Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1016,6 +1036,10 @@
       {
         "time": "2026-02-01T08:23:31.933Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-04T08:26:10.657Z",
+        "type": "LOST"
       }
     ],
     "artists": [
