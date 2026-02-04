@@ -223,6 +223,10 @@
       {
         "time": "2025-10-16T20:23:35.816Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-04T20:26:32.050Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -301,5 +305,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2u0GuUHQw8DeVS9VxLMipL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-04T20:26:32.051Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Acee2K"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f3c4d24dcd76294e33181c86",
+    "releaseDate": "2024-04-19",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Pharmastalgia",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4sMgSthevqc5kBHpAB6kuy"
   }
 ]
