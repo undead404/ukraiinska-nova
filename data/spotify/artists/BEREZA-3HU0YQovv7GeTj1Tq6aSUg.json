@@ -127,5 +127,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4dTOvqwu1En1uaUOB8pRER"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-05T01:54:40.382Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BEREZA",
+      "Настя Балог"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730b0cd579361daf07f6d38300",
+    "releaseDate": "2026-02-04",
+    "tags": [
+      "pop"
+    ],
+    "title": "Нічка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4TAnhrwrJ4AVuLG12Mn3gI"
   }
 ]
