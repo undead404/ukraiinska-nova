@@ -2029,5 +2029,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mDmwRmnXS7WqB7VHvG3VDBLMmZfUpiyLo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-05T15:03:12.592Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/2yXODr1u0djnEXIsthbr13YXEeYj8prPS0wShqLP1gE8ymVXHKOpli1cInJpQxfkBkhF-762GL1Kti4=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Night Hustle",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l4C4OXS-Ei47rNJbQ-NALzxrgiIHPE8DM"
   }
 ]
