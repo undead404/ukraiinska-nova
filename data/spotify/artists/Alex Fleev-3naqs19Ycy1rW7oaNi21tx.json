@@ -956,5 +956,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1ETBLSM7zgt10wAdQzR2TW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-05T05:38:43.957Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kishe",
+      "Alex Fleev"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c012b049b2cbf0dc52d594fa",
+    "releaseDate": "2023-03-25",
+    "tags": [],
+    "title": "Ми злетіли (Alex Fleev Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2CpDTBkCkKxeo6DiQ16Pk9"
   }
 ]

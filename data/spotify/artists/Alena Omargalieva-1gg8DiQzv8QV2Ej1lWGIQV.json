@@ -824,5 +824,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2btOmZsin2hbwsHKRBIehG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-05T05:38:27.456Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alena Omargalieva"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732a3f413632a61b76922997c2",
+    "releaseDate": "2026-02-05",
+    "tags": [
+      "pop"
+    ],
+    "title": "Щастя",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7g0dYEClBkqDDkH2CJZ8v0"
   }
 ]
