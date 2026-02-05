@@ -1233,5 +1233,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0HP8tM5pTjxlKgu3Ihdw5S"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-05T17:44:56.750Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yaroslav Tretiak"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273844bec1a411988f41add91b8",
+    "releaseDate": "2026-02-05",
+    "tags": [],
+    "title": "Nicotine",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3YoMXxcpktEKQIBQI7LJHU"
   }
 ]
