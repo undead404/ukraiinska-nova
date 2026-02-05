@@ -224,5 +224,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7k7Y9kns5sKnrdRb1uC09i"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-05T20:28:31.656Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Geed"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c3eacaadf29389f20306ed13",
+    "releaseDate": "2026-02-04",
+    "tags": [
+      "pop"
+    ],
+    "title": "Поряд",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/25DppFA1YXekZBaKpwsima"
   }
 ]
