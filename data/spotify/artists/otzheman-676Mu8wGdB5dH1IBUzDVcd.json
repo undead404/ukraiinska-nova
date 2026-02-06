@@ -134,5 +134,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5kFc3o9eaQHlt0RJ1Uo2SW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T05:41:36.516Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "невтома"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b5d82d1c64c921811536a901",
+    "releaseDate": "2026-02-06",
+    "tags": [
+      "noise",
+      "electronic"
+    ],
+    "title": "подорож тривалістю в біль",
+    "totalTracks": 17,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6RqrHuSYaLxl2YxtjCw1kM"
   }
 ]
