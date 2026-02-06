@@ -892,5 +892,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3JGKlGJtyeqauxNAx8JMCa"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T22:23:59.137Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "FORCEGNG"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b28e896ffcfdbd90f3794167",
+    "releaseDate": "2026-02-06",
+    "tags": [
+      "rap"
+    ],
+    "title": "YNGB",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3FSeYVwOlYrnji9xu4fdZX"
   }
 ]

@@ -857,5 +857,47 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6MlZk48j16sfcc9MBkSBVd"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T22:25:10.248Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lizzzard"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a626ec7e087db074d3940f8d",
+    "releaseDate": "2026-02-05",
+    "tags": [
+      "rap"
+    ],
+    "title": "БРУКІВКА",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6eyFbskkKUCAdUTxaYgRdU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T22:25:10.248Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lizzzard"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273661489ba3b9446770af48287",
+    "releaseDate": "2026-02-05",
+    "tags": [
+      "rap"
+    ],
+    "title": "BRICK BY BRICK",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3fwBRSFheAi88nkecMYSiM"
   }
 ]
