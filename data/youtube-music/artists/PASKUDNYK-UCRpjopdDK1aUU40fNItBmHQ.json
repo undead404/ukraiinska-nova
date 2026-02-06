@@ -226,5 +226,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kJ5R3qJQmgWED5Xeit8IOHOsnUNUHEP9o"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T17:04:05.775Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PASKUDNYK"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/103Ls-GSe9AdEyIU9kFHKNJVeR77v2rHYfHYkagpbNlNP7HoNEAPj6vK3BCvF-Aoe963HW2rY7isoJM=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "нарис актуальних подій",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lSxEfldZOrz9b_EkIN_-xSxHH_wKJFanA"
   }
 ]

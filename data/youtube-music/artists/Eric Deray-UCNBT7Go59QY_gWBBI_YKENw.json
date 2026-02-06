@@ -1790,6 +1790,10 @@
       {
         "time": "2025-09-22T17:45:56.497Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-06T17:02:36.158Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2013,5 +2017,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l-iFdGfSmWZnLQxM4WzooIe0YlZe2Y7OY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T17:02:36.159Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Eric Deray"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/wwh2cttGV2LFXoiKEiYhpYWKFmn3DXdC7RL6JF8UFVG_Mo2kDYC7fZZX3Bhv-pA6eEz6uXk-5RAsLX3l=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Grenade",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kwVoygW3V1PvY8Mz_vAKLhjnCP0g5yE4Y"
   }
 ]
