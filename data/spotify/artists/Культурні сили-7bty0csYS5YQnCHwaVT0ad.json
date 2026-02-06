@@ -380,5 +380,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/21oTwLLxsQqsMjxjHYKoL0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T03:13:15.366Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "REMEZ",
+      "Культурні сили"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab5990140be9129bb3de1d5b",
+    "releaseDate": "2026-02-03",
+    "tags": [],
+    "title": "Chaplain",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1wQDarei5cKqlkBKhtRf7u"
   }
 ]

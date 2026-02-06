@@ -2745,6 +2745,10 @@
       {
         "time": "2026-01-07T03:57:53.578Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-06T03:23:27.507Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -3188,5 +3192,38 @@
     "totalTracks": 68,
     "type": "album",
     "url": "https://open.spotify.com/album/07XcoN7IWu3cFTEXQTso9B"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T03:23:27.508Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Harold Bauer",
+      "Frédéric Chopin",
+      "Pyotr Ilyich Tchaikovsky",
+      "Franz Schubert",
+      "Johannes Brahms",
+      "Wolfgang Amadeus Mozart",
+      "Claude Debussy",
+      "Maurice Ravel",
+      "Antonio Vivaldi",
+      "George Frideric Handel",
+      "Hector Berlioz",
+      "Sergei Prokofiev"
+    ],
+    "artistsPopularity": 6,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27379528ceaf5821b7a26ee9199",
+    "releaseDate": "2026-02-02",
+    "tags": [
+      "Classical",
+      "baroque"
+    ],
+    "title": "\"068 Classical & Contemporary Essentials\": Thunderbird",
+    "totalTracks": 68,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2CQdchqgJ3SE8QQoGMPwE2"
   }
 ]

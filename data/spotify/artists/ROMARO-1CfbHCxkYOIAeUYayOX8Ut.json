@@ -35,6 +35,10 @@
       {
         "time": "2026-01-14T03:58:15.057Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-06T03:20:43.920Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -846,5 +850,30 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/77p7tmchXNnd7N5FOWf227"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T03:20:43.921Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROMARO",
+      "KAVA",
+      "QANO"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a9beddd985e62965970bf020",
+    "releaseDate": "2025-07-11",
+    "tags": [
+      "Hip-Hop",
+      "pop",
+      "pop rap"
+    ],
+    "title": "Як так? (QANO Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0DhZGo33nfSfTg0NHLqY39"
   }
 ]
