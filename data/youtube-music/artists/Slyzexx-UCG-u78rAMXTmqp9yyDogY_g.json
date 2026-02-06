@@ -2253,6 +2253,10 @@
       {
         "time": "2025-10-06T21:47:45.398Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-06T21:54:10.182Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -3066,5 +3070,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kIQMdKpGdCmRFbw8P9jYxg-LnQa4h0hV0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T21:54:10.183Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/091DP2O1fwyp0GhVkoJJk-VeFuzI1LAM-xkgohTFcRhrbMfYa0bGrGwQGCRuVY-B6EWbNbI1nb40_qHr=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Космічний шепіт",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l60431_otmLdpDHExyCRQpKBXZ_XbQD2s"
   }
 ]
