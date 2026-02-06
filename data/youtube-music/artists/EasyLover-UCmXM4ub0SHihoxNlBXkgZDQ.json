@@ -1198,5 +1198,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mO-_1h_dueAipd-lZuyGcaTTmj1R418yc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T10:00:07.676Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "EasyLover"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/k0aW2Kt4dxNc5mqVmC9UJhr8mzi5wAhJ2g-0nqDXmcCG4VZshrubX6DVzmdh2Ttz_yS6FESM8CG54wk=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "450 Герц",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_krMTySfPzV4M5owVk8MCc81kIIchGvrMk"
   }
 ]
