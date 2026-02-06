@@ -194,5 +194,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5Aev19iroryqV0jH5rUEUQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T09:32:58.593Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Nytram"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d07828a0229679b295b46e8b",
+    "releaseDate": "2026-02-06",
+    "tags": [],
+    "title": "Feel",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5gDIn3jcSRAF8sg5a6Zs3w"
   }
 ]

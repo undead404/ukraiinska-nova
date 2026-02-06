@@ -41,6 +41,10 @@
       {
         "time": "2026-01-20T09:28:24.613Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-06T09:34:06.181Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -410,5 +414,46 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5UK8TdTCCsMxy3ZJAJyb7l"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T09:34:06.181Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROMMEDIA",
+      "REZUS"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ee34e1b0195d86091337fb5c",
+    "releaseDate": "2026-02-06",
+    "tags": [],
+    "title": "Ідеально моя",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/31A4XOFZ5cB2MT6y1PyDkA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T09:34:06.181Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Dubky",
+      "QANO",
+      "ROMMEDIA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730d72df42bb3a99f5b8529101",
+    "releaseDate": "2023-12-22",
+    "tags": [],
+    "title": "Не любиш (QANO & ROMMEDIA remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3uwfRTKFWOstQvmgOoi94Z"
   }
 ]
