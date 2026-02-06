@@ -1517,5 +1517,31 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/58PWe2Emeo0hxXViqhHqES"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T00:57:03.912Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "alyona alyona",
+      "TARABAROVA"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eae6fd206d6adca4039ebadc",
+    "releaseDate": "2026-02-05",
+    "tags": [
+      "pop",
+      "rap",
+      "Hip-Hop",
+      "electronic",
+      "synthpop"
+    ],
+    "title": "Батькам",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0CYYJkmeQLvbdoj44OMoby"
   }
 ]
