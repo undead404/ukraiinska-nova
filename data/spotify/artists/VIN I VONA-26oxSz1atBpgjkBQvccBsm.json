@@ -739,5 +739,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5ppG4ZgKFJFUA3PC1BSWF4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T21:31:04.075Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VIN I VONA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739256681c9fe67c4eac45f13b",
+    "releaseDate": "2026-02-06",
+    "tags": [],
+    "title": "Черкаський пагорб Слави",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6ilCnS4f8sCtZRwABA08Sa"
   }
 ]

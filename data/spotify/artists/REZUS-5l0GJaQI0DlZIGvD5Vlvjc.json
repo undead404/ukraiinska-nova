@@ -526,5 +526,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/11DSvy0XIFzrGi5ndrWm5p"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T21:29:17.266Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROMMEDIA",
+      "REZUS"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ee34e1b0195d86091337fb5c",
+    "releaseDate": "2026-02-06",
+    "tags": [],
+    "title": "Ідеально моя",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/31A4XOFZ5cB2MT6y1PyDkA"
   }
 ]

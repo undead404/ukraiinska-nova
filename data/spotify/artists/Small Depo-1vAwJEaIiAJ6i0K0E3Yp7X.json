@@ -262,5 +262,26 @@
     "totalTracks": 7,
     "type": "album",
     "url": "https://open.spotify.com/album/71ZqI71QpIej11lRuXIJHX"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T21:30:03.230Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Small Depo"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732abde433f5425cde7958a78d",
+    "releaseDate": "2026-02-06",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Електромережі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5wGuBo6seMlHS46ldMn7N2"
   }
 ]

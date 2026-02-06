@@ -1043,5 +1043,24 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/0eB7B4QtzFGKWCOjngTsGb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T21:22:24.141Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Жахіття"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273578bb9e0e704f82a12531cce",
+    "releaseDate": "2026-02-06",
+    "tags": [],
+    "title": "Мозок перезавантажив(Там ті самі помилки)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/40eVByhm8xnOAfpaxa7nwO"
   }
 ]
