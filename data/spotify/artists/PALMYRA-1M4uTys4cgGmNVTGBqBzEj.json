@@ -811,5 +811,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0ITuohC1foKX3MOQj2IDhU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T16:39:11.854Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "morgendie",
+      "PALMYRA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bc2ebe03b7ff5cf3a4da8e04",
+    "releaseDate": "2026-02-06",
+    "tags": [
+      "darkwave",
+      "folk"
+    ],
+    "title": "В тумані",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4juSgCwey9o8IAYTD2PSD8"
   }
 ]
