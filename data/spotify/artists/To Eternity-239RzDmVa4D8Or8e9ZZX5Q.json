@@ -685,6 +685,10 @@
       {
         "time": "2026-01-31T08:29:34.155Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-06T08:34:41.117Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -693,6 +697,29 @@
     ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736fee743b22af302de13ab444",
+    "releaseDate": "2026-01-30",
+    "tags": [
+      "indie pop",
+      "pop"
+    ],
+    "title": "Point of View",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5ixtuxTgAMpA0l0QrAiQ6i"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T08:34:41.117Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "To Eternity",
+      "Jwalttz"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cfe6a1f7156bd6f9c0c41c25",
     "releaseDate": "2026-01-30",
     "tags": [
       "indie pop",

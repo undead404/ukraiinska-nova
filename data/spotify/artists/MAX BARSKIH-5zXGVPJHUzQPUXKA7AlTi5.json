@@ -2045,5 +2045,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/27AQTwPyuOq0zs1RDtLck9"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T08:30:55.766Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MAX BARSKIH"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735301e98307fc34fdc56be306",
+    "releaseDate": "2026-02-06",
+    "tags": [
+      "pop"
+    ],
+    "title": "Закоханий",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3bKoHfmc6fSHfONIgPelfb"
   }
 ]
