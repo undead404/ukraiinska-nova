@@ -901,5 +901,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0pwFSFHCuwc9hB121jtSeZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T11:27:17.949Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "EasyLover",
+      "yanww"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273474149c9a4336b132c840682",
+    "releaseDate": "2026-02-06",
+    "tags": [
+      "rap"
+    ],
+    "title": "450 Герц",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/47IU2CCdnrSopTUu3eSXtB"
   }
 ]

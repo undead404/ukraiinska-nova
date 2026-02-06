@@ -651,5 +651,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4xeqKcFdKDGunrLiu9oeBE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T11:31:18.729Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SVITLO"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27364b5e0298ef6f665dfdb16ea",
+    "releaseDate": "2026-02-06",
+    "tags": [
+      "dark ambient"
+    ],
+    "title": "Rain Outside, Warm Inside",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/39WwVX5DUFwfOUG76A72K8"
   }
 ]
