@@ -506,5 +506,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/50uJSdkbNLWh8zSuksyE5y"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T17:29:11.114Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Андрій Кравченко"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d6a1ec26c18da3c63e6c49c2",
+    "releaseDate": "2026-02-05",
+    "tags": [],
+    "title": "Життя прекрасне",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4swcioL4Nk5263Yr22MspA"
   }
 ]
