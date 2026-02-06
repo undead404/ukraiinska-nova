@@ -563,5 +563,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/24Q0ejTxDTGrM1KxwvzaxA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T20:28:13.668Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YOXDEN",
+      "Gario Nells"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273db29e6e90dc3ad764189db17",
+    "releaseDate": "2026-02-06",
+    "tags": [
+      "dance",
+      "electronic"
+    ],
+    "title": "ТИ МОЯ ЦУКЕРКА",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4gVaIuroUkTGEpyapVUBCE"
   }
 ]
