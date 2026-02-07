@@ -1981,5 +1981,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4jxqR3d6qt6RLZiu5aq0Za"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-07T12:26:30.092Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "drwncvnt"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b6c291c8aecc13d8b9bbdd96",
+    "releaseDate": "2026-02-06",
+    "tags": [
+      "electronic"
+    ],
+    "title": "shadows",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7LzwG91klq4KkcVn9QegPo"
   }
 ]
