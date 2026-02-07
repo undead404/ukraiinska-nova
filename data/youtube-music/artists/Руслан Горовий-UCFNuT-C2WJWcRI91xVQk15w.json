@@ -271,5 +271,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lxEylneeJGene4P1KE56kqSWJY8bOgenc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-07T18:56:25.865Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Руслан Горовий"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/EmWCJxxOypLAB6x8z9GzmlCvDN7YCJqonNim63bngWWSrIG9wFPqKK_Ryb265A_1_QMf715wA-l4Gr8=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "neofolk"
+    ],
+    "title": "Село затихло",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lZT_LCkG4LKdOsGop8HbbW7rBnr0O7eho"
   }
 ]
