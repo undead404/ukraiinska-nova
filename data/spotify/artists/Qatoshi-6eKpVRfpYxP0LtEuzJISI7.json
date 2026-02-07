@@ -562,5 +562,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1vXgPGYP52MlqV7QkfZVQZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-07T23:29:43.074Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Chico",
+      "Qatoshi"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27346d95bc48adcc0f09e6e7591",
+    "releaseDate": "2026-02-06",
+    "tags": [
+      "Nu Metal"
+    ],
+    "title": "Селяві",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0kxILRUrjG9Jemi6DnbBJJ"
   }
 ]

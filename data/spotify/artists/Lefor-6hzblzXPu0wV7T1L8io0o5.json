@@ -1209,5 +1209,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7FtogN7ic2iyJr0T3EqMc9"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-07T23:28:27.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lefor"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f837ac58ee28505561e3f5ba",
+    "releaseDate": "2026-02-06",
+    "tags": [
+      "rap"
+    ],
+    "title": "Де ми літаємо",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7vLwaHTIBQhD1P2hYgh4jx"
   }
 ]
