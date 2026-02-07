@@ -317,5 +317,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_neQS3pW5kGUNES4FLl1w5I_I40iGcsZqs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-07T03:32:04.925Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Jalsomino"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/kEtw3qxODl-4gpixOnBIHwfmyiSeksBADqFv79P6K31GHBGrl3ZO5H-e9NKNh8Sqn1pbsab-M1T0gag=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "dubstep"
+    ],
+    "title": "Моя відьма",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mzR-twepbOxXaanuP63WnjUwLWg0deqI8"
   }
 ]

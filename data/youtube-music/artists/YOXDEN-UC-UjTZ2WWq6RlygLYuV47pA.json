@@ -1662,5 +1662,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mhhRlIkgIydv5zc1kYjxJrZxlndryNgw0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-07T03:34:05.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yoxden"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/x_RP3FLM_3j2nPDXZjz417wnSKi8OsLz6WJ2L8BQTZ8K9MCbRLtAt3eYCfdEZkhr63J5T6cXHkZOSg4N-g=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "dance",
+      "electronic"
+    ],
+    "title": "ТИ МОЯ ЦУКЕРКА",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ljw6fY7dqpoqgLFl6T8oDJ_0PNPFzDo9w"
   }
 ]

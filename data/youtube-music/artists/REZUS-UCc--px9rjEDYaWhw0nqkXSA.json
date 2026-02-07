@@ -207,5 +207,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lqX2y2Uf0eiZ4w6ZPuETQJKw-hG_7a0_w"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-07T03:33:12.865Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "REZUS"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/pMPQ3JD9g2eV29X_JM-2WPzdwz9euTHd2JR8YXQdtZdPp9y3xX33zSOK780yL7ZV_uKZkToHT3Uw92RAtA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Ідеально моя",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mez4m4F__ZpjJEo6n2Mt9fnQv2eCDprb4"
   }
 ]
