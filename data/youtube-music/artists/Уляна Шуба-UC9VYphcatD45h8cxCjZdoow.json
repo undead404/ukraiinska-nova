@@ -416,5 +416,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_muNNXHNEDDV2xan5xWI_Bw2LKIF_0ivMU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-07T02:33:58.760Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "УЛЯНА ШУБА"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/7UlQkUVVzEzw7fqDj643FBZghyzOqcQkz14jq-404hpJHevpFqg8P35dzCWS8bhLY47wVu00L6Un3Kw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "ТЕЛЕПОРТ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ln-4Pt3GCfCdEV9SpSL7zkn-RTlQl9RlE"
   }
 ]

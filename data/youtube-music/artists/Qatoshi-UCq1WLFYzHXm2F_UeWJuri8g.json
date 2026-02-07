@@ -521,5 +521,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kHxWoHCVg7EdDY7TAkne44maCpJow63oE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-07T02:35:27.761Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Qatoshi"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/uhJvIKFeg-yw6fNXO7nv_ViH4EbqF69Y4sUjumiPcgxKJo10umJ3uoca1Y9GM7RzXHHvAVACUM5S0yH4=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Селяві",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mYR4aztJFwaeqUA_NFF1eiE_iSz7KXqKE"
   }
 ]
