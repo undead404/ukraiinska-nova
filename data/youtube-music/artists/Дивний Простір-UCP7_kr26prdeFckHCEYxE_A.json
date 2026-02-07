@@ -245,5 +245,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kJaCfPoxaYkAwXdoibaXrSgkrxIEzXvYs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-07T20:50:46.974Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Дивний Простір"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/0gAiJbOCIY8rLlpy3ZyyVVXyQDRe2SiaMPrgKf2DR8-pb_yWBQav9kr0UGwtWAMrJc4e7Ins6ZIdc0Xn=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Сімсот пісень у шести треках",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lrJ8Qt1Z9h-9X5jJIOyvI3oSt2G65ybVI"
   }
 ]
