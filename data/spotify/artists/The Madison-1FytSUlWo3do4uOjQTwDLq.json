@@ -1120,5 +1120,27 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/3OwJpsvauIhbExvsipGast"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-07T01:58:26.871Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "The Madison"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c57061a66f27ed80717ca5df",
+    "releaseDate": "2026-02-06",
+    "tags": [
+      "trance",
+      "progressive trance"
+    ],
+    "title": "Eternal Glow",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6xH5LZlSezivxv0l8pKoUZ"
   }
 ]
