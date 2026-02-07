@@ -546,5 +546,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l_A8cBtv9061epBGILf3qhHMSoYu9A5KY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-07T05:05:53.367Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "FIINKA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/_hNQChRIki9cdIVVUT-0DxiufeopDsDUOOb7acEENLb3Y-8PPBHdWo1jWTNI0TPSlAK6DfQ23BrnWVJ1=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "СЕРЦЕ ГРИМИТ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_moKeldlarrdSYnaSU9-IXT15C84pGm_U8"
   }
 ]
