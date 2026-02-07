@@ -872,5 +872,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0sUWqQslkO43lTGkH1DsPx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-07T03:14:48.276Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MAKEMD"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27314c119aa6f7fb824b9040074",
+    "releaseDate": "2026-02-06",
+    "tags": [
+      "techno"
+    ],
+    "title": "Lost signal (Original Mix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2MPP7vukPLSOLnRFuWQWaN"
   }
 ]

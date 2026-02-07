@@ -251,5 +251,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2iCwdIHHkrwbSX1j8WfOF4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-07T03:09:20.123Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Женя Галич"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734b14e1f367d6ad60b8e4efda",
+    "releaseDate": "2026-02-06",
+    "tags": [
+      "pop",
+      "rock"
+    ],
+    "title": "Розриває на шматки",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1m20ZoUibpa5oWiSgNvzsc"
   }
 ]
