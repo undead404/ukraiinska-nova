@@ -245,5 +245,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4d3aIpnWRIE0mot0T32qtx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-07T20:21:31.055Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Дивний Простір"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27384f21b42dbbffb81b6dbd978",
+    "releaseDate": "2026-02-07",
+    "tags": [],
+    "title": "Сімсот пісень у шести треках",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/62MsKtR2SufXdQ6dEkz5HN"
   }
 ]
