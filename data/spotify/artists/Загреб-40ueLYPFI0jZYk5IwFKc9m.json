@@ -675,5 +675,29 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/19Vz22SlrJeHnvvUJCzuYw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-09T15:33:39.840Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lasta",
+      "Загреб"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e39ee4d163b6c8b7b9cc4747",
+    "releaseDate": "2024-08-22",
+    "tags": [
+      "Hip-Hop",
+      "post-punk",
+      "underground hip-hop"
+    ],
+    "title": "ХДМН",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/71yGRBXOhcN0wyMJqvKQi4"
   }
 ]
