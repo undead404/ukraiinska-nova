@@ -1911,5 +1911,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3hAv37NsDkDtJUHFVitKhT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-10T23:33:41.614Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736f93414f89b8763418f84bef",
+    "releaseDate": "2026-02-10",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Black Landscape",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6sGS9so9pXR1RWmVhCByHh"
   }
 ]
