@@ -909,6 +909,10 @@
       {
         "time": "2025-09-24T11:32:28.964Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-10T11:37:01.431Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1042,5 +1046,26 @@
     "totalTracks": 12,
     "type": "album",
     "url": "https://open.spotify.com/album/2saieuWuuHQ30o3znTEQvE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-10T11:37:01.431Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Hidden Element"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273112adbc46ebecac659fbd95d",
+    "releaseDate": "2026-02-10",
+    "tags": [
+      "electronic"
+    ],
+    "title": "8",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3mw0ZFI5MuuuZy4utOJEuT"
   }
 ]
