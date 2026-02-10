@@ -2051,5 +2051,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l4C4OXS-Ei47rNJbQ-NALzxrgiIHPE8DM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-10T15:06:51.399Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/ihTPhiu5VO3JPmA1yb-l1Fct7GkTmhceMduXgbbqPrTpEJnp9kymMhiXyE4DFT8qfv-MNMsax_FLRsS4=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Black Landscape",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ktEmTZdeXWmdPmvIzpPEFPFyVKehfABC8"
   }
 ]
