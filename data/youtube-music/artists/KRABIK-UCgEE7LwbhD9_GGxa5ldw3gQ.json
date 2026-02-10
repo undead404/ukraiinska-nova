@@ -264,5 +264,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lN5kbC7li5EPjM0fE5zP0VlsN6tCMCQoU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-10T22:00:45.606Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KRABIK"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/hoYoRqKoQPC3cDcF1sUxr1CXd_bOBY7oHXwkMedrskur5dLrOJIFn5IcHmuVuYaSofj6t9zgqKhbj4wU=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Тільки ти",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lYGtFmgD_NtkdSeZ1DBV3zrYjDMmb1Rxc"
   }
 ]
