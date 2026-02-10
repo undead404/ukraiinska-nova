@@ -356,5 +356,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0riWD8hfLHCGe5Cu0szlN4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-10T03:30:08.092Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YULIYA ROZNEN"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735bb06e98cb8a552493707cf5",
+    "releaseDate": "2026-02-06",
+    "tags": [
+      "pop"
+    ],
+    "title": "Where Is My Home",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6RfmsOlbAVfb4caUqNXqmp"
   }
 ]
