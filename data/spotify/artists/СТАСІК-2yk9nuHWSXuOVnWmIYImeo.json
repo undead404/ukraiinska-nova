@@ -152,5 +152,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0HIASqMhw1rzRsgTl8jv7z"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-10T01:00:46.356Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "СТАСІК"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273307e1c196b1f8d79364f1e45",
+    "releaseDate": "2026-02-09",
+    "tags": [
+      "folk"
+    ],
+    "title": "Через хміль",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4KEnnogl7eGhRGmZ4IOEHq"
   }
 ]
