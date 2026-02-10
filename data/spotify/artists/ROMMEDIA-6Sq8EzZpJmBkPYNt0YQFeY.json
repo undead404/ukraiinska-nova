@@ -455,5 +455,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3uwfRTKFWOstQvmgOoi94Z"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-10T09:40:00.474Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROMMEDIA"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a6499f1e9f0e8b48905fe164",
+    "releaseDate": "2026-02-08",
+    "tags": [],
+    "title": "Рівнем вище",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7Jp5PBlM66QxbGtzhQ2vwS"
   }
 ]
