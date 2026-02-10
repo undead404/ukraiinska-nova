@@ -184,5 +184,26 @@
     "totalTracks": 11,
     "type": "album",
     "url": "https://open.spotify.com/album/4gG29B9G6ogUJP3vbd15LU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-10T14:47:10.906Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sharlayh"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735d41e6d1dcc598562e6422fd",
+    "releaseDate": "2026-02-09",
+    "tags": [
+      "singer-songwriter"
+    ],
+    "title": "Всі Лєві Ідуть Нахуй",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0zcwhF72UCvoy4tr2oS4Pl"
   }
 ]
