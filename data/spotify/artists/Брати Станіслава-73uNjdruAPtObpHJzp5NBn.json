@@ -195,5 +195,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4KUYNnAsCGTgu7z586xaFW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-10T22:26:15.547Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Брати Станіслава"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27318384039ed127cf29497bb1b",
+    "releaseDate": "2026-02-02",
+    "tags": [
+      "rock"
+    ],
+    "title": "Самурай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1sotAxXQITopou9O2Fn9Jj"
   }
 ]
