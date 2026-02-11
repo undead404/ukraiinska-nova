@@ -930,12 +930,16 @@
       {
         "time": "2026-02-06T18:36:00.728Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-02-11T18:38:49.992Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Nodiggity"
     ],
-    "artistsPopularity": 3,
+    "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735a682b5bbbd221ea907db444",
     "releaseDate": "2023-10-03",
     "tags": [],
@@ -949,6 +953,10 @@
       {
         "time": "2025-09-18T18:27:03.848Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-11T18:38:49.992Z",
+        "type": "LOST"
       }
     ],
     "artists": [
