@@ -108,5 +108,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4RKaFTjjvVohQZq3KG864k"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-11T20:32:49.675Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quest Pistols"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273730f19dd272ba11667db70ac",
+    "releaseDate": "2013-12-20",
+    "tags": [
+      "pop",
+      "dance"
+    ],
+    "title": "Я твой наркотик",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6j1kSBjqAOwZEEXfxKUbW7"
   }
 ]
