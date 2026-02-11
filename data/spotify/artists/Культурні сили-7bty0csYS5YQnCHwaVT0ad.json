@@ -400,5 +400,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1wQDarei5cKqlkBKhtRf7u"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-11T03:20:21.576Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Юля Юріна",
+      "Культурні сили"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273103d828751011aa0c2048c86",
+    "releaseDate": "2026-02-10",
+    "tags": [
+      "folk"
+    ],
+    "title": "Боги війни",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6l9cV5AB2pqKXLtRYC0Qrr"
   }
 ]
