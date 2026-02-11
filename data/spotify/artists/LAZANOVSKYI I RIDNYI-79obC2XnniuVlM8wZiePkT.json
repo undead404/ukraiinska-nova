@@ -928,5 +928,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3zvOnDRAuQbLZ76497KZJb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-11T01:01:21.011Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "LAZANOVSKYI I RIDNYI"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27314e0c32961aa986d57bf4ff5",
+    "releaseDate": "2026-02-10",
+    "tags": [],
+    "title": "Забуду",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6UHvgaiUaXWkuCEOCJWLNI"
   }
 ]
