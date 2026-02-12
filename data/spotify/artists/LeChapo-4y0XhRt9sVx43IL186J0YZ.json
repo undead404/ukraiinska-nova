@@ -214,5 +214,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4ESVxnODQD1Pnq0sBJCVqW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T20:30:04.462Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "LeChapo"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738557c2eeacd442f781625c3a",
+    "releaseDate": "2026-02-12",
+    "tags": [],
+    "title": "Йобнутий (yungreedy1 mix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5sTxN7ItJXvgLo8ZETLCm0"
   }
 ]

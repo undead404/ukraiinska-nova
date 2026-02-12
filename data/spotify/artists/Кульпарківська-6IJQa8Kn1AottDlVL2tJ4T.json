@@ -913,5 +913,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1WWyGmVZgOvhmJPZFgI5lo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T20:23:18.632Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Кульпарківська"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fc54e50280bcfe199e192077",
+    "releaseDate": "2026-02-11",
+    "tags": [
+      "rap",
+      "underground hip-hop"
+    ],
+    "title": "tyko tak",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/20758m1PPHGnyqXxHXs7NB"
   }
 ]
