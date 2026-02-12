@@ -1,1 +1,968 @@
-[]
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/QwO64JLqmVnCinB_zCTZETlydHSR6A-uoHA8AIjAYyKwtnUtka2dBFlQiDWztfmREIdfWQaJemDXB5l0Sw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Подихом",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nXZ8nUxZvhbRmEtPJHWPf-wf5w2jPhA7o"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/Gpx96DcsJQmT7bVXTfZRFjZVVvZpmumaZL61sjNyxJZH_ORVB-2ZrHrYcVNWUBWaNHgPFbfa55TbAnM=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop"
+    ],
+    "title": "Хто якщо не ми",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mSOD4mxjHTOcKJjBu9t2i75iQTLy85vSs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/UrAnZXUnDvAbic3UrJRH7kOz_J90pEFHYXlQzs7-3jW28A5IOAlOh46bJ7qI8cDuFYvnSASzQ2rjg2U=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop"
+    ],
+    "title": "Їй пасує це",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nashHY1z47BCSLx2IyoelPnpM1HXXfdeQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/kBNe6yXiVEKT0LGuXOdhJ6axx2dr2jnFA3AslkT7tae70g9rtWrKPxBeklO62EaHZRFRy1UVZ6PffN6TiQ=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop"
+    ],
+    "title": "Хто з нас",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_niiL2JGwBCBPhK3k-ZslyCTSiwOVd03f0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/uHvuVqLKYDwrPMEhhqY2PGtq60eyM3buOCSUWQRvHmaoPV71EBdkF_-1wbIzQKeXe5CoBjBAcXRWjezM=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop"
+    ],
+    "title": "Ультрамарин",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mRe8xC2-CWkx3cRaYmxfzKx3hibuQKeD0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/W_AGANSqGbjP8gsmWlKN23CxKR_jiZ9UxUxLca_3QhSpWg9Zzm97TuJJ0IW-0c8YcFny0XGmj0BJDfHc6Q=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop"
+    ],
+    "title": "Зорепадами",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lm5s_dulgD37_a3E7WyhEdCe7jcSytVEs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/7YzjV0xsllqswVsx3TvmNQ0AIAxIPGa13fVtkI-RYWbRShY5ecr6h5BBSAzdpzLBb8p-r1jBNce_1H8v=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop"
+    ],
+    "title": "Сховаюсь",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mkjtETUNqpRx_zlyWQooCTJlruo8Rb110"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/LlwD43CZXvHKQUQ_B12MMF_xrbrsThWzLQUqc8itvWIkIvEk3SLZ9i35Uf77UjdV4VbXtf40Jpppea4=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop"
+    ],
+    "title": "Удвох",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kJz7KzlCFSOSkvr3V1OEuzQ93tEF98HQg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/arpvQAXSnyBsrARooSmhZNep6EQtPT1t4rTDVouV4PVhsuYJ5VVopTnOEQvYEqqw_erg9r4rOF61o0oM=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop"
+    ],
+    "title": "ХАОС",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mU7NtoYlJ3Dl72xGGtq41T1ZvC9ASUKys"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/lalxQW4UaUENX9iweVaMYz1Zyc4XNG0Awi0IDcGMfDCX3E-6HvxE-6PuCei9mYMhYeHszc79ZAg5GYM=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop"
+    ],
+    "title": "КОРТИЗОЛ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mPnTs3Kt_EU87lfWUA1n8KN1p8UtQFTPs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/87BCCzCkRK4lU8oHlNLTNyTZB8lLzDPwqsqcTkmRmVoiI9tdmVUWNh2wvjvikGtoYlc53Mhu44ZmZPNQ=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop"
+    ],
+    "title": "Мій дім це ти",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l5Y5w9qntdR3CPjjtIEoZ18Fc1pgKNdTs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/Au5j-2J1iSTpXSJcezXlcyaCR44yuv8Op0Z_rjcQfPbLiQhQCzz4uFDay-q6oEq3DQCaYbOlVV0DwG0=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "pop"
+    ],
+    "title": "МІНІМУМ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n8HQ7wrUKEa8fVh0mfpcgaFjBy20DGvcg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/Js7l6NoxMR78HQCkejwIqgTpcL6GFHGOBpNvh1Mo6ib5d6EB3fe_tAY1FL1JAaHxYnazalp3dr9Jshw=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "pop"
+    ],
+    "title": "Авіарежим",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kZtBvt-YydtQT9-EAqU8JGMO6G6hf8B3k"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/vTuJb6nscko29jkCbcMOqTLppXSnk8eugljZ4IHO-yd2qWetC7CRYDx2xs4Dv5vPkxcLEcj4nL_l0upU0Q=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "pop"
+    ],
+    "title": "Врятуй мене",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m9ZjgOwMiY3BgMSP5eKACeD9nsFX5z_f8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/W0J9uLa9ftDfQoYO0lLn8e6CQervaWJ0Fpujfuq1KkKVGJP0R918Q_X3XCJIZEuz7bnkRrvaf6S1gCg=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "pop"
+    ],
+    "title": "Одинокі поверхи",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lyaP0fQ9aK6BHf4iuKbIx5sI3DfCvNDMM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/a0-csfraneeQUlYipOuUVrR4mCKmylubQ7xgKNKu2xgnAXDyByGKvuAwMzrv5yJi2zLq9cP_J_ezn6NR=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "pop"
+    ],
+    "title": "Почуй",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m17Bgsu1sEFVlhVplHH3kQYfKF39d2lvk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/2TTYCqo7RY6x5Db2zcjq06ufKvIZjvInPJ0BWvyuQ5gZvNJ4jgb1G7AmZlMloulWY0vUgioNYTDqMpw=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "pop"
+    ],
+    "title": "Розчиняюсь",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mV16swXEqx2gFi80KZ4DhEJRY_w2j0l5U"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/h_ltEnuuI0Pyu2xThvcyXzS_XZCGvsENje38ns3qzIgm_Pof2LehZuQ6BSAy0aOQulL1QHpFXIBH22aG=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "pop"
+    ],
+    "title": "Про тебе мені",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_muj5sMhZQVq1ItCZzaYV_mcQ5pQ2dDNK4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/udirfQAd-jBRWx5br4MKBwOrPqm2dOFXII6vaP74NH28cKR4qThNXK57Ep6xR9yaEb2-AaPWGaKve4gA=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "pop"
+    ],
+    "title": "Lie to you",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ngYPFH-_31u3fsj6I8VizCTKegL1QzWIk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/znay1JGPSeFpG0VUWDAmh4FYCdDajJghyshrYi2mcioFPm7vmJvULnvvCEwLhiHrKoLwJSSutd4HPBI=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "pop"
+    ],
+    "title": "Зіниці",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kVjmoCnvCk1YN6D4md6om4_MPA___jbxU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/To4fQiKDGJhonnF51ucCiEocsJmK41oSmvUvLxdeNfwT15J6VhOUVj9IYM6hYv0Aj3kvaVdtVlAUsphVQw=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "pop"
+    ],
+    "title": "Торкнися моїх губ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_khn_CtjmGjnZOhTnoKsd8Tla9N1NF2rLg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/g7R8h_ITk6jBcYtYrdPwIBijgEeqCdGwPe8yCntVbzx7o9kzAz-vZtTOFjvVGu283ELAhqD81hOQ7Xq9=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "pop"
+    ],
+    "title": "Дощ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mhxuLTCcWCVZhfVFvMWaSgLyS9jU09Nzg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/llc8YXu8SGA7SadgSoVznTvHZTzQ9aF3aO1xk8JObNPWR2x9wXWvhUiKUVP3vjF7qsf0Cc6dDy1zht__=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "pop"
+    ],
+    "title": "Тікай",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lgoaCBPceeH0TExfv5qEUWd-Y2_0Dr_q4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/iw5vRch9TR1aWExsFb0HiwPtBUEPDpYY9jEdzKrDH9ubV6HI3AWZMv0l0yhOAPa0zzcvAd5JRIyi2upi=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "pop"
+    ],
+    "title": "Дим",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k_d1m1whfsA72bb6eI4J17xOUsFDeiJlE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/BGFxPYEcBAjIyeXarHPDYTGoYl_EmzcG-z1ST7HfTMracVcliXhEHbSWkY3H06uFw-j-2UYiZUPr9XY=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "Холод",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lWJPy3pPQkoD-7c4GxmnUePzy3TQV6wY8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/epsuk6C0myZKCoTrQn_8jphfb27lVCbRP03J5GhD91OSKy7KageBvdX0Y4d2i3hDM4YYRX08u9hW80g=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "Танцюєш сама",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m1fmq9zdmj4jvLtwAnMF6qufi3ckNM_D0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/ioaNO-pZfpl9cdIByai2zuGu2YR3IfN7xaPHjlkSMoa3yPUjE5BEB0As0PrkmDkOsMjCzOf7nTnClyST=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "Haute Couture",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kouUlqu7BrjkClAHuJThp2hzUe4kQyDnU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/pPbWNvVbyFznq8oo9Uyue18wc6zSmYbp2uyPCFK07FbeIBhsSdp0FcoCOZk4lSyC5EGDD_2tiJwkJYI=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "Запитай",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kutOXIK3LefESXKzaWWmpe1UdPQ7J91Fc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/hdeS3CMvTeMsYE-ZQ4SlOsVYSxW31BEXg270g7Dfh4gA4_3XHL-p_arsKKBIMgPD1LDW5iDZiRp7It4=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "VODA",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kaQfkKR_kvsr3EEd-vdH6vW4xhsLQAB64"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/uqxXgGvgWwgjCPZB51BwwiH6foYbNenFb_1c1ZhjXGJZ2oU8NDuVrkDCMBy7cI1XgrNPQvQro329iRaCFw=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "Тепло",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kEFH9rpaTmoQBHqn7kIi_MauM3a-lI0s8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/KPoBqL-qFb6w0DPyp_GGuWeyTJYre4IVaJDKKPegXkfSJxgjq76rCG5ve9MmQdUk9DEScxwxsh8f3TEV=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "Обійми",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mbQfuztJtDsSwr0iI0pyRkaX_c2qfJ73U"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/9-PjZseAqXlfLzw2lSVqVEIbqyqq6p0ZAq0hoXEndzJernncs9UqlL8rYsFRBj2tUF_djhqWbNjE8RVO=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "Залишся зі мною",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nXnGetLuelBEfMCrqHZ8ymZNVVnUUM--0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/PdAXbFsm9yFPx25RqXcrtPFsxObq9wLCdqBfTXilCAvuQtPMotJ1bHK7bR3e_zNpf9pSrC2EbC_eGWLlkQ=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "Не відпускай",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k3QunivhGHebo_cpQapYCWAeQTSQhJW2A"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/BiGAcFW2aFdRTtRoxHtc_qMF5wnaaa0ELaboynuCEqtV6loh4q-s12eksdAioQCJhTtQ8xUzI3uiAwfA=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "Тепер пробач",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lGcZrOQicDL5nmYZ3UQhW3ozlMIybGFro"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/Er0zbnSXNls472aeC-kyn_yC2Quz97_NlZ5_odRkxD5Ab1OOZdNUCvKEHn0nrLghceMucKGPLBWQjIM=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "Просто",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_khC6vXepasLZwNRfsOeO27g5ARLrJh-8o"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/00GDV7XBSXDfsfO8L9jg_tOzRih6y0K6XEmNA0r_jidscllcJLPMt3R1vIXMumlrFbOUBrPOtK-CwyEw=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "Дотики",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kDhT-y57ttN32zjolFSuIPzvhv9dfumBI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/5BVLSRleqnY5J4OOucqo9vipBRlootsXTZBvAbTNLQ99F0ng3yzfqLHB9Qy4nER5vMOQ-c-TSHQy1Lsy=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "Якби ти була піснею",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nm7WYYvNH0BRiujNO8pr8nfXEj48FUfPg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/Trn1GZ4kDyK8c54pCZi0cp-pS9VoqJd1F2iSkh0Yk-uWGLoBacNGycY69lpoVairHY3QiHIH4p3SbqG2=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "Забудь мене",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mZz236hbbefRi4XXvOwbSrWfHA9yEQD9g"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/jlw8rH9bNnum5tstsxW-6kq3rJYuSYX7e44E8cnjvYySnLb-yWixtANd8At-ZODH72-LetumNXeKng2a=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "Холодна весна",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l7CYfBMzEJd5TCI-cENNUjPxYtHCk3UJg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/jNEbIPvyTK3b6ZMGcrvc6_-s-v69os-pKHc1WNo4OqsPM2vXvJwCUsNtjTmgMCcSFDLbx3RZPC2Zsfvu=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "Дизайнер",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nM81Xl7Nf_viiRMKaIQjwgXhUJr4_Vu28"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/Bt7kRISPVdMwZ5GuDd2nDu9v8HkfmU2Q-wJWkkxifgc0TW4Nj_d_Tnw8RYu2RvSUCoVEbDxt5sA488UO=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "pop"
+    ],
+    "title": "Шлях",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nZs8VjaaeDORNV9PUu8FTVEdBG_NENAaU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/pCSmpHIntktA7h-VbfbBpVvOOObbcqJ5TuM_ymNTrTtjW5RvHkrSrvH-lmA8oYMxevjgoe3-ddblaMRN=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "pop"
+    ],
+    "title": "Не шукай (feat. YAKTAK)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kycGnH3Qldm3y3y7JG9gdak0m8s1HTm3k"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/GwB7wBxmR1bVmxmf9OockgLJbfSEwmQhEj_4bM5KwZuqB4NXb_bbc2ns3cSGlv3jC5C99lblIDk9tIc=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "pop"
+    ],
+    "title": "Мила (feat. Clonnex)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nZilbcZo625-KxSqHjp34EsmwKjI9qAtg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/5ahgt2fpx2ITbtGpw0T04k-O5EM4tOJ8hvwnrXOA2Mf3wj95KjC6w-K48AqljwxXKG5DMkN9MckQossSwg=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "pop"
+    ],
+    "title": "Не засну",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kd3PDOvoPHbPtzBlFXjGWiBEPoYMT9Z8E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/HaN5j8sQxb2OQrInzsJDtd1PGmOZZPrALbVoZkfBfu0YoMSNgj6NXXEZ6eOYhk3d75biqRjGS0Ur7ML2xQ=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "pop"
+    ],
+    "title": "Знову",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lJpa4GMXJtzswodDAnQ-Mj9BK9GFH9FvY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T01:07:49.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Golubenko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/HxzbvdLewyfzOfpdRmiqlYOIvRHlBzTlLttckrPqZZ3xp-SCwV7KmPtTFbQhmio5xohHofSlFcZVaE-t=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "VODA (Club Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nNng--RoMSLA-PL1U7WbsHi3rMdTgbwCs"
+  }
+]
