@@ -485,5 +485,28 @@
     "totalTracks": 9,
     "type": "album",
     "url": "https://open.spotify.com/album/74IoPnaj6H1cBBygS8dDMt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T17:43:12.430Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VLADA K",
+      "VERONIKA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734473e3034a7024d5517adb94",
+    "releaseDate": "2026-02-11",
+    "tags": [
+      "pop",
+      "techno"
+    ],
+    "title": "ЛІПШІ ПОДРУЖКИ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6X75p7m9JKsJuYaijperDW"
   }
 ]
