@@ -531,5 +531,26 @@
     "totalTracks": 10,
     "type": "album",
     "url": "https://open.spotify.com/album/04F8CCyNIPjGdX7QDMcJaT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T06:40:21.014Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Druha Rika"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a073a8270c20fbe4dcdb7298",
+    "releaseDate": "2026-02-12",
+    "tags": [
+      "rock"
+    ],
+    "title": "7'Я в онлайні",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2P45dsi0Sdz1wbdfQRCJUg"
   }
 ]
