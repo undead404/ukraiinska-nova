@@ -976,5 +976,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2CpDTBkCkKxeo6DiQ16Pk9"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T05:44:53.163Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Віктор Павлік",
+      "Alex Fleev"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27385af102cabb0491082909d24",
+    "releaseDate": "2026-02-12",
+    "tags": [
+      "pop"
+    ],
+    "title": "Знайди мене (Alex Fleev Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1LcuzEB7FtHq7dz0LF0DQS"
   }
 ]
