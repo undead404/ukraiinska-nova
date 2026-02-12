@@ -566,5 +566,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6c8I2crDuzHmfuDHoVIE9c"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T15:34:59.972Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Julik"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273439ca205edb79c63bcb4c195",
+    "releaseDate": "2026-02-12",
+    "tags": [],
+    "title": "Назавжди",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/34bdyPHv2STJ8L9uLvVFp4"
   }
 ]
