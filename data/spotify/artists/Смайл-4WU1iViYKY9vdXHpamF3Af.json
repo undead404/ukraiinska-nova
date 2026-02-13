@@ -246,5 +246,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1wCMjTF8VjBqwQ8fF4sBht"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T07:34:47.028Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Смайл"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ca64d10e5d747477bebde76d",
+    "releaseDate": "2026-02-13",
+    "tags": [],
+    "title": "глибина",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/25rcdKq4X1XiQPcklEnCvD"
   }
 ]
