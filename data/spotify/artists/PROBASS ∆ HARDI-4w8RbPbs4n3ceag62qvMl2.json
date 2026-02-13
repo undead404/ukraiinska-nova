@@ -1047,5 +1047,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1rxXLtPItRhz0r29yChoNf"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T17:36:40.849Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Klavdia Petrivna",
+      "PROBASS ∆ HARDI"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738247cabd9a51c11efd0ccce8",
+    "releaseDate": "2026-02-13",
+    "tags": [
+      "EDM",
+      "pop"
+    ],
+    "title": "STRUM",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0rD15Yb9swH4JhryQoCR4z"
   }
 ]
