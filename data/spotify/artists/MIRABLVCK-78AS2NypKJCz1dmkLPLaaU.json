@@ -252,5 +252,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1E5KEDJJzFK3OrV9U9uWo1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T11:28:41.097Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ONI INC."
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738ae030b715cdccf605b8a7c0",
+    "releaseDate": "2026-02-13",
+    "tags": [
+      "metalcore",
+      "rap"
+    ],
+    "title": "Look At Me!",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/47XTWj6AEt2m5RXK4p8pWQ"
   }
 ]

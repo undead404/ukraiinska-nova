@@ -839,5 +839,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4Qk8rBKlqO8FRdRo1Xi1o8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T11:30:46.265Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YampolSky",
+      "Kinree"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273986196ff2a747f1a1841f2ed",
+    "releaseDate": "2026-02-13",
+    "tags": [],
+    "title": "Do Your Thing",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/70BZ5WazBvQ1jr9Cs9x5Xd"
   }
 ]

@@ -441,5 +441,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1iFVhvM0dKEk1aATibzpVp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T11:29:47.980Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SUROV"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bf20cfbac8ddf13279508e86",
+    "releaseDate": "2026-02-12",
+    "tags": [],
+    "title": "Коли ти поруч",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0RIrXbdOaGFmRvCzrH5Bii"
   }
 ]
