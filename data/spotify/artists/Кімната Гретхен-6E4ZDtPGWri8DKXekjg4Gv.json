@@ -587,5 +587,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5HNd5Y6JcwRaQsQcl5f5K7"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T00:55:46.804Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Кімната Гретхен"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730b7ba0f586f6ba273f77c0d4",
+    "releaseDate": "2026-02-12",
+    "tags": [
+      "Disco"
+    ],
+    "title": "Суперприз",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3rTq67tGYY2QxEHerJzoBm"
   }
 ]
