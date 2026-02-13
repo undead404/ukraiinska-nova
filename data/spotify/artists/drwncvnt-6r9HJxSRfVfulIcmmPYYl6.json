@@ -2002,5 +2002,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7LzwG91klq4KkcVn9QegPo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T12:30:09.032Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "drwncvnt"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27375c837960e9cabd5c9329633",
+    "releaseDate": "2026-02-13",
+    "tags": [
+      "electronic"
+    ],
+    "title": "alice in wonderland</3",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/05XvXVUZM5d2RSFMGbWP2u"
   }
 ]

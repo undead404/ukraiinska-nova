@@ -931,5 +931,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3QEnfFhJ7iUt3sZ9cyH5sK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T12:28:32.063Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Adam"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369c22569ea0d967247c74c21",
+    "releaseDate": "2026-02-13",
+    "tags": [
+      "dark electro",
+      "ebm"
+    ],
+    "title": "Сильно Сильно",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5dtWBQwt2JA97t7C2z18lH"
   }
 ]
