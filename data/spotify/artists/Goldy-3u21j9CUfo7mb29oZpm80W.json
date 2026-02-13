@@ -265,5 +265,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/44adBsGbW7StDh93kj51MM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T21:27:53.607Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Goldy"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27305c93642a8ad22b6b099a419",
+    "releaseDate": "2026-02-12",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Тато",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1vODsotkGGruNDOZPrOjjx"
   }
 ]
