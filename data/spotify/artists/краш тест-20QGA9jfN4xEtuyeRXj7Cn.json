@@ -313,5 +313,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3vd7XCtVsEqfgleMptO0Af"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T19:30:34.561Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "краш тест"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273746145c22c37ec9a88b1cab2",
+    "releaseDate": "2026-02-13",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "сн//іг",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/46EyW3lnIVgHZj2qNwAV4m"
   }
 ]

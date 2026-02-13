@@ -1809,5 +1809,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4PlMj2mw7KVngDFFI8VNwr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T19:29:37.778Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Artem Loik"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27351d0d5e53a904220686e5364",
+    "releaseDate": "2026-02-13",
+    "tags": [],
+    "title": "Потемніло небо",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3ZbDLRiXcwEcgrBrWSLB10"
   }
 ]

@@ -131,5 +131,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1DYeJGwlllQXSUD2MzRqRt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T19:29:57.057Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Віктор Кирилов"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27364e795265e98c9be26c11ab0",
+    "releaseDate": "2024-02-01",
+    "tags": [],
+    "title": "Лелеки",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3AUyQ5dQmncC4nEViqLUXz"
   }
 ]
