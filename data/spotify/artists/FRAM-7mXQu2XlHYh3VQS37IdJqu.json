@@ -401,5 +401,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4djnLHxD3QDecvxgenTH15"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T22:25:23.970Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Captain Hmiel",
+      "FRAM"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27396646ce4b233934505cdf39b",
+    "releaseDate": "2026-02-04",
+    "tags": [
+      "deep house"
+    ],
+    "title": "Eternal Light",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1TEetU5SNaFlNRley20luh"
   }
 ]

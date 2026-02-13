@@ -913,5 +913,28 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/3FSeYVwOlYrnji9xu4fdZX"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T22:25:18.244Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "FORCEGNG",
+      "4ERDAK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cf7e9fb5f3de9678db562d7b",
+    "releaseDate": "2026-02-13",
+    "tags": [
+      "rap",
+      "trap"
+    ],
+    "title": "Cobra",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1kA24EXxKUVdu2pzq6Sjdo"
   }
 ]
