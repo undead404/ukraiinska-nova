@@ -1459,5 +1459,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7ECeRpxW7ryvSsNNoeNVcl"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T10:30:26.764Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Jamala"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730bbf70d8f2c15bd51ec1598b",
+    "releaseDate": "2026-02-12",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
+    "title": "Обіймай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2akoNOOHiDiSOdhC79uRV0"
   }
 ]
