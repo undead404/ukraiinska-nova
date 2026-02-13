@@ -1426,5 +1426,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1PHoyqeQjcKOTSShKaU91W"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T04:56:04.929Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YAKTAK",
+      "KOLA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27347494a2fa1600eade19fba78",
+    "releaseDate": "2026-02-12",
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "title": "На беззвучний (OST «Мавка.Справжній Міф»)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/42FCg9oZ3lsobTmYBevAnu"
   }
 ]
