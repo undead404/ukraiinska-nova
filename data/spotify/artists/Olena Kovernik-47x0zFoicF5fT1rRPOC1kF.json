@@ -240,5 +240,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0KZGavsyeKhjTq27vYjAhU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T01:57:10.859Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Olena Kovernik"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c83d20f7723b75f831b4b7d6",
+    "releaseDate": "2019-08-15",
+    "tags": [
+      "pop"
+    ],
+    "title": "НАЗИВАЙ",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4DJV5Uu3qtRazV0VncTnw7"
   }
 ]

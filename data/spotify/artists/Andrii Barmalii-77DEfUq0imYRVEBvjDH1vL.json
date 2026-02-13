@@ -1009,5 +1009,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1bu5x8ErS1dpYSfypU5pnU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T01:54:39.190Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Andrii Barmalii"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d16be5720b94e4e68f9139d2",
+    "releaseDate": "2026-02-12",
+    "tags": [
+      "jazz"
+    ],
+    "title": "на відстані витягнутої руки",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/41BbAX08LpSzBpL1ktkJ5j"
   }
 ]
