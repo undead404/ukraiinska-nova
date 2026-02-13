@@ -1230,5 +1230,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7vLwaHTIBQhD1P2hYgh4jx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T23:27:39.112Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lefor"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fdfd4c18f330e12ae6eab239",
+    "releaseDate": "2026-02-13",
+    "tags": [
+      "rap"
+    ],
+    "title": "DDR",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/03zfEBnALdamZhjvK2gcBi"
   }
 ]
