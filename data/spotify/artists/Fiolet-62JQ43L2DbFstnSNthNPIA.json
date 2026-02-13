@@ -950,5 +950,26 @@
     "totalTracks": 6,
     "type": "single",
     "url": "https://open.spotify.com/album/4UfvO6ewCecPPYGACcOzH8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T20:27:20.103Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Fiolet"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aaee50373738073846fd756f",
+    "releaseDate": "2026-02-13",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "Повільна зима (Невидане #2)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5EI25lLdXBsbq0HBoax70R"
   }
 ]
