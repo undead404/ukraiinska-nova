@@ -755,5 +755,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6GGRmoEmI9tzH1ONwDL4wQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T18:33:14.043Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MniShek"
+    ],
+    "artistsPopularity": 2,
+    "releaseDate": "2026-02-13",
+    "tags": [
+      "rock",
+      "folk",
+      "folk rock"
+    ],
+    "title": "Поклич мене, вітре (Збиті рими)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1loOadchurZXdLTibd4nwl"
   }
 ]

@@ -487,5 +487,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6az4pzBfvf8uNkf7EII16p"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T18:34:09.639Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "sexnesc"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27334cefc6fe04ce0e5431e93d3",
+    "releaseDate": "2026-02-13",
+    "tags": [
+      "alternative metal",
+      "Nu Metal"
+    ],
+    "title": "Дні і Ночі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2elWdgtrfW07hZTIOmViHG"
   }
 ]
