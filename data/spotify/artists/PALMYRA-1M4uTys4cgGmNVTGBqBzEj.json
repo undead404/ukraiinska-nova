@@ -834,5 +834,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4juSgCwey9o8IAYTD2PSD8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T16:32:47.596Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PALMYRA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273109a1cc1dbf64e31eaf18448",
+    "releaseDate": "2026-02-13",
+    "tags": [
+      "folk"
+    ],
+    "title": "Твої Руки",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7o6JX2kHrxwqaD83w3vSpM"
   }
 ]
