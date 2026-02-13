@@ -457,5 +457,27 @@
     "totalTracks": 9,
     "type": "album",
     "url": "https://open.spotify.com/album/0cGYIZaaN9pb1zkSiwdpHU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T14:31:05.107Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "gothique"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732127f84ec0f06d9dc041fba5",
+    "releaseDate": "2026-02-13",
+    "tags": [
+      "NWOBHM",
+      "Progressive rock"
+    ],
+    "title": "NA VPISKE",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1pEoBSzNPFZIVYFz96hQZ8"
   }
 ]
