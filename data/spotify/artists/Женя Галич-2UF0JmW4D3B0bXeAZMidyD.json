@@ -273,5 +273,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1m20ZoUibpa5oWiSgNvzsc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T03:19:02.247Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ЕЛЛІС"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733f1a48915d586630685c33e5",
+    "releaseDate": "2026-02-13",
+    "tags": [],
+    "title": "Нутрощі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5zd5EC1YHXT6TU8nmf48Ix"
   }
 ]

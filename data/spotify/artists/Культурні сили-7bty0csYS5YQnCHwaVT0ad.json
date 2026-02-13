@@ -449,5 +449,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6l9cV5AB2pqKXLtRYC0Qrr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T03:19:11.811Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Тур",
+      "Культурні сили"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ca78a98aee995fa0ca03afab",
+    "releaseDate": "2026-02-12",
+    "tags": [
+      "Hip-Hop",
+      "underground hip-hop"
+    ],
+    "title": "Тобі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0jcIUKMgWCnCkFmUIJjFIC"
   }
 ]
