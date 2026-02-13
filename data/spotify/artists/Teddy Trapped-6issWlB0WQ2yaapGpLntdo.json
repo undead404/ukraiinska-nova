@@ -510,5 +510,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0OUzqcRkXmvohDKQpy79bI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T06:42:06.148Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Teddy Trapped"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d630f0c78696abbd3f8346dd",
+    "releaseDate": "2026-02-13",
+    "tags": [
+      "pop rap"
+    ],
+    "title": "малиновий чай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3D8WIyJUG7jjquXhjQkgU5"
   }
 ]
