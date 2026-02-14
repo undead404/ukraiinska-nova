@@ -152,5 +152,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7a1DWdPsBQCHY9iaS8D5CL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-14T04:51:12.172Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Худбудинок"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738758fb8bcd3bdb52015fd101",
+    "releaseDate": "2026-02-13",
+    "tags": [
+      "electronic",
+      "shoegaze",
+      "indie rock"
+    ],
+    "title": "Діснейленд",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1MWSRFAMBFcGr5J0bXog13"
   }
 ]
