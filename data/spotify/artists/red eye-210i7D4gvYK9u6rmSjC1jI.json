@@ -335,5 +335,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/41NWl9sCP2OTQV76HHUqp2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-14T00:55:01.917Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "red eye"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273687928aabf0b51e97a8c3872",
+    "releaseDate": "2026-02-13",
+    "tags": [
+      "stoner metal",
+      "doom metal"
+    ],
+    "title": "Бридко",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/68cYSyKudAF19soDVWjxsb"
   }
 ]
