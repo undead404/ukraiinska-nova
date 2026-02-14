@@ -1597,5 +1597,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3tuTCr2wT7xKAFjUhlYLQY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-14T09:23:07.387Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Iryna Bilyk"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733f54b048b2bc9051dc7ef14f",
+    "releaseDate": "2026-02-14",
+    "tags": [
+      "pop"
+    ],
+    "title": "Божевільна",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3tHBT5cYyhlUd6pR2x4DP8"
   }
 ]
