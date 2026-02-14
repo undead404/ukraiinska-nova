@@ -1013,5 +1013,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/51psFtJfHtf7TRYV9tVFa8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-14T15:21:44.844Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Катерина Бужинська"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27396e732cebc0c62f9fb59a0ac",
+    "releaseDate": "2026-02-14",
+    "tags": [],
+    "title": "Про любов я просила Бога",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4833G0x5L7jrpyq1bkPTOw"
   }
 ]
