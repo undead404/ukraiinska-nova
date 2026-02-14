@@ -233,5 +233,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5sTxN7ItJXvgLo8ZETLCm0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-14T20:27:22.643Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "LeChapo"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27378519f8b4d23fa0f82635e6b",
+    "releaseDate": "2019",
+    "tags": [],
+    "title": "ХАПАТИ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3eELyZywkcSNlrYPWJ5KgQ"
   }
 ]
