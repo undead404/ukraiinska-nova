@@ -953,5 +953,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5dtWBQwt2JA97t7C2z18lH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-15T12:25:08.801Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Adam"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27353c9c9593be7e1ab02479657",
+    "releaseDate": "2026-02-15",
+    "tags": [
+      "dark electro",
+      "ebm"
+    ],
+    "title": "Faded",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3flrRV4xaKEaW2pR2VeUwN"
   }
 ]
