@@ -190,5 +190,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/217diaabYo08SpXPkXc8JS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-16T01:53:36.224Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "СДвГ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27332a953d1c3ec4c8d5dab692f",
+    "releaseDate": "2026-02-15",
+    "tags": [
+      "synth punk"
+    ],
+    "title": "Fail on Valentine’s Day",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2Z000pY5y8oVrlLIXDHp89"
   }
 ]
