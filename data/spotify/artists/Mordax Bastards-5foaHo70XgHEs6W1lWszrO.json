@@ -1631,5 +1631,24 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/4Du1lHzDPnHzGLSqCN40jZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-16T19:30:54.427Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alex Zakharchuk"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f26f14cec131cc3be44ea45f",
+    "releaseDate": "2020-10-27",
+    "tags": [],
+    "title": "Не бійся, люби!",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1I2B378b9VFkTjPAjc8cRi"
   }
 ]

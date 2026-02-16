@@ -1255,5 +1255,26 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/4R89NV4eaVF82XC0MaPGDM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-16T19:26:30.936Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "рома майк"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27397d2cd6dd282bb5aa93b9c56",
+    "releaseDate": "2026-02-16",
+    "tags": [
+      "rap"
+    ],
+    "title": "Ziplock",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2Xagjnda16C7iJOtDLGWfU"
   }
 ]
