@@ -2198,5 +2198,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1r4sRrII3CsHjZLwZYiPbj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-16T08:31:31.222Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "karmv"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b1a676dbd10864b4eb5486a5",
+    "releaseDate": "2026-02-16",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Любов може бути злом",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/27RJQEdyHrGmLpG3t7T7jJ"
   }
 ]
