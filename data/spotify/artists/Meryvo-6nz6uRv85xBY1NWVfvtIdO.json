@@ -42,5 +42,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5728LWX3GpCBRzkgyn5wG4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-17T17:41:02.931Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Meryvo"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273843c9cb441d475f897c481d8",
+    "releaseDate": "2026-02-17",
+    "tags": [
+      "dream pop"
+    ],
+    "title": "Хованки",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1TyYwMJtsdqt36lsahuaHm"
   }
 ]
