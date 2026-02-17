@@ -3057,6 +3057,10 @@
       {
         "time": "2025-12-11T03:52:53.052Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-17T03:24:20.630Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -3233,5 +3237,37 @@
     "totalTracks": 68,
     "type": "album",
     "url": "https://open.spotify.com/album/2CQdchqgJ3SE8QQoGMPwE2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-17T03:24:20.631Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ossip Gabrilowitsch",
+      "Antonio Vivaldi",
+      "Johann Sebastian Bach",
+      "Ludwig van Beethoven",
+      "Claude Debussy",
+      "Edvard Grieg",
+      "Erik Satie",
+      "Franz Schubert",
+      "Pyotr Ilyich Tchaikovsky",
+      "Robert Schumann",
+      "Sergei Rachmaninoff"
+    ],
+    "artistsPopularity": 6,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b8b45cde4fa23bf4dd567f42",
+    "releaseDate": "2026-02-15",
+    "tags": [
+      "Classical",
+      "baroque"
+    ],
+    "title": "\"063 Classical Music Evocations\": Rigaudon",
+    "totalTracks": 64,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1DKdFVrzYDDeYkrpU8wzHA"
   }
 ]
