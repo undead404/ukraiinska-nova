@@ -1595,6 +1595,10 @@
       {
         "time": "2026-02-12T19:39:45.110Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-17T19:38:08.001Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1650,5 +1654,25 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/1I2B378b9VFkTjPAjc8cRi"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-17T19:38:08.002Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Deba Montana",
+      "Dolly Chance"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27364e656c19e34ff326997e07f",
+    "releaseDate": "2016-09-23",
+    "tags": [],
+    "title": "Because the Night",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/50ajcOtjblEktekgXQWjLR"
   }
 ]
