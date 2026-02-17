@@ -610,5 +610,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4Aseh8Gq1YcmQnXAo8lmgK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-17T20:27:18.733Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DenyMo"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fa6455a96a4ff813176f575f",
+    "releaseDate": "2026-02-17",
+    "tags": [
+      "rap"
+    ],
+    "title": "Ніч",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1poFDS5o3Z6KuYT5fl0KDZ"
   }
 ]
