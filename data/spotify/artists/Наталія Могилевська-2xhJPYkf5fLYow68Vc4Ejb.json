@@ -861,5 +861,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3b8duOE26bKKdK3NxViKFj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-18T20:26:13.480Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Наталія Могилевська",
+      "SAMCHUK"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739f67b7a3b69a5b9901281783",
+    "releaseDate": "2026-02-18",
+    "tags": [],
+    "title": "Снігопадами",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1HXG4EPJHuHmbQsZmR6qi7"
   }
 ]
