@@ -118,5 +118,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/15oqdPBMYD8MOz94xtiJ1v"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-18T19:35:45.942Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kishe",
+      "Belaha"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bbbeb67a6ab980a4fe86c40c",
+    "releaseDate": "2019-11-04",
+    "tags": [],
+    "title": "Цю ніч (Belaha Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0fyS7msiZeAZ0lqjXiPQRj"
   }
 ]
