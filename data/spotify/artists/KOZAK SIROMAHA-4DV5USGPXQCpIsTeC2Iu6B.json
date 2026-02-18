@@ -95,12 +95,16 @@
       {
         "time": "2026-02-17T10:35:19.522Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-02-18T10:33:24.841Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "KOZAK SIROMAHA"
     ],
-    "artistsPopularity": 44,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c5ad66456a25aef811acab76",
     "releaseDate": "2025-06-12",
     "tags": [
