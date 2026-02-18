@@ -517,12 +517,16 @@
       {
         "time": "2025-12-10T11:24:18.354Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-02-18T11:31:04.578Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Gaitana"
     ],
-    "artistsPopularity": 32,
+    "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e05dbc193cf30c56afe898a1",
     "releaseDate": "2018-07-13",
     "title": "Te Amo",

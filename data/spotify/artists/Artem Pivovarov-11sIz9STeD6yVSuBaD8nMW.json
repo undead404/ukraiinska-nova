@@ -1721,5 +1721,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5n8as9gWWQBfpOxS4OVNyB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-18T11:29:42.350Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Artem Pivovarov"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733a64ab5b6bf2e02c953ce3de",
+    "releaseDate": "2026-02-17",
+    "tags": [
+      "folk",
+      "pop"
+    ],
+    "title": "8 диво",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4YKMi0o3WJ0QUEbMbmBZo0"
   }
 ]
