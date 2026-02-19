@@ -173,5 +173,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4KEnnogl7eGhRGmZ4IOEHq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-19T00:54:35.778Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "СТАСІК"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273523122c53868f3415148e695",
+    "releaseDate": "2026-02-18",
+    "tags": [
+      "folk"
+    ],
+    "title": "Звір",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4ZOXajFvdbNZca2FlhpxlY"
   }
 ]
