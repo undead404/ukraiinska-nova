@@ -980,5 +980,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6wfcBDmcwqRFpL2r0dsFbF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-19T11:32:09.000Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lely45",
+      "Культурні сили"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cbc7e927a7224324e7269133",
+    "releaseDate": "2026-02-19",
+    "tags": [
+      "pop"
+    ],
+    "title": "У смерті плани",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5KeMC1gDpPQeqLAOf0PjzE"
   }
 ]
