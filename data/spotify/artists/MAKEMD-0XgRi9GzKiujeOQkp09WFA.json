@@ -893,5 +893,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2MPP7vukPLSOLnRFuWQWaN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-19T03:20:58.422Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MAKEMD"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27325f6c499df67fdedc7f677c0",
+    "releaseDate": "2026-02-18",
+    "tags": [
+      "techno"
+    ],
+    "title": "No Batidão (Melodic Techno Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3bRUszlwJFM8XZmUaVvKAt"
   }
 ]
