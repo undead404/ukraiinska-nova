@@ -935,5 +935,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/20758m1PPHGnyqXxHXs7NB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-19T20:22:55.136Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Кульпарківська"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730f0807ac851a7b52174ce915",
+    "releaseDate": "2026-02-19",
+    "tags": [
+      "rap",
+      "underground hip-hop"
+    ],
+    "title": "тест",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7I7JEHcg9Cli8WMVv1RxdL"
   }
 ]

@@ -245,5 +245,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/25DppFA1YXekZBaKpwsima"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-19T20:27:56.857Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diana Gloster",
+      "Geed"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27311e18404948e7a235b2584b4",
+    "releaseDate": "2026-02-19",
+    "tags": [
+      "pop"
+    ],
+    "title": "Без Дощу",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0vNMbIGdlXQFrvd0Tvo4EH"
   }
 ]
