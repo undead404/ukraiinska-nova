@@ -501,5 +501,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6u8XZjrkWqJXsLUsyq1gru"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-19T23:29:01.828Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Svat",
+      "PASKUDNYK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a85da6aafc52f8464e3e7fa0",
+    "releaseDate": "2026-02-20",
+    "tags": [],
+    "title": "Why",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1xBVINUQiVJayXTnJKXAx1"
   }
 ]
