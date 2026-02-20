@@ -1544,5 +1544,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5GCsXjytZnwcqjfilwt4m4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-20T10:32:15.974Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Shnaps",
+      "Monokiss"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732da98581cbdb5055dc0ec556",
+    "releaseDate": "2026-02-20",
+    "tags": [],
+    "title": "Мінімал мінімал",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2x9Al3Azk4GrE3qojGTXb9"
   }
 ]
