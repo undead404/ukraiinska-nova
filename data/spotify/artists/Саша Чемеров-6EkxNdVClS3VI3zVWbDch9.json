@@ -6,9 +6,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sasha Chemerov"
-    ],
+    "artists": ["Sasha Chemerov"],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735778baf81741f21b7c4f7cea",
     "releaseDate": "2025-06-27",
@@ -25,17 +23,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Гоня",
-      "Sasha Chemerov",
-      "Yaski"
-    ],
+    "artists": ["Гоня", "Sasha Chemerov", "Yaski"],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737675def4d3e639a5b32f5230",
     "releaseDate": "2025-06-13",
-    "tags": [
-      "rap"
-    ],
+    "tags": ["rap"],
     "title": "Диявол в деталях",
     "totalTracks": 1,
     "type": "single",
@@ -48,9 +40,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sasha Chemerov"
-    ],
+    "artists": ["Sasha Chemerov"],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27322818ab531de6001b5a708bb",
     "releaseDate": "2025-05-09",
@@ -67,9 +57,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sasha Chemerov"
-    ],
+    "artists": ["Sasha Chemerov"],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273320eb6df7f3b7c02e640693b",
     "releaseDate": "2025-03-07",
@@ -86,9 +74,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sasha Chemerov"
-    ],
+    "artists": ["Sasha Chemerov"],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27319cf6a997e36ddc859d299bb",
     "releaseDate": "2024-11-29",
@@ -105,9 +91,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sasha Chemerov"
-    ],
+    "artists": ["Sasha Chemerov"],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739f95cdb97cfa2b416affeb33",
     "releaseDate": "2024-11-08",
@@ -124,9 +108,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sasha Chemerov"
-    ],
+    "artists": ["Sasha Chemerov"],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ef051f048bd56ff842766908",
     "releaseDate": "2024-09-13",
@@ -143,9 +125,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sasha Chemerov"
-    ],
+    "artists": ["Sasha Chemerov"],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cfdb4ee8fd95bbb029275bbd",
     "releaseDate": "2024-08-09",
@@ -162,10 +142,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sasha Chemerov",
-      "Fedosov"
-    ],
+    "artists": ["Sasha Chemerov", "Fedosov"],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27346521282f332597c6acc638e",
     "releaseDate": "2024-06-28",
@@ -182,9 +159,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sasha Chemerov"
-    ],
+    "artists": ["Sasha Chemerov"],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27323a60722c98fcb4f8d86758c",
     "releaseDate": "2024-04-26",
@@ -201,9 +176,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sasha Chemerov"
-    ],
+    "artists": ["Sasha Chemerov"],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a7311435711aadedc939dab0",
     "releaseDate": "2024-02-16",
@@ -220,9 +193,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sasha Chemerov"
-    ],
+    "artists": ["Sasha Chemerov"],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ae5aa66d3177b7f1cfc1cb8b",
     "releaseDate": "2023-12-29",
@@ -239,10 +210,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sasha Chemerov",
-      "Культурний Десант"
-    ],
+    "artists": ["Sasha Chemerov", "Культурний Десант"],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730c17ccb17a0bdb3c27525667",
     "releaseDate": "2023-11-21",
@@ -259,16 +227,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sasha Chemerov",
-      "Міша Правильний"
-    ],
+    "artists": ["Sasha Chemerov", "Міша Правильний"],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27398572c131824b374e4aa9164",
     "releaseDate": "2023-08-18",
-    "tags": [
-      "rap"
-    ],
+    "tags": ["rap"],
     "title": "Обійми",
     "totalTracks": 1,
     "type": "single",
@@ -281,17 +244,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sasha Chemerov",
-      "Міша Крупін",
-      "Коля Сєрга"
-    ],
+    "artists": ["Sasha Chemerov", "Міша Крупін", "Коля Сєрга"],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273db036518664b6e807f0d0da6",
     "releaseDate": "2023-06-14",
-    "tags": [
-      "pop"
-    ],
+    "tags": ["pop"],
     "title": "Білгород",
     "totalTracks": 1,
     "type": "single",
@@ -304,17 +261,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sasha Chemerov",
-      "Коля Сєрга",
-      "YARMAK"
-    ],
+    "artists": ["Sasha Chemerov", "Коля Сєрга", "YARMAK"],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b757acd9da2a1aba8522ee98",
     "releaseDate": "2023-05-06",
-    "tags": [
-      "rap"
-    ],
+    "tags": ["rap"],
     "title": "Піхота (Культурний Десант)",
     "totalTracks": 1,
     "type": "single",
@@ -327,9 +278,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sasha Chemerov"
-    ],
+    "artists": ["Sasha Chemerov"],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b40099773e4b25e4724a088b",
     "releaseDate": "2023-02-27",
@@ -346,9 +295,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sasha Chemerov"
-    ],
+    "artists": ["Sasha Chemerov"],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e405dd01eb1cb9cbe0119ef7",
     "releaseDate": "2023-02-20",
@@ -365,9 +312,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sasha Chemerov"
-    ],
+    "artists": ["Sasha Chemerov"],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737ae19fc7b40d5d1b2b0d6136",
     "releaseDate": "2023-01-14",
@@ -384,9 +329,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sasha Chemerov"
-    ],
+    "artists": ["Sasha Chemerov"],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736492d8129520a5c957e9ff3f",
     "releaseDate": "2022-12-21",
@@ -403,9 +346,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sasha Chemerov"
-    ],
+    "artists": ["Sasha Chemerov"],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fba3892edc9c0146f2225ca2",
     "releaseDate": "2022-09-02",
@@ -422,9 +363,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sasha Chemerov"
-    ],
+    "artists": ["Sasha Chemerov"],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273090e6eee9003427ec92f05e0",
     "releaseDate": "2022-06-23",
@@ -441,9 +380,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sasha Chemerov"
-    ],
+    "artists": ["Sasha Chemerov"],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273008c28ecd1df2b3aab1e7ae0",
     "releaseDate": "2022-03-15",
@@ -460,9 +397,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sasha Chemerov"
-    ],
+    "artists": ["Sasha Chemerov"],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f8826483106e5f75e499992d",
     "releaseDate": "2022-03-04",
@@ -479,9 +414,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sasha Chemerov"
-    ],
+    "artists": ["Sasha Chemerov"],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731e2af6ffc3e119b401e06aff",
     "releaseDate": "2022-02-18",
@@ -498,9 +431,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sasha Chemerov"
-    ],
+    "artists": ["Sasha Chemerov"],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273656444caa103aecb74af5515",
     "releaseDate": "2021-11-26",
@@ -517,9 +448,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sasha Chemerov"
-    ],
+    "artists": ["Sasha Chemerov"],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730057d5ec0c0aa6b886dd241b",
     "releaseDate": "2021-11-19",
@@ -536,9 +465,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sasha Chemerov"
-    ],
+    "artists": ["Sasha Chemerov"],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736597c4ead080d34caa458617",
     "releaseDate": "2021-07-30",
@@ -555,17 +482,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sasha Chemerov",
-      "Boombox"
-    ],
+    "artists": ["Sasha Chemerov", "Boombox"],
     "artistsPopularity": 57,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735b39286ed3fb80606fa594b8",
     "releaseDate": "2021-06-11",
-    "tags": [
-      "funk",
-      "Hip-Hop"
-    ],
+    "tags": ["funk", "Hip-Hop"],
     "title": "Любила",
     "totalTracks": 1,
     "type": "single",
@@ -578,9 +499,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sasha Chemerov"
-    ],
+    "artists": ["Sasha Chemerov"],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ea3dd68ee38daab30083a819",
     "releaseDate": "2021-05-14",
@@ -597,16 +516,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Харфанг"
-    ],
+    "artists": ["Харфанг"],
     "artistsPopularity": 38,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732f11ed7313fe8ceec9258d2a",
     "releaseDate": "2025-08-28",
-    "tags": [
-      "hip hop",
-      "rap"
-    ],
+    "tags": ["hip hop", "rap"],
     "title": "Джерело",
     "totalTracks": 11,
     "type": "album",
@@ -619,9 +533,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Igor Kirilenko"
-    ],
+    "artists": ["Igor Kirilenko"],
     "artistsPopularity": 12,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735f818e09f98bb3ac392a8b83",
     "releaseDate": "2021-12-10",
@@ -638,15 +550,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Hidden Element"
-    ],
+    "artists": ["Hidden Element"],
     "artistsPopularity": 13,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732bbd8ae603b15e815d215bff",
     "releaseDate": "2023-06-27",
-    "tags": [
-      "electronic"
-    ],
+    "tags": ["electronic"],
     "title": "Differences",
     "totalTracks": 7,
     "type": "single",
@@ -659,9 +567,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Igor Kirilenko"
-    ],
+    "artists": ["Igor Kirilenko"],
     "artistsPopularity": 12,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27391658594e54fdd1bcf37ddfe",
     "releaseDate": "2021-05-23",
@@ -678,9 +584,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Danskiy"
-    ],
+    "artists": ["Danskiy"],
     "artistsPopularity": 10,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273942ae00cff485d9127caa9b5",
     "releaseDate": "2024-10-10",
@@ -697,9 +601,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Культурні сили"
-    ],
+    "artists": ["Культурні сили"],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27302889c7dc9d56abdea26b520",
     "releaseDate": "2025-11-07",
@@ -716,17 +618,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sasha Chemerov",
-      "Гоня",
-      "Культурні сили"
-    ],
+    "artists": ["Sasha Chemerov", "Гоня", "Культурні сили"],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27334b5896a346544e2c9741957",
     "releaseDate": "2025-11-11",
-    "tags": [
-      "rap"
-    ],
+    "tags": ["rap"],
     "title": "Божою милістю",
     "totalTracks": 1,
     "type": "single",
@@ -739,17 +635,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Міша Правильний",
-      "Культурні сили",
-      "Sasha Chemerov"
-    ],
+    "artists": ["Міша Правильний", "Культурні сили", "Sasha Chemerov"],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731ce42cb29c072ffe07e1bd4a",
     "releaseDate": "2025-12-02",
-    "tags": [
-      "rap"
-    ],
+    "tags": ["rap"],
     "title": "92-е життя",
     "totalTracks": 1,
     "type": "single",
@@ -770,16 +660,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Третя Штурмова",
-      "Sasha Chemerov"
-    ],
+    "artists": ["Третя Штурмова", "Sasha Chemerov"],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27338075a52de67a5d112bd65dc",
     "releaseDate": "2025-12-05",
-    "tags": [
-      "rock"
-    ],
+    "tags": ["rock"],
     "title": "Я націоналіст",
     "totalTracks": 1,
     "type": "single",
@@ -792,15 +677,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "BAH.ROMA"
-    ],
+    "artists": ["BAH.ROMA"],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27375e2a22025ef0b090aa61de0",
     "releaseDate": "2025-12-05",
-    "tags": [
-      "pop"
-    ],
+    "tags": ["pop"],
     "title": "Готель \"Надія\"",
     "totalTracks": 10,
     "type": "album",
@@ -815,17 +696,17 @@
       {
         "time": "2026-01-04T14:21:20.736Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-02-20T14:28:18.298Z",
+        "type": "FOUND"
       }
     ],
-    "artists": [
-      "Третя Штурмова"
-    ],
+    "artists": ["Третя Штурмова"],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738e4907d74dfd9d0d48b731e4",
     "releaseDate": "2025-12-05",
-    "tags": [
-      "rock"
-    ],
+    "tags": ["rock"],
     "title": "Camp3",
     "totalTracks": 6,
     "type": "single",
@@ -838,17 +719,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Юля Юріна",
-      "Sasha Chemerov",
-      "Культурні сили"
-    ],
+    "artists": ["Юля Юріна", "Sasha Chemerov", "Культурні сили"],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27336ce651427fb28f0038b284c",
     "releaseDate": "2026-02-10",
-    "tags": [
-      "folk"
-    ],
+    "tags": ["folk"],
     "title": "Боги війни",
     "totalTracks": 1,
     "type": "single",
