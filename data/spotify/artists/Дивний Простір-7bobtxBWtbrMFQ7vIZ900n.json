@@ -194,12 +194,20 @@
       {
         "time": "2025-09-19T20:24:02.129Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-16T20:22:07.054Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-02-17T20:23:13.505Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Дивний Простір"
     ],
-    "artistsPopularity": 11,
+    "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735a8d1248b5abc410c34023ec",
     "releaseDate": "2023-03-12",
     "tags": [],
@@ -213,12 +221,20 @@
       {
         "time": "2025-09-19T20:24:02.129Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-16T20:22:07.054Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-02-17T20:23:13.505Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Дивний Простір"
     ],
-    "artistsPopularity": 11,
+    "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d1cf8cf6142458cf453881f1",
     "releaseDate": "2023-02-07",
     "tags": [],
@@ -232,12 +248,20 @@
       {
         "time": "2025-09-19T20:24:02.129Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-16T20:22:07.054Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-02-17T20:23:13.505Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Дивний Простір"
     ],
-    "artistsPopularity": 11,
+    "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b52bffa508a9c3c4f4db7dc5",
     "releaseDate": "2022-10-03",
     "tags": [],
@@ -245,5 +269,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4d3aIpnWRIE0mot0T32qtx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-07T20:21:31.055Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Дивний Простір"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27384f21b42dbbffb81b6dbd978",
+    "releaseDate": "2026-02-07",
+    "tags": [],
+    "title": "Сімсот пісень у шести треках",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/62MsKtR2SufXdQ6dEkz5HN"
   }
 ]

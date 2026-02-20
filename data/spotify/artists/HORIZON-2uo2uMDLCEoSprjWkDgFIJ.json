@@ -2056,5 +2056,28 @@
     "totalTracks": 20,
     "type": "album",
     "url": "https://open.spotify.com/album/0rmVpSvg1EgjOQDwuJsUMQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-07T03:13:34.287Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "HORIZON",
+      "Kris Gara"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738aa9ce0599bb9aea657c1020",
+    "releaseDate": "2026-02-06",
+    "tags": [
+      "hardcore",
+      "Stoner Rock"
+    ],
+    "title": "Ти зробиш це",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7FBQbGvcot1jxmuVottDes"
   }
 ]

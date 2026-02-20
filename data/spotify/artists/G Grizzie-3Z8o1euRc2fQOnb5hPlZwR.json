@@ -615,5 +615,25 @@
     "totalTracks": 16,
     "type": "album",
     "url": "https://open.spotify.com/album/67dz18wFZkgP3gTjaqxegg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T17:34:01.995Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "G Grizzie",
+      "Yungreedy1"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27343e91b401589b809817acce2",
+    "releaseDate": "2026-02-13",
+    "tags": [],
+    "title": "Plug Life II (Yungreedy1 Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5iWuaZSytnNVkerN1hS168"
   }
 ]

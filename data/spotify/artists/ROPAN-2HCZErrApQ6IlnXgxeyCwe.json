@@ -1301,5 +1301,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7kzEPi2BIyZsHDXWjopwS2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T18:34:54.373Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROPAN"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273efd9eb2c8d1d445d34c8ef61",
+    "releaseDate": "2026-01-29",
+    "tags": [
+      "dub",
+      "reggae",
+      "dancehall",
+      "rap"
+    ],
+    "title": "Вікно",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/17zUaHPAYF0atcgEodPJ0H"
   }
 ]

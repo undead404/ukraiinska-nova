@@ -525,5 +525,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2WzzPOT9CsxCTWpEylG8CO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-20T08:26:07.312Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Денис Главацький",
+      "Інна Главацька"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27308308a5fc36f8ef1701c0f83",
+    "releaseDate": "2026-02-18",
+    "tags": [
+      "folk pop"
+    ],
+    "title": "Келих кохання",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0Rxxgljdt1FPj6o6SbdOZ1"
   }
 ]

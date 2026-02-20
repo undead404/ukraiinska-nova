@@ -219,5 +219,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0R2CX8P3BApDI9PIM9mPYG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T00:56:43.953Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TAB"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d659bb3cc3c9c987408c28c9",
+    "releaseDate": "2026-02-05",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Ой чи є чи нема",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4409BsURJIeXVTFVhBoSmX"
   }
 ]

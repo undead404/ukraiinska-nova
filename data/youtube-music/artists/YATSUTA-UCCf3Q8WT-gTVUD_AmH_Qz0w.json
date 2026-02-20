@@ -232,6 +232,10 @@
       {
         "time": "2025-10-16T20:49:08.340Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-03T20:59:24.541Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -416,5 +420,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nfMD20qknSEY4fmxHLuYWtGE3ej0EW9cg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-03T20:59:24.542Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YATSUTA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/TGEwn71UYk5KunGoJ6qeMH0uqKIwusBMjKf5UJH6Lg3hvxfUGUlZuQY4iMERykzEzPxKZUX0ITmvNOTq=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [],
+    "title": "Щекавиця",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k1YbODBopxAvQ0blBMz2bgM_hGZqvc0NM"
   }
 ]

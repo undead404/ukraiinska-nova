@@ -404,5 +404,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/56zMyHOwU5ob3QSQbaL7iv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T04:53:57.305Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Acid Flame"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739a525337e1e35e9278aad9d8",
+    "releaseDate": "2026-02-09",
+    "tags": [],
+    "title": "Druha Nochi",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1FIG6Er2EMktPMPAnkWJ31"
   }
 ]

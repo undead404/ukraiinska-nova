@@ -331,6 +331,10 @@
       {
         "time": "2026-01-29T22:26:02.230Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T22:24:24.140Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -346,6 +350,30 @@
       "rap"
     ],
     "title": "Хорт. Перший Характерник (Supported by UCF)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/128356sMqZtCNiKfgLQY7X"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T22:24:24.140Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Chronicles of Power",
+      "Fahot"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27329ca0347b937ad3f781d865c",
+    "releaseDate": "2025-08-28",
+    "tags": [
+      "funk",
+      "pop",
+      "rap"
+    ],
+    "title": "Khort. Who was the first? (Supported by UCF)",
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/128356sMqZtCNiKfgLQY7X"

@@ -390,5 +390,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/70xcGE515etdEXFKJT6Sps"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-19T20:30:20.589Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Shmiska"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ec06b6bedbb0b3fd9080a1d4",
+    "releaseDate": "2026-02-19",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Лялька",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7JFW2gDgbDxIp1tE81eQXd"
   }
 ]

@@ -174,5 +174,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1DvajV6BGB6WKLA5iZo5GB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T07:37:35.794Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Mozee Fee"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738ccee7a63e67a10cfe7200bd",
+    "releaseDate": "2026-02-13",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "Одна на двох",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6JUdmNAYMl28hlle33jYBi"
   }
 ]

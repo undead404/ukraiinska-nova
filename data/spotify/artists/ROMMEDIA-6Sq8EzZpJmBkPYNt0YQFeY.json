@@ -41,6 +41,10 @@
       {
         "time": "2026-01-20T09:28:24.613Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-06T09:34:06.181Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -195,6 +199,10 @@
       {
         "time": "2025-10-26T09:25:09.126Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-13T09:33:49.931Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -391,5 +399,104 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6tJ2fhVFvtV0gyX5DGq87J"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-31T09:27:38.737Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROMMEDIA"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734e0c93928041615d670b9806",
+    "releaseDate": "2026-01-28",
+    "tags": [],
+    "title": "Сірі очі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5UK8TdTCCsMxy3ZJAJyb7l"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T09:34:06.181Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROMMEDIA",
+      "REZUS"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ee34e1b0195d86091337fb5c",
+    "releaseDate": "2026-02-06",
+    "tags": [],
+    "title": "Ідеально моя",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/31A4XOFZ5cB2MT6y1PyDkA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T09:34:06.181Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Dubky",
+      "QANO",
+      "ROMMEDIA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730d72df42bb3a99f5b8529101",
+    "releaseDate": "2023-12-22",
+    "tags": [],
+    "title": "Не любиш (QANO & ROMMEDIA remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3uwfRTKFWOstQvmgOoi94Z"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-10T09:40:00.474Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROMMEDIA"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a6499f1e9f0e8b48905fe164",
+    "releaseDate": "2026-02-08",
+    "tags": [],
+    "title": "Рівнем вище",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7Jp5PBlM66QxbGtzhQ2vwS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-20T09:32:37.607Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROMMEDIA",
+      "REZUS"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cb62cd29e32787083ae821d3",
+    "releaseDate": "2026-02-20",
+    "tags": [],
+    "title": "Гріх на сповіді",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0d0ywVeH23zNfI47oRuEoA"
   }
 ]

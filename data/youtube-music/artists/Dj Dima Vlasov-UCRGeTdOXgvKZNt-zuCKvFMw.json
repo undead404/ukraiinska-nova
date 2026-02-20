@@ -226,5 +226,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_meganSNssqqyj5svAtkHpxIXwq1sv1MrA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-01T02:35:31.467Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Dj Dima Vlasov"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/n2-fkzfcHdNagK4ch_H4aLYGuXfh1dbzST1zD6yufr6zO8ctIBe5VOdIzvGs4V5J_YLbyV5MKVA8NYBE=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Siren Call",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nR4wGd3xRpGU87zv919b-EX4twWMu9CJc"
   }
 ]

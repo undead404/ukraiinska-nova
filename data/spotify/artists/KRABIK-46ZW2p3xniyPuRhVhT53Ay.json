@@ -269,5 +269,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0CvDOOQsCSIPDllRi0RY2U"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-10T18:42:05.899Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KRABIK"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730fd6e42144da0f76eefd9bc1",
+    "releaseDate": "2026-02-10",
+    "tags": [],
+    "title": "Тільки ти",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1bSrCDXgBat78HoXP2JSHy"
   }
 ]

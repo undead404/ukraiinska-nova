@@ -74,5 +74,24 @@
     "totalTracks": 8,
     "type": "album",
     "url": "https://open.spotify.com/album/4EK06M48xqh4KjP4QQxyod"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-16T00:56:19.108Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kasania"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d5213c3fbb6eacab8f1a6c07",
+    "releaseDate": "2026-02-15",
+    "tags": [],
+    "title": "Карантин",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0GmcdocZRhi1glVW6Haoyn"
   }
 ]

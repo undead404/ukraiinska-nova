@@ -885,6 +885,10 @@
       {
         "time": "2026-01-28T12:25:23.021Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T12:27:07.360Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -907,6 +911,10 @@
       {
         "time": "2026-01-29T12:26:57.674Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-04T12:28:57.565Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -923,5 +931,49 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3QEnfFhJ7iUt3sZ9cyH5sK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T12:28:32.063Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Adam"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369c22569ea0d967247c74c21",
+    "releaseDate": "2026-02-13",
+    "tags": [
+      "dark electro",
+      "ebm"
+    ],
+    "title": "Сильно Сильно",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5dtWBQwt2JA97t7C2z18lH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-15T12:25:08.801Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Adam"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27353c9c9593be7e1ab02479657",
+    "releaseDate": "2026-02-15",
+    "tags": [
+      "dark electro",
+      "ebm"
+    ],
+    "title": "Faded",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3flrRV4xaKEaW2pR2VeUwN"
   }
 ]

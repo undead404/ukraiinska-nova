@@ -456,5 +456,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4G6NrG8wJQBYKaCGGtctzi"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T08:35:23.885Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Viktor Pasko"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273236a2a5ef0906dbbe5c814c7",
+    "releaseDate": "2026-02-13",
+    "tags": [],
+    "title": "Маяк",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1hlLUhIeLYwcYnh5C1wyVM"
   }
 ]

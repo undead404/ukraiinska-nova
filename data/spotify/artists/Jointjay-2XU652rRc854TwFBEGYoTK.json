@@ -905,6 +905,14 @@
       {
         "time": "2025-11-28T20:28:29.871Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T20:29:31.328Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-02-18T20:30:10.590Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -946,6 +954,10 @@
       {
         "time": "2025-12-15T20:27:45.541Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-02-18T20:30:10.590Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -971,6 +983,10 @@
       {
         "time": "2025-11-07T20:27:46.329Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-02-18T20:30:10.590Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -994,6 +1010,10 @@
       {
         "time": "2025-10-10T20:26:42.371Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-02-18T20:30:10.590Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1136,5 +1156,27 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/47qToUabIXOHvyNzQOc49G"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T20:29:31.329Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Pero Culture Crew",
+      "Jointjay"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737f80c1396aa03fbe64a8e9d3",
+    "releaseDate": "2026-01-30",
+    "tags": [
+      "rap"
+    ],
+    "title": "Donate Flow",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5UvuXxTBgZJidk0Jfr90H1"
   }
 ]

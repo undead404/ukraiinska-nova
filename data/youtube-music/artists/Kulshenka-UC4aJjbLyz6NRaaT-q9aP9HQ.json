@@ -460,5 +460,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mJWLB_WwDeKhT6ryrDYtzKTObuvdY-DDQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-03T22:55:25.433Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kulshenka"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/Pjkvq8EPNfltuGaOAB8BtvRgY0wBZmfCqHSjGAszaZYs_svlo0yMNo7NzWoFwIhrR3ppjENaPpAIDTU=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Меланхолія",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lZuuF1QJPUxGKeV_jls0l-RLoQ_61y94A"
   }
 ]

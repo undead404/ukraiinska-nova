@@ -883,6 +883,10 @@
       {
         "time": "2025-09-18T18:27:28.419Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T18:32:49.105Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -919,5 +923,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/15hmzDoHYE3wFvef45hDgp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T18:32:49.106Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kozak System"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a8b372bb0f9909acda97e829",
+    "releaseDate": "2026-01-29",
+    "tags": [
+      "folk rock"
+    ],
+    "title": "Вино",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4rYgZpvSB685qV4dolXToP"
   }
 ]

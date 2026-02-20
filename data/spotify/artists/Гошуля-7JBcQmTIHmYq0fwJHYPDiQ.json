@@ -669,5 +669,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5DCOsiJxPLRWz0I7YP5XmM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T05:36:16.992Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гошуля"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aca69b88c40d6b70d1de6d91",
+    "releaseDate": "2026-02-05",
+    "tags": [],
+    "title": "Соул",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7xc4NhJFzcKoZsUDcTlWrT"
   }
 ]

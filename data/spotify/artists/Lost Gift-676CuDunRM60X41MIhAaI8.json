@@ -709,5 +709,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7kKAnHvpIFUlXPgtS9qIf0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T14:33:05.384Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lost Gift"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ff51ad7a3a71811569447c90",
+    "releaseDate": "2026-02-12",
+    "tags": [
+      "indie pop",
+      "indie rock"
+    ],
+    "title": "Colosseum",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1IEa3I9UkRIkjxG9Wd0hgK"
   }
 ]

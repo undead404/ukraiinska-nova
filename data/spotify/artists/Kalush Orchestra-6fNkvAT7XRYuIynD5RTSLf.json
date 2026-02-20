@@ -551,5 +551,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/04roq2VNOB4cK5h7cwaQ7M"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T12:30:52.563Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kalush Orchestra"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a382251892a1b534dbc088e4",
+    "releaseDate": "2026-02-12",
+    "tags": [
+      "rap"
+    ],
+    "title": "Кароока",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4XFjpLTwBHNkPFuJcE59me"
   }
 ]

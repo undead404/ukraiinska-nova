@@ -926,12 +926,20 @@
       {
         "time": "2025-09-18T18:27:03.848Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-06T18:36:00.728Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-02-11T18:38:49.992Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Nodiggity"
     ],
-    "artistsPopularity": 3,
+    "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735a682b5bbbd221ea907db444",
     "releaseDate": "2023-10-03",
     "tags": [],
@@ -945,6 +953,10 @@
       {
         "time": "2025-09-18T18:27:03.848Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-11T18:38:49.992Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -967,6 +979,10 @@
       {
         "time": "2025-09-18T18:27:03.848Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T18:31:11.590Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1137,5 +1153,49 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2oBBx0bt9Ly2cAJeBa7NAW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T18:31:11.591Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KA$A",
+      "Diss One",
+      "ХудийJointt"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e29980eff641acd61a5e2ed1",
+    "releaseDate": "2026-01-30",
+    "tags": [
+      "rap"
+    ],
+    "title": "Місто",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3Psn321ocjR7FkEnkSWJCh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T18:36:00.729Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27318383925ca6321169ac56544",
+    "releaseDate": "2026-02-06",
+    "tags": [
+      "rap"
+    ],
+    "title": "Хай судять",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5qJFDnVYMbE1IT8Jti3XqX"
   }
 ]

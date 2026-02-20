@@ -219,6 +219,10 @@
       {
         "time": "2025-12-19T10:28:39.043Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-02-05T10:35:41.040Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -777,6 +781,10 @@
       {
         "time": "2025-09-27T10:26:01.797Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-01T10:29:02.155Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1195,6 +1203,14 @@
       {
         "time": "2025-12-31T10:28:55.431Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-01T10:29:02.155Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-02-05T10:35:41.040Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1221,6 +1237,18 @@
       {
         "time": "2025-12-19T10:28:39.043Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-31T10:29:06.767Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-02-01T10:29:02.155Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-02-05T10:35:41.040Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1247,6 +1275,18 @@
       {
         "time": "2025-12-19T10:28:39.043Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-31T10:29:06.767Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-02-01T10:29:02.155Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-02-05T10:35:41.040Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1272,6 +1312,18 @@
       {
         "time": "2025-12-19T10:28:39.043Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-31T10:29:06.767Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-02-01T10:29:02.155Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-02-05T10:35:41.040Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1295,6 +1347,18 @@
       {
         "time": "2025-12-19T10:28:39.043Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-31T10:29:06.767Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-02-01T10:29:02.155Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-02-05T10:35:41.040Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1318,6 +1382,18 @@
       {
         "time": "2025-12-19T10:28:39.043Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-31T10:29:06.767Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-02-01T10:29:02.155Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-02-05T10:35:41.040Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1343,6 +1419,18 @@
       {
         "time": "2025-12-19T10:28:39.043Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-31T10:29:06.767Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-02-01T10:29:02.155Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-02-05T10:35:41.040Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1369,6 +1457,18 @@
       {
         "time": "2025-12-19T10:28:39.043Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-01-31T10:29:06.767Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-02-01T10:29:02.155Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-02-05T10:35:41.040Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1406,5 +1506,63 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/01jwup2iTfLONNRM9putoB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-31T10:29:06.767Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Shnaps"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732119e11a26d82ff1b95916f3",
+    "releaseDate": "2026-01-30",
+    "tags": [],
+    "title": "Danсing shadows",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6H4EJTahKrrEPXrKyDRjKo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-31T10:29:06.767Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Shnaps"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738da088ead3ba93a910898b53",
+    "releaseDate": "2026-01-26",
+    "tags": [],
+    "title": "Ніч на ніч",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5GCsXjytZnwcqjfilwt4m4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-20T10:32:15.974Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Shnaps",
+      "Monokiss"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732da98581cbdb5055dc0ec556",
+    "releaseDate": "2026-02-20",
+    "tags": [],
+    "title": "Мінімал мінімал",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2x9Al3Azk4GrE3qojGTXb9"
   }
 ]

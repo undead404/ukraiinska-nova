@@ -228,5 +228,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6SMOdAU2fijEk8B5MfFZPk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-19T16:33:50.932Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "iSKra"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733baeb604145b285ae2dee090",
+    "releaseDate": "2026-02-19",
+    "tags": [
+      "Crust",
+      "blackened crust",
+      "black metal"
+    ],
+    "title": "На межі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1eOwPt7jthkLLdoFvCgHSA"
   }
 ]

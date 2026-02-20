@@ -337,5 +337,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k9d13bSFK-xbk9pfQsow8tnHn79LtB5sQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-03T11:00:22.731Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Bulvar Lu"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/cH_QGiCSPFMWzXaFCYceSLjksGR0SzQ74WPjb_7fxcKhPwbjgZ8OerzYvOl63Hix4jEmAo9FP8Og_Ilz=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Ти і я",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nhxAxqOyysKtKC13jp2VPm7R_3nEyjzgM"
   }
 ]

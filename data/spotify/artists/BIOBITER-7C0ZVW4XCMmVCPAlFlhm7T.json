@@ -269,5 +269,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/76VBe7UiU9jbQbUcasH7Ep"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-14T01:54:16.544Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BIOBITER"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a3544933d99b2fbd37ce9d63",
+    "releaseDate": "2026-02-13",
+    "tags": [],
+    "title": "Захворіла",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6QGFlcbzNOFFQMglXhWJxq"
   }
 ]

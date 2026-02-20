@@ -982,5 +982,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3WgVhd8UQk2Y0J9niH8QIO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-14T00:56:27.686Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Tricky Nicki"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a1001c0d68213e316060e5d0",
+    "releaseDate": "2026-02-13",
+    "tags": [
+      "rap",
+      "Hip-Hop"
+    ],
+    "title": "GAS ME UP",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5TtpYkyujnuQ6ont80ggg5"
   }
 ]

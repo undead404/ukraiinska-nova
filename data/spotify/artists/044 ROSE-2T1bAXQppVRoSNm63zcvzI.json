@@ -1502,5 +1502,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6xQ6MqSKdxwXGVrYCpx0PX"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T23:22:30.430Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "РОКС",
+      "044 ROSE"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732508a30c2d90a406b1fa5e4b",
+    "releaseDate": "2026-02-13",
+    "tags": [
+      "rap"
+    ],
+    "title": "Интернет-игрушка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6ZRpRk9j9pklf9tOYFuafC"
   }
 ]

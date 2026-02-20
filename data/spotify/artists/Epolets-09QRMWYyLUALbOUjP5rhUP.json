@@ -768,5 +768,26 @@
     "totalTracks": 13,
     "type": "album",
     "url": "https://open.spotify.com/album/6V0M1F1qXh1unA47puURwG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T10:28:56.917Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Epolets"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a07c1b4b5508f6c1adfe178e",
+    "releaseDate": "2026-02-06",
+    "tags": [
+      "rock"
+    ],
+    "title": "уревнощах",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4sXMPceoHkPvwZLHtoClhm"
   }
 ]

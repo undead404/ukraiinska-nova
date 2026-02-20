@@ -86,5 +86,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4PkeS1uMhQeeO8sd0WBLXw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T21:26:17.195Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DRUD"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738dbf679ad1e018013bfd4348",
+    "releaseDate": "2026-02-06",
+    "tags": [
+      "black metal",
+      "Post-Black Metal"
+    ],
+    "title": "EDEM",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2FJyPAS7joBTznQmfBHKfZ"
   }
 ]

@@ -229,5 +229,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3qslhNdwfOCm7du94hFljI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T17:30:57.822Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Krasna Tysha"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e466d5ad30160b08e7c185c8",
+    "releaseDate": "2026-01-29",
+    "tags": [],
+    "title": "Сніг",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3VQos27u5Vj8R47AFso59E"
   }
 ]

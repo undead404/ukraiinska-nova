@@ -916,5 +916,27 @@
     "totalTracks": 9,
     "type": "album",
     "url": "https://open.spotify.com/album/2YBfDbR87Nw2h7EWorBQzK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T09:27:38.994Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BURLA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bbe61f7c16c80d862cdefb6d",
+    "releaseDate": "2026-01-30",
+    "tags": [
+      "Hip-Hop",
+      "rap"
+    ],
+    "title": "Гіпнози",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1bx8LIgRJdVgOWHiTEdSSH"
   }
 ]

@@ -1978,5 +1978,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/38VVZMHk05wqfqCnLzhy8m"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-01T05:46:10.301Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Людмила Клименко",
+      "Ruslan Nota"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27312be5c022115835c07e62e91",
+    "releaseDate": "2026-01-29",
+    "tags": [],
+    "title": "Хлопців рота (Ruslan Nota Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1dXZN0o6SDRuQlRV6KCsQp"
   }
 ]

@@ -1515,5 +1515,26 @@
     "totalTracks": 11,
     "type": "album",
     "url": "https://open.spotify.com/album/78NrZeANBFzSjsHHNog5Ps"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T20:24:17.220Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Міша Правильний"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273341db5d9e0a7b1b7a03201e2",
+    "releaseDate": "2026-01-30",
+    "tags": [
+      "rap"
+    ],
+    "title": "Дуже сумна щемлива пісня про любов",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5VCiPTNVdHO4123PyzYN8i"
   }
 ]

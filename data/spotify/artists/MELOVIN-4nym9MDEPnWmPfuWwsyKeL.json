@@ -899,5 +899,26 @@
     "totalTracks": 9,
     "type": "album",
     "url": "https://open.spotify.com/album/74IoPnaj6H1cBBygS8dDMt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-19T19:34:29.217Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MELOVIN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739da0c6c1b4dd262fc1fba4c9",
+    "releaseDate": "2026-02-19",
+    "tags": [
+      "pop"
+    ],
+    "title": "MRoom13 (Deluxe Edition)",
+    "totalTracks": 16,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6jG5iVKJ9D2qtCeuBlvLNs"
   }
 ]

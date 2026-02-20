@@ -173,5 +173,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0JwxdnpAfxIoNLfT0nc7VI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T05:41:34.498Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Холодне Сонце"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735b8e20c544770857f5534519",
+    "releaseDate": "2026-02-12",
+    "tags": [
+      "Gothic Rock",
+      "Love Metal"
+    ],
+    "title": "Відчуваю",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6UaEx2fVNhJhmq9azSHv19"
   }
 ]

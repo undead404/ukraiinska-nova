@@ -392,5 +392,28 @@
     "totalTracks": 8,
     "type": "single",
     "url": "https://open.spotify.com/album/1E7qujDwdpQq7Ovu5HxVmf"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T16:32:42.148Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lasta",
+      "Damari"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a2025420c80065e91990d376",
+    "releaseDate": "2024-06-15",
+    "tags": [
+      "Hip-Hop",
+      "underground hip-hop"
+    ],
+    "title": "Натюрморт",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5t2bnuoCsTIjstoPUpfi3a"
   }
 ]

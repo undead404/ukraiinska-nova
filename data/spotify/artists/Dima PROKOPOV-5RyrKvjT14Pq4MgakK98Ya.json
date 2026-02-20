@@ -742,5 +742,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/02ZbCFov4L6q7SpfHeGVuw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T10:28:13.856Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Dima PROKOPOV",
+      "The Faino"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273efe499422d9b15fd345e0dd2",
+    "releaseDate": "2026-02-06",
+    "tags": [],
+    "title": "Зробіть гучніше (The Faino Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4wQrZuBoNHQGHS4QVxLGLN"
   }
 ]

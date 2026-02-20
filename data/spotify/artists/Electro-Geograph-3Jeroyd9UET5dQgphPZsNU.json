@@ -136,5 +136,26 @@
     "totalTracks": 10,
     "type": "album",
     "url": "https://open.spotify.com/album/2TuI9bclQ1dUiPcEcJJJRZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T10:25:57.244Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Richard Gonfrier",
+      "Ana Danch",
+      "Electro-Geograph"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738e97a2144698851de9889ac6",
+    "releaseDate": "2026-01-30",
+    "tags": [],
+    "title": "Take Me To New York (Electro-Geograph Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5e9ctBVgSR7E1l6aOEnh2E"
   }
 ]

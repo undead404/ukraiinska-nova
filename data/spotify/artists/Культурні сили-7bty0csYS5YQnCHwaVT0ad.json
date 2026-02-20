@@ -380,5 +380,119 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/21oTwLLxsQqsMjxjHYKoL0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T03:13:15.366Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "REMEZ",
+      "Культурні сили"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab5990140be9129bb3de1d5b",
+    "releaseDate": "2026-02-03",
+    "tags": [],
+    "title": "Chaplain",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1wQDarei5cKqlkBKhtRf7u"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-11T03:20:21.576Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-02-12T03:19:00.260Z",
+        "type": "LOST"
+      }
+    ],
+    "artists": [
+      "Юля Юріна",
+      "Культурні сили"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273103d828751011aa0c2048c86",
+    "releaseDate": "2026-02-10",
+    "tags": [
+      "folk"
+    ],
+    "title": "Боги війни",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6l9cV5AB2pqKXLtRYC0Qrr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T03:19:00.260Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Юля Юріна",
+      "Sasha Chemerov",
+      "Культурні сили"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27336ce651427fb28f0038b284c",
+    "releaseDate": "2026-02-10",
+    "tags": [
+      "folk"
+    ],
+    "title": "Боги війни",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6l9cV5AB2pqKXLtRYC0Qrr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T03:19:11.811Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Тур",
+      "Культурні сили"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ca78a98aee995fa0ca03afab",
+    "releaseDate": "2026-02-12",
+    "tags": [
+      "Hip-Hop",
+      "underground hip-hop"
+    ],
+    "title": "Тобі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0jcIUKMgWCnCkFmUIJjFIC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-20T03:13:40.983Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lely45",
+      "Культурні сили"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cbc7e927a7224324e7269133",
+    "releaseDate": "2026-02-19",
+    "tags": [
+      "pop"
+    ],
+    "title": "У смерті плани",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5KeMC1gDpPQeqLAOf0PjzE"
   }
 ]

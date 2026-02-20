@@ -871,5 +871,70 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/60jglMy3WZlVznHBrq0z6K"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T22:24:38.624Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "FORCEGNG"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734073c0857f3e37f09dfba37e",
+    "releaseDate": "2026-01-30",
+    "tags": [
+      "rap"
+    ],
+    "title": "The Victim",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3JGKlGJtyeqauxNAx8JMCa"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T22:23:59.137Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "FORCEGNG"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b28e896ffcfdbd90f3794167",
+    "releaseDate": "2026-02-06",
+    "tags": [
+      "rap"
+    ],
+    "title": "YNGB",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3FSeYVwOlYrnji9xu4fdZX"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T22:25:18.244Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "FORCEGNG",
+      "4ERDAK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cf7e9fb5f3de9678db562d7b",
+    "releaseDate": "2026-02-13",
+    "tags": [
+      "rap",
+      "trap"
+    ],
+    "title": "Cobra",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1kA24EXxKUVdu2pzq6Sjdo"
   }
 ]

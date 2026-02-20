@@ -342,5 +342,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_khT5Lir4L6nKpBiRLknQsY90-li4XO1po"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-05T01:06:51.052Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ІЛЛЯ LETAY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/ynkdBroLQkf9rO-zFlSVhM9sDO3yQlwTU1_e6BWluA7izm_F9Dq1Xql6g5iWziOUu2bMmklyH9OrzK8YvQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Падає сніг (Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_krApf6KpTcpAPvkUu2mDq2Jln_-E1x37I"
   }
 ]

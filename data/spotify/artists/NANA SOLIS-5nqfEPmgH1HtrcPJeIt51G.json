@@ -289,5 +289,29 @@
     "totalTracks": 6,
     "type": "single",
     "url": "https://open.spotify.com/album/0qVh1enad9Aw8bUjIjZ5HJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-20T11:28:50.477Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "JASE51",
+      "NANA SOLIS"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735441757d3d334c74f88b669c",
+    "releaseDate": "2026-02-20",
+    "tags": [
+      "electronic",
+      "pop",
+      "rnb"
+    ],
+    "title": "іній",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2or0Df3MOQY9g3UJz5J6eW"
   }
 ]

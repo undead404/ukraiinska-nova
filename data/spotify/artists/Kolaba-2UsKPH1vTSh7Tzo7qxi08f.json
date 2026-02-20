@@ -985,5 +985,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/02ZbCFov4L6q7SpfHeGVuw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T10:31:23.912Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kolaba",
+      "Оля Цибульська"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c224a525cecb74c2681d6b66",
+    "releaseDate": "2026-02-12",
+    "tags": [],
+    "title": "Гадаю я, гадаю",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7aF4uFc8nIwHfoAHJsZIDb"
   }
 ]

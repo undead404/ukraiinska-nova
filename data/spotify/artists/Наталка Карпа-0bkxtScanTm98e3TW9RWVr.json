@@ -25,6 +25,10 @@
       {
         "time": "2025-09-22T21:20:29.780Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-06T21:24:03.034Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -844,5 +848,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/35pOfvXtd9QtcEzi9cUhe0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T21:24:03.035Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Natalka Karpa"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c2f8787343c71388275e07f1",
+    "releaseDate": "2014-01-01",
+    "tags": [
+      "dance"
+    ],
+    "title": "Колядки та новорічні пісні",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3CeXHrmEQnw7yQeMYnwex8"
   }
 ]

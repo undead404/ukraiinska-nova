@@ -344,5 +344,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/62OcMmN8LO0taMrtTT33Oq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T16:42:23.491Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yaski",
+      "Disculture"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27322dd64f6609847b13e973854",
+    "releaseDate": "2026-02-06",
+    "tags": [
+      "Brutal Death Metal"
+    ],
+    "title": "Паразит",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6x2R0OgmbujldaBl6C561U"
   }
 ]

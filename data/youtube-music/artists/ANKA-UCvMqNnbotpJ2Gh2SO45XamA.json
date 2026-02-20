@@ -418,5 +418,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kP79qUKKsCsaU8QQ43YeplQpC3s8kk3BI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-05T04:25:21.724Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ANKA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/o_FCrcZIe9cEfAcvFBJ7d90zU0nnyMriPFTBPw4WJWcKDXLuJWjllgXgKQ6G0wPfbW0N-3MAIB8NG4SfPQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Самокрутка",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m5DaJAEPlC6ZUKPlIKUGvy_pSbcs1ACbg"
   }
 ]

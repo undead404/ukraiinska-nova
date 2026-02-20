@@ -2270,5 +2270,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4hwvfkvkY4Yk6PhLwxIo8Y"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T10:29:29.810Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Eric Deray"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273539c2afd1cdeec222246c411",
+    "releaseDate": "2026-02-06",
+    "tags": [],
+    "title": "Grenade",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0Vhngl40yphsXDdyM5w7fE"
   }
 ]

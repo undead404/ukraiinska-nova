@@ -1011,5 +1011,27 @@
     "totalTracks": 7,
     "type": "single",
     "url": "https://open.spotify.com/album/6ZRD4L0eTMivyp0QTfN4N3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-03T11:29:39.491Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Figurat"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732b23a03f001bf9216b99e281",
+    "releaseDate": "2026-02-03",
+    "tags": [
+      "funk",
+      "indie pop"
+    ],
+    "title": "лютий",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/703ZHdyLiAjabwNpIquMQy"
   }
 ]

@@ -1960,5 +1960,68 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5MYCdnpmcn91YpJtG9HpTf"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T12:28:55.958Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "drwncvnt"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273650d3dc20c08757385e5abcb",
+    "releaseDate": "2026-01-30",
+    "tags": [
+      "electronic"
+    ],
+    "title": "river flows in me",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4jxqR3d6qt6RLZiu5aq0Za"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-07T12:26:30.092Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "drwncvnt"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b6c291c8aecc13d8b9bbdd96",
+    "releaseDate": "2026-02-06",
+    "tags": [
+      "electronic"
+    ],
+    "title": "shadows",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7LzwG91klq4KkcVn9QegPo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T12:30:09.032Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "drwncvnt"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27375c837960e9cabd5c9329633",
+    "releaseDate": "2026-02-13",
+    "tags": [
+      "electronic"
+    ],
+    "title": "alice in wonderland</3",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/05XvXVUZM5d2RSFMGbWP2u"
   }
 ]

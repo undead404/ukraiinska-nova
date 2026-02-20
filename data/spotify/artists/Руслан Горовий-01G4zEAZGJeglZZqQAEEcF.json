@@ -205,5 +205,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6lIFdmwzx54rA4p6XIv4ug"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-05T22:23:00.511Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Руслан Горовий"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27329a60761bf05fdf4118607f0",
+    "releaseDate": "2026-02-06",
+    "tags": [
+      "neofolk"
+    ],
+    "title": "Село затихло",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6ON64B8gKfR8Gpap1oroYr"
   }
 ]

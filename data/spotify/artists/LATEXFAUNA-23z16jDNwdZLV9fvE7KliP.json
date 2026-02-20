@@ -1005,5 +1005,30 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3yxNfBzZnbSxCFanJsssxF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T16:31:21.841Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "LATEXFAUNA",
+      "Andi Vax",
+      "Shurmaped"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a813cdb1a64f0af9ec05ce16",
+    "releaseDate": "2026-02-13",
+    "tags": [
+      "funk",
+      "electro house",
+      "House"
+    ],
+    "title": "Shovkovytsya (Andi Vax & Shurmaped Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3rWi7c5G9JXeSH4nNHj3LK"
   }
 ]

@@ -1187,5 +1187,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3JY8ksMGQd2COHiqGC7jop"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T08:34:42.054Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TESLENKO"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cc59aa6f909b8cca5c5fc85d",
+    "releaseDate": "2026-02-12",
+    "tags": [
+      "pop"
+    ],
+    "title": "Поруч",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0TSJGd6DyIElveSpXZ9r9W"
   }
 ]

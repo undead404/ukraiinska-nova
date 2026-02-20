@@ -588,5 +588,27 @@
     "totalTracks": 14,
     "type": "album",
     "url": "https://open.spotify.com/album/2jCBjMrNGgia4pPpHNOfyz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-07T00:52:53.073Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MBY"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27336c0adcc55a5976ddbd15683",
+    "releaseDate": "2026-02-06",
+    "tags": [
+      "rap",
+      "electronic"
+    ],
+    "title": "ІПСО",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/56BsFA58cCNnZeTD3Lt423"
   }
 ]

@@ -1310,5 +1310,29 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mDVV2g5I_WkHSZh1alRp87lmXD-tA8ivc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T11:52:36.292Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROPAN"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/gghgp_rugWpBzRp3daf6yL_shbtBMcCHKzfvXMe-ZOh7KPLAJ5GCYzMcXS2cUAd3W0deSxAIb1PLpjPf=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "dub",
+      "reggae",
+      "dancehall",
+      "rap"
+    ],
+    "title": "Вікно",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lzQsuDrikX5dz6h6ze2xg3nNI0cx_Thj8"
   }
 ]

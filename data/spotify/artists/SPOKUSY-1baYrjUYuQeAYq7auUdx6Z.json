@@ -358,5 +358,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6sylqZqr1P1xDGPuV0cxFN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T08:34:10.162Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SPOKUSY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27355a2e6c60dd919b19361389c",
+    "releaseDate": "2026-02-13",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Меланхолія REMIXES",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/52crTiIqNqTaDq1ElUjSLO"
   }
 ]

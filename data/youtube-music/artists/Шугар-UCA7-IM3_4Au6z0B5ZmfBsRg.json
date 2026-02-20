@@ -1284,5 +1284,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n90GiRME8cTNfjOV6q5Cd5DWp5b3gLpyo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T15:55:22.281Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Шугар"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/ajhNCIXzo9Tk8rcayIhoaw2m9_0pWJIpnCupvfPOcdmdTOp8GvybS1pfhtzb20ICPmrsMBNefCGUNWhaAw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Токсік (Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mmJk_zqgbqPiDLauxLGynYwk7jxxXjspc"
   }
 ]

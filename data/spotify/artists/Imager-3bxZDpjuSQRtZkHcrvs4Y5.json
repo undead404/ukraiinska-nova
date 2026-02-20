@@ -105,5 +105,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6j6lhIZrQL350eM5uztTJB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-31T21:26:19.482Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Imager"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273183393d52fdc3034df75c571",
+    "releaseDate": "2026-01-30",
+    "tags": [],
+    "title": "Сонна <Toasted>",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5ksLd4tEe2bY6ft0pGX3UN"
   }
 ]

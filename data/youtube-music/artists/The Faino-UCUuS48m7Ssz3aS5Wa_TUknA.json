@@ -188,5 +188,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nOFyrIoiFaNO-l0wtcj--P15cVZDVwMpg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-07T03:33:47.007Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "The Faino"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/6SqvxJo0TG_R15iHxtsfuYykgzIYEYS8jh13sU9cU1RwhFi4NDZGNaVLkhV1vGC4RKYTHcyK2hf4T7sZ1Q=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Зробіть гучніше (The Faino Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kokyEkLzZ7KxAsy-T5VVmRF3e5VMV-xJA"
   }
 ]

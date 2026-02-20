@@ -214,5 +214,43 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4ESVxnODQD1Pnq0sBJCVqW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T20:30:04.462Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "LeChapo"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738557c2eeacd442f781625c3a",
+    "releaseDate": "2026-02-12",
+    "tags": [],
+    "title": "Йобнутий (yungreedy1 mix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5sTxN7ItJXvgLo8ZETLCm0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-14T20:27:22.643Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "LeChapo"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27378519f8b4d23fa0f82635e6b",
+    "releaseDate": "2019",
+    "tags": [],
+    "title": "ХАПАТИ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3eELyZywkcSNlrYPWJ5KgQ"
   }
 ]

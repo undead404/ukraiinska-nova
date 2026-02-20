@@ -226,5 +226,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l-M2hsu0mCX92sOipaXRLNKg2-tqx-dJU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T22:52:49.054Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Krasna Tysha"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/IOfW3PTh2I7NiG0JhI9BBfIPkjcURawFLz67j9YQZ4ntUqVbhhhfZDz10WHoDeNQuT3khim7ElQQph5hlA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Сніг",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ltY6kDSgxPjQN4JMligDnLL5FWkGvwwss"
   }
 ]

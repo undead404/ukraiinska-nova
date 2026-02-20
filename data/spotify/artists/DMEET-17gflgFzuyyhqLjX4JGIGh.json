@@ -340,5 +340,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3y7KhzrdFXwfNFLEyet2ri"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-19T22:24:33.386Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DMEET"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732b58b41925a02902464ea0a7",
+    "releaseDate": "2026-02-20",
+    "tags": [],
+    "title": "Накриває",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5nj6QmHErbBck7ktArSlai"
   }
 ]

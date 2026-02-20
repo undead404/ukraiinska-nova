@@ -273,5 +273,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2GDumjkiype2n9GUhZoEeu"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-17T18:38:46.937Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "LADA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a42abe7950795adf1d57ae0b",
+    "releaseDate": "2026-02-17",
+    "tags": [
+      "techno"
+    ],
+    "title": "Дура",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/27LK9vyxRo8tcneFba7yo3"
   }
 ]

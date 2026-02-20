@@ -334,5 +334,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2LHNgRn75Fq2TU8Ewnahoa"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-05T04:04:53.168Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "FARINHATE"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a8a126b3f9cef6910468d9a8",
+    "releaseDate": "2026-02-04",
+    "tags": [
+      "alternative metal",
+      "metalcore"
+    ],
+    "title": "Горизонт",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0LOJyY7H76IlpcxghBfaJJ"
   }
 ]

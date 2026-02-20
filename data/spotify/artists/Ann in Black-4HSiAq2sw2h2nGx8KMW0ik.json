@@ -538,5 +538,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0S8rVzra7tDILIeCYq1eys"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T04:04:07.481Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ann in Black"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27394ea65166d93f23397b20f2c",
+    "releaseDate": "2026-02-05",
+    "tags": [],
+    "title": "Істинна Багачка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1wgiYOmlHJjCGdqBuJ7lDF"
   }
 ]

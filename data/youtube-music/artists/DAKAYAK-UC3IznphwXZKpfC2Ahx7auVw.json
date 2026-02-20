@@ -349,5 +349,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kegD7Iiam386VDAaaBbuetG8YCpybKnbA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-11T06:06:58.731Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DAKAYAK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/96mZouEBRfXta--nGHhaxkUoPE5liSR1WF6OKpmAXLXOHij-Cyu6ME3xSzxeVktXvKm6BamjwVM3BlWQ4A=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Шафа",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lht6ieLhUG7UK1VKnjrhi_tbjCo91bDHg"
   }
 ]

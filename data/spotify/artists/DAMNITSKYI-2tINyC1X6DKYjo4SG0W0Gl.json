@@ -172,5 +172,29 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/5K2anu3BLUOmWNKzOFt6Os"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T18:30:20.201Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "не настане",
+      "DAMNITSKYI"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27362c9f6a91156331b4f0d33c8",
+    "releaseDate": "2026-02-12",
+    "tags": [
+      "pop rock",
+      "rock",
+      "pop punk"
+    ],
+    "title": "Світлофори",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6I5JCABfi2P3wDTWifjmJj"
   }
 ]

@@ -272,5 +272,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m1zL2o2gR4OlM2hFDcmpYFij2db0MK0rw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T23:51:11.307Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "GRRRA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/LV_RQCPkQyaN-1XyfSsZzYIaA7nazPV1rEjvfcwvVO0EofeizOr6SDauHEBOLCLeU5sAonITOEDXi7Qi=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap",
+      "dance"
+    ],
+    "title": "ТОП-ТОП",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_llLzV9l0bnRlssWqElCOiy04c-AY3EHZY"
   }
 ]

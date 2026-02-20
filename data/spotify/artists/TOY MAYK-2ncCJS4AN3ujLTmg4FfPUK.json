@@ -268,5 +268,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1RqAADuGPXGBVTydIfrJCO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-14T21:28:20.653Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TOY MAYK"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732ba97bbb24d600da9672be3a",
+    "releaseDate": "2026-02-01",
+    "tags": [],
+    "title": "Марно",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1GuMzbQ3bHrj6oZnRvF5J0"
   }
 ]

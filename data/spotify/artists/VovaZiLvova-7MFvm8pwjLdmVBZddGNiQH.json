@@ -493,6 +493,10 @@
       {
         "time": "2025-09-20T23:26:18.891Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-05T23:31:25.394Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1009,6 +1013,18 @@
       {
         "time": "2025-10-29T23:28:26.852Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-05T23:31:25.394Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-02-07T23:31:43.626Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-02-19T23:31:24.025Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1044,6 +1060,18 @@
       {
         "time": "2026-01-11T23:29:10.311Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-05T23:31:25.394Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-02-07T23:31:43.626Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-02-17T23:30:53.627Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1074,6 +1102,14 @@
       },
       {
         "time": "2025-12-05T23:29:16.119Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-02-03T23:32:35.455Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-02-05T23:31:25.394Z",
         "type": "LOST"
       }
     ],
@@ -1137,6 +1173,14 @@
       },
       {
         "time": "2026-01-11T23:29:10.311Z",
+        "type": "LOST"
+      },
+      {
+        "time": "2026-02-03T23:32:35.455Z",
+        "type": "FOUND"
+      },
+      {
+        "time": "2026-02-05T23:31:25.394Z",
         "type": "LOST"
       }
     ],
@@ -1219,5 +1263,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3Pk4IDpzItBdoYAoV84Opt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-04T23:30:51.196Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VovaZiLvova",
+      "KRUTЬ"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736a330aa34037a412e46b98a8",
+    "releaseDate": "2022-02-11",
+    "tags": [
+      "Hip-Hop",
+      "soul",
+      "indie pop"
+    ],
+    "title": "Пробач",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3XXgLTrUO2qflJknTrpThR"
   }
 ]

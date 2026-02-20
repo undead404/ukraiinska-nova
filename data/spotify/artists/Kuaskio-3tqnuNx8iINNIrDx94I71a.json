@@ -303,5 +303,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6amiFqj3jPX8K5hx8vCcft"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T16:28:35.319Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kuaskio"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273995f7b2fb377562ef2b9b70f",
+    "releaseDate": "2026-01-30",
+    "tags": [
+      "indie pop",
+      "post-punk"
+    ],
+    "title": "ю раниш",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0Dgv9QFt2PNJbTfoqaNvUT"
   }
 ]

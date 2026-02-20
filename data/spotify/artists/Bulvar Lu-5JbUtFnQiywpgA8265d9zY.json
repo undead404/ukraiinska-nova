@@ -257,5 +257,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0qeFI1zpjJ2RtIOtOxEKsc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-04T14:30:52.795Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Bulvar Lu"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730bc1bc39bfed993b534d3017",
+    "releaseDate": "2026-02-03",
+    "tags": [],
+    "title": "Ти і я",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/665gbnu2ZxIHFZuF0IOpr3"
   }
 ]

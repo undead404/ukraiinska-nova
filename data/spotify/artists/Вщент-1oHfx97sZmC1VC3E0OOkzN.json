@@ -112,5 +112,29 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/0K2IGRSlxN3Ptc7Yxkku7q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-10T15:38:44.034Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lasta",
+      "Вщент"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735e59beedfc90ba5887fdf733",
+    "releaseDate": "2025-07-08",
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "underground hip-hop"
+    ],
+    "title": "С.М.Т.",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/15hsUi4QsKJSEIdM2igTNj"
   }
 ]

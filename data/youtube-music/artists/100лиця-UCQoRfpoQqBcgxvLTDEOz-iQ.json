@@ -802,5 +802,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kF2uKCykWwlBjBpe7MdCfWKZmIIPJ1AjI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T23:49:17.436Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "100лиця"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/HhqS0amOGotRIdjaD-zo4NFIywZWSI0-h9ugiUJ2Im3YGCqBnMk_cnYIpVqm8THAUfzCTvypEUwx2zgz2g=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Тигриці",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_njqY48OwMEPxlRUvgOB_dVdQTQNNRO0lY"
   }
 ]

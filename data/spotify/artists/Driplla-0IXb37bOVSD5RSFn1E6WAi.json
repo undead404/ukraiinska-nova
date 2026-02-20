@@ -285,5 +285,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0BhIaSi5wI2a7UEtaJdcJ9"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-31T21:25:40.685Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Passway",
+      "Driplla"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27369a7047fd530025bb5e931f2",
+    "releaseDate": "2026-01-30",
+    "tags": [],
+    "title": "Stalker 2",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7yz6vctF1s790IEtpSYTlK"
   }
 ]

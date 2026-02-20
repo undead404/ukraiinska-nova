@@ -4,6 +4,10 @@
       {
         "time": "2025-09-20T16:26:33.673Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-12T16:41:20.894Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -26,6 +30,10 @@
       {
         "time": "2025-09-20T16:26:33.673Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-12T16:41:20.894Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -48,6 +56,10 @@
       {
         "time": "2025-09-20T16:26:33.673Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-12T16:41:20.894Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -92,6 +104,10 @@
       {
         "time": "2025-09-20T16:26:33.673Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-12T16:41:20.894Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -105,6 +121,94 @@
       "metalcore"
     ],
     "title": "Біляш на Вокзалі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3IWHFYNJb8TxotooUyxyLz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T16:41:20.894Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TSYTSKA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27386e3dc595556b4807a6d6716",
+    "releaseDate": "2025-07-30",
+    "tags": [
+      "death metal",
+      "metalcore"
+    ],
+    "title": "Kalopati (Shit Party)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2rZFCoSzoSCfGKzvwVbex7"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T16:41:20.894Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TSYTSKA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732e35c2ef3a9f90a585a92eb2",
+    "releaseDate": "2025-05-22",
+    "tags": [
+      "death metal",
+      "metalcore"
+    ],
+    "title": "Molochnytsya (Milkmaid)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1osuly3B9sFJr3JHkY31nV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T16:41:20.894Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TSYTSKA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273164fb0bd07a0ea3f95f44399",
+    "releaseDate": "2025-04-17",
+    "tags": [
+      "death metal",
+      "metalcore"
+    ],
+    "title": "Smerdyuchi Shkarpetky (Stinky Socks)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4JfqZD7RMRVm0GvOchbjPj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T16:41:20.894Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TSYTSKA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273039e9339e7f5dcd6e2c03f59",
+    "releaseDate": "2024-09-05",
+    "tags": [
+      "death metal",
+      "metalcore"
+    ],
+    "title": "Bilyash na Vokzali (Bilyash on The Station)",
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3IWHFYNJb8TxotooUyxyLz"

@@ -104,5 +104,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0JfrWgLI4xIY5hFXDBmTD0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-31T03:10:38.248Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Follow You"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a3da65f86fde9047daf73f4b",
+    "releaseDate": "2026-01-30",
+    "tags": [
+      "metalcore",
+      "Nu Metal"
+    ],
+    "title": "по той бік очевидного",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7J9PTbhzXwhYjz2p2yOmbf"
   }
 ]

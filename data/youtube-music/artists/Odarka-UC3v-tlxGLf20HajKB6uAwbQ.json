@@ -306,5 +306,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k9NsDwv4ZDtVRmCBNWZ6fc4mYdMp5kSMY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T13:06:11.131Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Odarka"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/8dSzSZD7CtRJuhnZwPZrPduX3qDZD3haHIZlqSf3aT0EF6trWFvUR0BpPMpbb0lfDj5xW0WYQ8Nei3Hf=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "By my side",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lYcOBCXHndD61NZQ98aHHdwe5nd332YeE"
   }
 ]

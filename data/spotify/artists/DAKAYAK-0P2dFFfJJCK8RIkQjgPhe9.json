@@ -352,5 +352,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1gdH0B8XjyutzZYzFb3FbS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-05T17:36:52.934Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DAKAYAK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dbbfeb40cf65d387eb08922b",
+    "releaseDate": "2026-02-05",
+    "tags": [
+      "rap"
+    ],
+    "title": "Шафа",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6HsYaAUEPhCsy2SlVpyEEL"
   }
 ]

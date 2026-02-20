@@ -351,5 +351,26 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/1waunS1XogS37jKrY3T5qG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T07:35:06.966Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Jalsomino"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735c94d24713d9c693d368e3ad",
+    "releaseDate": "2026-02-06",
+    "tags": [
+      "dubstep"
+    ],
+    "title": "Моя відьма",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0PCrXGDkUurUmXybyRj847"
   }
 ]

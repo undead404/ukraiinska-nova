@@ -997,5 +997,49 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1xNalx5w8UN2ID9GgNxVoX"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T19:27:33.558Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Bandi&Bagi"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273afa01a33708ac5f194db3b79",
+    "releaseDate": "2026-01-30",
+    "tags": [
+      "rap",
+      "Hip-Hop"
+    ],
+    "title": "Правда",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/136o15LEcRMaeK06kRrxqA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T19:34:00.714Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Bandi&Bagi"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739128052a2441f49bef5d58fb",
+    "releaseDate": "2026-02-06",
+    "tags": [
+      "rap",
+      "Hip-Hop"
+    ],
+    "title": "GRUZ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/688y5O5UTcp1WelwdLRrRA"
   }
 ]

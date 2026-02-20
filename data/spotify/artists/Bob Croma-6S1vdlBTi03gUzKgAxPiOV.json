@@ -94,5 +94,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/31kwjUmHDDiKlAixrrdBIS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T10:27:14.624Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Bob Croma",
+      "Lasta"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d09871dad01643bd67413a1f",
+    "releaseDate": "2023-04-16",
+    "tags": [
+      "Hip-Hop",
+      "underground hip-hop"
+    ],
+    "title": "Вітер",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7ADRHZJeeBkgazmGnfQA9Z"
   }
 ]

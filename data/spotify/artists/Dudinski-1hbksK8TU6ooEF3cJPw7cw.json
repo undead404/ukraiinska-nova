@@ -763,5 +763,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7efATFac0w6T35qdgM0eLU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-12T06:40:33.908Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Zajka",
+      "Dudinski",
+      "Mordax Bastards"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731b8710f626d8706cda06c599",
+    "releaseDate": "2024-05-17",
+    "tags": [],
+    "title": "Happy End",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4rKWKASdSr4nvDoC4nNd3Y"
   }
 ]

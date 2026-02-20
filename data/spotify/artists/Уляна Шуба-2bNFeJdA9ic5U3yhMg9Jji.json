@@ -448,5 +448,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5Op76DBIrov2obYNRFf8vu"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T18:31:31.036Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Уляна Шуба"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b93d3b82012dbb2a88f54297",
+    "releaseDate": "2026-02-06",
+    "tags": [],
+    "title": "ТЕЛЕПОРТ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2WtbnZXBdP4RRIITkH3MRy"
   }
 ]

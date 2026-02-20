@@ -458,5 +458,27 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/1wJneB5IAMdBfrghgRNaTL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-07T23:30:44.382Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lasta"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734b6f47d644dbe247e2d19e85",
+    "releaseDate": "2024-09-01",
+    "tags": [
+      "Hip-Hop",
+      "underground hip-hop"
+    ],
+    "title": "4",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4scfx4xZWZirHItlzZo8iA"
   }
 ]

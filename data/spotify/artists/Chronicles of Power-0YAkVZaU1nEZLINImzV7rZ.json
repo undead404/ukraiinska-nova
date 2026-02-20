@@ -99,6 +99,10 @@
       {
         "time": "2025-10-28T07:21:51.956Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-31T07:24:42.145Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -114,6 +118,52 @@
       "rap"
     ],
     "title": "Хорт. Перший Характерник (За підтримки УКФ)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/128356sMqZtCNiKfgLQY7X"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-31T07:24:42.145Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Chronicles of Power",
+      "MAX BARSKIH"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730f950181233afdf2692ab0d9",
+    "releaseDate": "2026-01-30",
+    "tags": [
+      "pop"
+    ],
+    "title": "Khort. Fate Is Inescapable",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/27AQTwPyuOq0zs1RDtLck9"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-31T07:24:42.145Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Chronicles of Power",
+      "Fahot"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27329ca0347b937ad3f781d865c",
+    "releaseDate": "2025-08-28",
+    "tags": [
+      "funk",
+      "pop",
+      "rap"
+    ],
+    "title": "Khort. Who was the first? (Supported by UCF)",
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/128356sMqZtCNiKfgLQY7X"

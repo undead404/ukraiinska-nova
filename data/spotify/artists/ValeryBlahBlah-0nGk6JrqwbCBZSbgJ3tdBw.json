@@ -228,5 +228,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6PXFwdox0XXqHrbKhd0a5a"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-14T05:39:53.481Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ValeryBlahBlah"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737dd38702187a013ae423c558",
+    "releaseDate": "2026-02-14",
+    "tags": [],
+    "title": "Збережи",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5kgz6p1xlOaBuxQDsIpFg2"
   }
 ]

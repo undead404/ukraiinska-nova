@@ -1347,5 +1347,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mbkikWhCqVMoAonsnhp9TSHqAx1GzPFEc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-07T17:51:01.394Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Колін"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/UbkICHUwIM_V0RpMr3u0NDLUOzqrCrsFjLRvO8ifYInMIaeHD6MO6I4GLNIoPcM5SWFiOoAyuJ2wTe70=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Чорні Очі",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lBEOpjVRU6qOEX73YcC1CZNuVT9s6qovQ"
   }
 ]

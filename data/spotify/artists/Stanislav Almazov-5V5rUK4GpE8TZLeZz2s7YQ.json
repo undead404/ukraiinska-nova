@@ -191,5 +191,26 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/2IF2hjzX7nGEPmD1iQOb64"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-07T17:28:50.210Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Manyface",
+      "Stanislav Almazov",
+      "Maryna Bilyk"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273543b475f67b867a0723ea625",
+    "releaseDate": "2026-02-06",
+    "tags": [],
+    "title": "На весні",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2n08JwDDvqBJ2uMwXMdiVf"
   }
 ]

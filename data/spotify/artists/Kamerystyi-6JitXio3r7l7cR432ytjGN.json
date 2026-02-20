@@ -81,5 +81,26 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/6z99SPCZcgmUCGjsqpiClI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-05T20:29:20.907Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NOMAD GURU",
+      "Xsonatix",
+      "Kamerystyi"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27330da9301a208a5832eae0886",
+    "releaseDate": "2020-07-27",
+    "tags": [],
+    "title": "HOLODY (Xsonatix & Kamerystyi Remix)",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0PyZF4ySuyJm7bkLYwGbo5"
   }
 ]

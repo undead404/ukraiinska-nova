@@ -589,5 +589,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3ctOruORDGOfmPquRAqZ7c"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-07T23:23:07.937Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ігор Кайдаш"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27364c9abf9034df785206f9eee",
+    "releaseDate": "2026-02-06",
+    "tags": [
+      "indie pop",
+      "indie rock"
+    ],
+    "title": "не в обіймах",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1hCAWb75bOiQivVyZv8kuy"
   }
 ]

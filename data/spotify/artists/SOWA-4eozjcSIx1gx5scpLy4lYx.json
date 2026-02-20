@@ -575,5 +575,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4SIMXsCvCRJWsbqYtwDWdH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-05T22:33:58.604Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SOWA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734bee2049c117a8567f2383c9",
+    "releaseDate": "2026-02-05",
+    "tags": [
+      "ambient"
+    ],
+    "title": "In her control",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/73f82R6fEO160n9MRHaLz0"
   }
 ]

@@ -564,5 +564,24 @@
     "totalTracks": 4,
     "type": "single",
     "url": "https://open.spotify.com/album/3EyjcQFiLuNd8fwjrMcyQl"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-20T11:26:40.711Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "GannaBaby"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d22dc3c8b11b5c508dd25d96",
+    "releaseDate": "2026-02-20",
+    "tags": [],
+    "title": "останнє кохання",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5btp7lV6BePj5wghaFnIgN"
   }
 ]

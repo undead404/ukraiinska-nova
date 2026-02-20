@@ -271,5 +271,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kU_SDHH7XwjkCRnpBPl1ELFc7ieJV44wE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T14:03:34.583Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Polamav"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/Sd6To5Wi1NH8dG5WHCa7tqIA8IMp-qKS65ZZchkHR9gKozJqpggP64eNBu5cqXHUsd0U4Od_r12ReZo0=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Серенада",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kIjD7E02l7IYwlDgmK-k1GgWqqV035gi4"
   }
 ]

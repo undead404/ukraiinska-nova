@@ -694,5 +694,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3q8GGLlqezGTKbRM105Jwq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T13:42:11.995Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Amp Amp",
+      "Хейхал"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732cd69b41d4a8fccb70f1c7f9",
+    "releaseDate": "2026-01-30",
+    "tags": [],
+    "title": "Psycho (Хейхал Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2GoOZMjwiauV4H4XHMURxy"
   }
 ]

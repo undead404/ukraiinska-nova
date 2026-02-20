@@ -271,5 +271,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5ukkSs9tUoTi9sth7xkNrr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T22:28:10.252Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ponomariovv"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735a4712f48d64987d00650292",
+    "releaseDate": "2021-12-10",
+    "tags": [],
+    "title": "Бекграунд",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6tGpwJ2QX0WP7EojB6mD8j"
   }
 ]

@@ -701,5 +701,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nsBRWkaZD5z8IupVQdWPFz5rDUCfa2D3Y"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T17:00:56.851Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SAMCHUK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/_oL32PyW9y9AvV54SzP13r9pZ_Unfnwz7U9fe_BTwnqkAc-B3fp9nfPMdd69fJn_vophamO4KNn-7zgG=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Неземна",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kFC6Fwa8eU4Fq1ZoULB1tC3xu8GuSyAAo"
   }
 ]

@@ -104,5 +104,28 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/1EUrUewaKnyHp8GWdgtUID"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-18T06:43:58.957Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Zapovit"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273dd8a133dc74adcbd6dbadbc6",
+    "releaseDate": "2026-01-16",
+    "tags": [
+      "atmospheric black metal",
+      "black metal",
+      "Ukrainian Black Metal"
+    ],
+    "title": "Ira Borystheni",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5Q1J6ozAzari6wpQ2VZ7fo"
   }
 ]

@@ -2368,5 +2368,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4T4sAZ0EMT1Q3XdXAFL3tm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-06T07:33:28.965Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ARCHEZ"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a0e72d7e8326c8c5b25af4cb",
+    "releaseDate": "2026-02-06",
+    "tags": [
+      "phonk"
+    ],
+    "title": "STILL FIGHTING",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2SkkKrPKZvJanS9SmPH0iF"
   }
 ]

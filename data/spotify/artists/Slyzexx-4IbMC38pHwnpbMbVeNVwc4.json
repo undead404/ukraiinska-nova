@@ -3781,5 +3781,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/59wWTaV9sdToJdZmOoQbxq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-07T03:17:32.666Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273166133e43320606ac0b895c4",
+    "releaseDate": "2026-02-06",
+    "tags": [],
+    "title": "Космічний шепіт",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/40CorlFC2FnX7aMxTLee2A"
   }
 ]

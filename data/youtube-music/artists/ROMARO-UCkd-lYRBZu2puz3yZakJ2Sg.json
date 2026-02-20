@@ -716,6 +716,10 @@
       {
         "time": "2026-01-14T14:53:24.110Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-04T14:06:49.139Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -798,5 +802,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mw9fuTNzUCsU34ejXsr-Mz1YfH0drfwc4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-04T14:06:49.139Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROMARO"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/Edy5GjCho7RxO0wsh-vYcgK60fke4CG9qlMNT7l6RYRu11X8-N-NIiWGr9K2eIxMg1lQO9irH2xZWyQ=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "Hip-Hop",
+      "pop rap"
+    ],
+    "title": "Як так? (QANO Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lOtI_j9yBEmDfi3fIHBe_UrCgpB8183IE"
   }
 ]

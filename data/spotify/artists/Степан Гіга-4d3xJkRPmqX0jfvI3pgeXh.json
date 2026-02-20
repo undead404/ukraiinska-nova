@@ -511,5 +511,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2BN5sgB063G7iC8dM1IBJa"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-05T11:27:07.498Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Степан Гіга"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273423e9bb4549aee0991908f97",
+    "releaseDate": "2026-02-04",
+    "tags": [
+      "nsbm"
+    ],
+    "title": "Не повірю",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4YwM7MZuNNG9UJmkmJJaew"
   }
 ]

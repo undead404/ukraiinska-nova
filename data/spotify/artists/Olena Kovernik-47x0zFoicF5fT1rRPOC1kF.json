@@ -34,6 +34,10 @@
       {
         "time": "2025-12-31T01:55:59.517Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-02-03T01:58:22.702Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -60,6 +64,10 @@
       {
         "time": "2025-12-28T01:56:59.280Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-02-03T01:58:22.702Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -86,6 +94,10 @@
       {
         "time": "2025-12-28T01:56:59.280Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-02-03T01:58:22.702Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -112,6 +124,10 @@
       {
         "time": "2025-12-31T01:55:59.517Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-02-03T01:58:22.702Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -204,6 +220,10 @@
       {
         "time": "2025-12-28T01:56:59.280Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-02-03T01:58:22.702Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -220,5 +240,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0KZGavsyeKhjTq27vYjAhU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T01:57:10.859Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Olena Kovernik"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c83d20f7723b75f831b4b7d6",
+    "releaseDate": "2019-08-15",
+    "tags": [
+      "pop"
+    ],
+    "title": "НАЗИВАЙ",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4DJV5Uu3qtRazV0VncTnw7"
   }
 ]

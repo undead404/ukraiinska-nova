@@ -237,5 +237,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/21ekhwSl0VKi2cxb9B0G6Q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-13T11:25:05.199Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Andrii Kunin"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a9c7550d2c37e9cc952965bb",
+    "releaseDate": "2026-02-13",
+    "tags": [
+      "ambient"
+    ],
+    "title": "Topia",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4UUGx8sX4j9sWcNYTtLC8u"
   }
 ]

@@ -252,5 +252,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5lqlU0mxhEAKUsJHcMzfe8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-03T04:10:06.819Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YourSAD"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e5e59a84bd6e7f49de5711a1",
+    "releaseDate": "2026-02-02",
+    "tags": [],
+    "title": "Все на її",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0M6AELw63WEVluN1vInjv7"
   }
 ]

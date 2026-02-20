@@ -240,5 +240,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3WQOkOJNyHpGVJsasVSi8a"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-07T23:26:48.409Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Detach"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737d01ce8445b450bbab40605c",
+    "releaseDate": "2026-02-06",
+    "tags": [
+      "Nu Metal",
+      "alternative metal"
+    ],
+    "title": "Рай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2b3OR2Mxm1vkSmNFaFv4AV"
   }
 ]

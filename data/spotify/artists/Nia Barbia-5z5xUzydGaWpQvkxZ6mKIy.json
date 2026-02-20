@@ -484,5 +484,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6PtJ3t3w3wz0AE8cctfA73"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-20T08:31:04.360Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Nia Barbia"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d840e1a44c124c0ff9e34a55",
+    "releaseDate": "2026-02-19",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Я знаю",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7J3JzQfHCVQcsoS2uwxt6Z"
   }
 ]

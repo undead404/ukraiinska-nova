@@ -363,5 +363,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7Jitoc5qwjEM5ybo13W9Nv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-31T01:56:49.853Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Wodnii"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732618d8ed8feaff17ffb97d29",
+    "releaseDate": "2026-01-23",
+    "tags": [],
+    "title": "Смішнявка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5fLh68VvLbJOywmHPUhqc8"
   }
 ]

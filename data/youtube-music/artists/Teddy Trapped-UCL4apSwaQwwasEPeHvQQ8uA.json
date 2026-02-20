@@ -39,6 +39,10 @@
       {
         "time": "2025-12-11T19:48:15.256Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T19:02:21.768Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -147,6 +151,10 @@
       {
         "time": "2025-12-11T19:48:15.256Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T19:02:21.768Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -201,6 +209,10 @@
       {
         "time": "2025-12-11T19:48:15.256Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T19:02:21.768Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -228,6 +240,10 @@
       {
         "time": "2025-12-11T19:48:15.256Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T19:02:21.768Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -255,6 +271,10 @@
       {
         "time": "2025-12-11T19:48:15.256Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T19:02:21.768Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -282,6 +302,10 @@
       {
         "time": "2025-12-11T19:48:15.256Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T19:02:21.768Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -309,6 +333,10 @@
       {
         "time": "2025-12-11T19:48:15.256Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T19:02:21.768Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -363,6 +391,10 @@
       {
         "time": "2025-12-11T19:48:15.256Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T19:02:21.768Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -390,6 +422,10 @@
       {
         "time": "2025-12-11T19:48:15.256Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T19:02:21.768Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -471,6 +507,10 @@
       {
         "time": "2025-12-11T19:48:15.256Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-01-30T19:02:21.768Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -584,5 +624,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mI7sNw4yKBcRlaKhmciZvb9fgxbUS_i6E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-01-30T19:02:21.769Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Teddy Trapped"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/7CV8GOVg2q25JCWvxgq2cx2-xYx6r3cMnF4TGtFf449J0f8huT6L6BD-uduLLlRIHghWOp5Jv9hshiw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop rap"
+    ],
+    "title": "розумію, зай",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lrvng3nOpN6Juhf-Jpan1GLTachjZsKKE"
   }
 ]

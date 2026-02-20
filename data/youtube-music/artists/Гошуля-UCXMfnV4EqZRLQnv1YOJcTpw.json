@@ -935,5 +935,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k7hQqUoscyBlxCeGgkSUg48Is9IZa93Us"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-05T22:52:09.573Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гошуля"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/FcZazrhUpFkCUiZ1x-Ww7odNOVbyXxL2Bjp3emuB4tbn--HZUuIl9GFQ3FAoRQY49io8wwAiwe426Rw9=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Соул",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kgBqvjgiOfrvBhfTy-JzkspHPpOconW9Q"
   }
 ]

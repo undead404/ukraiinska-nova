@@ -1520,5 +1520,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kiCHXg6BybXfv4lGegADXpb-51ZdHSrbE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-04T13:06:50.002Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sysuev"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/a8-77JZrTLE8pB38wkmV1a3hpoBYyLsz5HfxnrtQ2uxojtmT7o7KEafZ_z0jJ6NR5hSbetPezL5Ha91k=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Холодно (feat. MARY KO)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m8cjMEAEEIxfYNG68JJbZzQvTa0VFUoAA"
   }
 ]

@@ -653,5 +653,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6fqLJuP3Y1GkQl1ndWmM6f"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-15T01:00:28.043Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Scroodgee"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737ce9ef81ef2e370ea55c1dbf",
+    "releaseDate": "2026-02-14",
+    "tags": [
+      "Hip-Hop",
+      "rap"
+    ],
+    "title": "Прима",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/73AEFLbyEB2nJxxUzoW5Fw"
   }
 ]
