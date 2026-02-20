@@ -6,9 +6,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sidorskyi"
-    ],
+    "artists": ["Sidorskyi"],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a6ad49da2fa87dcd9d8bbabc",
     "releaseDate": "2025-09-18",
@@ -25,9 +23,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sidorskyi"
-    ],
+    "artists": ["Sidorskyi"],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739c4f36d4f41f2e8d59f1ca3d",
     "releaseDate": "2025-09-06",
@@ -44,9 +40,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sidorskyi"
-    ],
+    "artists": ["Sidorskyi"],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27370892959b80d70e10dfe7df9",
     "releaseDate": "2025-08-20",
@@ -63,9 +57,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sidorskyi"
-    ],
+    "artists": ["Sidorskyi"],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e1596066015e726d4e8620b7",
     "releaseDate": "2025-07-17",
@@ -82,16 +74,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "keeroo",
-      "Sidorskyi"
-    ],
+    "artists": ["keeroo", "Sidorskyi"],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273433020e96148fa7888cf745e",
     "releaseDate": "2025-03-06",
-    "tags": [
-      "Lo-Fi"
-    ],
+    "tags": ["Lo-Fi"],
     "title": "Помалу",
     "totalTracks": 1,
     "type": "single",
@@ -104,9 +91,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sidorskyi"
-    ],
+    "artists": ["Sidorskyi"],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738e43223a78a81d3848ac177c",
     "releaseDate": "2025-01-06",
@@ -123,9 +108,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sidorskyi"
-    ],
+    "artists": ["Sidorskyi"],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab5c9e5457c52c7206d48fff",
     "releaseDate": "2024-08-13",
@@ -142,9 +125,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sidorskyi"
-    ],
+    "artists": ["Sidorskyi"],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d101db4dd9ccc0bd20af8781",
     "releaseDate": "2024-02-02",
@@ -161,10 +142,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sidorskyi",
-      "Faktovsky"
-    ],
+    "artists": ["Sidorskyi", "Faktovsky"],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27306a599e55d46a7258e07a0eb",
     "releaseDate": "2023-09-28",
@@ -181,9 +159,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sidorskyi"
-    ],
+    "artists": ["Sidorskyi"],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273044dd38bc4641268a1058ef0",
     "releaseDate": "2023-09-14",
@@ -200,9 +176,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sidorskyi"
-    ],
+    "artists": ["Sidorskyi"],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735074ca2bb0ce35e55956b5ae",
     "releaseDate": "2023-09-07",
@@ -219,9 +193,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sidorskyi"
-    ],
+    "artists": ["Sidorskyi"],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739d1d43905868c39ee8a130c4",
     "releaseDate": "2023-01-01",
@@ -242,9 +214,7 @@
         "type": "LOST"
       }
     ],
-    "artists": [
-      "Sidorskyi"
-    ],
+    "artists": ["Sidorskyi"],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733464f2995ef511ccfb0f7bcc",
     "releaseDate": "2022-12-25",
@@ -261,15 +231,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "keeroo"
-    ],
+    "artists": ["keeroo"],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734a9ee16e4d12d499be2b5b21",
     "releaseDate": "2023-04-27",
-    "tags": [
-      "Lo-Fi"
-    ],
+    "tags": ["Lo-Fi"],
     "title": "за*бався",
     "totalTracks": 1,
     "type": "single",
@@ -282,9 +248,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Faktovsky"
-    ],
+    "artists": ["Faktovsky"],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e09dfa137701e422f673df5e",
     "releaseDate": "2023-08-18",
@@ -301,9 +265,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Faktovsky"
-    ],
+    "artists": ["Faktovsky"],
     "artistsPopularity": 0,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27344c9a4ec242129a4c0699e3f",
     "releaseDate": "2023-11-22",
@@ -320,9 +282,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sidorskyi"
-    ],
+    "artists": ["Sidorskyi"],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737c94c60fd4997489f0d88024",
     "releaseDate": "2025-10-01",
@@ -339,9 +299,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Sidorskyi"
-    ],
+    "artists": ["Sidorskyi"],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27395b4f0d3a779097353b22142",
     "releaseDate": "2026-01-15",
@@ -350,5 +308,22 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6HIavOAr0xOK0Ji9EwdSsM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-20T18:34:05.712Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["keeroo", "Sidorskyi"],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27342ee266b44353cae375b8130",
+    "releaseDate": "2026-02-20",
+    "tags": [],
+    "title": "Овації",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1zM0vc4EZaKYRfMQ3r68jW"
   }
 ]
