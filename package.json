@@ -7,7 +7,7 @@
     "node-telegram-bot-api": "0.66.0",
     "p-retry": "~7.0.0",
     "spotify-web-api-node": "~5.0.2",
-    "ytmusic-api": "~5.3.0",
+    "ytmusic-api": "~5.3.1",
     "valibot": "~1.1.0"
   },
   "description": "Scraper for new music releases using Spotify API",
