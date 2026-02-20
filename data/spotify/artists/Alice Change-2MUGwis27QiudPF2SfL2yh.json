@@ -811,5 +811,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0LLpAFcDKdbHqMLADxs8Od"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-20T06:34:41.038Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alice Change"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737ca835567946d361962f63e9",
+    "releaseDate": "2026-02-20",
+    "tags": [
+      "indie pop",
+      "indie rock",
+      "bedroom pop"
+    ],
+    "title": "Коли я повернусь додому",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0dsKTV04G9lvxHpmc7RMwz"
   }
 ]
