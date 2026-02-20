@@ -550,5 +550,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1KwDuPszgCNdB6cSxYg1FB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-20T09:28:02.711Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Мія Рамарі"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27375e0e7dbfb3aaf0969300851",
+    "releaseDate": "2026-02-20",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "ЧЕРЕЗ ТЕБЕ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6rH26FLLq3wjzdZR9caEdM"
   }
 ]

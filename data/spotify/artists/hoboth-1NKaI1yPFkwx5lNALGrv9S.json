@@ -103,5 +103,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4QhxaVcAleTsMM1pFoJdpZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-20T09:30:14.345Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "hoboth"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27352fbb52119c539be9102ed80",
+    "releaseDate": "2026-02-20",
+    "tags": [
+      "metal"
+    ],
+    "title": "На поверхні",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/45cOMboxi8ZdP1xmMSzeTM"
   }
 ]

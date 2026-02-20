@@ -478,5 +478,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7Jp5PBlM66QxbGtzhQ2vwS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-20T09:32:37.607Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROMMEDIA",
+      "REZUS"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cb62cd29e32787083ae821d3",
+    "releaseDate": "2026-02-20",
+    "tags": [],
+    "title": "Гріх на сповіді",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0d0ywVeH23zNfI47oRuEoA"
   }
 ]

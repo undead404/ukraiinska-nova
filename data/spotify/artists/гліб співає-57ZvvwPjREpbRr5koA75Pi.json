@@ -225,5 +225,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5CSmZxdVXoT00rp6MJz6G8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-20T09:27:08.878Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "гліб співає"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27365a6b52cdfb6d22734511d5b",
+    "releaseDate": "2026-02-20",
+    "tags": [
+      "bedroom pop"
+    ],
+    "title": "підручник",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5De9PDmwUGX921cb3S1Vt1"
   }
 ]
