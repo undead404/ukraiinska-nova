@@ -1002,5 +1002,30 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5KeMC1gDpPQeqLAOf0PjzE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-20T11:27:58.413Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Pepel Nahudi",
+      "Lely45"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731c1c51a18fc1d42d2f021929",
+    "releaseDate": "2026-02-19",
+    "tags": [
+      "Hip-Hop",
+      "pop",
+      "rap",
+      "trap"
+    ],
+    "title": "архангелы",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0Ub27U5KxlsNqj1ubKXMw4"
   }
 ]

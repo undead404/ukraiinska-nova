@@ -274,5 +274,27 @@
     "totalTracks": 30,
     "type": "album",
     "url": "https://open.spotify.com/album/2VvmDnJUqFMRJocyu9l4dm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-20T11:25:43.749Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Dofamin",
+      "VneDushi"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b667ae8b5b7771fd458cdcd3",
+    "releaseDate": "2026-02-20",
+    "tags": [
+      "pop"
+    ],
+    "title": "Только тень",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6jxsg1nxojDyo6tsNoNS3o"
   }
 ]
