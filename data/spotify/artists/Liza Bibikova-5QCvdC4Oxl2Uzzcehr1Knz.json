@@ -219,5 +219,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0ZCjrCB8i8rUscG5ScUzay"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-20T08:30:07.821Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Liza Bibikova"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f8acb12043addaff884d9c97",
+    "releaseDate": "2026-02-20",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "бути оптимістом",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4kHNdGMPIu00fBtXV5m9es"
   }
 ]
