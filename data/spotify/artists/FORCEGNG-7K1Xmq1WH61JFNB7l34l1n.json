@@ -6,17 +6,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Driplla",
-      "FORCEGNG",
-      "STAS AZARENKO"
-    ],
+    "artists": ["Driplla", "FORCEGNG", "STAS AZARENKO"],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cf1408d7dd1d29f381e615eb",
     "releaseDate": "2023-12-08",
-    "tags": [
-      "rap"
-    ],
+    "tags": ["rap"],
     "title": "Trapp Hero 1.0",
     "totalTracks": 9,
     "type": "album",
@@ -33,15 +27,11 @@
         "type": "LOST"
       }
     ],
-    "artists": [
-      "FORCEGNG"
-    ],
+    "artists": ["FORCEGNG"],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273927293f85a9d3d5099c72d1c",
     "releaseDate": "2025-08-22",
-    "tags": [
-      "rap"
-    ],
+    "tags": ["rap"],
     "title": "Black Diamond",
     "totalTracks": 1,
     "type": "single",
@@ -54,17 +44,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "FORCEGNG",
-      "4ERDAK"
-    ],
+    "artists": ["FORCEGNG", "4ERDAK"],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273af7a02e3dd92b99faad6d199",
     "releaseDate": "2025-07-11",
-    "tags": [
-      "rap",
-      "trap"
-    ],
+    "tags": ["rap", "trap"],
     "title": "Street Live",
     "totalTracks": 1,
     "type": "single",
@@ -77,15 +61,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "FORCEGNG"
-    ],
+    "artists": ["FORCEGNG"],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27392908e3ddef53f96f8898e67",
     "releaseDate": "2025-06-13",
-    "tags": [
-      "rap"
-    ],
+    "tags": ["rap"],
     "title": "Sport Mode",
     "totalTracks": 1,
     "type": "single",
@@ -102,16 +82,11 @@
         "type": "LOST"
       }
     ],
-    "artists": [
-      "STAS AZARENKO",
-      "FORCEGNG"
-    ],
+    "artists": ["STAS AZARENKO", "FORCEGNG"],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e91109ed0e7f36b472cb9055",
     "releaseDate": "2025-01-24",
-    "tags": [
-      "rap"
-    ],
+    "tags": ["rap"],
     "title": "Кішка",
     "totalTracks": 1,
     "type": "single",
@@ -128,19 +103,11 @@
         "type": "LOST"
       }
     ],
-    "artists": [
-      "STAS AZARENKO",
-      "FORCEGNG",
-      "Lay"
-    ],
+    "artists": ["STAS AZARENKO", "FORCEGNG", "Lay"],
     "artistsPopularity": 5,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273817e84c1516e64c0254bf24a",
     "releaseDate": "2025-01-10",
-    "tags": [
-      "chinese",
-      "rap",
-      "C-pop"
-    ],
+    "tags": ["chinese", "rap", "C-pop"],
     "title": "Аптека",
     "totalTracks": 1,
     "type": "single",
@@ -153,17 +120,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Driplla",
-      "FORCEGNG",
-      "Wavy Dem"
-    ],
+    "artists": ["Driplla", "FORCEGNG", "Wavy Dem"],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d521d333addcd825465af5a4",
     "releaseDate": "2024-07-05",
-    "tags": [
-      "rap"
-    ],
+    "tags": ["rap"],
     "title": "Nascar City",
     "totalTracks": 5,
     "type": "single",
@@ -176,16 +137,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Acid Flame",
-      "FORCEGNG"
-    ],
+    "artists": ["Acid Flame", "FORCEGNG"],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736530f2f20bbe6d5e3cf743f4",
     "releaseDate": "2024-05-04",
-    "tags": [
-      "rap"
-    ],
+    "tags": ["rap"],
     "title": "MMF",
     "totalTracks": 1,
     "type": "single",
@@ -198,15 +154,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "FORCEGNG"
-    ],
+    "artists": ["FORCEGNG"],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735e0f660c0ba63becc50e3b11",
     "releaseDate": "2024-05-03",
-    "tags": [
-      "rap"
-    ],
+    "tags": ["rap"],
     "title": "Немає меж",
     "totalTracks": 1,
     "type": "single",
@@ -219,16 +171,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "STAS AZARENKO",
-      "FORCEGNG"
-    ],
+    "artists": ["STAS AZARENKO", "FORCEGNG"],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27316579888ad1bc09b799964c9",
     "releaseDate": "2024-03-29",
-    "tags": [
-      "rap"
-    ],
+    "tags": ["rap"],
     "title": "2headed Goat",
     "totalTracks": 1,
     "type": "single",
@@ -241,19 +188,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Echteliebe",
-      "FORCEGNG",
-      "FRCGNG"
-    ],
+    "artists": ["Echteliebe", "FORCEGNG", "FRCGNG"],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739fb20035c69905c7a4ea1f70",
     "releaseDate": "2024-03-01",
-    "tags": [
-      "hip hop",
-      "rap",
-      "pop rap"
-    ],
+    "tags": ["hip hop", "rap", "pop rap"],
     "title": "Клуб",
     "totalTracks": 1,
     "type": "single",
@@ -266,18 +205,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Hella",
-      "FORCEGNG"
-    ],
+    "artists": ["Hella", "FORCEGNG"],
     "artistsPopularity": 5,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735da97b11442fc4c9b45eb8a0",
     "releaseDate": "2024-02-02",
-    "tags": [
-      "math rock",
-      "rap",
-      "noise rock"
-    ],
+    "tags": ["math rock", "rap", "noise rock"],
     "title": "Jim Parker",
     "totalTracks": 1,
     "type": "single",
@@ -290,17 +222,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Driplla",
-      "FORCEGNG",
-      "STAS AZARENKO"
-    ],
+    "artists": ["Driplla", "FORCEGNG", "STAS AZARENKO"],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b1d1c20c3d97b2a79211258a",
     "releaseDate": "2023-10-27",
-    "tags": [
-      "rap"
-    ],
+    "tags": ["rap"],
     "title": "3mg",
     "totalTracks": 1,
     "type": "single",
@@ -313,15 +239,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "FORCEGNG"
-    ],
+    "artists": ["FORCEGNG"],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732ac11616189525737aa662cf",
     "releaseDate": "2023-03-03",
-    "tags": [
-      "rap"
-    ],
+    "tags": ["rap"],
     "title": "GOLD TALK",
     "totalTracks": 1,
     "type": "single",
@@ -338,15 +260,11 @@
         "type": "LOST"
       }
     ],
-    "artists": [
-      "FORCEGNG"
-    ],
+    "artists": ["FORCEGNG"],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273be6c9d9bf8c4a7f4a8487d57",
     "releaseDate": "2022-12-16",
-    "tags": [
-      "rap"
-    ],
+    "tags": ["rap"],
     "title": "HUNNIDZ UP (feat. Lil Randy)",
     "totalTracks": 1,
     "type": "single",
@@ -363,18 +281,11 @@
         "type": "LOST"
       }
     ],
-    "artists": [
-      "Sagul",
-      "AQUAKILLA",
-      "FORCEGNG"
-    ],
+    "artists": ["Sagul", "AQUAKILLA", "FORCEGNG"],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736572b21a0dd4dc954dcfe4ff",
     "releaseDate": "2022-10-07",
-    "tags": [
-      "Hip-Hop",
-      "rap"
-    ],
+    "tags": ["Hip-Hop", "rap"],
     "title": "MULLA",
     "totalTracks": 1,
     "type": "single",
@@ -391,16 +302,11 @@
         "type": "LOST"
       }
     ],
-    "artists": [
-      "STAS AZARENKO",
-      "FORCEGNG"
-    ],
+    "artists": ["STAS AZARENKO", "FORCEGNG"],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732c960ace12130ffa7bc5e7f3",
     "releaseDate": "2022-09-30",
-    "tags": [
-      "rap"
-    ],
+    "tags": ["rap"],
     "title": "BLA BLA BLA",
     "totalTracks": 1,
     "type": "single",
@@ -413,15 +319,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "FORCEGNG"
-    ],
+    "artists": ["FORCEGNG"],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e92e6057f9a7cac355cffbe2",
     "releaseDate": "2022-08-26",
-    "tags": [
-      "rap"
-    ],
+    "tags": ["rap"],
     "title": "РАТУША",
     "totalTracks": 7,
     "type": "single",
@@ -434,17 +336,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "FORCEGNG",
-      "STAS AZARENKO",
-      "CW1LL"
-    ],
+    "artists": ["FORCEGNG", "STAS AZARENKO", "CW1LL"],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e2ee2e89134c0aaae6d0e293",
     "releaseDate": "2022-07-15",
-    "tags": [
-      "rap"
-    ],
+    "tags": ["rap"],
     "title": "GOATED",
     "totalTracks": 1,
     "type": "single",
@@ -457,15 +353,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "FORCEGNG"
-    ],
+    "artists": ["FORCEGNG"],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f9950f4af11201cc14e1a977",
     "releaseDate": "2022-05-13",
-    "tags": [
-      "rap"
-    ],
+    "tags": ["rap"],
     "title": "Булава",
     "totalTracks": 1,
     "type": "single",
@@ -478,9 +370,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Pozer90"
-    ],
+    "artists": ["Pozer90"],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27324bab48573f78e12de065988",
     "releaseDate": "2024-12-27",
@@ -497,9 +387,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "Driplla"
-    ],
+    "artists": ["Driplla"],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733ecc28b1ab12a4e14333e29f",
     "releaseDate": "2023-03-31",
@@ -516,15 +404,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "spaalm"
-    ],
+    "artists": ["spaalm"],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733324ddca7f48d012e616eb36",
     "releaseDate": "2023-03-31",
-    "tags": [
-      "cloud rap"
-    ],
+    "tags": ["cloud rap"],
     "title": "apathy bloom",
     "totalTracks": 7,
     "type": "album",
@@ -537,15 +421,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "WhiteJunk"
-    ],
+    "artists": ["WhiteJunk"],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b0d5a05bd2499b48f8f406d9",
     "releaseDate": "2023-07-14",
-    "tags": [
-      "rap"
-    ],
+    "tags": ["rap"],
     "title": "CHEMICAL",
     "totalTracks": 11,
     "type": "album",
@@ -558,9 +438,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "LIL MOREDOP3"
-    ],
+    "artists": ["LIL MOREDOP3"],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d2689874ebb1d2c08ccc3c48",
     "releaseDate": "2022-08-05",
@@ -577,15 +455,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "WhiteJunk"
-    ],
+    "artists": ["WhiteJunk"],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d35e8f9f8878f827163b2fd7",
     "releaseDate": "2023-04-14",
-    "tags": [
-      "rap"
-    ],
+    "tags": ["rap"],
     "title": "Парт",
     "totalTracks": 1,
     "type": "single",
@@ -598,9 +472,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "G Grizzie"
-    ],
+    "artists": ["G Grizzie"],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731715789e75992c2bdec804f0",
     "releaseDate": "2025-09-26",
@@ -621,16 +493,11 @@
         "type": "LOST"
       }
     ],
-    "artists": [
-      "STAS AZARENKO",
-      "FRCGNG"
-    ],
+    "artists": ["STAS AZARENKO", "FRCGNG"],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e91109ed0e7f36b472cb9055",
     "releaseDate": "2025-01-24",
-    "tags": [
-      "rap"
-    ],
+    "tags": ["rap"],
     "title": "Кішка",
     "totalTracks": 1,
     "type": "single",
@@ -647,19 +514,11 @@
         "type": "LOST"
       }
     ],
-    "artists": [
-      "STAS AZARENKO",
-      "FRCGNG",
-      "Lay"
-    ],
+    "artists": ["STAS AZARENKO", "FRCGNG", "Lay"],
     "artistsPopularity": 5,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27306179b7b883e4397fe86a1d0",
     "releaseDate": "2025-01-10",
-    "tags": [
-      "chinese",
-      "rap",
-      "C-pop"
-    ],
+    "tags": ["chinese", "rap", "C-pop"],
     "title": "Аптека",
     "totalTracks": 1,
     "type": "single",
@@ -672,9 +531,7 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "XEROGI"
-    ],
+    "artists": ["XEROGI"],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735884aab156b96b4afc13f07d",
     "releaseDate": "2025-10-19",
@@ -699,15 +556,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "FORCEGNG"
-    ],
+    "artists": ["FORCEGNG"],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27325cd6b239353adc2c5e4ccc3",
     "releaseDate": "2024-02-09",
-    "tags": [
-      "rap"
-    ],
+    "tags": ["rap"],
     "title": "Не загуби себе",
     "totalTracks": 1,
     "type": "single",
@@ -724,15 +577,11 @@
         "type": "LOST"
       }
     ],
-    "artists": [
-      "FORCEGNG"
-    ],
+    "artists": ["FORCEGNG"],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27328de8a418da7885e994cdbf9",
     "releaseDate": "2023-08-25",
-    "tags": [
-      "rap"
-    ],
+    "tags": ["rap"],
     "title": "UFO SWAG SEASON",
     "totalTracks": 7,
     "type": "single",
@@ -753,15 +602,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "FORCEGNG"
-    ],
+    "artists": ["FORCEGNG"],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27367bf684bb616999b3db95352",
     "releaseDate": "2024-01-26",
-    "tags": [
-      "rap"
-    ],
+    "tags": ["rap"],
     "title": "Підіймаюсь",
     "totalTracks": 1,
     "type": "single",
@@ -774,15 +619,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "4ERDAK"
-    ],
+    "artists": ["4ERDAK"],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cd1a0949bf84f533e3ace240",
     "releaseDate": "2025-12-12",
-    "tags": [
-      "trap"
-    ],
+    "tags": ["trap"],
     "title": "Kvadrat 16",
     "totalTracks": 16,
     "type": "album",
@@ -795,15 +636,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "FORCEGNG"
-    ],
+    "artists": ["FORCEGNG"],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27328de8a418da7885e994cdbf9",
     "releaseDate": "2023-08-25",
-    "tags": [
-      "rap"
-    ],
+    "tags": ["rap"],
     "title": "UFO SWAGG SEASON",
     "totalTracks": 7,
     "type": "single",
@@ -816,15 +653,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "FORCEGNG"
-    ],
+    "artists": ["FORCEGNG"],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d63c689892ce56c4978f6957",
     "releaseDate": "2025-06-14",
-    "tags": [
-      "rap"
-    ],
+    "tags": ["rap"],
     "title": "Black Diamond",
     "totalTracks": 1,
     "type": "single",
@@ -837,15 +670,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "FORCEGNG"
-    ],
+    "artists": ["FORCEGNG"],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c10807716c604bb81da271e2",
     "releaseDate": "2024-01-12",
-    "tags": [
-      "rap"
-    ],
+    "tags": ["rap"],
     "title": "Звик до цього",
     "totalTracks": 1,
     "type": "single",
@@ -858,15 +687,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "FORCEGNG"
-    ],
+    "artists": ["FORCEGNG"],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ad196bb60f52d11fa70da6db",
     "releaseDate": "2022-12-16",
-    "tags": [
-      "rap"
-    ],
+    "tags": ["rap"],
     "title": "HUNNIDZ UP",
     "totalTracks": 1,
     "type": "single",
@@ -879,15 +704,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "FORCEGNG"
-    ],
+    "artists": ["FORCEGNG"],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734073c0857f3e37f09dfba37e",
     "releaseDate": "2026-01-30",
-    "tags": [
-      "rap"
-    ],
+    "tags": ["rap"],
     "title": "The Victim",
     "totalTracks": 1,
     "type": "single",
@@ -900,15 +721,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "FORCEGNG"
-    ],
+    "artists": ["FORCEGNG"],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b28e896ffcfdbd90f3794167",
     "releaseDate": "2026-02-06",
-    "tags": [
-      "rap"
-    ],
+    "tags": ["rap"],
     "title": "YNGB",
     "totalTracks": 2,
     "type": "single",
@@ -921,20 +738,31 @@
         "type": "FOUND"
       }
     ],
-    "artists": [
-      "FORCEGNG",
-      "4ERDAK"
-    ],
+    "artists": ["FORCEGNG", "4ERDAK"],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cf7e9fb5f3de9678db562d7b",
     "releaseDate": "2026-02-13",
-    "tags": [
-      "rap",
-      "trap"
-    ],
+    "tags": ["rap", "trap"],
     "title": "Cobra",
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1kA24EXxKUVdu2pzq6Sjdo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-20T22:23:55.815Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["FORCEGNG"],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f8fc7b132444140fbd30010c",
+    "releaseDate": "2026-02-20",
+    "tags": ["rap"],
+    "title": "YNGB: pt. 2.0",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1zTbIiD5JdzlH77bWyLdBq"
   }
 ]
