@@ -1,1 +1,189 @@
-[]
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-21T05:08:38.328Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["гліб співає"],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/zEEtLFe_GefzRV58khzFBlrdrIo25reN-Ok5lftokzB-VaG1yfRuSycQk8fyL9cd4e0uAkznWZK6-IXf=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": ["bedroom pop"],
+    "title": "підручник",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lUsn7RiWHZJ5mcnD7OVduMD003wob1rHk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-21T05:08:38.328Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["гліб співає"],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/pCoezmekmcwgsubUfR-FhpP2pwbZAQpkrd56F5Z8bBhN0EJZICwdJ0OlIrBmFS57CC-ugc_EHKjwDwhd=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": ["bedroom pop"],
+    "title": "Раз",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lpqHNcUUwITKBI6y_n0UQECVgh5kBeU94"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-21T05:08:38.328Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["гліб співає"],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/lTkDY4A-Wa6daq0FhQxgQhW_e-LUCvEbN1GeH8_4Qq2a8dJX6mKMspXrogTmwFZFm7bdI3tdFhM3uM-d=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": ["bedroom pop"],
+    "title": "квітень",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mc2my_RrBdb_sk7dg8hunf1462M_pDTmA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-21T05:08:38.328Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["гліб співає"],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/0lg0uDluV_c1V7TrmEL1ymJPo54wnMUdEYGI27lAUgIkt7yZi0YCEYud9_Nj8R7VWGGIsxnHDxTxvxtP=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": ["bedroom pop"],
+    "title": "додому",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mH8g8G7ln20I3HODYEK4d_lfdUozIBzdU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-21T05:08:38.328Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["гліб співає"],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/5Lw99_iIB0f-DXD4YGBDXN62CEw1Ck9UjioG7VhIFCxXcKjpjpVBmmJ7HX7v1Z2rPRpx_UvuJyPkiN8=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": ["bedroom pop"],
+    "title": "для інших",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mPlHTbXNZmbQ6KfVjXnIamYt417xyay6s"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-21T05:08:38.328Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["гліб співає"],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/ZSMCmDFtJXWHrBKHzO-CXyns10FS3xYABwj7jiKPsP6ahdXK8sSWaS3pP6uziLdUSk-oD9nNpEc5xZCj=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": ["bedroom pop"],
+    "title": "щастя любить тишу",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k2Kln6GJ1ZfJVtRn9nC5awl5NxEA_ZS-4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-21T05:08:38.328Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["гліб співає"],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/apZh5ZYhDb_k7BhFAZW9pENaokBZEjP9ZW0W2X40TAi99mZ2jEJzeZFqoGVhmt2lhY7QlK38E7cL_d4Eag=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": ["bedroom pop"],
+    "title": "тут і зараз",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mIC1cH4dIeMtHeX2qMvCGsWOOId_uasf8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-21T05:08:38.328Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["гліб співає"],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/ERXc_uaGg5R-mG1eIrt69loBFS5h1AyYh32W3JKS-DWv6wYbUY33VH8nrmY0LZyJ4FLcmBZV5zBdm7ed=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": ["bedroom pop"],
+    "title": "дорослий",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kiu31nNp18Rk1VE6ZaFj2D64_L_izsBi4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-21T05:08:38.328Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["гліб співає"],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/49Wa5UuwKE0UxVjc9XCMT6vcx3cMyoI87hqK63m8u5YeqA8-aGh1wAOSEkdRagdrOcLD_kAiHf9v6m8=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": ["bedroom pop"],
+    "title": "паралельний всесвіт",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kV_uU-S7uknRISwz0B3vz7-SXtITZnRQ0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-21T05:08:38.328Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["гліб співає"],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/u5yjb46qN0UWOfKbQlOb9TWPB1UIIXUlm8y73XKOdN4C8KRWlsWWLFHzJf7cK8me6XeYJVBldOMDbyKA=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": ["bedroom pop"],
+    "title": "двері зачиняються",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mRhlikYrcx7xbSXRDYibb3-Hc8AI8IUaE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-21T05:08:38.328Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["гліб співає"],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/EcIzwZQakll0sEWTgTRCWagj5woTsOE04qZF-d6K1myRCHHFap-nDNge8R9wSg9M8cUHrZlJ___nVhXzgg=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": ["bedroom pop"],
+    "title": "немає друзів",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lHoEVnR2gKjwoUzmHEJYnidOLONEwxxI0"
+  }
+]
