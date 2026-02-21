@@ -53,11 +53,22 @@ jobs:
         env:
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
 
-      - name: Commit and Push changes
+      - name: Commit changes
+        id: commit-check
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data/youtube-music docs
-          git diff --cached --quiet || git commit -m "chore: auto-update youtube music data and docs"
+
+          if git diff --cached --quiet; then
+            echo "changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "changes=true" >> $GITHUB_OUTPUT
+            git commit -m "chore: auto-update youtube music data and docs"
+          fi
+
+      - name: Push changes
+        if: steps.commit-check.outputs.changes == 'true'
+        run: |
           git pull origin ${{ github.ref_name }} --no-rebase
           git push origin HEAD:${{ github.ref_name }}
