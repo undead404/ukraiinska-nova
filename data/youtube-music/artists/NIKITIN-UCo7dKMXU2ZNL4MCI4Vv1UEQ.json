@@ -372,5 +372,22 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kuE01wqdYk6zcBwe767CTM0dFR2w1C39M"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-21T14:55:57.149Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["NIKITIN"],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/aHMQKwEWu33Dt1D4bqtgx9Bq4592HYczwvRAQOOwNEFHzlfcgx8X9UuHS9VZOH0aw3eYgwVzIhvA_CGf=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": ["dance"],
+    "title": "Я з народом (Але дайте вже тому народу найкращу погоду)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mQ6VqvNv6sWkvJINtaxU0hDc3twsJRiJc"
   }
 ]
