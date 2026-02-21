@@ -1568,6 +1568,10 @@
       {
         "time": "2025-09-22T17:45:56.497Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-21T17:54:34.895Z",
+        "type": "LOST"
       }
     ],
     "artists": ["Eric Deray"],
@@ -1845,5 +1849,22 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mROqYY7chwclQBK1OiCJGrLI4ssdfWQhU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-21T17:54:34.896Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["Eric Deray"],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/De-4FCmw5-DCrALBL03PXVJVKU3kGB0agJqwPscqfovSkDfTjRcQJvaQJ7DjHttZND3h2RKkYZPIJHWCiQ=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "I Got Summer On My Mind",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_khaqJdB_NDf-OfQ89dpRfpTJF2e-ItFsI"
   }
 ]
