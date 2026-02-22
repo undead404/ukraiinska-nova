@@ -6,11 +6,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Walls & Planets"],
+    "artists": [
+      "Walls & Planets"
+    ],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273112222166449a3a37f28cac3",
     "releaseDate": "2025-04-17",
-    "tags": ["post-hardcore", "metalcore"],
+    "tags": [
+      "post-hardcore",
+      "metalcore"
+    ],
     "title": "Вирок",
     "totalTracks": 1,
     "type": "single",
@@ -23,11 +28,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Walls & Planets"],
+    "artists": [
+      "Walls & Planets"
+    ],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733370acedc238433a07a82a86",
     "releaseDate": "2024-05-09",
-    "tags": ["post-hardcore", "metalcore"],
+    "tags": [
+      "post-hardcore",
+      "metalcore"
+    ],
     "title": "У вогні",
     "totalTracks": 1,
     "type": "single",
@@ -40,11 +50,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Walls & Planets"],
+    "artists": [
+      "Walls & Planets"
+    ],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733c643168cbc42bca1dd5c0ab",
     "releaseDate": "2023-10-03",
-    "tags": ["post-hardcore", "metalcore"],
+    "tags": [
+      "post-hardcore",
+      "metalcore"
+    ],
     "title": "Infinite Storm",
     "totalTracks": 1,
     "type": "single",
@@ -57,11 +72,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Walls & Planets"],
+    "artists": [
+      "Walls & Planets"
+    ],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b9bf11e4bde816b558f0d1ef",
     "releaseDate": "2025-11-20",
-    "tags": ["metalcore", "post-hardcore"],
+    "tags": [
+      "metalcore",
+      "post-hardcore"
+    ],
     "title": "Я і є страх",
     "totalTracks": 1,
     "type": "single",
@@ -72,16 +92,69 @@
       {
         "time": "2026-02-21T10:29:21.169Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-22T10:29:18.127Z",
+        "type": "LOST"
       }
     ],
-    "artists": ["Walls & Planets"],
+    "artists": [
+      "Walls & Planets"
+    ],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733ad9c8b19eecae937c757b4a",
     "releaseDate": "2025-11-20",
-    "tags": ["metalcore", "post-hardcore"],
+    "tags": [
+      "metalcore",
+      "post-hardcore"
+    ],
     "title": "Я і є страх (Instrumental Version)",
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/25ve2oUwEbcgyl03kwCiTv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-22T10:29:18.128Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Walls & Planets"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737d52c95e0ad5c5bfb5cc2800",
+    "releaseDate": "2026-02-21",
+    "tags": [
+      "metalcore",
+      "post-hardcore"
+    ],
+    "title": "У вогні (Instrumental Version)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1M29VDS5m10OoYXrR3rA0y"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-22T10:29:18.128Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Walls & Planets"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27320cf08f724ebe9d2f32b8799",
+    "releaseDate": "2026-02-21",
+    "tags": [
+      "metalcore",
+      "post-hardcore"
+    ],
+    "title": "Вирок (Instrumental Version)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5gjFTbhjKRvvJCfGdwDzuv"
   }
 ]

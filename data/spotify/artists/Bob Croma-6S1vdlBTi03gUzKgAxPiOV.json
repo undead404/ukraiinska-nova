@@ -117,5 +117,27 @@
     "totalTracks": 10,
     "type": "album",
     "url": "https://open.spotify.com/album/7ADRHZJeeBkgazmGnfQA9Z"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-22T10:22:12.157Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Bob Croma",
+      "DJ Shon"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c291ab480ab30744f487ac82",
+    "releaseDate": "2026-02-19",
+    "tags": [
+      "instrumental hip-hop"
+    ],
+    "title": "Врештірешт",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2LVOaapRzDRCeG2ii0IOws"
   }
 ]
