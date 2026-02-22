@@ -325,5 +325,22 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mr6R6vCXA8Caco79zsIyuECUjf9je7A3s"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-21T20:54:55.870Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": ["SHI"],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/KfqeNESCyPbg9HRNcFspxN5z4BqOgMj2U37JPABbQucvpZeNER25yaaprsh262Lhvc6xthCeAYVNKHxlrQ=w544-h544-l90-rj",
+    "releaseDate": "2015",
+    "tags": ["ambient", "darkwave"],
+    "title": "Wish",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_miHg-i8QDzfT9U2RcaP46-SW0CJ90hiCM"
   }
 ]
