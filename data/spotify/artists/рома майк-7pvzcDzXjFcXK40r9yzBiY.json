@@ -6,11 +6,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк"],
+    "artists": [
+      "рома майк"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cc14b99152813146fe281836",
     "releaseDate": "2025-08-08",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Таврія демо",
     "totalTracks": 12,
     "type": "album",
@@ -23,11 +27,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк"],
+    "artists": [
+      "рома майк"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27367ef9b0590416ad889ddbd1d",
     "releaseDate": "2024-08-21",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Маленький гєнста",
     "totalTracks": 9,
     "type": "album",
@@ -40,11 +48,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк"],
+    "artists": [
+      "рома майк"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c3a7c8f14116f67878f60c03",
     "releaseDate": "2023-08-17",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "New Era",
     "totalTracks": 7,
     "type": "album",
@@ -57,11 +69,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк"],
+    "artists": [
+      "рома майк"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d895ab3554bf4021002e274a",
     "releaseDate": "2021-11-12",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Рома Майк",
     "totalTracks": 15,
     "type": "album",
@@ -74,7 +90,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк", "Ешелон", "Воха"],
+    "artists": [
+      "рома майк",
+      "Ешелон",
+      "Воха"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27354a346cd820f348118e1a001",
     "releaseDate": "2020-05-12",
@@ -97,11 +117,19 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк", "Воха"],
+    "artists": [
+      "рома майк",
+      "Воха"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d47897209c8947e6d0efde07",
     "releaseDate": "2025-08-01",
-    "tags": ["Hip-Hop", "rap", "underground hip-hop", "underground rap"],
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "underground hip-hop",
+      "underground rap"
+    ],
     "title": "Завези мене",
     "totalTracks": 1,
     "type": "single",
@@ -114,11 +142,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк"],
+    "artists": [
+      "рома майк"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a334cfe4aeb6dabaa79ab4f6",
     "releaseDate": "2025-07-09",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Пакетик",
     "totalTracks": 1,
     "type": "single",
@@ -131,11 +163,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк"],
+    "artists": [
+      "рома майк"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731546efce987b5422e51baa73",
     "releaseDate": "2025-06-24",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Kievskiy",
     "totalTracks": 1,
     "type": "single",
@@ -148,11 +184,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк"],
+    "artists": [
+      "рома майк"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d346ccfead3492226a53f806",
     "releaseDate": "2025-06-23",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Брудна Любов",
     "totalTracks": 1,
     "type": "single",
@@ -165,11 +205,19 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк", "Воха"],
+    "artists": [
+      "рома майк",
+      "Воха"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a62dca05d47095045a809f73",
     "releaseDate": "2025-03-03",
-    "tags": ["Hip-Hop", "rap", "underground hip-hop", "underground rap"],
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "underground hip-hop",
+      "underground rap"
+    ],
     "title": "Самота",
     "totalTracks": 1,
     "type": "single",
@@ -182,11 +230,20 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк", "Кухар Шон", "Воха"],
+    "artists": [
+      "рома майк",
+      "Кухар Шон",
+      "Воха"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737e1b286d28765831726f6796",
     "releaseDate": "2025-02-14",
-    "tags": ["Hip-Hop", "rap", "underground hip-hop", "underground rap"],
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "underground hip-hop",
+      "underground rap"
+    ],
     "title": "Хованки 2025",
     "totalTracks": 2,
     "type": "single",
@@ -199,11 +256,20 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк", "Воха", "Кухар Шон"],
+    "artists": [
+      "рома майк",
+      "Воха",
+      "Кухар Шон"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27322c34fa49cd0e3086ed0763c",
     "releaseDate": "2025-01-15",
-    "tags": ["Hip-Hop", "rap", "underground hip-hop", "underground rap"],
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "underground hip-hop",
+      "underground rap"
+    ],
     "title": "Хованки",
     "totalTracks": 1,
     "type": "single",
@@ -216,11 +282,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк"],
+    "artists": [
+      "рома майк"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730368d29129c5154802218488",
     "releaseDate": "2024-12-20",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Вулиця снів",
     "totalTracks": 5,
     "type": "single",
@@ -233,11 +303,19 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк", "Воха"],
+    "artists": [
+      "рома майк",
+      "Воха"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d0fab722d241f453c4d340c9",
     "releaseDate": "2024-11-22",
-    "tags": ["Hip-Hop", "rap", "underground hip-hop", "underground rap"],
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "underground hip-hop",
+      "underground rap"
+    ],
     "title": "Час",
     "totalTracks": 3,
     "type": "single",
@@ -250,11 +328,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк", "itsjustworthless"],
+    "artists": [
+      "рома майк",
+      "itsjustworthless"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731227f12520988c2cf10bf2d3",
     "releaseDate": "2024-09-24",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Всі дерева",
     "totalTracks": 1,
     "type": "single",
@@ -267,11 +350,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк"],
+    "artists": [
+      "рома майк"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27324f8df54c24956545117e957",
     "releaseDate": "2024-08-13",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "За монети",
     "totalTracks": 1,
     "type": "single",
@@ -284,7 +371,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["beshket", "рома майк", "Воха"],
+    "artists": [
+      "beshket",
+      "рома майк",
+      "Воха"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27340601784fe209fef6f8bba2d",
     "releaseDate": "2024-05-31",
@@ -309,11 +400,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк"],
+    "artists": [
+      "рома майк"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e926d0becb014094d7457ec5",
     "releaseDate": "2024-02-07",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Що таке життя?",
     "totalTracks": 2,
     "type": "single",
@@ -326,11 +421,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк", "Ekspert"],
+    "artists": [
+      "рома майк",
+      "Ekspert"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735003065d7397b086f5f95a9f",
     "releaseDate": "2024-02-01",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Пробуди мене",
     "totalTracks": 1,
     "type": "single",
@@ -343,11 +443,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк", "ХЛОПЕЦЬ"],
+    "artists": [
+      "рома майк",
+      "ХЛОПЕЦЬ"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730df2d7597ab5fc2fc438f910",
     "releaseDate": "2023-07-25",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Забувший",
     "totalTracks": 1,
     "type": "single",
@@ -360,11 +465,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк", "ХЛОПЕЦЬ"],
+    "artists": [
+      "рома майк",
+      "ХЛОПЕЦЬ"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273573182059f75cd5f6d0ff024",
     "releaseDate": "2023-05-26",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Фарі он",
     "totalTracks": 1,
     "type": "single",
@@ -377,11 +487,19 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк", "Віктор Винник"],
+    "artists": [
+      "рома майк",
+      "Віктор Винник"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a038f6e35173c6f590c521d1",
     "releaseDate": "2023-05-05",
-    "tags": ["pop", "rap", "rock", "male vocalists"],
+    "tags": [
+      "pop",
+      "rap",
+      "rock",
+      "male vocalists"
+    ],
     "title": "New Era",
     "totalTracks": 1,
     "type": "single",
@@ -394,11 +512,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк"],
+    "artists": [
+      "рома майк"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273896ab62ff7c9c19220d1682e",
     "releaseDate": "2022-10-28",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "-32",
     "totalTracks": 2,
     "type": "single",
@@ -411,11 +533,19 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк", "Воха"],
+    "artists": [
+      "рома майк",
+      "Воха"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733e40df591a2c81e70641a724",
     "releaseDate": "2022-07-11",
-    "tags": ["Hip-Hop", "rap", "underground hip-hop", "underground rap"],
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "underground hip-hop",
+      "underground rap"
+    ],
     "title": "Працюй далі",
     "totalTracks": 1,
     "type": "single",
@@ -428,11 +558,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк"],
+    "artists": [
+      "рома майк"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739f9bc7cbee82925c0e1507f8",
     "releaseDate": "2022-06-17",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Новий день",
     "totalTracks": 1,
     "type": "single",
@@ -445,11 +579,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк"],
+    "artists": [
+      "рома майк"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739dcbb10a97eadd855fb393f4",
     "releaseDate": "2022-05-03",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Україна кличе",
     "totalTracks": 1,
     "type": "single",
@@ -462,11 +600,19 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк", "Воха"],
+    "artists": [
+      "рома майк",
+      "Воха"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273217e7aa21cf790bee0306814",
     "releaseDate": "2022-04-07",
-    "tags": ["Hip-Hop", "rap", "underground hip-hop", "underground rap"],
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "underground hip-hop",
+      "underground rap"
+    ],
     "title": "Пусте місце",
     "totalTracks": 1,
     "type": "single",
@@ -479,7 +625,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк", "Воха", "аппекс"],
+    "artists": [
+      "рома майк",
+      "Воха",
+      "аппекс"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273054395b0e83748b96ee62bc2",
     "releaseDate": "2022-03-25",
@@ -502,11 +652,19 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк", "Воха"],
+    "artists": [
+      "рома майк",
+      "Воха"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f9e1f16a184c180c87ec5da3",
     "releaseDate": "2022-03-23",
-    "tags": ["Hip-Hop", "rap", "underground hip-hop", "underground rap"],
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "underground hip-hop",
+      "underground rap"
+    ],
     "title": "Біланіч",
     "totalTracks": 2,
     "type": "single",
@@ -519,11 +677,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк"],
+    "artists": [
+      "рома майк"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cc3f46246906dabddcf93aac",
     "releaseDate": "2022-02-23",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Сили / Сонячний зайчик",
     "totalTracks": 2,
     "type": "single",
@@ -536,11 +698,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк"],
+    "artists": [
+      "рома майк"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737e6277ec866e2ddbc8c2a90c",
     "releaseDate": "2022-02-09",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Приглушує / Бальзам",
     "totalTracks": 2,
     "type": "single",
@@ -553,11 +719,20 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк", "Воха", "люц"],
+    "artists": [
+      "рома майк",
+      "Воха",
+      "люц"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c689dad29b875afd00801c17",
     "releaseDate": "2021-08-10",
-    "tags": ["Hip-Hop", "rap", "underground hip-hop", "underground rap"],
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "underground hip-hop",
+      "underground rap"
+    ],
     "title": "Мати ціль",
     "totalTracks": 1,
     "type": "single",
@@ -570,11 +745,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк"],
+    "artists": [
+      "рома майк"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273239c39337940ab0277ffb46e",
     "releaseDate": "2021-06-04",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Босоніж",
     "totalTracks": 1,
     "type": "single",
@@ -587,11 +766,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк"],
+    "artists": [
+      "рома майк"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738db0bfd9a527b0be603eba46",
     "releaseDate": "2021-03-31",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Дощик",
     "totalTracks": 2,
     "type": "single",
@@ -604,11 +787,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк"],
+    "artists": [
+      "рома майк"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a1906a299b1122f9b391bfde",
     "releaseDate": "2021-02-26",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Станемо морем",
     "totalTracks": 1,
     "type": "single",
@@ -621,11 +808,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк"],
+    "artists": [
+      "рома майк"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a0dc1e3c7177366cdcf23de5",
     "releaseDate": "2021-02-12",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Вічно молодий",
     "totalTracks": 1,
     "type": "single",
@@ -638,11 +829,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк"],
+    "artists": [
+      "рома майк"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27355c1e9b63e84ab0707dd0fda",
     "releaseDate": "2021-01-08",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Ілюзія Коли",
     "totalTracks": 1,
     "type": "single",
@@ -655,11 +850,19 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк", "Воха"],
+    "artists": [
+      "рома майк",
+      "Воха"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273de7aceda3dd2bdc4d971229a",
     "releaseDate": "2020-11-20",
-    "tags": ["Hip-Hop", "rap", "underground hip-hop", "underground rap"],
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "underground hip-hop",
+      "underground rap"
+    ],
     "title": "Вєтєрок",
     "totalTracks": 1,
     "type": "single",
@@ -672,11 +875,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк"],
+    "artists": [
+      "рома майк"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c48829361c3e3860eaa64255",
     "releaseDate": "2020-10-23",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Бути Мужиком",
     "totalTracks": 1,
     "type": "single",
@@ -689,11 +896,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк"],
+    "artists": [
+      "рома майк"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27360fbcb09cf3358fec7a8b196",
     "releaseDate": "2020-07-09",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Лісова Пісня",
     "totalTracks": 1,
     "type": "single",
@@ -706,7 +917,11 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк", "Воха", "Ешелон"],
+    "artists": [
+      "рома майк",
+      "Воха",
+      "Ешелон"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a1826c3ba835e63064a1dc4f",
     "releaseDate": "2018",
@@ -729,11 +944,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["OTOY"],
+    "artists": [
+      "OTOY"
+    ],
     "artistsPopularity": 44,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eef54fb7e93de258cc9d6214",
     "releaseDate": "2024-01-30",
-    "tags": ["hip hop", "rap"],
+    "tags": [
+      "hip hop",
+      "rap"
+    ],
     "title": "темна ч.2",
     "totalTracks": 11,
     "type": "album",
@@ -746,11 +966,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["beshket"],
+    "artists": [
+      "beshket"
+    ],
     "artistsPopularity": 26,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a8abd3f53e5899c5161551d2",
     "releaseDate": "2024-11-01",
-    "tags": ["hip hop", "rap", "indie pop", "indie rock"],
+    "tags": [
+      "hip hop",
+      "rap",
+      "indie pop",
+      "indie rock"
+    ],
     "title": "Думки без терміну вживання",
     "totalTracks": 8,
     "type": "album",
@@ -763,11 +990,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Ешелон"],
+    "artists": [
+      "Ешелон"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c12edb9d12996e8b1eb0d04d",
     "releaseDate": "2022-03-22",
-    "tags": ["heavy metal"],
+    "tags": [
+      "heavy metal"
+    ],
     "title": "Перепайка",
     "totalTracks": 1,
     "type": "single",
@@ -780,11 +1011,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Матвій М."],
+    "artists": [
+      "Матвій М."
+    ],
     "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e7dd695dd320636a53fc043c",
     "releaseDate": "2025-10-03",
-    "tags": ["rnb", "alternative rnb", "Neo-Soul"],
+    "tags": [
+      "rnb",
+      "alternative rnb",
+      "Neo-Soul"
+    ],
     "title": "Думи",
     "totalTracks": 2,
     "type": "single",
@@ -797,11 +1034,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк"],
+    "artists": [
+      "рома майк"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab7c5ac7b3bcd030100798a8",
     "releaseDate": "2025-10-17",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "+380",
     "totalTracks": 1,
     "type": "single",
@@ -814,11 +1055,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк"],
+    "artists": [
+      "рома майк"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f56dbf2ca901d4a085136b7b",
     "releaseDate": "2025-10-30",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Забуття",
     "totalTracks": 1,
     "type": "single",
@@ -831,11 +1076,19 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк", "Воха"],
+    "artists": [
+      "рома майк",
+      "Воха"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c37eb364050f87c3a5ef9aaa",
     "releaseDate": "2025-10-31",
-    "tags": ["Hip-Hop", "rap", "underground hip-hop", "underground rap"],
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "underground hip-hop",
+      "underground rap"
+    ],
     "title": "Кров",
     "totalTracks": 20,
     "type": "album",
@@ -852,11 +1105,15 @@
         "type": "LOST"
       }
     ],
-    "artists": ["рома майк"],
+    "artists": [
+      "рома майк"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27375448674cb6c0a88d433a42d",
     "releaseDate": "2025-12-15",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Вбий свою голову",
     "totalTracks": 1,
     "type": "single",
@@ -869,11 +1126,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк"],
+    "artists": [
+      "рома майк"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f8d9e42dc0d4d57dc49c6ff9",
     "releaseDate": "2025-12-14",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Вбий свою голову",
     "totalTracks": 1,
     "type": "single",
@@ -886,11 +1147,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк"],
+    "artists": [
+      "рома майк"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738d5fc8eff224b56aa9a50e2c",
     "releaseDate": "2025-12-31",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Микола Калкін",
     "totalTracks": 1,
     "type": "single",
@@ -903,11 +1168,19 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк", "Воха"],
+    "artists": [
+      "рома майк",
+      "Воха"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27362ab29a9cbdd590327203707",
     "releaseDate": "2026-01-06",
-    "tags": ["Hip-Hop", "rap", "underground hip-hop", "underground rap"],
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "underground hip-hop",
+      "underground rap"
+    ],
     "title": "Хай пощастить мені завтра",
     "totalTracks": 2,
     "type": "single",
@@ -920,11 +1193,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк", "Ekspert", "Матвій М."],
+    "artists": [
+      "рома майк",
+      "Ekspert",
+      "Матвій М."
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f77e6f5ea97b87ef0da2d174",
     "releaseDate": "2026-01-08",
-    "tags": ["Neo-Soul", "rap"],
+    "tags": [
+      "Neo-Soul",
+      "rap"
+    ],
     "title": "Майкчек 1 2",
     "totalTracks": 1,
     "type": "single",
@@ -937,11 +1217,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк", "Матвій М."],
+    "artists": [
+      "рома майк",
+      "Матвій М."
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e6bcc454f97f786ae1eaf264",
     "releaseDate": "2026-01-21",
-    "tags": ["Neo-Soul", "rap"],
+    "tags": [
+      "Neo-Soul",
+      "rap"
+    ],
     "title": "Сонний птах",
     "totalTracks": 1,
     "type": "single",
@@ -954,11 +1240,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк", "Матвій М."],
+    "artists": [
+      "рома майк",
+      "Матвій М."
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bdd680183bfc9dd7e69323d3",
     "releaseDate": "2026-02-02",
-    "tags": ["Neo-Soul", "rap"],
+    "tags": [
+      "Neo-Soul",
+      "rap"
+    ],
     "title": "Ще по одній",
     "totalTracks": 3,
     "type": "single",
@@ -971,11 +1263,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк"],
+    "artists": [
+      "рома майк"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27397d2cd6dd282bb5aa93b9c56",
     "releaseDate": "2026-02-16",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Ziplock",
     "totalTracks": 1,
     "type": "single",
@@ -988,11 +1284,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["рома майк"],
+    "artists": [
+      "рома майк"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734999f865731587b1a84348e6",
     "releaseDate": "2026-02-20",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Та ні, все добре",
     "totalTracks": 1,
     "type": "single",
