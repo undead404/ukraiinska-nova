@@ -66,7 +66,7 @@ jobs:
             echo "changes=false" >> $GITHUB_OUTPUT
           else
             echo "changes=true" >> $GITHUB_OUTPUT
-            git commit -m "chore: auto-update spotify data and docs"
+            git commit -m "chore: auto-update spotify data and docs" --no-verify
           fi
 
       - name: Push changes
