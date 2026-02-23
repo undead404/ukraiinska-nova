@@ -619,5 +619,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mGlaFhlDUhFx1_u2nr3zEH-qcNqtfVsrw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-23T20:04:29.898Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "діти інженерів"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/Ii3u1Qlu6zd7v8u5hhTX91RxMZqqSu9vzYySP-oUkOB1uGtU4civmxXC3RuDyjgB2m7s5gjrt_PX9D0=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "Garage Rock",
+      "punk rock"
+    ],
+    "title": "Навушники+Рубці - Наживо, 2025",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nhjtSmeUeE1BAEYFdviNToLemjaVWQhgY"
   }
 ]
