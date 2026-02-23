@@ -623,5 +623,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2QopshR1fJbLMH1lmny0NL"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-23T18:39:57.798Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "dity inzheneriv"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27344e7620410b7c1d21ccfae07",
+    "releaseDate": "2026-02-23",
+    "tags": [
+      "alternative rock",
+      "post-punk"
+    ],
+    "title": "Навушники+Рубці - Наживо, 2025",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5bWsRhHirg1gRrGfHW8d2o"
   }
 ]
