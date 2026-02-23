@@ -6,11 +6,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["YARMAK"],
+    "artists": [
+      "YARMAK"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731ec5353655f8f0af9fb99198",
     "releaseDate": "2020-12-11",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "RED LINE",
     "totalTracks": 10,
     "type": "album",
@@ -23,11 +27,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["YARMAK"],
+    "artists": [
+      "YARMAK"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f973d989d9edc53799ca6402",
     "releaseDate": "2017-04-07",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "RESTART",
     "totalTracks": 16,
     "type": "album",
@@ -40,11 +48,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["YARMAK"],
+    "artists": [
+      "YARMAK"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273df8a4e707ee52628a8da1b1c",
     "releaseDate": "2015-03-21",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Made in UA",
     "totalTracks": 18,
     "type": "album",
@@ -57,11 +69,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["YARMAK"],
+    "artists": [
+      "YARMAK"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f94a95efa950c55d31276ab3",
     "releaseDate": "2013-10-24",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Второй альбом",
     "totalTracks": 16,
     "type": "album",
@@ -78,11 +94,15 @@
         "type": "LOST"
       }
     ],
-    "artists": ["YARMAK"],
+    "artists": [
+      "YARMAK"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27325a3658f4d0d380210ba97fb",
     "releaseDate": "2012-10-18",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "ЯсЮТуба",
     "totalTracks": 14,
     "type": "album",
@@ -95,11 +115,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["YARMAK"],
+    "artists": [
+      "YARMAK"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27304ef7742da221ff62d072e09",
     "releaseDate": "2025-03-14",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "ЗАПОВІТ",
     "totalTracks": 1,
     "type": "single",
@@ -112,11 +136,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["YARMAK"],
+    "artists": [
+      "YARMAK"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731d00e363dc4a03b144527758",
     "releaseDate": "2024-11-23",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Замкнутий контур",
     "totalTracks": 1,
     "type": "single",
@@ -129,11 +157,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["YARMAK"],
+    "artists": [
+      "YARMAK"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27350a77e5494e7a739867bb668",
     "releaseDate": "2024-06-15",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Mi",
     "totalTracks": 1,
     "type": "single",
@@ -146,11 +178,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["YARMAK"],
+    "artists": [
+      "YARMAK"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732997a6c208f307be83f34b93",
     "releaseDate": "2024-02-25",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "ВАВИЛОН",
     "totalTracks": 1,
     "type": "single",
@@ -163,11 +199,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Ubrave", "БЕЗ ОБМЕЖЕНЬ", "YARMAK"],
+    "artists": [
+      "Ubrave",
+      "БЕЗ ОБМЕЖЕНЬ",
+      "YARMAK"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a7c7ed4488c1f3b649fab1d4",
     "releaseDate": "2023-12-06",
-    "tags": ["rock", "rap"],
+    "tags": [
+      "rock",
+      "rap"
+    ],
     "title": "Незламність",
     "totalTracks": 1,
     "type": "single",
@@ -180,11 +223,19 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ТНМК", "YARMAK", "Jalsomino"],
+    "artists": [
+      "ТНМК",
+      "YARMAK",
+      "Jalsomino"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c04eeff7a2f291f3792954d7",
     "releaseDate": "2023-10-27",
-    "tags": ["Hip-Hop", "rap", "dubstep"],
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "dubstep"
+    ],
     "title": "++ (Jalsomino Mix)",
     "totalTracks": 2,
     "type": "single",
@@ -197,11 +248,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["YARMAK", "Bunroud"],
+    "artists": [
+      "YARMAK",
+      "Bunroud"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730dad6bfb329500b6c7092f8d",
     "releaseDate": "2023-09-14",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "RAGNAROK (Bunroud Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -214,11 +270,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["ТНМК", "YARMAK"],
+    "artists": [
+      "ТНМК",
+      "YARMAK"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731f48ba19d1bd59f4c2c11530",
     "releaseDate": "2023-08-18",
-    "tags": ["Hip-Hop", "rap"],
+    "tags": [
+      "Hip-Hop",
+      "rap"
+    ],
     "title": "++",
     "totalTracks": 1,
     "type": "single",
@@ -231,11 +293,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["YARMAK"],
+    "artists": [
+      "YARMAK"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d965a7858b897212bb690539",
     "releaseDate": "2023-05-27",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "RAGNAROK",
     "totalTracks": 1,
     "type": "single",
@@ -248,11 +314,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Sasha Chemerov", "Коля Сєрга", "YARMAK"],
+    "artists": [
+      "Sasha Chemerov",
+      "Коля Сєрга",
+      "YARMAK"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b757acd9da2a1aba8522ee98",
     "releaseDate": "2023-05-06",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Піхота (Культурний Десант)",
     "totalTracks": 1,
     "type": "single",
@@ -265,11 +337,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Tony Tonite", "YARMAK"],
+    "artists": [
+      "Tony Tonite",
+      "YARMAK"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a966a46a13e66157cbf914e5",
     "releaseDate": "2022-12-22",
-    "tags": ["Hip-Hop", "rap", "House"],
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "House"
+    ],
     "title": "Українське Сонце",
     "totalTracks": 1,
     "type": "single",
@@ -282,11 +361,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["YARMAK"],
+    "artists": [
+      "YARMAK"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b453daf93e529a91b7bf2f98",
     "releaseDate": "2022-11-21",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Хай нам брате пощастить",
     "totalTracks": 1,
     "type": "single",
@@ -299,11 +382,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["YARMAK"],
+    "artists": [
+      "YARMAK"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733bea368aa240de5499728f9d",
     "releaseDate": "2022-08-26",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "МОЯ КРАЇНА",
     "totalTracks": 1,
     "type": "single",
@@ -316,11 +403,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["YARMAK"],
+    "artists": [
+      "YARMAK"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fed4bd179e817d8d1ac3779d",
     "releaseDate": "2022-05-08",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "ДИКЕ ПОЛЕ",
     "totalTracks": 1,
     "type": "single",
@@ -333,11 +424,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["YARMAK"],
+    "artists": [
+      "YARMAK"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a1e5a5eca0e01905d6c71249",
     "releaseDate": "2021-08-22",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Потрібен живим",
     "totalTracks": 1,
     "type": "single",
@@ -350,11 +445,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["YARMAK"],
+    "artists": [
+      "YARMAK"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733abca09fd22ab14564c57c14",
     "releaseDate": "2021-03-08",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Мої дівчата",
     "totalTracks": 1,
     "type": "single",
@@ -367,11 +466,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["KALUSH", "YARMAK"],
+    "artists": [
+      "KALUSH",
+      "YARMAK"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733a9a797580084ed5a325b9a0",
     "releaseDate": "2020-10-18",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Таких як я (Takyh Yak Ya)",
     "totalTracks": 1,
     "type": "single",
@@ -384,11 +488,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["YARMAK"],
+    "artists": [
+      "YARMAK"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273340f7a1c5cad954f685a9ac4",
     "releaseDate": "2020-05-23",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "На экзамен",
     "totalTracks": 1,
     "type": "single",
@@ -401,11 +509,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["YARMAK"],
+    "artists": [
+      "YARMAK"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ce305de68e6ae06df5f5858e",
     "releaseDate": "2020-04-27",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Вона",
     "totalTracks": 1,
     "type": "single",
@@ -418,11 +530,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["YARMAK"],
+    "artists": [
+      "YARMAK"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b5e30a56ed44ca45f5db4677",
     "releaseDate": "2020-03-07",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Пара года",
     "totalTracks": 1,
     "type": "single",
@@ -435,11 +551,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["YARMAK"],
+    "artists": [
+      "YARMAK"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c24fc8622f3bb3ed952121bb",
     "releaseDate": "2019-03-23",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "ТУТ МІЙ ДІМ",
     "totalTracks": 1,
     "type": "single",
@@ -452,11 +572,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["YARMAK"],
+    "artists": [
+      "YARMAK"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730751f1f6132b893840d8c3ad",
     "releaseDate": "2018-12-06",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Voin",
     "totalTracks": 1,
     "type": "single",
@@ -469,11 +593,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["YARMAK"],
+    "artists": [
+      "YARMAK"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f8d9809552003b1908cf8f8c",
     "releaseDate": "2018-10-20",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Волчата",
     "totalTracks": 1,
     "type": "single",
@@ -486,11 +614,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["YARMAK"],
+    "artists": [
+      "YARMAK"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738f92494c9fdb096d5bc4044d",
     "releaseDate": "2018-02-24",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Гни свою линию",
     "totalTracks": 1,
     "type": "single",
@@ -503,11 +635,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["YARMAK"],
+    "artists": [
+      "YARMAK"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273166f9ad86f06fe8b25d22fe8",
     "releaseDate": "2017-03-12",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Счастье",
     "totalTracks": 1,
     "type": "single",
@@ -520,11 +656,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["YARMAK"],
+    "artists": [
+      "YARMAK"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273263a3a4cb1c5faaa0ed78704",
     "releaseDate": "2017-03-10",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Мои правила",
     "totalTracks": 1,
     "type": "single",
@@ -537,11 +677,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["YARMAK"],
+    "artists": [
+      "YARMAK"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273de28848561b5a9ec7b700276",
     "releaseDate": "2017-03-10",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Мама",
     "totalTracks": 1,
     "type": "single",
@@ -554,11 +698,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["YARMAK"],
+    "artists": [
+      "YARMAK"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27379d3099a8b29896ebc238a23",
     "releaseDate": "2017-03-04",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Чёрное золото",
     "totalTracks": 1,
     "type": "single",
@@ -571,11 +719,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["YARMAK"],
+    "artists": [
+      "YARMAK"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739e27a9e0a6405f6940e72c8b",
     "releaseDate": "2017-03-02",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Земля",
     "totalTracks": 1,
     "type": "single",
@@ -588,11 +740,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["YARMAK"],
+    "artists": [
+      "YARMAK"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273972d20e07bee3abde3359a6f",
     "releaseDate": "2017-03-01",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Миссия Орион",
     "totalTracks": 6,
     "type": "single",
@@ -605,11 +761,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["YARMAK"],
+    "artists": [
+      "YARMAK"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27389068ecf3761ebada8b8717e",
     "releaseDate": "2016-12-03",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Правило боя (Оригинальный саундтрек к фильму)",
     "totalTracks": 1,
     "type": "single",
@@ -622,11 +782,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["YARMAK"],
+    "artists": [
+      "YARMAK"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273128f0773f1ee4642ba13446b",
     "releaseDate": "2014",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "22",
     "totalTracks": 1,
     "type": "single",
@@ -639,11 +803,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["YARMAK"],
+    "artists": [
+      "YARMAK"
+    ],
     "artistsPopularity": 53,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27378c09bec74ad9937b62cf41b",
     "releaseDate": "2013-02-22",
-    "tags": ["rap"],
+    "tags": [
+      "rap"
+    ],
     "title": "Сердце пацана",
     "totalTracks": 1,
     "type": "single",
@@ -656,11 +824,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Jerry Heil"],
+    "artists": [
+      "Jerry Heil"
+    ],
     "artistsPopularity": 58,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a3f20e74f56e539245e5ed04",
     "releaseDate": "2025-05-02",
-    "tags": ["pop"],
+    "tags": [
+      "pop"
+    ],
     "title": "АРХЕТИПИ",
     "totalTracks": 16,
     "type": "album",
@@ -673,11 +845,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Artem Pivovarov"],
+    "artists": [
+      "Artem Pivovarov"
+    ],
     "artistsPopularity": 52,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739013a25e1a64e1c4f729d166",
     "releaseDate": "2023-03-10",
-    "tags": ["folk", "pop"],
+    "tags": [
+      "folk",
+      "pop"
+    ],
     "title": "Твої Вірші, Мої Ноти PT.1",
     "totalTracks": 17,
     "type": "album",
@@ -690,11 +867,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Kozak System"],
+    "artists": [
+      "Kozak System"
+    ],
     "artistsPopularity": 41,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cfb15c2e3ddb50a7e93a6747",
     "releaseDate": "2018-03-30",
-    "tags": ["folk rock"],
+    "tags": [
+      "folk rock"
+    ],
     "title": "Не моя",
     "totalTracks": 9,
     "type": "album",
@@ -707,7 +888,9 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["мережа ТВОРИ!"],
+    "artists": [
+      "мережа ТВОРИ!"
+    ],
     "artistsPopularity": 20,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273940d99c9875bead9288addc0",
     "releaseDate": "2025-09-05",
@@ -724,11 +907,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Tof"],
+    "artists": [
+      "Tof"
+    ],
     "artistsPopularity": 36,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e0b60e7814f260d1814178dd",
     "releaseDate": "2015-01-09",
-    "tags": ["rap", "dance", "Hip-Hop"],
+    "tags": [
+      "rap",
+      "dance",
+      "Hip-Hop"
+    ],
     "title": "Не спеша",
     "totalTracks": 15,
     "type": "album",
@@ -741,7 +930,9 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Бардак"],
+    "artists": [
+      "Бардак"
+    ],
     "artistsPopularity": 18,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733262ddc46438756f6b148ee9",
     "releaseDate": "2014-12-07",
@@ -758,11 +949,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["BAH.ROMA"],
+    "artists": [
+      "BAH.ROMA"
+    ],
     "artistsPopularity": 43,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731a5327b33eb87de345ae87c3",
     "releaseDate": "2016-08-11",
-    "tags": ["pop"],
+    "tags": [
+      "pop"
+    ],
     "title": "+-=",
     "totalTracks": 7,
     "type": "album",
@@ -775,7 +970,10 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Оркестр Почесної Варти", "Ubrave"],
+    "artists": [
+      "Оркестр Почесної Варти",
+      "Ubrave"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e2a45ddbd22a6a5c8d369bf8",
     "releaseDate": "2023-12-29",
@@ -792,11 +990,15 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Green Grey"],
+    "artists": [
+      "Green Grey"
+    ],
     "artistsPopularity": 28,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ea9b3a3efe9bcd5ae471cfd4",
     "releaseDate": "2018-09-08",
-    "tags": ["funk"],
+    "tags": [
+      "funk"
+    ],
     "title": "Indigo",
     "totalTracks": 1,
     "type": "single",
@@ -815,9 +1017,15 @@
       {
         "time": "2026-02-21T08:29:20.861Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-23T08:35:41.568Z",
+        "type": "LOST"
       }
     ],
-    "artists": ["Ustym Buk"],
+    "artists": [
+      "Ustym Buk"
+    ],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27311516773bd853f6be1b38675",
     "releaseDate": "2022-05-20",
@@ -884,13 +1092,22 @@
       {
         "time": "2026-01-18T08:29:43.189Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-02-23T08:35:41.568Z",
+        "type": "FOUND"
       }
     ],
-    "artists": ["Deepwine"],
+    "artists": [
+      "Deepwine"
+    ],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27387e06a1e68fd1db21155bbb3",
     "releaseDate": "2018-12-26",
-    "tags": ["indie rock", "indie pop"],
+    "tags": [
+      "indie rock",
+      "indie pop"
+    ],
     "title": "Під прицілом",
     "totalTracks": 1,
     "type": "single",
@@ -971,11 +1188,17 @@
         "type": "LOST"
       }
     ],
-    "artists": ["Ustym Buk", "Бук"],
+    "artists": [
+      "Ustym Buk",
+      "Бук"
+    ],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732ad434afa7b269597bd7f850",
     "releaseDate": "2022-07-08",
-    "tags": ["Hip-Hop", "rap"],
+    "tags": [
+      "Hip-Hop",
+      "rap"
+    ],
     "title": "RAPLIKA",
     "totalTracks": 8,
     "type": "album",
@@ -1000,11 +1223,15 @@
         "type": "LOST"
       }
     ],
-    "artists": ["Kozak System"],
+    "artists": [
+      "Kozak System"
+    ],
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273364f02a745182b7afe0060bf",
     "releaseDate": "2017-04-27",
-    "tags": ["folk rock"],
+    "tags": [
+      "folk rock"
+    ],
     "title": "Мій друг",
     "totalTracks": 1,
     "type": "single",
@@ -1017,11 +1244,18 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Artem Pivovarov", "YARMAK"],
+    "artists": [
+      "Artem Pivovarov",
+      "YARMAK"
+    ],
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b01d2b7e38ff7fbe87879ee3",
     "releaseDate": "2021-05-20",
-    "tags": ["folk", "pop", "rap"],
+    "tags": [
+      "folk",
+      "pop",
+      "rap"
+    ],
     "title": "Минають дні, минають ночі (Acoustic Live)",
     "totalTracks": 1,
     "type": "single",
@@ -1034,11 +1268,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Artem Pivovarov"],
+    "artists": [
+      "Artem Pivovarov"
+    ],
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732807324c32e4fb4b128aeb34",
     "releaseDate": "2022-11-04",
-    "tags": ["folk", "pop"],
+    "tags": [
+      "folk",
+      "pop"
+    ],
     "title": "The Best (UA)",
     "totalTracks": 15,
     "type": "album",
