@@ -288,5 +288,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6QGFlcbzNOFFQMglXhWJxq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-23T01:54:25.906Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BIOBITER"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d5d67e89f876d5da09a988bc",
+    "releaseDate": "2026-02-22",
+    "tags": [],
+    "title": "Коли прокинусь",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0sGfbjpXcoIvc6uUXI8clG"
   }
 ]
