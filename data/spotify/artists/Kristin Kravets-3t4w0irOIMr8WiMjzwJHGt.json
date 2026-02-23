@@ -6,7 +6,10 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["German Avny", "Kristin Kravets"],
+    "artists": [
+      "German Avny",
+      "Kristin Kravets"
+    ],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d4fcc6851091091dec236550",
     "releaseDate": "2025-09-05",
@@ -23,7 +26,10 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Kristin Kravets", "Nazario"],
+    "artists": [
+      "Kristin Kravets",
+      "Nazario"
+    ],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27304d4cecbca64c3bd3a5a45d3",
     "releaseDate": "2025-06-27",
@@ -40,11 +46,17 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["MONTES", "Kristin Kravets"],
+    "artists": [
+      "MONTES",
+      "Kristin Kravets"
+    ],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273152a677e897f683ebb980ff7",
     "releaseDate": "2024-08-02",
-    "tags": ["prog of 70s", "Psychedelic Rock"],
+    "tags": [
+      "prog of 70s",
+      "Psychedelic Rock"
+    ],
     "title": "БЕРУ СВОЄ",
     "totalTracks": 1,
     "type": "single",
@@ -57,7 +69,9 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Kristin Kravets"],
+    "artists": [
+      "Kristin Kravets"
+    ],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273986aae10ed226420d60daa50",
     "releaseDate": "2024-05-24",
@@ -74,7 +88,10 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Kristin Kravets", "Eric Deray"],
+    "artists": [
+      "Kristin Kravets",
+      "Eric Deray"
+    ],
     "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a0ba38c310a1bda163262620",
     "releaseDate": "2023-09-19",
@@ -91,11 +108,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Kristin Kravets", "Хтось Із Заходу"],
+    "artists": [
+      "Kristin Kravets",
+      "Хтось Із Заходу"
+    ],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738393f2107884ce4cfbf0beb1",
     "releaseDate": "2023-09-15",
-    "tags": ["dancehall"],
+    "tags": [
+      "dancehall"
+    ],
     "title": "Любіть Україну",
     "totalTracks": 1,
     "type": "single",
@@ -108,7 +130,10 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["German Avny", "Kristin Kravets"],
+    "artists": [
+      "German Avny",
+      "Kristin Kravets"
+    ],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d879128fbfa830d9e5682af8",
     "releaseDate": "2023-06-16",
@@ -125,7 +150,10 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Kristin Kravets", "Nazario"],
+    "artists": [
+      "Kristin Kravets",
+      "Nazario"
+    ],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27326ed57add11285b5a4badff0",
     "releaseDate": "2023-04-28",
@@ -142,11 +170,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Kristin Kravets", "Хтось Із Заходу"],
+    "artists": [
+      "Kristin Kravets",
+      "Хтось Із Заходу"
+    ],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735b16313cc5ae0e921abd3864",
     "releaseDate": "2023-03-10",
-    "tags": ["dancehall"],
+    "tags": [
+      "dancehall"
+    ],
     "title": "На роковини",
     "totalTracks": 2,
     "type": "single",
@@ -159,7 +192,10 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Kristin Kravets", "Nazario"],
+    "artists": [
+      "Kristin Kravets",
+      "Nazario"
+    ],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f1d76d9cd661b4bb761299d5",
     "releaseDate": "2022-12-23",
@@ -176,7 +212,9 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Kristin Kravets"],
+    "artists": [
+      "Kristin Kravets"
+    ],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a89e5f1f6008cc1997ea10b2",
     "releaseDate": "2022-08-19",
@@ -193,11 +231,16 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Kristin Kravets", "CVPELLV"],
+    "artists": [
+      "Kristin Kravets",
+      "CVPELLV"
+    ],
     "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27370162e38f2524f8e8cc2590f",
     "releaseDate": "2022-01-03",
-    "tags": ["trap"],
+    "tags": [
+      "trap"
+    ],
     "title": "Дихаю (CVPELLV Remix)",
     "totalTracks": 1,
     "type": "single",
@@ -210,7 +253,10 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["German Avny", "Kristin Kravets"],
+    "artists": [
+      "German Avny",
+      "Kristin Kravets"
+    ],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739c17fb441c03e5fd5e90112a",
     "releaseDate": "2021-05-11",
@@ -227,7 +273,9 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Kristin Kravets"],
+    "artists": [
+      "Kristin Kravets"
+    ],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27342e24942a73ddc41dd35da74",
     "releaseDate": "2021-01-18",
@@ -244,7 +292,9 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Kristin Kravets"],
+    "artists": [
+      "Kristin Kravets"
+    ],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ef481c8f83f5db23c79ea81e",
     "releaseDate": "2020-12-02",
@@ -261,7 +311,9 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Kristin Kravets"],
+    "artists": [
+      "Kristin Kravets"
+    ],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273342151e9dc42f1b4c2f24853",
     "releaseDate": "2020-10-09",
@@ -278,7 +330,10 @@
         "type": "FOUND"
       }
     ],
-    "artists": ["Kristin Kravets", "Nazario"],
+    "artists": [
+      "Kristin Kravets",
+      "Nazario"
+    ],
     "artistsPopularity": 2,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273302928d80bf1baeff3c2a9e3",
     "releaseDate": "2026-02-20",
