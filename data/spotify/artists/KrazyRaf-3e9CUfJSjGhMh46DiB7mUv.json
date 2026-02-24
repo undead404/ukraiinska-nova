@@ -1221,5 +1221,26 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/4pEuS1tcEJQmswtvOrX7dO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-24T14:37:41.744Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alexander Savvidi",
+      "Alexandra Savvidi",
+      "KrazyRaf"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a58b5d3bedfb5e1cc8e820b8",
+    "releaseDate": "2022-02-25",
+    "tags": [],
+    "title": "So Close",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3Tmpasr46ulUlawwAz7s5U"
   }
 ]
