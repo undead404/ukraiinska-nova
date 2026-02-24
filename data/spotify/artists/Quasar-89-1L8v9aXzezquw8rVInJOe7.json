@@ -1933,5 +1933,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6sGS9so9pXR1RWmVhCByHh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-24T23:29:45.628Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89",
+      "Кирило Галушко"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c4b87629546595d4d4746d1a",
+    "releaseDate": "2026-02-25",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Momentum",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5knvDDQ5DrVLpBNtDtnfG1"
   }
 ]
