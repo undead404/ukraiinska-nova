@@ -115,5 +115,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7zrZvJlXon7SEzduWoJ7tV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-24T01:56:08.282Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "oppi mpanda"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736ada31d1ef5bb7f610faae61",
+    "releaseDate": "2026-02-24",
+    "tags": [],
+    "title": "Тіні",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6GDkA7blRJ1wb2aKLPNrr5"
   }
 ]
