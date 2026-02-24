@@ -1998,5 +1998,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1dXZN0o6SDRuQlRV6KCsQp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-24T05:43:54.981Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ruslan Nota"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d54c8450e59574eb1016141d",
+    "releaseDate": "2026-02-19",
+    "tags": [],
+    "title": "Ти мені не даєш",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1nYH7td3enjn0mieMFeUGE"
   }
 ]
