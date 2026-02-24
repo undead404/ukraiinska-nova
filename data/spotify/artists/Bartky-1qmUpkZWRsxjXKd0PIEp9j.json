@@ -206,12 +206,16 @@
       {
         "time": "2026-02-23T11:30:04.494Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-02-24T11:30:18.078Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Drum&Tuba Band"
     ],
-    "artistsPopularity": 0,
+    "artistsPopularity": 1,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b27361f6bcf1e631577549c0b5dc",
     "releaseDate": "2024-02-21",
     "title": "Пам'ять",
