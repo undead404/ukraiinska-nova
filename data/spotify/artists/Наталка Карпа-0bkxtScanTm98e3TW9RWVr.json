@@ -869,5 +869,47 @@
     "totalTracks": 15,
     "type": "album",
     "url": "https://open.spotify.com/album/3CeXHrmEQnw7yQeMYnwex8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-25T21:24:22.060Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Natalka Karpa"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273495a5b70cc3b15c26e92f2b5",
+    "releaseDate": "2026-02-23",
+    "tags": [
+      "dance"
+    ],
+    "title": "Я для тебе живу",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/25BhybgCWox6VWZuoaIt90"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-25T21:24:22.060Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Natalka Karpa"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734d1057d51c9954ed64a9b43c",
+    "releaseDate": "2026-02-23",
+    "tags": [
+      "dance"
+    ],
+    "title": "Весняна",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7dYGAdzI53PrbLTfqHnYFp"
   }
 ]
