@@ -494,5 +494,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5KeMC1gDpPQeqLAOf0PjzE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-25T03:15:45.062Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Анна-Марія",
+      "Культурні сили"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27336aff7fccbb5da93b02657e4",
+    "releaseDate": "2026-02-24",
+    "tags": [],
+    "title": "Прифронтове дитинство",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4hXmM4nRYCoY3yctcDfERU"
   }
 ]
