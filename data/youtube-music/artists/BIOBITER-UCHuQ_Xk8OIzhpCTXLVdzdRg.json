@@ -264,5 +264,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k9UqibxJ8ojwacWm5zIZZoySgOEEPgZUE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-25T02:39:30.726Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BIOBITER"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/Z8lgguKfxDZS82y5cHwm0vsDivrSYNuF2XZYW84n3xB86QSp2F6BEZMiUaL53aYHMicwl2xoLuh2szntpQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Коли прокинусь",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mVHhZVj5o9vSt147TTXQmDgwS__JzB1tM"
   }
 ]
