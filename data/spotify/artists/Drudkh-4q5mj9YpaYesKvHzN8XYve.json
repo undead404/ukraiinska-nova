@@ -705,5 +705,27 @@
     "totalTracks": 1,
     "type": "album",
     "url": "https://open.spotify.com/album/4m8IhApQAkivPHRjXo0NYb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-25T04:54:25.349Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Drudkh"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a5fc5377a3b20ad869da9616",
+    "releaseDate": "2026-02-24",
+    "tags": [
+      "black metal",
+      "atmospheric black metal"
+    ],
+    "title": "Memory",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/66ALbcISLZCjjES4Y2kgKc"
   }
 ]
