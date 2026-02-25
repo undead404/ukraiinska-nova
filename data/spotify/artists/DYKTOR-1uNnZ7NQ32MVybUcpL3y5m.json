@@ -282,5 +282,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6OEEEQYQbFPlEZPj2inJQJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-25T17:38:57.801Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DYKTOR"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27351771bb403ce88af72856fe8",
+    "releaseDate": "2021-09-17",
+    "tags": [],
+    "title": "MONPACIE",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/2wvsjE1D6ogLXnmDxuvwB8"
   }
 ]
