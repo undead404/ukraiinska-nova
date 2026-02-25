@@ -954,5 +954,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kgBqvjgiOfrvBhfTy-JzkspHPpOconW9Q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-25T22:57:18.340Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гошуля"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/f0QsOiYvLQPm8dCh2360WMHuaoosL33Hv6blLvU_LdwADagRtWkI3fJ5VWhW9REchC1BtrXvgbWi85it=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Абсурд",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l6InBEtYRJgHj0jvWPj1jNySAjAu1wkng"
   }
 ]
