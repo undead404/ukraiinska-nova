@@ -1828,5 +1828,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3ZbDLRiXcwEcgrBrWSLB10"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-25T19:33:54.874Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Artem Loik"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738f860ec0ecc28d9baf8b8f47",
+    "releaseDate": "2026-02-25",
+    "tags": [],
+    "title": "Леся Українка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/37QWKKS5lfOfe0y6xr8QG5"
   }
 ]
