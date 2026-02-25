@@ -948,6 +948,10 @@
       {
         "time": "2026-01-25T06:22:35.244Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-25T06:38:06.241Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1068,5 +1072,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2zuQY3rG91vJAtKsWymVcy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-25T06:38:06.241Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Мята"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736e6677d3f6632f0b74e524d1",
+    "releaseDate": "2015-09-22",
+    "tags": [
+      "pop",
+      "rock"
+    ],
+    "title": "Щаслива",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/08QoHEsmFHCDvNUCuRVbtd"
   }
 ]
