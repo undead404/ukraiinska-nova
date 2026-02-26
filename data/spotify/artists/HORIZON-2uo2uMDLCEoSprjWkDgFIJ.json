@@ -2079,5 +2079,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7FBQbGvcot1jxmuVottDes"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-26T03:17:33.461Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "HORIZON",
+      "JustFaded"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273453ccc562f916a1a8bdc2617",
+    "releaseDate": "2026-02-25",
+    "tags": [
+      "hardcore",
+      "Stoner Rock"
+    ],
+    "title": "Казка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3mhEaYNEM44Xeh6repEuOn"
   }
 ]
