@@ -530,5 +530,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_na7TPDmGEw3gjWwmLvL2wWkkmlrbN7ngM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-26T07:08:32.933Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Андрій Кравченко"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/F05gCFEm5DubTNhrE2j50dBH2DBt0zK1gc_pSW6OPgpazwVE8_EJmoNZSZsrzalerf_jFb5Ip7EbVKd3vQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Золоті слова",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_khaB5Zq-a5k3oWTBBEynvjRQj8X0caemk"
   }
 ]
