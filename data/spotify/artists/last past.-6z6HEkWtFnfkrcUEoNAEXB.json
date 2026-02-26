@@ -328,5 +328,27 @@
     "totalTracks": 8,
     "type": "album",
     "url": "https://open.spotify.com/album/0UCX2op8wOnPNRTLoQxgR8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-26T01:55:21.501Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "last past."
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cff48bf731417446764eb264",
+    "releaseDate": "2026-02-25",
+    "tags": [
+      "indie rock",
+      "shoegaze"
+    ],
+    "title": "snowman need warmth too",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/53Bqxu9r6vXNgpwwhUPrVs"
   }
 ]
