@@ -471,5 +471,26 @@
     "totalTracks": 30,
     "type": "album",
     "url": "https://open.spotify.com/album/6dF9irelKZ2nidNyG51Wt9"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-26T06:37:15.057Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BLIND8"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733d890f9fbe69f6ab4de9853c",
+    "releaseDate": "2026-02-26",
+    "tags": [
+      "metalcore"
+    ],
+    "title": "grayscale",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7bVwmjR1NuNBYiVlfRRiBr"
   }
 ]
