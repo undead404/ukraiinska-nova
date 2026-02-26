@@ -345,5 +345,28 @@
     "totalTracks": 17,
     "type": "album",
     "url": "https://open.spotify.com/album/5WNjZdBlj83NeNSJF3xgrJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-26T12:33:05.203Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Max Degrand",
+      "Evgeny Khmara",
+      "Eugen Khmara"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735322cea3401937c39de97ddb",
+    "releaseDate": "2026-02-26",
+    "tags": [
+      "Classical"
+    ],
+    "title": "Another Planet",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1auUFH0fghpEuoYyr8FW2e"
   }
 ]

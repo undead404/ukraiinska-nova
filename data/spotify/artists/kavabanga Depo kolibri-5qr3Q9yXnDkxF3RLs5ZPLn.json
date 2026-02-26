@@ -2291,6 +2291,10 @@
       {
         "time": "2025-09-19T12:28:25.031Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-26T12:34:09.348Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -3085,5 +3089,49 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2giewvuUdIwhaNhZ3thEVK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-26T12:34:09.349Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "kavabanga Depo kolibri"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273be8983adb2fe12ea239b818f",
+    "releaseDate": "2026-02-25",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Запах прошедшего февраля (karmv remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7xymbaRKEecHqI7b2rezv7"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-26T12:34:09.349Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Dzharo & Khanza",
+      "kavabanga Depo kolibri"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736a3ac9dcb3b3a46874b2e9f3",
+    "releaseDate": "2020-06-01",
+    "tags": [
+      "Europop",
+      "Hip-Hop"
+    ],
+    "title": "Танцпол",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7gLOs4Liwxb6hlJINgNnDf"
   }
 ]
