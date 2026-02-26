@@ -525,5 +525,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4swcioL4Nk5263Yr22MspA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-26T17:35:16.150Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Андрій Кравченко"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273325d0eb4b3512711f1ec2a74",
+    "releaseDate": "2026-02-26",
+    "tags": [],
+    "title": "Золоті слова",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/47lFmnmHDM1Eu777s7GzCq"
   }
 ]
