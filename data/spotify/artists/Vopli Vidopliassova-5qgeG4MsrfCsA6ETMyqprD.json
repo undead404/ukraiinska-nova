@@ -582,12 +582,16 @@
       {
         "time": "2025-12-09T16:28:24.441Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-02-26T16:41:22.797Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "Vopli Vidopliassova"
     ],
-    "artistsPopularity": 35,
+    "artistsPopularity": 4,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bff7f6c1de167cd33fd80123",
     "releaseDate": "2021-04-12",
     "tags": [
