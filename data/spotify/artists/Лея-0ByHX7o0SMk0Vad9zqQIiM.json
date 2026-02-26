@@ -537,5 +537,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3wDTb9G0DWm9G8JnQCpIGy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-26T23:22:51.486Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Лея"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736d80e759fa9a61c9a94c7d15",
+    "releaseDate": "2026-02-26",
+    "tags": [
+      "folk rock"
+    ],
+    "title": "Дике Поле",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4I9uR6lpINAa1w2uflqmH8"
   }
 ]

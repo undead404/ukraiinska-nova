@@ -700,5 +700,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6MlCMk3yb2HFgHAOeAbPFS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-26T23:27:26.145Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KHAYAT"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a21ef98e0d229c742d062e68",
+    "releaseDate": "2026-02-26",
+    "tags": [
+      "folk"
+    ],
+    "title": "Триптих",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/085JISzeuRA29k1aY0Jdvz"
   }
 ]
