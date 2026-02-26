@@ -149,6 +149,10 @@
       {
         "time": "2025-12-10T16:54:07.796Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-26T16:08:39.787Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -530,5 +534,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lZYl6ajANafOJuOvex9L8_HKdlGRzNZeA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-26T16:08:39.788Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vopli Vidopliassova"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/ou4qKaJSt43C11TPztEXHfBmKorBOzC5mRIVnfoZbO6LDN3hWEPDNsBx2LOZS23tfZDBpIubP7CKu-M=w544-h544-l90-rj",
+    "releaseDate": "1997",
+    "tags": [
+      "rock"
+    ],
+    "title": "Music",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lg5J_V-iHmbEifMtQyTfCV7ggU0kSwd7Y"
   }
 ]
