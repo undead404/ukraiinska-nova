@@ -930,5 +930,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6DyovhRC4gSUoDojx7nruC"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-26T21:27:56.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Noise Pareidolia"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f19b891a42e65e91b468dc21",
+    "releaseDate": "2026-02-26",
+    "tags": [
+      "alternative rock",
+      "rock"
+    ],
+    "title": "Ляльковод",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7G84T5YYC4hUWwO7RxOOQH"
   }
 ]
