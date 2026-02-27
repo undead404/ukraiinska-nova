@@ -446,5 +446,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ks_3ZEXaOVhU2qDNmp6dh_eDm-e-YwxZU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-27T11:01:56.761Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kuaskio"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/7w7Mn2xBP5PKU5lG9K024o84Sd74_wW7mFQzarN5RWBGceK4fXZIzszXv2J6ebzHBxpGI323s0YEvfjW7g=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie pop",
+      "post-punk"
+    ],
+    "title": "вперед в минуле",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nqYqMZl9ynWPeWb05BDmvK8ZYvsxyUspM"
   }
 ]
