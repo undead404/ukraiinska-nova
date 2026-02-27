@@ -403,5 +403,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lYGtFmgD_NtkdSeZ1DBV3zrYjDMmb1Rxc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-27T21:55:34.394Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KRABIK"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/qsdVIqUfTOf4693fYW2GmSjtFkQcDFHlkrl6skw6xCREFH2nlCtugeDiye1UQZkmTZp18XOyV3hkCg7ZNA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Ясні зорі",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kpJnoZt8WjlZ-Ob9RVfl4vAmw-9Sz9Sns"
   }
 ]

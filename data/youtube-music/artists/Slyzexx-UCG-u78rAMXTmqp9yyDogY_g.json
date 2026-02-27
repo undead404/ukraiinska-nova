@@ -2855,6 +2855,10 @@
       {
         "time": "2026-02-20T21:55:35.228Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-27T21:56:40.911Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -3904,5 +3908,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kUZRoinM1KGb9y-LV6UjPZEPUYwqTHeME"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-27T21:56:40.912Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/YDLfwc9kPL3hyD87D8MkFc3AaKq8xoQB9v07aUCYYOO9ibqr8ORB8f6CNOgB0W9DOx4TtIorkAcOC6kk=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Echo",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kUHm5cw9ooI7Lpq-LWZ0W15UZpyCXav3M"
   }
 ]
