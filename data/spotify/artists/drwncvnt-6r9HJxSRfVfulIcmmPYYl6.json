@@ -2044,5 +2044,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4FXcjt2CfbkPS1uhjhcdvI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-27T12:29:15.832Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "drwncvnt"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d804277a23a8a31509ff1f9d",
+    "releaseDate": "2026-02-27",
+    "tags": [
+      "electronic"
+    ],
+    "title": "chiptune01",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0XfGtxwPoOlnvRxTnNTjVi"
   }
 ]

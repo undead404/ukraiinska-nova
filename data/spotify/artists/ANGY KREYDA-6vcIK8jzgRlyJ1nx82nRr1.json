@@ -1019,5 +1019,26 @@
     "totalTracks": 8,
     "type": "album",
     "url": "https://open.spotify.com/album/1ruuveobqn8PS2VaA1jPOR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-27T12:28:11.989Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ANGY KREYDA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736a2433a709305407c761e08d",
+    "releaseDate": "2026-02-27",
+    "tags": [
+      "pop"
+    ],
+    "title": "Дівчинка (Збиті рими)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4qYdLsdONIz92i32wJjr8h"
   }
 ]
