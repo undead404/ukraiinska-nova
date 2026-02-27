@@ -424,6 +424,10 @@
       {
         "time": "2025-09-23T05:47:09.550Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-27T05:13:17.638Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -655,5 +659,49 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kwiT60fA1pto7g-p9PrBm1UxDC0pzb7N0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-27T05:13:17.638Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PATSYKI Z FRANEKA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/gTqNwe0Iqj55pHQVzOTv47sq1eR5CiQYnklbnGLr4h64IRbigXVKzVaQx7SiwHKSvcvV8dmkVN4-GA0=w544-h544-l90-rj",
+    "releaseDate": "2018",
+    "tags": [
+      "pop",
+      "pop rap"
+    ],
+    "title": "Кайфова",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mv7ZlgnqmbxFcaPQxgwCtaNz9rHLDh8ik"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-27T05:13:17.638Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PATSYKI Z FRANEKA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/CosSkX7HQPzaclDfWx7foR_e-Hn-NK31ytCHr0sXc574e_C0PIbb9uok-MgRn3-7hF4UMbN1t-C8GsOU=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop",
+      "pop rap"
+    ],
+    "title": "MARICHKA (Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mcYpeTQObiyrOBdtYp0-_Pf8dhseTfwnE"
   }
 ]
