@@ -2296,5 +2296,26 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/5NMk6fijNoo8ewWgi8SwF2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-27T21:25:40.767Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "iPunkz"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a534c44d935d32c09c6d2f03",
+    "releaseDate": "2026-02-27",
+    "tags": [
+      "Brostep"
+    ],
+    "title": "Spirit",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4mXxOv0ljZ89f1OMOuJIlj"
   }
 ]

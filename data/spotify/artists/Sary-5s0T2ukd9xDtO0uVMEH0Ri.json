@@ -322,5 +322,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/487oRZc3pKTZ6l81i6CX7C"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-27T21:27:34.746Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sary"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733029d24acf3220bf52f6c370",
+    "releaseDate": "2026-02-27",
+    "tags": [
+      "electronic",
+      "hyperpop",
+      "pop",
+      "rnb"
+    ],
+    "title": "аптека",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6W2oeBY6J2VdON7N8IrIp7"
   }
 ]
