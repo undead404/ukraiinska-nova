@@ -155,5 +155,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2GLvh28UiGRDWLZuFxGW5e"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-27T13:44:21.557Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Zvøner"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27308e152730424b01a9e9bf1ce",
+    "releaseDate": "2026-02-27",
+    "tags": [],
+    "title": "Aporia",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1id7l7f6wxGyXuBhFVBjrB"
   }
 ]

@@ -153,5 +153,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2rtDPeHQDRQ87vQOEg5mAR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-27T13:38:41.423Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "СЗЧ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273989886eedcec7d94363d27ac",
+    "releaseDate": "2026-02-27",
+    "tags": [
+      "indie rock",
+      "rock",
+      "punk rock"
+    ],
+    "title": "Хто",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3HpOSExtP2EBEkUn1WfkQX"
   }
 ]
