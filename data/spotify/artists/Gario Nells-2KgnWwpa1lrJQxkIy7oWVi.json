@@ -586,5 +586,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4gVaIuroUkTGEpyapVUBCE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-27T20:26:21.720Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YOXDEN",
+      "Gario Nells"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273582695c38e80a64bec03890d",
+    "releaseDate": "2026-02-27",
+    "tags": [
+      "dance",
+      "electronic"
+    ],
+    "title": "ДО ВЕСНИ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6pkyxG0NgrYwpI4GRQNKbP"
   }
 ]
