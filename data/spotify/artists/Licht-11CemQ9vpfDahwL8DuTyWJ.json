@@ -67,5 +67,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1BCMa8k6Jitcm95fHioIr5"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-27T04:53:43.469Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Mulenko",
+      "Licht"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a338c6ce632e32620432f502",
+    "releaseDate": "2026-02-27",
+    "tags": [
+      "ambient",
+      "noise",
+      "post-rock"
+    ],
+    "title": "Дев'ятикласник",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0Ex8fj127jwxNZoDh3sHg1"
   }
 ]

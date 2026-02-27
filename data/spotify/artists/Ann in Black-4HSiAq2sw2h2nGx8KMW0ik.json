@@ -557,5 +557,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1wgiYOmlHJjCGdqBuJ7lDF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-27T04:50:37.471Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ann in Black"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27359498aba869107057bd51850",
+    "releaseDate": "2026-02-26",
+    "tags": [],
+    "title": "Ігриста напівсолодка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3CMvQoIXaatwUlH11LUdYm"
   }
 ]
