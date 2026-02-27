@@ -1073,5 +1073,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ndbxgHH-pHlbG5AS2SjXSFS4uJfkrk6lo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-27T09:02:15.626Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "I Wannabe"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/SyvlFza1glcZMuD_a1XPffM78K1AykNvjNJ8gCvnfysRn5GfTKKCtrkA8tUrXqRMIv3pXO9bMp5RaRBM=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "dubstep"
+    ],
+    "title": "Be With Me",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mwJSj63LNA7e0tRFqI-xeGVPEgowGqNro"
   }
 ]
