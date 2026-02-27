@@ -2187,5 +2187,28 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nOTTHSXe8RK65J0J_LcgK8C-eJvvudHcQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-27T07:07:22.359Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гурт Дно"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/QqbUSPqeuR5_HNa0Yhqk4jpes6qu_QDSYoVH4Cg6pdRP-6-4jaulnpCu9bKuoRCY8obmC-MKr0da7AVz=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "Avant-Pop",
+      "indie pop",
+      "indie rock"
+    ],
+    "title": "Маріуполь (feat. Вова Павловський)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lzzwLvzBv52SrnYcWmFQy8jekWF4KkOeQ"
   }
 ]
