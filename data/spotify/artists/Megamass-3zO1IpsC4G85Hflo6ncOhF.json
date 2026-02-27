@@ -178,5 +178,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1mtEebkeFC3I9ne0YBq0L9"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-27T11:27:51.350Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Megamass"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ceeb626baacb01698ed12f1a",
+    "releaseDate": "2026-02-26",
+    "tags": [
+      "metalcore"
+    ],
+    "title": "Я один із богів",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/35n32kieBLsRGf1bWknsJO"
   }
 ]
