@@ -254,5 +254,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4ag9MNkEld09Ol1QHZY1DB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-27T19:26:24.012Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ARKAYS"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27332c0c2437404b374ea98d689",
+    "releaseDate": "2026-02-27",
+    "tags": [],
+    "title": "По нічному місту",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5PwULkNzcInKGv0ZeIxjDI"
   }
 ]

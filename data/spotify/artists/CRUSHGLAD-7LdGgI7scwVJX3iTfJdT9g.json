@@ -307,5 +307,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1uXaGHvHbCqjGkN3yXnJWU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-27T19:27:30.677Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CRUSHGLAD"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27349eb12c5ad997ea432f3be4b",
+    "releaseDate": "2026-02-27",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "Нам стане тепліше?",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1dFKEmB5rRnOjZtQgjtbvk"
   }
 ]
