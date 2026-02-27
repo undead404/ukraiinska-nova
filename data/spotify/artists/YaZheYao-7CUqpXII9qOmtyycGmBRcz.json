@@ -687,5 +687,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3NBxc2F6FbfOELmcYfgarc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-27T15:33:25.840Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vnuk"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27302391a6593b891157928c827",
+    "releaseDate": "2026-02-27",
+    "tags": [
+      "Hip-Hop",
+      "russian rap",
+      "underground hip-hop",
+      "underground rap"
+    ],
+    "title": "Юбилейный",
+    "totalTracks": 10,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7gkWFUmVmZekXQonEDNxVS"
   }
 ]
