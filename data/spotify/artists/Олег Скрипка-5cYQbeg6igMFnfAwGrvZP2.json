@@ -1000,6 +1000,10 @@
       {
         "time": "2025-12-11T01:52:30.058Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-27T01:52:16.618Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1156,5 +1160,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/67Zbf14MwKJZ7Lpv6YRiVy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-27T01:52:16.618Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Олег Скрипка",
+      "Марія Коваленко"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273168ad42ae7e493fa4b2807c9",
+    "releaseDate": "2025-10-03",
+    "tags": [
+      "rock",
+      "blues rock"
+    ],
+    "title": "Любов (Violin Version)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2ioso10RCTQgneOeLXUBLe"
   }
 ]

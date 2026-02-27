@@ -1030,5 +1030,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/41BbAX08LpSzBpL1ktkJ5j"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-27T01:53:28.803Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Dj Grim",
+      "Andrii Barmalii",
+      "Культурні сили"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a29cf2e09c6b315907b5aec9",
+    "releaseDate": "2026-02-26",
+    "tags": [
+      "jazz"
+    ],
+    "title": "Крим",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0RTkHwkV3zrVBBWUZu1Nc1"
   }
 ]
