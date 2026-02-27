@@ -1712,5 +1712,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5Gw8mdOMc6awALdikWwMUf"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-27T14:34:26.034Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ZLATA OGNEVICH"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732001c7094cf418f539db18f9",
+    "releaseDate": "2026-02-27",
+    "tags": [
+      "pop"
+    ],
+    "title": "ONE DAY",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6t48BSbDEPUA1hVoUFAgeH"
   }
 ]

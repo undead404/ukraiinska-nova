@@ -585,5 +585,25 @@
     "totalTracks": 9,
     "type": "album",
     "url": "https://open.spotify.com/album/1xAgbQNosZVRX2t0APajNy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-27T14:27:03.820Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SKYLERR",
+      "Нікіта Кісельов"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739cc1a1e00be4d6275eeab165",
+    "releaseDate": "2026-02-27",
+    "tags": [],
+    "title": "Адвокат",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/08Jsjo4mhcds62hby3AeiD"
   }
 ]

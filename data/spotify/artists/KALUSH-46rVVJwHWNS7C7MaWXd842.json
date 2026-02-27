@@ -1602,5 +1602,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1NQV2ZapwjFpznkt3HTk3R"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-27T14:30:03.512Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Hanna",
+      "KALUSH"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f60d7c26515e1a52757ace93",
+    "releaseDate": "2026-02-26",
+    "tags": [
+      "deep house",
+      "rap"
+    ],
+    "title": "Проліски",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2x9nBUyxs00FnAHbXofYDY"
   }
 ]
