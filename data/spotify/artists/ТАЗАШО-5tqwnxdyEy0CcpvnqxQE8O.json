@@ -66,5 +66,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/14Y4IEEmIzVPlQjvgve5rc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-27T18:25:29.140Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ТАЗАШО"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c19ea5d494a14925008a8a32",
+    "releaseDate": "2026-02-26",
+    "tags": [
+      "hyperpop"
+    ],
+    "title": "Токійо",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1OYjAP2ejdY340nWzo0aML"
   }
 ]

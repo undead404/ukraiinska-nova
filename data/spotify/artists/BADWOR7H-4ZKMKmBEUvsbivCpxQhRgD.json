@@ -925,5 +925,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2HtXhgOFTZhbOOmmSfGPM5"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-27T18:26:47.553Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BADWOR7H"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733fa9eda2068e0a73388e8d26",
+    "releaseDate": "2026-02-26",
+    "tags": [
+      "electronic",
+      "breakbeat"
+    ],
+    "title": "Геній-суперзірка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0Vx9Ogw9i485UO8CuH1Jcj"
   }
 ]
