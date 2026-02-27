@@ -193,5 +193,26 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/1WHSCtgcJQXflpGD01V2t4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-27T06:30:26.818Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гексен"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735be8f880452e909c9b590ad6",
+    "releaseDate": "2026-02-27",
+    "tags": [
+      "alternative rock"
+    ],
+    "title": "ЧЕРВОНИЙ СНІГ (Rеmixes)",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1lW12ufoAQTarGoEAyQz0L"
   }
 ]
