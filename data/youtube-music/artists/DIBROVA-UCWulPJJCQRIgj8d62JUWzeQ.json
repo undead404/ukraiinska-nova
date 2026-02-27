@@ -628,5 +628,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nBjamtQb7agRdqBlav_yEyY3iPnEWUMEc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-27T22:54:37.366Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DIBROVA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/dV6qsvT6Ooxz6w_57Oq1Y9j2Ph7XJjc3v0dNlGt6Rz8aG9fCUE1PzYnMCw7xSRdFlvh8ByfDoSmep9GR1w=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Обійму Тебе",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nwmwtBjKvFxQS1SP7hfrZb7SJl51OdZT0"
   }
 ]
