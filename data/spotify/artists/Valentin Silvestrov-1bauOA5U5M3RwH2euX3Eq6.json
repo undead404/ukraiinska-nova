@@ -2757,6 +2757,10 @@
       {
         "time": "2026-02-23T03:26:37.201Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-27T03:20:44.818Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -3273,5 +3277,37 @@
     "totalTracks": 64,
     "type": "album",
     "url": "https://open.spotify.com/album/1DKdFVrzYDDeYkrpU8wzHA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-27T03:20:44.819Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Erik Satie",
+      "Robert Schumann",
+      "Ludwig van Beethoven",
+      "Johann Sebastian Bach",
+      "Gabriel Fauré",
+      "George Frideric Handel",
+      "Claude Debussy",
+      "Sergei Rachmaninoff",
+      "Frédéric Chopin",
+      "Léo Delibes"
+    ],
+    "artistsPopularity": 6,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731fac6205defd768148fef5d7",
+    "releaseDate": "2023",
+    "tags": [
+      "Classical",
+      "baroque",
+      "opera"
+    ],
+    "title": "Music for Relaxing",
+    "totalTracks": 54,
+    "type": "album",
+    "url": "https://open.spotify.com/album/4L08IGpM0QE96C7Wu0hrrr"
   }
 ]

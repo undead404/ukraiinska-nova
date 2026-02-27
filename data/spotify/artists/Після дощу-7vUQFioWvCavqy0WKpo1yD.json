@@ -799,5 +799,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1naAj8L1wz9PXJHbHj8rFF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-27T03:12:52.893Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Після Дощу"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273536d0dc0c4ef1127ab6170eb",
+    "releaseDate": "2026-02-27",
+    "tags": [
+      "electronic",
+      "pop",
+      "pop rock",
+      "ukrainian rock"
+    ],
+    "title": "Наздожени",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1nIA2LxrsD1EbIOMMCQqbN"
   }
 ]

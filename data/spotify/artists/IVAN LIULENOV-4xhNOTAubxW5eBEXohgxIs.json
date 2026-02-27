@@ -579,5 +579,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2XbM1RSqFmEQtW3LCUJkV3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-27T03:15:59.995Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "IVAN LIULENOV"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731e86ca2e423ab4d764279814",
+    "releaseDate": "2026-02-26",
+    "tags": [],
+    "title": "ДІВЧИНА В ПЕРШОМУ РЯДУ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5wBLfnAFrExN0vdqiGFo9r"
   }
 ]
