@@ -169,5 +169,28 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/0aB2m52rEq03AKiaYJX5x4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-27T10:24:36.720Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "AFTERME",
+      "Recone"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27365faf444c6f8d0de3adfb006",
+    "releaseDate": "2026-02-27",
+    "tags": [
+      "hardcore",
+      "metalcore"
+    ],
+    "title": "D.W.C.",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/30Uw0FATcTEgvcdFFDo8EB"
   }
 ]
