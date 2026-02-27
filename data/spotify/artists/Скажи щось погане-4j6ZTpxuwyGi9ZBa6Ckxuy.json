@@ -457,5 +457,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0jvWJYLEaXRDGWx7NZx3tu"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-27T17:24:34.516Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Скажи щось погане"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273076cf136cd8bda220f0226d9",
+    "releaseDate": "2026-02-27",
+    "tags": [
+      "new wave",
+      "Psychedelic Rock"
+    ],
+    "title": "Панельна драма",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5tNVSlhYnNYhO3mitr9VFM"
   }
 ]
