@@ -93,5 +93,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1ysTEDNsCRQyVyz9QbIRLg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-27T09:26:28.404Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Двіж",
+      "Гурт Дно"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27316e34caef5170bf2b8b48112",
+    "releaseDate": "2026-02-27",
+    "tags": [
+      "Avant-Pop",
+      "indie pop",
+      "indie rock"
+    ],
+    "title": "Маріуполь",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4ZiWCAgEV7ymf7gTuSGbYf"
   }
 ]

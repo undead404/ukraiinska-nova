@@ -657,5 +657,26 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/1BGF2YKE4zdRCUo0NlTZ2D"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-27T09:28:42.403Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DIBROVA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273472e647d4daeac6043b94e3f",
+    "releaseDate": "2026-02-27",
+    "tags": [
+      "pop"
+    ],
+    "title": "Обійму Тебе",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6XWSaukTMV5TUawxvD5EnA"
   }
 ]
