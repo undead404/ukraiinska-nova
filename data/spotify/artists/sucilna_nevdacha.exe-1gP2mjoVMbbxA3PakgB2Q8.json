@@ -403,5 +403,29 @@
     "totalTracks": 25,
     "type": "album",
     "url": "https://open.spotify.com/album/7ao6UCiMxzvoMpJqlHoPoy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-27T08:31:36.749Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "левко",
+      "sucilna_nevdacha.exe"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d166f7e4432e6a63e0d433a0",
+    "releaseDate": "2026-02-27",
+    "tags": [
+      "bedroom pop",
+      "indie pop",
+      "indie rock"
+    ],
+    "title": "я відчуваю все?",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3O8R1u0M1ucKbvpTwWHkcx"
   }
 ]
