@@ -533,5 +533,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mN6siU-W4bpOLW0ZDZsw_125rIc-r0yMU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T01:12:34.226Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "LOVERA BREAUX"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/PA6HIHQ-E2pn2Bk7n-klQGOSxcugB1-tx72P9nJLfaN8UikOnVQGAHgqnOaJO6aBG9BhefbXbLessAYWuw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "якщо ти не можеш спати",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nzya10E3eaRd8d0geBxwDDelwzVaZV0Qs"
   }
 ]
