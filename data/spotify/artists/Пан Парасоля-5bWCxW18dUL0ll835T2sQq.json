@@ -321,5 +321,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0Q9yWzsmaEB8aZH5kpAiI2"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T19:21:34.697Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Пан Парасоля"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737b451612fe1d64b251afef9c",
+    "releaseDate": "2026-02-27",
+    "tags": [],
+    "title": "Струм",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0OTVcg2ov5tkcahvphLDMD"
   }
 ]

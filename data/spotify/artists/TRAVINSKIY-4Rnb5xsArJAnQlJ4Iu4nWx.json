@@ -1010,5 +1010,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/77p7tmchXNnd7N5FOWf227"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T19:27:54.211Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TRAVINSKIY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734f7356bd98873499b5ca35f5",
+    "releaseDate": "2026-02-27",
+    "tags": [
+      "pop rap"
+    ],
+    "title": "Побути з Богом",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7o9C1NiGdepIxO8eJwRDhv"
   }
 ]
