@@ -460,5 +460,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kcjWIgcam0fu2k23fNCJR5jMhhP1EM6Kc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T04:13:47.610Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Pero Culture Crew"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/MEIMaV-QCs1tGZ-5NG0tpzlbPEPgTiV1ctmtT-wci3TjzGZrjNZzmwyZmTSOVlSpzlqgLuxAJbiBNeKV=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Вектор",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mT9ejBYZiWafnUBZmVNouPzSGyl5Tyh9E"
   }
 ]
