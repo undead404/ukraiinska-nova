@@ -425,5 +425,33 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/6Sf3qr8epgNkOgSXviFdRB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T03:08:22.766Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DNK RomaNa",
+      "ZAEC"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27383e0bc3195d3c351c02d5494",
+    "releaseDate": "2026-02-13",
+    "tags": [
+      "hard rock",
+      "jazz",
+      "rock",
+      "swing",
+      "alternative rock",
+      "pop rock",
+      "Smooth Jazz"
+    ],
+    "title": "ІКРилА (ZAEC Remix)",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/54Le0vpXD4E8oGCB62gkMx"
   }
 ]

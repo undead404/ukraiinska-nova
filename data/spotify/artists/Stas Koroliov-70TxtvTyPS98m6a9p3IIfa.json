@@ -289,5 +289,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/37eyiV3ScJTw69pDU0zNo9"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T03:07:11.346Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Stas Koroliov"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273232e32ef372a96a88a77dc02",
+    "releaseDate": "2026-02-06",
+    "tags": [
+      "post-rock",
+      "art rock"
+    ],
+    "title": "your quest is over. we present you a new quest",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/79VfPhd2UydbZO9rFyOEL7"
   }
 ]

@@ -595,5 +595,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/04QLjzlpRuJ3FWEjO84EUP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T03:02:43.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "FIЇNKA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737b984af93cf667ea032c17dc",
+    "releaseDate": "2026-02-03",
+    "tags": [
+      "pop"
+    ],
+    "title": "СЕРЦЕ ГРИМИТ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1ZagASZeB1w56n7BUravQ7"
   }
 ]

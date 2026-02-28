@@ -960,6 +960,10 @@
       {
         "time": "2025-09-27T02:42:33.159Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-28T03:07:53.058Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1122,6 +1126,10 @@
       {
         "time": "2026-01-27T03:05:25.417Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-02-28T03:07:53.058Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1293,5 +1301,49 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/04FyYrvLAV2Vz7NhgtM6xb"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T03:07:53.058Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Bratia Stereo"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731511678a8a55731c28aa9e81",
+    "releaseDate": "2013-01-01",
+    "tags": [
+      "russian rap",
+      "trip-hop"
+    ],
+    "title": "Ayayay",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/46H6nc52l7Vy3RAHqrPTUZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T03:07:53.058Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slovetskii"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733ca7245cfe98e0496983de58",
+    "releaseDate": "2014-01-01",
+    "tags": [
+      "rap",
+      "Hip-Hop"
+    ],
+    "title": "Оттепель",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6rHbVUiM47Ew3rj5sLIedy"
   }
 ]

@@ -637,5 +637,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4WEeYCybBDzgHjEvQdPXWh"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T03:06:20.761Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "OKS"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ee578a75754fa07b2aadf4c5",
+    "releaseDate": "2026-02-26",
+    "tags": [
+      "russian rock"
+    ],
+    "title": "Як же я любив",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5x4YJddOor3MSk83Qa3cLZ"
   }
 ]

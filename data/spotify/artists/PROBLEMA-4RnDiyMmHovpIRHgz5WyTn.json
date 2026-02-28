@@ -193,5 +193,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5W83TbC4B0AI4MKwGbFb2Z"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T03:06:34.534Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PROBLEMA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732a2f8cf6b11dc66277373126",
+    "releaseDate": "2026-01-30",
+    "tags": [],
+    "title": "Тваринні інстинкти",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0nrxxOTRrl50DU2ePWYRG8"
   }
 ]

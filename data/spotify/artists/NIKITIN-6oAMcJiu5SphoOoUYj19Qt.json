@@ -462,5 +462,47 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2uHvWnqtjgfSe774rfuRo3"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T03:05:53.592Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NIKITIN"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27310a4ede58ed9999a83e90d81",
+    "releaseDate": "2026-02-21",
+    "tags": [
+      "dance"
+    ],
+    "title": "Я з народом (Але дайте вже тому народу найкращу погоду)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/33KDYLA4AReZpotXeZnDNj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T03:05:53.592Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NIKITIN"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273af31e3c38681232839203698",
+    "releaseDate": "2026-02-18",
+    "tags": [
+      "dance"
+    ],
+    "title": "Софітами",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2o1Yjekoe7mm68KOsZ1f9Y"
   }
 ]

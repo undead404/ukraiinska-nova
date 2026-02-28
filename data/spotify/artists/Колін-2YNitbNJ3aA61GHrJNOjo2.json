@@ -1331,5 +1331,44 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5L1p1LhOFYnqslaH9IqhMK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T03:00:39.767Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Колін",
+      "Лізка"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2735dc1d04424b1936fd02ef0cd",
+    "releaseDate": "2026-02-21",
+    "tags": [],
+    "title": "Бандитка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1wAePPsTKiBzsfTJiirj6d"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T03:00:39.767Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Колін"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738a874a34a46d5dc28ac5e650",
+    "releaseDate": "2026-02-07",
+    "tags": [],
+    "title": "Чорні Очі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/08Tr3l76pH9ofuqrlKWsju"
   }
 ]

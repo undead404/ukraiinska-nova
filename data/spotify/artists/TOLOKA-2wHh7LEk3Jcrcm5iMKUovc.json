@@ -389,5 +389,26 @@
     "totalTracks": 9,
     "type": "album",
     "url": "https://open.spotify.com/album/7EkGmHYW1pqupfaKuqNCWp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T03:07:37.225Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TOLOKA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e306f5a51672b09bd1a6e7e5",
+    "releaseDate": "2026-02-26",
+    "tags": [
+      "folk rock"
+    ],
+    "title": "Folk Rock Dance",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1iWHdbZ3tueP8ODTNS7fHN"
   }
 ]

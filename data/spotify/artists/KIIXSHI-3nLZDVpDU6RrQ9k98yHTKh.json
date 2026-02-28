@@ -1657,5 +1657,90 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/738Kvp1xqxLwz1k7dAhbsa"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T03:03:49.170Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KIIXSHI",
+      "D4C"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27313e976a3a155fd04a9131dd8",
+    "releaseDate": "2026-02-20",
+    "tags": [
+      "jumpstyle"
+    ],
+    "title": "PICARETA DE DIAMANTE",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/61VgPLK2LWOOSym3rALHBP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T03:03:49.170Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KIIXSHI"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27390aacddac903c7bbc2767fbc",
+    "releaseDate": "2026-02-12",
+    "tags": [],
+    "title": "PINEAPPLE BASS",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6Vr0RyUzX7ljYRuUBzuV2Z"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T03:03:49.170Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KIIXSHI",
+      "D4C"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27353a1a2433db8a6a57a4f85c6",
+    "releaseDate": "2026-02-06",
+    "tags": [
+      "jumpstyle"
+    ],
+    "title": "MONTAGEM CUBA",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/095pZU4gRkvncy9J14uDro"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T03:03:49.170Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KIIXSHI",
+      "D4C"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730307c85235bbf764bb6b08ed",
+    "releaseDate": "2026-01-30",
+    "tags": [
+      "jumpstyle"
+    ],
+    "title": "MONTAGEM TROPICAL",
+    "totalTracks": 4,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3xomS5nlvPTlegx7pjbBUU"
   }
 ]

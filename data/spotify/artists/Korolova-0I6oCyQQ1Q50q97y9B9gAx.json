@@ -108,6 +108,10 @@
       {
         "time": "2025-09-25T02:45:27.991Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-28T03:04:45.437Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -788,6 +792,10 @@
       {
         "time": "2026-01-27T03:02:05.379Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-28T03:04:45.437Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1916,6 +1924,10 @@
       {
         "time": "2026-01-27T03:02:05.379Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-28T03:04:45.437Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1959,6 +1971,10 @@
       {
         "time": "2026-01-27T03:02:05.379Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-28T03:04:45.437Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1994,6 +2010,10 @@
       {
         "time": "2026-01-27T03:02:05.379Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-28T03:04:45.437Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2008,5 +2028,148 @@
     "totalTracks": 20,
     "type": "album",
     "url": "https://open.spotify.com/album/0d6wAmXVNRY5tRZVr0vgXV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T03:04:45.437Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Korolova",
+      "Be No Rain"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27368cc24d8c2a366640d18bddd",
+    "releaseDate": "2026-02-27",
+    "tags": [
+      "indie pop",
+      "Melodic House",
+      "House"
+    ],
+    "title": "Distorted Love",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3zYXTglqvKAOFtbELVNpdJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T03:04:45.437Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Korolova",
+      "ZSS"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27397933afd91d65c56aafd0144",
+    "releaseDate": "2025-05-23",
+    "tags": [
+      "hardcore",
+      "Melodic House",
+      "metalcore",
+      "deathcore",
+      "melodic metalcore",
+      "House"
+    ],
+    "title": "Universe",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/69wAA6Ok2dQUkgMU8gC9lM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T03:04:45.437Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Armin van Buuren ASOT Radio"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273eb89827abe7b02cfcbe4c7e8",
+    "releaseDate": "2025-10-30",
+    "tags": [
+      "electronic",
+      "trance",
+      "progressive trance"
+    ],
+    "title": "ASOT 1249 - A State of Trance Episode 1249 (Including A State Of Trance Showcase - Mix 022: Dennis Sheperd)",
+    "totalTracks": 64,
+    "type": "album",
+    "url": "https://open.spotify.com/album/23do3oaJW5Vbvlpg1yTrhD"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T03:04:45.437Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Armin van Buuren ASOT Radio"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ecf11818fa944382e637d1b6",
+    "releaseDate": "2025-10-16",
+    "tags": [
+      "electronic",
+      "trance",
+      "progressive trance"
+    ],
+    "title": "ASOT 1247 - A State of Trance Episode 1247 (Including A State Of Trance Showcase - Mix 020: WHITENO1SE)",
+    "totalTracks": 62,
+    "type": "album",
+    "url": "https://open.spotify.com/album/7sAML4r6CHGm4sFruw5Yyv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T03:04:45.437Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Armin van Buuren ASOT Radio"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fcf16d19b05084fb49f29081",
+    "releaseDate": "2025-07-17",
+    "tags": [
+      "electronic",
+      "trance",
+      "progressive trance"
+    ],
+    "title": "ASOT 1234 - A State of Trance Episode 1234 (Including A State Of Trance Showcase - Mix 011: Simon Patterson)",
+    "totalTracks": 45,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1aJZJqSeLFmnxESzKmvakn"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T03:04:45.437Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Armin van Buuren ASOT Radio"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bf750493feb31f218b4e2123",
+    "releaseDate": "2025-03-06",
+    "tags": [
+      "electronic",
+      "trance",
+      "progressive trance"
+    ],
+    "title": "ASOT 1215 - A State of Trance Episode 1215 (Including A State Of Trance Showcase - Mix 003: Tempo Giusto)",
+    "totalTracks": 72,
+    "type": "album",
+    "url": "https://open.spotify.com/album/15xOleUe24y0oqISErhJ9b"
   }
 ]

@@ -488,5 +488,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5FxWmysq2DhNpwGLc7Lu3Q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T03:02:24.524Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Delamer"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733aeddb0a26eb2338481cc9d7",
+    "releaseDate": "2026-02-20",
+    "tags": [
+      "rap"
+    ],
+    "title": "This Is Ukraine",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/58R0Y7ml5IYgaiqkis1bfs"
   }
 ]

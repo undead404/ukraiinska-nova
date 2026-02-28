@@ -286,5 +286,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5Q5ZQhycA4kXIfOG3aI0h6"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T03:06:47.171Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROMAN TIK"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ef7a2d24c14342ddc4584df7",
+    "releaseDate": "2026-02-17",
+    "tags": [
+      "pop"
+    ],
+    "title": "Відтанули",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/64szGCOcuBOKNyqpaNnrvF"
   }
 ]

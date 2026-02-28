@@ -809,6 +809,10 @@
       {
         "time": "2025-11-21T02:51:45.911Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-28T03:04:07.976Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -989,5 +993,28 @@
     "totalTracks": 10,
     "type": "album",
     "url": "https://open.spotify.com/album/0vezcaZzxEQAhcoGtSPAB4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T03:04:07.976Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Anders Hajem",
+      "Koloah"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a128705fdba3b9d72d96d23f",
+    "releaseDate": "2025-11-05",
+    "tags": [
+      "dubstep",
+      "electronic"
+    ],
+    "title": "FNS007",
+    "totalTracks": 5,
+    "type": "single",
+    "url": "https://open.spotify.com/album/47Rpg45xfT2QfiAh4v8ydR"
   }
 ]
