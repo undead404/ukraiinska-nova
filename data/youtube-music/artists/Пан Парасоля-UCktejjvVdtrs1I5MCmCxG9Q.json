@@ -449,5 +449,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mdku1RKRk9WPZhLyHdiu0m0y_dfS0C8co"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T13:05:53.297Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Пан Парасоля"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/GiqpRZP9wTrdZwDN-jFY0oAg4unBdPLvpYrvN7Rmlp55lLCkAm0dMI1ee_DbyLS3RlJTs4MQVRBcgED0=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Струм",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mVd1Fkc2GZD5mg2tI3dVAVv1xfpZ_oWK4"
   }
 ]
