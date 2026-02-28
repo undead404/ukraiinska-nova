@@ -1599,5 +1599,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6BaxdtefdTdELBbxuIdM2K"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T16:23:09.200Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Jerry Heil",
+      "Schiller"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27398682ba99e1e89b396696c8e",
+    "releaseDate": "2026-02-27",
+    "tags": [
+      "electronic",
+      "pop",
+      "ambient"
+    ],
+    "title": "CATHARTICUS (Schiller Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4b06zbXZlDiapnTb47qbAD"
   }
 ]

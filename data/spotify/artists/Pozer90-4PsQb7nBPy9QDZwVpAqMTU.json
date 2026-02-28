@@ -639,5 +639,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1jQjWld2nkCR8LNroJjZD6"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T16:25:46.246Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ydumb",
+      "Pozer90",
+      "stxckhaze"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273523902ab5ab0b4aa34404d68",
+    "releaseDate": "2026-01-30",
+    "tags": [],
+    "title": "Shake",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6w2zHuz5s97m8zNyWEMy7J"
   }
 ]

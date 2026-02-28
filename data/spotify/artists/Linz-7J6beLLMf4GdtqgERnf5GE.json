@@ -413,5 +413,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/62l0lMwMlcILztpXSykFAr"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T16:24:24.672Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "XSERGO",
+      "Linz"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273165a5da9996db26dcebb3653",
+    "releaseDate": "2026-02-27",
+    "tags": [
+      "pop"
+    ],
+    "title": "Плакала",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2SyTOxPd9GCr2pLh23u1rN"
   }
 ]

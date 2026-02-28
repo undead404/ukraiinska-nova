@@ -325,5 +325,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0Dgv9QFt2PNJbTfoqaNvUT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T16:23:35.533Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kuaskio"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a2c53ea573a0a627be79f712",
+    "releaseDate": "2026-02-27",
+    "tags": [
+      "indie pop",
+      "post-punk"
+    ],
+    "title": "вперед в минуле",
+    "totalTracks": 6,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5ICFJDqcxlWwgwjgX6bw1a"
   }
 ]
