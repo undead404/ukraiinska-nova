@@ -29,6 +29,10 @@
       {
         "time": "2025-10-08T14:26:27.968Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-28T14:27:13.722Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -191,6 +195,10 @@
       {
         "time": "2025-10-08T14:26:27.968Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-02-28T14:27:13.722Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1528,5 +1536,43 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6xzjcXlQGsLVXWuX6AJjZB"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T14:27:13.723Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "t-Zhuk"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27328276318eb6d2af09798e7ff",
+    "releaseDate": "2025-09-26",
+    "tags": [],
+    "title": "Aba Alaba (Original Mix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5H2hPK4t2SweTnGKswbSIV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T14:27:13.723Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "t-Zhuk"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732a20682520251f8c224342dc",
+    "releaseDate": "2024-09-20",
+    "tags": [],
+    "title": "Doctor Jam (Original Mix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3F421rIogWruXbISIHLPHP"
   }
 ]
