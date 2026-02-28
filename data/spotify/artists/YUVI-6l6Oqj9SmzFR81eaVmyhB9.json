@@ -453,5 +453,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6Xm4j25396Z6t7HxxPCXYS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T21:27:34.123Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YUVI",
+      "Sasha Potupa"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b37b734cb6d2e4c959bfa195",
+    "releaseDate": "2025-02-21",
+    "tags": [
+      "jungle"
+    ],
+    "title": "тиша",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2QeZbOBwv5hhRj2hvVVLcc"
   }
 ]
