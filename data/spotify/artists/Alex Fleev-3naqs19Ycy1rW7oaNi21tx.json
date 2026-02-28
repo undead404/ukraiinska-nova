@@ -998,5 +998,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1LcuzEB7FtHq7dz0LF0DQS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T05:25:05.836Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kishe",
+      "Alex Fleev"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273aa2247298b3fbe7f522be497",
+    "releaseDate": "2024-01-19",
+    "tags": [],
+    "title": "Титри (Alex Fleev Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3qB9AALTOdLMv0GfGnGWD7"
   }
 ]
