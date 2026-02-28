@@ -611,5 +611,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nbumLIMkQKjSna8kPNAAmb8St_s0yA-uw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T23:53:00.578Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MOLODOY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/LlcTy5B5AwsgAEubVsJzMP3KN9PqVwsThQCoTGwpw3w-qh8UNFJAdo_3ajN5731TBQ1JuW4vccWee4Y=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap"
+    ],
+    "title": "ВКУС (double sad)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mpf2WOqQJOuKjTnYQgfjsF_PoeP8bdZr8"
   }
 ]
