@@ -381,5 +381,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/57vqBKnC89EX5wj7OKR42n"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T10:20:28.035Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Медовий Полин"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27312ccc49e8d225510fa203195",
+    "releaseDate": "2026-02-27",
+    "tags": [
+      "punk rock"
+    ],
+    "title": "ПАЇ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1tufnLF8fLHRElFFDAUT3H"
   }
 ]

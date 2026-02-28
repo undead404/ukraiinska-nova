@@ -139,5 +139,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2LVOaapRzDRCeG2ii0IOws"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T10:21:33.543Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CHETOFLO",
+      "Bob Croma",
+      "Pero Culture Crew"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736e588a13bac7244ae2780af1",
+    "releaseDate": "2026-02-27",
+    "tags": [
+      "rap"
+    ],
+    "title": "Вектор",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6T4VCmAZUeaY2vZt9cIIQU"
   }
 ]
