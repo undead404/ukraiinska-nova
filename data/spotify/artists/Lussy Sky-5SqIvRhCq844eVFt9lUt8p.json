@@ -244,5 +244,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7vNUWgK4k9avRIHHLrVtFZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T00:49:20.286Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Beteo"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738d8ae6b355d396cce8733e66",
+    "releaseDate": "2026-02-27",
+    "tags": [
+      "Hip-Hop",
+      "rap"
+    ],
+    "title": "FA2 MIXTAPE",
+    "totalTracks": 15,
+    "type": "album",
+    "url": "https://open.spotify.com/album/1P8AkMnzGbjDTSffIihEoJ"
   }
 ]

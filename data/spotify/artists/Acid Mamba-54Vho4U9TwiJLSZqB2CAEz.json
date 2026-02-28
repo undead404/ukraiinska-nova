@@ -161,5 +161,27 @@
     "totalTracks": 3,
     "type": "single",
     "url": "https://open.spotify.com/album/5MOD95Q4jragoidQ0jn8kF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T00:47:27.151Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Acid Mamba"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d54b9c800b3342a4a4cc0a5d",
+    "releaseDate": "2026-02-27",
+    "tags": [
+      "electronic",
+      "indie pop"
+    ],
+    "title": "колами",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5SuDGTLbriemvzmtb3davq"
   }
 ]

@@ -610,5 +610,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/56BsFA58cCNnZeTD3Lt423"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T00:49:28.857Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MBY"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a31f4985e47ab237976ce813",
+    "releaseDate": "2026-02-27",
+    "tags": [
+      "rap",
+      "electronic"
+    ],
+    "title": "Ренесанс",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1V1Lsaiz4gOILV91JyIEE5"
   }
 ]
