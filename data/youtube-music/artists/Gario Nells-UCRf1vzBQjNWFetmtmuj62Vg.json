@@ -397,5 +397,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ljw6fY7dqpoqgLFl6T8oDJ_0PNPFzDo9w"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T08:54:07.054Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Gario Nells"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://lh3.googleusercontent.com/eLVe4h6RabWfFRhUnDnIjI2yHEf4rDm_YFVHxiGncqEtQBFHMt6r2DCZzHGRXw_qb4SlBzWGi6b6vtRu=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "ДО ВЕСНИ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lEnPyI8wgkhdDzpK7U7fOeXYAYAWDCjUg"
   }
 ]
