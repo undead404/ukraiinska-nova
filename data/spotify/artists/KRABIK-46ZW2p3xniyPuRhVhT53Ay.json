@@ -288,5 +288,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1bSrCDXgBat78HoXP2JSHy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T18:27:59.339Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KRABIK"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273840997ddc1200556f21e2a9b",
+    "releaseDate": "2026-02-27",
+    "tags": [],
+    "title": "Ясні зорі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/72Atsof2vRM530WZFjFrnP"
   }
 ]
