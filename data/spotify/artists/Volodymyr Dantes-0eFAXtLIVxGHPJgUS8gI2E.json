@@ -720,5 +720,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/01rufuoJip2cvCUfjehOeU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T01:58:03.044Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Volodymyr Dantes"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f097598838d651088bda15ef",
+    "releaseDate": "2026-02-27",
+    "tags": [
+      "pop"
+    ],
+    "title": "просто кохаю",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1P0sm1rjy8nKExK8BP34YW"
   }
 ]

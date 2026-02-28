@@ -557,5 +557,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0ZCjrCB8i8rUscG5ScUzay"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T01:54:59.925Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KLER"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f0b35549606ec93266b4cf59",
+    "releaseDate": "2026-02-27",
+    "tags": [
+      "pop"
+    ],
+    "title": "Моє серце",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/43PiZaxbvJe2z1Q1aGHf7i"
   }
 ]
