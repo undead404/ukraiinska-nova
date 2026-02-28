@@ -1558,5 +1558,49 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mzIu25nabtaPDsXZZlC-qppINNzUAUmVk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T18:56:18.735Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Korolova"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/qxDcQM0aEH6MAaRq0CQDm6wck6jcNwKYG3v_ACJeCtQQJJIk6aY39hY8Ag9yG4N1N23MLq0D1YeqzdAE=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "Melodic House",
+      "House"
+    ],
+    "title": "Distorted Love",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mtr43EatnMGJAUQU27RP8pVjOA_it6D9s"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T18:56:18.735Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Korolova"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/vHrLkmhGtcs5eB0Oc7lwKeqrSTC3mdOOSnhm1hi4DeCR5BuyLfW7uGXuLBtNF55lI7OU7LHqsqRM_RU=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "Melodic House",
+      "House"
+    ],
+    "title": "Distorted Love",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_luy0OxAkymtJqPY-KP2wCGoN6IL2mXKF8"
   }
 ]

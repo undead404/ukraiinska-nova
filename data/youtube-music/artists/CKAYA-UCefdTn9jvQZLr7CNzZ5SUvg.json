@@ -592,5 +592,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m64Iw0d97MvBsuoo3In6ncnl3ngZBGz1w"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T18:55:50.986Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CKAYA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/k_qyI7W0_8Qtfhm4SIljy0v7syOb0VHnJpm6PYXZqpcSa5kM2CaZtUjZIBOCb8ZbBjeqgAaYTDkeHZwg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Ріка (Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_khev_LcpY5jSjNpiJmtkTDH4N70Y2p17c"
   }
 ]
