@@ -130,5 +130,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/28s2THGXwxNZ751r8HuWkW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T03:52:39.303Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Оратанія"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e8999ce5902ed366d1bb73a6",
+    "releaseDate": "2026-02-24",
+    "tags": [
+      "rock",
+      "pop punk"
+    ],
+    "title": "Йух",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5HyMSXI7C2IxmSxILCFeEV"
   }
 ]

@@ -3819,5 +3819,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5A8rUrEFFT4jzU2LLEqi1Q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T03:59:21.580Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273de412d5c35927ea4c773e5af",
+    "releaseDate": "2026-02-27",
+    "tags": [],
+    "title": "Echo",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/75Amm6a1NIr8BR8hBHcijY"
   }
 ]

@@ -458,5 +458,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7whuxEGznSVSzN8Hgdm2xp"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T03:54:00.134Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CKAYA",
+      "BLUDOV"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273829a3365faa355e998749794",
+    "releaseDate": "2026-02-27",
+    "tags": [],
+    "title": "Ріка (Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4kzgJ71JBlBYDfEftuwuth"
   }
 ]

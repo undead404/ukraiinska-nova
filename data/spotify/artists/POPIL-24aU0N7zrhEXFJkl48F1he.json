@@ -389,5 +389,26 @@
     "totalTracks": 12,
     "type": "album",
     "url": "https://open.spotify.com/album/6mxUQ87MACkyrBZibqQk4O"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T03:58:07.674Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "POPIL"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739b4d6aefca05a93036afcbce",
+    "releaseDate": "2026-02-27",
+    "tags": [
+      "shoegaze"
+    ],
+    "title": "Чайка на крижині",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/47CGLQjDoQQzecVUxpmMKP"
   }
 ]
