@@ -229,5 +229,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mV-LyiVZTS7Kd_5C0j5uRGxkbBKarQjFQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T02:37:53.188Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CRUSHGLAD"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/k4l9duXdkW2nRv6PFXtXLSt35I3tRGrEFCaU_akzwmM9TRRWtM67r2sdaz_qFUe-zJQC1IOnLYHzGKo=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "Нам стане тепліше?",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l19tAf7YQJkVlRviF3NyjTWzZPsKSpuf0"
   }
 ]
