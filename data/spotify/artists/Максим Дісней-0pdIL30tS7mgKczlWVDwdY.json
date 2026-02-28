@@ -59,5 +59,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0Y6IrqDqqtIMQIGGSPx2IR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-02-28T22:20:59.989Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Максим Дісней"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e5b76be299ff824ce5ffdf13",
+    "releaseDate": "2026-02-27",
+    "tags": [],
+    "title": "Глибина",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3MeEHbhiuFCzIad9agStun"
   }
 ]
