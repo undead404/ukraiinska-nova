@@ -610,5 +610,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/47VtNtidGJ5xqsB2HLRHnN"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-01T07:24:28.907Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Люцина Хворост"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739d69e258341e5d8e8084c1d2",
+    "releaseDate": "2026-01-25",
+    "tags": [],
+    "title": "Горить лампадка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6cy4gut2TeYcgzOjNBWlcG"
   }
 ]
