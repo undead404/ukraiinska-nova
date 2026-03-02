@@ -82,5 +82,24 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/1AY1DeynK0ucRsQTDWU7N5"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-02T17:38:22.926Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KayP@t ValenTinO"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27398f53ff8a73c7153880cd94c",
+    "releaseDate": "2021-11-13",
+    "tags": [],
+    "title": "XIBELANI xa GAVAZA",
+    "totalTracks": 9,
+    "type": "album",
+    "url": "https://open.spotify.com/album/6KDfju1XY0FK2qpjLW6y9m"
   }
 ]
