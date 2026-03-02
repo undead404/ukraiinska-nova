@@ -413,6 +413,10 @@
       {
         "time": "2025-09-23T09:23:20.576Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-02T09:35:18.196Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -435,6 +439,10 @@
       {
         "time": "2025-09-23T09:23:20.576Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-02T09:35:18.196Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -454,6 +462,10 @@
       {
         "time": "2025-09-23T09:23:20.576Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-02T09:35:18.196Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -525,5 +537,43 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0VYWXJlhKCHZW3zS3u0r9W"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-02T09:35:18.196Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "웨딩드레스"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ffbd1871a5ee9730531bef3f",
+    "releaseDate": "2012-03-13",
+    "tags": [],
+    "title": "처음 생각나는 사람",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/30raiu6fYrjPoMKOrmDGlk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-02T09:35:18.196Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "솜사탕"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f447903c7f71b0bbbef52ac3",
+    "releaseDate": "2012-02-20",
+    "tags": [],
+    "title": "어떻게든 살아보려해",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6lnquarivm1VojrxbqN5Tt"
   }
 ]
