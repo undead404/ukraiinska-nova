@@ -152,5 +152,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5HyMSXI7C2IxmSxILCFeEV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-02T03:14:20.837Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Оратанія"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cca4ebc288419e0f5fde9a17",
+    "releaseDate": "2010-02-09",
+    "tags": [
+      "rock",
+      "pop punk"
+    ],
+    "title": "Дорота",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/200re1dQw7nXhr594u8aLk"
   }
 ]
