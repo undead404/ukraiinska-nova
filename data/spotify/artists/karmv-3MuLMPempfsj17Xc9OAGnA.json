@@ -2224,5 +2224,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/27RJQEdyHrGmLpG3t7T7jJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-02T08:30:29.398Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BAKALOVA",
+      "karmv"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fe7999256daf5c4373637ae5",
+    "releaseDate": "2026-03-02",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Любов без дати (Karmv Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7EMlm3cYraanNoDIuam1gf"
   }
 ]

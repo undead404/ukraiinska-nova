@@ -2072,5 +2072,26 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/4tVHMiiQE7jSzSfsildhKo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-02T08:29:40.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Hockins"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2737936ed7ada9e5d726188e1bc",
+    "releaseDate": "2026-03-02",
+    "tags": [
+      "House"
+    ],
+    "title": "In Action",
+    "totalTracks": 3,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4nmRppqK2lnuv6pY74tu7L"
   }
 ]
