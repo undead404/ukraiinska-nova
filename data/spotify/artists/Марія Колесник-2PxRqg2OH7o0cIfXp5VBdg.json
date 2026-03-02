@@ -59,5 +59,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/71tab1pLByUg0zV4VcEMhz"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-02T00:51:57.394Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TARABAROVA",
+      "Марія Колесник"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27362c08cade4bc0fb48b58b774",
+    "releaseDate": "2026-03-01",
+    "tags": [
+      "pop",
+      "electronic",
+      "synthpop"
+    ],
+    "title": "Цей біт",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4GRKefX0TSvbOrHSV3L1vt"
   }
 ]

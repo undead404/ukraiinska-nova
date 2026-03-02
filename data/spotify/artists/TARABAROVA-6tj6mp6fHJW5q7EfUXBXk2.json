@@ -1482,6 +1482,10 @@
       {
         "time": "2026-02-20T00:55:36.577Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-03-02T00:57:28.887Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1507,6 +1511,10 @@
       {
         "time": "2026-01-05T00:52:46.229Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-03-02T00:57:28.887Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1551,5 +1559,48 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0CYYJkmeQLvbdoj44OMoby"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-02T00:57:28.887Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TARABAROVA",
+      "Марія Колесник"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27362c08cade4bc0fb48b58b774",
+    "releaseDate": "2026-03-01",
+    "tags": [
+      "pop",
+      "electronic",
+      "synthpop"
+    ],
+    "title": "Цей біт",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4GRKefX0TSvbOrHSV3L1vt"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-02T00:57:28.887Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Оля Цибульська"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f6382c64c54cee25d4efd740",
+    "releaseDate": "2025-01-21",
+    "tags": [],
+    "title": "Пісенька Капітошки (з Капітошка)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3oWS5ii4G0LYJgOQ7XKKjR"
   }
 ]
