@@ -1326,5 +1326,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1bLh8UBFcamCGugmuoaJKV"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-03T23:22:22.869Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Марія Бурмака"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733ddbb03aff7e94ceadda163f",
+    "releaseDate": "2026-03-03",
+    "tags": [
+      "pop",
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "Шоколад",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5S4iaqZGKrnXcJzj7dv9QI"
   }
 ]
