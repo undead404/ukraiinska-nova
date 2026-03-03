@@ -511,5 +511,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lVSAVD9l7hAyoyObT4GVeVTZvc5fb2b_M"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-03T03:38:14.295Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alex Fleev"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/6_I7YrrLK3Ljr_C8FykSas04yiU14-340zXaWQMFDQJEytvkIg13H12UgUqoE-vhWe9wC3lwZg5tgJEP=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "New Future",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lAr1WBjzWu2_Rf4Yuob6w33pxJAiczwvQ"
   }
 ]
