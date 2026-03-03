@@ -909,5 +909,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4HYdKR0lT9QGqcOgrh2emq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-03T08:30:33.253Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SKAI"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273484b6da96355b96ab6f1ab04",
+    "releaseDate": "2026-03-03",
+    "tags": [
+      "rock"
+    ],
+    "title": "Навіщо",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/63MFpp7ezxSEWARiQVAePJ"
   }
 ]
