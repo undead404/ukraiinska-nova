@@ -1018,5 +1018,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3qB9AALTOdLMv0GfGnGWD7"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-03T05:36:08.822Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alex Fleev"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b6a82c47802cb782803a66da",
+    "releaseDate": "2026-03-03",
+    "tags": [],
+    "title": "New Future",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1bJHXkDbvIfhrICH3UPcrq"
   }
 ]
