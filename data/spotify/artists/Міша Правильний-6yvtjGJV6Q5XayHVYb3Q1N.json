@@ -1536,5 +1536,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5VCiPTNVdHO4123PyzYN8i"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-03T20:23:05.547Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Міша Правильний"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c222d536fc31a44306d80dc0",
+    "releaseDate": "2026-03-03",
+    "tags": [
+      "rap"
+    ],
+    "title": "З.С.У.В.",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5SXvZJbSI3xwVUqOnNWuOB"
   }
 ]
