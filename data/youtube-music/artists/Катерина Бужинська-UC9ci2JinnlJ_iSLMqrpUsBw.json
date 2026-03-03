@@ -1066,5 +1066,62 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mXa5TMaQ9CkKMAo7vQevN0WGaJyflGlH8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-03T10:01:42.401Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KATERYNA BUZHYNSKA"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/21NHY9T3k7OkpO_I-Gu4Xyj_02p5dyyJGU3InTJhxQW1gOYQ1xPDSHMD09Sq_lV1-rESeVbfV_8Vq5QDpg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Echoes of Power",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mjTn-OCM-bFOOVl2A2_HYfPDPgmg70H7o"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-03T10:01:42.401Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KATERYNA BUZHYNSKA"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/rn-Nmbe2DyLvFFaqDbSecTZwfGVLpat7tDs6t0BppwF7pjTBWDkAAFsSYm8TPBDliT7MJNrzOLbuMLM=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "La Diva",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kMC_Ko3sKkZL0WHotM75xJZ_5xef89ITU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-03T10:01:42.401Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KATERYNA BUZHYNSKA"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/gUOQnhyqkUsFnf8ta98GkNS6DG3hZBIY-WJ2MjLfMP5J_TY1qTmLlzw-vSYmXuo3qBS9P2uTNDiPegX5=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Зруйноване життя/Прийшли \"брати\"",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kxlTvPaBM6qrt19leFFGoPZujRrx99RzQ"
   }
 ]
