@@ -153,5 +153,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0UugRi7CrDosrq4T4NPerW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-03T11:24:19.429Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Admiralov"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fe34eb55308d3da3fee9a349",
+    "releaseDate": "2026-02-28",
+    "tags": [],
+    "title": "Відчуваємо все до болю",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1CxLURWVzqmwaSJAZpi0Ui"
   }
 ]
