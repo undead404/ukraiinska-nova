@@ -278,5 +278,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7eZLEyetdH3zEhVJeAG7Aq"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-04T14:34:47.396Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Mon@rch",
+      "SadOfNight"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2739ebbc2113de911cb14220153",
+    "releaseDate": "2026-02-27",
+    "tags": [],
+    "title": "Серед тисячі очей",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5Oqh0HSA9a8Fx1xfjpIz01"
   }
 ]
