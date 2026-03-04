@@ -1366,5 +1366,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nK7aSoHMpi20ElAh_abmCwoe0q0R_PDTw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-04T15:02:12.775Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Gezweirdo"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/RDB6ADL2EcKxLvap_STkV2_vMgLR7CfCTLfkpH-idBjECGefIX8uHMoUE91ZMj-_ALsymu9jc5hHWOY=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "City Lights",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mt02WwOCuwGxTlWHwua3joIwr2L-cWJ7E"
   }
 ]
