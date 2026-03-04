@@ -8,6 +8,10 @@
       {
         "time": "2025-12-03T23:47:36.075Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-03-04T23:56:38.411Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -31,6 +35,10 @@
       {
         "time": "2025-12-03T23:47:36.075Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-03-04T23:56:38.411Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -54,6 +62,10 @@
       {
         "time": "2025-12-03T23:47:36.075Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-03-04T23:56:38.411Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -77,6 +89,10 @@
       {
         "time": "2025-12-03T23:47:36.075Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-03-04T23:56:38.411Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -100,6 +116,10 @@
       {
         "time": "2025-12-03T23:47:36.075Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-03-04T23:56:38.411Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -123,6 +143,10 @@
       {
         "time": "2025-12-03T23:47:36.075Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-03-04T23:56:38.411Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -146,6 +170,10 @@
       {
         "time": "2025-12-03T23:47:36.075Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-03-04T23:56:38.411Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -169,6 +197,10 @@
       {
         "time": "2025-12-03T23:47:36.075Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-03-04T23:56:38.411Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -192,6 +224,10 @@
       {
         "time": "2025-12-03T23:47:36.075Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-03-04T23:56:38.411Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -215,6 +251,10 @@
       {
         "time": "2025-12-03T23:47:36.075Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-03-04T23:56:38.411Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -238,6 +278,10 @@
       {
         "time": "2025-12-03T23:47:36.075Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-03-04T23:56:38.411Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -261,6 +305,10 @@
       {
         "time": "2025-12-03T23:47:36.075Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-03-04T23:56:38.411Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -274,5 +322,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nujoRhaXCxrjW2PeabHOKxhbPC1mJPHe0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-04T23:56:38.412Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Motor'Rolla"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/K4iOEL6otCl8CllLwWaMdBHnCQBx5ziab8KcL3gjy2PjeDVUp2oSZwOAWtXD1l68ilnwwzx0GAbhYFI=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Миколай бородатий",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kurJc3livfMZ0yFs8atgdc1Ac3AnlaEjc"
   }
 ]
