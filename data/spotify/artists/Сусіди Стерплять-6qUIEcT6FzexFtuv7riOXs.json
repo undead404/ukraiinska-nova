@@ -673,5 +673,30 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6XIUuNu4mlIPQvnI3y2n51"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-04T19:30:35.374Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Сусіди Стерплять",
+      "Уляна Дель Рей"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ab7851de162f6d47d67425a6",
+    "releaseDate": "2026-03-04",
+    "tags": [
+      "alternative rock",
+      "indie rock",
+      "pop punk",
+      "ukrainian rock"
+    ],
+    "title": "Перша дискотека",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4RGotlwPbtCki6Ut77SzQm"
   }
 ]
