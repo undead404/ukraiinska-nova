@@ -538,5 +538,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n8r5RAHInBva5d0v6MWgCyNc1DKG-ajxw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-04T21:58:06.432Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Mon@rch"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/83eFAU8O2IJomr3FN8KCf1kb_Yd3pZf7OOw5K-bilsCSOIpsUYZjhsdUGarScZYBYLeD9GkYTzaL-Bqy=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Серед тисячі очей",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mg8OLM49N6Kl2D_ooXe7NSOzUC2nwh658"
   }
 ]
