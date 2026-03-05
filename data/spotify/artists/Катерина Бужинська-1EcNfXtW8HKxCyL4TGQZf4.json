@@ -1032,5 +1032,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4833G0x5L7jrpyq1bkPTOw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-05T15:32:07.634Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Катерина Бужинська"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273705393cdf12d6961bd5cd951",
+    "releaseDate": "2026-03-05",
+    "tags": [],
+    "title": "Кохання Моноліт",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3lFODcOkLyKGByweALwfo8"
   }
 ]
