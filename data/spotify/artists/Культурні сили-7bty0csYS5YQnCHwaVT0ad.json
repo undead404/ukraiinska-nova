@@ -537,5 +537,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0RTkHwkV3zrVBBWUZu1Nc1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-05T03:12:29.139Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Культурні сили"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730e94245c04d69d666e55623f",
+    "releaseDate": "2026-03-03",
+    "tags": [],
+    "title": "505. Вогнем і мечем",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4QECENYa4hhj7TrubjElmQ"
   }
 ]
