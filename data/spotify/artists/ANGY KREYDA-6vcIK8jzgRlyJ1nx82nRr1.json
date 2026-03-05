@@ -1040,5 +1040,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4qYdLsdONIz92i32wJjr8h"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-05T12:30:22.796Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ANGY KREYDA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273554ec872487ecb8f93888e30",
+    "releaseDate": "2026-03-03",
+    "tags": [
+      "pop"
+    ],
+    "title": "Чорний Сніг",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7I2HXdU2DCGVoSY6m4fjra"
   }
 ]
