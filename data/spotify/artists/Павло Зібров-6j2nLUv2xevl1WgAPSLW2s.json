@@ -1391,5 +1391,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3x4ZtYOVYBnd043XQNCdcG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-05T23:37:52.644Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Павло Зібров"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273de9aa47c3eccc5d6f57562e0",
+    "releaseDate": "2026-03-05",
+    "tags": [
+      "proto-punk",
+      "hardcore punk"
+    ],
+    "title": "Згадаймо",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3iMXUSSNAhUjwfCboD8iy6"
   }
 ]

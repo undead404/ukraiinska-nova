@@ -1956,5 +1956,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5knvDDQ5DrVLpBNtDtnfG1"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-05T23:42:36.500Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89",
+      "Delyus"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d7ad45672aadb259cea3cd4d",
+    "releaseDate": "2025-03-06",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Infra Motion",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6aRO5ojAW7u3oMhZDHkG9T"
   }
 ]

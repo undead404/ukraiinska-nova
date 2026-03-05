@@ -350,5 +350,27 @@
     "totalTracks": 6,
     "type": "single",
     "url": "https://open.spotify.com/album/1SvdteP8cFwFBqI5sRem5e"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-05T23:43:21.643Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Stereopalto"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27332678e046adc50688360602b",
+    "releaseDate": "2026-03-05",
+    "tags": [
+      "alternative rock",
+      "indie rock"
+    ],
+    "title": "Криги Креснуть",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1nSWRCQhQI8PzDEVUmtwaR"
   }
 ]
