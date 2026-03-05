@@ -589,5 +589,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7e7VmuaDwB53e6heyn46SE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-05T04:53:01.759Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "GEZWEIRDO"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27308e279fbd5407be8099d48d2",
+    "releaseDate": "2026-03-04",
+    "tags": [],
+    "title": "City Lights",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5L868n6FmtEfy1aA4LqEjc"
   }
 ]
