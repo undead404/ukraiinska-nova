@@ -1618,5 +1618,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3tHBT5cYyhlUd6pR2x4DP8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-05T09:28:25.919Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Iryna Bilyk",
+      "Анна Буткевич"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bacce72e0927190dcf60a1f5",
+    "releaseDate": "2026-03-05",
+    "tags": [
+      "pop"
+    ],
+    "title": "Не ти, а я",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7vlOkAwF2THsC8WlJ8PGAe"
   }
 ]
