@@ -175,5 +175,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3OzcqyKd97GKTbMWStx7iH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-05T10:25:02.203Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Аліна Жук"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27387fa3a1bc2e9dc1b66d8e88f",
+    "releaseDate": "2026-03-05",
+    "tags": [],
+    "title": "Ти мене знайди",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5OjhdjNiZvOJY0QRrBuSry"
   }
 ]

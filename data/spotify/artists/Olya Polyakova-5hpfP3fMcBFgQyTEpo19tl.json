@@ -1060,6 +1060,10 @@
       {
         "time": "2026-01-25T10:27:35.052Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-03-05T10:32:03.697Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1186,6 +1190,10 @@
       {
         "time": "2026-01-25T10:27:35.052Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-03-05T10:32:03.697Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1201,5 +1209,71 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4iiA9hs9wTQXD3q6CECt1M"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-05T10:32:03.697Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Olya Polyakova"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a8b844fd0611b1fd528c1e3e",
+    "releaseDate": "2026-03-05",
+    "tags": [
+      "pop",
+      "dance"
+    ],
+    "title": "Ча-Ча (З к/ф «Коли ти розлучишся?»)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6sNXrUdnruDfKgETkt5rNc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-05T10:32:03.697Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Army Of Lovers"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fa2d84fe7551c003a4dbc9d3",
+    "releaseDate": "2024-07-12",
+    "tags": [
+      "pop",
+      "dance"
+    ],
+    "title": "Remixodus",
+    "totalTracks": 25,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3Vkz7Nk0yMEs5wh9zpH8TA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-05T10:32:03.697Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Army Of Lovers"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27327d3531841a9f1faa37a4843",
+    "releaseDate": "2023-10-06",
+    "tags": [
+      "pop",
+      "dance"
+    ],
+    "title": "Love Is Blue",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5AmEnaBtLg8IU6uWax7fOz"
   }
 ]
