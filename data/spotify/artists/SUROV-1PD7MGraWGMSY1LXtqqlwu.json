@@ -460,5 +460,43 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0RIrXbdOaGFmRvCzrH5Bii"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T11:28:59.048Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SUROV"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273781a2ec916cc7478c09e9bb4",
+    "releaseDate": "2026-03-06",
+    "tags": [],
+    "title": "Щастя (Shadow UA Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/013ZV8K8ydGpwjkb4eIlFJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T11:28:59.048Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SUROV"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27324852a7e36921d237746e889",
+    "releaseDate": "2026-03-05",
+    "tags": [],
+    "title": "Третя світова",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4eoAvhi2PfmgHjjEU1F8YM"
   }
 ]

@@ -290,5 +290,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/72tarBu2OSvRAdzVCjuqNx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T11:26:29.747Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KARYOTYPE"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d465f25adcbbac98ae82fa5b",
+    "releaseDate": "2026-03-06",
+    "tags": [],
+    "title": "Шорсткий язик",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5v3U3zCr6atL9CPLA4L4BR"
   }
 ]
