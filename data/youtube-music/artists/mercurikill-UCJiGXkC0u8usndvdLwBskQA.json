@@ -229,5 +229,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mjls_wOXNs9DafZPkW-ob8G-JyfhH01YE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T11:55:02.729Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "mercurikill"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/sctAwlgkK5ZUurWIHBeakkWzf4ZhhNaNPqwPSnHBAPHe5fEQAvcmWK54O7GKUwX3l361GAfrMyVuk1qN=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rock"
+    ],
+    "title": "Плями",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ms0jBzNRz5iG7_IOHUdEpb0z353hczOYA"
   }
 ]

@@ -375,5 +375,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lDBBJGFsKLc0je6XopsebtiJFiUc8DFJA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T11:54:11.846Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "bulovinova"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/624dqk8SBjN_nK4dg-_QwHm0JlFTKwxsGkTmXcbkMR-xDfvuWJyvrgMuP7yEmJ3jmfcy3kTSLdSOyhCJFA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Дивлюсь на інших",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m1K-6efy_onRE0p_FViuPvE2Rb4mvHlpg"
   }
 ]

@@ -1334,5 +1334,29 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lzQsuDrikX5dz6h6ze2xg3nNI0cx_Thj8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T11:55:40.171Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROPAN"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/tHhDNSkYrzkIEmjhAmef3n1rB9TXgMYs-YDA2bc1S3H1ZX5Zwyx3KyRXbS5yFRaOWm5cCkMpXWK0WVEu9A=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "dub",
+      "reggae",
+      "dancehall",
+      "rap"
+    ],
+    "title": "Соціум",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kkTQPXPxg90SQKB8XXWHBSVrnSxFRjuZE"
   }
 ]
