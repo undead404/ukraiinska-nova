@@ -1416,5 +1416,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2fmkp7UDXQEJ1sl5nAz5cX"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T13:37:11.599Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "примара",
+      "xɛniaq"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273505d7140383c61b5f1f7c60e",
+    "releaseDate": "2026-03-06",
+    "tags": [
+      "rap"
+    ],
+    "title": "chornyye dushiΣ(□_□)Z",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5XgoRqVzHsvirYnJkaGrHY"
   }
 ]

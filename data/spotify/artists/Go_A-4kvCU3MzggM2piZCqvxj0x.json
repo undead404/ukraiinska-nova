@@ -376,5 +376,29 @@
     "totalTracks": 24,
     "type": "album",
     "url": "https://open.spotify.com/album/7ut7i8c8Eo8Wr4f4NGzpIv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T13:39:45.359Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Go_A",
+      "Nazar&Qobzar"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d468dc29e2ffdc2a084233c3",
+    "releaseDate": "2026-03-06",
+    "tags": [
+      "folktronica",
+      "folk",
+      "electronic"
+    ],
+    "title": "Zhalmenina (Nazar&Qobzar Remix)",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3gR4zrEiHuSOlgYWH8jjVJ"
   }
 ]

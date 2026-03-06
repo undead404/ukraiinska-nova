@@ -714,5 +714,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2GoOZMjwiauV4H4XHMURxy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T13:38:20.363Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Хейхал",
+      "Ohmyname"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273833c649852805850b2a6416e",
+    "releaseDate": "2026-03-06",
+    "tags": [],
+    "title": "Формат",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0tL4Lt0bhFoxtvI3fJeucY"
   }
 ]

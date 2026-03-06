@@ -462,5 +462,30 @@
     "totalTracks": 11,
     "type": "album",
     "url": "https://open.spotify.com/album/0PsECmC9bNk3L0R587Ncae"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T13:38:30.860Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Guber",
+      "шарп"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ca7ceef348dfd0ba4f213b21",
+    "releaseDate": "2026-03-06",
+    "tags": [
+      "rap",
+      "rnb",
+      "russian rap",
+      "underground hip-hop"
+    ],
+    "title": "МІЙ ДІМ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1ZVjNle3OQg06DSx4cyygE"
   }
 ]

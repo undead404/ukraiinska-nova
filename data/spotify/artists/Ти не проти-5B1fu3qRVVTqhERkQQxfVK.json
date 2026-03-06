@@ -40,5 +40,26 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/60Oxq2R91HzkefDukJWuUm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T13:37:52.209Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ти не проти"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d98079d750d150d758d40b25",
+    "releaseDate": "2026-03-06",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Пробач мені",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1d7TWLJu2OVEzudqP9hWSZ"
   }
 ]
