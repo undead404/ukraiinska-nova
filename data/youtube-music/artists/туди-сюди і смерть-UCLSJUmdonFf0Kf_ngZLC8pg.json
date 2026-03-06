@@ -455,5 +455,28 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lZREC1nozyQd-Zp_6RtWQkFfAahMeMHk8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T14:02:41.136Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "туди-сюди і смерть"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/wacgUn1jaoJUTzr33oaPYKtxmdKd-CBztZ48FNKhrI0dU6q1ozhchcn_hyqtQZEeXosbOzRHN7gUwJYRYQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "Garage Rock",
+      "indie rock",
+      "punk rock"
+    ],
+    "title": "Сміття",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nzvLBm_v3i3yLPmNx4jvaiSM6D1Tm-aIU"
   }
 ]
