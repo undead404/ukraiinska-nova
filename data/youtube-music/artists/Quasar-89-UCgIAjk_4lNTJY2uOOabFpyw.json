@@ -2727,5 +2727,49 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k2q-avmodibhL7biLQpjjyNvW3cONxWWk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T16:00:03.033Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/I3MB6KS83VaDEzr4Y8MSpW0lC-t8gPuWfiYBhLNHKbk9OotQ90vc7kgv5aikdNFXs5Eh7kywNFxkxpaN_w=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Groove Dance",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nzPMEJVx2dkyUXnMbAq2ZgPWhXCjOYJQ4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T16:00:03.033Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/wjukQposjpGcP9xN29cANOoyZZdUqGs5AGD8tSayZLetFQ2rSlGrDSaBit2vwCobFtjAxlV2D70DYD6G=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Infra Motion",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mjLXVLF90qohO9Szb41sehnG7MaKMo-_s"
   }
 ]
