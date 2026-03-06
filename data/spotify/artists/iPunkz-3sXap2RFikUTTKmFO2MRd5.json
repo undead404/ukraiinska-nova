@@ -2317,5 +2317,26 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/4mXxOv0ljZ89f1OMOuJIlj"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T21:25:50.969Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "iPunkz"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273db419c8ef3f258d34ff1e28e",
+    "releaseDate": "2026-03-06",
+    "tags": [
+      "Brostep"
+    ],
+    "title": "Groove Ninja",
+    "totalTracks": 13,
+    "type": "album",
+    "url": "https://open.spotify.com/album/173OveHlcjYhsvvPkjftUn"
   }
 ]

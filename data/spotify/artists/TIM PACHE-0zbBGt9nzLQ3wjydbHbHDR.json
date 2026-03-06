@@ -258,5 +258,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2eQd4mCOUTiu4r5rk1T8ea"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T21:29:19.744Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TIM PACHE",
+      "Матвій М."
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ceec11d564e0a66430237306",
+    "releaseDate": "2026-03-06",
+    "tags": [
+      "Neo-Soul"
+    ],
+    "title": "Краса",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/37jps0MdoTtIZcNZbdk3Q3"
   }
 ]

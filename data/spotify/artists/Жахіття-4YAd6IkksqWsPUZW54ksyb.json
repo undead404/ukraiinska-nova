@@ -1062,5 +1062,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/40eVByhm8xnOAfpaxa7nwO"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T21:21:42.172Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Жахіття"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730f13f4300f9310f8fcf5bca0",
+    "releaseDate": "2026-03-06",
+    "tags": [],
+    "title": "Може хоч іншим допоможу",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/284byF9Xz77Frm0B9RwLYB"
   }
 ]
