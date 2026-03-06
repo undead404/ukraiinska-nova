@@ -2065,5 +2065,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0XfGtxwPoOlnvRxTnNTjVi"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T12:28:24.004Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "drwncvnt"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730e05f49da613e8c0d4cd0e8a",
+    "releaseDate": "2026-03-06",
+    "tags": [
+      "electronic"
+    ],
+    "title": "mayoigo no ribbon",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7317SPGRBrpz8KciVZkwmV"
   }
 ]

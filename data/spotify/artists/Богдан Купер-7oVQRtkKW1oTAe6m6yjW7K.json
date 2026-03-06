@@ -469,5 +469,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4lIjzHg8OvftMRpMclboTG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T12:23:48.952Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Богдан Купер"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733b08da1aa7d84dab9ff36478",
+    "releaseDate": "2026-03-06",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "На системі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5k1i91YtjGjpjxGuh39aHI"
   }
 ]
