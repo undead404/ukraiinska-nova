@@ -242,5 +242,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/60BjA8JBkqbqxXYk5Hkqif"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T14:33:14.820Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Puncher",
+      "Smile (UA)"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e0358917392a69b2452ecb27",
+    "releaseDate": "2026-03-06",
+    "tags": [
+      "House",
+      "Progressive House"
+    ],
+    "title": "Khanya",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4VZi6MVMCmgGi3HLEqi7jX"
   }
 ]
