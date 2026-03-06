@@ -94,5 +94,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/69Smvim3E6wVpUsk2MVFiY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T23:25:58.402Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "EDGAR TI"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c3b329de12c943d380b38b46",
+    "releaseDate": "2026-03-06",
+    "tags": [],
+    "title": "П'яний",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/124qmYJ1Vqq4BVX7R9LtVf"
   }
 ]

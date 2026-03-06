@@ -1979,5 +1979,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6aRO5ojAW7u3oMhZDHkG9T"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T23:29:55.613Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f7bf117290676248cbef1bf5",
+    "releaseDate": "2026-03-06",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Groove Dance (Original Mix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0l2GUJ0fkyUyioJC42ipob"
   }
 ]
