@@ -2820,6 +2820,10 @@
       {
         "time": "2026-02-20T21:55:35.228Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-06T21:56:23.267Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -3927,5 +3931,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kUHm5cw9ooI7Lpq-LWZ0W15UZpyCXav3M"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T21:56:23.268Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/aKpCeUE1wmVfa07EmNldPj-7dh-GCTWNlqqareYvJyAWX-M8PnBHZOxu_bpgYKYH3aPfKj4zYz6JYp6zDg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Solo pido",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kbxIq4m5zUVX6EYaP4FAXYNu3NRZxSJa4"
   }
 ]
