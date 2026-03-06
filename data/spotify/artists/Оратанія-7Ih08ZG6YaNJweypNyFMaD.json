@@ -174,5 +174,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/200re1dQw7nXhr594u8aLk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T03:11:58.162Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Оратанія"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27338b803f88c06483671e46f4c",
+    "releaseDate": "2010-01-31",
+    "tags": [
+      "rock",
+      "pop punk"
+    ],
+    "title": "Разом",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2blIBBIEtjaKbVZWI6M7F4"
   }
 ]

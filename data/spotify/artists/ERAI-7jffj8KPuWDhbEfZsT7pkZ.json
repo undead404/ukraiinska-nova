@@ -306,5 +306,28 @@
     "totalTracks": 10,
     "type": "album",
     "url": "https://open.spotify.com/album/2s2Wum16eimse98P176j2H"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T03:14:08.503Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "THE EMERGENT",
+      "ERAI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c383bed81a264a0bf51a4112",
+    "releaseDate": "2026-02-26",
+    "tags": [
+      "deathcore",
+      "metalcore"
+    ],
+    "title": "М'яз",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/15Jbs0XxODVH9uRLOsDs2T"
   }
 ]
