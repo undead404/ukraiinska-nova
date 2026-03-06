@@ -635,5 +635,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2FiNJqMUb5QMmvRxTr6mfS"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T09:24:10.801Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Love, Mary"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e5958a68a915141e38436a2f",
+    "releaseDate": "2026-03-06",
+    "tags": [
+      "electropop"
+    ],
+    "title": "Глухі кути",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4POxbVFDpzKahzn1lAYgo0"
   }
 ]
