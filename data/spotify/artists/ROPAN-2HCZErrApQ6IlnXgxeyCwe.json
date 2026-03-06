@@ -1325,5 +1325,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/17zUaHPAYF0atcgEodPJ0H"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T18:34:00.656Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROPAN"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2734abb8df95ef39422810a4d9e",
+    "releaseDate": "2026-03-05",
+    "tags": [
+      "dub",
+      "reggae",
+      "dancehall",
+      "rap"
+    ],
+    "title": "Соціум",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/38gaG43owEcwtTDnDpVhxS"
   }
 ]

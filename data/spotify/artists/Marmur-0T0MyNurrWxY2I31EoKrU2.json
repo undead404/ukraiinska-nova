@@ -250,5 +250,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4kwSQ0f3yPyMrAnaffFhRR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T18:32:40.384Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Marmur"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27365d035d0d50f9e9ad1d31f92",
+    "releaseDate": "2026-03-06",
+    "tags": [],
+    "title": "Idols",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4i8Q6pZ0pXQ4KnUP2MSu5o"
   }
 ]

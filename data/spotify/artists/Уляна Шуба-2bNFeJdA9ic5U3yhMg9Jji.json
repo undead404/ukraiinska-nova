@@ -479,5 +479,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2WtbnZXBdP4RRIITkH3MRy"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T18:27:43.649Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Уляна Шуба"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732fd00a121fd81f455d458826",
+    "releaseDate": "2026-03-06",
+    "tags": [],
+    "title": "Закохані в життя",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7cMH7SQNYdwJpvSDY2tcQv"
   }
 ]
