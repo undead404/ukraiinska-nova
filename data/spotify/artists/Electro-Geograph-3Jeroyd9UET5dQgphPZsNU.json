@@ -157,5 +157,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5e9ctBVgSR7E1l6aOEnh2E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T10:25:05.003Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Electro-Geograph"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27320ee1e64628969d7b681e4dd",
+    "releaseDate": "2026-03-06",
+    "tags": [],
+    "title": "Ейфорія",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/18FHRXGcqQBP7hYPhMLuxm"
   }
 ]

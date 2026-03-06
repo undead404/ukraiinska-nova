@@ -1481,5 +1481,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2akoNOOHiDiSOdhC79uRV0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T10:26:34.396Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Jamala"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27328f36606892de34fe1244553",
+    "releaseDate": "2026-03-05",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
+    "title": "Замовкни",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/35ja0IPHlxhm3Kkg9KJJbn"
   }
 ]
