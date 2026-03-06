@@ -1148,5 +1148,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3CgaFpAHKAJz42dvDWN75T"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T06:33:11.381Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Geonozis"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27342fa1fc22e0cdd5a2fe00a4f",
+    "releaseDate": "2026-03-06",
+    "tags": [],
+    "title": "Ukraine",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4BqGjz3xTHWwpLGsHpe6Q7"
   }
 ]

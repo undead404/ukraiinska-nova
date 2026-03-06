@@ -552,5 +552,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2P45dsi0Sdz1wbdfQRCJUg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T06:32:31.902Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Druha Rika"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d9a2f49ed6d0c7e65e14de3f",
+    "releaseDate": "2026-03-05",
+    "tags": [
+      "rock"
+    ],
+    "title": "МИ",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0NRp9nl9nnoQUZy4cRO5ps"
   }
 ]

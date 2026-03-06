@@ -1016,5 +1016,26 @@
     "totalTracks": 2,
     "type": "single",
     "url": "https://open.spotify.com/album/3h2E5F1vqftBIjoy7mpFCE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T06:35:52.115Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "whitelope"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e4a53e92c2df1b25f3476ba6",
+    "releaseDate": "2026-03-06",
+    "tags": [
+      "rap"
+    ],
+    "title": "навіть якщо",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2QAOh39Hey92qPNm1HHd8M"
   }
 ]

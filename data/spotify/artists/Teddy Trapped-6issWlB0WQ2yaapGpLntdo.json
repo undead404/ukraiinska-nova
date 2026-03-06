@@ -531,5 +531,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3D8WIyJUG7jjquXhjQkgU5"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T06:35:33.039Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Teddy Trapped"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fa8863f0a3b6486b631c9807",
+    "releaseDate": "2026-03-06",
+    "tags": [
+      "pop rap"
+    ],
+    "title": "останній соціум",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6C0BTuqEdjuYLdaWF1OFGk"
   }
 ]
