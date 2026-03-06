@@ -395,5 +395,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mX_ZcUhp4bypLaUxt8483ujRPnuHOwzVQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T10:00:07.432Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NAIMES"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/2rFKZNlwTd0cUxtKakotHo0zWiwfsLCR97CqEddmPKAGRpIcAr2P0b7RyZzJGKmLyZ3dzm3IHkUftxXn=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "з іншими людьми",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mfOlVHrVC_CH8OcOjSr7hyvIJUfhrZGv0"
   }
 ]
