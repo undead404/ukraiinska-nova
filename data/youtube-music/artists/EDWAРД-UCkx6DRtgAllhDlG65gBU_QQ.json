@@ -576,5 +576,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k-UYap-CZHgsdMEbDbgP0uPJTZvFiD9a8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T23:54:07.617Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "EDWAРД"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/rt6tmipGgVwByZyRLwE97zQl4vZjNz9VEfzHmICo548apPSAWOpt5B-k2md-dQ5uC8LPHp2A3B8qdT0e=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop rap"
+    ],
+    "title": "Дівчинка з Гуртожитка",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mKmg7xkNsZcu8JJCozpaR5i58WxatQn-g"
   }
 ]
