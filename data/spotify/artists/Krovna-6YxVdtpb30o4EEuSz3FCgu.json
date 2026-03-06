@@ -59,5 +59,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2jUK511b6p22KSzrMeoF4b"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T08:26:01.670Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Krovna"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c059d2e1d0af3cebdab163bb",
+    "releaseDate": "2026-03-06",
+    "tags": [
+      "melodic metalcore"
+    ],
+    "title": "Шість Воріт Памʼяті (Six Gates of Memory)",
+    "totalTracks": 7,
+    "type": "album",
+    "url": "https://open.spotify.com/album/5oesaaMinTyvW1ddinRMLb"
   }
 ]

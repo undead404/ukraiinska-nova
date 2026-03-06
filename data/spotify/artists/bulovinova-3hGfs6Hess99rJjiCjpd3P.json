@@ -352,5 +352,26 @@
     "totalTracks": 16,
     "type": "album",
     "url": "https://open.spotify.com/album/7EFGtggm26K11fIt0dU5P8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T08:24:02.608Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "bulovinova"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27325f4ddbd9faa002c6a930660",
+    "releaseDate": "2026-03-06",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Дивлюсь на інших",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2RUAWpTrs27a3gTwZpzL0p"
   }
 ]

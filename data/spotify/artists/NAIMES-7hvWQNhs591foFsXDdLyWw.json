@@ -477,5 +477,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1IXnImAEP1yqqpoiMy03qF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T08:26:51.478Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NAIMES"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273992fd5aa14f2231d933ea19a",
+    "releaseDate": "2026-03-05",
+    "tags": [],
+    "title": "з іншими людьми",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/1xn01DQ3LEJ8QfuHbGzpLz"
   }
 ]
