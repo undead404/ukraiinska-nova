@@ -419,5 +419,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2LotcDJp06LEXrGQVFGJFk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T05:33:59.267Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "туди-сюди і смерть"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273fe2b409a16820ab7f74ad83e",
+    "releaseDate": "2026-03-06",
+    "tags": [
+      "Garage Rock",
+      "indie rock",
+      "punk rock"
+    ],
+    "title": "Сміття",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5LiUAArakdfolWT8ibAJXw"
   }
 ]

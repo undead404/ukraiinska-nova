@@ -707,5 +707,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1tCUiYCalFE1NmyIeee2LG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T05:33:23.270Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гошуля"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ceb5eeb2c71b2f9ca6db6dbd",
+    "releaseDate": "2026-03-05",
+    "tags": [],
+    "title": "Прозорі",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/264YUewka68tW7yuRxYQF2"
   }
 ]

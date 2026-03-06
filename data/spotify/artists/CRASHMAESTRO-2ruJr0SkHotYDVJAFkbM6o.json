@@ -824,5 +824,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3nYMTrZJOHr4tpTgG6mpXx"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T05:36:21.746Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CRASHMAESTRO"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a6df893516b991e99a235e14",
+    "releaseDate": "2026-03-06",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "За все хороше",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/739BoslPuGMcDDWViWWxnH"
   }
 ]
