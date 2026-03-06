@@ -397,5 +397,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nnYaVMENAxjv4YjKGnK8PM0kzklsntKYs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T07:08:06.162Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SUROV"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/kJpKI5zF4bcsJaN-avK56jmykWtVqJpXICV7wwkXKhpJ7kivF2UW1ze8ae9KKzvUt_yIj-qaVeKUay9C=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Третя світова",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_moEN8BeUyGMy9oDasPjneXFXiaeNpnSUE"
   }
 ]
