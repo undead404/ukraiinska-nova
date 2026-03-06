@@ -299,5 +299,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5eH7zgYWs7dNPApIHpgn16"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T16:26:28.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Electrobirds"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bc9a9cab91f3ecaa90bd19f2",
+    "releaseDate": "2026-03-06",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Вітер, неси",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3Gx9BQz2crQiJvbu4AUelK"
   }
 ]
