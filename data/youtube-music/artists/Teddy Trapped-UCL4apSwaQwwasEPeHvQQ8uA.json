@@ -778,5 +778,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mBhxUeak6WCaQnb8bVCmoVt0Z6Tex2bR4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T19:05:24.361Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Teddy Trapped"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/AHsEVihIjgcXo28yoDxZWfcame6VKRIk2TyUoDbFSMI5CyLn0UxtzdA15CFJPjQ3vdm8N3VHyPOpo-b7=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop rap"
+    ],
+    "title": "останній соціум",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nhvJxtTAoM1_G6Wn3njbDmmlQtL3pwXyY"
   }
 ]
