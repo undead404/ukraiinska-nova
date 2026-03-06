@@ -142,5 +142,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0taTkzDEru9oV0VqHZa6Kv"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T20:22:09.853Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Дикі серцем"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c7a4f31276f825a7569d2f4d",
+    "releaseDate": "2026-03-06",
+    "tags": [
+      "blues",
+      "rock",
+      "britpop"
+    ],
+    "title": "Маскарад",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/63PJwhXxWhueoJjNFfpTG2"
   }
 ]
