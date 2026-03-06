@@ -1449,5 +1449,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/42FCg9oZ3lsobTmYBevAnu"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T04:53:30.081Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KOLA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2731227d98dd7eea26b5bf524bf",
+    "releaseDate": "2026-03-05",
+    "tags": [
+      "pop"
+    ],
+    "title": "Salut papa (Magnushevskyi Afro Remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0tAeK5JUX6Xx8woTHTVuxc"
   }
 ]

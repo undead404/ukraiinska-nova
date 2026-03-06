@@ -17,5 +17,24 @@
     "totalTracks": 8,
     "type": "album",
     "url": "https://open.spotify.com/album/76Xpc37eeznQPOk9Z2nD2R"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T04:48:47.763Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Занепад"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27368f3034dd51c34e72457b0df",
+    "releaseDate": "2026-03-05",
+    "tags": [],
+    "title": "Епілог",
+    "totalTracks": 8,
+    "type": "album",
+    "url": "https://open.spotify.com/album/3OhWlozLh6GWdTBcQvgve0"
   }
 ]

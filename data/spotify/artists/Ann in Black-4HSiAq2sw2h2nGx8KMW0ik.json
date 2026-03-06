@@ -576,5 +576,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3CMvQoIXaatwUlH11LUdYm"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T04:50:24.050Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ann in Black"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27378a0fb8ae2e261969ee75be6",
+    "releaseDate": "2026-03-05",
+    "tags": [],
+    "title": "Будь охуєвша",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4IDY2A6DuUw89p1YJUALOi"
   }
 ]
