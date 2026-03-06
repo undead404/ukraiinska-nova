@@ -1211,5 +1211,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4tBeENSj8d2eBVzYjg3Dyc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T15:23:49.954Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АрХангел",
+      "Сочный вес"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273913576bdd9bffb0529c2314e",
+    "releaseDate": "2026-02-27",
+    "tags": [
+      "rock",
+      "hard rock",
+      "post-punk"
+    ],
+    "title": "Дуется - Пишется!",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7h2y6JN4dKcdhNHG0YoZdJ"
   }
 ]

@@ -465,5 +465,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6hJhRTdJxFylw37TsPu0Ek"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T15:31:38.461Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Smillan",
+      "rimyks"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d37834cfd61d20f612a9faba",
+    "releaseDate": "2026-03-06",
+    "tags": [],
+    "title": "Не тікай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0AtakGnAJ4gW8PYBwsVh0V"
   }
 ]

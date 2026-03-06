@@ -730,5 +730,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5bvWUdch0JZG7l57ZwdzpK"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T15:31:21.004Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sad Novelist"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730ab185067e3a5d7c3655b459",
+    "releaseDate": "2026-03-05",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "лтл",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/55AhMCtiH307foafSfVwFE"
   }
 ]
