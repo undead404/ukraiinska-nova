@@ -346,5 +346,47 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l19tAf7YQJkVlRviF3NyjTWzZPsKSpuf0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T02:39:11.073Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Crushglad"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/nzStYMNXiYgEvgDJYEgg5SN2i24QbLWxOCcyANFdA8fOXPBhzudjVcmGCtyU-ZNIoXT0YZS2MTAcokrY=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "Не зрозуміла",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lxu1bz6z0Pm6f5kKA3ild08bNRONQyMz4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T02:39:11.073Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Crushglad"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/f6l1rUoDh0x5X2FEz3tN5dMIqb6ztnwiRJuyTcyjk-B5S77yekYERzOjRhsOPZajCFw59v0NV-Y8oTXw=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "Шкода, що я",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mg-OklEjMVP-sNR8vp5gCjYKFMN7bbaWk"
   }
 ]
