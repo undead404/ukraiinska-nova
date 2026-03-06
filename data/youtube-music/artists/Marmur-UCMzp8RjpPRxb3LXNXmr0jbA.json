@@ -207,5 +207,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nZ_EwrY2XJFjXJT4TWGxIy6na2wQ9VTF8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T11:00:30.063Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Marmur"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/wXqyrjz6y06t93P0MvfN_dIxG1tOg1Oh_UgEeV3bcOXHKNXZhTNHlsPd83A5CJpjxR_leH3oV-cLqukDWg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Idols",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kyOezz-BA0-oz22QZ1emRfraAgGK7jWds"
   }
 ]

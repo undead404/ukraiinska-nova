@@ -1135,5 +1135,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kxlTvPaBM6qrt19leFFGoPZujRrx99RzQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T10:58:26.868Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KATERYNA BUZHYNSKA"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/coGbWgfdwphXSy9y2vz0EEUxEAa7QdgEpRf8-POjpgg7ocGw7dz0iqqbPM2US5dPf02BIYCMBw-KH4I=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Кохання Моноліт",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n-FoMPOEQbL-7aBPM2HmKWerEHTEwPIc8"
   }
 ]
