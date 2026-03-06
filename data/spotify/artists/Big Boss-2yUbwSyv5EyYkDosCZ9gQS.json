@@ -568,5 +568,27 @@
     "totalTracks": 11,
     "type": "album",
     "url": "https://open.spotify.com/album/7FARP7qg8ibNiUMUOXfabF"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T17:27:35.653Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Big Boss",
+      "DiDżej Mietek"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2730df6330c7243ce95d9e6fa5b",
+    "releaseDate": "2026-03-06",
+    "tags": [
+      "heavy metal"
+    ],
+    "title": "Z INNEJ PLANETY (HIT MOJEGO LATA)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/17zVKT8UtWQKI9t5DPgky0"
   }
 ]

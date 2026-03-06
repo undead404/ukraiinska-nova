@@ -986,12 +986,16 @@
       {
         "time": "2026-01-15T17:29:31.862Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-03-06T17:30:31.231Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
       "ROXOLANA"
     ],
-    "artistsPopularity": 38,
+    "artistsPopularity": 3,
     "imageUrl": "https://i.scdn.co/image/ab67616d0000b2732ac86de473fbe7fff1b41615",
     "releaseDate": "2021-11-12",
     "tags": [
