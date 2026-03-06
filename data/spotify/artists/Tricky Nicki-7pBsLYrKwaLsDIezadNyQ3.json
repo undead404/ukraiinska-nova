@@ -1004,5 +1004,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5TtpYkyujnuQ6ont80ggg5"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T01:00:24.533Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Tricky Nicki",
+      "PROBASS ∆ HARDI"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c6c120f9c08b433901e06cda",
+    "releaseDate": "2026-03-05",
+    "tags": [
+      "EDM",
+      "rap",
+      "Hip-Hop"
+    ],
+    "title": "Ride for Ukraine (PROBASS ∆ HARDI remix)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6bfLbwlUc01Ayff8UHN6QR"
   }
 ]

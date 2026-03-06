@@ -392,5 +392,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5A19WkugJu1Gkt8SAktQMl"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T00:55:04.267Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Лунар",
+      "Kalashnikhans"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b5742ae1f1e1dc3382bb5655",
+    "releaseDate": "2026-02-20",
+    "tags": [
+      "dream pop",
+      "post-punk"
+    ],
+    "title": "Knife in my pocket gonna use it tonight",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2m7Pimz9oDGv82tf8aOZQ2"
   }
 ]

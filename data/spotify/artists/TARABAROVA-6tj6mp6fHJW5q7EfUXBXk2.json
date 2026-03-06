@@ -1490,6 +1490,10 @@
       {
         "time": "2026-03-05T00:57:48.877Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-03-06T01:00:06.014Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1523,6 +1527,10 @@
       {
         "time": "2026-03-05T00:57:48.877Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-03-06T01:00:06.014Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1605,6 +1613,10 @@
       {
         "time": "2026-03-05T00:57:48.877Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-03-06T01:00:06.014Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1618,5 +1630,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3oWS5ii4G0LYJgOQ7XKKjR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T01:00:06.015Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TARABAROVA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736ef089c358f39fc47356276d",
+    "releaseDate": "2026-03-05",
+    "tags": [
+      "pop",
+      "electronic",
+      "synthpop"
+    ],
+    "title": "Ми вірим в любов",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/0kE7U53gW0b6RIvwHe7ZLm"
   }
 ]
