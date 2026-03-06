@@ -307,5 +307,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0sGfbjpXcoIvc6uUXI8clG"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T01:54:14.468Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BIOBITER"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27304519de538d98fe6cae26db3",
+    "releaseDate": "2026-03-05",
+    "tags": [],
+    "title": "Депресія",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2W3Ey0h4xJQP9V3GkOQGYm"
   }
 ]
