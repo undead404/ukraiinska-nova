@@ -973,5 +973,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l6InBEtYRJgHj0jvWPj1jNySAjAu1wkng"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T22:55:06.888Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гошуля"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/PRK_HBm75h_XMhpPdIYVeUZHiquf5ztn0xawTh0oxgLWI4slf_qXn2X2HP8RMdHzUTZ1eVuWx3F9YJeOxg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Прозорі",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n6Mg8Agob8uGW5w1jwnsVqgfHsxpnFtO0"
   }
 ]

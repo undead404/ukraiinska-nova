@@ -435,5 +435,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_luN6kbUOr51v4Bj83xTad_lytC7EpqSSs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T22:57:38.577Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Smillan"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/BbaHLUpUVH2uVaAH8RI6YW4dLyOt4Y1OjGb0G_1gAv6gKZdvCYcinxTmcbStwSivKtGTD7xuFtXzwxb9=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Не тікай",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mmsfPeqddIznTX9_TK_YKy3tupkPqnzYE"
   }
 ]

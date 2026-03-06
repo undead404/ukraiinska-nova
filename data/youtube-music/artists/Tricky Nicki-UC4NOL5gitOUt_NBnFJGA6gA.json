@@ -1190,5 +1190,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mIbwSiLLuuJAPL4jIhyH64lAsjJRne0s8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-06T22:58:01.920Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Tricky Nicki"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/vdOss9QrJ5_jM8Ezg77VhF76TzQuFas8c_o4Nz3R-VmNwipkewgwp55gb1GAQ3mpqx44Pu3iEs-ai7c=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap",
+      "Hip-Hop"
+    ],
+    "title": "Ride for Ukraine (PROBASS ∆ HARDI remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m9M4HoAuoezOOV2zgPUWKQb_TZYFTHZrM"
   }
 ]
