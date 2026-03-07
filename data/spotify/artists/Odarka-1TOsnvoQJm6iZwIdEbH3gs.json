@@ -1362,6 +1362,10 @@
       {
         "time": "2026-03-04T14:33:56.173Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-07T14:25:36.701Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1920,5 +1924,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/02zFDVB0Z6v5d4vc2QswvW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-07T14:25:36.702Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Osher Eliyahu",
+      "Odarka"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c70ab5815081dcb2dc5f3ada",
+    "releaseDate": "2026-02-20",
+    "tags": [],
+    "title": "Out Of Time",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4fWBKzwqyHKdWrHpEarOfW"
   }
 ]
