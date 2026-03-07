@@ -492,5 +492,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k_i9DicfL_xnxiqiMwHgDvD5_R_Q8en-0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-07T22:55:22.192Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VLAD BELOUS"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/d9kJUJlbgGB8E0p44RMCyJrRgzNXiz0H9gZx_bXgrCKCzf4m0keg_lVWvgV8xHDMitOSU9QhCvmJWClI=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Hold Me Close",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kM_MegGj0MjIPR1fRPgnYNEESyALzzaqs"
   }
 ]
