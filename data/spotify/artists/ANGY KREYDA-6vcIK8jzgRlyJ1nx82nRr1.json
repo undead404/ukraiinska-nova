@@ -769,6 +769,10 @@
       {
         "time": "2025-09-19T12:27:22.778Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-07T12:25:30.715Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1061,5 +1065,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7I2HXdU2DCGVoSY6m4fjra"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-07T12:25:30.715Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ANGY KREYDA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733cea34cd23e8168c6850cc17",
+    "releaseDate": "2026-03-07",
+    "tags": [
+      "pop"
+    ],
+    "title": "Новий Реліз",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3cjs6ZJrJQCbYkz6MprTdl"
   }
 ]
