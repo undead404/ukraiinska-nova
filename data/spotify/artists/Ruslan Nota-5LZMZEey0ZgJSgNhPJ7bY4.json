@@ -2017,5 +2017,25 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1nYH7td3enjn0mieMFeUGE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-07T05:31:55.455Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Людмила Клименко",
+      "Ruslan Nota"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a047193902f3b283002f773c",
+    "releaseDate": "2026-02-19",
+    "tags": [],
+    "title": "Ти мені не даєш",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2TTQb2qn7J7LtwWDK0kWaq"
   }
 ]
