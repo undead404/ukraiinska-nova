@@ -835,5 +835,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nZoFV7Bu2gUpH5ueEgwKVdvn8pu5IUkv4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-07T16:53:51.229Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ХЕЙХАЛ"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/R0H1nxBWCfNzFvBKqLS_rXaJcVnc3IaANBBdvxWqFfasTW2-gMIx33Z_91yYVDZgAJObIbg_BWjYn2c=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Формат",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k_UTFA5VCk7UDuRH-bZEIaArxMQDRX19A"
   }
 ]

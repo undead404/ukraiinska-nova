@@ -358,5 +358,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mnRWZuR5oBOOeB3MU_U0uf-m5_S5Rv4II"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-07T16:55:14.056Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Nia Barbia"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/k3yiZIrbDZh8NaPFHuCTJmW9SOsFgI7HmmHjVCKSdkvZkbbjbAt6Z3LJs7PLc0CUCxUYRKGVL_Qn-l0V=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Пак Айно! Я Із Закарпаття!",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nNCqyuq90Yg8qpMgc6f7-zg-meu88gUhs"
   }
 ]
