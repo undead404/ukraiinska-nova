@@ -590,5 +590,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/7FvhOYUdmZOTtYIp7XDm8u"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-07T03:09:12.765Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "EDWAРД"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733c0a438741fc203c674ee5cd",
+    "releaseDate": "2026-03-06",
+    "tags": [
+      "pop rap"
+    ],
+    "title": "Дівчинка з Гуртожитка",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2kxFKXRME2YjdLf85B94DH"
   }
 ]
