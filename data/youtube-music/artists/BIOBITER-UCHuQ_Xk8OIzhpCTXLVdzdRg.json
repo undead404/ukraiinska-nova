@@ -283,5 +283,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mVHhZVj5o9vSt147TTXQmDgwS__JzB1tM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-07T02:38:51.511Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BIOBITER"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/S2G7wrLHRzx8eSnS6Kh2Q2yZFwTWu4HmVJ3_pjovVGxLkIHSMiGbOGmJ8qRJqg2Rtf9DgOlz0Xu6d1ax=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Депресія",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ktgaF3bwbVglOaDT7684dmn4M9IvlpvVw"
   }
 ]

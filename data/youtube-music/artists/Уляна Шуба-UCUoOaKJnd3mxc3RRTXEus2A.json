@@ -455,5 +455,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ln-4Pt3GCfCdEV9SpSL7zkn-RTlQl9RlE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-07T02:38:35.850Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "УЛЯНА ШУБА"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/sFX4crP7vs08XSrr6MebcHA8K3IHVI28iwf9PTkL5AfL7YqA7jE09kiOFZLSuN6DiYAwV6fVBMN0Dgg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Закохані в життя",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mduynlnjI4BLfkhQNEcghRvjsIj-wAzBQ"
   }
 ]
