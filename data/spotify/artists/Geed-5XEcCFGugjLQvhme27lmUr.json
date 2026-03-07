@@ -267,5 +267,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/0vNMbIGdlXQFrvd0Tvo4EH"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-07T20:26:13.798Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Geed"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b83fd720fa9af078f22dcdf5",
+    "releaseDate": "2026-03-06",
+    "tags": [
+      "pop"
+    ],
+    "title": "My home",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2UXpThLGMOUbZ2J6Z5EVH5"
   }
 ]
