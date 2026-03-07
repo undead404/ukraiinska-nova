@@ -142,6 +142,10 @@
       {
         "time": "2025-09-29T15:22:19.120Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-07T15:23:51.437Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -366,5 +370,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/5yvxgPwdYkBvvblqTmkGKU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-07T15:23:51.437Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Noizu"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273637f5dac653e2dddcd5cdd43",
+    "releaseDate": "2024-10-18",
+    "tags": [
+      "House"
+    ],
+    "title": "Vogue (AVALAN ROKSTON Remix)",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5KRDUHOmhj9ziKlLWp8pYj"
   }
 ]
