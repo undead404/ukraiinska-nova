@@ -113,5 +113,26 @@
     "totalTracks": 8,
     "type": "album",
     "url": "https://open.spotify.com/album/6wIsQKHqY6oxcaLHRasadP"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-07T09:22:46.589Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Пророки"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733bcf8f290cc191d053feb618",
+    "releaseDate": "2004-12-25",
+    "tags": [
+      "rapcore"
+    ],
+    "title": "Творение",
+    "totalTracks": 11,
+    "type": "album",
+    "url": "https://open.spotify.com/album/0GKPWMdB8WMGcWClH0I3Sa"
   }
 ]
