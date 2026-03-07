@@ -481,5 +481,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mT9ejBYZiWafnUBZmVNouPzSGyl5Tyh9E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-07T04:17:37.259Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Pero Culture Crew"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/qZi0SlMSMkAqC_Y53isvBFXipgwhjDrK1zlaR0mttjybmMsGyFYm2mXGA8pdPU3WASpiWMEwRdu5B0I=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Вони казали",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kKFLhxRdEDE9tsaxfTcilUOA5vdyXiXLQ"
   }
 ]
