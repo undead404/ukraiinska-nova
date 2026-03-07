@@ -1142,5 +1142,28 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/6xH5LZlSezivxv0l8pKoUZ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-07T01:57:46.297Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NASTYA SEMCHUK",
+      "The Madison"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ce899b27a71bc5471366c25a",
+    "releaseDate": "2026-03-06",
+    "tags": [
+      "trance",
+      "progressive trance"
+    ],
+    "title": "Ти класна (The Madison Remix)",
+    "totalTracks": 2,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6xeZ452eDJ0kgWbv4Kvp6H"
   }
 ]

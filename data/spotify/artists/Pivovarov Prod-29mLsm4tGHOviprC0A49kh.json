@@ -137,5 +137,29 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/4PKPbHXAJqBNJqLMjdLqm9"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-07T01:56:08.520Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Pivovarov Prod",
+      "Kate Soul",
+      "Олексій Копилов"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e37d97faada27e37d4449a1b",
+    "releaseDate": "2026-03-06",
+    "tags": [
+      "electropop",
+      "soul"
+    ],
+    "title": "Поламана любов (Radio Edit)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/5lMOOr4vInZHfI5AAvqyoC"
   }
 ]
