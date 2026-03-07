@@ -174,5 +174,27 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/2DD92xTxAKDtGSqbpjMUXT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-07T07:22:30.902Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ТИМПАЧЕ"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ee617811c318130ef74dde2f",
+    "releaseDate": "2026-03-03",
+    "tags": [
+      "pop",
+      "synthpop"
+    ],
+    "title": "Теплі вітри",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4FVuq2aSsfOlWd1PuXpcnO"
   }
 ]
