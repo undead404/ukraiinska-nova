@@ -94,5 +94,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3rzilqQBfDodhk8kPeobvW"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-07T00:53:25.855Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "IsaevPro"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273470349fdf0419e722d62afce",
+    "releaseDate": "2026-03-06",
+    "tags": [],
+    "title": "З Низів",
+    "totalTracks": 12,
+    "type": "album",
+    "url": "https://open.spotify.com/album/42ckKFxDWit61D9feTRtvW"
   }
 ]

@@ -258,5 +258,24 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3D99upz922ZHyVpuyIEBpR"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-07T00:52:21.389Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Melancholydi"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273397f1608178ba14fb6156a79",
+    "releaseDate": "2026-03-06",
+    "tags": [],
+    "title": "чай",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/75ll53TalcnBCCGIcKTHrY"
   }
 ]

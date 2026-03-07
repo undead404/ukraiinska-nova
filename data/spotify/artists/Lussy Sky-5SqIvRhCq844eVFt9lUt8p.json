@@ -266,5 +266,25 @@
     "totalTracks": 15,
     "type": "album",
     "url": "https://open.spotify.com/album/1P8AkMnzGbjDTSffIihEoJ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-07T00:52:08.482Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lussy Sky",
+      "Raks"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736457009282b3d35b0e2340a7",
+    "releaseDate": "2026-03-06",
+    "tags": [],
+    "title": "Made in Poland",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/6UVkn97gxWi6ffSPpJMzmI"
   }
 ]
