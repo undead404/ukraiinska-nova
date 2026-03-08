@@ -417,5 +417,25 @@
     "totalTracks": 5,
     "type": "single",
     "url": "https://open.spotify.com/album/6PMBJ5enKs42cEWnROA2dT"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-08T00:54:40.391Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Belaha",
+      "Angie Issac"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27302606a041c81da7ae76bade4",
+    "releaseDate": "2026-02-19",
+    "tags": [],
+    "title": "Through The Light (Radio Edit)",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/2eVW7VAIaLWTZlzwONns8F"
   }
 ]
