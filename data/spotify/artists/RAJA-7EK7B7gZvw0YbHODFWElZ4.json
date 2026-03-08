@@ -736,5 +736,26 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/3C1vtqg10sbFPKWwHRcoDM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-08T15:27:02.583Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "RAJA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738dce3183bfeb0cbdbb026aeb",
+    "releaseDate": "2026-03-08",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Amour",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/4KiE10SBv3TtvQwHnbJgZC"
   }
 ]
