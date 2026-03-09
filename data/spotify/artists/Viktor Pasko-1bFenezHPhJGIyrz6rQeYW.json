@@ -475,5 +475,43 @@
     "totalTracks": 1,
     "type": "single",
     "url": "https://open.spotify.com/album/1hlLUhIeLYwcYnh5C1wyVM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-09T08:34:49.365Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Viktor Pasko"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f9dce46b5de7a3cd86a1bd66",
+    "releaseDate": "2026-03-01",
+    "tags": [],
+    "title": "Патріот",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/7tsuiKESR5IrKJLsEVpGCi"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-09T08:34:49.365Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Viktor Pasko"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273410be84fcecce4c80996d285",
+    "releaseDate": "2026-03-01",
+    "tags": [],
+    "title": "Генератор",
+    "totalTracks": 1,
+    "type": "single",
+    "url": "https://open.spotify.com/album/3mTjNHQsrmAw5tB93SSBW2"
   }
 ]
