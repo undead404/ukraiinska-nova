@@ -459,6 +459,10 @@
       {
         "time": "2025-09-22T17:46:35.839Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-09T17:08:41.179Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -813,5 +817,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mCtnoosZ_KFBmrk08MB_P9EQRX5rM-8BU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-09T17:08:41.180Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "paashee"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/3cii3iB1lFLMukDY0pZxZSI903M_ZG2wQCnwMip_d_4Hyd4WqDFoCIyZOVm8pw5hY3KboCtuRBxXEUM=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "rap"
+    ],
+    "title": "WhoYou",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nxfi5E9RAnfZVmdgasDiPn6-vCJ3ceo3c"
   }
 ]
