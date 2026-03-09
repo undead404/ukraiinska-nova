@@ -1212,5 +1212,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m9M4HoAuoezOOV2zgPUWKQb_TZYFTHZrM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-09T22:57:53.232Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Tricky Nicki"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/3cii3iB1lFLMukDY0pZxZSI903M_ZG2wQCnwMip_d_4Hyd4WqDFoCIyZOVm8pw5hY3KboCtuRBxXEUM=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "rap",
+      "Hip-Hop"
+    ],
+    "title": "WhoYou",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nxfi5E9RAnfZVmdgasDiPn6-vCJ3ceo3c"
   }
 ]
