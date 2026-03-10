@@ -563,5 +563,28 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lxAFkdGPvDjfOIv8E7V0Er765m-XQLJWU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-10T15:09:44.407Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TOF"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/_fHJ4kl7-vIhkLH5S0emagGlHaypc8XCOqjAHinq3WNp8GeVrHEspg_10TRkqt2bnd9lY6LHSVa3aWCh=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap",
+      "dance",
+      "Hip-Hop"
+    ],
+    "title": "TRONCHES DE VIE VIE EN TRANCHES 27 Chea chexe & Chun Sensure of Chiit",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m2SN2GcGwOYLhT8TQ3mqGCkZgs3SV6oMw"
   }
 ]
