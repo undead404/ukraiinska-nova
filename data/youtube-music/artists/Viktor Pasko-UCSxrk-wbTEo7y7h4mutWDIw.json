@@ -321,5 +321,43 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nBcTnPDZo0iR7XQd3OikPbUwzIAoL-leg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-10T04:26:17.340Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Viktor Pasko"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/ocwaGqI4_wyQXcxQZnp7HyclQrT-FfAS60Nk3mZBzxKhsO2Buc_BQEQCw3weP2kd2FyuLs8aBjiLctc=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Патріот",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nr2N72EcF_jENwPQsiJJ9DbG3IeKHcG88"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-10T04:26:17.340Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Viktor Pasko"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/1mBEA4ipkkWOusnhgApEYdadRuoAtbW6tOlv39DcJnJnt8NAybRz6Ibrp_R3eTVsrX27ZR3r9zIHKSCv=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Генератор",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mX0an96M-FbVleEaPXLF08AEIWruPPx2w"
   }
 ]
