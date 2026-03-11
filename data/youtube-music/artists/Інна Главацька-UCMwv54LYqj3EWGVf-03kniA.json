@@ -729,5 +729,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_npc1VGwlte5WcSgc2SAmA2aXMzy2HDZ8o"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-11T21:55:06.795Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Інна Главацька"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/7CHgo9IoUwPvEZqiggVxevEK3IQOyc_YQeLKT8QWzc2ZGwbkopakKLUvbFe1OQPSvdVDu2U_hs_RumcD=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "folk pop"
+    ],
+    "title": "Рада би я",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mY3gGRY26nODjkWkCf-1yJ1O8rpzdNwng"
   }
 ]
