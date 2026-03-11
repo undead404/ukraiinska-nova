@@ -838,5 +838,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nxfi5E9RAnfZVmdgasDiPn6-vCJ3ceo3c"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-11T17:09:03.812Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "paashee"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/JeFBJktpbyqsohKvbfkuOggiBysM8G3OLes_mFDN92xzMrvzcV2GDedzI5K9M1ZA0RQLYIvLzng568DP=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Мала",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l4N7xM4B8DnnwOONCow0EzP0JK0rJETA4"
   }
 ]
