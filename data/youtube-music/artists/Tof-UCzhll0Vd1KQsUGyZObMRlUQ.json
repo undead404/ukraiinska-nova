@@ -586,5 +586,28 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m2SN2GcGwOYLhT8TQ3mqGCkZgs3SV6oMw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-12T15:09:33.126Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TOF"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/VHYmSof-sWHbnAjUHuGquPNOTxPmOK3UJUPqgyJhHMAG_s2TV5btxT8UvVyVlTcNV2wWGIME-_aH7VxdBA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap",
+      "dance",
+      "Hip-Hop"
+    ],
+    "title": "TRONCHES DE VIE VIE EN TRANCHES 21 tout haine teen one",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lMouQiFKBT53HCpom8sWppLP0kC9tF1J0"
   }
 ]
