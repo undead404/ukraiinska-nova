@@ -12,6 +12,10 @@
       {
         "time": "2025-12-26T22:49:12.327Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-12T22:57:01.628Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -43,6 +47,10 @@
       {
         "time": "2025-12-26T22:49:12.327Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-12T22:57:01.628Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -74,6 +82,10 @@
       {
         "time": "2025-12-26T22:49:12.327Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-12T22:57:01.628Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -105,6 +117,10 @@
       {
         "time": "2025-12-26T22:49:12.327Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-12T22:57:01.628Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -136,6 +152,10 @@
       {
         "time": "2025-12-26T22:49:12.327Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-12T22:57:01.628Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -167,6 +187,10 @@
       {
         "time": "2025-12-26T22:49:12.327Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-12T22:57:01.628Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -198,6 +222,10 @@
       {
         "time": "2025-12-26T22:49:12.327Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-12T22:57:01.628Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -229,6 +257,10 @@
       {
         "time": "2025-12-26T22:49:12.327Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-12T22:57:01.628Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -260,6 +292,10 @@
       {
         "time": "2025-12-26T22:49:12.327Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-12T22:57:01.628Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -291,6 +327,10 @@
       {
         "time": "2025-12-26T22:49:12.327Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-12T22:57:01.628Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -322,6 +362,10 @@
       {
         "time": "2025-12-26T22:49:12.327Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-12T22:57:01.628Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -353,6 +397,10 @@
       {
         "time": "2025-12-26T22:49:12.327Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-12T22:57:01.628Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -384,6 +432,10 @@
       {
         "time": "2025-12-26T22:49:12.327Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-12T22:57:01.628Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -415,6 +467,10 @@
       {
         "time": "2025-12-26T22:49:12.327Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-12T22:57:01.628Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -446,6 +502,10 @@
       {
         "time": "2025-12-26T22:49:12.327Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-12T22:57:01.628Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -477,6 +537,10 @@
       {
         "time": "2025-12-26T22:49:12.327Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-12T22:57:01.628Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -494,5 +558,775 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nhnwUIwt7zNcSeQeKV80ryeFxR4N34jBw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-12T22:57:01.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/sTyyxOOH0jM__bJaORczjVOlwIAI-ldqS334sE7DG0ryX0GrzFF7zufV1rk8A5pX3pXMtYiNApTwnj5b=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "Знаю (Dance Version)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nZuuFlW2pBbpZDYuEKPGgVKVArG7CTRNY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-12T22:57:01.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/0ZLF9cgk8_b1I6pNzFLuceHi4ZJAwqAi5PLeJELg29VIop0G48c9xFrfj7SSLJungN8l_5WtsX8ftvAf=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "Знаю",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lpjl5i-rlpM1k1isy8sqMXAB9LjIdbU9Y"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-12T22:57:01.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/MszcoutjhC0iEye6jk7JIHHy2T0rCkDsF5HhiYAtBMW15zYmVpXKX22d8_H67vCE90WbQLB-uadIjMs=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "Народжувати і вмирати",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l0sA7voddlNUKL0kTbIxt30BEMhl90dto"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-12T22:57:01.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/ytv27Lbpg5XfPOYXsK4zuDJXecfydf-V1gzMI9_mW5PKEZ-ZtqlJc38V0182OEimBmDOVXf1Kdy9q72h=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "Магія",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lhMMuneFfekiGWbU_X_LkaWaxEBLiUy64"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-12T22:57:01.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/wWQqHZUeww2FEGQNwnH7SHIqhOeqCqrAb37Cj4U0TxMC8nzFquJDHdgUExEvQgofNSV0hG8P-BqKHAzO=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "Забери (Ukrainian version)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kYhDE2cXvTBzCI_3YAcuADg5gx8BBRK8o"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-12T22:57:01.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/7vV-DdviShfF-eAKfuJh3o_PR9P2r5f62Jlz9hVE2P_CF2gV8ppFELfXogFseazsnBM3vn0wITfVXUVt=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "Зрада",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mJqTrcuLO5yKDaRWPpeoVc_rGBrOQKLUs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-12T22:57:01.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/t2_He4TjzW-Yxat4xy8gDMzworwoDUsTPdc4960EClBbaqgRISe7XmHXU-YLnWwSKFDDiQTCt-_ji0UD=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "Про дні",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nR7s4n3pLPFN9GGoDoCzzxpUqO7ki5v90"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-12T22:57:01.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/ujdRD3GBo6kzozb8Hla-wC4LdhlddRHz2hummQtZ6C9-8X72lQsfWsCO8dYH_gU3qOPGTP3RWTDe05YJ=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "127МА",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kYki0EnYyYeyKvsFr3iPx7mqTmBcjtwBM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-12T22:57:01.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/nIf5ZP9MYeIqdK56JFxyGn0zxub9dvtcTzuahv38YTm95OXqovF1nOXY3sbSTKCllmCFdOngLK_uRJsl=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "Непробивна",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kG7fi5Ok-hB1mh1X8z3hxUiIaSfSr4siE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-12T22:57:01.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/cxheU0tf2UhuzD6kMAdZvKyyWxBofVQq0p3634L0i5kU7-sTyCczMHXyZENyS9WEW5-4Jb_rMW6p7l5C=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "Пташка",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k215YMDW6lM6iJ1CPjDFyfWZDRWNN3vLw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-12T22:57:01.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/qR7HQPpQsUyxGqVm0wvqGMcZ0dsHPjKfmkOXXBWr-meAQs55a4KPm8TItvE7gLrspNPGrnHP9EfDbqVB=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "Я Солдат (2022 Version)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n_xdqwsg0ayQ4YSzZaJ-CNFp-8pQ4goCI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-12T22:57:01.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/cTGqaSgTAPL148CG8KEcB9fNxg8mJPh5oUgLly9h0S6sXv27LrD2smRDYUaSawGwIFNmQSiQ5GOm6EM=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "Я Солдат",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_krc4izEeovR3P7p3PVVnTggEhUCj-pIHM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-12T22:57:01.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/EhjY-6D5lTudBRtkmKQLakbGEa6wd6qfavwiwOtOPDKLHE3dUQv4O9TSyLoNuxaBNU6DdUm8k1veHr0q=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "Далі ми самі (feat. Sidor)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lIHhkiz6Vbt_JWL1eFRI3DsHFXCRUc3lY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-12T22:57:01.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/jOCaiLRXq4Cy4NPGSIaGt7Gq_QA5iktiw4u2oD2jY0WNKNsAtA8ra6nT4HS0ePibVidYRlsYNB9hW3o=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "Вона знає",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_knqD-h1J_JuSvd352YVk2jx_1i_p1sNtU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-12T22:57:01.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/lG0hZJ8Qd9n_tWXuupROy0bwzc4IWOrV_VmhtQzfI7H9Udp-l9jJCN9wU1dq39tg_inh0iK2ZZ3JEBbXfw=w544-h544-l90-rj",
+    "releaseDate": "2020",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "Because You Love",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nTHZjgrxBh_4ITy2uRiE7oESCC2Zom1DE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-12T22:57:01.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/DdE7U_CzIMsbUxC4EBowQfQWhvTIUOxz0cy_HjKEIuVmqc6bayetkU7DgItrOQ7jY7ub0axKQym01slIAQ=w544-h544-l90-rj",
+    "releaseDate": "2020",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "Твоя любов",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k9V2YjXPHoUIbnBv-ELXxuZZ-WHkLoGC4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-12T22:57:01.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/etYNdGmsDxps-KU-7cYlqwxXEGz9S-mq5ePs7g7aN1yKSw4RANCL4Br-QrU1Qvdw9rg7ZRG3vEV_ytDg=w544-h544-l90-rj",
+    "releaseDate": "2020",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "Бомба-ракета",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nKg_1W1uP_UVK98pCGu5JKhFRTLOaiPO4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-12T22:57:01.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/unagkz4qEPdbOc2MG4khPInetBChkeRNHdzMwFToGkBQLiX6vKfF2iaI1OhpXHDBCluvm3X2jgGi2U5FUQ=w544-h544-l90-rj",
+    "releaseDate": "2020",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "Спалах (feat. Олена Кравець)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nKgOcRABfiQ0LWA6yniSarQ2uhbMFLkmQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-12T22:57:01.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/53MZPXah7o91nncM7Tjq1XULhOedR7DOzyFl7Od_TOSERxntil2EZtHQEv5mz3z1VsMLjL-EvmIw1SE=w544-h544-l90-rj",
+    "releaseDate": "2019",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "Лис",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mnkGRsWkuJvXcgdQzUdKgYUPDT96uSlL0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-12T22:57:01.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/pDFvdf-tjVoNzlhPOZXpjsGdU0Miu_A_HofGmlsUw1OqeHTVwD-2JNxoIAEju0FQzXzF8YsJFd7C-KgkqA=w544-h544-l90-rj",
+    "releaseDate": "2019",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "Єви і Адами",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lPZ0aK7ek-fG9KeFUdG0_xnCtpod_kCVs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-12T22:57:01.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/eDIPezbpzPICRikUYXL1MbiOZK2uFaB2D2gDLeZcZpOGn1JaBhWm5EzjCPcan0W_hr0J2trpGc1S1UI=w544-h544-l90-rj",
+    "releaseDate": "2019",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "Моє кохання",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m1dAc0X1Glto7LwCLG9D0iHIKOm9ypZEo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-12T22:57:01.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/MpLpioFHjxeevrWBJ9PCMFYI4bI9vcCy_D7DsgfSqMhZer_Sx6aCzayJ7JBZkxCE8f7jBvwUu5fkt2xSkA=w544-h544-l90-rj",
+    "releaseDate": "2018",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "Дихай повільно",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_noTWSC_WUD5_uMf8OQWGAIp47aKXP5PjM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-12T22:57:01.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/M0-mxwFB8XeJtmbCsO-j_d_qfKWmmv3oJaG5Y5IAdv6jjBsh5vr2qcsdcvx9yr19oIfrUuezhwbzSLs=w544-h544-l90-rj",
+    "releaseDate": "2018",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "Крізь твої очі",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mxF3_6cYyGEuK1-1wYenF8hQEnv3iP-7Y"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-12T22:57:01.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/B-le6udf_hZEi7kVjQ_zICTQBk1mZk49v6FWhY7xxdGIG4xIdnLWeA9NlA6wWOxBuKvrwt2FyW6yl-3I=w544-h544-l90-rj",
+    "releaseDate": "2018",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "Хто далі йде",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kJ8gH9Yvp33SwZGvg8yH4uftKQNbXUue4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-12T22:57:01.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/qo_EmFu-_CuPRYoUJQ2UhCaMEBnFol6etF8XS_F7D-xe0RDau8yRmNGaROByRl2Mcw7B-uJllqUqVT4=w544-h544-l90-rj",
+    "releaseDate": "2017",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "Де би я",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nofDF7OI2P5CWDsQEDXeNnBa4Uy9MOAd0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-12T22:57:01.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/HWoXbs8Y7-U2dTGQPQR7vKOm-dX0YsaWSl4cKe9ujgTpwIN5er-IWGh5bA2VU1hO5DgzVENzRx1PZjpH6g=w544-h544-l90-rj",
+    "releaseDate": "2017",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "Привіт, Бог",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kPRF-GvgfceLIpBR8hIxmAuKM806CL4Hw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-12T22:57:01.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/e0I1dncNeViHYxTeRfzrk0VxfVYLwxCXB_-98-R-rT8rGw2tEFom-S2iygYx4W5WBtC37K0UzbW9avSO=w544-h544-l90-rj",
+    "releaseDate": "2016",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "Петя",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kFZPpUTL6i5wXC_SwdDCkaXFTBDjfoYO8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-12T22:57:01.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/D_XLQMRous55BNybn6ksBklNG5VEjxo6_mHRjuwUxOphuXp8E8DIFbTTli1V-Ir7TzrxvUmFpsBCVP0=w544-h544-l90-rj",
+    "releaseDate": "2016",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "ГГГ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mrtfHNpAyHUWxpQ2y-_ntT7TiFQn0bLUE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-12T22:57:01.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/_UpOlgMh73W06pTs-B4CESE2PT4srukEIqxRsjDmCN20Kd3phfaOnYdzcgBeAdptRQtVe-ze5BIYDQLb=w544-h544-l90-rj",
+    "releaseDate": "2016",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "Пробач",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m-rC4EXyQHPzD42HQeKppNq2SPToWwWsM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-12T22:57:01.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/2wl3oAResBU6MuDq1J5keaFLOtBNLTuAxQBjP0SPwdza-0fxQE-T0MjvFeVQHi6OocL0yeM34kP18cCSfA=w544-h544-l90-rj",
+    "releaseDate": "2013",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "С Н.Г.",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nPlCnG_5IoHst6_iEdKFfOi_t-vZgQZlE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-12T22:57:01.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/da9iYLnsJ0wfh-W0gKNzBaamII0VwiWS4Uu1D6CWSCiNawOq3G3wygzMpfAQpUGUZ8J5p1jNsAm_Duyt=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "Live in Munich. The Orchestra Project",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m3emopiJj3AcLJNmWKIuM5BM0alfZ9rUI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-12T22:57:01.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/uWvzeV6DfD00EAiBOUnXpSFGWqWL0_dGY0El4XjfjW9sUhHFOxsTzGRp18TLTOv0MQDP0rDD3S50D_ntxw=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "Забери (Foley Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ldSJQHDcrGgPU3tBJlrrJUDsHGBk-3FA0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-12T22:57:01.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/4WbqVkXumRY0XboIoKYq5bIKcTbRkaZSfnCCP1Yd_-ePyQO87dIN_lCpxY5y6vwfk3_buK4BtbGFU7TA=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "Я Солдат (George Kabo Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kQX4dqpvC_GIFxf41JRGb8K3UesXhxeYk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-12T22:57:01.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/yh3hm5wDmWMJK_Em6_5ryu39TFvKPOvUNqASRN9mkS7xCQV_VuroaLMkWb_IGapMnZIga-8KyAV3XWSPIg=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "Я Солдат (2022 UA Version – Sobi Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lIy9GAAyEIPICqgM_t5AAiCPJi_nb16JU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-12T22:57:01.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Serhii Babkin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/-A4z1lfZiqOEhqQqHd7bEYyYeKYtRmz9MdZ4HXVTvdrUEMT8E-SXeZXRloFmcscuWj4rUn4Ufv9igto=w544-h544-l90-rj",
+    "releaseDate": "2020",
+    "tags": [
+      "folk",
+      "singer-songwriter"
+    ],
+    "title": "Бомба-ракета (ALL2NIN Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kdeRuj2TbTWTL-Ch05CCCPPr5O1JAXRbY"
   }
 ]

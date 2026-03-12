@@ -992,5 +992,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n6Mg8Agob8uGW5w1jwnsVqgfHsxpnFtO0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-12T22:54:07.019Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гошуля"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/q9YVDt9svtEA3O_9J7G179ZdbmPHWM9Qn70qqmNdUsiJUqBbF71g2YU7suMfZnl5KSZOVe1_eSBTxR8k=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Sky calls",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mrBRPRkmpgK7HjwKCOdkDOtKKAuKqJRys"
   }
 ]
