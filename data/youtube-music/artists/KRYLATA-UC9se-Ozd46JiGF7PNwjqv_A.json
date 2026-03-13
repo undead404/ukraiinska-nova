@@ -619,5 +619,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kZSb8mYs_RBLcys228wYSI7fl5y5YVLMc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-13T20:59:35.077Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KRYLATA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/XeaTYaQg4sdAGQ4IdSlkEq4ubUOuFsrshjL0eWgaBHAjDYd0boA_s9D9zn-AzfcFJTfTDcG3t0yUPkE=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "моя весна (Acoustic live)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kIIKYouYCRyurHUWpXe2O_sOn3jVOk_U8"
   }
 ]

@@ -868,5 +868,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mVYPxasCZE1M7BVIt9uPHMcu569HCs7l8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-13T20:58:42.242Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Adam"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/I1ZuBONvZCkroHKcbzsz5UdinPliCAOkwXh5cgnFYPFhpN1Tc6YWmnrwFpgM9xXOf5KWUY1NpPShNjPZ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "dark electro",
+      "ebm"
+    ],
+    "title": "KÓZDI AŞIP JUMǴANŞA",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l7oqQcwFiKCNhJ4DsR9Tbo4zpyFoY-ThQ"
   }
 ]
