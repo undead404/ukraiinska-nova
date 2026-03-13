@@ -8,6 +8,10 @@
       {
         "time": "2026-03-12T23:55:55.034Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-03-13T23:56:19.034Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -33,6 +37,10 @@
       {
         "time": "2026-03-12T23:55:55.034Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-03-13T23:56:19.034Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -79,6 +87,10 @@
       {
         "time": "2026-03-12T23:55:55.034Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-03-13T23:56:19.034Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -146,6 +158,10 @@
       {
         "time": "2026-03-12T23:55:55.034Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-03-13T23:56:19.034Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -171,6 +187,10 @@
       {
         "time": "2026-03-12T23:55:55.034Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-03-13T23:56:19.034Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -217,6 +237,10 @@
       {
         "time": "2026-03-12T23:55:55.034Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-03-13T23:56:19.034Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -284,6 +308,10 @@
       {
         "time": "2026-03-12T23:55:55.034Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-03-13T23:56:19.034Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -414,6 +442,10 @@
       {
         "time": "2026-03-12T23:55:55.034Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-03-13T23:56:19.034Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -460,6 +492,10 @@
       {
         "time": "2026-03-12T23:55:55.034Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-03-13T23:56:19.034Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -615,6 +651,10 @@
       {
         "time": "2026-03-12T23:55:55.034Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-03-13T23:56:19.034Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -672,5 +712,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mpf2WOqQJOuKjTnYQgfjsF_PoeP8bdZr8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-13T23:56:19.034Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MOLODOY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/HylhfB_PnG9H6iknLmmgw28loCx4Z9W1QhD3fPiIhZMupa6ywnbCzaRpVVH2rm37DfR6TLsk1uSms_8=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Ціна",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mK1w9JppMaJn6l76jo7RsyGWAjH-TpSVI"
   }
 ]
