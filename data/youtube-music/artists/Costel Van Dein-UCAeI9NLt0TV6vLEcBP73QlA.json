@@ -3284,5 +3284,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mtk9HFwcDB65-omwrXtWIkz-RVozTEKGs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-13T19:02:44.576Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Costel Van Dein"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/-WEOJJpMQO6jYxXVX5Hw5Xm43WffEYWLQQTsQlJabzc9D2gJvs6EQp0qiKC0anKILOrcbb72stOgrNl5rA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "House"
+    ],
+    "title": "Stop Go",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n9Rwgu2e8gMT0H_iAl0XH6KEzmO1zvPcU"
   }
 ]
