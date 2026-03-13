@@ -2102,5 +2102,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kEsXLaphW7Z61lDiCZANujIqpOOUlOXOs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-13T15:06:35.724Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Volkanov"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/ztvHzGq3ohVc7DNvjiSQg5VYSDBZJhBGeYvmA2wl_dmXuHa67iPSH8tL0KA_SE_71gdxCOcNHLtQ-ldO=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Життя летить",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_miWFw6pkvf-u22VI1-fLrbEVKb8BYajag"
   }
 ]

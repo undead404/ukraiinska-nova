@@ -1311,5 +1311,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mmJk_zqgbqPiDLauxLGynYwk7jxxXjspc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-13T15:03:06.222Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Шугар"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/sZPHjAYXzAKyf6MHP-SUqyvOE0jW6o_Jy5FaoO0DLn0MxB0qFfMLR_WiUWYZ8f-ZhDVVMEl-bsZ_haU=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Душ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_laZwfXYevGGAbs6CnapJoEvQWFfXjJkUM"
   }
 ]
