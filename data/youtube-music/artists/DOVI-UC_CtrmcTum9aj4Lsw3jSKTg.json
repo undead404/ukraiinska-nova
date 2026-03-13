@@ -1250,5 +1250,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_njcUmEypcdZJVYD0kwUR9m6DLLg_sdPv0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-13T09:00:59.580Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DOVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/FVkraD_5c-CDPxG8hLeciceG3b60EsT2i5UpXhaBWv-oUpgH5udXX5Y7vzvBQmsN6oV35bgoNfm51rH3=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "dream pop"
+    ],
+    "title": "Останній танець",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k2EM571weqz8mUCayQePjNOdrXroTFi6Y"
   }
 ]
