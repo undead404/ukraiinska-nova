@@ -2181,5 +2181,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mIbe6vxo4SMKoZAh6zpV6g4rhpzcwp3hI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-13T11:00:55.134Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "kavabanga Depo kolibri"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/ovbKPPACgDQnQ45nI4Lk3v9t2n0RRU7loEWQZYQ15AWtfb9r4GPEU7sJ9UVTyAdcoJIvtSXFGg84aHk=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Стихия",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nzxIQ8agK7xYEmgAvGz1IsnIt3sGJ1_4c"
   }
 ]

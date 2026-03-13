@@ -295,5 +295,43 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n-7UFUxb2CLe98D5aP_qMaYDWz8nY6pZ4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-13T11:00:30.064Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Geonozis"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/Glze3zx3aalxqVOZMzCeXB_1kkYsM3VKfZHyZnUyzUahjwpgvz8ak-fLCndGbsdgLybjDwsTBDVpB5ReDw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Circle",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mdxjd9eC_XuVfjqHbriV7Owz2oDoFiEi8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-13T11:00:30.064Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Geonozis"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/HY58gfVCXLz7pWVB04Q-qU58ogN3zCFY4TrOG6sBg0B-4iHUcxC3viXSMb4LmndPvoPjcWNR_xfh_rl8Jg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Думи мої (feat. Biliak)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lMI1pr6YwOJ48J2fyn44fL0r6gTuRqemE"
   }
 ]
