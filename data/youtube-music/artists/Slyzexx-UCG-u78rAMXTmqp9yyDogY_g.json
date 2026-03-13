@@ -2785,6 +2785,10 @@
       {
         "time": "2026-02-20T21:55:35.228Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-13T21:59:06.150Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -3950,5 +3954,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kbxIq4m5zUVX6EYaP4FAXYNu3NRZxSJa4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-13T21:59:06.151Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/-7S55PhlVXD1OviJiwlTM0g3qGvsOA38XVBiKOiYeR5lms-p1Fv4oGcGuvEQtbn3We6VVV3datWXaFA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Полонина рейв",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lAxzWRBb66tSZNynnDeZIo1f2rwkiVCss"
   }
 ]
