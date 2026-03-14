@@ -1294,5 +1294,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mSYD5YxyVl9S6hg_wmAEt4fH-R93zLPZg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-14T16:58:47.721Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "STASYA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/XHEysz0cVp9LuXPYpbSpyPW24kYcY0drgVbt9idyxBvZi035HhbYLjFleuPwovCAQFABWSl7a_ahpKY=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "folk"
+    ],
+    "title": "Ніби так і треба",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nx4TMoKNhg9MyKGUqg8L00kP63JmW0aeo"
   }
 ]

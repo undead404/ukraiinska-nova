@@ -1051,5 +1051,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l60QJ2yhZbR5AW_LuoPwSC-GgZ865sCQk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-14T16:58:22.474Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SAMCHUK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/PzuCy4yDQI10TSrgvJ8l0XCHosCXOCStfcq310qpdz0r0S4s4ww7gEcCzyLY-YXuuMcRP_6CAaf9nNWR=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Полюби мої загони",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l9Ilf_zazupevtEMwcVqUYbyVbs9C9pzs"
   }
 ]
