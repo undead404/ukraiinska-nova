@@ -61,6 +61,10 @@
       {
         "time": "2025-09-22T08:50:05.867Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-14T08:58:37.394Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -321,5 +325,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kEknzLqxauPO5MOq8PrZLE8yEGedW860Q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-14T08:58:37.394Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "THE MADA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/3cii3iB1lFLMukDY0pZxZSI903M_ZG2wQCnwMip_d_4Hyd4WqDFoCIyZOVm8pw5hY3KboCtuRBxXEUM=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [],
+    "title": "WhoYou",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nxfi5E9RAnfZVmdgasDiPn6-vCJ3ceo3c"
   }
 ]
