@@ -20,6 +20,10 @@
       {
         "time": "2026-02-09T18:01:23.312Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-15T19:01:28.047Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -57,6 +61,10 @@
       {
         "time": "2026-02-09T18:01:23.312Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-15T19:01:28.047Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -94,6 +102,10 @@
       {
         "time": "2026-02-09T18:01:23.312Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-15T19:01:28.047Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -131,6 +143,10 @@
       {
         "time": "2026-02-09T18:01:23.312Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-15T19:01:28.047Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -193,6 +209,10 @@
       {
         "time": "2026-02-09T18:01:23.312Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-15T19:01:28.047Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -230,6 +250,10 @@
       {
         "time": "2026-02-09T18:01:23.312Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-15T19:01:28.047Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -267,6 +291,10 @@
       {
         "time": "2026-02-09T18:01:23.312Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-15T19:01:28.047Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -304,6 +332,10 @@
       {
         "time": "2026-02-09T18:01:23.312Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-15T19:01:28.047Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -341,6 +373,10 @@
       {
         "time": "2026-02-09T18:01:23.312Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-15T19:01:28.047Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -378,6 +414,10 @@
       {
         "time": "2026-02-09T18:01:23.312Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-15T19:01:28.047Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -415,6 +455,10 @@
       {
         "time": "2026-02-09T18:01:23.312Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-15T19:01:28.047Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -430,5 +474,257 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nONBvYYtOtFu5VrhmTUO66TsLpiuvtvzk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-15T19:01:28.047Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Druha Rika"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/uhgU2HST5jpQnuZpipKpRCtxHDuhi_gOk9g3yOkQK7unaxlhJ7XwjkAoeSZFIoX-AES9dlHJWIntEf0iCw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rock"
+    ],
+    "title": "МИ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kpjpbJio65e5GOpKVJRmEs_wB0Pcyn68c"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-15T19:01:28.047Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Druha Rika"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/FP9NDOmaSCl2Ua95bI5DO_eq7_oTdo5CFYNv5zClIX_DTwNX9aqMOWFPnq0BAhjGfLkS0vriw4DSRwzI=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rock"
+    ],
+    "title": "7'Я в онлайні",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lTV6LyVGAyYT7ujqcPZwWZXH1wmulhP0k"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-15T19:01:28.047Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Druha Rika"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/R-tGPCBvsahjxFZsezwIzdjVxo57p3Siweqqr4Ojc5LDMfKqtjd7qH0JiTFhZZPhkCB5worHE2hxqgA=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rock"
+    ],
+    "title": "Залишаю дім",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mq6-46oey-nWUuKkmqiQqWQig1Mbl0tr4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-15T19:01:28.047Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Druha Rika"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/BBxvXjbgmke3Q8bGdh0m2MPD309cJAlRSr1kxM2vcpn6rC8W22rQ1JNe6Gmkxv-JZu2ANyf9rFRQMTzj=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "rock"
+    ],
+    "title": "Запроси мене у сни",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lrclaGCDs7i1H4Aky9rSeftzJty8pjc-A"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-15T19:01:28.047Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Druha Rika"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/QfMCHNDMjaDXUb9uBqikMDRSE6sTOGfZQaUBZAdm10y7C-sZxFA3pcenETzno8OaNyJ0TSdR-1IE3bA=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "rock"
+    ],
+    "title": "ЧИ ТИ ПОЧУВ for Mariupol",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nJNyfTpS8JWhVgIC7lcXie4fNMkPTTNEs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-15T19:01:28.047Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Druha Rika"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/RDHXQYednhp1vcjIGzkvOlKTGyhZOqasSlEf1DifKjUnWlB4z4IKDnyCAOyBUBA7MEy6hiK0R3RXGH7z=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [
+      "rock"
+    ],
+    "title": "Остання",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kX24TB9RvmWugMQa1QezUIM80UW7LkmTc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-15T19:01:28.047Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Druha Rika"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/rYj0RJqtxIxZx33Ud-LIlVvVZDdrfYMG3ZVdlemR70k7A_M0b0vqyG9oJQYuPTpCfG1y6mb9VoTaYLE=w544-h544-l90-rj",
+    "releaseDate": "2017",
+    "tags": [
+      "rock"
+    ],
+    "title": "Ти є я",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k0gqmIz3mI0re6MuOQylcPm218n2Zxwok"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-15T19:01:28.047Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Druha Rika"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/HOGEZ7ro7fvzi06UEtYgyq4g8ZmMGDwTTPbnVSFqAgiiY6euJ44knrRE0Gf4dfkLSbGv_2IEKZza5q0y=w544-h544-l90-rj",
+    "releaseDate": "2017",
+    "tags": [
+      "rock"
+    ],
+    "title": "Ангел",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kjpIcKYs0VJWoLmvNPB4JK4ozdMupa3xM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-15T19:01:28.047Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Druha Rika"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/i4BDNCFz5DVgXo_pDD14hlrH19wFRzrBwwdpb94isgCdNRrh5XdPL2fjfaGLC1IlP2YBIUeQ5gjjhQX-ag=w544-h544-l90-rj",
+    "releaseDate": "2016",
+    "tags": [
+      "rock"
+    ],
+    "title": "Монстр",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kWiq8hY60b3iBjkdz4x_Ovw4dIWZ6f6Rs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-15T19:01:28.047Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Druha Rika"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/_pRMXVJGEBKDeHJ_vI9jJLvo_l5afD5zjKVP4yj12Xf5IthJT0KtK3-npIfsQ8RgOyt-V7Pgh3txB22O=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rock"
+    ],
+    "title": "Три хвилини (Zaec remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kdHvRETxXlOvkr6pu5UF0hHK1nndblaOM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-15T19:01:28.047Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Druha Rika"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/G4oXENJ5YkA1gaM5fh8q6G3tswKZ8jGPKMTmnTYTkRNf3gcmpYDNBYeWzqq-QAeq2FbfXPYo7z9bM6wJVw=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rock"
+    ],
+    "title": "Секрет (Zaec Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mEVRJJzaTDcZc2gAXrr9hD09S-SKwPGlA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-15T19:01:28.047Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Druha Rika"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/TGNJbDbnFErQn3qFmQJLmNL7BXHDtm2ufmlFSHCC7Jyz5YL6G_dhooRnc2PsVVvERWOmuDyUejsFjnw=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "rock"
+    ],
+    "title": "ЧИ ТИ ПОЧУВ for Mariupol (yan boyEV Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m-YLwWtoqgS6ThCBMr6FIRQB5sqq-lEys"
   }
 ]
