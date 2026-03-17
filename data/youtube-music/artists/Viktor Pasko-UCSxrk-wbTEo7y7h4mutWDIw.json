@@ -359,5 +359,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mX0an96M-FbVleEaPXLF08AEIWruPPx2w"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-17T04:31:14.575Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Viktor Pasko"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/uoUO5vKWmgmC8b8PeJVMC9rEBE-0K8-v1Rsslek9oDO8RGQYZK-IhzFxa3ac-M94MmvExZ-sgpbrbgUkag=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Кекс",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mkFHW5ZkRAaFS2gBuu7SY7rMmCix2rsk4"
   }
 ]
