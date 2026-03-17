@@ -376,5 +376,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lM47jMlF21LGkVA3qzHqogiBXPvj_398k"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-17T11:06:44.391Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lida Lee"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/vhAZRTtxKebmCzN_0LkAr1gECEI6SVJS25yrkEPdjY1UgdJExjDWw9jZtr98En4hm9LO6vBvI4-TYjsjvg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rnb"
+    ],
+    "title": "Під дощем",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lKQxcarfmUKOQvAjoU8rnep4FY2ulxt18"
   }
 ]
