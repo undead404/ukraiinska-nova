@@ -416,5 +416,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nm0gdBcBCvdAjZgfCb4z_jd4uIVCTal18"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-18T12:02:28.684Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "HOHLAN"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/ESypr_jAehAY28NnT1Qvld8mMiPdBs6r4F72RHlvJWYkxNYDdug698Cb5ANAe8OhwIPNinYLKFO8Bc-H=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Стояти чи бігти?",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l8rUHS-VagERf9jqci2T3HakXzK5LsfEQ"
   }
 ]

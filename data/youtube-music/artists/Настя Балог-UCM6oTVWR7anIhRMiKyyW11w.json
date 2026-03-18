@@ -306,5 +306,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kV0DjO_C803tuILgLMrAwfwo8H-2vME5g"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-18T12:00:59.722Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Настя Балог"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/E5Ye4KjwqpRbGhpNGmLOPNJVCFy_sdV2iRzD3QnQ2RBiDOtvZRl545Zp1JSXj1w4HrWEDV7KI8QWwPzJ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Нічка",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kAZoayS0Baox-gH_Ip9LH1kjCsEh05aLQ"
   }
 ]

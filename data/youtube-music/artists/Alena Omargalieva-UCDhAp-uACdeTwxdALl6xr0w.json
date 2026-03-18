@@ -860,5 +860,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lZtP4BuBDzSaVtF7RzjPtPvnuUDC5GeMw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-18T12:01:47.795Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alena Omargalieva"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/2uG9e_WefVWZrtFEmwzQ8mE5bXB7fAkd43Lqnc8-PzqVp9-6FdaJiATelB8EVW5RkeqxdiuZ8qc4S0tnpA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Щастя",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nzFJGfDpwE2rNWYBDcTrD0LLxrTjraO8c"
   }
 ]

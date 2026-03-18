@@ -251,5 +251,28 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mDyTwtJzeGYXoYHokB9ZqdAqN06ixs2Hs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-18T12:01:07.652Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "поживна цінність"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/OLwzB8bLCroi2gGkL-ML7gZrYIdDOPrppsZu9JPwZhGLZa0bsyPYjT0kKpyHarpQoPtXhAOSIWSkAeI=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "alternative rock",
+      "indie rock",
+      "new wave"
+    ],
+    "title": "не відчуваю ритму",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lNAkaWIOOKVnxoobG2JVSXEfTFSc3Bsy0"
   }
 ]

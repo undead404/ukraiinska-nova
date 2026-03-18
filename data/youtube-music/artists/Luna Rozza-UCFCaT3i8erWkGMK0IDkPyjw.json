@@ -397,5 +397,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lZ1pY67Zp_wuyUKHbkswTPOudlVU-sPTk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-18T12:02:45.794Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Luna Rozza"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/gQNNU4A1pxpyeG7CeCQhvE1VOv9KYbVYG0LjeM3oPtLkSfFcyzsWdaGg65YiZMamZadK6uyLBRlrEai1=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Ознаки протесту",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mIP8tELxIHQwr55_mrJTvdHycx-NTSgJQ"
   }
 ]

@@ -868,5 +868,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ml-I4gVBWxGAVUQgooA0ehc1xzcHw_ipM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-18T12:01:36.549Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "хейтспіч"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/OYex527BOfjAFt71oUnVD1kZRomVEt7pMtp4YtmrjG-njcZglPhvVj2sMWTKy_oXifIJlou4JLBLPgLa=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "dance-punk",
+      "punk rock"
+    ],
+    "title": "МПЗД!",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n985XOvVxKNlsttF_c9PDnZqAqybzbi0k"
   }
 ]
