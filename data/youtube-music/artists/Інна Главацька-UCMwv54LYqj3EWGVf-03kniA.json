@@ -750,5 +750,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mY3gGRY26nODjkWkCf-1yJ1O8rpzdNwng"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-18T21:56:21.794Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Інна Главацька"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/VbhAF0rX3HIvQ62nxYrXnaJiOa1wwpD1gRkVZBZ357vNX8zn5QPlwnL2dvTQcOCtbTkXIO91w6GTkg1R=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "folk pop"
+    ],
+    "title": "Я така щаслива",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lv88RbcKEuLq-qqMq8dSkLpY-Kibz8hv0"
   }
 ]
