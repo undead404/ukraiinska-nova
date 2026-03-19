@@ -295,5 +295,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nNG0kvNH0E6_EGfGJzc6PdM0zBZ9HvEpo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-19T23:55:57.347Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "LeChapo"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/76-tIoApb4ydyB9LL3t7lPW_O_cr2PIvNyWqk-GDJaRCoKg0hVA2JOxscFh-bLaKM45BOiKhongTMMTS=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Йобнутий (Yungreedy1 mix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mFcvqSt8Oj3JoE-21B9n9LRT_qa_-pSSg"
   }
 ]
