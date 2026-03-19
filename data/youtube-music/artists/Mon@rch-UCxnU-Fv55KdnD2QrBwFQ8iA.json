@@ -557,5 +557,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mg8OLM49N6Kl2D_ooXe7NSOzUC2nwh658"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-19T21:56:53.717Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Mon@rch"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/3QynBSG9OsLR6CpA3PyjdBcPduNTLmbKO3RpK5iBKg2enn-JekoNFFPMIL1ta9LAx31mHh8Li4BSW3Cb=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Егоїст",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nn7lX7uyBOps3XKISOgM5JFntV8NO2O6c"
   }
 ]
