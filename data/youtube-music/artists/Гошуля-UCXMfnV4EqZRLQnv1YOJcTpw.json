@@ -1011,5 +1011,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mrBRPRkmpgK7HjwKCOdkDOtKKAuKqJRys"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-19T22:55:13.400Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гошуля"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/4V_0KK9Wcbp6F8kRukHA52pXpTPCRf4uUaQhRqLD2y5gfPc7TWlX04RRi2RWc1SwbavfyBKshi3b6nVu=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "So i go",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ktUPXRU3M5zeCcHD_J89RfMzmXOa_y5LQ"
   }
 ]
