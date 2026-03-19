@@ -1722,5 +1722,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lNyw_AGWR9420Kf7ZDIzOlB7Vs0Bty0Ao"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-19T16:05:27.605Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Анна Трінчер"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/KIl4KcXsn4mVrX7oW0GPgz5LsrMG96iBn8bHl5F8I4xAhm_j9Jy-QG2kmPbRxJiO5k-uZXbr9YrlJNc=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Палає",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mL_l4TXfZkx9jOxiXqifRVmHmsRJh1Cmo"
   }
 ]
