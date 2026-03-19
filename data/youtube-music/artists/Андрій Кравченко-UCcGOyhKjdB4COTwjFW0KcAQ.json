@@ -553,5 +553,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_khaB5Zq-a5k3oWTBBEynvjRQj8X0caemk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-19T07:07:57.045Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Андрій Кравченко"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/FlYxybBqo-CDLXRNeUaGTMYKlwMFQlfif4t6DXBxeo3j9EFc1oaKaHI2llk09AMKIjOAdi4kkkX3hmzYjA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Розлучниця",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m7JP-GetGsHxaw559IJK4JZQDg6Yb3mKM"
   }
 ]
