@@ -3453,5 +3453,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mjLXVLF90qohO9Szb41sehnG7MaKMo-_s"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-20T15:05:25.827Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/qJruP3OZBimBkk_xKVPmO4IsYahQvXmimtVRMpn-ajXHPXRa5PK--WcDguLJvKu2Oc0wjO1DCPMy17Sx=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Celestial Drift",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mfodBIh1DeMlR8L9ts1iRKQ8FavF9K3WI"
   }
 ]
