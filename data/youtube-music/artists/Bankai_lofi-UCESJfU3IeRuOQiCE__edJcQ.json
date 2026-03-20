@@ -376,5 +376,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kmne1lszfhtQqZD342FslcG3O1IjeL7Ho"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-20T21:54:58.381Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Bankai_lofi"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/GssLcdM9dAS7-hItkePs9dVHdgHLkXCFK9fhhJ2flcoS7wtMmOLoMek24hKfwevdJw2oYb0yVyZ-COF46w=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Відомим",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mkas1O_a3lsaIcBN_F0yugd8DIYkICg3E"
   }
 ]

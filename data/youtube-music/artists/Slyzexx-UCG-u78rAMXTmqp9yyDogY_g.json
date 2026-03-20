@@ -2750,6 +2750,10 @@
       {
         "time": "2026-02-20T21:55:35.228Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-20T21:56:56.947Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -3973,5 +3977,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lAxzWRBb66tSZNynnDeZIo1f2rwkiVCss"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-20T21:56:56.948Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/ECsgFy5-bIsUkVenONTD_rSVwgmebWPYleojlpqI7CIP1hwmEGclCo3yMIurnvU2d7quujSUtuJ5ka0=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Money on the dance floor",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_koyJq4RsDynQU6cRhvIechMlk1sAhWtkQ"
   }
 ]

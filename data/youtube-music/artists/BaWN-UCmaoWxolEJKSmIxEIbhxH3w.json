@@ -955,5 +955,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m3JQRr0s3h5sP6gQ5oWPnIX6F08yXCBPw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-20T21:55:07.134Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BaWN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/cn0Z3XlLuINq5qw0KFnpuRs6YmKV40EJZfy6lxm0EQ7DvJRuW99Kx5iDWQxhCPCiafrrSNp5nGkKtUEq=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Порожні вікна",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kT_079FMwMTvFaXowqCEBZoRY3MaOlUAI"
   }
 ]
