@@ -738,5 +738,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kfjDZky5nA5hIt48LBNQONcn74nWWPSK0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-20T17:06:09.942Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Tina Karol"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/i1HgZDPFHyu6bvSa9tAgTca-iKpR2yCUR5_PYuTEmlI6qZze0A82KxwRHiKZTHRqca2HKF-Ky1PnJeEt=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Кохання. Сльози. Маніфест.",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lgtlClurqmop3U9q_KFSVAiO5bxK6BWrQ"
   }
 ]
