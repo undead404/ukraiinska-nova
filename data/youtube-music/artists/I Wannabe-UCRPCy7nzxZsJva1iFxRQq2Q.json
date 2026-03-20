@@ -1094,5 +1094,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mwJSj63LNA7e0tRFqI-xeGVPEgowGqNro"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-20T09:01:46.615Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "I Wannabe"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/zinwgSfZPSBCVihHlpFUCpImuN0FXnPrcP_eSaRgDfxJmHzurJu1rODMczbnXnlnhw0LlpAUSzfvqDwA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "dubstep",
+      "Drum and bass"
+    ],
+    "title": "Quelque Heures Avec Elle",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kw2-HDNM8mcJvvpTQ05xI2Yx1q8T4n4BA"
   }
 ]
