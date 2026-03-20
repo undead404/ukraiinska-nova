@@ -416,5 +416,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_moEN8BeUyGMy9oDasPjneXFXiaeNpnSUE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-20T07:10:17.508Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SUROV"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/OpWLz9w3JTryRUag9Y2sBX_uXZFDrQFFmW0X30WSsa9e0fTPN64UJYzmrYqD86tku2SDWqKp8gxCNpBKKA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Любов",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_miaBDJmr8-vjJ4pjNJ-a4KN0ymulqUHs4"
   }
 ]
