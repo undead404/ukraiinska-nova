@@ -439,5 +439,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n4r9RPjeUMb1iLFPv3rCH5rLBfrMx_Am8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-20T10:59:57.090Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Рома Факти"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/v2pX4Ensvtog_PeZFYKRHfEiwjZT3RXPVxVghOxbdvq2_YrKeG-VMGrtJOwKTy7paS33842JpcFHssY=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "ЗАЛІТАЮ В РОБЛОКС",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kG35yxOG06m1XSKkfnyFTZ7vonhspNK_8"
   }
 ]
