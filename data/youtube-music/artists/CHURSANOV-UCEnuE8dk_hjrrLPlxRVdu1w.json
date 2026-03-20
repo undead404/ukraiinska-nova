@@ -1000,5 +1000,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kU_M8cL7yYItGC0L99uuyHm8v5reqLyrs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-20T13:09:58.444Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CHURSANOV"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/c_NndoBkNT1q5ENRK7pblelM07K3kcv5dDyWaH8iLuHzSrwasJOvHoDaY9zok4tXzEwyYlNTXwgJ0ezZ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Зая балувана",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m5zeUk4Eh5UZGPubYgANX-VBmMGobchsk"
   }
 ]

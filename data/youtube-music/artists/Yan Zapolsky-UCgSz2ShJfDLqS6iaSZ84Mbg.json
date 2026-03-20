@@ -1417,5 +1417,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_noiQ5bT50-BpkDlRIWYk5ME5G2P-oEyB0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-20T13:11:42.761Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yan Zapolsky"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/04-y_vs0UFjL7AOZwIZPjjpoLndHqI1gQwVSgMELNdyCkCkD3WlGgPFKyZYEQ6rSioArDPPtSiPiGO2c=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "The Heart Remembers",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kNnRirpB6hG6aFCrq11WiOqOccPkTR6Ro"
   }
 ]
