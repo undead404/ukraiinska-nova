@@ -302,5 +302,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ktgaF3bwbVglOaDT7684dmn4M9IvlpvVw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-21T02:38:42.408Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BIOBITER"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/eS1a2FS1JRJ7S6b4bbQizOmfRUx6DNH17TH6ASassREgzxDaq4oy3MZrm0yOR8-9YanYimdWosezKVIJ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Я скажу лиш одне",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mx68MOlWgddXFSP6LjUytejVGdnX34FbY"
   }
 ]
