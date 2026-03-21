@@ -550,5 +550,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kpJnoZt8WjlZ-Ob9RVfl4vAmw-9Sz9Sns"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-21T21:55:15.565Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KRABIK"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/dehjLc3KuUUEfX2jl3zI97g3tOuOJS53OEgWKOhtyKISece2Ug6DVneZj-eXgxmlRjafaXpPzhZRhG8Y=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Сірий дим",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m-cuSnVSnYCoMXsixITBHExocjQNmXkLw"
   }
 ]
