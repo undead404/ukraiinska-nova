@@ -245,5 +245,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mVb1AzR8dk-2O1Em7c1ez-jPVOOcKNnhU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-21T03:32:55.511Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "REZUS"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/XTArSbXqU7xS5zgJkgnjAJObNheOrfDzQiZwKJUAadHzsFnxiSR8Y8qFw_AjV96IYUL54_PwhNJrZjU=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Великоглібовицькі покатушки",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mUODwR5cCSPm6swy-pNgmytG_ehIbO21c"
   }
 ]
