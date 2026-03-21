@@ -1035,5 +1035,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lhZVBDyhCLgZbs909bnMPpbShWetdH92s"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-21T08:57:21.200Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "satelibra"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/DWUbrdl6-hv8VSR3st-8AJsN_MSswJuuyl8EEP9HqPeZdum0jxoMLcr0kIxGwxLKp8zrMW57YDZn_9fqzA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Контрафакт",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kwY_4Qhqi5T5sCvIH1DIkRqBOFSJYn6jE"
   }
 ]
