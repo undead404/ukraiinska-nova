@@ -128,6 +128,10 @@
       {
         "time": "2026-01-26T16:55:23.231Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-23T16:10:52.165Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1071,5 +1075,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m3j9oKNGmeRh8oOU4GySqjQLL3Kzkxwd0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-23T16:10:52.166Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Iво Бобул"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/LomOjJOnRxEb6MSfMn2d8XtR5zcUmlGzAiiEI_LXWAbYmN946Y7j-UdOd_nCazCIevLj_BiVmTaURZ8=w544-h544-l90-rj",
+    "releaseDate": "2002",
+    "tags": [
+      "pop"
+    ],
+    "title": "Емігрантка",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lrzYNl4oLLhK16SdfEhdt_TtUCL1Ox8yo"
   }
 ]
