@@ -706,5 +706,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lrXKkxLUjd1BRO34oeFLMGOpDmMuU_xmo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-24T07:10:29.658Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Baryk"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/6upjn5SrFmjxrhaduEqKYi1Kst80A4FWJNug8-S6v2BwFC7kOxxsor4B7_1LFCuNLBRdadJyWns4HhDSPA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop rock",
+      "ukrainian rock"
+    ],
+    "title": "Червоні троянди",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mQoz5kJGqW4U6ciyzlkjW68j-kifIqInw"
   }
 ]
