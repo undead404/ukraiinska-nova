@@ -856,5 +856,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mjlxHNqFetx8coAUEA6NVlgYH3HUBEWuw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-26T07:11:11.306Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Domiy"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/niM1-TD5DHeZocPRDTkozEossOj2n1TMLycN-2bNB8LuRcjd8-Qwsid5haX3aqo6VTgqU--DvUnXtahR=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Твій голос",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l2Cu9yKxM8ilfwC9ZUleEtVc2vjJ1drho"
   }
 ]
