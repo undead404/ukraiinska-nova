@@ -376,5 +376,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mk5eOmB19V147l2j39kD1UBdk3v1zLKIs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-26T22:56:12.766Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Berliner Doner"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/2ipr-qvIznA9Nbr84XVfi0i-mt881seKpoRTXY665qkdlQy1u4Osbod5_QGTHt5pCuKe0DZIAHRqSudT9w=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "noise pop"
+    ],
+    "title": "RATATAT",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_niFUOe4KbRvwK-Kg9mVNmeTFxyGcEwFW4"
   }
 ]
