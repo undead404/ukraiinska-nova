@@ -1127,5 +1127,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nw6mLHVvawtBAj8fYJRkUj4syi_mCM6Vw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-26T23:58:36.273Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ruslan Nota"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/okDLP8fUv_L2qfxwdrRZmX9YRxsyt8rHGFbFQViqSGovax4DOEySvKAFFw4V4BF4No-GuPi-Fa646aD1=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Нам з тобою пощастило",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nOPY7PK93BRGMtWedgeRdur43GJHIcf8U"
   }
 ]
