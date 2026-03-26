@@ -502,5 +502,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kKFLhxRdEDE9tsaxfTcilUOA5vdyXiXLQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-26T04:42:29.870Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Pero Culture Crew"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/JUvsnAYUDR3o7idraYa8lTdLE4lw24L9R_1ZmxZkOrbsFoboCPQq-GkhW1ui6mIf1Dj_wVONMh7XxjI=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Комети",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lW1wHC4oGjmEppnlrTKZII7dU5TyDyhYY"
   }
 ]

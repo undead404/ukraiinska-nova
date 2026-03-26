@@ -454,5 +454,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kDQyHRZIR5NoZlqPjdR-O1L7Xw0Etj1hk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-26T04:42:45.903Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Roman Crash"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/LfeDB0WUPxMI_xi1gAHyEW7E0CH_ooP0RW9XRtavq9K_h8Povn6U1ksyRlcCDmwPzlaLOziR3Xx2rFcCIA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Vinochok",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n_nSRwu4BxWTMlT405t2VAXRN-7AFsuFk"
   }
 ]

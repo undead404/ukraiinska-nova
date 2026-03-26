@@ -591,5 +591,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k39If7amUL4xzQTWzTmLn9YIXcvDup3Lg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-26T04:41:51.084Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "karmv"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/q-OkdeF37RFCJ9mqKjjkEwD71mDPLoiz1-BbO1VTriSgOIo-e8uFUcgCw6G6PObQ8MlLZPA5hazKJwQO=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Танула Арктика",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mcJuI-P81Bc8cq9jClPV4mmLdIlNqUDIQ"
   }
 ]
