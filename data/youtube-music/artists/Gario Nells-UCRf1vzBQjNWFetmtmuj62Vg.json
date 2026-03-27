@@ -416,5 +416,62 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lEnPyI8wgkhdDzpK7U7fOeXYAYAWDCjUg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-27T08:05:56.732Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Gario Nells"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://lh3.googleusercontent.com/KWFcZzel8vsyFyQWDvu67uMZzdU6e8x5PbMlmxzA3a-ss7MzDLOagiG2wR2uLcETdbz641wMdFRJoA0=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [],
+    "title": "SPOGADY",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m1qbVREQALu3PU0jkHyIQLnfzNnVvbngs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-27T08:05:56.732Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Gario Nells"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://lh3.googleusercontent.com/mzcSWdRyiJhAKUoaakFcO1k7GCyy-lrRX0WHXSoi7pLZMUZKlcbWP9mgmSDKFOwZavNAK1Z8VA9tN-A=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [],
+    "title": "LIVOBEREZHNA",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kiOmSpDSOo4rFzZ-6N3FWfDtjXTcf6atk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-27T08:05:56.732Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Gario Nells"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://lh3.googleusercontent.com/Y7LVcrnorvaPZ3zmr0BI6LYlUW0GzytcMUts6wCUfJ85OfvzWN2aJWi6RuJiz26bwvVVcsDSZpHacrw=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [],
+    "title": "НА САМОКАТІ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lHQaDPw3IsgIjWCsjj4-3sHUy7jFsNihk"
   }
 ]

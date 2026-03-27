@@ -269,5 +269,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ngzeEoo0O6PN4-kj2dj6AmroDYTFk20Co"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-27T08:07:14.954Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VECHIR"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/lqE2za8bVTUQbsgnJ8zj3BVnaZrntee2jO6F3TpR8dSZx3o_D4SDmiHTIVxziLdQMRJ41lOeP36xfLk2=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "music",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k4OQI4aIxxuhUzDG3Ldi9IpzOCy32S-2g"
   }
 ]
