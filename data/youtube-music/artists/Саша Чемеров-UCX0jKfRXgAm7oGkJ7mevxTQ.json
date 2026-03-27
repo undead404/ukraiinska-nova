@@ -724,5 +724,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n-w3RIVW85Ik673qES8JQItmMthTiyPVE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-27T06:10:44.468Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Саша Чемеров"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/cW0qDVxoTNAJUXhlQvL9FVjt-QY9b-xIP1vzvaSC0dn7sp-BcU4GSH8qH1BxPlllYV05rMPfxZMWTic=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop rock",
+      "rock"
+    ],
+    "title": "Диявол в деталях",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l84E709LCNBdlCFpH0nZBRF6B9FRXCjZA"
   }
 ]
