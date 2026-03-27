@@ -462,5 +462,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mydnW67RXzyP2cgZ74wjfZPWnXftKRYgA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-27T05:25:24.307Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АЗІЗА"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/rXhX0Tk4k3_aD5dpYrehskZLSGN0qUMWEeY8HlIFbCOwTb4zxFgmkUerEB2tHxu_YwJqIGFrcVUyKQMS=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Давай мінятися",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nM9Rgs5_6fraSW2bShSpwiaJgsfG2ilFc"
   }
 ]

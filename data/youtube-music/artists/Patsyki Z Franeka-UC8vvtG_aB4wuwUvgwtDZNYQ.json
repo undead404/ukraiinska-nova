@@ -707,5 +707,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mcYpeTQObiyrOBdtYp0-_Pf8dhseTfwnE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-27T05:27:53.864Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PATSYKI Z FRANEKA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/gIOYuCURnV3cSQuuZFLF9TGe2R2pY7YUPfBT_hDYGH4pKNw5_7Lywox6NcZIYhk1juv0wRh9kMcbKJ25VQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop",
+      "pop rap"
+    ],
+    "title": "Усе іде, усе минає",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mVMdjloY0_18kmXwrWZNGy9HEI02nPH0E"
   }
 ]

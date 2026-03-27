@@ -2514,5 +2514,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lpLIKPqNSjvpeHk0pJfTuvELYsGEg-ZrU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-27T05:27:10.461Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "keeroo"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/kDntXlYGUyWPCQsUOsQY3-Uz0HCqCAsVBntQ4GKEsHjBm5mDFBCyqFvAvec3s8P7nZoh2qqSqFSjyZM=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Терапія III",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n0n792LPd9qNJe4e8IDH2JGosx0Xt5Of4"
   }
 ]
