@@ -3475,5 +3475,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mfodBIh1DeMlR8L9ts1iRKQ8FavF9K3WI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-27T15:08:24.514Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/aaBJ5KROwBVCoSog6MoHqg2tNXgCFm9JePyCx8Lf8VMmF4tQDAiBYUANYyhk2afgYdZ-gp2k0nq_Cnw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Forward Flow",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mSPGjan60bjsRU5QsgAM6mWGGHT-noSnQ"
   }
 ]

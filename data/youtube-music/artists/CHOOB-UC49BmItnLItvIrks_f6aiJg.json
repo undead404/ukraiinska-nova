@@ -727,5 +727,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mNtneph3vMtueV_uSreFdBwVJwvFNcvwM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-27T15:06:32.608Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CHOOB"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/Jfdpw7p2_ZEIjHpsCRoD3ondfe5XeeFHg4Kony7jhsCANWAtpeT_ss4zCv62E1hnR76cBI0SyWNP8p-H=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Вибір",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mH4OBmgZycfRC6T0VD-PJ412Ri8kCGZOw"
   }
 ]
