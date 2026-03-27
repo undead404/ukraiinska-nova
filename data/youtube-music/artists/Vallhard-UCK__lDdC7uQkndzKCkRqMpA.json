@@ -264,5 +264,43 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mqVmsQ7lsq26ZObwT81QVIp9RpuF47VvA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-27T19:09:32.707Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vallhard"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/9X3k7zgfNNEUVPWAztJHYfAPy34BjYJ5FNUxBxmGSE6elFFa1gDtKXgCfpzwc3gs4qUDWyWMOayXA5s=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Paru Bochok V.I.P.",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nAA6KMQbqOvuGubFs4FoB7C1vMEEAvz34"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-27T19:09:32.707Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vallhard"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/b63pt5FyZHYKRidrs36tgxr63roCduk1f9fP62NkomSg8i2vlTjoohylGI_glVsPMEfhdrp_dPqEJaVX=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Paru Bochok",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lGv7W74yDERbeaKMO6Z3fYpUR6NRuhj6c"
   }
 ]
