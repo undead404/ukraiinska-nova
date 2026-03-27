@@ -334,5 +334,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mQWJRrXiAa_MYT1rZASHqYz6cQW7FksSc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-27T02:39:05.324Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Лунар"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/oMT25MsJo54e0s4vju4y-KF0uGLPTZlLFGmmgrcP0xTM_LAwB9FxX8qkaiau6YZebgjRJQl_LhVIfJnL=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "dream pop"
+    ],
+    "title": "Last Dance",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lRrgKQWySfuoQSnpvTXSl_pwyrwhnwO-g"
   }
 ]
