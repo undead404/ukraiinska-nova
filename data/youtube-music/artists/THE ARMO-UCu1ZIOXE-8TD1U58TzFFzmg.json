@@ -464,5 +464,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_niVe1sDYX0PmVTHV7sxz_yy4Ub62O9l3M"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-27T11:07:07.419Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "THE ARMO"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/bH6_weddbWgTK4WcvVPWpSlEDcsoaigmpHhmUqpe_K0u1AamJGA7oa2hEWSdTO9_vLOSgAEYjQAayhXq=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop rock"
+    ],
+    "title": "Нічого нікому",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nLgfBimIJyeaGkdmA2s7AE5SEi_NAo05U"
   }
 ]
