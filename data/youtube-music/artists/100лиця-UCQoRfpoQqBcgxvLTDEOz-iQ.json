@@ -823,5 +823,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_njqY48OwMEPxlRUvgOB_dVdQTQNNRO0lY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-27T23:53:47.750Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "100лиця"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/7T_nty2lcpRRseT7GvqFOzQEfQzeM_ABSa5iMev3eutlsfb1KgT6a-VWEMJBENYEKadt_YunM9k8d-6TcA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Молодість",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kJnn6SkIlHx61hrNUpRQ6T507CYSuNluo"
   }
 ]

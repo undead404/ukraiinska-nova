@@ -271,5 +271,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_myR49s7Ve1d_q2Febb5k2F2t-wgA6m7Io"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-27T23:56:29.639Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Mose"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/icdxAgZuKIO44WKfJ7JHO1Q4QSJcG8IBifRUDy5IO5ScN7pFkAbNhgaTdim6wgY7fZw81mU0BexjmIo=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "doom metal"
+    ],
+    "title": "Рожеві тюльпани",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kj45lwQsUyqtu1_zcoWnywFx46j6a8Hs4"
   }
 ]
