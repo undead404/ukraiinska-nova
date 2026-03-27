@@ -1315,5 +1315,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nx4TMoKNhg9MyKGUqg8L00kP63JmW0aeo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-27T16:06:56.913Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "STASYA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/SKPkgBnEUOJvZQoy6qclxUjFCGI31DUAij-u5MQlVnNed8tOYhpcpr6kMh9VMYcg-WEnxG93ngC3Iws=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "folk"
+    ],
+    "title": "Туди де просто",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ldkSLiNY0PIMaqmI_PM7d03lt4QUQSybw"
   }
 ]
