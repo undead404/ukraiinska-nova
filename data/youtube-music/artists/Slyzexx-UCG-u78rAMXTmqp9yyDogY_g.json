@@ -2715,6 +2715,10 @@
       {
         "time": "2026-02-20T21:55:35.228Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-27T21:58:52.535Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -3996,5 +4000,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_koyJq4RsDynQU6cRhvIechMlk1sAhWtkQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-27T21:58:52.537Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/4pFii21gHRpo5rkqOSnocVUxcPvOTbUpTeT0LGQ034AY6UdFWed0S7yqLqb2jr0YHL1wi3jyyQUv6Qg3Rw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Sahara",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ln5YVArBGGDVeQAA-CuHxuQhKsKBtx45I"
   }
 ]
