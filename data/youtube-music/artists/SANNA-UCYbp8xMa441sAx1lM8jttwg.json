@@ -334,5 +334,28 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ks_5CnPWB9NIrBkwQRvqVCaW43oBYcLIQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-27T22:58:56.853Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SANNA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://lh3.googleusercontent.com/57TJsyhwFg5xsIhvJdE0fDxropVjt5ioOfe431WtvJibBL8T3kTuWgrSIkhUuIT1qr4zMI2zpWv1QZj2Tw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "folk",
+      "pop",
+      "singer-songwriter"
+    ],
+    "title": "Віє вітер",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mcwt6sZbepB8pF9lKjj1tu8-r14KfuMd0"
   }
 ]
