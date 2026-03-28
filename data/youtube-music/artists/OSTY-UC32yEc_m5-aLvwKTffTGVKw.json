@@ -405,5 +405,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mRjYjzaTL2638LKkALskP8MKu4xnkS5K0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-28T03:40:30.087Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "OSTY"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/x6W_SuLkAsTpV1ebxASapw0XWZU-94Q4WSzvzzGI5DltOrImzjTGb1Tn5M_JkulwUz6hRkJgzAMwKoaJHA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Рожеві окуляри",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mxsGKeXm9fUkGa7OsK8LrpOUdnDrzxPMo"
   }
 ]
