@@ -711,5 +711,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kokyEkLzZ7KxAsy-T5VVmRF3e5VMV-xJA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-28T02:39:33.556Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Dima Prokopov"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/cT_GwUgDEEf6iavz0DIV9cqsE2jcNAUoZuVfhOciggcJiX-f2l7jWV3nL-1La9LLfB4RJGlzkU0l_ZWs=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Ти одна",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nWPxaW_DrR8VyhVFeC8fUeycMiQyD4qis"
   }
 ]
