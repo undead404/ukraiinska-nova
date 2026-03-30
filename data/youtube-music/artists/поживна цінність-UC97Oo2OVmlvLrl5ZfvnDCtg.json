@@ -274,5 +274,28 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lNAkaWIOOKVnxoobG2JVSXEfTFSc3Bsy0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-30T12:04:22.098Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "поживна цінність"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/GYdozt8hM8IgiiA6uzk9d4aslDyKv3LenljXsuPaBEcdYOUN5aclkrseVkRIun5cL8pItGyoqJnKhdQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "alternative rock",
+      "indie rock",
+      "new wave"
+    ],
+    "title": "кращий друг",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nD2jmu7TRk8IWwK5ILngqRDpVEIYnm0Og"
   }
 ]
