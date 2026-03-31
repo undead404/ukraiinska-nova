@@ -1621,5 +1621,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m8cjMEAEEIxfYNG68JJbZzQvTa0VFUoAA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-31T13:12:56.514Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sysuev"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/6cvfw_tDVIfyaa2LEPOIuzLIgSCINMMyj0xtVOnvb--hB1iZmXyTIIXbrPf9NyOx2ZpAerwF8MXPiPBu=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Люба моя",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mlM24UGeWvlzDL0fwG0_u56eoewOfcg2I"
   }
 ]
