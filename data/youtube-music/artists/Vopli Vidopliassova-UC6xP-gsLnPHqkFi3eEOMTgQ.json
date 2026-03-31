@@ -555,5 +555,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lg5J_V-iHmbEifMtQyTfCV7ggU0kSwd7Y"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-31T16:11:53.741Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vopli Vidopliassova"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/WWSIbp66YLtuIN3phBPxAMFacJc00ym2zBWF5Rl8BfHGI6FXnkZXLaVl94rCuS3_P9hVcRo4BCbr0lo=w544-h544-l90-rj",
+    "releaseDate": "2011",
+    "tags": [
+      "rock"
+    ],
+    "title": "Самата",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n4dxllJRb33gr8oU9oX8emmUHxUmYFlKY"
   }
 ]
