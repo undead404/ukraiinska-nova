@@ -255,6 +255,10 @@
       {
         "time": "2026-02-03T17:05:15.715Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-03-31T17:10:18.888Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -360,5 +364,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mjmBQl3VRh-8k6thfcOumW6fQ1MaTOfPM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-03-31T17:10:18.888Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ILO.NA"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/Vqynj7qqxkue3YQd_gj6tssrtuBbw2mvGhD5lgR7Mgdd-sEbEPARYEJ3H0Npu7jaqawy_RZirHz5oEc=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [],
+    "title": "7 небесних сил (maver remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nikQ4MHiPkOL7lbk6ORqQsnUPDuoq_c74"
   }
 ]
