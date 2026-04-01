@@ -530,5 +530,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lAr1WBjzWu2_Rf4Yuob6w33pxJAiczwvQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-01T03:52:58.734Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alex Fleev"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/or6ltiJRxUnv17DXm3tgGfKcWJWVIZ0ElZbHHjohsx9IdqCN5Gq7rI1WFnAyyRrdQACHrIdbRRyUfJmn=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "It's Party Time",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_noKWeEUbMFDDab-F1UarKzH3A81gCA_J8"
   }
 ]
