@@ -881,5 +881,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nzFJGfDpwE2rNWYBDcTrD0LLxrTjraO8c"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-01T12:02:47.483Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alena Omargalieva"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/PblTv5BSdpOBeVMhzyNE14N7XZQ7K5nm1Z12q4DjMjQG093TBjjqdhRBi5Ddue3bVhAaGJE3aD3zz14w=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Фанат",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kvuKc8B2C9towdv-D4vlRq1UyobySguRM"
   }
 ]
