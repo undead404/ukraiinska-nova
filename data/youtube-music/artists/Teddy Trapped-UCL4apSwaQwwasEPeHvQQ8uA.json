@@ -807,5 +807,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nhvJxtTAoM1_G6Wn3njbDmmlQtL3pwXyY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-01T19:10:24.833Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Teddy Trapped"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/kGh0IUnsTKPzxR9zohCCjKUGg7qID1ZNF1fqn948qPZVHYKrkSKDyHVw7KE9TsIwPX6X7f0kmrMwTv-Ibw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop rap"
+    ],
+    "title": "Зорі",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kEUoi3D50xyqEwgwuYuVVFdYYtanAW-JA"
   }
 ]
