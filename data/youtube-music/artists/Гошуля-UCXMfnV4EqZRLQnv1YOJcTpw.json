@@ -1030,5 +1030,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ktUPXRU3M5zeCcHD_J89RfMzmXOa_y5LQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T22:56:21.744Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гошуля"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/0Bgfslame6X9mngalEHGsDX48E3SWIKkcskD3X_Xp5S93L56SABp_IGzOfofJgklgL4L6DHF71noz3SI=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Акула",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ksK1QOv4K8XsMnilTKK5BJmz88hNVvFzw"
   }
 ]
