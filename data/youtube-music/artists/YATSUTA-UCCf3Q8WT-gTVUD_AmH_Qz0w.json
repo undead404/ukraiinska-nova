@@ -439,5 +439,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k1YbODBopxAvQ0blBMz2bgM_hGZqvc0NM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T21:01:02.032Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YATSUTA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/tba5oiwLhKz61kuHXTpt34eA7OedcZXI3zI0b27B99DhXjyWyG6AltC8k-96p2nyB1jvYYVMbBqIM_Vxrg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Мама Говорила",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kaiBDxcbzK2ILJ_es6Q0h48ClE8ZsiDlU"
   }
 ]
