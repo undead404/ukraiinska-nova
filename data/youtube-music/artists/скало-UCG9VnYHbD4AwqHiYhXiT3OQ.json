@@ -413,5 +413,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lEGCtAb7qaBHjrjUeeZR2YdK8ndbpsHnM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T05:22:53.046Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "скало"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/kV2vklDjeBjGHyuQvr2akoLNhZ9rjZ2Udfl8p3bMByMn2WiCgvoRh0RY_JLmI-SEcZSQqGr59JXgNB3M0Q=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Хід Рішень",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k-NdVWYZxUGIZhISOgf8DHRFKJLcQGwUQ"
   }
 ]
