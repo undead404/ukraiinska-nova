@@ -1,1 +1,863 @@
-[]
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/Hom35daa9iJBR7VtyTyMFZDF1wAZNr_GxSzj1tqTyB9uh1pC1Q3b2Y_R-KXgBSvuJv0CvbpNjYlFFuAnJg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Хай судять",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mzFtcaZAG2wxrgj7T1E5ElekeX5qykJrw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/z-v4ejx37TkzRkEdr6mZ2S67iEo9lqJFf1lwMziE_DgQiTyRhnNDdIVuRtZECOGkR-z2PJQiaUwt6Ga5_w=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Місто (feat. C.W.M & Fog)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lFR4YS-fXCLUH4Q4YALFm5fKquLcgYC5w"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/BTXlDZxQi6kwGZDrv1rs0PTy_bf43zUfy7xwm9Fzvyo8UVmvHkjjk_GK0Iqe_h7izghAlUcUmXiq0xlv=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap"
+    ],
+    "title": "Очі твої",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nWdY97KNqlrRjmyhRKP867CPPvri9Okxo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/lUR5qG9t-eBhg8tMnTsd9qiTcCThhzMpMz9DWWlJ0x9vhkIOKBfFUB2eM-7qG6IwHr52XgWoiFmdFhIrnQ=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap"
+    ],
+    "title": "Бруд",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nCF5rowkn49wa-tsGQeT1KuZfE3g-nh78"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/qVw2QWSLTY737qWJvrk6rlnf2au4LLRKesolR9xdMSMSGa_1szuewe-Np4PmnjlbpYpkC0a9XD8APBk=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap"
+    ],
+    "title": "Дійдем",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kOdRWa7Xlt-ocMCrjLXSFx1DoIyizMURg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/SRljuOltMlBu9DvTA4QBvuPWc7Fk_v79-jP0eST0tDIIFe4jYNBvwyuAGIjg8IPTuu6MkeSGayhQgp1Q=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap"
+    ],
+    "title": "Baby Bae",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_koOikY-ryeyjfuJ8SH4r5RibJvnyOqq_c"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/vuwQv7HhxfarEWb0KLVi22aaEiscJDWxuSz_Y3kkxBYzD44yeLCVknBdMZW25yPqztB75OiPf6boClwy=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap"
+    ],
+    "title": "Світло мети",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_la6tactNEqQuwSO6Xlewwnw4iqFe3PJLQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/c1zDw2uYmPpoI3Jmo_5PGUwTxP5nGJ3Jyi7ut45kj9WD7P4UvioBZM0psnsqwjzE68Jpikqg1XyiBuyc=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap"
+    ],
+    "title": "Філки-капуста",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nfjSYsxd5S7nGYcNofYxs3KeqtNs4KGDw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/y01Or-OY0LZZeouDDzypyhhWgfL9NAtH3vHfkEMciSQb5YZEMv_1AzVJyOFnJWZ7aKiydjZhzDyM3ijpsw=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap"
+    ],
+    "title": "Уте-те",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mgDM9ZXEhDGOxH5DgVPD6166n14c2Kono"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/MdYebTkJPagqvJxVbSfu3PJb3TsBps3AnD92MRluNu0zgByGmd9k1HlFKEjbcNrUOi7mSLa5Hr6vyiiu=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap"
+    ],
+    "title": "Шукаю сенс",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mhXxdnyhZQNQSn1dtiWzl_KtqOt2DHuwQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/aJE_lyZl2-sC8GsKRGufI6FfjldJSO5fl-EIeIerB05EJLRK5cy6e9wB441kCJQVaasQcsDGoVEC8Xoi=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap"
+    ],
+    "title": "Родина",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nnNII9n-1vqRJOuEidxzz25AVI9W4X4S0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/LEbiH54fxOhOnYqthFHpTAO1Pw10CEPG2Gn-BVBBvdoWaFW6A9liOEMnMZuBn5FqTWQeo-zSKk25fKJlAw=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap"
+    ],
+    "title": "Не все одно",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m94PY1AtYx426vm1q5cLOhNPCZEVM42Ho"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/hdWj58hKzZIs5xuuTByqeWSmAX4foOVLWBEU69SSxRmRR8PFDOKj2RDZWlDW8jCxhvZVaRIvUjMWDE4=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap"
+    ],
+    "title": "Особистість",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m351Ev1699geQyQkAPeRW1FIMO2xQ-s8M"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/knthls2FuOQZm2zDUUGcd-jKTd3j0YBjJD5VkAjVEaIP51WaVCIPLs8-KdK2MCKoHcWF6dORkVQe_Sh4=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap"
+    ],
+    "title": "Хто і звідки",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kZgJb-oNscA-SvIpDli3LSXArR_nntH_0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/6ez3wEsaE8_ioo-ktFL8UF9yYC2ifokERClRMG8w5X2oZMZO9eIHdmKxFTJDDdNKsgpumdVUd5RUEQ4=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap"
+    ],
+    "title": "FPV",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kkOzG6aT0YyP_ir8CmWGfYb6Kv7_twt-I"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/cmBc3rG6XEsDup7gbTE4gcQdXa4GxOELVtfxmW3JiXqjTLfVWXx1myJfm-cs4DYzEUMxTZMlfcGoijUqtA=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap"
+    ],
+    "title": "Пам'ять",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l6sQEMD_zKflAmFvh70l9OOvRJ1HvJQmg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/OA3dhF8ba1Pp5QTFCJ8RNTYpxGP3WlvHXvk9Lvv-7hJMCafvaQPFfvPQJXX49aKvXEIid2D4gRDmzAjS=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap"
+    ],
+    "title": "Тризуб",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lQ7nmSKvpLN6Qq8GbWffFKzHKbqDQ1Fxw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/ouM9PM_k9cwH7MtWqfktRleu8mYwH0fBqhX6_dyWd8MLqEKaDczMF0_HQU7MtV3IW6wjbNNCi9wmr_A=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap"
+    ],
+    "title": "Головний суперник",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kAs7rCmjDPsu4FDpc6MBHAIfDX3AdZ5XQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/N6MrObO7zx83HzXPNORnzqgmsFX7zgjUB_07aKiFIKKBVnGgYvIxlYrnbqQZmHWqzWc1SXOYA5W2YylL=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap"
+    ],
+    "title": "Баю-бай",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nkXvSQ7P6kux4r40YMiAxuQFmIYyOPQZk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/XY93zfheu9-9RJ7Pd00xFOVcgUZhhcaTXa60D-I-4TuVlTHnPujZKkuQUXq-5KYbFrog55rl2vIJF3M=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "rap"
+    ],
+    "title": "Алло-Алло",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mKGbPQHp54t1ZGTdOfsORlwcT-FB7VlKo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/3HhTQm9uRxXVkN4yvoZ8rhqZ15VuqNNQ36gfKUmPFZgnYyZ6h72VFYQkuqweDMZXs0B55B7VMgSzulc=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "rap"
+    ],
+    "title": "Детсвосап",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nZ269aZTmUSHZiaOyh2u1bTmxisBk9YLI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/Aze0Qql2CVRAYjhR0Q7F8F746_oboNDgvYUeOTLiCkho2FWllMLlNWhlFRL0Yk_zqg2b5mCoIBAFxHjbRg=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "rap"
+    ],
+    "title": "Причини",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mukSkTrEFvz3mudM_J_VdKacPgks-iwLk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/R_KNmorLubkz3fz06uJSRc3AP04zEI4kgivspvIoMQtvM0G-Anthy_Wdfw2eKWy1VarKkScfVghFGDtV=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "rap"
+    ],
+    "title": "Хвилювання",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kvlAlID05MbXJHosjc0srMTYpLyW1_D8A"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/XWg07ywFvVITgaDgjNqZ1pLXKeCLS4MazGE4Tv2Yxa6niELE8BYfGv25ZJhpQDrKjW4O6zM3g3ed88x0=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "rap"
+    ],
+    "title": "Я в своїх джинсах",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nNPUHdtZhqhX4nw-da9K9D_LUWPQjfed0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/XIzAjR7SgjYhI4ydhGgH8X-_XKNLdmZSHr1vpburrGnRVKtrVjCAHvJwxLz_pMnkZXzx-otKgbU0AHbF=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "rap"
+    ],
+    "title": "Каштан",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nlJNGJAmhbzVxM9ZenM0NSGqABRqr6b4A"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/1HGlXYK9aXlMDxEFAGGzqDiasjIrElvQg6CkP-Im2MFI2ioRZhAA0W56oty8XTLilHmPISvaEEKJPrI=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "rap"
+    ],
+    "title": "Звички вуличні",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lRd2l2NYEMBO0WCc-a0hzsCDfJTCvR51U"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/mYspBRBuy41aLDmr02hZqiNlL4DbgQWZcru42iJGhbWnXpMVjmR4owdf1AFWfMjq-mnjXqmrfXldwm0=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "rap"
+    ],
+    "title": "Alright",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kHWGZqHsQe9tt_Vm7_2qoBcIbuyONjDaI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/IXeHfCfj-2Lqi-Tb5l8fIw4cmen5GW9rRQk_Lss4byl4dgZJlIhqXcD5PyZOHScIxEqJXqtGLZ5GU3QP=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "rap"
+    ],
+    "title": "Перевіряй мене",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nj_1AJE8-kewiST6rXO-R4_2w72At4pBE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/iRyJ4g_SU-SnOH_3WLkukCIhRMw7Uy-fNvM0se65GhJFt_lusaeW3ePr1r2gOqz2yf7jKMS7HB3eSGPS=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "rap"
+    ],
+    "title": "¿Cómo está?",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mI3Co2EMG1mCky2aKcW5dshz2iwEg0Jkk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/V7mdLMLgfXPxDT-gmTpmFtpMrrfTjCTsu7XWiDoovH_58lR0uq2gN9x0QGehAY702qST79PjmTEVgW0Swg=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "rap"
+    ],
+    "title": "Мотель",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kMiTWU3qVXnGGAWZcWLDink7nlYIVagWE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/sd8_H1uPqml7T8X-GIniFMpW-eo6r4Rg7swH6xnjcRjAWpwlMoA7HE3m-bGs-4-wAGtLsqlUZg7YwZxe=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "rap"
+    ],
+    "title": "Паротяг",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k2s_4YwmZyoqUKwa8gdZbt3FKXCoAXpBc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/LcidyzfR2TTbCM2o0TZDG7obMf2zJYkK5KzV_Y7m18BOFkajgaLCrKSclWTqiNCrqmQS-Y3zlnH1-Yh6=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "rap"
+    ],
+    "title": "Паливо",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m6GH4Lf0jjI04WB5GQQJL_LjQP4_Vy5qI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/0g_mWizH_9hdB63j8y4Zeii7M4Nmshf30OxefNvMaPplZ7axgpPqCn0ZVzByrJyHYhgCtg1I22bsMOU=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "rap"
+    ],
+    "title": "Голддіггер",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k85VK2Ix8KXwfxy-wDDQeKmL2u1Av5XPE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/yAESQB1V8DNNhPvWA7wHny_cR9mLjfTjbDoyfZht93c708_e4Qs--IrwO3r2etZqVUoR0QI0Egex3dXs=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "rap"
+    ],
+    "title": "Це північний писок",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kJaG4PJPZyFm6DQ2HR9s2PMR-MThu5V2c"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/x6iW3FweUohpRnmxNeArgC0MUffTCEOk2Z54Bwj_bzt9W13okQBaFln-CFuJr4OcE-Yeb8Ig62QKLnlA=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "rap"
+    ],
+    "title": "Світло",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lNifMuyhjPqHSEEErv2czDiTmwzyYCO2Y"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/zd1KTrl-UAravYs2RH12i8jrhzJ8D7UrWFCt_d4O7jbUaG52kMT82_BhZM8eG6Uig-0cuJq07qlguwUN=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "rap"
+    ],
+    "title": "Навчи літати",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lPgYu7GMNTALf_9liPuEF1hDtvgmZkVyQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/EywcR9lSxQFu-RWv5hwF3-5lqLSF9Ey5AcIfFOORnefDV1ifjmj_VPl2JkyenGamRPWtmUIew9mj7lk=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "rap"
+    ],
+    "title": "Дала Євро (feat. James Hot)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kRxfmPixVQtjo4FRI8nkLw0W3MAPh_CV0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/52XhHuDqRdAnNN2le7qDJu7q4F74NsYUlcFHwgfDsFbgdK04sImLAqjk2EhAvNwAcmYdN_D8ZhzBAzeH=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "rap"
+    ],
+    "title": "Бест Дей",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mRKb4rfADuJJ26c4jBOa-lK_8KHK455Cc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/Lat72hIGa-jp9oMXZ2vRFT9Td0sm7B2_n_mtyrGOMAqltADLOhNN3lveTTM5Fn8CAVR_OhNO4gaslhtw=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "rap"
+    ],
+    "title": "Мувс",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nAzKS3kqZfLvJwzwu7_sGygZbIoJYNwzU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/TWuxrZXhG0JON9q6ocjQSmRvtP0J6W7gC2aFEIjuFw8sVHoJSEX2CI9OqKCvfMOqQ05iKpb-yR3XK7yp=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "rap"
+    ],
+    "title": "Сонце",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m2rSS5aCEzzF8NCO0LlWOBSV_meV4_pRo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T15:09:23.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Diss One"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/HC9t22aZ5I-Z03D61HRpNYt3G13hiy8-Yvyt5LxGFrptDWVMxUlVM8is90oDS78Z4bYI0QOp3hi9Gct4=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [
+      "rap"
+    ],
+    "title": "Ще день",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kdi7L6Icu7lGYe8vbi6prUeprrkVKRAiA"
+  }
+]
