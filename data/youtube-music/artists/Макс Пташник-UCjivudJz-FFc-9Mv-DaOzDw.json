@@ -835,5 +835,28 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nxkNJiZ-2SQr9TduqSh1ZbdB6ByhBezR4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T19:08:17.230Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Макс Пташник"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/UtuRR_qVJ-hPpEPRn52bwU2VhU3NqnJNGDXSZbwg7DwzgCAnG9aGcuBgRc1I5Rt-NmrBFD4atH89478=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "folk",
+      "folk pop",
+      "pop"
+    ],
+    "title": "лінію не видно поміж днів",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nBH7lYnv4i3w8RLOjxGWTJGvJrBaUmHtE"
   }
 ]
