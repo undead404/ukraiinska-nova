@@ -3497,5 +3497,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mSPGjan60bjsRU5QsgAM6mWGGHT-noSnQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-03T15:04:32.564Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/sEIKZHLKTasDWHbrqBA9uL-0R23Lqye6Ahvz6bKtFryG90aNDEJEkrHoUA6KG3n_Ox8-fZ1hCZhgkTw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Awakening",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lXC1PdCYkThme7hcQvnxn0aoJTe7QiTbk"
   }
 ]
