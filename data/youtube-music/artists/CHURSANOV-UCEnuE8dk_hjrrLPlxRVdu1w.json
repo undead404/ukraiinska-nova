@@ -1019,5 +1019,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m5zeUk4Eh5UZGPubYgANX-VBmMGobchsk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-03T13:10:07.435Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CHURSANOV"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/x3iTQBQ3O__kAJmeZia3CPGt5CqMnABt1gK9xLfXhdwRM9bUogaPqgGSXq_D2NRlJWNgtFH1-FhhVKdzMg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Анаконда",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k47QmZg5sK6Pf8LENw7nNQ1wd-RM1HOd0"
   }
 ]
