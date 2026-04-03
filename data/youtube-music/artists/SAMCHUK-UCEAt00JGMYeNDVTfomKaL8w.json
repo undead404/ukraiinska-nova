@@ -1070,5 +1070,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l9Ilf_zazupevtEMwcVqUYbyVbs9C9pzs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-03T17:01:43.697Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SAMCHUK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/Mubnw1FFI4UxytEeWIf5mfmub_9450gAw5kTW1S1SW198nDTBRldsxzz0ljhdL4SIaNnAQ7Ek8qvxBE=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Запала в душу",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kRK4r9LDLvN0qtIPn6unYM5jwJpZodG3I"
   }
 ]
