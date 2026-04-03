@@ -1146,5 +1146,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nOPY7PK93BRGMtWedgeRdur43GJHIcf8U"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-02T23:59:40.760Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ruslan Nota"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/G1Yzlln6IEJEi3DFnPBLD8gfOFRqu-hjhlHl0MasIsaYcRtdZO-UnRzzaJUlIIGgKdWYsyfMZZpcqflP6A=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Що ж ти вагнер здав назад",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mhZLaR6rCkrL6hFCbt9JtcniIXP55Zf4M"
   }
 ]
