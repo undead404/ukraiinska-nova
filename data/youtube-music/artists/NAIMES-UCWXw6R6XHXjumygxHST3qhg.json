@@ -418,5 +418,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mfOlVHrVC_CH8OcOjSr7hyvIJUfhrZGv0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-03T09:08:58.782Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NAIMES"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/vPXrkGcu497ofGcG7iucUTdPBHcDz5XeUoWxR9q6tVz8gNGDT18ZBcos9mjrk7FSyq-gRMqfvpBmusHI=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "характер",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mbzsEB77H3rggbaZdvL4VN0OYfSut23so"
   }
 ]
