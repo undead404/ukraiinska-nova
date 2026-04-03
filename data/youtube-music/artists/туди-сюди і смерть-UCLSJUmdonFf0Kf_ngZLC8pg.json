@@ -478,5 +478,28 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nzvLBm_v3i3yLPmNx4jvaiSM6D1Tm-aIU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-03T14:06:35.503Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "туди-сюди і смерть"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/M4-YYFLh6VPeeuE1c_V924x_OWD015eqWVraC0isWGAVDa32CRLkGwwv7Nar3b5bc9QuyDutgyAGqBXW=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "Garage Rock",
+      "indie rock",
+      "punk rock"
+    ],
+    "title": "ЛЕЛЕКА",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nslSSUZ09o3_Hqw_OrAdTQldXeRvIXFU4"
   }
 ]
