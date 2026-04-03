@@ -262,5 +262,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kFQm2dh-FM9daQf3I-SmrxpohJrOcGKaU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-03T11:03:55.619Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Bartky"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/OvARQ64EcoZrxF0ivZqGWisDD6CmiNvx0iPGRQSbYR2fQtxADr25dYXs3Tn47v2iy9M3biL6GN-GHrxL=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "metal",
+      "folk"
+    ],
+    "title": "Zhenchyky",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mQ7TmIVqhS53itMzn2CvcX9knqGblkQMY"
   }
 ]
