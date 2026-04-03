@@ -943,5 +943,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_li3WqMNBlRkPGr480zMFbs-P23hPZfQ9o"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-03T07:10:34.109Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Фрай"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/Abd-bz3tS-eDQ3jZvwFUoN93ucGiqgYGUMX8KT7pXvTbXmcRK7U1lWtfjn7UlyCb7mgVgLBvtlv50JbscA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "blues"
+    ],
+    "title": "Душа",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mL49eLlmDCjqbM4RKZW7_Bl3kkffP1eoQ"
   }
 ]
