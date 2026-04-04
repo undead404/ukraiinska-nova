@@ -567,5 +567,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_moKeldlarrdSYnaSU9-IXT15C84pGm_U8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-04T05:15:36.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "FIINKA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/CAbwarhaoa007wQBvuZjpRp20Hg5WPvM6UEvztw02E4Z1cow2TtdBaGcyQMSx92Ig4SDdT9po-HF3Qyq=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "КАРПАТСЬКІ КВІТИ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lHcMSbL1Myr6G1uYKPgy6KlPhf8r2eJN8"
   }
 ]
