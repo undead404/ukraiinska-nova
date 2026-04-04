@@ -1358,5 +1358,53 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kkTQPXPxg90SQKB8XXWHBSVrnSxFRjuZE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-04T11:55:46.264Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROPAN"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/BJFc8j8QCYsZcNN2hgndhIG7Sgkn1w1iGHi3jdaPTfmL_rw3FD7yneJQfaWVIdSbZBshZFrK1WtV4XS4kg=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "dub",
+      "reggae",
+      "dancehall",
+      "rap"
+    ],
+    "title": "Глухий слухач (feat. DJ Shon)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nDy2zlO24lws-vgKlcOT8HvKeQrtwgiIY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-04T11:55:46.264Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROPAN"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/qKMGya_vgtEtTHMmMF5JTD67DIBbVfbwzPePJRWNLgG2JNwlZXy7tySUUsKRnJgLCNMovSWr9HA25sg=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "dub",
+      "reggae",
+      "dancehall",
+      "rap"
+    ],
+    "title": "Час випробовує мене (feat. Jointjay)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lEemr1AtrvkhAgkYwdBfM3Z1HwBu_q_2Y"
   }
 ]
