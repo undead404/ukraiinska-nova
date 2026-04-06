@@ -890,5 +890,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n985XOvVxKNlsttF_c9PDnZqAqybzbi0k"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-06T12:01:35.834Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "хейтспіч"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/5IUu_TP28abu1iC19hlvGiZtU-BiMvEmdOf8RzevYuAFHeBPLMveWmn0T4aA39OMOADY3Qc5Vg6mpCfp=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "dance-punk",
+      "punk rock"
+    ],
+    "title": "ДОГОВОРНЯЧОК",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mGe39Vl5tbL2LH2kbB2TqYxhL0q04wDM4"
   }
 ]
