@@ -437,5 +437,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mbzsEB77H3rggbaZdvL4VN0OYfSut23so"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-06T09:11:11.800Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NAIMES"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/7TBdKqYjEdYvuHUiYN7fA-UGj7ZVJbSGA4XoeYK1gdCRPqjyoZ-L7JkgHtLswnTKsm0-vLZTafni71z9=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Бокал",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nbKAmF33_PzdQzyBa8DN4e1D6LPGUEtgM"
   }
 ]
