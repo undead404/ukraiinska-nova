@@ -916,5 +916,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nD7EAO7SvsB8AUM-N6BxWX_yoq1S78o0g"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-06T18:06:05.195Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YampolSky"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/Veohry2oMNnm_-p7oQ4rRXmqdgOfWufvkR35N4rDkf8rf1EM8wf8zNg7JtcSzUcVNGBhEB1uj5vcVVPy=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Body Beat",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_npllXVnqj9m7U1nDj3KnS2ueFutL40hJU"
   }
 ]
