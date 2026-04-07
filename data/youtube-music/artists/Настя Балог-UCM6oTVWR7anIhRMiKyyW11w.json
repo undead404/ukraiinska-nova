@@ -327,5 +327,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kAZoayS0Baox-gH_Ip9LH1kjCsEh05aLQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-07T12:02:40.001Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Настя Балог"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/4H_EaR8XTWYmJIeUJ4LviqZ_USfiSSK2skyriduecnM-osI0k1DGy2aZ-5yHKkTw9JJGhaf1X6XtV2fsrA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Шаленію",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lNd2e_j3c6UvG2yL5zShPfgN66TaVF9nQ"
   }
 ]
