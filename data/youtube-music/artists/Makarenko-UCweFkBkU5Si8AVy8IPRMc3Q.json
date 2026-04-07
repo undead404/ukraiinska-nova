@@ -416,5 +416,62 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nQnS4xdQewhpnlGinZ9hKyJb8-pJfydFo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-07T16:11:35.344Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Makarenko"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/FvPbSN2SH5-lHx8d7YJLaPLgQ87R_2v-6n_UGuX-rzvssmh4--2TVWg1D-Nmq_C31ULXtU0PzEe8E0Mr=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [],
+    "title": "Як тобі",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m9xzD98PHHth5sfMUbfdkKNmEv9Q9PhvE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-07T16:11:35.344Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Makarenko"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/WNWa10jbSupseh1zi-ojeTbVwtVE_CQde1u1_lQrfo-KywTPZPCdvUnjYyH4zk14lqfhUcf4k3cKEy6VoA=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [],
+    "title": "Ти любов",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nPHI0FZ__L5W3gAQZlV26xMpyd7tp44ZU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-07T16:11:35.344Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Makarenko"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/WAyDIjCMrU_6FqpXUmTRuuJNnsaAQ89Y4cWNXNfNCCj_-wYsougbHbPiILbvd9hmhUtEY_0E9DsuVxbnkA=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Як тобі? (BID0NCI0N Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lewmsW-Ydr_MAg_MsIm93gY1gTcAiIwvA"
   }
 ]
