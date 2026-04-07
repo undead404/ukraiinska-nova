@@ -991,5 +991,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lGMwNln0m2OxR3PTC4h52RejtyL62A0lo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-07T23:01:56.221Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "GARNA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/E6C0CeuXVG_FY0s9zABXeChrrCA1LF8PcoPGfv7xh3cahXkMJa2RtpRnvz4xC1urdVJg8n46MnVLESc=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop",
+      "electronic"
+    ],
+    "title": "Усім своїм",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nPDJzuZ9y_JarW7Mbh8tAtzMEyxZtqTns"
   }
 ]
