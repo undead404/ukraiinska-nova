@@ -1003,5 +1003,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lv88RbcKEuLq-qqMq8dSkLpY-Kibz8hv0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-07T21:03:38.761Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Інна Главацька"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://lh3.googleusercontent.com/_7J_0eL_TeWQYPzKGLWEOglQMQ2AoxBl7gvfkjvddjaecJlrF8rZ5H7KuoXDqh2jksKcHl5gWmZ5irE=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "folk pop"
+    ],
+    "title": "Моя мамка молдованка",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kO12Wlz8t8p66J5im1e61pIamZ4ovnVkQ"
   }
 ]
