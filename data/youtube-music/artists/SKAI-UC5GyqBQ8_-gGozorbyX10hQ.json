@@ -250,5 +250,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m8wsOblWZr1lnOfgXBE-wMwtQJEeFiSV0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-08T12:05:39.382Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SKAI"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/y87RD7WB6gvtZJHw1jpLqeO6thbyR0SlVK5fCxvxhLTdYUqQprwvhvAf0gXhKEw6hRCCUQi34nf3yrA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rock"
+    ],
+    "title": "СКАЙ 25 (Anniversary Сollection)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lTsVLmg-Hyp3zV7ehcBRMpm9AJQLHs9wM"
   }
 ]
