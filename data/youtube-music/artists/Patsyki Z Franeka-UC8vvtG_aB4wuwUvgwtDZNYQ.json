@@ -729,5 +729,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mVMdjloY0_18kmXwrWZNGy9HEI02nPH0E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-09T05:30:03.418Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PATSYKI Z FRANEKA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/ypkxBM4aTAnLi3NaRwumv_EzrdSX6Tq7fUSQN5uGCmPCD9iEyOvjV6LKkw0kIJxUGf00x4qHbopiNOs=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop",
+      "pop rap"
+    ],
+    "title": "Веснянка",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_momMhISrvh5v4ni0KhWoLqEFX8kVT55dg"
   }
 ]
