@@ -250,5 +250,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ms0jBzNRz5iG7_IOHUdEpb0z353hczOYA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-10T11:08:17.777Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "mercurikill"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/13f88qyPX-MzDeZdWApY77Blo5XxQkhmIiTNqJ5Q28wZfdaCnPSwKJ0tcQwlSDzhQmpJwUn93V0eUOkA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rock"
+    ],
+    "title": "кров'ю",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mpz53puM65tCDw2_mlR1JAJHA7RydwRCM"
   }
 ]
