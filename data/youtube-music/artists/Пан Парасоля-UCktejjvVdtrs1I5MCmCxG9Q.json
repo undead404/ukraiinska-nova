@@ -468,5 +468,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mVd1Fkc2GZD5mg2tI3dVAVv1xfpZ_oWK4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-10T13:09:54.888Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Пан Парасоля"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/0Vyql2AIekWQqlxb0NEL0dVdfdXW1Iv8XxBxnAlnAfnoyHhxsw8uSfBoinNtDIK5hgNHBonHijMVzQsV=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Від твоїх чарів",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n5JvubO7HEV-yTfT07r6NLx1Kboo2BmKI"
   }
 ]
