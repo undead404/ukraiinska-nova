@@ -686,5 +686,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nJGM2toqetNGe-zOco_L8_1E_u1xzi9wI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-10T18:03:04.568Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DELAMER"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/9x6bNHGRrttcLmm0QLPQZcpmAV6egXO2i-94evO6CfsSQsumfxredNwtF7oV0G_7-8_FgHa5SRvGQ3FD=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Акуна матата",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_njgG9To05Tx_QMXmaS4J4dlZh31DJH3a8"
   }
 ]
