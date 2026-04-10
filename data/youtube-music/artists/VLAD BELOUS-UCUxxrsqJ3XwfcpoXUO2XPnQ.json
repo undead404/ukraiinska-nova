@@ -511,5 +511,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kM_MegGj0MjIPR1fRPgnYNEESyALzzaqs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-10T23:02:20.261Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VLAD BELOUS"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/k2htQKdkcnA-jCJRwnzjoeNe9COY9IGA2InkzDgYST0yU44HGsUV2yORJj8AxYdV2Yxvzw68SnDzc7TM=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Останній діалог (belous remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ltPZ0a2KsJ7rc2Y1qE29dJHumu7Jgb2nU"
   }
 ]

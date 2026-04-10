@@ -397,5 +397,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_niFUOe4KbRvwK-Kg9mVNmeTFxyGcEwFW4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-10T22:59:47.808Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Berliner Doner"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/NALGzIaK_gj_2A3NcKJwWs5NGj0QtPYsVZdZZWd14WKm2XVzyNpYZR3KUcB-FN3XhXAYi2ePAca7PIZC=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "noise pop"
+    ],
+    "title": "Біль перехідного стану",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nGmQC15BX7LW2_n1SCD1sr50gM4_ChIQY"
   }
 ]
