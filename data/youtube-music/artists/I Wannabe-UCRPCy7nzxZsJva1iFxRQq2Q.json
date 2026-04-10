@@ -1116,5 +1116,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kw2-HDNM8mcJvvpTQ05xI2Yx1q8T4n4BA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-10T09:10:50.965Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "I Wannabe"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/VUpAe212NkefL5YL2nJ1CaCtbaJy0XovBQai3IDVJJc9agpKSRN9XY4jgRsUW4iOP7yO1La6A4Z-ND3bxQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "dubstep",
+      "Drum and bass"
+    ],
+    "title": "Pretend Lies Isn't Lies",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l3MT9-a9eJAS8ikUh_Ol20jgi9IanOhmc"
   }
 ]
