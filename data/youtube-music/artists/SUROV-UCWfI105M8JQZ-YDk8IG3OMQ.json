@@ -435,5 +435,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_miaBDJmr8-vjJ4pjNJ-a4KN0ymulqUHs4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-10T07:14:41.446Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SUROV"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/9DrVmrfI09lApVnTvUoD__yM4QinRR6qHTQ4XhfMBnP3FSPxwPomWohJBwEvi_VZ0Dn-4InI7MaRQ5dx=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "А якщо мене розлюбиш",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l1pM528dc7t-f45SHGhPtNcxeescq6l7I"
   }
 ]
