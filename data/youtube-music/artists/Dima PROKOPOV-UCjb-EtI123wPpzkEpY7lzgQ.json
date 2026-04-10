@@ -730,5 +730,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nWPxaW_DrR8VyhVFeC8fUeycMiQyD4qis"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-10T02:40:18.589Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Dima Prokopov"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/4H_EaR8XTWYmJIeUJ4LviqZ_USfiSSK2skyriduecnM-osI0k1DGy2aZ-5yHKkTw9JJGhaf1X6XtV2fsrA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Шаленію",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lNd2e_j3c6UvG2yL5zShPfgN66TaVF9nQ"
   }
 ]
