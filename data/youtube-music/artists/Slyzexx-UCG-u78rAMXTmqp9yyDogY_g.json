@@ -2645,6 +2645,10 @@
       {
         "time": "2026-02-20T21:55:35.228Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-04-10T22:00:19.579Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -4042,5 +4046,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m72XcXPNX6tjY7e3tv3stQ3FvPoCtPTdE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-10T22:00:19.580Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/UYQr8JlngPMG0TlrsHXZmAf8VPJcAgce6ssVre3IC1V1rI60UwKvzv42kFZeThx17dXUGVUw32X_Oey2=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Sabes lo que es",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lplhWOYnnYLeqmQxRGpxMXQM57Ks3rcXo"
   }
 ]
