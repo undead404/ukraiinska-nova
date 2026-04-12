@@ -1154,5 +1154,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n-FoMPOEQbL-7aBPM2HmKWerEHTEwPIc8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-12T10:01:38.500Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KATERYNA BUZHYNSKA"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/uOGfcybk1fWcfWim51jPAiCXkkEJUjVWl8Dp739lPt8gw-8xW0bGBwBQAK1JbWx1Kj6Q-2c-pqm4cjs6=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Мамина Любов",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kbTGfvic4B6x6DBxhruD81FjInhnO1xLY"
   }
 ]
