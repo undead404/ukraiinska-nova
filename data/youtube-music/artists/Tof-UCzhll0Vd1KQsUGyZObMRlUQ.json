@@ -2289,5 +2289,51 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nHHFwPOorceBZQgchH7my-NxoK74b6340"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-12T15:59:32.829Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TOF"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/JlBWICzLxi9lSdgY8jkfn1CftoBRNexzDfFaLu6tGsTf3eO2aiVSvo9ey7eGp9ZYxFbfjsmiY47VeEw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap",
+      "dance",
+      "Hip-Hop"
+    ],
+    "title": "TRONCHES DE VIE VIE EN TRANCHES 24 Silence on coule",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nWMmjKIRDMUIhLRIpqLnTck8EdhFKdgN8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-12T15:59:32.829Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TOF"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/_UqjvjiWJck9gSZIvpUxvA8JoOAXBkE6S1MhqXbZ34_VFjJ0-Ah9WDs7cc-Jb04hlOFZdww8oD1Il3o=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap",
+      "dance",
+      "Hip-Hop"
+    ],
+    "title": "TRONCHES DE VIE VIE EN TRANCHES 23 La Creuse Insoumise",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mz5mTLx6hTu47tizByq9sE-XmubgPg5Hg"
   }
 ]
