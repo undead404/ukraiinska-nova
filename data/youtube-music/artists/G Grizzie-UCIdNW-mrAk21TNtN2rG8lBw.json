@@ -8,6 +8,10 @@
       {
         "time": "2025-09-27T01:06:14.956Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-04-12T01:12:53.464Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -31,6 +35,10 @@
       {
         "time": "2025-09-27T01:06:14.956Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-04-12T01:12:53.464Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -54,6 +62,10 @@
       {
         "time": "2025-09-27T01:06:14.956Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-04-12T01:12:53.464Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -77,6 +89,10 @@
       {
         "time": "2025-09-27T01:06:14.956Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-04-12T01:12:53.464Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -100,6 +116,10 @@
       {
         "time": "2025-09-27T01:06:14.956Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-04-12T01:12:53.464Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -123,6 +143,10 @@
       {
         "time": "2025-09-27T01:06:14.956Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-04-12T01:12:53.464Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -146,6 +170,10 @@
       {
         "time": "2025-09-27T01:06:14.956Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-04-12T01:12:53.464Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -169,6 +197,10 @@
       {
         "time": "2025-09-27T01:06:14.956Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-04-12T01:12:53.464Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -192,6 +224,10 @@
       {
         "time": "2025-09-27T01:06:14.956Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-04-12T01:12:53.464Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -215,6 +251,10 @@
       {
         "time": "2025-09-27T01:06:14.956Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-04-12T01:12:53.464Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -238,6 +278,10 @@
       {
         "time": "2025-09-27T01:06:14.956Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-04-12T01:12:53.464Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -261,6 +305,10 @@
       {
         "time": "2025-09-27T01:06:14.956Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-04-12T01:12:53.464Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -284,6 +332,10 @@
       {
         "time": "2025-09-27T01:06:14.956Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-04-12T01:12:53.464Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -297,5 +349,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_knNbysbvuTfwZwz_5A2hjMzhKVIk9sG0A"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-12T01:12:53.464Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "G Grizzie"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/hLrypZ_C7eOkHxTt-Lnafc-Y1AayWqvDyIRikn7SIfF-xyYJ6S9B-VB74BhaRmWyARKBrEs6-dyNba_G=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Plug Life II (Yungreedy1 Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kxVdRZxMxLPxrcKzmEx9e3SwllFQhBGgM"
   }
 ]
