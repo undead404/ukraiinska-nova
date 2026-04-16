@@ -794,5 +794,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l5LIsed9i9RvoRlThgsKimrgPpDuN56MQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-16T13:12:20.211Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Balsam"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://lh3.googleusercontent.com/S2i6nUOfDSJkOgMraybP9_2FemxNTf0GImPSXPGidU-MXl1GaFegba_gQ7T1pNCwvhetSj7tQV2m5aiT=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "ambient"
+    ],
+    "title": "Balsam",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k4tLxsG5VKVfQjGtACQ_rzuZs1DYF1KZI"
   }
 ]
