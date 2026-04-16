@@ -1385,5 +1385,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kUsaXuE18iXF01lIIZdh_fPhBS98Nq0Hs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-16T17:10:56.585Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Колін"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/5luLcF1iChNeuFNKWBmGWDsQUo9FfvbnWbzEGXac2yGAZXwMqRe5EYPnFJEmWdTMWxMqSSYy5N4xxbM=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Любов",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_koc_BAsrWsKHGlir7pvU2HGmAp3bZrjA0"
   }
 ]
