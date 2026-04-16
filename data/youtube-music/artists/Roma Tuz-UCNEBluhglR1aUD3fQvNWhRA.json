@@ -85,5 +85,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l7WF1D1KncEEtd3Ry_jKz6JHrcdjb-AMY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-16T14:25:16.479Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROMA TUZ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/nuclNF9VJ-MyYQoMVwO9ipFZkjoaDhAUr2FLDc57pJP46UnK20ULnoAexPfmFGivUVP3IW4TvPCDeQBB=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Скандал",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ncqlpUpeZYTpr0HHXhdVwfwx-8T4rrH9E"
   }
 ]
