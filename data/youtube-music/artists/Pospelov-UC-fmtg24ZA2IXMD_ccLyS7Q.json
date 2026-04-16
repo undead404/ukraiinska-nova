@@ -511,5 +511,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nw2bECSNVo2UzibeW0ymZvO8m2PePfXx0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-16T21:05:18.168Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Pospelov"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/FU-9xPoqqzF_806iB_LM1LG5LkfHBAXFuqXUh3W-STqo7e7mGXXGXo-EGkCRSlXzqc2sZzzGneqUynA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Контраст",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lXXq10T-dwCbPTJQDHy37ooL0R0HQpH1M"
   }
 ]
