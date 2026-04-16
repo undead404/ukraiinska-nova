@@ -454,5 +454,43 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l1pM528dc7t-f45SHGhPtNcxeescq6l7I"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-16T07:16:52.739Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SUROV"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/eIACLjJJTbpVhFxvhy-rjyGVbn6LPjmPguCsP2QQ5xDiHAZFfH4C3YUjelksC0YH0xepnj4bDLQX4TY=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Щастя (Shadow UA Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kkQoAQ98bWVA3DBJS7gOQvCr44RtVowlk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-16T07:16:52.739Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SUROV"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/b54T_CpUHLLfNPhWItpUwN3f2QedWVg7PYOYRfBqJu7DwA1Wby_HSwyAeymgS3lmeY3jK4ElMqdBXXN8=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Повернусь ДОДОМУ (Shadow UA Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mrnSrelSq2XNj92X93NH4H486AkJXap3M"
   }
 ]
