@@ -1068,5 +1068,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kAGBCoizMfQMneSIrgcZuKLat8iTG3UGQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-16T22:00:39.629Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гошуля"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/Znj4SqfUPB3Ag4IKtlSS60MlmSHvL4XkOwYUe47kBR48a_9umVtfmS_gSF4XFdF5qLHqfsvZP_KcKNAI_w=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "words & crying",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lgSj2EwLof5rXlJ0qX_tdkIkDyYblCAyI"
   }
 ]

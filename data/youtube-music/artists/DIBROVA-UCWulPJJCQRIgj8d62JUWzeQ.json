@@ -817,5 +817,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nwmwtBjKvFxQS1SP7hfrZb7SJl51OdZT0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-16T22:01:57.874Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DIBROVA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/BTBbBg8EAFKDzSZ25Q5FFUZ_QeIDxhslmj9x86y8wuhcIXSFkYvrvEgUV3abMxNIQS19SjdLqEuFQSGU=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Розкажи",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mzc1AFkTW1FDAWLdgmyqR_f6sagH3Zpa8"
   }
 ]
