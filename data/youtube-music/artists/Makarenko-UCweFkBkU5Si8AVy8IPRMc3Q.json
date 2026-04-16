@@ -473,5 +473,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lewmsW-Ydr_MAg_MsIm93gY1gTcAiIwvA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-16T16:14:49.596Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Makarenko"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://lh3.googleusercontent.com/DN5OiLE0bkaG7rqPxGYkm0e-3gb2MzMs3bEjzesy3IW8c_EVj5MWD2Ek2ELR3Ce5d0YqIxL7G-JU1V0W=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [],
+    "title": "Нецілована",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mEAbG9rXEIqdLJGTTGD_tqziVBnZfpVo8"
   }
 ]
