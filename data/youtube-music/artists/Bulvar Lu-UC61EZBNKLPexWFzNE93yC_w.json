@@ -356,5 +356,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nhxAxqOyysKtKC13jp2VPm7R_3nEyjzgM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-17T10:11:33.198Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Bulvar Lu"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/7f0LIHvzZqMCDK5BYM11j89k2OWuiZemtaJAse4KiTVvE525LWCd9VT7Ko9CAsylXIJPEycJkBY2Kut-=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Дупа мине",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m-rlDlbPlnbw8UV50T_ired9o8cpyx6Z8"
   }
 ]

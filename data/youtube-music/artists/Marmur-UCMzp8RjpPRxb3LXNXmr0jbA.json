@@ -226,5 +226,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kyOezz-BA0-oz22QZ1emRfraAgGK7jWds"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-17T10:12:35.769Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Marmur"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/iQQG8ymY7G2SpAFsH6p0qS4FhBP_5Qt8HoBJVwQiYk2_5Rwmot0K-QNhNJb24wxFzToTEZRtlCLg0_jI=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Suffer",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mOUGI4iHfple62r5grDRpADWHdm2yD4aY"
   }
 ]
