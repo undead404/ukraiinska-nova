@@ -434,5 +434,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k-NdVWYZxUGIZhISOgf8DHRFKJLcQGwUQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-17T05:35:25.882Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "скало"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/Y5N-RuzddCx8R-0wL2ZlYWsFC_zOXgT9ki-cNHUbcL1YHkbttDPG76Miv0qqn8gXrRukrWeg1_UXbsHF=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Цифрові Вібрації",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l61gIniBXVUGuB5d3xZlu2an-SRy9HVTc"
   }
 ]
