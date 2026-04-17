@@ -497,5 +497,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ndu82442DR9IubfmAwhBKxmKVOHGopcoo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-17T20:04:23.460Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kava Tsikava"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/7RZ2abhuPx2yLCEkWEwyYbrVMny5sbObWZxueRvl9mverZgDaoTL7EY14-cA_aWmesb_w2wlCl3OadA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Це моє життя",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mzqgN2yFvIHxJi4K_RGDu1uWOzmiqUyik"
   }
 ]
