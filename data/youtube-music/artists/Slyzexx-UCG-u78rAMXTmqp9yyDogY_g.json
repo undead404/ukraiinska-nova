@@ -3210,6 +3210,10 @@
       {
         "time": "2026-04-14T21:08:40.023Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-04-17T21:06:00.291Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -4865,5 +4869,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lplhWOYnnYLeqmQxRGpxMXQM57Ks3rcXo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-17T21:06:00.292Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/GzvsJrkQWcw--TA1KqKQ5RGc5d9Q6_tJRJhXt8l-5aV27ARETN-V69IPdW-xkR8aELacWI4q23iN1JRrCg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Stay in here",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ld2QdgMkmfwz2D0Xye5ErGIcskgTmsul4"
   }
 ]

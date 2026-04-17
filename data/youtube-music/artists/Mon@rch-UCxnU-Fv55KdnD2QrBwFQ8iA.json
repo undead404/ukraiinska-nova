@@ -744,5 +744,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nn7lX7uyBOps3XKISOgM5JFntV8NO2O6c"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-17T21:04:58.747Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Mon@rch"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/--JW5k1kYobvr9ndtk7jLldOTZCk85gM7pEov9AqmBuSWWmNTa3pk1XwKF8xSfHMFNA2eyS_99hfiUGo=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Лав сторі",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lX1qTm6TTGhTSU9xA7ns7uEnBZLnnviCc"
   }
 ]

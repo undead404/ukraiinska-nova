@@ -3435,5 +3435,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nf8swFidsLuu5n4PZRnBdh2f1-LdJleEE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-17T21:04:41.744Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kolaba"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/YyJ8xO-lfl1kBlQ_4RAQiX_7IQfwYckkQlz1G7nbdipjmATMdORro3BDylY8pg2AR2oeHTnZARndtHCLzg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "А ти чекай",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kSY3uYPXeKOlwORuKFY93KIOQ14RUECYY"
   }
 ]
