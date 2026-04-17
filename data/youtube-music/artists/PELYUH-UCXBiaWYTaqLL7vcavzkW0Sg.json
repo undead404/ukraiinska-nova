@@ -1159,5 +1159,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mV7c55siPGUcA0cfgJLbESWWRPb2nJkQo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-17T18:05:16.109Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PELYUH"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/VUpS3nIYN3MWRpPgmpAFdrL8tUPBWBidVCETH-dvihhNcQVME6-1MV0zzDuNofiq50UvT1px48JkgFGMeQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Nostalgia",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k4NjDmNBsQjcoC13Yv1niWAfkOZF7Efe0"
   }
 ]
