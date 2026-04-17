@@ -439,5 +439,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m0QlZ7olL-Qzdy16LeBS5vCmEh-9NGYKM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-17T03:56:09.786Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SI Process"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/NGEHzfPleIRxWC2CE9bJjReaGss4oCZgnwE8Bh9_K8L3G2uHWx8pXdMd5eSiPd5ORd9aDFKYpLq-uN8VLw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Just to be a human",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m5DQI6a9l1zQZ4CZ3-2TGT4QWysOwPc7g"
   }
 ]
