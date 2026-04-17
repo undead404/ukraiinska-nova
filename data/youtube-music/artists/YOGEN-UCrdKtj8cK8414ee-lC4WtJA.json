@@ -474,5 +474,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nR_x0NIOM-LyUEYurJWXP4qUZWFR1sNLk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-17T01:14:47.987Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YOGEN"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/5ua4cx2E-HNFd9xELVnF7CVOzQGow3q94q8Q1loUbRuWm8j7vUg4kQtryol7d6y7u2LxjR7eDg7HMzjD=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "shoegaze",
+      "space rock"
+    ],
+    "title": "Бачата",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ltn38re4Zd808nvaGtxj3Epr8wvdJi7WQ"
   }
 ]
