@@ -343,5 +343,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kno-kXlMoZOKt4mMN96lfJ4e9kjOFzajU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-17T06:23:40.403Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Marie Hellstein"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/P7thijeyVt1FkCQdS-UGpNr5JXDHgM6Z278LMrizFexp6CxXGHWNiuPyIGtoHiZFcDXVpZFIkExNDts=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "зелені очі (Cover)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ljCONFX0-gzHo33Qdj4FR3JHHqQ6DWa0s"
   }
 ]
