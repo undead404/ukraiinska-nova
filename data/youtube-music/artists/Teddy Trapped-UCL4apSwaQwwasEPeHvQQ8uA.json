@@ -828,5 +828,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kEUoi3D50xyqEwgwuYuVVFdYYtanAW-JA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-17T19:10:46.531Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Teddy Trapped"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/biQ2uqDm78obRs7XrsOvaBkUU1zvchavPZJSyrFteh2QcjMyNey3rUZg-1PPsDb00F_hxxm3_4XxSwvx=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop rap"
+    ],
+    "title": "атоми",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lsxlzg_dfrTsQ2hZfWi8WJ8WNdX0WRE1c"
   }
 ]

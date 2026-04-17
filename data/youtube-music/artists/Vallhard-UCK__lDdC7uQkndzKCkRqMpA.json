@@ -374,5 +374,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lGv7W74yDERbeaKMO6Z3fYpUR6NRuhj6c"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-17T19:10:58.503Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vallhard"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/xK0KcfUKv3q1H7s8HF_UJ6-rqgVxbEWxuLLreAZMFpkiFT3KKSV_xAKimNpiGXBi9ckC-5yt90xwepCbjw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Гарно",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lt-gPLYwf1aqoJGKmJibkG3E_uUh18a_I"
   }
 ]
