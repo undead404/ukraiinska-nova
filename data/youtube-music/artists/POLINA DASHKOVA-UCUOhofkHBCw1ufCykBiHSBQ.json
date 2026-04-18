@@ -412,5 +412,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mZffg9pcxB9KqYe7UpBaeBQqhDpkR-6dU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-18T04:42:38.336Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Polina Dashkova"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/SLcK62Rp6Y39-EM83Z1Cr94-py5IWXD9bC8xYKzgVn0qG944u8mw2p59OzdETrmNI-zkM5Fg60C0mS8=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "EDM"
+    ],
+    "title": "Весна жадана",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k4XtMGOyZuYGGqXMnnD2IRokjamLEnaPs"
   }
 ]

@@ -378,5 +378,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mkFHW5ZkRAaFS2gBuu7SY7rMmCix2rsk4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-18T04:43:46.249Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Viktor Pasko"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/1LiH7Bgi88YwCH5nKU-iZqeTab7jia69pstP_PIGJ1U5irkgaID-cxdrN41rpEoqQI_k_hp6YW-udO4=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Como Una Luz",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lXXaMqyrv1vqfanP-wj6tvMxaZvf2L5j4"
   }
 ]
