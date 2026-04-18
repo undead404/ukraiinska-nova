@@ -549,5 +549,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_noKWeEUbMFDDab-F1UarKzH3A81gCA_J8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-18T03:42:58.322Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alex Fleev"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/uBTpJPktI3Z0OA4FNIiSJmGRsN9yGbIdys_mUIFJ3zkiUB7nduHnMdvXVNgGBldglQsMf8HEei4ASfSf=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Ukraine is the best",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kbGy6S4RFzbNyuG0ZlIdNSkchJRp83ekY"
   }
 ]
