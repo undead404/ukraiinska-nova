@@ -264,5 +264,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mUa5PAuFCcYpfcOPQ68Cw_MnnRfY3YF_E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-18T02:40:59.787Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "qBuy"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/7rjE1k32ZtdKxNhyfdGpVjK8HQDMyaH8M1IQCFbhnmfBlxGfLIq8w3MjN5Ei8XmzkOg3tHydyBRFQXoh=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "ожиріння",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kNJ9pv5YkSrW0R6wko1tyt1hUER7Bu2Gk"
   }
 ]
