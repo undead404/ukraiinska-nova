@@ -1525,5 +1525,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n3xTZLIwOfAmJdP4I0cUMV_2OqsFUea-8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-21T21:04:16.224Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Інна Главацька"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/Do-ZHWAap1JTvbCch3Bdw6I4EC8tkInQJlQpcweJr7vK3BcUw4a61MLk3BTG3fhFxcrIyo7qnH1vucQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "folk pop"
+    ],
+    "title": "ТРОЯНДА",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ms2JYR2Km-dCbbd1ycjnPi7gE5EoHdusA"
   }
 ]
