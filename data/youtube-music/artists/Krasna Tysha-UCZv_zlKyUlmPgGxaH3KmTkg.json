@@ -285,5 +285,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ltY6kDSgxPjQN4JMligDnLL5FWkGvwwss"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-22T22:05:03.723Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Krasna Tysha"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/115xz4kG5Ywiw5M5Dn2jp9HO40TmazFEhBNsfdO-3RaDpxAKbsfMxxiFegMip3zw07hpu5b7MlxqbnH-1A=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Оп хоп",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k0MCYbZFjFyFJKhwkMi2aAPJ0ETb2czRk"
   }
 ]
