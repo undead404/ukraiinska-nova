@@ -366,5 +366,28 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_llJc51xQAeBVGnPdDy7CYTrq-x9Kybt0w"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-22T06:22:11.760Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "adm:t"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/P5rq4tB0RiJfYWPV6eu0yAYr8D02WBZCpxgqu0uFD4rvqSQDdRyJMS4tedswsMn6YpDHkYwFuMWisqA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "folk",
+      "indie rock",
+      "pop rock"
+    ],
+    "title": "швидкоплин",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k9yUTH7jTvTww13knD6BkWkGe97h40Zf4"
   }
 ]
