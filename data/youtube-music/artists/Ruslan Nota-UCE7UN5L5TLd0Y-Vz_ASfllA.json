@@ -1165,5 +1165,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mhZLaR6rCkrL6hFCbt9JtcniIXP55Zf4M"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-22T23:06:50.108Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ruslan Nota"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/yXBxrdog71IBktTkR2LYwkOyL5pCtOsKvi46BbS-3_zjtn5VA3KhnCqV45sr_Se4h_wfpkYmy6OX_jGV7w=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Петрушка",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nGK8fHfiytsBNzMUfJCvYkay62qYL2V3s"
   }
 ]

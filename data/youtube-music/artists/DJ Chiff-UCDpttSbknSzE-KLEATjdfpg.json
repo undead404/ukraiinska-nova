@@ -349,5 +349,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mTHJTuWMAmH6Da1dm1t2uLHClSMNUEBAU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-22T23:04:52.327Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DJ Chiff"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/nwwu9tf5EBJeMCO8SJSWV6tZdUKJXenG9J2N3tSuHvlCj6EHPOLoiEdPfkwZMLf_e4tC_1tSwDvAiKo=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Feel Right",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lVPJKkeAzE2tsRvJySd0dxpiBjACFRSA0"
   }
 ]
