@@ -292,5 +292,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kIjD7E02l7IYwlDgmK-k1GgWqqV035gi4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-22T14:21:04.435Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Polamav"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/V6LzW-xnVabVYpwoCjxFw-PhlnL7s-hPUe3NPO1BPMX_WwmKeli34vKR6hm2hWnVTb4BvvnoShYSpKpkNg=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "rap"
+    ],
+    "title": "PAYPASS",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nF850FTzu3WbUdH90vIAl1UOtZELOoppQ"
   }
 ]
