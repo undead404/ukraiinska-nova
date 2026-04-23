@@ -250,5 +250,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lw4uE_SdE412pkqeoQsDraKzfYMx4M86k"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-23T09:15:15.129Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Darie Lu"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/az6s7UkBFA0irCrRvrCFD1ynX8_UkSJHXQPks_OYN86D-n1eE2t0bgvp9Vs_EyDaXGx5dsNVza6W460=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Не ок",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_koJyM33gtf-ZDm7L_E5ujy5x6e2zeQvEA"
   }
 ]
