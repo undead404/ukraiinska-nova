@@ -1087,5 +1087,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lgSj2EwLof5rXlJ0qX_tdkIkDyYblCAyI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-23T22:02:12.249Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гошуля"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/XzmoO2wKFQCtD0iPDeY1IbWBh_z0XSY2PnFogzMKLXQUKk6T4VlWtV6CZ8HxNfcZkURkS65dmA88z3bfbQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Болі",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mFdkzs_P6V9QKzQtofAuoMgQ1KkFQxEBI"
   }
 ]

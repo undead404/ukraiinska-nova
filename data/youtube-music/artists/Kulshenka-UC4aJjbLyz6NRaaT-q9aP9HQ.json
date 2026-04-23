@@ -849,5 +849,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lZuuF1QJPUxGKeV_jls0l-RLoQ_61y94A"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-23T22:03:58.046Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kulshenka"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/KdD6BOPiO2g3rhlRWtk8YBBsdGJR-lvyc-c7ql2KgwuBLfPsxWYzY3fgvKml-qDQYQy6USPYj5MPTTmfHw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Parler",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_laGpEilpR__mZDvlDP5hOwOczvM79tKFs"
   }
 ]
