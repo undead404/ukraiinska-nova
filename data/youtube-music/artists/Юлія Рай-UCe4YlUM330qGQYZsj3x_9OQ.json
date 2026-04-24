@@ -292,5 +292,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nbx9Nso176ZH8SGjvpzk8el4z8RJSEzOA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-24T07:20:41.204Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Юлія Рай"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/oWAIYkDNikbL042RiPkyNY3rgyiT4FRBXtAX7YS2Zq2arwoRleRIoB9SXwEhBi1QevmH6q8Qa0D1mFc6BQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Балада про мою землю",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lbqhNTatCXxYtIDBLkUXpwCqwqKvks3pU"
   }
 ]
