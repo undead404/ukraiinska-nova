@@ -271,5 +271,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mpz53puM65tCDw2_mlR1JAJHA7RydwRCM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-24T11:10:25.775Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "mercurikill"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/0vEbVBPsLgN4q1ERlmxKTjDwJcQ3aa4Oc2hcg-25zY6_12UsXDH0gUJHBPIy__xrpl9LthKhldvFurY=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rock"
+    ],
+    "title": "грошей",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kDGSXPq-f-0WUxXGPh_zpCsP43mC4DPg4"
   }
 ]
