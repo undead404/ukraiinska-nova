@@ -1100,5 +1100,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_maLcWnRx_dYFshPbZ58jZ1kogOksRDRJ0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-24T14:20:36.693Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sudno"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/4By78qStQdEspiQEFKtqknT8YKQkusDnfFZkSAT5jNgULVST1QmivNvFuFFQ0CQi5KcXN2CiFt3HiooS=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Світло у вікні навпроти",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lOdCcAmwy0hwaT9PN0iUvvN0jlBtbKUSc"
   }
 ]
