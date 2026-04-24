@@ -1606,5 +1606,49 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_luy0OxAkymtJqPY-KP2wCGoN6IL2mXKF8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-24T18:02:05.535Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Korolova"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/SxnKHiH3Wl7vL9sE2ksyAxWTsHLPQUBwvPyvO7BrYlBYk1U23oy8pnhS6VlJFC8wnT1R4GPpiHhSFZrL=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "Melodic House",
+      "House"
+    ],
+    "title": "Another Life",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lY6M_WzMOkCDdWBQSJtTi90Fp3CAKPLIM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-24T18:02:05.535Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Korolova"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/IsEp2yj0HsF1oyB-8Iqf9RVcm95aNwm3fM2ZYm-9tm4KBA8nN0xUAyuZFSaBTAh9a7vp-G0BP6JA82FasA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "Melodic House",
+      "House"
+    ],
+    "title": "Another Life",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lF7uVLteoXE9C5TRSebdWVM2oQq582lzQ"
   }
 ]
