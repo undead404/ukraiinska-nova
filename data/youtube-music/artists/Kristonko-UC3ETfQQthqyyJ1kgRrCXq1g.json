@@ -719,5 +719,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lPAcUKX5ZGFT2rOu-RWANFNIBYR1veXOo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-24T01:15:23.353Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kristonko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/FFvqZfA6ZtUmafTYNtacidmHYa9n0vX993ymxLXoMjtqdPIOk3VJ4QvUSfrq4l3kWyNRqWxg5Gysj7M=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Прикуті",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lSYWHuMM_ahym-XOVzea7UOfsbsyffHpg"
   }
 ]
