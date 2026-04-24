@@ -680,5 +680,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nZGMSeaYZ3EriGhsOvjLVVtKyfaGFAivg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-24T15:13:13.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YARAY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/1yYO7OwnIWDBG-cK7a9y1_n_3k-AjlacS52UR-TyMZEQN0VTnqV4IYQ-ZY2ln7hKikpNoZPB_ZnUyguB=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "metal",
+      "metalcore"
+    ],
+    "title": "Марс",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_njqjKzmSMyrF9rOHV0S5cCNfNshgS4izI"
   }
 ]

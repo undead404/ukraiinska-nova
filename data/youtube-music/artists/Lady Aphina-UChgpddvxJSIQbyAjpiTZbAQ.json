@@ -405,5 +405,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m9vUY-wI3GTGDijFxHVF18oKbK9gXQsX4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-24T15:11:30.665Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lady Aphina"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/50xeqZFXvQQdt1ZJAzXS1KhXE6kKZSG74Vx4DFa9KSex-dTqQKFSg30vrq6ZNi1OYE93SL9PyrkuMnQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "Холодно пірнати у пітьму",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kJja4yTNgr1sOI2PWx6Kuiutaq0xm869I"
   }
 ]
