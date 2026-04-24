@@ -375,5 +375,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nYx6qkYx54Bl-ZuI5SYXKt0GDsBexfqz0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-24T22:03:33.018Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Do Sliz"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/5xNcgBHsfYqG7Y7_qTBXNTgOlbHf6UocbN1w-5hGdFZsEWEi_IZ8hC22piB01LOSv4xZn2n0tJvQopfm=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Кінець вже був",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lLWA4S9H1MefNn_bpht87bi5XGcGTICO0"
   }
 ]
