@@ -1161,5 +1161,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kFhwL96ShrExfztvlcAKDbIe6Vs2UX3f8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-24T21:05:28.240Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KRABIK"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/eywssqPCt-_Gvf_2kKDTWf3_cwSU3Ktprk352-UZOWKZttfUJulcbOTCiiiOLlJZ2_ZhWKWz3KDG9vxq=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Відьма",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nwL25GjlMGKcXt7btJbvuke-Sb37SshZQ"
   }
 ]

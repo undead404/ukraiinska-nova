@@ -976,5 +976,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kT_079FMwMTvFaXowqCEBZoRY3MaOlUAI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-24T21:04:46.912Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BaWN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/OsguRrFHIzQDkvKQBnAPJnRj12qlERb6vEw4wEEdh3vEyBn7L9vE5zsePyeNyrpNcuNHzysZNpLii5QoxA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Совковий модернізм",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l5ieOfScpJw2YylcJvLI4U-5TWBm8TAm4"
   }
 ]

@@ -3167,6 +3167,10 @@
       {
         "time": "2026-04-14T21:08:40.023Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-04-24T21:06:32.701Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -4888,5 +4892,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ld2QdgMkmfwz2D0Xye5ErGIcskgTmsul4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-24T21:06:32.702Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/4VmNSHKMuv9r_LdrNZ5QCNXmD5axExwb3OowcGPxwdborA0TeChgfNXy9z02Q8wfVdpT1epjuY_R2wuYHw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Pura punch",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l93Phn2k4iZFKKqaW4-u3BylOcgp5qHaU"
   }
 ]

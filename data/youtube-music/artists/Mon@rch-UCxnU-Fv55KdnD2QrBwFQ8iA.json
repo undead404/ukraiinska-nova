@@ -763,5 +763,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lX1qTm6TTGhTSU9xA7ns7uEnBZLnnviCc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-24T21:05:37.647Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Mon@rch"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/HOWpx5FAXLnBs009P5mh6CeqJBBk6Lncr7ocUY4cKyofg_0JK-Lqz6eO83-cVSYPWLlcoxTFWO1YPSIx=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Літо",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nzIvIbYbXBX_zA3HzzMwBc4B0WtH74BxU"
   }
 ]
