@@ -1198,5 +1198,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l7oqQcwFiKCNhJ4DsR9Tbo4zpyFoY-ThQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-24T20:02:32.385Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Adam"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/uyErggn0J_A3lVsUDsOq4CBHuPbiF7_u4aJH-rnkpH_flC4-2nALRdBTmYz_cgYy8iEJ6jIo9DqQbh7rKQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "dark electro",
+      "ebm"
+    ],
+    "title": "MI AMOR",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lsxHbApJvZ5X_AEgT4NGAZHia3Ni-oUHA"
   }
 ]
