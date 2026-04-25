@@ -1436,5 +1436,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kNnRirpB6hG6aFCrq11WiOqOccPkTR6Ro"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-25T13:11:54.644Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yan Zapolsky"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/C9aoHxrwJCf-RNMyNk7_vfXehXcvAn5h_CBY56eZJwQgMu84xH4k-9Frw1_9koRwmj6PnLlwPqwrhUB6=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Dancing Around",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n7Tr3OWlRiZ7VU4o_QoUBQylsjCUx-YzA"
   }
 ]
