@@ -262,5 +262,71 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mqQdEngTtnCQjgPL-PZBDSvG1R-AZ9O-s"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-25T14:06:39.736Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Левко Дурко"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/WiK6iHyOKDlYgeMVEp2AwC0fi3ww_DBh5R3som-MFvq3Ys6axz7UKn8GZTCuh4dNghywCv8qSaRNQUE=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "reggae",
+      "Rave"
+    ],
+    "title": "Дрони",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n3PcRVpo9fMoJ46WE4mFHmR3BB7lFwAPY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-25T14:06:39.736Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Левко Дурко"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/rb720_c7iilyzePtA-gUCpmAEbgYmbOQDwIJYwW0JthZOzAZZStHwpa3i9AVLcoyJgc_ej7rz2TJ-2ha=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "reggae",
+      "Rave"
+    ],
+    "title": "Пісня велосипедиста",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n_2W0ovFPNzZacr3AODi31KonW3_fpWfM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-25T14:06:39.736Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Левко Дурко"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/a5t6zIiXhF_TA724GJ9vnih3rvmwtBghUgV2i9icEiYuPzwqbcDI4SN_2sVBOHmd2LKtcSGcrQljE-u33Q=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "reggae",
+      "Rave"
+    ],
+    "title": "У місто!",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nh2zKv_0gxH5Usr3L1F1WvOolydeNgR0Y"
   }
 ]
