@@ -492,5 +492,43 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mrnSrelSq2XNj92X93NH4H486AkJXap3M"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-26T07:16:14.098Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SUROV"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/Z9yz-lPG6e8rgfqMB1LsdaltzO_RvpF_ElqJCRCWv0RELvC2IhPXc1fQ3TgogmhePv40pVg02AsmLa8=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [],
+    "title": "Отношение",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m7JV6CFzTajdfSK5dEbl3Pu7EJjjHPMvc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-26T07:16:14.098Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SUROV"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/Z7ZchkkLORQ_h35xfZp0Iw8wEzHJeRqNAiFz6GF26EkB7VsYnVKrIvy-C0-pM8Bdy_WR5EsofsG_uJXJ=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [],
+    "title": "Пацаны поднялись",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nts1mciKzTrR57wbTlUNodedKbl-G981g"
   }
 ]
