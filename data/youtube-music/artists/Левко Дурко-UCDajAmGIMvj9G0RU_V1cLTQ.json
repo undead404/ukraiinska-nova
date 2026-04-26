@@ -328,5 +328,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nh2zKv_0gxH5Usr3L1F1WvOolydeNgR0Y"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-26T14:07:19.989Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Левко Дурко"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/SM95s6IO9z9tcoQwJSQW0vAROxCPZfdya0YUMqRWmbNsvqCKlWMKkoLny8mJis4vu5DWbv1uoO04pG37=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "reggae",
+      "Rave"
+    ],
+    "title": "Зелений ліхтарик",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_muLNyShZ25HtBo8DK9rq8yaLXann5nY8g"
   }
 ]
