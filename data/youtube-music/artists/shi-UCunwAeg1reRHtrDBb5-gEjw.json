@@ -460,5 +460,49 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_miHg-i8QDzfT9U2RcaP46-SW0CJ90hiCM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-26T21:02:03.940Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SHI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/1aK_-IQctD7qoRW4PVQhn3e5oz5e3JDOw_j49iVjVXcr853BTEqetcNPOqN1q2XA1hHI9xioJDOnYXk=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "ambient",
+      "darkwave"
+    ],
+    "title": "SANRIO BAND-AID",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lcxHRMmsAsleDQxEIucFs04ccXUvT6YLk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-26T21:02:03.940Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SHI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/diwBT-9woJCEmGgSY99Dp13Xsjsck1Ez8bMaaR9g8QVjWkHUN-2hqeXKrhjdPvVWKGdZAP72hPGj23_S=w544-h544-l90-rj",
+    "releaseDate": "2017",
+    "tags": [
+      "ambient",
+      "darkwave"
+    ],
+    "title": "Je Vis Ma Vie",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lKoFGo1I5WhRYNFdnuOZ41oyRhBzNwHC0"
   }
 ]
