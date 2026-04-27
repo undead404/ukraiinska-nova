@@ -350,5 +350,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_muLNyShZ25HtBo8DK9rq8yaLXann5nY8g"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-27T14:29:46.858Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Левко Дурко"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/vw5qPNoI5lvKbWvkOclFZbqOB9G3p3wWuSizoOCh5QQ6vCDJ50XF6P3QVmmicEwnF-0YTlKezppxwac=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "reggae",
+      "Rave"
+    ],
+    "title": "Правила вивчаймо",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_naZThCJtGVx88EY16T7oqeXwaon8iBRwE"
   }
 ]
