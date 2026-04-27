@@ -492,5 +492,81 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mEAbG9rXEIqdLJGTTGD_tqziVBnZfpVo8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-27T09:32:47.680Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Makarenko"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/GsQjLLZ0ZvOJLmlJgSk6e4Lt4zLDO3XN8aMQ1vNuQtmzKwnw3h8-bPUgb4h3L0BX43luvFM1kS8O4o4B=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [],
+    "title": "Где-то там",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mweyYwNhbKYAjOcPU2evtQYk-E8Fpvak8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-27T09:32:47.680Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Makarenko"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/40AwNluSLIR7j6lfgKSBwY29kJKjWg5zuCWqCaSAxVrpkSvKugRZja27irx7NUumLFTQxC4J4Dq65RSX=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [],
+    "title": "Inception",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lI48URzFKeFMKhwgtzkElcTgdsDjJ7Cw8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-27T09:32:47.680Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Makarenko"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/Y2a3YUr-lEq-fuLvHCDwASV5iMN01YiGVlGJrURTyzdtj-W5mW6TX3MCzodNSM_OnYLotJ9pyRNPVdOS=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [],
+    "title": "Если встретились",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kdNDNhFNmqYLNi2l3qiV-AVJ1ZYTotlRk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-27T09:32:47.680Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Makarenko"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/HtIjQjQpKd8qEymHtf0ebOiaB44BTMoy7ZTCaP1HEdqhMU9Yf4vDUka9eF-zYGTHk2qmefpypmylZcCU=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [],
+    "title": "Ночами",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m2t2XcRW5sDxgSOvTimYzIp_3hnpgCVCQ"
   }
 ]
