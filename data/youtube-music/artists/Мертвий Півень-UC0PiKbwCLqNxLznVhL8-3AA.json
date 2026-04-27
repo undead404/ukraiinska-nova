@@ -595,5 +595,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mperiV-Nv8zVf4TxvB3ykBUKPbkCkmDQc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-27T23:05:38.602Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Мертвий півень  "
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/-EbRwhpwhzWCGXsdkqlB3m3fHm6MlbuFSG0gN60HUgILmfnN5aQD6fbqqNAFUMCg3GzfQniXI4POV6g=w544-h544-l90-rj",
+    "releaseDate": "1995",
+    "tags": [
+      "ukrainian rock"
+    ],
+    "title": "Live у Львові (1995)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kii3uXYpDO_FsdOC1dPU2-Mdd0OelDY5Q"
   }
 ]
