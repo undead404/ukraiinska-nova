@@ -2522,6 +2522,10 @@
       {
         "time": "2026-03-15T17:55:57.575Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-04-27T17:14:14.718Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2985,5 +2989,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mZLh23iPtCpKX_ogKma7JHSibvYaTzbs8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-27T17:14:14.719Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Eric Deray"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/CWEc_GHaEjdULT_HvdAO2cLGz0OBX0ZCcCwWp2uCNNfc0vTpnheeHSjPN2iDwjuS-1iGzQCXo_YGaPsF=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Cuenta Atrás",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lHvFNiqz7AmI8IRFItE8ErCaYmtRCsuh0"
   }
 ]
