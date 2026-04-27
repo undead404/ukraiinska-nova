@@ -207,5 +207,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kbQ9tMIGxJQxkKwdQqgwZgE1tpKPDi8tU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-27T05:44:38.373Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NOSIK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/t11c4BTaFUdIncoSDAa5mxw2x0gCvveO-9noPIb3VaeIxkxwHI-y9ok6YcxDHbWvtwbiOvu8dm1hulab=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [],
+    "title": "Пообіцяй мені",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l7qrQ1NlbqO8-mfH1r4KUxFbUN52lmfXo"
   }
 ]
