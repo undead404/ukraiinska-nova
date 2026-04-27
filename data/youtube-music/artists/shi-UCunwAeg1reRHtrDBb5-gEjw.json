@@ -504,5 +504,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lKoFGo1I5WhRYNFdnuOZ41oyRhBzNwHC0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-27T20:11:52.592Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SHI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/35E4SIo0MpU0G1cojVN-Q9MW39QkjTzDGyw0ZHdLZWH4mWnmb7UCfS_wMhRwaIPpkZWNnOIZ0ZgNwK0=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "ambient",
+      "darkwave"
+    ],
+    "title": "Haunted",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n3sERWQGpjUjdBs8kDida0N3QAKF34WTs"
   }
 ]
