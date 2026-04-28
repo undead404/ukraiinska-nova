@@ -372,5 +372,49 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_naZThCJtGVx88EY16T7oqeXwaon8iBRwE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-28T14:37:34.604Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Левко Дурко"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/gRxU-m6ro8IaTahY5YY7tidX_vJy3WEE1rlPkp7-8JQ9nnLjPN8n-eW5VmiwJcQFed7_OUs_xE_mM0xM=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "reggae",
+      "Rave"
+    ],
+    "title": "На зелене вирушай",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kU8j87XPIega78IY2ctVWkae1c0UJx2kQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-28T14:37:34.604Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Левко Дурко"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/KbetkFUmFSo0Z0YdtEEt6pGy38ZPwXYQkgclyGzkK_5Zl2xHdd1AaIyafYAFr_Zks9lr5tiTH37y_CA=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "reggae",
+      "Rave"
+    ],
+    "title": "No Problem (DJ Bebik Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n2AhqqkR6gYfjI7Pts1lrFTx435YQqO_o"
   }
 ]
