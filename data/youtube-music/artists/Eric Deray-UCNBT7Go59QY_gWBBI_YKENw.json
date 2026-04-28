@@ -2495,6 +2495,10 @@
       {
         "time": "2026-03-15T17:55:57.575Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-04-28T17:20:08.669Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -3008,5 +3012,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lHvFNiqz7AmI8IRFItE8ErCaYmtRCsuh0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-28T17:20:08.670Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Eric Deray"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/3sdceIpBLa6ep1cmRDnQsAzIWc2CvzOrQSrXzFGtf30FowXAoKez7ILgaCxSZMWV2rSXdd8OzWuyn1yH=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Esena Mono",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mSXokli5fjKmE7cZuDSZp6r-kXpp92uyw"
   }
 ]
