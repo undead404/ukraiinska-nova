@@ -1173,5 +1173,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kbTGfvic4B6x6DBxhruD81FjInhnO1xLY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-29T10:24:38.696Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KATERYNA BUZHYNSKA"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/lFM1gM0yAG4amEWJhcCnxKZw2D3tzUo3g0Lw0hs7x70iimpqiLEaWy7eH9LuvDEf2QhZvDFAGn5JluFN=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Донечка моя",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mNH9un1UQlhV13xcTVNZ6n09QobdfNXNY"
   }
 ]
