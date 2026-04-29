@@ -207,5 +207,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m0mqugVHSvtUC1-KIvo3mXzxkhbsj642k"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-29T04:03:00.467Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Денис Главацький"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/21vKXBWLGu9XWll2WvfRz4JkR9-qQTeBGA539yLsUzNl_7QontsZl_qQTFfOB0T7jR5Ce2G-f1pVtasS=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Батьківська хата",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ntU7gcq-Nh4fgWgJbECcJlSGZfBIu2s7I"
   }
 ]
