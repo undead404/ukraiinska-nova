@@ -943,5 +943,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mMNF_4lFHQCkC5NATNL8TlnF3UY_nbIwU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-30T05:49:20.137Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Trimbeater"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/zr0usZWCSXdJq8Kd7LAXXb5MgoIGsKQeGTBw6ukzDN17zEgPbRGrmJNoqiXcxGmG4IzAb8Xp39PHPCe4=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Далеко Близько - Швидкодвіж",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nc2oe_HTEldyzRJF2TCAE5NHvgmaf8dCQ"
   }
 ]
