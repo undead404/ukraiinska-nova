@@ -693,5 +693,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k3-k2u6ca5ubrb9QdaWpASM6EOUZNzD4M"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-30T21:10:45.373Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Shmiska"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/tIYmU55xjCcMhZHh6KdAYSPDwL-g9oHNsEyETtAe-WHTMYT_pMHH-fNT175E4lkgMQBGQslfJpt6MVw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Постіль",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mPfw8LUxIX-CooJs-Xqj1ikIEupaBxSog"
   }
 ]
