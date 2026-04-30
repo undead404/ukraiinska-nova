@@ -321,5 +321,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mx68MOlWgddXFSP6LjUytejVGdnX34FbY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-30T02:40:56.816Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BIOBITER"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/p3HXp422JT973RbpgfuzO6p866cqLCDAm4cDm2qwieOWBZRcqetYQ_x_m3XsSSZH7HMrWMLkjzsIIij-=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Потяг",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mE2Pai7HYRUctDCyciqMm2BH5L89YnrXA"
   }
 ]
