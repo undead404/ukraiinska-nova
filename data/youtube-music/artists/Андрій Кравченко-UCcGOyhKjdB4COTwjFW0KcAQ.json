@@ -572,5 +572,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m7JP-GetGsHxaw559IJK4JZQDg6Yb3mKM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-04-30T07:36:24.393Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Андрій Кравченко"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/IrTECJJT7no_3hmiJinYfkP6kDRilxADIrA2LXo9E3NJaNXCJ_uU1ZQQef-afjMuwzKy946uhUKj2wgSQw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Перші з честю",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nnNLMBqXkWmXwCut8eEATxxXFHZP_ExlA"
   }
 ]
