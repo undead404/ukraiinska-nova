@@ -2468,6 +2468,10 @@
       {
         "time": "2026-03-15T17:55:57.575Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-05-01T17:08:55.470Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -3031,5 +3035,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mSXokli5fjKmE7cZuDSZp6r-kXpp92uyw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-01T17:08:55.471Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Eric Deray"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/QCnjBeSSrc9grzeie3gLDcum35dw5rWNIuA5HWKAEmpnsBETjEjRAqY_Wnv7MQudhch32fu295oM-PAOXA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Misirlou",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kF7f5TMN6RBcPELGJMlYOlDvn-qPwr4OU"
   }
 ]
