@@ -628,5 +628,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lmYaMwKJQhEUdss_YGeji66JluuME2GrI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-01T21:06:11.129Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Юрий Вольф-Вурдалак"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/Lx5NPJDRGTGT60vn7q36Gv9J7avfFbfJu2ap7ydHSt91jnAR5qWFQLWtmbaY1khLCVhbxbRyHbWQZY6x=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rock",
+      "punk rock"
+    ],
+    "title": "Маяки",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nG5IsDRYfDb9LPLZFeyuwp6ga6v0LuPlo"
   }
 ]

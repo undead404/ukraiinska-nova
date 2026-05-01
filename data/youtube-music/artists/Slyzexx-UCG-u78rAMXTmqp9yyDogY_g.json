@@ -3124,6 +3124,10 @@
       {
         "time": "2026-04-14T21:08:40.023Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-05-01T21:08:12.563Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -4911,5 +4915,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l93Phn2k4iZFKKqaW4-u3BylOcgp5qHaU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-01T21:08:12.564Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/o4qz_od2dm3j62TXXn0ESHVfy9DcoyUarB8rkbA1rvifcaOSpgtmJZatEyvueXZStbU8ZxpQi-oIWra7=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Літній танець тіней",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mbyUxAzM8cjznTJfH3890naAz3C7ZMIhk"
   }
 ]
