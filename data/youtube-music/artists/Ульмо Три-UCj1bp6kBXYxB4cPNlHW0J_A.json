@@ -663,5 +663,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lnlAB7yDCxPleNHIsRNqFAon_EF0zlKrk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-01T14:12:30.986Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ульмо Три"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/V_oaafi3PAdixcTQtDUg7LvA5_UQFdNc-QgHRZcbcbemE8sPtb-RSC8zegJSe08Fxc-WzPd8kzRqpfHv=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Карго культ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kiZZ1z08J3POhsy2J0ozjryXHnyZvkM2c"
   }
 ]
