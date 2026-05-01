@@ -1602,5 +1602,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nxfi5E9RAnfZVmdgasDiPn6-vCJ3ceo3c"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-01T22:06:25.916Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Tricky Nicki"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/Nmha0FP5Nlo1dRxNfmuMgEc8XOSTDebw4XD3PLWiDUGCU5SVK1tbvhOwH9gvB3Q8YVNOi4Iiqtx9AvGr=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap",
+      "Hip-Hop"
+    ],
+    "title": "HOPE (karmv Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lm6la7v1rby-2Ob9sZF5sX9p5HrDzU1ok"
   }
 ]
