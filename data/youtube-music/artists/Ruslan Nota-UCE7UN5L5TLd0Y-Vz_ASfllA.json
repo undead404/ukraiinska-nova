@@ -1184,5 +1184,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nGK8fHfiytsBNzMUfJCvYkay62qYL2V3s"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-01T23:07:15.566Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ruslan Nota"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/23LhLCIGosH0SI4eNV9sZ0AOnYdivw-Z2xdtSh61LeawKpe9BEiaOhKmkxYUzik2m59wO0W6pJRtvYg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Туапсе",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nkTgjvZ3-Xefz9Q8rBB4snDyiFAGvDBls"
   }
 ]
