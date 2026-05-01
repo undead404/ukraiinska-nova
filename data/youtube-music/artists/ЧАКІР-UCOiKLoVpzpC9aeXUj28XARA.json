@@ -1078,5 +1078,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mw9fuTNzUCsU34ejXsr-Mz1YfH0drfwc4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-01T20:09:17.031Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ЧАКІР"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/xKEomAwLrlxul-wdtM__4qaDDDKgaMv1M0T-xpOvZrvq6m0IFBmX4iEGWlYQ0iitoEH3NdEKBauEBxw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "День на життя",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mtvgKmmLebxkyW0RYEZxLqS3rS4BC7mco"
   }
 ]
