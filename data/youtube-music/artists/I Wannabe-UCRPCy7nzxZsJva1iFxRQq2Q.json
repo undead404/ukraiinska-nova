@@ -1138,5 +1138,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l3MT9-a9eJAS8ikUh_Ol20jgi9IanOhmc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-01T09:20:38.425Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "I Wannabe"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/vV7pm9GE24lbKuKWF7puHk88ri0RZPCtQzwVUzxbn9HDihePmWG3FeXdDVnVomk7BXJL98y_d2B1vOcq=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "dubstep",
+      "Drum and bass"
+    ],
+    "title": "First Rate Job",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nN0P6FedFho9C3Vhf_oqYXhJgIJToJSdc"
   }
 ]
