@@ -858,5 +858,28 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nBH7lYnv4i3w8RLOjxGWTJGvJrBaUmHtE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-01T19:09:36.306Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Макс Пташник"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/QEz7c5n_Q0v6yVXPYIcX44Vxew5f8uvAj2Q40Wx7IYne283mCwgJvIz2y-FTg9cxbNiIrVDsSKkFB3WX=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "folk",
+      "folk pop",
+      "pop"
+    ],
+    "title": "В одній кімнаті",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m64BqMjSujaTv6FGqjNcg6pUswC9WSrp4"
   }
 ]
