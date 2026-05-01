@@ -917,5 +917,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kN7b1iIIgcnvh5nfqjj_8z6qYGvQYJa8I"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-01T15:08:15.979Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Choob"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/vjh1t51qH6cNvaOgGxjD1IvR6IqeASd1nUpcaUd3xfkAgXbwp2JOCocmsAa7Lx0XnC2yayK3mMemHg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Затуманено",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mX218fAjq3bd178051XV-pHp24sGv5isY"
   }
 ]
