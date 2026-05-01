@@ -295,5 +295,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lWn7LFz9F8s8Zefoxch6ra9gLrZC4UhfU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-01T07:36:20.186Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Antai"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/m3SW-PHTzFHsnmPyBZc0GXCBji11I0RSCjYZQbglt4O9g2CxTvV3HPOWcOHwx64Udfm_yxjwkLN9eXI=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Vechornytsi",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lSCKgkpu4Sh_aOYSdXYtxDtMwo5oRZe3M"
   }
 ]
