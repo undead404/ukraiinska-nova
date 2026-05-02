@@ -661,5 +661,81 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lFZyQwyU2ROA1mupUjhOM66o6wz8KKLzM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-02T18:04:48.111Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ZMIYEUST"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/mx7IMGkmXd0qK8WATgCaLoMR9JDQPD8PSGY9FLd6PV2gOozXjMwKcNleL8TovZXYy4pPYcvb08WkU7lq=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [],
+    "title": "День Бабака",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mhlwghUBb6MqG4d32VtDPUzmcmOKaFjhk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-02T18:04:48.111Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ZMIYEUST"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/VHLNj6TsbTpsVTHUCHKzcytDUncMbwJkuhRzqoVVhqOj9Ujf-Sr4pRYKNczHCcgcf6rG6AzreRJahO4kpw=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [],
+    "title": "Monobank",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_knEfDcqE1-zzyx24S3mIJies6z5dGnAF8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-02T18:04:48.111Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ZMIYEUST"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/uSauKsndcxBPUD9C00hMbzNjbgTwXDY8ku7A561uk71NcKmYy0nagFpgYXo6y0-EMoCg9-l9bB-_v-77=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [],
+    "title": "×0",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mG-glf3tZUEHBKzkDYn6q6h76U_Gk-MzA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-02T18:04:48.111Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ZMIYEUST"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/uLkSEGMfOIXcKMzvAxF3VNAXwVklUpBiF6-WN4U4EAkpnnSpxkeYSgvdchnJaKKptc7lEwlhI1up228=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [],
+    "title": "Energo",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k2aeghBvDlh5Hbl74ESpB68QX5a3iplkU"
   }
 ]
