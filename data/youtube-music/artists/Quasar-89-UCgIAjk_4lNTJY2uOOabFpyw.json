@@ -3541,5 +3541,49 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m2yB93Mso5xTJM0OU0oeEQQaMlDW2_sik"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-02T15:06:29.082Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/ImcPjRDgNcD9hH9uQMzd7kq3bBAnMhsrr6Vh3uVxN2BQolCJgoLcHgjIgz84Jf5DfYnxnwk9_CW32CEV=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Падай (Extended Mix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kNfl95QWwjPzh1qY0LA7Qco7aKOc9nUVA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-02T15:06:29.082Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/56_Ee3WcJyMnUM_LsOkATqv9bjT1KizkI4by2rvLxKTf9_s5R8jkWyK45zK9kpJTVhGiQsdLyO7qr3u0=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Падай",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kVEGbh1xuFbXpR9aLB_2xYhXLw4B-2bPI"
   }
 ]
