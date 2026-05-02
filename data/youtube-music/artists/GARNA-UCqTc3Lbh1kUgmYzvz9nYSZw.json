@@ -1017,5 +1017,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nPDJzuZ9y_JarW7Mbh8tAtzMEyxZtqTns"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-02T23:03:55.083Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "GARNA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/cwpRFOvC3Ak4uxMadAawCALcrN96LqGiYfnQOIZNe18kMUlBLJMItfY0_TAVkTiFuB8fvsgzcv3PY14=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop",
+      "electronic"
+    ],
+    "title": "Luna",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mjO-1Kl-qaJu4IYT1PC74aXnZjljj-E9A"
   }
 ]

@@ -1760,5 +1760,47 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m4Uzr06kLoj10VHbzUZ7Y-MyrYEi49tYE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-02T23:04:42.426Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MakeMD"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/AeLrsPW72XRrKMj7d74ObbJpyO3ypSZp_yFVg6S-8i-d2uJYyrzq7YUdJQXwWwuK8Sey0X8X76r4jeP9=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "techno"
+    ],
+    "title": "Lost signal",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kCpbPoOoNhtVgvQK6yKmeRMYy-KPMrUHE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-02T23:04:42.426Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MakeMD"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/oYOB7pI4rM5x18PSc4J8azboQgZujRIL0T9bf_AcEmr_2E51pRHYGl5KvxZ3kRMquMKSTD0IcT596fLi=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "techno"
+    ],
+    "title": "Flux",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mDmwRmnXS7WqB7VHvG3VDBLMmZfUpiyLo"
   }
 ]
