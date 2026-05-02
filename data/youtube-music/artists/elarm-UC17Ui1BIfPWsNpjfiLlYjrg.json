@@ -355,5 +355,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ldp1vUGpq8xna_FQDFA9EXTyaJCE0Q0KI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-02T06:25:58.083Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "elarm"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/ePeWVqFj7AsfcLbO97s44H6pEHfvr8z6HvpHlBMAR0hhu9iExEJWzjvwCYV_0Ct-WXdFjNht46Ht4jF_=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "DANSE",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nXMXsusM5lyJ-3kkSnnM6LbqD2SR40k40"
   }
 ]
