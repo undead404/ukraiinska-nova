@@ -565,5 +565,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ldmfA6XAoEtP23FLRX_620VBa2jjr5byc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-02T03:57:17.180Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ОЧІ В ОЧІ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/Pe8xP4q-oe16fjm6wA-6kBLjMarBa66I_wurzAdiyD6lxIR3OFmneVuFSugZRvQ9Pj60zuJqjwI7X5LoBA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Заплуталась",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n2L2-gPjesidgTy0LEydoMHN7G91g9FoA"
   }
 ]
