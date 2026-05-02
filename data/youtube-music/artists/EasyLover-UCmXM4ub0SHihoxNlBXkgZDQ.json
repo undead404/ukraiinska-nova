@@ -1219,5 +1219,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_krMTySfPzV4M5owVk8MCc81kIIchGvrMk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-02T09:09:39.410Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "EasyLover"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/32L6UK1tjxj5qBjmqFhtYFindyD76asak7PFJfXq1t8yJ5GCw_0614_-xB8pQkZGXG0LM8HPcIHD094A=w544-h544-l90-rj",
+    "releaseDate": "2020",
+    "tags": [
+      "rap"
+    ],
+    "title": "Самотній",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nkEAzmRA5elANUrZM9kvkTWX8XCvbH5Ok"
   }
 ]
