@@ -587,5 +587,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mQfRl7WWMTwF_cBwjZjeV8HAUuxQQDBGs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-02T00:04:32.980Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Averin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/OkCpZhb4nDrOcbi9jZUizP3ne8V1EKgjKYWpwawo7fjABigXS0TPNpnASFViNQ3eiw1R53STI3sukCE=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Карі очі",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n9KsGb4A4MN1TxFSGPjmQenEFviKsyg9U"
   }
 ]
