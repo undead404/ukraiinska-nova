@@ -283,5 +283,62 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l0Ct3MK9hVFc2JGtGdQlEBaaYqbwIc5vs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-03T08:21:57.459Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CJ Mars"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/XbmEW9urbQ7EucRc1oM_C7mPmJSQw3RqvgJlgbeajPM2s_Z6KxYrRE_yN-srE4SUEiP-0-GHPPqPRyUTNQ=w544-h544-l90-rj",
+    "releaseDate": "2020",
+    "tags": [],
+    "title": "A Breath of Energy",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k26xIQvFqUdLbj1SDn3GFqk4yW5--AhvM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-03T08:21:57.459Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CJ Mars"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/wGQ4e95YZGB7kiWgdlRBWgcov5IYQIasOY-ZTOkce3AjoiLUodUU9347a2j4uFstd5b7RoLqYw6a2YY=w544-h544-l90-rj",
+    "releaseDate": "2019",
+    "tags": [],
+    "title": "Sky is Not the Limit",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kKO-87zNZZLtCof9aL53722Lq6GA2vVNE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-03T08:21:57.459Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CJ Mars"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/XAlQfWNbytEzS-yjrd1LJODxUna58Y3xvXfSvQttqmMd99CTEEPfHZ99GC7BWh5dABF_hXaWm_F28Vyt=w544-h544-l90-rj",
+    "releaseDate": "2019",
+    "tags": [],
+    "title": "Kick Duck Dancing",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l48_xP-LULzQbY7JjDKcKhl5tvcW5sKTk"
   }
 ]

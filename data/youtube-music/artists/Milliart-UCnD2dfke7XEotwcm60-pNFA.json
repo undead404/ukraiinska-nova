@@ -302,5 +302,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kq1rayYkw_lSun9A9Dm4mKyJV1SCEhjxo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-03T08:22:44.481Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Milliart"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/dC9gLH56cf18u7kEIleBNPMqueAdPQOU_1fHrdaX12EHeyjhSn0glsguz1JIicO5h5BSKE-No6EJgaXe=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [],
+    "title": "24.02",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lGv00u-aqu3akgSHrvpYxwrmT9ydK3hSg"
   }
 ]

@@ -302,5 +302,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l6tVCTOkNmByxdDBMl9q_SxYiLBtgU49I"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-03T08:23:19.921Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Skydan"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/zDIJGitfNgzXFMJpQ8nVVgf64XszFgCgugBtDnr49wCMnRsOV7qwkd5IMILtvkyectJQqkMT78KAujBbnA=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [],
+    "title": "Кава",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lNrYqxOWfGHHqGIjX7toDl12DzdFlq048"
   }
 ]
