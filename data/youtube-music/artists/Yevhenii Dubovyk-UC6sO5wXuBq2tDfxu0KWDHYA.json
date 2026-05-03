@@ -250,5 +250,68 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m5puT0GG58whsLLUnu_XyyLqXYr6cTmhw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-03T15:07:31.449Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yevhenii Dubovyk"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/3TDW2YKX3o84jBu-YZrBXnY5hNUIz_9EEs-5Q_PwL9BoX66Li3aP5biSf1dU0zSwrRAEpAuOGe9cEQKI=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "jazz"
+    ],
+    "title": "Людина миру",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lkq9ImxwYAFL7OAxKB_9R1w_sdTPxN-Kw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-03T15:07:31.449Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yevhenii Dubovyk"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/8_v6QIin1Dywm8_xlv7lAnrxdnCSJnmMnh8dPdL5UvliAYqzJVNS0HJriPzeQtHP1cdXCU-YLtaei1cz=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "jazz"
+    ],
+    "title": "аудіоповідомлення номер 99",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mLKkNwJTclEbew_aoTQz9haQFz7j5DHBg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-03T15:07:31.449Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yevhenii Dubovyk"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/42GYsD6IBD5zZzXxB-_2FFzhdsqKeMvKcRHf4L0SPb27S0sn43n6UwmVgAsBTb2osM0MTawx6DSP2Ej-fw=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "jazz"
+    ],
+    "title": "не цейво сам себе",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lQKRHc0ElGU17xqyvncg95EMm4-LmV_ZI"
   }
 ]
