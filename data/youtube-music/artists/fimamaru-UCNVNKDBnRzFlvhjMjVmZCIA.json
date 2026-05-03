@@ -457,5 +457,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nSigdM0LOdH1vBcxHH3R4P7Mr8ssqiaHE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-03T00:02:48.935Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "fimamaru"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/FvetvZQFNPMjbGFNOMmHNCBIZaAvxFzxY0__DTqbFanYTPpgdPF5E56AhnniSeTUyCtB82L86svKw6va=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Останнє літо",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mTl8ToUeirzhDI__ax26QkitR6xeWIdfY"
   }
 ]

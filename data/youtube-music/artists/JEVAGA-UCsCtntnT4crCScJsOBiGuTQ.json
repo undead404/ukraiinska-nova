@@ -397,5 +397,68 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k9umx9hBl_gTftNM8S1rkXqYN_-LkBH40"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-03T00:03:11.653Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "JEVAGA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/LX8UQm2UpcyiZAaPqsJhZd64ogpIRTJmwdgHjM02VAkEryxgcngvxwMvH_PPi088vC20ntrKnH9su0jmhA=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [
+      "pop"
+    ],
+    "title": "А потом",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n5j8PKKfO7TM8G34qDZeC3cbOUxWsrWZA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-03T00:03:11.653Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "JEVAGA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/K8U3FR2monhu--XyzGxUOH-UHAw161o11QlomMB_4oB1cMFXduKK99-XEG3xzjGJkOcMT4VBATLDbSs=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "Мова тіла (DJ Limited Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mvDq_70RTS6qvlC5C00RwuHwf5OoJru10"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-03T00:03:11.653Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "JEVAGA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/pGKV0OGykcnq8JzKz17cP36XdJdS75_mgEtrYxzZwXjbd3p3zXLOqn4pGtDjtqYMTWcejOI21AcXlkeT=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [
+      "pop"
+    ],
+    "title": "А Потом (Lavrushkin Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ksRuxqpxOVdBGiozpziHR_dYP6r4yYDWI"
   }
 ]
