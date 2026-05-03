@@ -283,5 +283,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m1YTE3Pmu4vqkPjAGoGoEQNJ8S43Mwtfg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-03T16:03:18.606Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MaNeko"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/ggitRbjI-jPbvjBFx7GH6TzbkgDiAKxI4Ha-JbQsAotCARmdjW2SLoPxovtiQYRNrGBdWfaT28Hd0vvb=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [],
+    "title": "Твоя посмішка",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lRQP0ENC3hw7jBnmlKh9RizV4gUoTqt2g"
   }
 ]
