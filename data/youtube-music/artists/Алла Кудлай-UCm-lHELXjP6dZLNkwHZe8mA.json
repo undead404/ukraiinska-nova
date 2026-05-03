@@ -292,5 +292,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k2u2WSKELWmLj9TO4fzV14ljpklKabQys"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-03T11:04:56.028Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Алла Кудлай"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/3JcSDd-gB2NmaMlm_rJJ19vhXGNm3hDpPuguPshJLkDPGW1ej3T_CQLXYtVRuvndBeqlwyDcgyHhFgwG=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "Ромашка",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kz-FCh9Gih4XFVVrJlvHk-78EDxcCpCVI"
   }
 ]
