@@ -473,5 +473,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n_nSRwu4BxWTMlT405t2VAXRN-7AFsuFk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-03T04:09:24.711Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Roman Crash"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/CwRFXjx1gy-QHjZvlu36YxpOk6tgCBkufrq8NSenW16u3NLgNrzradLD5lEDAJ_M0Kzb5OpfeuWTarwWrQ=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [],
+    "title": "What You Want",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kN_Lub7e2JPQgph_I1PmOPVHtUlRrzd1U"
   }
 ]
