@@ -4,6 +4,10 @@
       {
         "time": "2025-09-23T22:45:11.075Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-05-04T22:08:19.467Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -23,6 +27,10 @@
       {
         "time": "2025-09-23T22:45:11.075Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-05-04T22:08:19.467Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -42,6 +50,10 @@
       {
         "time": "2025-09-23T22:45:11.075Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-05-04T22:08:19.467Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -61,6 +73,10 @@
       {
         "time": "2025-09-23T22:45:11.075Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-05-04T22:08:19.467Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -80,6 +96,10 @@
       {
         "time": "2025-09-23T22:45:11.075Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-05-04T22:08:19.467Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -99,6 +119,10 @@
       {
         "time": "2025-09-23T22:45:11.075Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-05-04T22:08:19.467Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -118,6 +142,10 @@
       {
         "time": "2025-09-23T22:45:11.075Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-05-04T22:08:19.467Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -137,6 +165,10 @@
       {
         "time": "2025-09-23T22:45:11.075Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-05-04T22:08:19.467Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -156,6 +188,10 @@
       {
         "time": "2025-09-23T22:45:11.075Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-05-04T22:08:19.467Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -175,6 +211,10 @@
       {
         "time": "2025-09-23T22:45:11.075Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-05-04T22:08:19.467Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -194,6 +234,10 @@
       {
         "time": "2025-09-23T22:45:11.075Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-05-04T22:08:19.467Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -213,6 +257,10 @@
       {
         "time": "2025-09-23T22:45:11.075Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-05-04T22:08:19.467Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -232,6 +280,10 @@
       {
         "time": "2025-09-23T22:45:11.075Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-05-04T22:08:19.467Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -251,6 +303,10 @@
       {
         "time": "2025-10-10T22:45:13.567Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-05-04T22:08:19.467Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -264,5 +320,556 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nrCS6Be1BNwx4P0TOCpnP_fUlAAFdBkFI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T22:08:19.468Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ДІЛЯ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/nA9sJ9XuBdXiwr2bUOlLURYZe-DCeWURtTz3M8-dO9a-MBKusBPe4CpJzZf8lGI0RpYiZMz96jddt335=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Музикант",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ktxfOU0uir2PdV1Ug2G0hox01y88HOUHQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T22:08:19.468Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ДІЛЯ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/hATKVB1o3vUtXxHO8LjzvxWWNpMT57UltM7H5rY3xpptujk_p6ZngateDpJmAt9YZ3BjXwGrcO7PEQg9=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [],
+    "title": "Орел (Веснянка)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lDS-BiAK4AXdkVgF-oCCjIMUJG8EB5Amw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T22:08:19.468Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ДІЛЯ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/qwU1Fbo6wGjYnI1Ch7uTp_fuWAQC00haDoEwoMzcdDJK7uRN8hyQ5pYiHjPwqVeXd-wepRFCwJ3-rgd7=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [],
+    "title": "Адже з нами Бог (In Natalem Jesu)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kPZ8VO_dPlg77lMygLpqQeKi1kcWNwd1Q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T22:08:19.468Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ДІЛЯ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/eO072RR2Gw2FteX0g_Z2Pb6dnX4MumgvzfQTW0Noi1c8QNArHy4dKbf_JS4CUS6xE-EnJfF-BlteSq7f=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [],
+    "title": "Герої",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mDwlw9XuWWTXzmpLnit7IT75fR2_GgEw0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T22:08:19.468Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ДІЛЯ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/VVgvYpDSNYG5qJkBkbeBVqdEd7Q_47K_0KgLJBJD1T3loWSceETijTQ4gp8CL2hW27Ljal1sKKqa1_-f=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [],
+    "title": "Кохання пройде крізь вогонь",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lmd8cn_L-zw2fgtE81BWNmSxYQtPKXUHc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T22:08:19.468Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ДІЛЯ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/OtUkGdZOTGmymSYOZbkQRO_FQlNr31cHuEHp540Wa5JwAFqP90Fdj9-aIEieHAGQmEL4iVxCXvemqKpI3w=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [],
+    "title": "Така холодна ця зима...",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lqNe6IJGOwADLNTm2kt_CEbSMQUqTXoq0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T22:08:19.468Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ДІЛЯ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/8LtxikudnA7GF4mt8encVxIV8EUn1eEwDHIH6kxQiPIrtnQKf28N10BZ_HV2_Gh7r7eJW6XLls5sGAM=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [],
+    "title": "Різдво",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lKsb0nzY4oZFSMRglAbvP_9U73HWQG6Oo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T22:08:19.468Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ДІЛЯ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/00MXMvNFGmJ7j8zM7fSqJzUylTwzU72kZjxc5QL3wLcPXCEudmAJyYQxQL4vncCo8j68s-bKKTHHhzrUVA=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [],
+    "title": "Все буде Україна",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lYCMrgNbO8-7XY0DBtnF-v6bjs6TZmjjs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T22:08:19.468Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ДІЛЯ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/fp2TUa1PzY1g09_54wBP7pcJ6Cix4tNVuiDC2rb6fiHdJw7biQxSH47qFyfcLBdxMEx17iwuxf-UIso=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [],
+    "title": "Зозуля (feat. Jon Durant)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nnAC575Y1jmKM4a60hL18eYBiouaQK8tY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T22:08:19.468Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ДІЛЯ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/HT673eKI-14NoM5UavTAZG1-fB0q7JCjE2Cac793Tc-0dspQPfOx9mMpgsSZ71m5uo2e9-Z1dXSB7S4D=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [],
+    "title": "Він і вона (feat. Yulia Vovkanets, Jon Durant, Kingsley Durant & Colin Edwin)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lanPnWJnnnx0ntBTcnyPZam-CQzGj9BPw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T22:08:19.468Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ДІЛЯ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/T_1OjE1B2MwsrTFZgsYYKDPTXgdqaM0BseotDVybdCwMWkIqR0ZNAXuFdJGCfhJsIwAQLLnOccKdqfro=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [],
+    "title": "Ми - Українці",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mm9dK2wFh6ap4RXaw5BXE13LaBSXjvJao"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T22:08:19.468Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ДІЛЯ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/ARA4m4vxHv_LY6IgEiZrmSuBrmhCXHGIewO818vNz8-E-Hhftz6kaUASBjE-CiMr1tnSDbj-hShC8txPAg=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [],
+    "title": "AFINA (feat. Jon Durant)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n_escwTJAbB2F2sI7i7l1jNiytMNU9wc0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T22:08:19.468Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ДІЛЯ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/oJdFCf7kEQfuoYcJGE8t-6MFsqtBRkKGfRiD8HVGgR3mTccVd4MyYBqmXiyM5YJStEGV9QZwrQtv-c0f=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [],
+    "title": "Маріуполь (feat. Jon Durant)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mbygLVhgeNiQFO_wxdX-IDTqD6-sAyPR8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T22:08:19.468Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ДІЛЯ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/jEIVn7euuL7JULKYL4lVwoJmVqefP8ru6kPv-OX3-IWVzrrxlVWic1TiZ-8mciTLQqmtzEEcWkGoXJc=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [],
+    "title": "Непричесана",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n2_tHJtjSJbL1FtAhedezE-zyWHIoRknU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T22:08:19.468Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ДІЛЯ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/JEDM4XJ74R22hx7Yj7tmRPsgqJYHkZVJbRbrXlDxwuV85Uh4yDa19G1wder_A1cd5drAVEOiQWWJOXJvfw=w544-h544-l90-rj",
+    "releaseDate": "2019",
+    "tags": [],
+    "title": "Так приємно",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_khZIfnCVnoqF0rUJHjnnwKtCBSxbe3GK8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T22:08:19.468Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ДІЛЯ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/WuPKCchFsUuzwSzjRD-MyN5SU-v5Yyqjmjb0ovM1DeCRDUyhrj93B249ainw0qbIEJTILFQVoO0UTQZf=w544-h544-l90-rj",
+    "releaseDate": "2019",
+    "tags": [],
+    "title": "Небесна сотня. Аудіоказки",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lVo401yW93TWWofsHrFz2XFQD3IzVJd2A"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T22:08:19.468Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ДІЛЯ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/sAyBRsVokdrbWdcG81XrcUYj7BOMpjD9u4rZeF4SwaV2SMVvyg08VA5DdP7QZ5ly-Etf2QLV0JYXrciT=w544-h544-l90-rj",
+    "releaseDate": "2018",
+    "tags": [],
+    "title": "Слушай...",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n6EhvIw63luJ7vIFSBHcieTy59NN759q8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T22:08:19.468Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ДІЛЯ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/YenZvHzuAjGsgSRrPNX0U1N2Jytv59jNMXQsAVMMABfIF3uvmzaqcIdd7MD6iM3a2Cm7pGla2zXY3TVP3w=w544-h544-l90-rj",
+    "releaseDate": "2018",
+    "tags": [],
+    "title": "Сьогодні",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mmn_Gn7uUzyaU21T8oJPcSSVHHdxCpSmw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T22:08:19.468Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ДІЛЯ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/KqxEtKbFoi6YwyqyQThliGvfovt-BMtlZchP9EBITYfD3VIp2mwIjwHsJKNoUNEbfc3dHMPa5SFpxkoB=w544-h544-l90-rj",
+    "releaseDate": "2017",
+    "tags": [],
+    "title": "І ти знову ідеш... Зима",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nyXUhZHVLLDnqGUX2Rdm38YskkgFwYoxM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T22:08:19.468Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ДІЛЯ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/4WJnUupCTmdSns7kj29QLcCtTEcrt9_Du04lJhlVizElTSYhy1gUeb7n0-1R6-2c-xZiMkcka8vxecc=w544-h544-l90-rj",
+    "releaseDate": "2017",
+    "tags": [],
+    "title": "Лелека",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kvk8w8KTxtkJAjeUKgj-hQ2YiUOADo_rg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T22:08:19.468Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ДІЛЯ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/c8oIdD-7uGdeDpdGGbpozoE5dBamZS0RV1H7gBUTzuf5lMlBWRa0XMcEYhQBjGFE1paKOg9VFp6Jyoc=w544-h544-l90-rj",
+    "releaseDate": "2017",
+    "tags": [],
+    "title": "Зоре моя (feat. Freel)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kEMNNbaHL0H89JuIFmD42W3ApcQYnYHhM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T22:08:19.468Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ДІЛЯ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/14SRKPkVE0iwDHlCbz4JcCJ0QZgFLQJbCxOgv1aHEgt9W2NoQOsAbizE5NytbRCYkQOmk_i1jpcRPPI=w544-h544-l90-rj",
+    "releaseDate": "2017",
+    "tags": [],
+    "title": "Єє",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mo5xvRG5zZtw9SwOsMCKtVhbnWShNJ2Bw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T22:08:19.468Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ДІЛЯ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/jW0cGmJ3EfCQesYgpVfvntCFalh_lMcfdtRfEYBKf9RECRx3ayCUZZRPwakrFjVFoXOuGAdam5oinf_5=w544-h544-l90-rj",
+    "releaseDate": "2016",
+    "tags": [],
+    "title": "Paris",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lWTjVuZYsNJh4t0xpxlpz6Y2BkBu_Gewk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T22:08:19.468Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ДІЛЯ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/QoWnCM-bu-xCsADWmnt8XVpxu2amwXmkC650WYVip_4G7RgMm--6YwXlcxEfIKHdp_mbI7tYKOlBaOpL=w544-h544-l90-rj",
+    "releaseDate": "2016",
+    "tags": [],
+    "title": "À la veille de l'automne",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mWzRC33LfHg9U1N_Dm-0ugZ4HqUFiRBZo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T22:08:19.468Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ДІЛЯ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/FcH3bUCV9XMRgVheqNlzsYpiJe-E8OtyOHgOU7Q2W9hml6TGrxhLEPhxrLjx0KYjZZxhYSPuiSFTDOYb=w544-h544-l90-rj",
+    "releaseDate": "2016",
+    "tags": [],
+    "title": "Новий рік",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n9cxu9Va3jrKqjVPCjMDqIDqzkwn4HXNU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T22:08:19.468Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ДІЛЯ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/DKPs1MXc_fzX74iLVbuPJts8hZiODbKKEwdu5hj-aVrLcu6V5Rd6vzMgx2K7AGI1hjunOAWDp6HaEWRp=w544-h544-l90-rj",
+    "releaseDate": "2016",
+    "tags": [],
+    "title": "Щасливий",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kon-0A_Ks0wIHQzsqkROaXf1gnCKY-w9k"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T22:08:19.468Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ДІЛЯ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/qwj-G0Ln2Si-wf_cA5t_Y6R4uEbIGVuHNTSGozZkthmS3r2aq4oZDNz4e6GJusIUKQ-J8Lb4cWPszv_4Vg=w544-h544-l90-rj",
+    "releaseDate": "2016",
+    "tags": [],
+    "title": "Байдики",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kkhXOGC7o93AU2aYQcgtJeHJAT6aVw-g8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T22:08:19.468Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ДІЛЯ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/JVdTCfzFxXuqmp0YwJEL64G--1-MI984xfvQqMBvg22M7PaUzCnIGZP-K8Y_8wtt5IxsB9evWcFcAb5x=w544-h544-l90-rj",
+    "releaseDate": "2015",
+    "tags": [],
+    "title": "Gabriel's message",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lTDQ6A8D2swdHYdL2DeXQr0YcurPtyQxk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T22:08:19.468Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ДІЛЯ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/cbadddt3rxsTIteqwGN-DUgzLF9DM92qxVI68J8Hz44xbnZE_QNsi4VoO-wPLljPDmvR0oI98DjR6fzCLA=w544-h544-l90-rj",
+    "releaseDate": "2015",
+    "tags": [],
+    "title": "Смешные любови",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m4_fcdiw13IYWwXOYa9_aInm5WhWbvua4"
   }
 ]
