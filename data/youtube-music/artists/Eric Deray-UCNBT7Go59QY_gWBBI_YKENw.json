@@ -2441,6 +2441,10 @@
       {
         "time": "2026-03-15T17:55:57.575Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-05-04T17:18:35.706Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -3054,5 +3058,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kF7f5TMN6RBcPELGJMlYOlDvn-qPwr4OU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T17:18:35.708Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Eric Deray"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/FQ8firG7Qa8GQVpIUV2PuMhabDLThIn_YbUQVbOdo6ZS3aOz6mvGXJFqZFzSiIUsVpcfUYd-j8z2j-aE=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Tokyo Drift",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mOeh8YXtheczzyHYlRTHsjmHx6CJaixpM"
   }
 ]
