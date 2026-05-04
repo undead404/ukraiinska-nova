@@ -297,5 +297,28 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nD2jmu7TRk8IWwK5ILngqRDpVEIYnm0Og"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T12:15:01.800Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "поживна цінність"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/C8VqQ5iOPLlWOMXrmbKpNbZb-Z3Vjl-LpxHI9NuO_lonJjaitOtBZPno-QcgszAJPgr6Cp29aUt4X1U=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "alternative rock",
+      "indie rock",
+      "new wave"
+    ],
+    "title": "повернути час назад",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nmD8OGRv3OQc_xNMNe6MQe3RWntK0-zTw"
   }
 ]
