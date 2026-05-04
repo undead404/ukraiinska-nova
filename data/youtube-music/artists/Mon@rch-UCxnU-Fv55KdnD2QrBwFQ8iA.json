@@ -790,5 +790,62 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nzIvIbYbXBX_zA3HzzMwBc4B0WtH74BxU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T21:11:27.697Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Mon@rch"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/AtkD9KkrCepjYH2BNCb1CnZJfqG1Tn7vnJ9tIqrEvfrZnwGvtYiaB9y97QNSl5m1XqH2Tdj6LbY5ZGHT=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [],
+    "title": "Wings",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kABlD-sLRZtfsYgRKHReiax8qogjzQkOQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T21:11:27.697Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Mon@rch"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/QLTCjKCdhb5PShCJ_ja07uHdwA8qcUiLIsnNEUCpnZFrr5REEQONRrQ16KBixSUhOxdIr86E3CyUJJer=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [],
+    "title": "No Love No More",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m818KTQNn7WkZTqNDn9RBIS0Uw7bnw3D4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T21:11:27.697Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Mon@rch"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/SvE5varn7KsD2CDk5OUMtUzWmr53-PlmKcdC6BloEV-b6lKuoeJH1HEuOgsmyGk3ntv-lZeg3qX-rGSfGg=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [],
+    "title": "Фігура Ламбо",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lyhDNmGoMTUngoPtL-KxqXdeV7wBS6GdA"
   }
 ]

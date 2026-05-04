@@ -530,5 +530,43 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lXXq10T-dwCbPTJQDHy37ooL0R0HQpH1M"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T21:11:42.969Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Pospelov"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/QHRMZDhpH6rEw4VdG7JkTYrM2E4nvfT8fq1W9gfbosHh7jr4fTmNwUHWVRuxY7tQL-67aSVTiBDhD9w=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [],
+    "title": "Гербарий",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mZkdsg8EZnPa2xbFE0EBEyOXemU5Md3BU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T21:11:42.969Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Pospelov"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/ULhSYni4uTFjcpVgi3_sZ-nPX-RPRHzkuvC6qMh4Cx7pmSLCB3MoSyg4aJ0nzFz6XCM_D-HWQ1Cs1DQ=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [],
+    "title": "Tok",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mCcxDMXf0nz7i0P82g051EKsnlwgDWhIg"
   }
 ]
