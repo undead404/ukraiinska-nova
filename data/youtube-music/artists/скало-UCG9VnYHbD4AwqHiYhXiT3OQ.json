@@ -455,5 +455,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l61gIniBXVUGuB5d3xZlu2an-SRy9HVTc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T05:51:02.994Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "скало"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/gFWw3JJLbp4S-wN69Sl6YRI-uICUrnxy_eQ-0B5CS-ANfm_2WrnQy2U-a7Hhi4-3AMTzylRnolpBkWkS=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "rap"
+    ],
+    "title": "Рій",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mIwM75RnmOwiiHPqAuwnroad6GEfLgT7U"
   }
 ]

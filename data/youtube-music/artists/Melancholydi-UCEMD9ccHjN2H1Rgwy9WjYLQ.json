@@ -80,6 +80,10 @@
       {
         "time": "2026-03-06T05:11:29.076Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-05-04T05:52:35.000Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -207,5 +211,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n9B_iP4i9c_yZ8UDAng7z4T4WPoneU0IM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T05:52:35.000Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Melancholydi"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/gUkuPT7l-a3V2sMurwVWEojiRfVjzzxIVe5iOX3wpfuWqWl3KujH88vBU-GwxGRnC62r3jBy4bpxEXFxcg=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [],
+    "title": "про дощ у києві",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_krtwsIgk8m3TSoHBANo3FfzIxJtmmWbVo"
   }
 ]
