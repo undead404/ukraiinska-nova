@@ -264,5 +264,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k2UeL77tf4HjHAgq91TsukDNhOLk_GBeU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T15:28:44.401Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lussy Sky"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/MUOZt5Qtzf5nRT81S1CwTuS3F9kgaOfkJdLWkNU1wj0ALlIqXJxSvL0ylVdoBbjCozz5MvxUKr5G3Bpq7A=w544-h544-l90-rj",
+    "releaseDate": "2020",
+    "tags": [],
+    "title": "Емоційно залежний",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nvT0W5VxdgInoMOTy_LzLzLA3noeFM6yU"
   }
 ]
