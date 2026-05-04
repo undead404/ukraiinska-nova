@@ -207,5 +207,43 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ka2pN8j_dGLG39vYNViBf5mJ2iH5Gk-A4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T04:08:06.336Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SHNAPS"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/Hmx5xpctrhGHdxmKvxeOm0Q8h270s_lLfawQ6hPLO41zr35aspdzWEy2XDWBvaBdOu_eFb1Pm8Rpphvl=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [],
+    "title": "РІЗДВО (Shnaps Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lOd8I5lI1MT-UPmQWaJqLvj6HXhcL_5Ls"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T04:08:06.336Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SHNAPS"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/ZRX6uiKmQkH8PA-3ldiA8UylQHfM4xyPdxJG3lPC-ZpBMRrIN3VUZlZeRhXQcZXsVry0KfsjMgiol2EC=w544-h544-l90-rj",
+    "releaseDate": "2020",
+    "tags": [],
+    "title": "Maemo (Shnaps & Sanya Dymov Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nEkNAZUt-YFXZ40BVEpsUBO2_7XjLGIe8"
   }
 ]

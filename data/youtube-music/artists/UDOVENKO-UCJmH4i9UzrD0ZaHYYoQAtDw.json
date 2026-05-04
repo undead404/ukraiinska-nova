@@ -207,5 +207,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mhLeNgj3ZNP6D9NeMFZuKljniHKrUld3s"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T04:08:47.411Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "UDOVENKO"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/cxheU0tf2UhuzD6kMAdZvKyyWxBofVQq0p3634L0i5kU7-sTyCczMHXyZENyS9WEW5-4Jb_rMW6p7l5C=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [],
+    "title": "Пташка",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k215YMDW6lM6iJ1CPjDFyfWZDRWNN3vLw"
   }
 ]
