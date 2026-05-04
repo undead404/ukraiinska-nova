@@ -1119,5 +1119,62 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nT17hZIb7TWM4MuYooRwNsU3AYzVEabdg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T20:14:29.371Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yaroslav Tretiak"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/_HbKzeh-QDJrQdVTpg5AigqEYtbS0G5YpKbApxop7UUkpVVhm8JIZhA6YWRVx4nDXqJmbBw0-gCKosNM=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [],
+    "title": "Sick",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n5nck-oFqhRqSu3yCPD54_uWz2cjFu9WQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T20:14:29.371Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yaroslav Tretiak"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/0u6A-RDxaHgdaWg8gSdXN3tvFUa4Toq3Dcm7cwxRYsxhXjGpLexS-T0cmQZJiiMRox2T3kbGI8SwiWbL=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [],
+    "title": "Reboot",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lkjHnI7NX5Gj46tvekol8GSr95RBSUyr8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T20:14:29.371Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yaroslav Tretiak"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/-KUmz5QnkpLfU4ZLcWcDff7WKmeJgDEoGfRqxRUPD6MaV7eZeGzthaVy1bSKQdXWay4uuNQuWD43v3FoSw=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [],
+    "title": "Chaos",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kj8VGvX5m23qbm8YTUoOWnQN0NrbdZFBI"
   }
 ]

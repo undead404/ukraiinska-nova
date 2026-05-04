@@ -641,5 +641,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nhjtSmeUeE1BAEYFdviNToLemjaVWQhgY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-04T20:12:35.566Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "діти інженерів"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/4yRY8N7aNFDbrqYdITLx83I9nAGj8kDfbwBLptmmylWDlJoR9cZgQmJlSSoe5LG6T-o3Xi8Xc27Gfng=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "Garage Rock",
+      "punk rock"
+    ],
+    "title": "Травень - кращий місяць літа",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mflkYWSgClR4yXFI8W39gQDCG5niLdjVI"
   }
 ]
