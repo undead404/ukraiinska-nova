@@ -208,5 +208,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mITL_RneSIcBEevVxFLww_uVUbEF_MI30"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-05T19:11:45.660Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Manin"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/p9xfvVLF1hcvd-JNxcOjGaHwZpQyf7j8oBEAPAl8yErSXrKiQtmtBb3H6HhqS_DWn_J6j-lJPxCmlQU1=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [],
+    "title": "We Are Strong",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kIXoy4a7XEZcMBPZolc53zigVEEHE_noY"
   }
 ]
