@@ -877,5 +877,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l2Cu9yKxM8ilfwC9ZUleEtVc2vjJ1drho"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-05T07:30:08.048Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Domiy"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/KEUQk1RFxHNsH5j9SpWw90iMgHLSF60Chk7cWZYhggTVI1m5jOK11cN6ikMJiuPMUS8OYKBWVXgOFBXB=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Дорогами",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kpZDpKJs_L7v9DpOH4klgvORo0P054tjE"
   }
 ]
