@@ -3078,5 +3078,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lqGZMlNKYP2N-ASsthdTnhVkpmdD_iT7w"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-05T13:14:02.348Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sysuev"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/HsHHp-s-4pJX1rEC_lkpelmTM3VB1M4vumbtTnrBsKOiytRmZzw7EpojaUCvED0dfXcWIjrKKDgcAzNr=w544-h544-l90-rj",
+    "releaseDate": "2020",
+    "tags": [
+      "pop"
+    ],
+    "title": "Гучний двіж",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_npJ56zsSmOtQIKjn7ikfqpB77_nvhPWVM"
   }
 ]
