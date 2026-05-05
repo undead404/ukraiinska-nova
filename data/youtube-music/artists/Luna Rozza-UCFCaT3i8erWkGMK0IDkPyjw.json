@@ -418,5 +418,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mIP8tELxIHQwr55_mrJTvdHycx-NTSgJQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-05T12:10:03.791Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Luna Rozza"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/pGxCaNu90ZGta7VlrxSQBl8mXMaKocfQPttVoyRv8szc74Kn_2e7Hh8xv4-FxLDMJz6W1SF8Tw_E2r8=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "not just existing",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mNuRm7SE8I286ewERliq4IjGPoACnQv5Y"
   }
 ]
