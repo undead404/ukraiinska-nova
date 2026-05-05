@@ -530,5 +530,43 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ltPZ0a2KsJ7rc2Y1qE29dJHumu7Jgb2nU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-05T22:11:24.611Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VLAD BELOUS"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/4y5taIaQW3JotsecHX0C9khN6wzqgW48WwnaRSmYV4BdE9FO4h8KoSCEhSwCiJei4MJ9U7muDzItnvNN=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [],
+    "title": "Обманчива",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nCJ5Gg1kNhMPbINegbb-5QaqpZCtSfask"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-05T22:11:24.611Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VLAD BELOUS"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/8O0ajv8VBR4eB52A93omF7PNoWoNcbHDYMV25CkOukyx0LFv1Fazvyig9cCulJDHClJY7i5Odgsu4NE=w544-h544-l90-rj",
+    "releaseDate": "2020",
+    "tags": [],
+    "title": "Как во сне",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nCj5oov_b4Mm3JU6OIzLYKnCQW5GEe4n8"
   }
 ]
