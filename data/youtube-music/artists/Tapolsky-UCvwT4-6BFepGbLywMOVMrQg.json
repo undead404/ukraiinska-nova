@@ -388,5 +388,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mBE_yyffDllz6JV3T7Ugq9OYM-WpGeGtc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-05T02:42:28.939Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Tapolsky"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/IZlM0syIQCfz-f_vkuv_SmJ5woOYK1-mRDf8KtnR-IsA_E-thvj2ZFGHj6BIbeOCVq9N4Jv4QaeBallhRw=w544-h544-l90-rj",
+    "releaseDate": "2017",
+    "tags": [
+      "Drum and bass",
+      "dubstep"
+    ],
+    "title": "Kaiman / Hyperid",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l72vxS87fotC6XKE6QfdOkY8fSPGombTg"
   }
 ]
