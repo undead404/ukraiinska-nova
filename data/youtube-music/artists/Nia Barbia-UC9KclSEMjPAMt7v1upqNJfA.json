@@ -839,5 +839,47 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kSz2RSCtFF1ep-el3yjXyWj18GjPduMqU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-05T16:17:54.603Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Nia Barbia"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/wkQNktMAODxjx3ldXik_rHWRk7o-IP2x_tejDQaWAUQfKHRb-Px9df4StaoH947w5UB4zHaCsUku6hYa=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Втрачаю контроль",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mN_5bcSKLxFy_oSw1WHHsjFcxGDgMmoSk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-05T16:17:54.603Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Nia Barbia"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/_zymoRtCDHC1SrI4I2Qetd8ouUJzXYTQcs988QxwqolynC29bem0MZQSAEMztwM8zwgRhZQ9dya_GBo=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Need You",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lervszUNkRO23A1ka5KZp7y0XL6ov6ZrA"
   }
 ]
