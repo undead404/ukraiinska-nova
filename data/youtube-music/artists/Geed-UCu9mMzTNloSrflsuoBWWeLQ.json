@@ -229,5 +229,89 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mda2Ox_mhsJdwRaMYMgAVWYPlUye_tK9w"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-05T00:06:09.039Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Geed"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/WRZ3HMgzQlreThas7k6xa_xkakpyybfYZBc1sbPGXD_4iaNm3nS_HVNdU-sXmRM6AXRH9chcmjLtb0E=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "pop"
+    ],
+    "title": "Темно-синій",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k5ELtZUUdU8dS4nzvKtCFwS7YoR_iBwKo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-05T00:06:09.039Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Geed"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/7BWdBhiReA7FaNPt5sbG43VxYT1MA2xNdw6BpEuaHLqd-ky4FQDH2Ru3GaK1bPjSB40nzO7NtesZGoM3-w=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "Несе Галя воду",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kTo8lMrxszzk4jdtIF7iXXQZRRgJhbxrY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-05T00:06:09.039Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Geed"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/URSDT-vll1L8PLhhvZy-cbh1FgMGBxEIR19xxgjYHMhE1qQ2lOKorzsYztyuLiQxtXUVCCHQ7XGF1Sz0rg=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "Здавалось",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kuAPlczREWj_d6mzBSvdzKv8uVJZ9Vd34"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-05T00:06:09.039Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Geed"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/OIPUda_H0w0XWDM8yuzYtlnyWCNit7rQxhU6vbl9ietXwuDHcg-xmhc_Q79Rp1GZHxBjfsMm9uqEQrtR=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "Несе Галя воду (Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kgijbGDhnntcMAZ9F5MMLEc3d6gKxSzDI"
   }
 ]

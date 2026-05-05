@@ -158,6 +158,10 @@
       {
         "time": "2026-05-04T00:04:33.949Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-05-05T00:06:33.105Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -240,5 +244,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mohcNZL5AERooYkPDTPL2vg_oz3t1HuVs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-05T00:06:33.105Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kotra"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/j3vhzlmPc0hObRnEzI7jAdzUcE1X4XJfUyj-D43Yq-QyVTwAjYFGrN7tDd2dMTmk_K5JlZPnou8_Odun=w544-h544-l90-rj",
+    "releaseDate": "2010",
+    "tags": [
+      "noise",
+      "electronic"
+    ],
+    "title": "Wag the Swing",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l2LtB8OWIFmHtlGxkcwrxl3PT6ZhsUyK4"
   }
 ]
