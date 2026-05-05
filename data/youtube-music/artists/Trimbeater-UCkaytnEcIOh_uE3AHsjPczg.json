@@ -962,5 +962,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nc2oe_HTEldyzRJF2TCAE5NHvgmaf8dCQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-05T05:43:05.485Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Trimbeater"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/5VJWO367gtGX0h4FGyPxP_cvwtaqRFONWJflvPDLhe4JlvNL4iyT3Z-dK3oLLK4oO7qkmo8ikNNEw5Ie=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Далео Близько - Дика та Нарядна",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_koGB25IX0EKW3cOtrpWPmb5HqldxqAfJ0"
   }
 ]
