@@ -1423,5 +1423,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n3Ws3lAD8PonyUlEeLcBfkC1v0G0QmRGY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-06T17:15:57.733Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Колін"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/gi5q7MOS7Gi7tutdlquyNtgJ9m8GVnIHpD9LbJCQ0hIdneh_-zrPUskzpmzqq5inZLo1ipg5CvLTIh61hg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "В Темну Ніч",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nIVoLVy5DW1NJvJzRJh6EBocoY6jfSm0k"
   }
 ]
