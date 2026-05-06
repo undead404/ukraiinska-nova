@@ -1132,5 +1132,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lqGZMlNKYP2N-ASsthdTnhVkpmdD_iT7w"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-06T07:41:30.708Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sysuev"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/Qw1YqEVYW86L2Xr6-DXpr6LLwige8MUfuSUNXOIz56p5ce5fFimGqhpkTz49jR9CjXRg7XFv2G-Vf-2g=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Любов - це небезпечно",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kA0Bt_3BznBwna2X6fs5T7F1W2Zjvswag"
   }
 ]
