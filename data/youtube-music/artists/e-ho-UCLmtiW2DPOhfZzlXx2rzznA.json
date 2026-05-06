@@ -306,5 +306,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lj0u-YgtTRIS-rhaJn8jFeyZh6C1d5zUQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-06T10:30:55.662Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "e-ho"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/bizV-4u-XMOUKq1LVwkV0Ui0Il8findpEphd7CDMjrR-J9hh6wrLka8X3zAtoR6CCf5kLgGFXMsstOM=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "rock"
+    ],
+    "title": "У тебе інший (Carpathian live)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nRj_ZzpitFvq-lhEvaARhccEM-YsnbkUY"
   }
 ]

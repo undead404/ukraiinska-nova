@@ -229,5 +229,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lLynzJnC4vUNA1gBLAV7F3mWs8YKUP0H0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-06T10:29:47.071Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Медовий Полин"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/903LJ2p3kqag-2E8bNhLQ3yCdbTZZNMaripUAQyPN3xVPimx3CaF3u5t910nOTZE40XhtP16SixgcW7_Ew=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "punk rock"
+    ],
+    "title": "Оленко",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_njbI8ol-M9-FOaJDaaC5LukD5IPIz4fq0"
   }
 ]
