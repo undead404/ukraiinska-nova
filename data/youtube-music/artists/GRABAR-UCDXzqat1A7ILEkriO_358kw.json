@@ -240,5 +240,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nG9TIDyemqE_JbdniA8ZimFtqtobSuBv0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-07T12:21:33.786Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "GRABAR"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/53kOnLRZf3o6J-JsiLMskgkZLiUPzPIbgIacFBuFtTJKaibWutTuS5YKIgR4Us73bd7nDjL1uNQM-Jo=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie pop",
+      "indie rock"
+    ],
+    "title": "тера",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lqc_NijygdXyXeU2HlvpFKl9ub4-jg-Ik"
   }
 ]

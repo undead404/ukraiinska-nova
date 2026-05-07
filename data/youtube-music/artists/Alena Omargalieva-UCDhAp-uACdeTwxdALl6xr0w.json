@@ -902,5 +902,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kvuKc8B2C9towdv-D4vlRq1UyobySguRM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-07T12:20:57.916Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alena Omargalieva"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/my8u7FnGzsFOsOt1Xqwo7Lrwox2A0ko4d-4zkIdY_Vl5wq4s2bCdwhYrsG5QIuDvWIlawN76hqKXJlQN=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Стожари «Дім Звукозапису»",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k8n6dwqXFTsdLv1I0vtHnmbVFHV7RQ6pU"
   }
 ]
