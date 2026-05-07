@@ -1106,5 +1106,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mFdkzs_P6V9QKzQtofAuoMgQ1KkFQxEBI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-07T22:08:20.279Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гошуля"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/IAlQ0AKBW1l2ZnkknFPs-Y3fpJKrIjaXDBOUU-Q9wtgj0blWzSCU9baH9iOZ5Osk1sJAXvR8Crs8_R0=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Сканер",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kg31hA2DABpgyGa4Tvc2UtyHFJa3f73V4"
   }
 ]
