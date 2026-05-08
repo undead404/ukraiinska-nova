@@ -468,5 +468,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nqYqMZl9ynWPeWb05BDmvK8ZYvsxyUspM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-08T11:11:38.537Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kuaskio"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/WAp6itIqcxgYsEB40pDbqcIygsiQORVOQr0GsyfSUp4m-_H57SsKeQxRmXypGzNeiFumQ1S6CuY1TCPH_A=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "моя утопія де вас нема",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lMuL4wIBLSKRSr2DcK8_H9WJAKJ5nDXeQ"
   }
 ]

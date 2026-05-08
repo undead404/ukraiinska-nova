@@ -485,5 +485,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nLgfBimIJyeaGkdmA2s7AE5SEi_NAo05U"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-08T11:12:55.568Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "THE ARMO"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/2KhmpvsIMcsPh8nVL1xDgBqaSsU6GstwDgD3BSsKyKCJljbJqW46y8Yb9II5T-GWW6hsbRyBYcrshxc=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop rock"
+    ],
+    "title": "Київ-Весна",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kmEnaDh0LoFrG3OKWcXku86wB96hrPVnM"
   }
 ]
