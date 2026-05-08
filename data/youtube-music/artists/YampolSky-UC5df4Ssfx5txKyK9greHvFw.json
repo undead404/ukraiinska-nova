@@ -935,5 +935,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_npllXVnqj9m7U1nDj3KnS2ueFutL40hJU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-08T18:12:04.898Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YampolSky"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/oUHq60ZdtgLrrmqfM_snWV8hH19yXngA9ynlmHJo9UrkWQ8OmeVwfPD0CE9-HGf3WepANm0maES1gssO=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Work Tonight",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nQg_9Ye-76ufBB5aeNVO5MlDa4gP6ISHk"
   }
 ]
