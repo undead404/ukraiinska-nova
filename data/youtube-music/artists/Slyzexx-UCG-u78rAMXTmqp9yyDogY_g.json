@@ -3081,6 +3081,10 @@
       {
         "time": "2026-04-14T21:08:40.023Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-05-08T21:11:41.592Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -4934,5 +4938,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mbyUxAzM8cjznTJfH3890naAz3C7ZMIhk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-08T21:11:41.593Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/x1FKFb5pngQ3Jm7N9WDubSiiT8oPoZSzhzglqsJg0TrTf9IopkXx2RaIYD8L91TA8na3c35MpXzOwdss=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Dune runners",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n8DFFCc3evegAoZx1_1HMA-NA_1eJBUgo"
   }
 ]
