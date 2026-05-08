@@ -839,5 +839,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mHvLTK9qoKzYu1kplwFtSM1HCVRdl0Pc4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-08T03:59:36.807Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ostrovskyi"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/Rby2U6yfu0_4D52IRBHNY39cNysYeClZnbchS57kJunQdB042j5vTjMHsGUK6JedAqfIXuy2GDV3QNP3=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "маяк",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mhVm5EBcZOgn7ZXt5zNQfMCvEgPfU94oA"
   }
 ]
