@@ -620,5 +620,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lYu1dLN5LndZU-0GnIF214lwprfdAGLq8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-08T13:13:51.368Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VARASH"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/jbJbGVPgZwCyfQN3X7B2alehmohOUn9xFhaeP5T-W3FzIuU9aPqUoahZzlmtJAdXA86BGL8ATY5ZA9WJ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "ЯНГОЛОМ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nQuUio6rMlErqry6Ei-21pd3u4dlRY6KI"
   }
 ]
