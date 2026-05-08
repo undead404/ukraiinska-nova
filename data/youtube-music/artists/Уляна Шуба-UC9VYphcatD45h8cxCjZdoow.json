@@ -642,5 +642,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mduynlnjI4BLfkhQNEcghRvjsIj-wAzBQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-08T02:40:39.789Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "УЛЯНА ШУБА"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/vtZhup4XYBNgcontF0h-65ijqe5hv-HbhT_dvX-YXnZGq-UTZAc1brH_ySN_KRCohLCinEYGi-YZ5geo=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Фаталіті",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lA9sd_0HWO1FWpacIT8_v9F2A0QnSgBV0"
   }
 ]
