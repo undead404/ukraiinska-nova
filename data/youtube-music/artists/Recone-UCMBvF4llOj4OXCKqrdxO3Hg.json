@@ -229,5 +229,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nmlgi--aL9O5fElFI23SEbTGzg55xu3-Y"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-08T09:12:59.265Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Recone"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/cdDo_srCu16cO7PuoVxu-7rrds0TIpgO81_mwMfCTAH_LoYmIh2tlVxyTiYX2skKWnVpP9_goprom1HO=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "hardcore"
+    ],
+    "title": "Нецілі",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mZStdzXUMD8aTW0sAMESeRJhVsafmje1Y"
   }
 ]
