@@ -1089,5 +1089,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kRK4r9LDLvN0qtIPn6unYM5jwJpZodG3I"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-08T16:13:17.162Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SAMCHUK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/csHBzhFtpL4Aw-lXwNYYTpAXPk2kuCxjcJBfWNICYBriBCO0XWLZTJmIbcrwRsPPfm9nOlVyEAqsE-2wHg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Плакала душа",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lCa8oqHj9KgIQElHEEDdYsP6Wjz0dPpFE"
   }
 ]
