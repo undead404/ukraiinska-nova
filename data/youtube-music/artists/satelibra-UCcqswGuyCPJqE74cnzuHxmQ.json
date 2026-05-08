@@ -1054,5 +1054,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kwY_4Qhqi5T5sCvIH1DIkRqBOFSJYn6jE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-08T08:16:39.192Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "satelibra"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/evd4KSI5__KA6SFOOa8G2Q9EBl_FLXojhK8jqrEXZtKg93z7bko8H-XfzVBYxRbJ0ol4itpPuUiZhb8B=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Юнікс",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nFIVs-aCfWhbD9Dd89Y_4MtbApOFK_ODA"
   }
 ]
