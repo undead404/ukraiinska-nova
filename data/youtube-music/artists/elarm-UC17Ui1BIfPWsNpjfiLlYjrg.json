@@ -376,5 +376,47 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nXMXsusM5lyJ-3kkSnnM6LbqD2SR40k40"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-08T06:20:09.831Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "elarm"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/JyR8ID2_n3V86iNk0ZWHirYHpFeCAeZe9-FAGXE1rVoLNQTs5x4chOfAW52UiApUMnEoL5hmIw6ppkEtQw=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "rap"
+    ],
+    "title": "Corruptela EP",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kyzZURJBDMIngXyGMC0JzpAM-s1zG7kBk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-08T06:20:09.831Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "elarm"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/-XzCTZcg2SUQXATBXRu-6zo-7_5dR2ZzJEsNX9lJRggM94PtdqWj3_qyOjUSEpp1FFiVwbAbECyH0m-ybA=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [
+      "rap"
+    ],
+    "title": "Ripple",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k4SVsd5YD8N48phMZ7WODomxztfYjsszk"
   }
 ]
