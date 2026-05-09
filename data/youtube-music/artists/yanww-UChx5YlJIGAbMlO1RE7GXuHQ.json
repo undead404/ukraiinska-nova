@@ -264,5 +264,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k1mfc1b6VAJIu3RdMWvaF5Z22iFUMzSpE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-09T00:09:15.557Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "yanww"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/9tmXtFXY9TNKA88-rgVt669Jt7yRbFlRdTj29pbY_QfZKlOdHQMbCg7k6fFW5Nm7m0FgCFZSkXexSSXD=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "show me your love",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lTqMDMVHv3zHfAhlRrazrhUHicnlhUkro"
   }
 ]
