@@ -1038,5 +1038,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k47QmZg5sK6Pf8LENw7nNQ1wd-RM1HOd0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-09T13:11:01.459Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CHURSANOV"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/NVUN7FrLkya7QJ7yo7kZ445e0egMM28GaSnkcMfhod-IsChrxJwPwgAESvJYuPcMTkdjbSyYSYcyi5A=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Балада",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kX0u30Bu99KDPVnt12-tIUBve_gdR3__M"
   }
 ]
