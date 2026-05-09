@@ -264,5 +264,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kPXTSVCi6Lqfdt6OwGuNBVTCgd-3wZ5OQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-09T10:11:20.130Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sidorskyi"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/MO8mnTIWcLZrQuGZDqPpJuMl1vNS8M2vFHhLLGiJUsdzlPDnA71H1cqaxe256BUZg1_g4oPuEfR1LFM=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "S.R.N (feat. Rocdwell & Nature Morte)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kcPXpiRbBzoloZZYSIJF5pop533KoBujQ"
   }
 ]
