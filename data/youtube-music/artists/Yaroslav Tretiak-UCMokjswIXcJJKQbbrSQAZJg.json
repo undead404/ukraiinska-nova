@@ -1176,5 +1176,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kj8VGvX5m23qbm8YTUoOWnQN0NrbdZFBI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-09T20:05:15.426Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yaroslav Tretiak"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/C81vVBmpRC3OCCP8XA7oH6gcLASFoQJG2Fg66QwzueQFm36X0qnJGD7nxboot67oeJcrR8TJC4HD4dg1=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Gin & Smoke",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nwgkxUdCMNOuwnXemKJCPFgI9xEkHK6HA"
   }
 ]
