@@ -1546,5 +1546,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ms2JYR2Km-dCbbd1ycjnPi7gE5EoHdusA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-11T21:11:24.145Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Інна Главацька"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/Jb2Ft3TRpksXOL-UwD5-wqkMYFRS-QU2B74iQ02vmUpQcbPT7l9YHwTWGRIBAufyy2I4-di5TTrFo6Worw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "folk pop"
+    ],
+    "title": "Сльози (Electro-Geograph Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mRwAA1X4yw5wNzyV9_yv2TMGEybmJz2bg"
   }
 ]
