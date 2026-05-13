@@ -2335,5 +2335,28 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mz5mTLx6hTu47tizByq9sE-XmubgPg5Hg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-13T15:44:54.857Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TOF"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/ZdAqW0aKLieNOdMWlxevr365kscNKAHbJEGGmGtFjuGp_ZYyJn0HQM_bcrLcx0sNl8UBzYEAfEl-jQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap",
+      "dance",
+      "Hip-Hop"
+    ],
+    "title": "TRONCHES DE VIE VIE EN TRANCHES 26 politiquement correcte censure abjecte",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mmYwYfdoz5UJX6eU6Ub-4PAX4JCPJIjpI"
   }
 ]
