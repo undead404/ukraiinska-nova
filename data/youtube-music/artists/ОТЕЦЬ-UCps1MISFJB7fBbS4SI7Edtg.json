@@ -332,5 +332,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m3ZnHzf82UudH10xHpP2000c4UZSCZE0c"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-14T14:36:20.965Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ОТЕЦЬ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/gelRSwZGMFq2he_DV7_-Ti7RD8hh40H_rgBZBbEdf_6phYTiLk7zPX9sQYjL8_JOv9N3aKR1yOXsjnzs=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "metal"
+    ],
+    "title": "Пляж",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m3i-PKRgR5DvYcfdzLqNeLQzDUJ7Odccs"
   }
 ]
