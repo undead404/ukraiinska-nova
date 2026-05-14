@@ -620,5 +620,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m5DQI6a9l1zQZ4CZ3-2TGT4QWysOwPc7g"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-14T22:12:21.127Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SI Process"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/oVanEq92Xm00dpr8OR3a-c0HZcut3pWKola_I70a_tSZpISp-9fJlLfEY4cLnjSRwLdEc1opkv3zPYU=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Hybrid",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kShFV9C48-QyuO9Pm6OWK07mGPe-4UT_0"
   }
 ]
