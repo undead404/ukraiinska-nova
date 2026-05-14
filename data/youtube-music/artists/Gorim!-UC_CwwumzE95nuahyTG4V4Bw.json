@@ -378,5 +378,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_khR9BianmX11HZczctbyKCs_H2a1C_SUQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-14T00:09:45.328Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Gorim!"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/ChkcgymcEIt06iAzxhL2QBVVmThoh1AFgx5YmTREYSdppg-ozYyAm94t9qPDf395cAK6irDJogEmsGsr=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Кардіо-любов",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m-9p2-V1iWl23fuf2UJkOcMNndoBvsgz4"
   }
 ]
