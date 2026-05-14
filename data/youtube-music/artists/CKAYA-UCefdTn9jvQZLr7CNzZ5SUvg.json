@@ -611,5 +611,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_khev_LcpY5jSjNpiJmtkTDH4N70Y2p17c"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-14T18:21:41.268Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CKAYA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/1tvyeaji0P4lcAughEeNCQLBGS72H8euYt6AG2mhzlayBX4e15CAq4HgE4_QhpExi6f4zJdIyPTdiPn6=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Без тебе ніяк",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lZNdBO8wRGTsnrBSp5KIHhjulRamWPgQk"
   }
 ]
