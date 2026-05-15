@@ -3606,6 +3606,10 @@
       {
         "time": "2026-05-14T21:12:22.794Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-05-15T21:11:26.330Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -5757,5 +5761,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n8DFFCc3evegAoZx1_1HMA-NA_1eJBUgo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-15T21:11:26.331Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/Komeu3jUxe3K0FRGRgDLI_iYtNTvGw-O2lB4PBVlFObm-bzuntBUAXS16xKe3skVGMbZbipB-wi3pGoY=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Diabla",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nY9sV4C2pGghOQWTSLpNKIWH3Obc9h_t4"
   }
 ]
