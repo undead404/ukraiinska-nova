@@ -424,6 +424,10 @@
       {
         "time": "2026-05-05T12:10:03.791Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-05-15T12:22:11.009Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -439,5 +443,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mNuRm7SE8I286ewERliq4IjGPoACnQv5Y"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-15T12:22:11.009Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Luna Rozza"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/P9Gh59EGWhutfnYe9Ox1A5dSNt6qGIayrjFonrIjZcNN5abGwPU8KAtU2b3EcOSviS3Zkr-MDH1li040=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Новий День",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mumsqY_VyF7wl1krzpoWe69FPxbCgh13I"
   }
 ]
