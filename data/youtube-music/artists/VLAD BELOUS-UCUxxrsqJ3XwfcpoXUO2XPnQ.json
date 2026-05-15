@@ -568,5 +568,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nCj5oov_b4Mm3JU6OIzLYKnCQW5GEe4n8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-15T22:10:12.998Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VLAD BELOUS"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/gcq2yfjtrF0gjSkAsUBDf3YA3PxG6moZ9e2D6X66UqinWjSWdVhuHy_VDalm-77SriNsa9rbOgeHt-k=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Розбуди",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n96orewMHPx8wWnHAWLza1tg2H-G32X1Q"
   }
 ]
