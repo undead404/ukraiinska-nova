@@ -534,5 +534,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nts1mciKzTrR57wbTlUNodedKbl-G981g"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-15T07:48:58.034Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SUROV"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/5oGLBtW2zEXGsS22iM5hyA_TDSYtk07Rzu6bWhLeghCha2Txc21zkACJ4ibCHIqLYXOL16iXkAyYU8Ac=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Не залишай",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ksI0xyt0MTXsDjP4_co-GAcREb1Paz-6E"
   }
 ]

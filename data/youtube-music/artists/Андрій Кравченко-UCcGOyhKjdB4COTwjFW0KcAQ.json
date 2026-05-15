@@ -591,5 +591,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nnNLMBqXkWmXwCut8eEATxxXFHZP_ExlA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-15T07:46:00.706Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Андрій Кравченко"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/SLuf35RzC91pEhEkb0d0K4bePT3tcVrmcD8kwIuYYJRGoZfL6A0-IrBJX4KHTZeraeXyV4QyEhMFzLvhjg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Я не можу без тебе",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l6m8DKLbeU8KikD_VjUvfaTVqtkXsYdzA"
   }
 ]

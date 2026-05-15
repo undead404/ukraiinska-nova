@@ -460,5 +460,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k8TNznwy38h4Hxvh0kXATzVwJMtHwwS-o"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-15T07:47:16.979Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ХудийJointt"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/fQ8WB0CkKnA1TYBwZrpe1z0hztICg7AgeULC5zO54WgFaazmiJ5IIVjCBU5-eH10v12PfRMt89-1CheL=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Шоб Шо",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_liVLC-HYHrknb2uWuY92T_1RZRuVAPDKM"
   }
 ]

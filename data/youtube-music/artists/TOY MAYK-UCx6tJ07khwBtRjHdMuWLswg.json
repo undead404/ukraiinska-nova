@@ -226,5 +226,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ma86-4F-lFf4Px-UuClRQ3GqNI2BWAcg0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-15T07:49:23.314Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TOY MAYK"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://yt3.googleusercontent.com/pkZU0KULtMPm_iKpOomTox724zlO-nYipTvNkCtHIiISEfyeaA-OZ5g5kJ6S0Fh3HblJbz2MFRmEpHvkKA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Під покровом",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n1sV2g09N-cob1WVLcfTCh9uxToKmDCPo"
   }
 ]
