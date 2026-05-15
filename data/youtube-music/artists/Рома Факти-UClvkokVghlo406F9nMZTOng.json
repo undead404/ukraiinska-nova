@@ -460,5 +460,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kG35yxOG06m1XSKkfnyFTZ7vonhspNK_8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-15T10:37:25.811Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Рома Факти"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/vfQu7cbFvJ-oxz7G5Ea5zE65w6O2VKR6R5iy0QFnBoQgcY-EFyxUX_kou5oCtN0VKASVY6o3C5aiJ9Sg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "ЗАЛІТАЮ У ШД",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k5VqJIbuokhavBSYChA1WqdpsNfRe0_Eo"
   }
 ]
