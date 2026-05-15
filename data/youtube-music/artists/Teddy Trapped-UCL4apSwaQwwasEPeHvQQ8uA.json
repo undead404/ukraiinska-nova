@@ -849,5 +849,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lsxlzg_dfrTsQ2hZfWi8WJ8WNdX0WRE1c"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-15T19:13:35.759Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Teddy Trapped"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/UflnwJTYKXx2R5Y-9RHbGaQp-Aiq6X3mVVRuUFqNM0W-8V5yDVphb3PYAun_mui7bL-vhSIENRy0-OKv=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop rap"
+    ],
+    "title": "боляче (Acoustic)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kjB3BvC6hNRoQGec-zNeLh1tuds7jaT5o"
   }
 ]
