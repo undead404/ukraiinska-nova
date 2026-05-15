@@ -663,5 +663,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mflkYWSgClR4yXFI8W39gQDCG5niLdjVI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-15T20:12:06.338Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "діти інженерів"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/JCgfrdPf2Vi2OUsh9J4xlM-BPxyElFLoBRXbo5kRZp9xwZ8w5mlMI3vb88mSog8E0ssxED9Zgj3Q5ow=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "Garage Rock",
+      "punk rock"
+    ],
+    "title": "Кіллхаус",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lAHC88Y02p_7zGGoZOmkoTi18k8QH6-Pk"
   }
 ]
