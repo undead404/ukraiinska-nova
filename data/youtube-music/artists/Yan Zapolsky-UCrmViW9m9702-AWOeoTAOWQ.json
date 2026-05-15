@@ -1090,5 +1090,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_noiQ5bT50-BpkDlRIWYk5ME5G2P-oEyB0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-15T04:14:23.830Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yan Zapolsky"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/mj4dnb92oTyyip1hSrUYNBC7TghQQ8969UOq2LVAJotrMZlKpZc7BL0_FfFtW4gwD7Smjo3dmRkUoL-k=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "We Still Were Here",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nd_hMOWGDyEHTZjqZUHksJnOf_BIaJm8s"
   }
 ]

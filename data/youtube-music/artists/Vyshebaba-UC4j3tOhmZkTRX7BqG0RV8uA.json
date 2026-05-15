@@ -207,5 +207,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_niGl76CK1_GUAphelm7-RuWuWv06_TsdY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-15T04:14:04.827Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vyshebaba"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/1nFtylLIQfFfnkoE9KlnJQ2sizJPXifP6o2DRo0ch7OT7JQF39IrLSSmJhv8oxLTgudFwL0iPyFv7is=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "листи до берега",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nio7bmaEqY1LA8CeFK00Av5h6Oo4lXfTA"
   }
 ]
