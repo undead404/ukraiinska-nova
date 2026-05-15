@@ -3695,5 +3695,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kl-CEEgcJd8YZC_G1wk3OEKsO0T_NDJhI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-15T15:33:44.671Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/nL__GxpFTuGc3UuBWs2b3U7gIZkvsgwUSdgCzrM8V36QfrWLca25TlEko9IyYimeuwb1zaLPCto1bs_OVQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Feel It",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mrgkmnXHBwteDJ0COSffEegS9JVTZBo6g"
   }
 ]
