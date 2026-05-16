@@ -305,5 +305,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kT9YtjL5AooBwEUVsLLJDaASYjtpmt-e8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-16T05:45:48.526Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROMAN TIK"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/2Um0gq_gHvSLrRpqKfRDMAJC_snxSJrQvysSeHTCS6bZJtSlvbRt3tLKI0WpxAblvZyweZyOa07ahTQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Цілуй",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nXjAdeAIHbRXkbnlv91PkD4mqnv0AU4KM"
   }
 ]

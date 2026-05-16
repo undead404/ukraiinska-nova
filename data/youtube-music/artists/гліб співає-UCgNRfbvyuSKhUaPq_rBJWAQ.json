@@ -229,5 +229,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lHoEVnR2gKjwoUzmHEJYnidOLONEwxxI0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-16T05:43:13.343Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "гліб співає"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/DZWKtt2jN64NYRaYkDoyBvgc18PJ6x9yfv9a5ig-kEjwgnGCg0-R_a2DNc7a7jM0HxOYw-Cu0XIIQ5nPLQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "bedroom pop"
+    ],
+    "title": "квадратні метри",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n8g5sRPDtd3G5DW0znu5sUsHs0qdVODYQ"
   }
 ]

@@ -981,5 +981,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_koGB25IX0EKW3cOtrpWPmb5HqldxqAfJ0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-16T05:46:14.811Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Trimbeater"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/NuI8293pMhz4oZa-RiftSYCap3V47x_9qnC6xLUsHZP0TdhJ317OvtCaiU06CrnLOC6HJGyehbD0c7DvBQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Lost",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_knYzbr4e6LU5tvTEANi_85eZJolF6McWA"
   }
 ]
