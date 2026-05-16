@@ -290,5 +290,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k4OQI4aIxxuhUzDG3Ldi9IpzOCy32S-2g"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-16T08:25:35.656Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VECHIR"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/pO1uiG5RNiDeq7-1RKta1nNX5OixLtKAh0rKxIl1LrJaI_4EzPgOEE0aV4vZvqywo3gCWIWj1T0q8Y0=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "розквітай",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k4Ja1AphI299vB0QfrZVlMkGLA0-ne7yw"
   }
 ]

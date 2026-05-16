@@ -930,5 +930,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nxCj5VKhYcWNjvgOIXbWIKP0nUI1FPEY0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-16T08:24:18.859Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TAR"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/37P8cE0u_pW7KUuaIqi8ewqfaT7ec6PPLcRHxAxy9L520i9sguG3M4wb2ePYPc6bQ7B-THdCopKCnUDk=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "noise rock",
+      "post-hardcore"
+    ],
+    "title": "Світ навиворіт",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nf6AZsESIY4J9GFuolctXJLA5rjDqpmGU"
   }
 ]
