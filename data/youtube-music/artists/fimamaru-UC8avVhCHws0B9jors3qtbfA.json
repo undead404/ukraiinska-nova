@@ -340,5 +340,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nSigdM0LOdH1vBcxHH3R4P7Mr8ssqiaHE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-18T21:11:17.193Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "fimamaru"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/JCgfrdPf2Vi2OUsh9J4xlM-BPxyElFLoBRXbo5kRZp9xwZ8w5mlMI3vb88mSog8E0ssxED9Zgj3Q5ow=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Кіллхаус",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lAHC88Y02p_7zGGoZOmkoTi18k8QH6-Pk"
   }
 ]
