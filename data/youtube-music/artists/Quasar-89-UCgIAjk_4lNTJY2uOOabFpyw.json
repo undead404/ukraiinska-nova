@@ -3717,5 +3717,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mrgkmnXHBwteDJ0COSffEegS9JVTZBo6g"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-19T15:58:19.722Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/PoR9R4nlSzJ8y83-BlD6AtpFtbNrzSqhR8YCqvN5njvf-dtyX5aUAXntE-d73loh5-_0Pe_9TItzXK6mYQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Alliance",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nlnr1d961FF_Ee0p_rVQ0hRPPWrBoWt94"
   }
 ]
