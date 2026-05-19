@@ -642,5 +642,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kaiBDxcbzK2ILJ_es6Q0h48ClE8ZsiDlU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-19T20:23:06.133Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YATSUTA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/ipaxtOUZ78330Ls0Kf0pG3mB_XDOeP1fTQauGEcV6cBlVX4bBDA6D6WtnLXa5WTjjgt54sHnoMLk8lnRCA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "МЕТРО",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kzhFw_2qmXR6OFTsyLw8X01RyQXbs6nPs"
   }
 ]
