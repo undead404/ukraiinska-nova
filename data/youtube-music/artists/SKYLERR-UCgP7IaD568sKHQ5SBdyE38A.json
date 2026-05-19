@@ -800,5 +800,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kD8DapnpAWU15gimgoHOuBsDk5zk2rEiw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-19T04:13:51.552Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SKYLERR"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/GcoCXhvHKuWDpR0iKFaGqNRD0qKQX6Ck3V1WkOtMTMBnsnoqqXjrQ2vZmRbM5x0sI0mlnvlPDQ-wYSFn=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Боже, я вкохалася",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k8R1z65CgGkrJ84pH9yHErLCPuTuwQov4"
   }
 ]
