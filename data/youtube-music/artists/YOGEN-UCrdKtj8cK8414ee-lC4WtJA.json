@@ -496,5 +496,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ltn38re4Zd808nvaGtxj3Epr8wvdJi7WQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-20T01:30:26.256Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YOGEN"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/G7x4w7s_ftS1W9ab2g2dUEeEqmo5MQT6l6jAnJRLW-HL0eoQCckLeSOUmRSupCmV63WB4d0j07fVh0pL=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "shoegaze",
+      "space rock"
+    ],
+    "title": "Бачата (Anton Krainov Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lrlBsBCpEApX5_ULPKXBeoB_TYKUlb_iM"
   }
 ]
