@@ -356,6 +356,10 @@
       {
         "time": "2025-09-22T08:49:50.419Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-05-21T08:05:15.863Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -420,5 +424,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mfzyk4xvMT19EnWkr2ALYX32kk1klJMMk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-21T08:05:15.864Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "POSITIFF"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/xG-fQZU5OyvIijJWbwoPIjOhALhenccnB2bKkfbATK7Qv1NRjJ6NcuEichxooJWqfEYJsYei04Zz3XsV=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop",
+      "pop rock"
+    ],
+    "title": "Спалахи (Boosin&Bloodless Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mliuTkRm2blBlfwVgW9h_WMFI0Hd5vAl0"
   }
 ]
