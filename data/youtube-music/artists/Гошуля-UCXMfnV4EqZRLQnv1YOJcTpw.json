@@ -1485,5 +1485,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kg31hA2DABpgyGa4Tvc2UtyHFJa3f73V4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-21T22:11:17.564Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гошуля"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/QZaN83Xijjh9j8otQz2ESO9S4ejbf9608xH5q45ZvYqpWZqxhE-r0X0waJwx2xE2D1PZFtVochLLjGo=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "peripheria",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_klbVcw5NOQlc2Sp5OE8TjgtAHURKnfQX0"
   }
 ]
