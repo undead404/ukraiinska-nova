@@ -454,5 +454,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lOEThP-eMuWXcOlYGqzIBlkKX-A1cOtb8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-21T19:27:03.551Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Victoria Niro"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/6zoHtkuJwZ1ULR1jFFMLtyZdaGTExzCGthXx_DftO8TqKZNpvdDMvnAIPT5Q9UM6ULTtUdjwH1nciJ4=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Я просто в маму",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mZ6Su6Po51hTWo4hIGs_LRmTk0UnJwdkE"
   }
 ]
