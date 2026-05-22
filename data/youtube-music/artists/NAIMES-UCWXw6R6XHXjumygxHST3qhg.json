@@ -456,5 +456,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nbKAmF33_PzdQzyBa8DN4e1D6LPGUEtgM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-22T09:57:00.326Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NAIMES"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/52fcJ4006ZDS1reUKUuqa5HJmCxlr0WVCRnZLpcl8ceXj9ekDhsmDhAiFC8MeU_qlyHhuER7wz7RGSvB=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "самою",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lL-ah8TqGjXIGb9MSXUmXFQ_X_rCkp-G8"
   }
 ]

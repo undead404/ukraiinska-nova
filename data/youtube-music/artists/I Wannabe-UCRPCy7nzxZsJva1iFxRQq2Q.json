@@ -1160,5 +1160,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nN0P6FedFho9C3Vhf_oqYXhJgIJToJSdc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-22T09:56:19.849Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "I Wannabe"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/7IFDgFX4lMxvCD9Llua5vazJpm9V8r2ShjNy-KFT2ujIc5vmhKFixSwxjUAW1REKCXubpryGOOFAP60tBA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "dubstep",
+      "Drum and bass"
+    ],
+    "title": "Moving Through",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l_JIGNrT9ig-ZyeMGasTjXYAvJezr8Ywg"
   }
 ]
