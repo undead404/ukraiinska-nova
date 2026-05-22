@@ -727,5 +727,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_krM4c6YO-kQR44hSohgT4jLuqxNPXF8vY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-22T20:22:14.751Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Anna Dobrydneva"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://yt3.googleusercontent.com/E9zTGoZUGYcDprgsPAMBG1y7NfCXds3x8L-cmXnih9eO_pitNlxoXYf9kWWFyUteOz7L1MGw6hkZFhs=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "ВСТАВАЙ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kfHk_sHahoEaQi0-_vrmbcWA2UuSY0AIs"
   }
 ]
