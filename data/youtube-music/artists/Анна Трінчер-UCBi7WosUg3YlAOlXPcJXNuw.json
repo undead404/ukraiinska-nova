@@ -161,6 +161,10 @@
       {
         "time": "2026-05-20T16:43:34.294Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-05-22T16:38:12.575Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -397,6 +401,10 @@
       {
         "time": "2026-05-20T16:43:34.294Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-05-22T16:38:12.575Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -430,6 +438,10 @@
       {
         "time": "2026-05-20T16:43:34.294Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-05-22T16:38:12.575Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -579,6 +591,10 @@
       {
         "time": "2026-05-20T16:43:34.294Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-05-22T16:38:12.575Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -757,6 +773,10 @@
       {
         "time": "2026-05-20T16:43:34.294Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-05-22T16:38:12.575Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1080,6 +1100,10 @@
       {
         "time": "2026-05-20T16:43:34.294Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-05-22T16:38:12.575Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1200,6 +1224,10 @@
       {
         "time": "2026-05-20T16:43:34.294Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-05-22T16:38:12.575Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1291,6 +1319,10 @@
       {
         "time": "2026-05-20T16:43:34.294Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-05-22T16:38:12.575Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1353,6 +1385,10 @@
       {
         "time": "2026-05-20T16:43:34.294Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-05-22T16:38:12.575Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1473,6 +1509,10 @@
       {
         "time": "2026-05-20T16:43:34.294Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-05-22T16:38:12.575Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1783,5 +1823,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mL_l4TXfZkx9jOxiXqifRVmHmsRJh1Cmo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-22T16:38:12.575Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Анна Трінчер"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/dNPGqcE2RG8rnig8uVSRov_ijJ5pfNDId2JV2tBnIXbFDKBh0dUx2H1to1HPuTak5uu4X9r9DVKve-A=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Твоя мама",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lQbQKHeqZkKAuBn0Xp9Ko5WlkZNhp6rhM"
   }
 ]

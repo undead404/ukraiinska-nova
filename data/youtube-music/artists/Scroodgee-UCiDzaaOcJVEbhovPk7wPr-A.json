@@ -620,5 +620,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n-1Hd3SxH1D8x3LiBSSdmCyOhhoaNZjBY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-22T16:40:41.999Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Scroodgee"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/h3jvFzO7AUbctYq4ENVdZL0oHdkbADgb0cC1RX33aH8exrsF-w1RDNotr1lUtgvxjNo2ds78DRljHXc2SA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "Hip-Hop",
+      "rap"
+    ],
+    "title": "VOW",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l742g6n6W3q50kY1z2jBeKeJRtcYwdM08"
   }
 ]
