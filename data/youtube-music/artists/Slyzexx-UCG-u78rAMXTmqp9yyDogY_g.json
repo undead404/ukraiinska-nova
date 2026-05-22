@@ -3555,6 +3555,10 @@
       {
         "time": "2026-05-14T21:12:22.794Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-05-22T21:12:38.907Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -5780,5 +5784,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nY9sV4C2pGghOQWTSLpNKIWH3Obc9h_t4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-22T21:12:38.908Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/vE5WH_AIexxKfqFYlHgPZrLTU-yeys0EJK9GMl87onkeAkEFt52SkSVVlBL2bAYPBgFk9IyH7y0YiqA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Nela",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l5tHmBGnNCkUbI3z01w5s7senh8PHycFE"
   }
 ]

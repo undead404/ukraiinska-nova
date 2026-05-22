@@ -1277,5 +1277,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l5ieOfScpJw2YylcJvLI4U-5TWBm8TAm4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-22T21:10:54.897Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BaWN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/be28adcI3Od2hZH400viHeI3bkMb7i82IYhiSW_IYrBQ0cWbywI5WqC8qvPnwQdbMTmWG-4p9kQC59w=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Машина",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kWiViJ3rHaPNRrEdUBQ0xTRuAzoIUWtAQ"
   }
 ]
