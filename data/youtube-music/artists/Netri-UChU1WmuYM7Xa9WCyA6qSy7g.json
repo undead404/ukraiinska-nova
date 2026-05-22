@@ -493,5 +493,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mY6SmDN4y1g6FLJuG5NiTKdvPVkp5Kf6c"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-22T23:10:40.633Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Netri"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/hKt1o2jFCPp9w-sYdbk3VXXWHhcgUSQHVgaLIfMyBkqCVal6y91Idy6xiXFS4XQcN90gNf1KxPSfoyA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Згодуй мене собакам",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nyJQ-wT_YrzJZV5rnCtILYw7YqsuKzqHM"
   }
 ]

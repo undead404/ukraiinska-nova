@@ -597,5 +597,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mKmg7xkNsZcu8JJCozpaR5i58WxatQn-g"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-22T23:09:14.119Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "EDWAРД"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/ujZ89T6y02Bu-Tc3iL4CbPIN_1LDWoGkjNk7B0NY5YqBKue16ERw64vUXULKuenU_q3bdZfuCjbkoB4=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop rap"
+    ],
+    "title": "Наталі",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l2dS1odS6Vmst28JBVT8nh1UCGSphYRYY"
   }
 ]
