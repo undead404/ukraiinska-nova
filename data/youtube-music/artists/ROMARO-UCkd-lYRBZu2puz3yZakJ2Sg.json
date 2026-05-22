@@ -1400,5 +1400,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lOtI_j9yBEmDfi3fIHBe_UrCgpB8183IE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-22T14:42:01.770Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROMARO"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/whu4D6nMibws3SqGDGxh0f-i8VEwMeC72a1kcVkif8J-QlvyO8rI7A4ahQsh7NbR2S1Y74lviWAHb7IX=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "Hip-Hop",
+      "pop rap"
+    ],
+    "title": "Дім",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nG8HwlQuYZe9DAmhN0pdDfWFQLOjNZ5cI"
   }
 ]
