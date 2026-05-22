@@ -438,6 +438,10 @@
       {
         "time": "2026-04-24T00:03:28.946Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-05-22T00:09:10.890Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1034,6 +1038,10 @@
       {
         "time": "2026-04-24T00:03:28.946Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-05-22T00:09:10.890Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1170,5 +1178,51 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_loUPeLPix9TnZM19xAdyqqJ2Aib46WdJM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-22T00:09:10.890Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Agape"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/BWXNnsrb69flxtNcd5KqfkfnDlRqn55BLBusBg0v0FtE-70FKQNKgOng1jF39zhwwqDZQScJMkBbFzFN=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic",
+      "rock",
+      "christian rock"
+    ],
+    "title": "Люби мене (karmv remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_liPZSYdXYwhlXu6pwxCaggv-r6zD-z8d0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-22T00:09:10.890Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Agape"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/iRa5zx_Js919oPPrSOzDh2s9K-7cWWdAMrTz1dSkdeOGVYTqfPoTa98QzLtI1eXhE_tubduaqck0ugEX=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "electronic",
+      "rock",
+      "christian rock"
+    ],
+    "title": "Люблю тебе (karmv remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mF-sujgTG_Idba8jowZYsfi7gS9lvGWFg"
   }
 ]
