@@ -1654,5 +1654,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lF7uVLteoXE9C5TRSebdWVM2oQq582lzQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-22T18:22:02.602Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Korolova"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/VAZXyz6FAkO8fCkuQykCaFvcrxHWLSiIaizKOmbirVgfSEkuHI_JZZIMHNSK5itITnezlLXNY4vVbRXa5A=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "Melodic House",
+      "House"
+    ],
+    "title": "Annihilation",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ns8B9P1IbJafsGJqIQ30bCpCgjf7LmSSc"
   }
 ]
