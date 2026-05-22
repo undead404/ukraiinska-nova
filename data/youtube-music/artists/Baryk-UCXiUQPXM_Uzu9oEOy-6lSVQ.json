@@ -728,5 +728,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mQoz5kJGqW4U6ciyzlkjW68j-kifIqInw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-22T07:58:26.749Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Baryk"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/FNcbmRD96hrsWRxgeh3AmzHfIQBUd2PRcRZ2jA6bE7Kh5pAkyEa9yMXufOlnd6F7sNTlcVt_tm2aQ8o=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop rock",
+      "ukrainian rock"
+    ],
+    "title": "Доспіла",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kP2WGTTFPxKwTglvphcZ7cfQx_j9uqQng"
   }
 ]
