@@ -426,5 +426,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kJja4yTNgr1sOI2PWx6Kuiutaq0xm869I"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-22T15:45:05.028Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lady Aphina"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/iaZupgMAdGhi9b2I4ySTSz0p0YQ90JjDDh0MLzJPq_C0M6nxXW3n0Bj5Sv6aCxuuWXOY4bEcY-ktzJ4=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "Нічого",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_klWh4-MRpfVmDNlWVPkPokVn8TT7Zit6w"
   }
 ]
