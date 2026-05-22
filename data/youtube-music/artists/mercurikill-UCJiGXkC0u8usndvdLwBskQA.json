@@ -292,5 +292,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kDGSXPq-f-0WUxXGPh_zpCsP43mC4DPg4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-22T11:42:24.050Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "mercurikill"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/TW-_t2jIu7SG0sTdMIC9_onWvs1sx7Zn1Ms3Q1AoHbcpwAJIuywv6aGv6gESSvOe06tzBmAyDe_ISQ0k=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rock"
+    ],
+    "title": "пахну тобою",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k5oy0bO20iJcr5oG6arTE5qEG1E6zFQto"
   }
 ]
