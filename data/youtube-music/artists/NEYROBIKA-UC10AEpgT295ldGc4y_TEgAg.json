@@ -535,5 +535,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lC5crv0uS5Ye3r61lPM1Pmwi4sJCO-Q0E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-22T04:13:17.780Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NEYROBIKA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/BmSRjvh30YFt87H1U87KuWZ5dh3osIxIhnyE2A1qDa_axZaw6wgFDLh17j5_bAOD7k_XESLiN79K1qUF=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Кеш",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kLtGQQaEHx6UQ2QA00wZeFWDT0IqqRkkY"
   }
 ]
