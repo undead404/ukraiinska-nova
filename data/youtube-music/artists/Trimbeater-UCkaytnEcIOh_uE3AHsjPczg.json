@@ -1000,5 +1000,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_knYzbr4e6LU5tvTEANi_85eZJolF6McWA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-23T05:56:23.713Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Trimbeater"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/kta7Ze7mxit-ZPmjy4fqGySGKw9-OdX2DsEEYtjPh5pkEG6Av_EiQMXu_X6l5bhLD7qluex61z3Brt8=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Між Світами - Він",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kV95BW3XQsHPa9mVUxZOeaRSCOpKIt2SA"
   }
 ]
