@@ -1192,5 +1192,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mNH9un1UQlhV13xcTVNZ6n09QobdfNXNY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-23T10:16:16.187Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KATERYNA BUZHYNSKA"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/TKOzYsv5iC9z_Xf1d8QlYDuBygDAXmjl2SanwEz5Y2XGjjpa9wZTOAqryAHogv12Gf_jBt9lxa97QsLN=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Милий",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lwQ3wVKanM8ZtGXmNcgx3uWTz7eTlxw7k"
   }
 ]

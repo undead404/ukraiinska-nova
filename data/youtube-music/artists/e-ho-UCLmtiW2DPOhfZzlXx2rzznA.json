@@ -327,5 +327,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nRj_ZzpitFvq-lhEvaARhccEM-YsnbkUY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-23T10:17:32.838Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "e-ho"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/w2rXsDZSQBbkytO3OSxFwFU0jRhdy6-kbglQEPDsDDlEx_SQMP8tLykPZqd6XKnmeGi_1titDM_22t5D6w=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rock"
+    ],
+    "title": "Нічні жахіття",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mQgOsp2glVCVuLOBcgvBVk3SIl0jpy170"
   }
 ]
