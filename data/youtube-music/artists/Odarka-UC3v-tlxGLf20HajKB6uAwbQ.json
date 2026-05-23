@@ -449,5 +449,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lYcOBCXHndD61NZQ98aHHdwe5nd332YeE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-23T13:12:10.558Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Odarka"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/YxY9awkKnBQ1YOg0Ehincuk-V6SzdiTzr-xw5tvC9WTyfImQAcOM4P7rzWLsiZCfMuT4v-uvPZbXAkEq=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Together",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lEJ0APFkk-r5UUzC9jF9S7t9q-s6E74as"
   }
 ]
