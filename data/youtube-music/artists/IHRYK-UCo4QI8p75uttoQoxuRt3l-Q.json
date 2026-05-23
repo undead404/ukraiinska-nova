@@ -952,5 +952,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nf6AZsESIY4J9GFuolctXJLA5rjDqpmGU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-23T08:32:17.425Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TAR"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/XJPQ24PtllUEx-gW9NpLKXB1RTRUwQrMdKB_x9-wyNJnW1x-a9hvuB9Q76-sBElJGp7QGehc1lm92L3a=w544-h544-l90-rj",
+    "releaseDate": "2020",
+    "tags": [
+      "noise rock",
+      "post-hardcore"
+    ],
+    "title": "Полеміст",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mFcWnxILt3yEzODcHcCR0qKr4LEy0vNL0"
   }
 ]
