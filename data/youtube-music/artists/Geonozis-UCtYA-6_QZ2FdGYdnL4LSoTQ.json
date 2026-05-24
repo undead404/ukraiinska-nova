@@ -530,5 +530,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kfWdOfFm5XNFym2ziXGx2PR5Hic_d34rE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-24T20:10:11.203Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Geonozis"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/dWMWmGPf5x-RaUXiDruX62IUjECAU61Fix-4uiEKTyMLD8cF18J_P8E7rYfzIDVBKcLvpbqPh0iXj6c=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Let You Go (feat. KaimaNØV)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n-h5R3iFIbEQ-DqXvrRc0GcXgyf-8c5No"
   }
 ]
