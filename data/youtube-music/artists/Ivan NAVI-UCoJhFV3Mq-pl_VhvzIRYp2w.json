@@ -1,1 +1,926 @@
-[]
+[
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/DXhItKhOZngwHAmU9DkDp7u6hpA_D6_Ju6MFOGv6ZFUjMOXIV6fIBVsY9YfPyIRT2vKI5V3W6e0Up0dD=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Бензин",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l-JRDjKzSmyBzA9P2-NadGEOJblxCsWpQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/eeFtEIIHKrRhfz5XJhyangixmNWJiM4lwmDBKny4gi8pusUzq63WmPyYoI61JzaMHgCuebqO0Xfz_5Am=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop"
+    ],
+    "title": "П’яний чоловік",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kkmw-vp6PWMCysw4oWFLfFBmONxaI87A0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/zlkeo54Xu2holMZ8zjK277fDciXLVCfbdYNC0gf5Pl7d-kYB-zG7cZ-daDZn9re-q5hUgYGu9iAT7u_w=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop"
+    ],
+    "title": "Доросле життя",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kz8GrIuTdkXWqeExSPnwe53JvLNfZk6rY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/eNDKAOq-rXKeJAwuuYTyLk6jDyAHAHAiDfrsN-00OnmnkkWGntk-MR5kTaZtpJFw7OoBT0o3czl61pi2pA=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop"
+    ],
+    "title": "Гріхи",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nmk3iW_nq41baVm8y7ba8P-lqspu-qa54"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/xuGucF4ZtsKy_99jtCQOzz7Mw2WhSVHEGWolIg2GOYloeu-z5QDxkCj4Xw-fUzFJHwLxJdHJgO6YiZgapQ=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "pop"
+    ],
+    "title": "Щедрик",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_npzvzVXtDuuKTcdvtC0vRAnOlbLlD9HMg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/BPlNtNHlOeeOT_hAPmJzUTdpdGldMhJtzD_jpq8npGbSMorZnrCMdY5sXuI8VTQ5_-fjgtgZFa9zoTzX=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "pop"
+    ],
+    "title": "Ким ми були",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nPxrad2jqQvJxotuvbYYYaVOoKYIn4OO8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/6_uU3xGtFXH4jq83dhq66dTEU5mwo5zdGI2cnl76bVJLk-yI0JsXD7fWHEcIaexksOdshyXpZisVBQ1W=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "pop"
+    ],
+    "title": "Квітка Розмарія",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mtZBThqbt3o_8TySMkivEcj8oJ_yV8MZc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/T1kurvWmC96N-thavhCoCYFmvITcEmNXw2J7RUYTQGriUwk6h8rLs8mdCE9Pyp-khdOLXLkraFZYxi_LsQ=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "pop"
+    ],
+    "title": "Викинути тебе з голови",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nAqg4V_xJ2KnZYWKURfbVUwRhh136B-m4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/C90lsJElBgzpB7FLs_nAX_vPwBTbgZF2tvI_eqdYtXUxbqHCR_u0J3GQ2D5eGRdoGjgI_UtCbSahEfo=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "pop"
+    ],
+    "title": "Біжи по небесах",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kSvyvN7xkykQinODYsmJa9Dlqru8tTEU8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/W6dxzEXYiOzIkcXUeMYHVXqwMXioUigSZgbDS0a7i6-9gcZkeunf4d3cRzz65J4uHBZmIC_YFpmiB0eyWg=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "На Мить",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lpAvRdTZCXjMjqpRfFIRw0_1-XfoUo9n0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/eM3bnXnbYVq3oxePDqwfC2a98DKOas8B5KAYMerKP9XMwQLzaTt2QZF-SskjaRrcpfn2YOx37IcKNDlfLw=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "Пишу тобі листа (Rap Edition)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_liLPCYYKIE2Y1IWcJ5DrTJjFQSv0bAEiE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/jYWCoEqC9Y-dEMinidrr8fzSnwEgnVvJP2eqUjWsJUY3Cb8TlS5hZaNPC7O3Gmq1Sjqtz7r8RsrcTiBw=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "pop"
+    ],
+    "title": "Пишу тобі листа",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mWdEKTlktXH09OxLLhf5oG-Lq4_01TywA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/ykoRzV39uNQhx4p0lOvoNjPa970spYXvW7iLmDPMDKhguKhgSuul09iSDkfc-YRQGObu8SoXB0Fuqdk=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "pop"
+    ],
+    "title": "Журавлі (feat. LeVoice)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lysDDKa5KRT1ULkC46xyYmWbFzg8u3tyM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/_NkSVXnN_00X3Wj5jk_x2ejlRMpMRPBVYpXH2je8EfkolYc2CZtZCyphkb_2FAjdmHXCyrjBpPECEYIW=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [
+      "pop"
+    ],
+    "title": "Разом з тобою",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kiGtbtERgEqtKMaQzPafLa7xFfNPDfrAU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/_WiAJ8r-b4MpMQZvPoAugWGNt2HYF8Wsz8i67A6g08ocXwM6oP631GrYsi6LGbyy5IrdxaHz9sIVXDgO=w544-h544-l90-rj",
+    "releaseDate": "2020",
+    "tags": [
+      "pop"
+    ],
+    "title": "Почнемо все спочатку",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mJLNF3Z4o3NTPX_Nk8yq-TjonpzGThdNA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/d62e7lL2KFM0SJ63zF2SAbPLskzkF55r6YsLUngeuu5vXDdjmPIYa1y8d1CUagR76mzNx_neTq6YL4U=w544-h544-l90-rj",
+    "releaseDate": "2020",
+    "tags": [
+      "pop"
+    ],
+    "title": "Холодна ніч (Romantic Version)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n6ZMfg0iPb32PlzzB5a0kLfqN1nFvEKAM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/_AlG72_BqRV1C7X44STEJUHtGfbzyYewbiIDOO15SyJytkEr4gIA-KEYn-5Qef6MhHcmecI4HNq_ryY=w544-h544-l90-rj",
+    "releaseDate": "2020",
+    "tags": [
+      "pop"
+    ],
+    "title": "Холодна ніч",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mmt3YJAwbIbjiJwEeF_dOsr6_rtZlzj2s"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/_PjtNOt4USmhY5XggnPgji66hnjeCsPy1PjXktJ-AbvcVJWUUnV8Cb8FwrxzBOSQWDAE6-mbjnMaoal1=w544-h544-l90-rj",
+    "releaseDate": "2019",
+    "tags": [
+      "pop"
+    ],
+    "title": "Коли нема тебе",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_njt8sSNjAgkH303qdmeICxtUogiiRfnhk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/mpRyfFSN5hg8-tPMRntSME__hFyxegAWNBKTOzNgOe4xNiL39wIJPGeaWaMXiWPFoMd9OT5eVwmoVEzC=w544-h544-l90-rj",
+    "releaseDate": "2019",
+    "tags": [
+      "pop"
+    ],
+    "title": "Ти мене кохай",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lnTVagwjK3IvHcRt35RlL4cMeitdQGk8o"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/Ncbhy7Pg2m6qmVGKeqRf2sKCwIi1EpKcOeXOhYTC1kj2t3SOYWgVTNvc0ue5a3G0nCMWJBmSBFQ56vP9=w544-h544-l90-rj",
+    "releaseDate": "2019",
+    "tags": [
+      "pop"
+    ],
+    "title": "Коливання",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l_ap0gQsilnkMRK14ob0sRpgQ4Tz8p9T0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/417ugu-JusN04oi06ccgR0bf2MmFGvnINDFuHQ5KPd0bh5iQCyLINCRDcu02Hb7h7xEy8UMSCJHkopX2=w544-h544-l90-rj",
+    "releaseDate": "2019",
+    "tags": [
+      "pop"
+    ],
+    "title": "All for the Love",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m29HufdgwyuKjOVn5-gjsI4eKVU5KTLJQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/XAmSc53JS8JJhigf9TjBQaH-2nNFDJwB2VsDh-5l9oqf_BM9N9LTv-zu5nz4qwc99ZcWuREFn1sAOojl=w544-h544-l90-rj",
+    "releaseDate": "2018",
+    "tags": [
+      "pop"
+    ],
+    "title": "Це вона (Зірка)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lLUK79VFPCe2SUoeYnryYAmiPY9ROO_iw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/5FAQIwh__P_LuIQovws6B1dY12m410HW5eJJNU9jtaIJursPZZcVZLHONqu5e9hV3sr68EFfWr43dYI=w544-h544-l90-rj",
+    "releaseDate": "2018",
+    "tags": [
+      "pop"
+    ],
+    "title": "Казково",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lO-xuQ5aF30v2F303XbBwT1krkySASySc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/onUAqTtaicav5yvLjRSFSZDbHQNNcTnxTLkoqmEyintywOjsKOyy1kzpdUIVnSpFH8QGFJ5bbVVDkQAG0g=w544-h544-l90-rj",
+    "releaseDate": "2018",
+    "tags": [
+      "pop"
+    ],
+    "title": "Хімія (feat. Mapiя Яpeмчyк)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nKRyzrq5dlXFsqAh9mksUYufM_c2Rf21M"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/zjd4RuhnDCGb7_zxKeLnl2gG3cXK035tZw66Uu7_7dXeUwtjQ7IF3hyZZfluXhj4Nx5gJ3N9MgUYN06V=w544-h544-l90-rj",
+    "releaseDate": "2018",
+    "tags": [
+      "pop"
+    ],
+    "title": "Ти любиш музику",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l1u4Vpfl8cvoDVOPMu243puMU51v7wwE0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/wGhhzj3vcd-S62o47dd1uN7jb9XRc4e44KWMmvP0S8GSXCo4C1VXm67_1C798iEhYefu1pgtmVGzj0lK=w544-h544-l90-rj",
+    "releaseDate": "2018",
+    "tags": [
+      "pop"
+    ],
+    "title": "Колядка (Веселая новина)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kQHyM7D-TOhLr60UB44pAGcN1RHIvNLgQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/oLKlVS7XFj2eOQsONOG_iZpeMH9Sp4bboe2_XfQT_sPIApGULAoW0wSUlEFP9z3PuY03sEz44L4g4NE=w544-h544-l90-rj",
+    "releaseDate": "2017",
+    "tags": [
+      "pop"
+    ],
+    "title": "Хімія",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kvjReGp1sLjssClK5tkneN2rERbmGImGs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/BaqaOuRFCkLL8d3jyXofW_22iqR3D3z4Am-cprckJvnbqs4wGLKApohzu5NPqwdBaIKdpBD18DK0zOV4=w544-h544-l90-rj",
+    "releaseDate": "2017",
+    "tags": [
+      "pop"
+    ],
+    "title": "Тимчасовий релакс",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n1M7cDbkgRRHv2r1TAx2UODFVIKZwhSpk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/l7t5uCW4TXneDJf9hfg9mOrLY8RPp-69gdBBfO63kvGArPYJn4wyomW6PTF5zzMIEQgAGo1-_Pj8mA1h0g=w544-h544-l90-rj",
+    "releaseDate": "2017",
+    "tags": [
+      "pop"
+    ],
+    "title": "Край",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l4juM-Lak4mXmJgtXXHEMYkoIBmLhfVDI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/9jG09HEYcBApriQeh6uS57Bovg15DUeQdFMyqWw0jsiFa25MRsODmN9cRigFsCzP2Wijm6vWC6c10v1K=w544-h544-l90-rj",
+    "releaseDate": "2017",
+    "tags": [
+      "pop"
+    ],
+    "title": "Влипли (LEMy Dance Version)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lTMipjPFArQ1vRrhbVRz8yBu0WxN-Cj14"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/b6j90voO8TdGKLrSapJLLYAluUbhiMiMltV9xKzdiIWyx1RGCeg9xcKPI65Sc5B65iYERdDUooSpCOE6=w544-h544-l90-rj",
+    "releaseDate": "2017",
+    "tags": [
+      "pop"
+    ],
+    "title": "Влипли",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lEDBCuU0wY_fCU561F0DJGiJiMHd4nEKk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/zN50kjk174eSDl4TLvS6e-xH6FYksGWqjx2BoCviM2vuYTXJFLEEDtZdw0CXND-wMPAwqlZnEYGx3Ang=w544-h544-l90-rj",
+    "releaseDate": "2016",
+    "tags": [
+      "pop"
+    ],
+    "title": "Закохуюсь",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m3PDUw3AlsUJD3N3RqsJ05s0CLlQ6hUhc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/7ingsr9G9KeLpXeT-OL69PaVKmOhrA2lW6ncxBv2svs_eeha7plyHe1Ucvf_8N2q9dZE1IsGNexBdajVBw=w544-h544-l90-rj",
+    "releaseDate": "2016",
+    "tags": [
+      "pop"
+    ],
+    "title": "Такі молоді",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_njMKG-nttp4gMSGNDWe8Q0jVrk3TDFr14"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/D5XvsqJBiRXcdKRdfF5qa70y35CjeuHQD-30xDk4EvBITKhtc5XcQ08w9hQ3qLcJVaM_wkLW3Im4p9M=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "pop"
+    ],
+    "title": "Там, де (Bakun Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n7qmhZqNeMQQeCRvpmRRLUxHmCHLjBEf8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/5YiD6vvgk-BNk-8dd2vSN5QNSWBoZDONSPv4xV8rSD02QvsJbTQQNDjdZyAKwyZv1l-VV4sFkuvYMJ9C=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "pop"
+    ],
+    "title": "Пишу тобі листа (Bakun Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kgSfe_bWTNSQBNJuRGaleROJbPgQGfmMs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/aZu7VLN_xNIaiwEuhWDxw9oi2E4iIczaeRLeVlKd3vR83nJepKF2fRRmvQkF53i_zMGPTM8ASQgekzvK=w544-h544-l90-rj",
+    "releaseDate": "2020",
+    "tags": [
+      "pop"
+    ],
+    "title": "Холодна ніч (Lovekillers Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n3JKEEg7T6OxTg5rRsEhLS-X1wZ6ol_2w"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/E0SvSFa1i_KwY-h2SIR5FdG4pH-mq7Go3AQQPtXC0bpfI9vgCOHk6lXtYgrluJN1ck0xRGiSI0va6x0=w544-h544-l90-rj",
+    "releaseDate": "2019",
+    "tags": [
+      "pop"
+    ],
+    "title": "Коли Нема Тебе (Remixes)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lhzPPx25j3n2inqTpWF5AfR3Roeltc_kc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/9MWbyIjpUA4LP_sTsVI3HR4dMtEelh3_ds0M_Yljv0Ji-9sr73plHRCl4h9dKBK5HAbY2tG_VzLSZT7wCQ=w544-h544-l90-rj",
+    "releaseDate": "2019",
+    "tags": [
+      "pop"
+    ],
+    "title": "Ти мене кохай (Bakun Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lIY0WYjyQLm8I7-dtsBuczCrT-ZIZPd5o"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/HXOoHIJtCf-SHORQ4e9zyGtdEZpF5iPNzBvJOx5ti-zUYZ9I7VVZ7CcDaobn2Rp02Y_YlhoMWIRA-QCi=w544-h544-l90-rj",
+    "releaseDate": "2018",
+    "tags": [
+      "pop"
+    ],
+    "title": "Казково (Costel Van Dein Extended Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lq4J4qpNPk1J63ki35QMmQbI8sArE6M-4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/FrmjwuNtPZ4XMxLA60LsVoOkmrhezBE05AkpcrtnfpEKI35XQTVe-AeJqpuGMhumNhe910knpHaWOlv0=w544-h544-l90-rj",
+    "releaseDate": "2018",
+    "tags": [
+      "pop"
+    ],
+    "title": "Казково (Costel Van Dein Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lkEILO7De-ld0BK2-cW6hPIB4ATiyBORA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/QC-IX4NirqFadSVtixoNk6T14gKPOTEuI2Z5Bt95Y7aMfyxc0fSkZmyn_y1_h5aVvdwIS8oXh9DflGFwRQ=w544-h544-l90-rj",
+    "releaseDate": "2018",
+    "tags": [
+      "pop"
+    ],
+    "title": "Казково (Midnight Daddies Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l93L766uHOZ-tkpwrcKdyeIi36rjeNFDU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/GTNnH8m9QWSKGaU83PsXvmwvTcTJsz-4yTY7y-Y8snlNoOV4YxH13xH2CCRTb0EDOptiFtnhGDHBhHM=w544-h544-l90-rj",
+    "releaseDate": "2018",
+    "tags": [
+      "pop"
+    ],
+    "title": "Влипли (Bakun Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ml4qG4c6xLXfqLPsMWlKfgmFdryiNK-vI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/2ayGg8TCqrUHSHSaP7fGQCjp9c4PC9_J1hqAoSyM5efXIpm-QEYtu5_lV95Gx9LA1xtCtmwsBZcs7dg7=w544-h544-l90-rj",
+    "releaseDate": "2018",
+    "tags": [
+      "pop"
+    ],
+    "title": "Влипли (Bakun Remix Extended)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nS8JDCUAngXXFZL9qELYL8kYQzqd8YdUk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-25T01:30:11.167Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ivan NAVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/NHS9BTilL_WQtkPtWJmP-atp9JMIxZmEGIwsShBbnvcFSsUkxci8cNTV8i0L7ebt9qi5EfKnYJKaolA=w544-h544-l90-rj",
+    "releaseDate": "2016",
+    "tags": [
+      "pop"
+    ],
+    "title": "Такі молоді (Astero Club Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m0sW_XJbe9m_l2nnpkYQNfJLEQCb6UGZE"
+  }
+]
