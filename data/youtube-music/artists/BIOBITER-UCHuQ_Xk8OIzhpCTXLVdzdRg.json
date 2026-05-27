@@ -340,5 +340,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mE2Pai7HYRUctDCyciqMm2BH5L89YnrXA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-27T02:41:35.551Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BIOBITER"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/Ft2abZwrQdwnhYhO7eJYdkWXOqRFBriAsfYW2Tw9jymlwYtkVdRIhU1OXDnt3vXx6mtBue2GL9esMJk=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Де ти є",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lP-zpSaOhOKv0wEBP2yEI8IlqaM4-KTx0"
   }
 ]
