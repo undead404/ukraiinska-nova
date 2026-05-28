@@ -359,5 +359,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lAHC88Y02p_7zGGoZOmkoTi18k8QH6-Pk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-28T21:28:46.960Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "fimamaru"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/HZLCWR7CeenAO0xs56A5KnsPNG1WsgPbpc9xLzlaPqxX7MJQEn5BOoUdBwxt10OJFgoGUogVLdjnZBPf=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "мені так боляче",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m9TucGpTVrLQek_LKf36HWDxls0xreeOU"
   }
 ]
