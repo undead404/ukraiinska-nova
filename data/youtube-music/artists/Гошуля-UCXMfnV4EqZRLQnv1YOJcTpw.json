@@ -1504,5 +1504,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_klbVcw5NOQlc2Sp5OE8TjgtAHURKnfQX0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-28T22:19:41.127Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гошуля"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/lkiche0f6kjZj6LC0xEfzPZNAayeq3C2s_knU5Y4B4Vdud9ekmArDyZ5sEqMJdIBazTcznSo7OBWmIPg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Обуглені крила",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kmKQERpUApEWwdJFdKmVE8Xr2RIFP30rs"
   }
 ]

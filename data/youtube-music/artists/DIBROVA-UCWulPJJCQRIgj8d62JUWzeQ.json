@@ -1094,5 +1094,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mzc1AFkTW1FDAWLdgmyqR_f6sagH3Zpa8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-28T22:20:46.490Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DIBROVA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/JCrihhEqiJKz8xBnUMDCTTo46Ed23t0SDFrohxfkQJ-gWzb9hAwLq3fE7aZ-Wgxm3mNFqoFqPKZe9KQL=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Тону в очах",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_np3mXwII2Xgh6HmKFzZ2dutsprq3so1Z4"
   }
 ]
