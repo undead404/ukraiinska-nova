@@ -245,5 +245,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mOUGI4iHfple62r5grDRpADWHdm2yD4aY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-29T10:10:13.632Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Marmur"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/Q4QnaE_jOR_fiA1K1J_Vx31mMICZdbGhTHQzIKOAapqx1AkYFuiajE2oAfOGHehQr9VPjq8Ulyrag8Ntvw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Roses",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nCSbGpiCItCatp_0Q0ymHSaisEW8fbRyg"
   }
 ]
