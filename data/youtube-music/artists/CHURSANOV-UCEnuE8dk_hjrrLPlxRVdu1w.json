@@ -1057,5 +1057,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kX0u30Bu99KDPVnt12-tIUBve_gdR3__M"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-29T13:49:17.894Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CHURSANOV"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/D7ChFEBehW_j9oXM8trO8UCqzxLQ9GZ2LvzJang7wgnfwF7I1s6F1B-SjfkmL3rdimVHMTXMqIKje_xK=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Не проблема",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kvF1iqJ24kjbYZ9Qz6Rbc2PGU6Q-krlkc"
   }
 ]
