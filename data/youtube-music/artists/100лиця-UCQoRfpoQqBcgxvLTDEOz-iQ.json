@@ -1196,5 +1196,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kJnn6SkIlHx61hrNUpRQ6T507CYSuNluo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-29T23:09:28.843Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "100лиця"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/MdiTdxY7P7vo1ZRcSpNm4NutRirLMOw7dYAYpMJUGslGBUrnXG3rlxGY0tkm2h8E6EF185fCcd_LzfCR=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Ламбада",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_njqGbsWq1DVQDe8Ejc50dQgsrJ51M9cB4"
   }
 ]
