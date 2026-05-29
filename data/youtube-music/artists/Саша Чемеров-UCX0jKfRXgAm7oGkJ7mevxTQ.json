@@ -746,5 +746,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l84E709LCNBdlCFpH0nZBRF6B9FRXCjZA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-29T06:10:35.524Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Саша Чемеров"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/_BchPSAI2WsMgXKJeyKSf5S2r4CZV0nIJco59c2zQpFcdgsngLVpt5QJYXvDbYxCriv1VfF3WCCDddY=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop rock",
+      "rock"
+    ],
+    "title": "Ти дохуя пиздиш",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nixDn28yKrd2N0TS-LNwTr8cEXgHiucng"
   }
 ]
