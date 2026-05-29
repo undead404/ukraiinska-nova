@@ -1109,5 +1109,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nd_hMOWGDyEHTZjqZUHksJnOf_BIaJm8s"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-29T04:14:48.429Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yan Zapolsky"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/aV_3Q5oBucdaBap0Qt4gKT-y8as_aPcD16kPkWyejytkfcRNtcZtvEcuFyKrhpyZ9Recq9qR-KPL_SJZ9A=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Цвіт (feat. Odarka)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kePJJy0YN9WzcCnNPqmTq_oa4u6yKjkJY"
   }
 ]
