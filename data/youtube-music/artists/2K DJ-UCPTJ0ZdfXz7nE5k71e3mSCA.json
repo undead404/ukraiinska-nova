@@ -458,5 +458,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n3FJs_e1AkBjXEqqVlz8V0m5KeSYWBUa4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-29T20:36:20.557Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "2K DJ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/CRPQLXg8XfQ3CIQbT6SrbTF8Nzz8oxF-sOMmJmronNQHBhGzDPn4JcWN4qVpMgDmJFLQDrg_Wu3zD_k=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Remember 2007",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nY-oVfcLZTIl5eUCPa5teNsF_E6yYhVzQ"
   }
 ]
