@@ -1108,5 +1108,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lCa8oqHj9KgIQElHEEDdYsP6Wjz0dPpFE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-29T16:08:28.065Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SAMCHUK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/MTac8zJYBRMC2yqG2P_NkrkMNItrIKC4qIonfRN1yDFcv2VNPlI9kr8C36yoSsmCV_0wDT1VmG4g22AKcg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Без тебе все не те",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mQ-l-hH2Hkt4uvqVBnN1efl1xdyuus1jA"
   }
 ]

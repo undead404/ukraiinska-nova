@@ -1420,5 +1420,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kTWNSCVLHgLgfC6tqstbVdwJULsoLXCrQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-29T16:08:54.932Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "STASYA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/2M1GXCzPKDljfvOoALGFiY9HBEVeVGwiEZGWceRAWq8jdX4eH3ep0RlEhHqiX6j683reID-tbeHzMi1-=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "folk"
+    ],
+    "title": "На фото",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lnMBLzOAypYpXK4j481DvJ53YvCZ-FNEY"
   }
 ]
