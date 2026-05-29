@@ -596,5 +596,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nkEm61xkyw3pkKQgTEdMFFF3iryNDAwF4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-29T22:19:44.675Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Nazar Zakharko"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/Kpcdn3DJFHGYgbSoell3pM2mgFTRRLMqt-A2B-FidsY0X6WnrSgm7AgjR3GbGHnL-A6zhqz880ZeUrTQFg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Marlboro",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n_w7KJaARfMEhBxbl9QyPPrFglXtYYumE"
   }
 ]
