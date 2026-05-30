@@ -4,6 +4,10 @@
       {
         "time": "2026-04-14T00:02:16.720Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-05-30T00:10:09.761Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -25,6 +29,10 @@
       {
         "time": "2026-04-14T00:02:16.720Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-05-30T00:10:09.761Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -46,6 +54,10 @@
       {
         "time": "2026-04-14T00:02:16.720Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-05-30T00:10:09.761Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -67,6 +79,10 @@
       {
         "time": "2026-04-14T00:02:16.720Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-05-30T00:10:09.761Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -88,6 +104,10 @@
       {
         "time": "2026-04-14T00:02:16.720Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-05-30T00:10:09.761Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -109,6 +129,10 @@
       {
         "time": "2026-04-14T00:02:16.720Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-05-30T00:10:09.761Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -130,6 +154,10 @@
       {
         "time": "2026-04-14T00:02:16.720Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-05-30T00:10:09.761Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -151,6 +179,10 @@
       {
         "time": "2026-04-14T00:02:16.720Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-05-30T00:10:09.761Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -172,6 +204,10 @@
       {
         "time": "2026-04-14T00:02:16.720Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-05-30T00:10:09.761Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -193,6 +229,10 @@
       {
         "time": "2026-04-14T00:02:16.720Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-05-30T00:10:09.761Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -214,6 +254,10 @@
       {
         "time": "2026-04-14T00:02:16.720Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-05-30T00:10:09.761Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -235,6 +279,10 @@
       {
         "time": "2026-04-14T00:02:16.720Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-05-30T00:10:09.761Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -246,6 +294,63 @@
     "tags": [
       "electronic"
     ],
+    "title": "Why Does My Heart Feel So Bad? (feat. Moby)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mqgcKE081IOmKn3LY5GHXcz7pVZjvRqBk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-30T00:10:09.761Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Singles & EPs"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/IVccsuc-FquEMQoASymzw2sNxg1UlsCTWDP07IASfHEGhqcKC7qYH_2winaQbCylVk0FHm_x-eqwd6DZTA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Vertigo",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lRC5YXhx801Hm2-8QzbBG-MekDywi7DnA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-30T00:10:09.761Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Singles & EPs"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/kPugMLfbsLn7skQqQrQ8BgnNQxymUAoJhP26PsORH05Wc-W0t68Q70IViChrwZx79-LEGBKVIOaPugnTbg=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [],
+    "title": "Faith",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nOXx4nCbhZO-kLHB3tKYw38zPOR9qfS00"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-30T00:10:09.761Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Singles & EPs"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/BxeLNfc-mI950LlAHLPMPsZFCASV8yS8sI9NqJeer0ARqrLQmlVv3aFMBPMDl-hWXiAovfgg5ZsltjFg=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [],
     "title": "Why Does My Heart Feel So Bad? (feat. Moby)",
     "totalTracks": null,
     "type": "album",

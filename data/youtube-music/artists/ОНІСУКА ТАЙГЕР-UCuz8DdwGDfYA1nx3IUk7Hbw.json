@@ -229,5 +229,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m3Elyupd9JG0i0L_KTBl_b3fao4yoLSWw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-30T00:09:27.561Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ОНІСУКА ТАЙГЕР"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/0j0G5geq1EcaaUBEGt6fBEJb8fTClAksqmyl42Xmr55Cpf6hvdsFdWQNk9zmnCSgf_xlJ87YS28MeXMs=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "Garage Rock"
+    ],
+    "title": "МУДАЧІЮ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lMXXkyzOs5TDL2bGxe6WdSLH19po-yjmI"
   }
 ]
