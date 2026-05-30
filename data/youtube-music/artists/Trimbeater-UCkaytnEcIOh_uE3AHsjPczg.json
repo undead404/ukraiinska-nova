@@ -1019,5 +1019,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kV95BW3XQsHPa9mVUxZOeaRSCOpKIt2SA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-30T06:01:03.906Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Trimbeater"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/lNnxB_85vnWhlUxq9Egs4vq2LYkbl4xdBeLIyXGiy3CknB19f1JuWV7MQJC0AejdPw1wtw-3q8MHbYBmRg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Між Світами - ВОНА",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lZQPpg7PCXTGcTRCk6sZxF-Wo9F3o-miw"
   }
 ]

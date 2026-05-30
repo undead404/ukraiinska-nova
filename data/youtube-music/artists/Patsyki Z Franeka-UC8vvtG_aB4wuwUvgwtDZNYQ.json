@@ -520,6 +520,10 @@
       {
         "time": "2025-09-23T05:47:09.550Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-05-30T06:00:24.796Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -751,5 +755,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_momMhISrvh5v4ni0KhWoLqEFX8kVT55dg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-30T06:00:24.797Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PATSYKI Z FRANEKA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/cegxpDRXnK7rjF1NM4udWJ-WBizONwioyWCq0Ko3Ast6IKpwcUxzpXDnwMrW_UX4Jd0YLFtJWDuww2RY=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop",
+      "pop rap"
+    ],
+    "title": "MARICHKA (Yan Zapolsky Gooch Brown Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nOkSzeOkTtPxXfkzm-j58dZXW7rUBYtD8"
   }
 ]
