@@ -2358,5 +2358,28 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mmYwYfdoz5UJX6eU6Ub-4PAX4JCPJIjpI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-30T15:12:07.052Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TOF"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/qH7UadKFiMB8tujmpGYQAgTFdLXqV-fUiJnwZ5ZCWFjzQsD6WlXHO6k1Bw9xLHUXEMouwHKYvucTb8w=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap",
+      "dance",
+      "Hip-Hop"
+    ],
+    "title": "TRONCHES DE VIE VIE EN TRANCHES 29 Oh my god, in Frenglish sorry",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kPj_pPVPPdnS7qgMgm5b7-rTEdwa_iI7Y"
   }
 ]

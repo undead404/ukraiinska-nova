@@ -936,5 +936,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mX218fAjq3bd178051XV-pHp24sGv5isY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-30T15:09:48.623Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Choob"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/UTJScBPpE0-IeHVSNPfn-8h4jKKIlMRQkxuqM82bQeeg2qWBZXR8BbR6e-BB9Mns3HXqXTPyW4MJ9stscg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Тепло",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lj3-n8Hy3zzz0UIJ1ALQPFYVaYGjBaJPk"
   }
 ]

@@ -2427,5 +2427,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_miWFw6pkvf-u22VI1-fLrbEVKb8BYajag"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-30T15:12:21.882Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Volkanov"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/Mw0ofktE5mVWsezy6ikNs2quuc7Rzagt7rkYZ2cUBXZMFuB-j3edFwvXqrAwZzY8ZBzsRHmQP1KpJM_D=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "ОДЕСА - МАМА",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l0b3o99_LQIx7dWKSdenzOLr9l4Xbq6z0"
   }
 ]

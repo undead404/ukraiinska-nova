@@ -3739,5 +3739,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nlnr1d961FF_Ee0p_rVQ0hRPPWrBoWt94"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-30T15:11:39.403Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/twNUsj1uIUp5H9aq9kRwf1988-Lp4cd-PF9tP_oy6zinyVpJhOATIPw0V5JBK_CdPFNVFnt7R4Slahrh=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Inner Universe",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nbrTliaToaNU41x46RnoUhleT9nTpLNfU"
   }
 ]
