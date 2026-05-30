@@ -229,5 +229,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n3oBDnixdHD-rwhTFKk-Sr7Hpi4BiVwok"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-30T14:19:08.500Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "GRATY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/xMaz_frmExa_cQlD3xlHmuYIGH2DjpyzKdOqLUv9FKXHBP7PHMvA_dMJyfL6NCyp9UAyXJy8hB9yyvy2=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rock"
+    ],
+    "title": "one GO",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mYYoklQFT_g9qVpDCwZdI6AK3Qb-52HPQ"
   }
 ]

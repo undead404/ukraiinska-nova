@@ -313,5 +313,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nF850FTzu3WbUdH90vIAl1UOtZELOoppQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-30T14:19:58.818Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Polamav"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/ONkhijw86XXSfAmVr7lKBbY8sc3hT-wx8VIe9l86_Gj9oGSEuQrEqydQfhsJAiFEQOvgztFdphq8Jl4=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Луп",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m_gh19NtbXTzmT3umKZOE0eZyrA2_0ZZs"
   }
 ]
