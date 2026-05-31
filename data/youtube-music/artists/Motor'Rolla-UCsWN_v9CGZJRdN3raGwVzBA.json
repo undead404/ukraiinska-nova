@@ -16,6 +16,10 @@
       {
         "time": "2026-03-05T23:16:51.093Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-05-31T23:10:04.686Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -47,6 +51,10 @@
       {
         "time": "2026-03-05T23:16:51.093Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-05-31T23:10:04.686Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -78,6 +86,10 @@
       {
         "time": "2026-03-05T23:16:51.093Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-05-31T23:10:04.686Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -109,6 +121,10 @@
       {
         "time": "2026-03-05T23:16:51.093Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-05-31T23:10:04.686Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -140,6 +156,10 @@
       {
         "time": "2026-03-05T23:16:51.093Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-05-31T23:10:04.686Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -171,6 +191,10 @@
       {
         "time": "2026-03-05T23:16:51.093Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-05-31T23:10:04.686Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -202,6 +226,10 @@
       {
         "time": "2026-03-05T23:16:51.093Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-05-31T23:10:04.686Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -233,6 +261,10 @@
       {
         "time": "2026-03-05T23:16:51.093Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-05-31T23:10:04.686Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -264,6 +296,10 @@
       {
         "time": "2026-03-05T23:16:51.093Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-05-31T23:10:04.686Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -295,6 +331,10 @@
       {
         "time": "2026-03-05T23:16:51.093Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-05-31T23:10:04.686Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -326,6 +366,10 @@
       {
         "time": "2026-03-05T23:16:51.093Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-05-31T23:10:04.686Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -357,6 +401,10 @@
       {
         "time": "2026-03-05T23:16:51.093Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-05-31T23:10:04.686Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -380,6 +428,10 @@
       {
         "time": "2026-03-05T23:16:51.093Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-05-31T23:10:04.686Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -393,5 +445,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kurJc3livfMZ0yFs8atgdc1Ac3AnlaEjc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-31T23:10:04.687Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Motor'Rolla"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/EAvnC55xquScpLoX6RO8cQp9xONGkA1BlicF4NGU1-HjbB8_t34FyZgMpQwxrtqk5touzosntasjoHPu=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Мій Київ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mhLd-IBwX2_qKlvP-7_VCmMBUaCGBaQUM"
   }
 ]
