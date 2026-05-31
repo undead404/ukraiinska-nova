@@ -1215,5 +1215,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lwQ3wVKanM8ZtGXmNcgx3uWTz7eTlxw7k"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-05-31T10:29:00.131Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KATERYNA BUZHYNSKA"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/OGC6xWEujlAjfz8q828CoGHeCOOaAf6hXBN4hYYjrIP559BN9W1urx4cFp5gFwQeFWY9Je-cVjJNMfQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "О наш, Господь Ісус Христос",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nSsMF8dfzaCCjuXEVH4xCe2gAG1XKoJGc"
   }
 ]
