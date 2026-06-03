@@ -12,6 +12,10 @@
       {
         "time": "2026-03-03T02:39:29.053Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-06-03T02:44:52.545Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -41,6 +45,10 @@
       {
         "time": "2026-03-03T02:39:29.053Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-06-03T02:44:52.545Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -70,6 +78,10 @@
       {
         "time": "2026-03-03T02:39:29.053Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-06-03T02:44:52.545Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -99,6 +111,10 @@
       {
         "time": "2026-03-03T02:39:29.053Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-06-03T02:44:52.545Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -128,6 +144,10 @@
       {
         "time": "2026-03-03T02:39:29.053Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-06-03T02:44:52.545Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -157,6 +177,10 @@
       {
         "time": "2026-03-03T02:39:29.053Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-06-03T02:44:52.545Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -186,6 +210,10 @@
       {
         "time": "2026-03-03T02:39:29.053Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-06-03T02:44:52.545Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -215,6 +243,10 @@
       {
         "time": "2026-03-03T02:39:29.053Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-06-03T02:44:52.545Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -244,6 +276,10 @@
       {
         "time": "2026-03-03T02:39:29.053Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-06-03T02:44:52.545Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -273,6 +309,10 @@
       {
         "time": "2026-03-03T02:39:29.053Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-06-03T02:44:52.545Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -302,6 +342,10 @@
       {
         "time": "2026-03-03T02:39:29.053Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-06-03T02:44:52.545Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -331,6 +375,10 @@
       {
         "time": "2026-03-03T02:39:29.053Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-06-03T02:44:52.545Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -352,6 +400,10 @@
       {
         "time": "2026-03-06T02:39:11.073Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-06-03T02:44:52.545Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -373,6 +425,10 @@
       {
         "time": "2026-03-06T02:39:11.073Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-06-03T02:44:52.545Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -388,5 +444,100 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mg-OklEjMVP-sNR8vp5gCjYKFMN7bbaWk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-03T02:44:52.545Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Singles & EPs"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/k4l9duXdkW2nRv6PFXtXLSt35I3tRGrEFCaU_akzwmM9TRRWtM67r2sdaz_qFUe-zJQC1IOnLYHzGKo=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Нам стане тепліше?",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l19tAf7YQJkVlRviF3NyjTWzZPsKSpuf0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-03T02:44:52.545Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Singles & EPs"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/5eDre0zEBNw_dzEUi5yDbNPVGL1b_sjkcfTdQdlZJoMCA3smNPkH3hyOIwxUqXckIDJt6XVsnWFVnPQBhQ=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "На моїх руках",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nbv8ic2ht6uXlyEgf51E_OtfdH1rvoSqc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-03T02:44:52.545Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Singles & EPs"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/Ze6W8g60eNp5Zpbj2xKpwOmQ96RO3NtvjwseoZJjDZxa6WNRMBUWX0moBHCUGrQOBmuXghTz3EJXD8fu=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [],
+    "title": "4 Дворфа",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kwXjWFtgg0TnV55j5aSNbnygdd3Noz6OE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-03T02:44:52.545Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Singles & EPs"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/S3eHYnbT4u-7_jqab3_Ez02MuYmzodRKCABk5JR-CGaXEIJWCMYLr9v-DvGJAMs5s-LMh1oLaV4Zaw-5=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [],
+    "title": "Вистріли",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l6rWaKuSbCgonN79hFZZlD0GTemBhdEwQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-03T02:44:52.545Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Singles & EPs"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/Xlbsz8ps8youEN3kyXDgQ3dNK2KiN-G3S_iQVR2oD4uiJB-iWpPbe7evIUV1ZkRJ2r1hNraiW3OLIOnM=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [],
+    "title": "Блукаю",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kyiItBnB4cBsSnakYMoA-ya9Uiju38nhc"
   }
 ]
