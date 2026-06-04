@@ -2936,5 +2936,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l8iL5sLAiZBKVM0_GsatLG17waBWRbhn0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-04T05:25:06.181Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "keeroo"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/tIxIH6hB42mi2LdvaikZN-Mjq7WYjDwTEEOTzJkOJd_K8c9xrvCaCiSATLihRzane7S3z2VoSlj5qe2d=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Форест",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kJnl_LMdg6ZyZj4BSajELPTQQKZRfIMPA"
   }
 ]
