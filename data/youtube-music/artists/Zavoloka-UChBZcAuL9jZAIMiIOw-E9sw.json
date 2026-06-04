@@ -240,5 +240,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nas9VaNlI2Bu5YG1AnoY6ZvviWnG15cBo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-04T12:44:03.389Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Zavoloka"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/xa_ZcX2_Qj-89vuLCvmOLhjJeKtW9sl_gAmXxnSfuFbUGgWGGa0OvOYnK3Mzpg2lzv7g7jvsZofbja0=w544-h544-l90-rj",
+    "releaseDate": "2003",
+    "tags": [
+      "idm",
+      "electronic"
+    ],
+    "title": "Suspenzia",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k58-xI6rpzU21L_Nav2pcmS1gQVi3NlpQ"
   }
 ]
