@@ -578,5 +578,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nGmQC15BX7LW2_n1SCD1sr50gM4_ChIQY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-04T22:14:42.178Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Berliner Doner"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/7ApHnPZW8W9hWkg7vO6lPVJ0BkZhNbGIJ5hggmH71PdUMOOQYD3HEiitfcBvXO_TYvi2bbxt6Kmx96OWqw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "noise pop"
+    ],
+    "title": "live sessions",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kbzNvMxfJMiBIwiTXD1K_CS3PaPH0gAp8"
   }
 ]
