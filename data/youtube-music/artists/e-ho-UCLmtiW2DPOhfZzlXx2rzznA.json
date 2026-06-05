@@ -348,5 +348,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mQgOsp2glVCVuLOBcgvBVk3SIl0jpy170"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-05T10:08:45.531Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "e-ho"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/JqIjMepqweBrFygfQK5NEoDgGyzGXDn-GRpymqLMm0L2_Klcr2818gpsQqIuT_s1Wwb6Eho3YEAI64A=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rock"
+    ],
+    "title": "Білим по чорному",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mBiRxs7G4U6ACV0BIgqezI8b8btnff-bE"
   }
 ]
