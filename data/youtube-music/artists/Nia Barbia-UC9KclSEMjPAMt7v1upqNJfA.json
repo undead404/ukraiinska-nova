@@ -1025,5 +1025,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lervszUNkRO23A1ka5KZp7y0XL6ov6ZrA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-05T16:41:31.841Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Nia Barbia"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/xb8XqAhVp3bMk75A6qyEXyBxN0-ojrGo_yJQZTUMDwfiyeli8i7wFDjP7Debvd25pbTieTWfkZbTOXSG=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Alter-Ego (Coockie Monster 2)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mElGBa4XNBbhzIXge4-D9J-U31u2byHCE"
   }
 ]
