@@ -855,5 +855,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nCGZgVZFpo-CXU-UrpTpeWnGW5G_BWK3U"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-05T17:30:30.453Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TAYNA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/32anqo8YjYtTJFyJG55Va9-xfv_SQcvti3bCkSufjSf0OL5Vtt0uwlwAaLiuYlhrkM5k3nG4bwRDGH3aVg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Бейба",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_moYgNO-WNsfz8ESvZZb5e_1x_Kzz39vnI"
   }
 ]

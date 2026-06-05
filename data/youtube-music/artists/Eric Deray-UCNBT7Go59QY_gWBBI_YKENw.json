@@ -2558,6 +2558,10 @@
       {
         "time": "2026-03-15T17:55:57.575Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-06-05T17:29:04.464Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -3237,5 +3241,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mOeh8YXtheczzyHYlRTHsjmHx6CJaixpM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-05T17:29:04.465Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Eric Deray"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/pLn3Zq10R7NYJz29WwgrkGnczR4j9IBLHO8WwNVkRk9BAhHV97kMgZ0O7EPVtSVkxwVSrNuR8-EV-z1x=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "So Sick",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nQ8DMy-WkMc_Ky63l46eaJV9--8kTE9yY"
   }
 ]
