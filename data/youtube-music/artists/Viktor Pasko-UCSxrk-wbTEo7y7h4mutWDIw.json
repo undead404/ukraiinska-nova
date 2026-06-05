@@ -511,5 +511,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lN8_F5yYj9hV6RLWDchlKxH4gscnFtSss"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-05T04:15:06.255Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Viktor Pasko"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/xvwVKaT7Mw9g8HkbTqcaT5FF14_yPsfmiaCH-6Gnw0s3rFsz0bMsybRJo45cPfvt9Owavfn78D9LeOxE=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Мрія",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nomwmz4gBJOb1BUb5CuAxUFk6ukGRVuos"
   }
 ]
