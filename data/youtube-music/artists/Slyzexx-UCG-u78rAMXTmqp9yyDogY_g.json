@@ -3997,6 +3997,10 @@
       {
         "time": "2026-05-29T21:26:13.305Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-06-05T21:16:24.769Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -6618,5 +6622,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l7skLlPrZjQJ8UaedIc7AmUJ73yDTy4sc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-05T21:16:24.769Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/zM7EiCwF3wz__eZbW_tny3gGIRruEQdloHutRhfu0V6pNyx41x6cHzh7o65gLHDkUhqaAVN3IDxYwSBDkQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Till the morning",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lKro-T382eeWQWtFhT98ZgLbNePGh13dc"
   }
 ]
