@@ -250,5 +250,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kGEKLf5KDTYb9BUJjr_9reYUgYAVQXrPU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-06T07:41:25.771Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Міша Правильний"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/WIrKAgzHtBLbE1lClz877b0eDp2yHeAlResCuSHKAg2TQxStNF0P9mXfZ9sSMR2zIYGhur5dNbgju0i8xw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Додому: Глава 2: Готель",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n8vVRBnrkzYwQp7xG19RPCxAXkKwUnZ24"
   }
 ]
