@@ -454,5 +454,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_npa39Ksb89NrhA4Pcv4r3Smb_tTL1lBrs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-06T12:10:06.470Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "HOHLAN"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/4yD2r0QNRz3YwHTFULwQLQU-Qyxy6VpcX0fcvTC4bLWiK4rt_P1qzCrRdGX4uUsyRkhd0r1kHjE5LVbH=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "СОЦІАЛЬНІ СЛУЖБИ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lq1ngYUGmFuUiDSzqR3mzZzbvYznLyLFI"
   }
 ]
