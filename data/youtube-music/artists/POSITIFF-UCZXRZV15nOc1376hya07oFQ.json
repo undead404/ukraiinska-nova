@@ -92,6 +92,10 @@
       {
         "time": "2025-09-22T08:49:50.419Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-06-08T08:27:38.554Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -446,5 +450,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mliuTkRm2blBlfwVgW9h_WMFI0Hd5vAl0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-08T08:27:38.554Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "POSITIFF"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/awXgOPZW0i_FkYcQ-DkhuH2HEcEg9OEFeHYowFCYeWjiCJck9drM6PsqJxNC9oDUAdAgEOa3G-PVyBot=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "pop",
+      "pop rock"
+    ],
+    "title": "Спалахи - New Year Version",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mqnJlTs2MJZhkfkjTkSXWDqp2ozZlg0x8"
   }
 ]
