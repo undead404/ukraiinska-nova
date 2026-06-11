@@ -1523,5 +1523,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kmKQERpUApEWwdJFdKmVE8Xr2RIFP30rs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-11T22:23:07.552Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гошуля"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/_zDC6XRqyvEgWJp65VbcsBuJywjR80nh6Vv7t89hKQEIEqaLISrN61poCWJFtWRT9ckz5KQuTASImM9PUQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Сусіди не сплять",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mqtA0teQ3dLfjd09LmFvmcERihAcVATx4"
   }
 ]
