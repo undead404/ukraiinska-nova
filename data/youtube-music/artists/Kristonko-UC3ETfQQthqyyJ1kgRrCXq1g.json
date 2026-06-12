@@ -1108,5 +1108,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lSYWHuMM_ahym-XOVzea7UOfsbsyffHpg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-12T01:38:22.798Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kristonko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/XIBldQvQwlj34Yseq6yQqAoOHux7zc0Kzelcz-TejFCkrl7XohO6Zvp1nu9uDazl4wtJum15MaCGmZnHVg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Не плачу",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lgZYSaTIanlN9G1zRUv8Rcf_jNsY1PDNM"
   }
 ]
