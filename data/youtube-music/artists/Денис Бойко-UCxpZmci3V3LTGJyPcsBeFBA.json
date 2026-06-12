@@ -495,5 +495,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kv-MELVP-iiXvC5JS6GDF4d5J6I90Qw6w"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-12T17:39:05.194Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Денис Бойко"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/j3zZAIjgoaBhTpanu7j70WCPh_XZ3oQ92_cdsmhBGylUqwTxQ053D7I4DJfSZyRZRyk6rfmcCHFmv0dF=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "забувай мене",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_msWJI1cD-NiN10SW8izVXfGM-HgKkCR-8"
   }
 ]
