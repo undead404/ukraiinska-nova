@@ -639,5 +639,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nQuUio6rMlErqry6Ei-21pd3u4dlRY6KI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-12T13:52:12.199Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VARASH"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/pEH9PEqTAIx2IpxNdp1VnI2Qo9vBZ_mIXYA_saThmO2PVRpbTZ6y6w71WU0senNScIRxx1v7yIzSp3cS=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "УНІСОН",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kldcJZ6pi0_PyDWxaGLHTtgm7ibhsfNOk"
   }
 ]
