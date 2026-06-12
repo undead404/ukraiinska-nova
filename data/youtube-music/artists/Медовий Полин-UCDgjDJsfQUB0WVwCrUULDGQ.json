@@ -250,5 +250,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_njbI8ol-M9-FOaJDaaC5LukD5IPIz4fq0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-12T10:09:52.990Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Медовий Полин"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/av4cBtlcoLxd5AdHrWm71ezk9HaGNkk5wvZ0MgekjNFsko_FXfUICiM4CG3wRjr0jTFVMNi9iI9bIQOp=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "punk rock"
+    ],
+    "title": "Доля",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mirtYT31i3mv99rQO0xZ8m3eD08CHw8Nk"
   }
 ]
