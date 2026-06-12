@@ -540,5 +540,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l-CqipbMV_Rb17nuE_ah2F_k4hRGB_9K0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-12T18:25:57.425Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TIMA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/E5CQ5c1xY1M-uPuVn874DJSVMqMtdZ3pZ1lurmjgE8GSgE6AQvo2bOK6oeS0v0Zy7YqdW6i9kcePJCg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "lounge",
+      "downtempo"
+    ],
+    "title": "Очі",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kne59KPPt-0Ccs7QqrjUrVt9HuKgr2pRk"
   }
 ]
