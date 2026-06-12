@@ -418,5 +418,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k4SVsd5YD8N48phMZ7WODomxztfYjsszk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-12T06:19:15.542Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "elarm"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/gNbXM_KXEirPwe6r5KsRi0piB2I-CH5z-HlmSvaj_HvV8z8PjeLdexEtqr23qsZFLvtHxaIZ6tUQp2s=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Свій Вайб",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_khlIFDHcO_GCOIzpj5PcmU95XN-PNduvw"
   }
 ]
