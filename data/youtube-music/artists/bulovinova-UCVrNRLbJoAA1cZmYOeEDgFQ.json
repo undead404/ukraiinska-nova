@@ -508,5 +508,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m1K-6efy_onRE0p_FViuPvE2Rb4mvHlpg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-12T11:57:47.241Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "bulovinova"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/TJvLuor09Kgoi2POgBsxLI-Y-rPm7MdYRA4oIqrelVwA9JSmuG8FoPti1dhyRbBfori7zlu2_Y8GJnVz=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Я рахувала",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lJN33wGJxfvLPPoe5lSovJgPyPDSdGxcQ"
   }
 ]
