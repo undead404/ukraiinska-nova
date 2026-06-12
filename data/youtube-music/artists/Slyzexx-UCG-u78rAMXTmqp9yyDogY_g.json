@@ -3938,6 +3938,10 @@
       {
         "time": "2026-05-29T21:26:13.305Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-06-12T21:22:12.514Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -6641,5 +6645,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lKro-T382eeWQWtFhT98ZgLbNePGh13dc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-12T21:22:12.515Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/7ddU-eKYIhUe86JUeKfot6J9uv4dvcmf-YdiqvTSwW8wctXl8woykHz25LLPVMehEzRZ5yHA75LikB-BYw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Гетьманський курган",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kzzCykvk4guMcp9bvfmb7PS5jKmoaSCUU"
   }
 ]

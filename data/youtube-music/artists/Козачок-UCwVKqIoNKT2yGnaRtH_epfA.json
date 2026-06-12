@@ -154,6 +154,10 @@
       {
         "time": "2026-06-11T21:31:10.951Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-06-12T21:19:38.033Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -196,6 +200,10 @@
       {
         "time": "2026-06-11T21:31:10.951Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-06-12T21:19:38.033Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -710,6 +718,10 @@
       {
         "time": "2026-06-11T21:31:10.951Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-06-12T21:19:38.033Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1610,5 +1622,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mUAvwg6beeQNibDQaudgyuJNlWh-_lc5U"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-12T21:19:38.034Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "козачок"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/N2eafo1C9fztrqesOlsasSEGJuKfI3T-1NCuW0n-At3U5Nttrq4YFElqGOZhEY4438pdIn6Jvxexitc-eA=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "rap"
+    ],
+    "title": "Ваня",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kIiEPU07-MT_SiU_KzOEpvdGKOQu9qA5M"
   }
 ]
