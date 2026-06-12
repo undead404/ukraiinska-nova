@@ -515,5 +515,28 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lPuVBtOufXanTxgvlR4KVUU1BPgfxMJNQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-12T15:51:54.545Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "éllia"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/BxyJfOnH5RFl8xUWPYGPui0LdN-0hRRimjidP8OLsJ_Jrt9flbuyevcGtTKfhCNei2Wc43G-V_DwGdIw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "emo",
+      "emocore",
+      "post-hardcore"
+    ],
+    "title": "Тим, кого це може стосуватися",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kY22ebBZSLZ-tM5oe_Vq9d15MSeFVS7dM"
   }
 ]
