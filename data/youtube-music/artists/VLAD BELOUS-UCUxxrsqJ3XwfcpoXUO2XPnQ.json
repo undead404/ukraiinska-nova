@@ -587,5 +587,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n96orewMHPx8wWnHAWLza1tg2H-G32X1Q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-13T22:11:53.181Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VLAD BELOUS"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/gkdKCTVDmErES3shoe7GJnSROXawkpM_gDCwhN9xDSDNaBNZMrK8FkHfgL0jQ6M_dVMm8vWl5I6EpazY=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Вайб",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kyV_8MGn-BuEad9Kq-iihEg92F6WxF_Y8"
   }
 ]
