@@ -2970,5 +2970,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lzzwLvzBv52SrnYcWmFQy8jekWF4KkOeQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-13T07:58:44.952Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гурт Дно"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/Yb9kQmDjpCh1gUYK8Ytbf-z1m0BTlr_5jlHEYYqIp6UW61Ijk7mrTdmapfiDOSAaCtshRRLRIlTyfpON=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "я окєй (feat. Moann, Дусік & Мілош)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mD3FeeEwKQI6lHt6HnwxWG2JcS2WnJUCk"
   }
 ]
