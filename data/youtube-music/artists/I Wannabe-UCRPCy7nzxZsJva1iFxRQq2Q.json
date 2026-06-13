@@ -1182,5 +1182,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l_JIGNrT9ig-ZyeMGasTjXYAvJezr8Ywg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-13T09:47:35.493Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "I Wannabe"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/vIAfZgoPz87J1-xMMciKi55Zb5hK3ShWQIf6hp07Qgbe9gyMQ5FLSagC5iD8hQIPa0JDeWlfWDjqtxY5=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "dubstep",
+      "Drum and bass"
+    ],
+    "title": "Story Of Out Lives",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kVTdZxweAJ83WD6YNwzxO1dKBJWhUHPfY"
   }
 ]
