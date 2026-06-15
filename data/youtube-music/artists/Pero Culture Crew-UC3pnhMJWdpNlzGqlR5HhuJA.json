@@ -523,5 +523,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lW1wHC4oGjmEppnlrTKZII7dU5TyDyhYY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-15T04:16:29.784Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Pero Culture Crew"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/MI7GbW-H_Ul0ehLf85KPvnep_8D7E-2VC6-_wvsiBD-OfaUD8FzopuF3ZRbngXnkXc_lgaZ5M8xdI2si=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Rasta (feat. DJ Shon)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l7RpZY4h0iEke98RPyLb3tdv3Ma_P7FbU"
   }
 ]
