@@ -534,5 +534,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nomwmz4gBJOb1BUb5CuAxUFk6ukGRVuos"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-16T04:20:20.848Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Viktor Pasko"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/fDYLXa1y22bPHH56wTbkvxsRMfWIC9Rvszx-mlBSVnPalcjXr79qB_ICvM-FGxX8-vKyFEzIevMoO8o=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Мані",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kd_HjVCx-QE8pbaH0aX1B8YW9fopTy-nw"
   }
 ]
