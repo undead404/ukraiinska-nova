@@ -271,5 +271,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lTsVLmg-Hyp3zV7ehcBRMpm9AJQLHs9wM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-16T12:28:37.203Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SKAI"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/sKjKfoZCyQNT4MbGOEonxQhC3Dau4f-qANoBgZMHYeWdn_QziiuGWZ8Kgq0uMB6xqz2VUhHfPMYUZKei=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rock"
+    ],
+    "title": "Любов і Війна (Special Collection)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nmU7QxnwouO7EsNqhusbuycy9BgyzhNDg"
   }
 ]
