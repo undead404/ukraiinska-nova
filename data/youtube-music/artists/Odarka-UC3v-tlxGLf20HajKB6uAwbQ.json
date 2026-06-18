@@ -468,5 +468,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lEJ0APFkk-r5UUzC9jF9S7t9q-s6E74as"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-18T13:52:28.172Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Odarka"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/e5uN1OVVyMmDNzQbRkmBo6romKwTm0tlPayKbiadOS6dNMQNl8gSIv1G8jmZUIQOPUyhp9Tx0sEycAuVxQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Midnight city lights",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n-XknZUHTz7n6Sw5qT90wHQL4Z6sJwWNU"
   }
 ]

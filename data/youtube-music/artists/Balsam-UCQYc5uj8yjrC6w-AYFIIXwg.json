@@ -1031,5 +1031,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k4tLxsG5VKVfQjGtACQ_rzuZs1DYF1KZI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-18T13:51:18.450Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Balsam"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/MFJn3mejMabBVbuxz_S2mOGkqOkIYhdc9hnCrAa7GzV7jXQ20uErn9dhgMW0Wnf8cS7t3k08tYGrpW5N=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "ambient"
+    ],
+    "title": "Я, падаю в тебе Мʼяко",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_knDkN4D1QZHunxNU6EH-e60sWRjs1zwng"
   }
 ]
