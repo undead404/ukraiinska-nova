@@ -2458,5 +2458,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mDmwRmnXS7WqB7VHvG3VDBLMmZfUpiyLo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-18T23:23:23.212Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MakeMD"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/huxk0N4QCE6rKrHNX5K9a77UrfFK7nVVfOUloHkqYs8zCzSWxRMb4TvraFxLqHCfph3ReDxezR12X4G8=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "techno"
+    ],
+    "title": "Should Go",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k13GWVXs3i5y3Qd8XWwN1pSWrTeFmF1RE"
   }
 ]
