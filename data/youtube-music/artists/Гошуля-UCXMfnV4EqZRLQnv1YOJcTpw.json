@@ -1542,5 +1542,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mqtA0teQ3dLfjd09LmFvmcERihAcVATx4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-18T22:27:21.021Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гошуля"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/tvbbr0mYUzlgqE-b0-RQwLjGxJQyCBmZbO_Ql5i5FbnZZlEExttWUzxpem5rpDNwehbH0OawkollBYo=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Депресія",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nQsP48601BZXPvGTxrDustlzs8zMgPt6w"
   }
 ]
