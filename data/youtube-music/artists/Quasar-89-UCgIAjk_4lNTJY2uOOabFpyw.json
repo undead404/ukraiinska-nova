@@ -3761,5 +3761,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nbrTliaToaNU41x46RnoUhleT9nTpLNfU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-19T15:55:18.176Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/U6decr_hN_c0cooZhJyWrD2Ci53OifwHBYgTkq5ulXC0QeG6h0k247DZ_IiMBNS7EqUTs0e7RGaRfcKF=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Keep Moving",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m215eZPCuj9wpkI3mLNhjlv-UwwucC208"
   }
 ]
