@@ -610,5 +610,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l6m8DKLbeU8KikD_VjUvfaTVqtkXsYdzA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-19T07:30:25.940Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Андрій Кравченко"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/AMOX5mmjlAE7L-Mooy0GHsTsPL-COdrKNy9drFuQ6yf3K1B0NU53jZdUZFIqD1-hyvK_cVHULA1YWV4=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Білі ночі",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lNq0I31WffRsDHBuf6hFELePQzbch2dc0"
   }
 ]
