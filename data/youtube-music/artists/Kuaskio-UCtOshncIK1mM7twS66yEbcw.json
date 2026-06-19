@@ -493,5 +493,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lMuL4wIBLSKRSr2DcK8_H9WJAKJ5nDXeQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-19T11:12:50.508Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kuaskio"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/1MEvkr6GTxuyYiX-3rQ4EVWqvyx8Rcq32Sc8Bc6WKx0PNI4bYLLMnDps-n3mwVfKfP4injhuz75gsi8l=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "авалон",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kenSFCes7gLdStHcXkphnsEdf-Aa4Ox8E"
   }
 ]
