@@ -313,5 +313,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lUcNlDc0_JIyIiHxITfE603Z1UAN6v1bc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-19T05:29:36.414Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Chekson"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/r7qBgFPiKF5czP_l_HKqcnrNUVuzIHIXYk0bjh1L40cdc2vDDHljCaElqaEZjijtt5bl6-tdxLXjMrAC=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Жовтий Князь (Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kRzP3hySNzSN6YQWlXjbHOr7xGxLLa5kA"
   }
 ]

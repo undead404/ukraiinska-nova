@@ -777,5 +777,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nOkSzeOkTtPxXfkzm-j58dZXW7rUBYtD8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-19T05:31:15.093Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PATSYKI Z FRANEKA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/06MfDAinosIVbYia8Q8T7MMyC3F-5cQIt930uQR6_fG5XZH_g6qmllY6BZwnBbxafAmlXNLDjLZV6yDR=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop",
+      "pop rap"
+    ],
+    "title": "Натуся",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kCalz4ioBfnnFmWyE7p2MWFkJdu_0sCVI"
   }
 ]

@@ -483,5 +483,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nM9Rgs5_6fraSW2bShSpwiaJgsfG2ilFc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-19T05:28:40.630Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АЗІЗА"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/X_p3vxwr3J5jqM3XNqKyz0iXgRgITrJriNpxtj2vrBogLu0KUWD-FjH245FkhsycdZNiFor2wzq3Egs=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Азарт",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kdTqGka6faoG3paNah9hthaslv0qvoxTg"
   }
 ]

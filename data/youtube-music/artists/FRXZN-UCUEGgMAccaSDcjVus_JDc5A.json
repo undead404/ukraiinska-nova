@@ -625,5 +625,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kZMFbmQC918gdngAOBtzXDZpZzwK_xRbg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-19T05:30:01.727Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "FRXZN"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/KF34BHD1kfVjrMDqiMu6v1H2LO-ZN1wMyZN2gz8luFZEDgktyDayTXrjBk2yq7Q7GneWtDPbLFFCBDI=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "TURMOIL",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l_S01X8375Qbsfje3nsXn-g_P94IBTxWs"
   }
 ]

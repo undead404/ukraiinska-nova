@@ -606,6 +606,10 @@
       {
         "time": "2026-02-22T05:14:48.666Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-06-19T05:31:53.953Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1038,5 +1042,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lZQPpg7PCXTGcTRCk6sZxF-Wo9F3o-miw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-19T05:31:53.954Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Trimbeater"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/DGGqeQQVBRzvRJj-Yovkkpn2Ir21qtgTbr-iACP9S4zUOw2fiyOJnQdYWzVGJohS4M1n7fDUSv9bT8ckzw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Hiч Тече",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m4hreFHUHyLNcjAvukLzopSs7QjjubqaU"
   }
 ]
