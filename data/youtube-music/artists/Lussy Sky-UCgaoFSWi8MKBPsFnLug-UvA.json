@@ -16,6 +16,10 @@
       {
         "time": "2026-06-18T22:29:00.637Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-06-19T22:09:57.290Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -47,6 +51,10 @@
       {
         "time": "2026-06-18T22:29:00.637Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-06-19T22:09:57.290Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -78,6 +86,10 @@
       {
         "time": "2026-06-18T22:29:00.637Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-06-19T22:09:57.290Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -109,6 +121,10 @@
       {
         "time": "2026-06-18T22:29:00.637Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-06-19T22:09:57.290Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -140,6 +156,10 @@
       {
         "time": "2026-06-18T22:29:00.637Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-06-19T22:09:57.290Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -171,6 +191,10 @@
       {
         "time": "2026-06-18T22:29:00.637Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-06-19T22:09:57.290Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -202,6 +226,10 @@
       {
         "time": "2026-06-18T22:29:00.637Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-06-19T22:09:57.290Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -233,6 +261,10 @@
       {
         "time": "2026-06-18T22:29:00.637Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-06-19T22:09:57.290Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -264,6 +296,10 @@
       {
         "time": "2026-06-18T22:29:00.637Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-06-19T22:09:57.290Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -295,6 +331,10 @@
       {
         "time": "2026-06-18T22:29:00.637Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-06-19T22:09:57.290Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -326,6 +366,10 @@
       {
         "time": "2026-06-18T22:29:00.637Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-06-19T22:09:57.290Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -357,6 +401,10 @@
       {
         "time": "2026-06-18T22:29:00.637Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-06-19T22:09:57.290Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -388,6 +436,10 @@
       {
         "time": "2026-06-18T22:29:00.637Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-06-19T22:09:57.290Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -419,6 +471,10 @@
       {
         "time": "2026-06-18T22:29:00.637Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-06-19T22:09:57.290Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -450,6 +506,10 @@
       {
         "time": "2026-06-18T22:29:00.637Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-06-19T22:09:57.290Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -463,5 +523,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nvT0W5VxdgInoMOTy_LzLzLA3noeFM6yU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-19T22:09:57.290Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lussy Sky"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/RLsYXbXCQS0PTIrSd5hq06opIuaeFGzTR-kB1afzkcJQZDTaFLZ0GOjqtzN1JNYqL7z7hcYVQixWV-Cn=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Vilni",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nBXUlsAIfE-Ed3OO5krPihDkCGc7r0BQI"
   }
 ]
