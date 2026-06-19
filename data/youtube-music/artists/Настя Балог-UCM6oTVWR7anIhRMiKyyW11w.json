@@ -476,5 +476,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lNd2e_j3c6UvG2yL5zShPfgN66TaVF9nQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-19T12:56:30.283Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Настя Балог"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/GY7S6Umq9Ow50cNPn7vH4bPBMWl4SUVlh2SoXKFjCmhN9OsIF5wf3wC2rpzTMySDY02KPCiYeht4ae9H=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Ніж",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kC-1nSJf08XlfXiTFPwb3-uoKtXJq1Vu8"
   }
 ]
