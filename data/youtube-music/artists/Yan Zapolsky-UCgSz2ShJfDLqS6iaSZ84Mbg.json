@@ -1816,5 +1816,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kePJJy0YN9WzcCnNPqmTq_oa4u6yKjkJY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-20T13:17:15.534Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yan Zapolsky"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/vXZDjjSGhePZ8KEEkJT0gGmEyb3L_ZXFnMScFjte0f-vUB7B17o-B12SmwZiLhySSaOG-mPHx-Bjg1--3A=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Whistle",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ndQrBqwhR7XlhvalUIDPxOVr-2Lr58DxA"
   }
 ]
