@@ -968,5 +968,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kyiz08aaLf7PMHiUejftgwQn_2-BtR3MM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-20T16:12:13.265Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Julik"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/0TnH9wI91WVGQQlERUffmDqgBzV7AEXXsH-FawwYit0dltS3XeiVh0qCaHCtbdeaZqwlLn2DTBdRr9S1=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Скрипалька",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_krb_0Hv2uPwI75EZlZjQnV5evN-GVo6rY"
   }
 ]
