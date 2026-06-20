@@ -650,5 +650,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nG5IsDRYfDb9LPLZFeyuwp6ga6v0LuPlo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-20T21:10:57.752Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Юрий Вольф-Вурдалак"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/Quf_0FckBHOjfw0ixO7jjJbisHxzJd_yx_80dT3qUQsEoWZV5I5otEnvxTjUX4yQCofOOVjqeBd1jpI=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rock",
+      "punk rock"
+    ],
+    "title": "Примарні крила",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_npxTz8scE_8pK_HMMh-QdBW6mUeBr3jjg"
   }
 ]

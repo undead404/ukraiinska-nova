@@ -1582,5 +1582,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kWiViJ3rHaPNRrEdUBQ0xTRuAzoIUWtAQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-20T21:11:13.209Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BaWN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/TnGtHy6BYY2iiSzifBW7hOBXXfbG7oV75ggp--zh2ypyrYFE2wGUyBwCJBHL_uDvMmcYpA6lufsD-Bl8DQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Пострадянська доба",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kZnYbUPaMcqGXy4IehGNkWSOfrfAcXJ7k"
   }
 ]

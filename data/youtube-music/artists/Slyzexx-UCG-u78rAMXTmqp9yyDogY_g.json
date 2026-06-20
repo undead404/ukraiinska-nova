@@ -3879,6 +3879,10 @@
       {
         "time": "2026-05-29T21:26:13.305Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-06-20T21:13:06.439Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -6664,5 +6668,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kzzCykvk4guMcp9bvfmb7PS5jKmoaSCUU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-20T21:13:06.440Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/mB0b2O5WkwXf_bgigLZZuLLkehe_0GIiYEWZ2-B4vUIaKN2W2AacTMa4ZMSKo0v0w6flCQd5Ph0eUqU=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Dive",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nxqcMbhdMb0Na22xzX66Ogiv_URyNrWHc"
   }
 ]
