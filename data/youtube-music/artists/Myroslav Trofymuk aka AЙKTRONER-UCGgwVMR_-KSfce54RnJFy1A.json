@@ -207,5 +207,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mGagnlQz0q75wBC5n6N3Rh7aXGIYeAGn8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-21T12:27:39.569Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Myroslav Trofymuk aka AЙKTRONER"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/MhJIY5vPsktBx-wKZQbjdEC_EN5XKgtu-ALSOMn4HUdf1FAFtb8WOyy8n_W-eqnPHekbiNkGOAZnUH6p=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "PHILOLOPHILIA, Vol. 1",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l4F8pYLGDKrRr-1OrWz01vjyCKC7GuqYs"
   }
 ]
