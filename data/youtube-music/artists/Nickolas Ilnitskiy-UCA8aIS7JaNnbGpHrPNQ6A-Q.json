@@ -506,5 +506,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lWcqVq2ATb4I1AtKbIWaqjVLomOxzCZYI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-21T10:06:04.761Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Nickolas Ilnitskiy"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/qIUpJCzDw-9HKwAROtf3MR4-2ejNTF7aPVVSB6vsQu8qfgdPyDF2e5sGXFNSc1glnmGyV9FdXCpKPe63=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Fresh Air",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mHO4iOneFIYPjSWeo1D9-wo8JJVdHhPfw"
   }
 ]
