@@ -416,5 +416,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m7_UvAjmjtkwA70W-vBgrVJzJ-2pB2vaE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-21T06:26:02.141Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Emigrant"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/Ravvx2eb8dfPow1ogizd5yvOfrK0asVWel89RGVIwmDw1tLC6sEfDuXKN5phc8cqI58x0CMj5-uoxokPTg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie pop",
+      "indie rock"
+    ],
+    "title": "Loin D'Ici",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k423doI3iCBiIAHqw0TauXZV_SlalAmss"
   }
 ]
