@@ -4,6 +4,10 @@
       {
         "time": "2026-04-14T00:01:42.640Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-06-22T00:10:03.567Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -23,6 +27,10 @@
       {
         "time": "2026-04-14T00:01:42.640Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-06-22T00:10:03.567Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -42,6 +50,10 @@
       {
         "time": "2026-04-14T00:01:42.640Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-06-22T00:10:03.567Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -61,6 +73,10 @@
       {
         "time": "2026-04-14T00:01:42.640Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-06-22T00:10:03.567Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -80,6 +96,10 @@
       {
         "time": "2026-04-14T00:01:42.640Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-06-22T00:10:03.567Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -99,6 +119,10 @@
       {
         "time": "2026-04-14T00:01:42.640Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-06-22T00:10:03.567Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -118,6 +142,10 @@
       {
         "time": "2026-04-14T00:01:42.640Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-06-22T00:10:03.567Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -137,6 +165,10 @@
       {
         "time": "2026-04-14T00:01:42.640Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-06-22T00:10:03.567Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -156,6 +188,10 @@
       {
         "time": "2026-04-14T00:01:42.640Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-06-22T00:10:03.567Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -175,6 +211,10 @@
       {
         "time": "2026-04-14T00:01:42.640Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-06-22T00:10:03.567Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -194,6 +234,10 @@
       {
         "time": "2026-04-14T00:01:42.640Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-06-22T00:10:03.567Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -213,6 +257,10 @@
       {
         "time": "2026-04-14T00:01:42.640Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-06-22T00:10:03.567Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -232,6 +280,10 @@
       {
         "time": "2026-04-14T00:01:42.640Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-06-22T00:10:03.567Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -245,5 +297,81 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n9HA-5GIpttikkRf05v88PQH906BkcelM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-22T00:10:03.567Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Albums"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/cs_xhcA6h7p0ct90dRFqWkDDYeVSmzqTxuvLKVVFhTjI9KEqDgW7khDRbwGMxKjt6_hUNPQtSVQHMizd=w544-h544-l90-rj",
+    "releaseDate": "2020",
+    "tags": [],
+    "title": "ТЕЛЬНЮК: In Jazz",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kE7Bn5sGxAEsMzYnCRjRcUTqzm7PG5AJM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-22T00:10:03.567Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Albums"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/PEIP4EYrJ1XfJafvOD9Gup4o-CDoZiXasfo3EsIti0IE71c1T5DA68u-CUtcmmsaF5b6Sv1keb_M4x6M=w544-h544-l90-rj",
+    "releaseDate": "2015",
+    "tags": [],
+    "title": "ТЕЛЬНЮК: Наш Шевченко",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kCMYDQC38WBoc0CZdnKbi3MCFP-X4qa2s"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-22T00:10:03.567Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Albums"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/o8vT9VHdRgOiuiCxhMs-YpSa50wtcGQhXTjSCeEPzfiMmscYbqsBKSmW3wWwDhmUD7LQgSN8BCEsWyJG=w544-h544-l90-rj",
+    "releaseDate": "2011",
+    "tags": [],
+    "title": "Інкрустації: пісні з вистави",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n1Z-CtGXGrqMQUZJrnI2bacOTGTUT8H6g"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-22T00:10:03.567Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Albums"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/vhf5R6XCcjt5zaiOT8e8w6_soM8CKO6Eio3Owd4SPizGVVRQgqUT_iPZGw6hhbhtHVRfcYVDbhKSU0wJ=w544-h544-l90-rj",
+    "releaseDate": "1998",
+    "tags": [],
+    "title": "Тиша і грім",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kUwAf4GXeLDBXs5Yt7XrL1Ipcd8Ko7pMI"
   }
 ]
