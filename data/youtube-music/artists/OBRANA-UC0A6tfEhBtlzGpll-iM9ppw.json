@@ -488,5 +488,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_knaNf36XcW48jpKzy3Qle4J24TAGRQEWU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-23T18:24:34.612Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "OBRANA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/DhjDARSj9EvnY-Fz0Cl_fdJMnMvd172t6ia5jbz3p4sW0F-T1C7DO1RezKPJITURBzNr9gUMreFB_313=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Вінєра в шовках",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nJQSjjT8PnZb3OOeAyaOSqJpPEcAhrNkM"
   }
 ]
