@@ -397,5 +397,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lKQxcarfmUKOQvAjoU8rnep4FY2ulxt18"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-23T11:47:26.005Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lida Lee"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/-AI0Tp_3rsU9X47f7p_haHLIYDUO2PvprVljh6uRqYKFeOK2tnThqpnGPxeCBtZ7dVJYP5801_Jeui0=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rnb"
+    ],
+    "title": "Танці",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k0gXBgZ1LwY9t-dGXx_cwawMDzOQxSjuw"
   }
 ]
