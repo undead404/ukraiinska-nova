@@ -438,5 +438,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k423doI3iCBiIAHqw0TauXZV_SlalAmss"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-23T06:10:11.613Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Emigrant"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/axBAFvOYNmDLTVq788OrBWUM5otfIj1FYY4U4tJxRMBYscCHNikh5NggeFMvfAsDfh3fY4xr-xFFv4TH=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie pop",
+      "indie rock"
+    ],
+    "title": "Encore Une Fois",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nlonjTGIue3e1oHSn2RMB0waOpgBGwlxI"
   }
 ]
