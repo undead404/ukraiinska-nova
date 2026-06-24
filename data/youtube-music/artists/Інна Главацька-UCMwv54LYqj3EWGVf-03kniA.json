@@ -1831,5 +1831,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mRwAA1X4yw5wNzyV9_yv2TMGEybmJz2bg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-24T21:14:10.191Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Інна Главацька"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/6Ck2u6SlRCWf7o7-IhUW87X9zmSZqhBEPON57A7zFgdRrMRrANbU97BNhYQjFZkgWPMhA4p1MgdcwB_E=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "folk pop"
+    ],
+    "title": "КОРОЛЕВА",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kE55y-uENbGnjhs-_xctPJsrL13ZScRo8"
   }
 ]
