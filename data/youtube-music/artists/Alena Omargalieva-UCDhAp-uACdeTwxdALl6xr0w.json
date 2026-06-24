@@ -1187,5 +1187,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k8n6dwqXFTsdLv1I0vtHnmbVFHV7RQ6pU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-24T12:32:01.523Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alena Omargalieva"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/i0uPt4W9hOcsEV9EtwJU9Wuv_2vE-GggofOwEHBegCbErpMZbi4qOFzjQxoob263pzDWA47YKLhzSSI=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Зійшла Зоря",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lB2HGg-BPbNSPUAokY-HU7sCluojJQdn4"
   }
 ]
