@@ -1710,5 +1710,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l5mQf8oaQbJkC2i3v5J45I0uYPB50_ihs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-24T23:10:55.075Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MOLODOY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/Na0WSzoV6r3QyMVQfdJHANMbjvTOkyfiJWmSbOKyRThCuP76etLx7lfhu0MqudSAbGYIHa4icjPrqnLE=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Підйом",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m-UfORHjwKkrUY3eh9WsyxkE4WG8fy2dc"
   }
 ]
