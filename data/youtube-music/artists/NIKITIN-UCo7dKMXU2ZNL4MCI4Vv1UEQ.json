@@ -684,5 +684,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mQ6VqvNv6sWkvJINtaxU0hDc3twsJRiJc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-25T14:41:08.698Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NIKITIN"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/-U2GfDeIJ4sEvsqDxQ1LhnlP6Pc6GXhQxM6Rkgnb3IetgEM8SvfxV1njcSWE7vzv_2mqnMGIETfhVcgi=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "dance"
+    ],
+    "title": "Дай я тебе випʼю до дна",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kvOYa-7LXTOaIlAGM1RAvyDGdYffoY8HY"
   }
 ]
