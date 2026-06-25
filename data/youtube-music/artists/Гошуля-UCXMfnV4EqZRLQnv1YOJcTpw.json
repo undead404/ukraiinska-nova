@@ -1561,5 +1561,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nQsP48601BZXPvGTxrDustlzs8zMgPt6w"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-25T22:12:09.373Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гошуля"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/XOdvd8V7V4Uq6xx1aiirIG0WHfYE8VZZwxvOkbRK5dq6IR6aHAbMtlPZf4kJRegTHR_flabmCf4z6zVD=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Зов",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ktGn18a-HWJJTAx5xCQfV0mhf4MTj_xuI"
   }
 ]
