@@ -955,5 +955,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lj3-n8Hy3zzz0UIJ1ALQPFYVaYGjBaJPk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-25T15:40:11.823Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Choob"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/qTXPp4aOimwRRL-NOZEMQIid2wmSi1l_D5CJ1jGclH0BoGYjyZ7gu_AuOdi58N4nOPyRGuetmfmJb-zc=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [],
+    "title": "old songs",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ksJuqEItvF5Kh0RbMdmQBe6gwx_lNeqHI"
   }
 ]
