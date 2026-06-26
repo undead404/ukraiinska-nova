@@ -962,5 +962,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nQg_9Ye-76ufBB5aeNVO5MlDa4gP6ISHk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-26T18:18:55.170Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YampolSky"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/GIToBUtJbZlsobkpc8-h91uqTBNp8nZDFow0bvUmY_01O_mjvyY8WtPpzHyv6zCTQT0UccCarqsYxJJi=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Bounce",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mFqes-cEMcPBY3IZ8OfqRy3CC3cd2maTo"
   }
 ]

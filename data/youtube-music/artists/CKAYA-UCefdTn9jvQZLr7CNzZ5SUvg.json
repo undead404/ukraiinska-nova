@@ -822,5 +822,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lZNdBO8wRGTsnrBSp5KIHhjulRamWPgQk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-26T18:17:17.853Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CKAYA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/tZ_ksFeoXEdi3WFBpeO5c3OuPjkzUqIZSg_EMy67hMIQ6Bp2mBASUDqL9rESIT5pplPoWOkBiEjx0ck3CQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Травень",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kptTZVEme9eXrX6DcPs4cA4fMcAun9Bxk"
   }
 ]
