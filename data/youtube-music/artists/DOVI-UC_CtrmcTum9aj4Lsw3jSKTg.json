@@ -1292,5 +1292,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nNtXVDRW4v666DI4wOhFujJ-5L4li3bhQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-26T09:56:41.153Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DOVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/xSEHRvx7tCS6MfXCYNH8sgdWC166nrl_nBITbsIA-Ag89d9ICzjCnrI3MR1JnfADVZL8ItFqXdV4cQ0omg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "dream pop"
+    ],
+    "title": "В темряві ночі",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n0rHhjZhfng2HaUxJUGl-HxkvnHM0ZsLE"
   }
 ]
