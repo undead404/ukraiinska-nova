@@ -8,6 +8,10 @@
       {
         "time": "2026-06-25T04:13:21.058Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-06-26T04:13:57.074Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -31,6 +35,10 @@
       {
         "time": "2026-06-25T04:13:21.058Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-06-26T04:13:57.074Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -54,6 +62,10 @@
       {
         "time": "2026-06-25T04:13:21.058Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-06-26T04:13:57.074Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -77,6 +89,10 @@
       {
         "time": "2026-06-25T04:13:21.058Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-06-26T04:13:57.074Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -100,6 +116,10 @@
       {
         "time": "2026-06-25T04:13:21.058Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-06-26T04:13:57.074Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -123,6 +143,10 @@
       {
         "time": "2026-06-25T04:13:21.058Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-06-26T04:13:57.074Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -146,6 +170,10 @@
       {
         "time": "2026-06-25T04:13:21.058Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-06-26T04:13:57.074Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -169,6 +197,10 @@
       {
         "time": "2026-06-25T04:13:21.058Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-06-26T04:13:57.074Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -192,6 +224,10 @@
       {
         "time": "2026-06-25T04:13:21.058Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-06-26T04:13:57.074Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -215,6 +251,10 @@
       {
         "time": "2026-06-25T04:13:21.058Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-06-26T04:13:57.074Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -238,6 +278,10 @@
       {
         "time": "2026-06-25T04:13:21.058Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-06-26T04:13:57.074Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -261,6 +305,10 @@
       {
         "time": "2026-06-25T04:13:21.058Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-06-26T04:13:57.074Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -284,6 +332,10 @@
       {
         "time": "2026-06-25T04:13:21.058Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-06-26T04:13:57.074Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -297,5 +349,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nEkNAZUt-YFXZ40BVEpsUBO2_7XjLGIe8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-26T04:13:57.075Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SHNAPS"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/nlWl9bdGccEVm9yFTrLWYmZ0np9Hyjy0d-gGHPs1oTlM_0XoBeIw7qGGBvp80XA7lFg4Sq2IAC3Dr_8=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Fire Fire Rico",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lAYuvBr8AjLqPgjtA1RJ1RvKFlKgp6CFI"
   }
 ]
