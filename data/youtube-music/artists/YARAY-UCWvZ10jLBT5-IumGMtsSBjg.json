@@ -798,5 +798,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_njqjKzmSMyrF9rOHV0S5cCNfNshgS4izI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-26T15:37:58.736Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YARAY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/K3ZQ_jfYhG7hM3dQgtu6cICFmu2Rlg-Javsvv7weR2FoOop_-EYQEzsdeUkHPwEp4PqosZVet7q70rid=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "metal",
+      "metalcore"
+    ],
+    "title": "Вирій",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mQm9GMEeVjs9WZFDg7IRVQdY391hbX4aQ"
   }
 ]

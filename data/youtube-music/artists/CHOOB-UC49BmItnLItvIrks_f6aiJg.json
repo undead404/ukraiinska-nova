@@ -974,5 +974,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ksJuqEItvF5Kh0RbMdmQBe6gwx_lNeqHI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-26T15:35:04.916Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Choob"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/c2aInqcSdzSzOdlvALWh3aN3L-qxP-O0EUo3Lj5Z78d3dCiPzZwhMsaAAhyU1wxA9YUQpM_AidHfUjs=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Нам малим",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lCQF2HXFZvtrfZO0rJnznjQAcWd3B-W7Y"
   }
 ]

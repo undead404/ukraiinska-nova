@@ -3783,5 +3783,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m215eZPCuj9wpkI3mLNhjlv-UwwucC208"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-26T15:36:58.803Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/VHTxbtXHyNjSbLOJSbYk4HLok9V2V2wBpLn7sh3XK81Fv4TGVi-tQFObCYQ79ejL84JZ-0O987zQv_ss=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Увіллється в зіниці ніч",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lV9Eiu8-mY3yVl4oPSGrO5E7GbYNZCZ1U"
   }
 ]
