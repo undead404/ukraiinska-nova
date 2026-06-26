@@ -4340,6 +4340,10 @@
       {
         "time": "2026-06-25T21:20:44.046Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-06-26T21:14:35.660Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -7487,5 +7491,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nxqcMbhdMb0Na22xzX66Ogiv_URyNrWHc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-26T21:14:35.662Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/V5Q89FdYN7jBkYeAqjc3tNd7Zgzo-WrlxAQjfSk-1mVyZsMk_p4RIMi2u6HbBnMlKu-rNsrCuw7kOcrr=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Nuevo",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_naqWZBYmuPu3NMM7sjmYB7UovCrVsy-Dk"
   }
 ]
