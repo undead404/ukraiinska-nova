@@ -490,5 +490,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lEhoSX5PwTiI9hPYDjMPwK29v9DPGDrOE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-26T17:22:06.635Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kinoteatr Cosmos"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/e63AnOPxiELKqvU9lDR0O7M79WJEQcAlBr2EfGzELtGcxrNgIvvNO5XQwNxy5IUMctC7NsXRdeVLvBM=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rock",
+      "ukrainian rock"
+    ],
+    "title": "Без води",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mCnRihT6OWdEbbTvsst86VngaEtZqjowk"
   }
 ]
