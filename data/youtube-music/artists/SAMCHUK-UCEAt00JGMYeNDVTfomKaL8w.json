@@ -1127,5 +1127,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mQ-l-hH2Hkt4uvqVBnN1efl1xdyuus1jA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-26T16:32:09.343Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SAMCHUK"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/X6lozyBGAEmSZmLHikPv46l6_tE1x7WoHPpXqHR86JejUm-w8Us76n4JF973SCO_9SbRCUDUnJM4UAfZ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Чародійка",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lssNVNM0L1BpAnQveyFeEmeGlRlgoGUVk"
   }
 ]
