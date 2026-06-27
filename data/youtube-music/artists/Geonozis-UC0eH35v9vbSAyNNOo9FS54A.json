@@ -618,5 +618,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n-h5R3iFIbEQ-DqXvrRc0GcXgyf-8c5No"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-27T10:29:42.469Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Geonozis"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/13Kjf4NyRZZr0t0BIcUYsogSG_fni9ugfIq69j-9NedQtD4H5u1n0nnvNo8l5ZFDHFeJI6BHpeJ3twOE=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "The Moment (feat. KaimaNØV)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kQLsShheWbpT47oUES46jITcctb3FXU24"
   }
 ]
