@@ -507,5 +507,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nJQSjjT8PnZb3OOeAyaOSqJpPEcAhrNkM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-27T18:09:38.282Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "OBRANA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/AswEdp5p2zNWHWqgoBWcxUenb9fKqtspYMXjqmGHt6haC2N0B4s_zODXqazmim-U_ZnAjgwnfQ0AYTY=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Ну як ти там мам",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mlu1wUpmVOU7xXy0wvA_-NpVuuHMSoil0"
   }
 ]
