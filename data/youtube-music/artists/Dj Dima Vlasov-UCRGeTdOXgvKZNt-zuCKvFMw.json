@@ -283,5 +283,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mKyix8pQETaZciva4iWoG_RQ4D7Azpgn8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-27T02:41:16.114Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Dj Dima Vlasov"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/mhxA49JB4cnOKKJFRvSKtWB9og2x39aYOeAJJDRa5oZgDDU4DwuMnl9mmXyciqxNGyWqlU4z_3aGkUAj=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Sin Control",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l-FLz7YSFCmaffQYC8Ri6Y-xqHUgMGYEE"
   }
 ]
