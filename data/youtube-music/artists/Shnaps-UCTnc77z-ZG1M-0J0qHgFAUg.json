@@ -595,5 +595,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nEkNAZUt-YFXZ40BVEpsUBO2_7XjLGIe8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-29T04:14:43.802Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SHNAPS"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/-EfwhTMITonW7FnT63rTS4TnVK2TKj7iu-CvJNSRfSmgFtF7Eo8bNRDBbmw6rOFfpTYCupNhtkjFeUbB=w544-h544-l90-rj",
+    "releaseDate": "2020",
+    "tags": [],
+    "title": "Omen",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kyWMHHPM7E2cweQ59sYxMQcEWERZz2t3c"
   }
 ]
