@@ -661,5 +661,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kzhFw_2qmXR6OFTsyLw8X01RyQXbs6nPs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-30T20:29:10.483Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YATSUTA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/rsCNQTtECKIqHM1G_pkIgxGgHtr8DhcxPpTLQeB4XepGxy70CHfMvmLetdoYEVY88v2BNN-x9si8n4xUDg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Trois Jours",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lgzBQvHBQOaw-y5SzipQwGwgITnvNT68c"
   }
 ]
