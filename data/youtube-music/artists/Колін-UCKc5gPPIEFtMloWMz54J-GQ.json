@@ -2088,5 +2088,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mIdh75nfcldfNEKT3eqC3_FaLXwa-dj7A"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-30T17:24:13.949Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Колін"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/-lV1T-Dhjymm4WughI6qHVhrCXpw-kY7IZavUe4cAutlhSLu1tC8DIWq76rYB6Gjz989-0ytO9L_Vp9r=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Літо",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lAGEG1le4IQV7Th6dJAME4EdVq5Ols6g0"
   }
 ]
