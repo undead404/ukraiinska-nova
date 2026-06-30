@@ -614,5 +614,43 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kyWMHHPM7E2cweQ59sYxMQcEWERZz2t3c"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-30T04:13:23.594Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SHNAPS"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/2BGF7kc18rPyHYvV0p_tMUVUos81hVxSsv369fsyzhwJXf0z7o24GFPpjEpXi2W2j-7_fzMcC_X7XOwO=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [],
+    "title": "Ratata",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kM7TBaKEztFqLE3HRdRLGHIMA0QylAnu4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-30T04:13:23.594Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SHNAPS"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/E9Bkk9uPkvwqqVnmfhCD1xPuNphk1k9B2TiliQI2tOIqbf82pgQMg0A-zDPxBAtKMtGFYH5dGkzm0F01=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [],
+    "title": "Не відпускай (Shnaps Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lIQvTAikURfmUMslBXeLOastWZrqMgfRs"
   }
 ]
