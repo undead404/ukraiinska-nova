@@ -1601,5 +1601,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mt02WwOCuwGxTlWHwua3joIwr2L-cWJ7E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-06-30T15:38:55.874Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Gezweirdo"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/f0TEPK0SEKwR80_6PIYn3KmjTEOxlFc9fpnissgUfwk0pDZ33BIuPENKwOs1HHXuBm40zwc8_9MGA3OM=w544-h544-l90-rj",
+    "releaseDate": "2020",
+    "tags": [],
+    "title": "Астронавт",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nA6osiY7goevjUDEXWFVSmAHvle-tzlIs"
   }
 ]
