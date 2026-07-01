@@ -313,5 +313,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kgijbGDhnntcMAZ9F5MMLEc3d6gKxSzDI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-01T00:09:53.252Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Geed"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/hRNRP5M-WQWSTDkkB0pyAH0aUqg841HPDzxDiSLd3G184kG63My08C9heb1MMTEiT1x8Fp6uOcYezCCgdg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Конвалія",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lKrF5E3_vTLaPdoYhKw2ss1B_0gWySsjo"
   }
 ]
