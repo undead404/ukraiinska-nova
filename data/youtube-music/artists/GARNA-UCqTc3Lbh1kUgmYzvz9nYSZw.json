@@ -1551,5 +1551,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mjO-1Kl-qaJu4IYT1PC74aXnZjljj-E9A"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-01T23:11:13.701Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "GARNA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/VyogGTZiyp64YUTvGETYrjeP3brXS-vyu4yWhE_MxoMfEheiDmkWTZolmB9Ej8yUPGtbTCmzdXt1x9K7=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop",
+      "electronic"
+    ],
+    "title": "Усім своїм (Acoustic)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ldHpJHI6wNpDe5Geuo_spwxDM6cJwajAI"
   }
 ]
