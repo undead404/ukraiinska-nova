@@ -859,5 +859,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l4N7xM4B8DnnwOONCow0EzP0JK0rJETA4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-02T17:23:12.631Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "paashee"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/QDsQAYog0hf4e-3bCPjcCF6d9QZcnfGSU-Wyyp_scD6QbQLS97mT-eIAt2QbNFQ8v9HnaBw56-FbRe2B=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Інтуїція",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n1VDv37Png-XK-b25M9yUbJ4tWJtORRbc"
   }
 ]
