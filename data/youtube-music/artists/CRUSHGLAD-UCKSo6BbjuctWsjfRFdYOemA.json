@@ -727,5 +727,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kyiItBnB4cBsSnakYMoA-ya9Uiju38nhc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-02T02:41:19.174Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CRUSHGLAD"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/_FQw8Z-uioCenU4arD_GX38s9bQBN2zfvZQ8zIkk4iEolVMfzqS4yxQFthGPgI_rUGbooz4WBJ8uPOFu=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "полум'я",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lLjG5JVbheZ2X2s_z2YvvbL-Jpx6Hw1Qw"
   }
 ]

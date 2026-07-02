@@ -749,5 +749,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lNd2e_j3c6UvG2yL5zShPfgN66TaVF9nQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-02T02:41:31.870Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Dima Prokopov"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/xhXuyzScIkT_eVNmBlfwg3Ybxzn6aSyoaeQLo-0di2p986mNB-03PgIbuTpuMzx-BIPN1i7Dw_SCsZCi8Q=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Можна закохатися?",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k3q_3MpVsrtfbVCMnvQqfZaO1qythsqp4"
   }
 ]
