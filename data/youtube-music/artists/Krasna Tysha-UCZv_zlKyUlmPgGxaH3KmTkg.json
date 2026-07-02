@@ -416,5 +416,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k0MCYbZFjFyFJKhwkMi2aAPJ0ETb2czRk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-02T22:48:38.166Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Krasna Tysha"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/4nTmR9Anynxui9I8q-JpAUntjdUCQGy1PMC1M8d95QEFtGCq4rIOjKLt9K4BiUXMVuUWUUnK_xyDYF8=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Олень",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lgp6SWPJz3I3kd3E0eglu3zd6iwUpvf-U"
   }
 ]

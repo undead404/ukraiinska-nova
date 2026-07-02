@@ -1580,5 +1580,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ktGn18a-HWJJTAx5xCQfV0mhf4MTj_xuI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-02T22:47:11.331Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гошуля"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/oSx1a7Xr5cCMnXDhiVfYI-SN0GrWd3Tnxm5hkDFbwdW1jHlfwxFwOTy7IRRlhPGvBZoakYu05ZdAeNapjA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "За кицю буде кусь",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lYzU6o2HN5NC3s6CVUWcPExzNCiYkjFPY"
   }
 ]
