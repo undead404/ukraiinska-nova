@@ -1077,5 +1077,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nFIVs-aCfWhbD9Dd89Y_4MtbApOFK_ODA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-03T08:41:50.787Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "satelibra"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/Fm551hu0mPnIwm9g8s3VlzocRt91QEPCcFT2B-cUw8hV3_pDObsrRUh2qwHEDnbk-0FYfOv7-_Y1LH8GDw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Кібербулінг",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kqi1BpsWIJtcMbD5cYKlEB0yuEvELUIh0"
   }
 ]

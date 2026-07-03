@@ -1094,5 +1094,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mFcWnxILt3yEzODcHcCR0qKr4LEy0vNL0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-03T08:40:54.178Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TAR"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/_TWm206nFH-RYU2yWk8C7gSUCFSuy0flze5k86nlvo81ULcMiXwNTLwf2Q01m7VmlAlJ9L889LMvA3Q=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "noise rock",
+      "post-hardcore"
+    ],
+    "title": "Гордий",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n-NX69xMy3CcBOWu8t5fWsS9BfRCNuI0U"
   }
 ]

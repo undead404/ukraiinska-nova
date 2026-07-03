@@ -311,5 +311,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k4Ja1AphI299vB0QfrZVlMkGLA0-ne7yw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-03T08:42:10.954Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VECHIR"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/hxz0KlbRyK5VYxnFFj-JQ-Wl88Ilk1qY8HlifxWKxB_e5nN5pKvCMFaPAj4cbpOs53eACc8QZ2WcVjHYpA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "відверто красивою",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n_wAynFR1GhdOGHwYEIEBSz6A0RR80d6E"
   }
 ]
