@@ -972,6 +972,10 @@
       {
         "time": "2026-05-05T05:43:05.485Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-07-03T05:39:23.838Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1061,5 +1065,43 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m4hreFHUHyLNcjAvukLzopSs7QjjubqaU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-03T05:39:23.839Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Trimbeater"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/I5iA7p79lOGJsAMIBFB07BsQoLI8PCb-PIxiD_x4bKM2QCVT3VSHoRsc6lFi81PiFLSel9n3fIUA1XN7=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "ПАЛЬЦІ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lTTpTJkdziWMQfWucCaE0LBFtaP6ei6g8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-03T05:39:23.839Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Trimbeater"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/5VJWO367gtGX0h4FGyPxP_cvwtaqRFONWJflvPDLhe4JlvNL4iyT3Z-dK3oLLK4oO7qkmo8ikNNEw5Ie=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Далеко Близько - Дика та Нарядна",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_koGB25IX0EKW3cOtrpWPmb5HqldxqAfJ0"
   }
 ]
