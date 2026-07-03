@@ -3229,5 +3229,28 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nn6p1siLOrP0N7DLVWDjQNmCssCDtBn84"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-03T15:47:09.945Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TOF"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/eQdWWh0MdE5W2xbuuUA5waHUArXbrZi8xzH3C-M-v_a06Hd372M6q7qnAYaTaxEEXVKzq9xREE3pTXqQ7Q=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap",
+      "dance",
+      "Hip-Hop"
+    ],
+    "title": "TRONCHES DE VIE VIE EN TRANCHES 30 la réalité pire que la fiction",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nAKFiISqLGPoNHWC3I3HoXkpC9eVgL4tI"
   }
 ]
