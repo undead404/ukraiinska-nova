@@ -1635,5 +1635,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nwgkxUdCMNOuwnXemKJCPFgI9xEkHK6HA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-03T20:06:45.359Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yaroslav Tretiak"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/O2Yc7n5_ca0w9DDqHF37Nd2H3ZJCxrcqdjH5KDraTEx8GZ5h-bLxMa5IZLubJbpTIOdtOoGycOr6Req0=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Turbulence",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lg0W_iPjMisrkb1XqLU7dOCBEu0cNZ1RA"
   }
 ]
