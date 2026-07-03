@@ -487,5 +487,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n-XknZUHTz7n6Sw5qT90wHQL4Z6sJwWNU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-03T13:25:40.517Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Odarka"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/XSBsUrkCJEk7CZ1R0pCxluLdu36XfInn3HYV-TaONRcHTO9NHwUx8ZFMyXEwnJJNODpf0-mFKwuVBqAknA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Take my soul",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_meHcmXeZHrz-pl_4AzRRsxRQo1i-BZkAo"
   }
 ]
