@@ -841,5 +841,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kptTZVEme9eXrX6DcPs4cA4fMcAun9Bxk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-03T18:02:58.874Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CKAYA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/dctVF5pJLeuuwerGwUBDzP66v2m1lfhHmYqCscr2ccPPlExjaBL-2y0LRcjrG5izfFj-WpFB711sPk8m=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [],
+    "title": "Krak FM",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n6FfceRr1RXGDGN4v6KO3lZ_Q2FE3Vyls"
   }
 ]

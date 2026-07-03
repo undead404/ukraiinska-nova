@@ -981,5 +981,43 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mFqes-cEMcPBY3IZ8OfqRy3CC3cd2maTo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-03T18:04:37.036Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YampolSky"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/Z9S_KXauDwqP9mx4lm1Yv4cmWHBdOueID6njdgixiHXTLH542vH1ZqcvKSIKuqir61VsiyXs6LcvkwS7-g=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Do Your Thing",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kF9FZ0k_5LerOk6XMroHhGndBwhPwjpeo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-03T18:04:37.036Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YampolSky"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/8QBGlx9CfbgM1bo9oSEcaE-xzboI6UuZhZR07JKnh-DB39xm4PP-NT3R8UiRPVCK8svfvZRpsBP26e26=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "One More Time",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nr2trQjA8DdVQ4ico-xuk8iLreeCMQcYs"
   }
 ]
