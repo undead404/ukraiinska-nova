@@ -207,5 +207,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nKp5UMWg4xy3Ci86n0HCBtsPt0Bh7azuY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-04T01:22:52.234Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Tec-1Flair"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/lTGcuBn1hXdsVMFYuRxjJP8Fm9nV2xGVGmCP7Aq5OA_9mXrbdnyA4xN7gk-zKIwGLIH4mV6nghzy4Zt-wg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Jerk Mode",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l0ylLD2AXKTgfi5Z08ho730VxUg2Psyv4"
   }
 ]
