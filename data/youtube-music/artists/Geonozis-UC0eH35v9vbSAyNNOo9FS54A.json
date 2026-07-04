@@ -637,5 +637,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kQLsShheWbpT47oUES46jITcctb3FXU24"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-04T10:45:03.224Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Geonozis"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/COzLePSTYJcThiKed2vZb4P43T5nLnnC1qJ2shaO_juWGprp67JN7KjkMDx7mk-tZ0oxJ59hoVpxrQk=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Це Львів крихітко (feat. Biliak)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lUcu_N1Gvr-6B7F7JoIl7VcO59q07KFdQ"
   }
 ]
