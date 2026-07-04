@@ -4589,5 +4589,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lV9Eiu8-mY3yVl4oPSGrO5E7GbYNZCZ1U"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-04T15:49:19.336Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/drAvcH7bRoO1w0SplRwwUP4m7n7AngK8QC45fpA_DVtA0a3wXuAbSi07GwXa92_rQI4WmvK5Fol1PMjgmw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Drake Passage",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nkMyw--2pIVE9w4rIXpwJeTfIWcGxjUjk"
   }
 ]
