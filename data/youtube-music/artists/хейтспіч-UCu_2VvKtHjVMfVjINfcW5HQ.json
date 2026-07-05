@@ -912,5 +912,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mGe39Vl5tbL2LH2kbB2TqYxhL0q04wDM4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-05T12:55:29.531Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "хейтспіч"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/_5Yvd6_MdAI8zo80XT1iCXfnKj_sOVbXwZxP3FdWHF03jA_A9s2VVut6DXkDkPgpmEO97LrBOPl9wJN-Xg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "dance-punk",
+      "punk rock"
+    ],
+    "title": "УРАН",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mg1YTSY6R9WHrxgd_QKF9jgBN78tXKhMg"
   }
 ]
