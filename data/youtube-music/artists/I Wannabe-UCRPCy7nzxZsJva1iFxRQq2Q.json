@@ -1204,5 +1204,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kVTdZxweAJ83WD6YNwzxO1dKBJWhUHPfY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-06T09:45:48.086Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "I Wannabe"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/PAsWGL66siS-sF3w-vC3tYvp-Fsxu87ZIFBsv9rzLDVlYc9B3Ez4-KgStfNG6sRJWI3dpgSlwDK2HPoP=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "dubstep",
+      "Drum and bass"
+    ],
+    "title": "Always Missing And Living In Absence",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l60NPf-NlT7y_ezwAPDKtlyN-d5qKyQRQ"
   }
 ]
