@@ -1654,5 +1654,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lg0W_iPjMisrkb1XqLU7dOCBEu0cNZ1RA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-08T20:13:03.023Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yaroslav Tretiak"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/JeENBNQclFuhwmwaTxs4rym89mbtEf9YqmPIG3gn9FRT8EnJ8j_RxHfYko2qvBenUCifjvCtpmfKeBU=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Kairo",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mqMGlEVMakznPYBiZ5wz5HAn0FEulXvMg"
   }
 ]
