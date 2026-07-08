@@ -313,5 +313,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lbqhNTatCXxYtIDBLkUXpwCqwqKvks3pU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-08T08:00:05.869Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Юлія Рай"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/wocNMwR1gE8cbNzIN6xlHy9UWaFlZ-VCfIu8TvPA-42tRVu-co_dpGz6JPcjdVZcIuPljq9TzvQL4v_S=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "pop"
+    ],
+    "title": "Танцюй",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nXLFqY30gClu4_Sra8rE_nrFU2PyvpKTE"
   }
 ]

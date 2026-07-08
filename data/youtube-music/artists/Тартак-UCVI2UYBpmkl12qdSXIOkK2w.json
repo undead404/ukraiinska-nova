@@ -418,5 +418,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mDeP6guRek8EmXFgcdnzB2JmDpAmYEWBc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-08T07:59:38.272Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Тартак"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/BeefT2QA1p6vA8cJRAkOr3K6yMtE_PbIhizUcuCLaqY7BPNntwYBnR9EQj-aCyEuWAvOzaM8AcTLMo6MVg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rapcore"
+    ],
+    "title": "Та Не Так",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lHJ7bqKH6bmOAqtm_6kPACAqIQ0XKzWmg"
   }
 ]

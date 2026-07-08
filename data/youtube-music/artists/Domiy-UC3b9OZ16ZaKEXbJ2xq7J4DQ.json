@@ -1130,5 +1130,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kpZDpKJs_L7v9DpOH4klgvORo0P054tjE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-08T08:00:43.785Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Domiy"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/U3wNshM5u0SvxdZ2bT5UXT5a7Hl9OHg5oNN6hetcx9GUIqcCvrpmOnsch8_h3H0OVmx0D_ZGPOxyoRQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Не клич",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nXMHJqQ5XQz3ttG9sPEQ0qEmx9zSGfDHw"
   }
 ]
