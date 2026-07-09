@@ -284,5 +284,49 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mQ7TmIVqhS53itMzn2CvcX9knqGblkQMY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-09T11:36:21.164Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Bartky"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/4YLU1QkuTOl5ixzrYPVUrLGVa36glb8CntJlmxAJrC7vMYzU2vQPSqdJ8gNy_z_xzjBjB3qVQfpBKBhE=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "metal",
+      "folk"
+    ],
+    "title": "Zlospiv (MONØLIT Remix) (feat. MONØLIT)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n2Ur8-K4QaTEUmhXMVKnU281qnm3Eu58U"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-09T11:36:21.164Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Bartky"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/4E-pUQmV0NMEffEDMWOFCmo0AAnPQiI5WeGgHSgY20ZWMLcBhtzDZ2mzIrm6hQtKzbHpEzsd1b9W_40=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "metal",
+      "folk"
+    ],
+    "title": "Zlospiv (MONØLIT Remix Drum&Bass version) (feat. MONØLIT)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nxInb5nhSZ4CE1ki3nzL49P2sz9mSWzRY"
   }
 ]
