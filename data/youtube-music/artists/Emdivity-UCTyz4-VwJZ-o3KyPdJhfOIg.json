@@ -229,5 +229,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m6tpSBz9WEGYu-z9r1inBNG7NY20Hi-OA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-09T21:08:03.554Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "EMDIVITY"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/V4XNhisMbeoZPaufi0F1s1vVRGX6YEPImjLVtKn78-Uv_mOd7K91lwX39jSURwLxSU5hylC8j2HbUS9rmg=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Let You Go",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nR6eg3bIea086VJcFf55bKqCowzbJz4Ic"
   }
 ]
