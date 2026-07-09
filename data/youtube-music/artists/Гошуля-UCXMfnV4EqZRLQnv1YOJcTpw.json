@@ -1599,5 +1599,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lYzU6o2HN5NC3s6CVUWcPExzNCiYkjFPY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-09T22:57:08.918Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гошуля"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/H1TUw2E1_PcviYAlkWy5DTry2DYaY3bH2oD2jeVVCD4ohDQpzrWmF6r1kuVpF5ST4PjRmtMDkpOPrG2A=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Асталавіста",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mWbIL_Ff8OBiMhp1eh2crP4jHXxKUkaGA"
   }
 ]

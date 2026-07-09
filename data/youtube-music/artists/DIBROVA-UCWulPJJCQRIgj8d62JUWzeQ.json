@@ -1115,5 +1115,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_np3mXwII2Xgh6HmKFzZ2dutsprq3so1Z4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-09T22:58:11.529Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DIBROVA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/F9lNRY7GL5KPVfRzG1bSr0uerEoDGDL1ibGsB32RzRNx_BjS3bCopWZ6X383hafE5EShIjmhRauJuKM=w544-h544-l90-rj",
+    "releaseDate": "2018",
+    "tags": [
+      "pop"
+    ],
+    "title": "З новим роком",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m_nIRbsuDITSuhWeRQAAyGNavLGufSE6k"
   }
 ]
