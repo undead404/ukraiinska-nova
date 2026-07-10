@@ -1019,5 +1019,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nr2trQjA8DdVQ4ico-xuk8iLreeCMQcYs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-10T18:14:36.363Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YampolSky"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/ZKUnZOv1EkJc8bnNMwsN1dyIJ5727R1CIZaZpBhEaPWfF_BwzFwFgs8-O8hZLPH10YPnK_89wU5U-UBh=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Hold On",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nW5j0wEabVV8nUnEix7GIEVqgXbVrXBmM"
   }
 ]
