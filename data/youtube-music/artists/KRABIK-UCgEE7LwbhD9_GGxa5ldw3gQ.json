@@ -1180,5 +1180,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nwL25GjlMGKcXt7btJbvuke-Sb37SshZQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-10T21:44:48.189Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KRABIK"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/6rnNSXrf_zqXh0Eq48vxM4wIK7Fbr3Mf94_Qw-sKrfxKxXl1MYgC3yXccF9wgpMCbS5S_H8XiAjMeT0=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Ресторан",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kJMmTSMehutjNnpaXuC2xvLcAh2V0SWN4"
   }
 ]

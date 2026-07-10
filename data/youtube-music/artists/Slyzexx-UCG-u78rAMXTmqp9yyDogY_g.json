@@ -4206,6 +4206,10 @@
       {
         "time": "2026-06-25T21:20:44.046Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-07-10T21:45:53.634Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -7533,5 +7537,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mQRI5UP4-elLYFmhxzUr2PnYxdKvcqqXM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-10T21:45:53.635Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/wEWP3ZxXZpQmbaYlUFxD40Fj4sT0Sy9zsvjIPmUXBbi_hCWZh0UhvOdEWDb0vwj-gDKCZkB0YMMn2w=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Lotus",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nKDUXHbrONcQ6hKU8ScAR9A5qQ0yzYTzE"
   }
 ]
