@@ -606,5 +606,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kyV_8MGn-BuEad9Kq-iihEg92F6WxF_Y8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-10T22:46:57.666Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VLAD BELOUS"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/K6aiJDIGlOnAMkGcn-iEf52SkDNquehh781zy32JMBN6Kgg1nigzBYEZkxODoEslo0WFaS5mU7u6n8kKTA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Не чекав",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lhamXwnk9RkKp5Qy6VrJd8SwpeYwvTkDo"
   }
 ]

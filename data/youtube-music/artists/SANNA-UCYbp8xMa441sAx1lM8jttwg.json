@@ -620,5 +620,28 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k6A6YfOd2O1uwAsOgfylr-7XkGBuOyJW8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-10T22:45:50.818Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SANNA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/QFD9BsFuD0HwF48V6OLqvjLh3vkDZ0oWPEdGTWYXxNGluKJzqHCgRlBX3pjYpqlVEX05j_arDY8ALI4=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "folk",
+      "pop",
+      "singer-songwriter"
+    ],
+    "title": "Чорна хмара",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ma615qH9EAxx8Qu_avro-usZ4aCX56urI"
   }
 ]
