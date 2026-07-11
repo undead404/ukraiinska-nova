@@ -271,5 +271,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_koJyM33gtf-ZDm7L_E5ujy5x6e2zeQvEA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-11T09:10:58.507Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Darie Lu"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/TRGlTWDlJyM1s0ZLjGIBRocYhXbUMseAInf9-NJqg-LM7KQAh8zEkmzI37KMPjX2vgFXvr4zQPF6bK_C=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Шум",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l80M82Wt2eQyUWZhei5q0fPoZHfUtvG54"
   }
 ]
