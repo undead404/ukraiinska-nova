@@ -3402,6 +3402,10 @@
       {
         "time": "2026-07-01T15:42:59.435Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-07-11T15:40:12.259Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -4611,5 +4615,49 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nkMyw--2pIVE9w4rIXpwJeTfIWcGxjUjk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-11T15:40:12.260Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/cIqqQqDWsdZq17oaak1TECT9lHP5LdDJqrT_7mWah_WFO6-AXYXwx_V-smvHob1S5ZfZqAkmU-96_GM=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Two Of A Kind (14)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kD1WMwauK20YhdtCYUBI4TfdRAwYo020o"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-11T15:40:12.260Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/YIqjFU3prbN0uXk5o75EoblvcObYrvzphQFolGbSQ78pqUR3HB_8i7KjrxfDP8_Q-KNQTMf77YeMZWZI=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Падай (Yaroslav Tretiak Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mawncpbGBogtjrbt8nu_RLrL-L6FKlGBs"
   }
 ]

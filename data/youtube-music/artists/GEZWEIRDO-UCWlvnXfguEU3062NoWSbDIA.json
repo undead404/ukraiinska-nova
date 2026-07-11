@@ -1620,5 +1620,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nA6osiY7goevjUDEXWFVSmAHvle-tzlIs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-11T15:38:59.272Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Gezweirdo"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/AyaNhoQvwBKw09nlhlCQM4jOOVAp64mhMkNpUXhblWoSBCqD42tYKLwX8w5HBRbdYZ-_ie9CB1JtvDw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "FIRE LOVE SOUND TIME",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ksLdptfMpLXvxP1UsbvSZDKcegFpVwggY"
   }
 ]
