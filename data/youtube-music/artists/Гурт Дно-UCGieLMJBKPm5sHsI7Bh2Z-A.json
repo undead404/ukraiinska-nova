@@ -2991,5 +2991,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mD3FeeEwKQI6lHt6HnwxWG2JcS2WnJUCk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-11T07:27:05.689Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гурт Дно"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/_mSraosFrZVw5zoue4wukLDVPK-zRzEQM9sFiqeGFXDoQ49RO4NoWHlUtMzdz0zSq9ryEgPJ-t-eKFvh9g=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "знайди мене (feat. caronlil)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m5RyYm6PsZNOz0LmZWtJZMEtCJbmLUjYE"
   }
 ]

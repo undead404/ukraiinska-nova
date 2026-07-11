@@ -750,5 +750,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kP2WGTTFPxKwTglvphcZ7cfQx_j9uqQng"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-11T07:28:21.774Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Baryk"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/8SkVwa27YSjuRRdcvgDCvOioSZRKzeJ-YZMiezU4cpeRUjQe5n51NZSA7biwSzUKOtW027hhQ-wmNEgG=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop rock",
+      "ukrainian rock"
+    ],
+    "title": "Жара",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m8fZL8e18A0uTH3v81qaY1GwL6Lb6LaCg"
   }
 ]

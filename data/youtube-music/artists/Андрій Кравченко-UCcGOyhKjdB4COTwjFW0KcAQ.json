@@ -629,5 +629,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lNq0I31WffRsDHBuf6hFELePQzbch2dc0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-11T07:26:40.877Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Андрій Кравченко"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/pkota252JJH7RkePA281et6Fhz6dGjvK7u_VUl4SKm1h49yST0CQWECIo_T4-io8_94duICcwXbhhp4=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Полон",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kBf2qh3RdoFQkrnLVL_zOp7hNMOib6dZM"
   }
 ]
