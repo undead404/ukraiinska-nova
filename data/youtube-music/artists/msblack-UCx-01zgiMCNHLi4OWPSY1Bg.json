@@ -537,5 +537,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_laEWRKgaLiyirR6oF_nl1P0JupPhp4fcc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-11T17:43:19.558Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "msblack"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/INfRc2cyXIg_YXngIppGWi3sqbxk6wjj_s51cAHgBY2Z10YAxFZ-Qh9LjpsBcbNWrPKNBW2UKAYMFkGa=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "З тобою",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nt9DyJX9hW9TytEtBo52iy2NbxPNusHTU"
   }
 ]

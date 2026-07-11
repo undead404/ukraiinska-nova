@@ -876,5 +876,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_moYgNO-WNsfz8ESvZZb5e_1x_Kzz39vnI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-11T17:44:04.990Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TAYNA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/pxaLnAWwW9VSDmD0ym4lp8z9QykhmvCgCVBjyjf3LAje7-nY5evzP3lpIabqdyAqbYXWY5Ztn7jjIMqz=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Не думай про завтра",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nPj2rJJP5Hul6-JpXoOxIENFcX96cMZOk"
   }
 ]
