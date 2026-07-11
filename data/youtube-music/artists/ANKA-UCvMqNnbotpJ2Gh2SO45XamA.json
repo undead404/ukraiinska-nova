@@ -439,5 +439,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m5DaJAEPlC6ZUKPlIKUGvy_pSbcs1ACbg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-11T04:48:38.036Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ANKA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/yDRmTo71ghrZpWSU9eGwsCfz8domRNkEhpM1FbZ1F4Sy0wG4MX7CSRrGvom1c_1tLjCgAf8Bt7A1Wzs=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Рубанула карешку",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lZ2Fev_OfxWtjylveitgRyoFn3AMZsDp4"
   }
 ]

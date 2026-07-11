@@ -226,5 +226,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nio7bmaEqY1LA8CeFK00Av5h6Oo4lXfTA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-11T04:51:10.816Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vyshebaba"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/MM-_qtLyjvldq8WHci6MG2JI1_uOofc9ci8kTuZtlQfdzslxy6kY9R70y6D9yXdG2dybr_o9nqHQVYdOrw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "жінка",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kMMxB0Plbq0sC7Bs5Ik8ulqAEH9n31cnU"
   }
 ]

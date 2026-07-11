@@ -32,6 +32,10 @@
       {
         "time": "2026-07-08T04:55:21.135Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-07-11T04:50:19.082Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -79,6 +83,10 @@
       {
         "time": "2026-07-08T04:55:21.135Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-07-11T04:50:19.082Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -126,6 +134,10 @@
       {
         "time": "2026-07-08T04:55:21.135Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-07-11T04:50:19.082Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -173,6 +185,10 @@
       {
         "time": "2026-07-08T04:55:21.135Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-07-11T04:50:19.082Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -220,6 +236,10 @@
       {
         "time": "2026-07-08T04:55:21.135Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-07-11T04:50:19.082Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -267,6 +287,10 @@
       {
         "time": "2026-07-08T04:55:21.135Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-07-11T04:50:19.082Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -314,6 +338,10 @@
       {
         "time": "2026-07-08T04:55:21.135Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-07-11T04:50:19.082Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -361,6 +389,10 @@
       {
         "time": "2026-07-08T04:55:21.135Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-07-11T04:50:19.082Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -408,6 +440,10 @@
       {
         "time": "2026-07-08T04:55:21.135Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-07-11T04:50:19.082Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -455,6 +491,10 @@
       {
         "time": "2026-07-08T04:55:21.135Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-07-11T04:50:19.082Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -502,6 +542,10 @@
       {
         "time": "2026-07-08T04:55:21.135Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-07-11T04:50:19.082Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -549,6 +593,10 @@
       {
         "time": "2026-07-08T04:55:21.135Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-07-11T04:50:19.082Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -596,6 +644,10 @@
       {
         "time": "2026-07-08T04:55:21.135Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-07-11T04:50:19.082Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -635,6 +687,10 @@
       {
         "time": "2026-07-08T04:55:21.135Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-07-11T04:50:19.082Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -781,6 +837,10 @@
       {
         "time": "2026-07-08T04:55:21.135Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-07-11T04:50:19.082Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -812,6 +872,10 @@
       {
         "time": "2026-07-08T04:55:21.135Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-07-11T04:50:19.082Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -843,6 +907,10 @@
       {
         "time": "2026-07-08T04:55:21.135Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-07-11T04:50:19.082Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -856,5 +924,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lIQvTAikURfmUMslBXeLOastWZrqMgfRs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-11T04:50:19.082Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SHNAPS"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/MSyLy9rmM4sDbd8hJsSqq__EGumK6Qh0QOwlnEpaK4gYNXyDuzSW5KedrVMxumW2EGI6MOmuKJoo-uMv=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "The Same",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_luJUdpbIhUW_dXUmzMyVi9Uemt9YzirSA"
   }
 ]
