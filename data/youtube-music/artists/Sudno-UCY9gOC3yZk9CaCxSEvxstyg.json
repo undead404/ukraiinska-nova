@@ -1121,5 +1121,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lOdCcAmwy0hwaT9PN0iUvvN0jlBtbKUSc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-11T14:15:26.568Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sudno"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/bBnGKtvOqx5frcDT16t4Ih_D89iVTTrCXluH4yZ-tYs8MijEWy8aY1fUDXV8ngbysIKlgDANrAZRXBIc=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Ніч",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_meuxVJeRArc5wIrnCz6SgVX2yxGOYu9uQ"
   }
 ]
