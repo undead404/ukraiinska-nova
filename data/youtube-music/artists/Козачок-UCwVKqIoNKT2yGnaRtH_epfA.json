@@ -1643,5 +1643,89 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kIiEPU07-MT_SiU_KzOEpvdGKOQu9qA5M"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-12T21:33:49.270Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "козачок"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/uI27yGyvXokJn96glDIaeEQ3fXqjoEYLYBftggcu0IS7m2WBLPiCiX5DwUwWuys9NSduxpe-a2K-LDM=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Пташина",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ntxQX_dgdA0MG9o96vL_eW1qCdY_OoiDs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-12T21:33:49.270Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "козачок"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/RQFcMKplj0rlgvDpWDXF1lo_pls1otYPc3GoHWPR4GYTWkjiqwdxM4Rek7jI0AZGj-OPqquWsyEttqnq=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "rap"
+    ],
+    "title": "Читати реп",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n5dhX6vlWYBU91r6FtbFImRnnLrsXrKMY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-12T21:33:49.270Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "козачок"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/2P7HD58ie5IIO4ZMCibr8LLzuBOfLv1B7VyZ2Oi_WD17G_dRYBp-7yVv_-8RGP3QaH_8VKM3oRno2jwK=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "rap"
+    ],
+    "title": "Я тебе з'їв",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mKyibQa5MIrg-PCxbGcK6fIjT3Dn9u_Ug"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-12T21:33:49.270Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "козачок"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/svjPAdoTY_LxE8f2Oi2WDMTSYnqXZArZrkg7bz9BJ_iKHdRFlk4nwDmBTYbok_pe4MaxUZqaJbq3ERw=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "rap"
+    ],
+    "title": "позакривали пиздаки",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nHzizB3HnT3BUHga4L0qz90tJ8V5Zss5k"
   }
 ]
