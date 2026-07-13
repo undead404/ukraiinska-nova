@@ -1116,5 +1116,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n-NX69xMy3CcBOWu8t5fWsS9BfRCNuI0U"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-13T08:37:00.556Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TAR"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/w3qN8-q-QcNDxw4wFnM8pOOcuMz22OM7tO45GST9khVYIGvMhSieeinEw6itY_cXBIUg_-Nham61zDtQ=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "noise rock",
+      "post-hardcore"
+    ],
+    "title": "Псятшість",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lnEnOQbIc08CJHiEziM2N5EgN_ADc8LbY"
   }
 ]

@@ -332,5 +332,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n_wAynFR1GhdOGHwYEIEBSz6A0RR80d6E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-13T08:38:17.580Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "vechir"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/pJr4p7LCb-MMIQu5-KMaoT8_CUezaME5QpGCJt96j7qw7Dr0xl6RzHiLr0pf8Gx_50DmT53iziRjCwQ=w544-h544-l90-rj",
+    "releaseDate": "2020",
+    "tags": [
+      "pop"
+    ],
+    "title": "Светлые Мысли",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lco4quw1Fax6A9JzlGD8PkRS1Py0HAnQc"
   }
 ]
