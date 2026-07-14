@@ -511,5 +511,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nsSfYQ70u26y7dZ9xbhGLWouJqVA2OUQw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-14T09:30:02.546Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Art-In"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/KdnVEo95rhLXEWEZEHvc3P7w-OlS_Idea2Jpkskj2roJxIXNw3spTl_wjIO1A_7i0e_kn1ooVTfYKBMknQ=w544-h544-l90-rj",
+    "releaseDate": "2020",
+    "tags": [],
+    "title": "REMIXES",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n-YpPBy0Xedc36JFKTd3bTbCW7X2KLTeE"
   }
 ]

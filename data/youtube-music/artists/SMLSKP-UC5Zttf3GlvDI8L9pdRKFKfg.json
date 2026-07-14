@@ -226,5 +226,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mdTZx402ZXKx2ht5KHsGhvjVpEGbm0ZgU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-14T09:32:20.546Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SMLSKP"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/My9RqOhVpMBEhx2a8Q6mo0G7anRKt23lAb5XHWSAXQP2CWO7tkF64lwARLFa34kzEqEeiWK7qEUP_lC-=w544-h544-l90-rj",
+    "releaseDate": "2017",
+    "tags": [],
+    "title": "Контрафакт",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kN5Cdfkt4yh4KFhFJ0lYrOj88HBdFLTSM"
   }
 ]
