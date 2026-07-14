@@ -642,5 +642,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l742g6n6W3q50kY1z2jBeKeJRtcYwdM08"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-14T16:53:59.828Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Scroodgee"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/kc2I5J6aIqWsWUS-uUfAC04Ou-X0xdadEfUNkVEfwfQlcelzHnrZ9YH5mKSl-cOiR3NBAaEBWtb5lFyh=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "Hip-Hop",
+      "rap"
+    ],
+    "title": "Вище і вище",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n2uFDWrNW4bJII_R_s0kwqlJRCghjVri8"
   }
 ]
