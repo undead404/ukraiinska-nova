@@ -1220,5 +1220,49 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lsxHbApJvZ5X_AEgT4NGAZHia3Ni-oUHA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-14T20:45:12.913Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Adam"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/4D62A0w1BoVng3MWlS6_eqwnr4bo23CAtFaLmf6JGFt3PV_ipZmVzyAGXv3UXKSKKqwrkOoSAXoAQGg=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "dark electro",
+      "ebm"
+    ],
+    "title": "Via Rampinelli",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mdMLWjyQbjEfkg-g7BRhAEdcfAfXL9Tn4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-14T20:45:12.913Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Adam"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/knYvE7E5CDlh0wuBIRKPgZBZA-wzJUQ37X2224u1ty6XWCloWzy_70enDlnkgj7vBSIWigImBbJ_IXrg=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "dark electro",
+      "ebm"
+    ],
+    "title": "Don Raffawe",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kaDkaeKdOunWjHMS1s7bUk28_0n367sBw"
   }
 ]
