@@ -553,5 +553,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kd_HjVCx-QE8pbaH0aX1B8YW9fopTy-nw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-15T04:37:41.823Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Viktor Pasko"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/5N7zuzNG8bsSZxhoHmxPu4d_lSEoLINaeEND-ZuuKMzJenfYQvsv0bL_ah0nmnI4ZdPOpQvmjsmIjghA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Ші",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lYV5mYqHtuCMGBieEgc1qUCWMHew0jYfM"
   }
 ]
