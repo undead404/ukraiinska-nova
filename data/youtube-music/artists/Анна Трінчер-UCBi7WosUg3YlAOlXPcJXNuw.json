@@ -1844,5 +1844,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lQbQKHeqZkKAuBn0Xp9Ko5WlkZNhp6rhM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-15T16:55:39.785Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Анна Трінчер"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/vLolr1uOzIy8iCCdjR9WmvStoOGQvqpvI2AmtuvhC5vdz3Q_METzbuURy7PKzlaNq4cn4jb3E1FEvRhr=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Маргарита",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nNfb7yqO-GoMj8BaFMyxWWB4xxBDBch48"
   }
 ]
