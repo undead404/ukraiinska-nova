@@ -934,5 +934,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mg1YTSY6R9WHrxgd_QKF9jgBN78tXKhMg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-16T12:10:26.400Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "хейтспіч"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/t0gruWv2jKL7ugOyYdBTCWblynvr_OwZrFVn5bdaEm1I3eviAu6RD-TyDTY_1OKCwzCXgcegXzcjGgQEzQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "dance-punk",
+      "punk rock"
+    ],
+    "title": "Я ЗА ВСЕ ХОРОШЕ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kt5lGzNs5RN4rXlSASIKAQC8Jm_DTIgYA"
   }
 ]
