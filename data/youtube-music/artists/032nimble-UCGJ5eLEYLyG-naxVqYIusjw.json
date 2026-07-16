@@ -205,6 +205,10 @@
       {
         "time": "2026-04-10T07:11:39.878Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-07-16T07:47:46.167Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -590,5 +594,47 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lcxatIjMwmmjpDZoV2phXKyQvidbBnvRM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-16T07:47:46.168Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "032nimble"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/KtTDFnebjYYwicB-oeFiBIZueFKy55b_JK1mHxi_0_g4K0zAN_E2NUrExEd_uTeX8M14YM9nZoKLcEPu=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "rap"
+    ],
+    "title": "SLANCHIK",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lzhFRSy0DMXIubDFaPuw17FnWVx052SMY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-16T07:47:46.168Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "032nimble"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/BVyvtea_Rr6ZP558ugbLKnGcup3k_N_vBykixDHednxaYlpBVbMHp59KvR1X2Spa_PbuSKc9WRDYsRk=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [
+      "rap"
+    ],
+    "title": "Detroit 24",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kgMm6wcn3fJkDwCfVYhOwT8iRsYvpVGGY"
   }
 ]
