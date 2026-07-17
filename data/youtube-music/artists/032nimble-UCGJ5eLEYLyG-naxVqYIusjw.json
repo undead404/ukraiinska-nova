@@ -636,5 +636,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kgMm6wcn3fJkDwCfVYhOwT8iRsYvpVGGY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-17T07:45:34.509Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "032nimble"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/h5bEaZ1kNRCuLoQ1BTvTw8pf8c73lBC6TO1F-obuFvOfx8ErBU_TH-ucYairu6vPIuqqepElE1hfWFrK=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "luvrave",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mUNlqw9pE_7nkyECtkhPX2GNzVhoQBeqg"
   }
 ]
