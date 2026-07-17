@@ -317,5 +317,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mO0-eC1_cchuVTzcl8f5Tm0CAFY7Dq6dY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-17T23:37:43.491Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "M1SHKA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/Xj25BDOOf9LeX0j9sRPu-Tf4xT7fKf4hf4hcHdFvLpeNElWa3hLRV1HNwuL9ZmfIAKIapBlcpqbJPaow=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "бджілка",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k3R0_FwWX59JR-NUi0YTRhoewabomwWoY"
   }
 ]
