@@ -4139,6 +4139,10 @@
       {
         "time": "2026-06-25T21:20:44.046Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-07-17T21:38:01.700Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -7556,5 +7560,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nKDUXHbrONcQ6hKU8ScAR9A5qQ0yzYTzE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-17T21:38:01.702Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/Lzk5HPx55H5O_JpgtbtpI1uGOM0sErOXHkIJ53MJPFzMov_aCK4aJr_ZBFPbyNOGeEbBsELFUl7LYG397w=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Вирій",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k-at4gLlBKVWOVVSKoALOe7RUZ68vtQ4I"
   }
 ]

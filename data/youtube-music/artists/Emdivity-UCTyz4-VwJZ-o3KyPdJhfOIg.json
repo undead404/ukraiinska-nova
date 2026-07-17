@@ -250,5 +250,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nR6eg3bIea086VJcFf55bKqCowzbJz4Ic"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-17T21:36:14.286Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "EMDIVITY"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/2X_BRlGvmBvyEDoLo2fA9kol9W5ImQfVWBl__MzH8mwpDZN7l3ySR192xRC9Yj3Q6qtuowE7T2HUcW4=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Go Back",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_me8cVQGPf8A37nBD4qAY7Y5GQjKB6aft8"
   }
 ]

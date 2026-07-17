@@ -1603,5 +1603,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kZnYbUPaMcqGXy4IehGNkWSOfrfAcXJ7k"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-17T21:36:06.521Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BaWN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/oPi_6SroSUFvOyRXGaNIqKf472TXnFqsaC6WgxbqaRZ0phoRAVxJLgiDlAyddVhhaIYl2g_aZPEoZJc=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Ртуть",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nisxqz4piOiUX5qyXCOyIPJusbLxHnS5k"
   }
 ]
