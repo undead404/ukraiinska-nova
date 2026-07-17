@@ -1234,5 +1234,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nSsMF8dfzaCCjuXEVH4xCe2gAG1XKoJGc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-17T10:26:40.441Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KATERYNA BUZHYNSKA"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/6DxmS1KmC7ynAZt0ZAXcCag1pOyE6SknNOX1ZSiOoVSZl-cE1nnD9zorOWxtJQRjg4yGPhNI8t1dUVPg=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [],
+    "title": "Романсеро (UA Version, Back Vocal Version)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l5gK-6BPsmOX_mHappk5IuyWEl5T-44Mc"
   }
 ]
