@@ -1618,5 +1618,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mWbIL_Ff8OBiMhp1eh2crP4jHXxKUkaGA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-17T22:32:24.328Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гошуля"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/Q070MF7eY5raN9jdhz-M-QNnBYcsnGyBkMHSTlkzZ20tB90PwBogLqFPLV0Nis94U9vX-4PxwfCgei-J=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Суперстар",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l4ZzMCJXiFzEgVRla3ynPI_pUTVi8Y0Ho"
   }
 ]
