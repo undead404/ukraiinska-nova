@@ -673,5 +673,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lHQaDPw3IsgIjWCsjj4-3sHUy7jFsNihk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-18T08:28:03.528Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Gario Nells"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://yt3.googleusercontent.com/KOWg8OJYOrqT1n0Yo2bmEsO4q0SlYuWCn_vCTDAoiQxQ4Mxqm0geqeqNgs7UdYOsNq1MDXoqKs6rQEkVgw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "КАБЛУЧОК",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nhHYWuWdYB-E-pnP7vm5mKIQU8dYKaSBM"
   }
 ]
