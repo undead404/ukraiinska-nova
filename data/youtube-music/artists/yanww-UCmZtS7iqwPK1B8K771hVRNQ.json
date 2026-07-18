@@ -1271,5 +1271,43 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kZ58mi-BX3WOgGHsO2slHb8rb6gCyWors"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-18T15:42:01.301Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "yanww"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/k0aW2Kt4dxNc5mqVmC9UJhr8mzi5wAhJ2g-0nqDXmcCG4VZshrubX6DVzmdh2Ttz_yS6FESM8CG54wk=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "450 Герц",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_krMTySfPzV4M5owVk8MCc81kIIchGvrMk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-18T15:42:01.301Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "yanww"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/QCYQpbfyvEkxHHEqth8--F4hh1xQ5pDvC5FlQ2wu04VghCXfU5qobWggBlLVBpmSFOfYCyGkNC_lWpY=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Треба 2",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mfAJ6uIHyOiVjb9v_xovA-uG7PHIWiD0s"
   }
 ]
