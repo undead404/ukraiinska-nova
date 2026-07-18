@@ -1038,5 +1038,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nW5j0wEabVV8nUnEix7GIEVqgXbVrXBmM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-18T18:41:21.401Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YampolSky"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/Np567Saxcr8VmyHgUM6xeMFHFF3-TaTWQDAusiXzslA58g_JWiE2JEJL76_l8wIrRqBBKU1YKrxjh2Ff=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "All Night",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mYXBg633GuI594jaMjZDJj5YaGaUPD_t0"
   }
 ]
