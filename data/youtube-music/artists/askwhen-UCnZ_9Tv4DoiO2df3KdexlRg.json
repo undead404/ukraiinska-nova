@@ -508,5 +508,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n-fjNsQIFEe7Drm0M6O9Yh74YRDokA5NU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-18T12:40:21.442Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "askwhen"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/F2xD05FzlD2mxSB-qiId4KaEiJi71BOSzQfHoTN6CKlaAn9YGsjdinOjmLCFdUWCxBwlBa-BkTj1dTmJhA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "в темноті",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nVaJZqWRPimEcvGz-XHc7FNNZSA1WJqng"
   }
 ]
