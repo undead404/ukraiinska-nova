@@ -1076,5 +1076,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kvF1iqJ24kjbYZ9Qz6Rbc2PGU6Q-krlkc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-20T13:31:01.073Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CHURSANOV"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/7JzxIdviPE4OwZc6Bokv4m4Aohzeu_j-WTVNqZ4FuIqQ5MnWgWrZ9F5kH7ULy3VFjOa-O_2vV_3PjVHKUw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Без інструкцій",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m67S5ihltmU0j42rOsl_DnzS_RIzQuOA4"
   }
 ]
