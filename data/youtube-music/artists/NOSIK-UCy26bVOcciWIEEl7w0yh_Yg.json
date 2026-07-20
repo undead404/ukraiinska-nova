@@ -226,5 +226,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l7qrQ1NlbqO8-mfH1r4KUxFbUN52lmfXo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-20T05:24:46.166Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NOSIK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/aQq2ho6ptwxfWYbhyVN7XgZ4uOFrU2ys23pHHeMZ-rgRaY3Aw3oDf8EohVaxkWeeLURx1ZUEkuehZO03=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "ПІТ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_njonmuIJl1sOeo-bPlK7SstRckOmTR8vw"
   }
 ]

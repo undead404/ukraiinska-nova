@@ -1103,5 +1103,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_koGB25IX0EKW3cOtrpWPmb5HqldxqAfJ0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-20T05:25:41.565Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Trimbeater"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/fMFH4NvCh4Ggpn5_fI9BtVuDrC887GMsfw-AwYBL-QV0b2N7dTkT11fNnyt95D-fIZfaHjoZeV3rVTk=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "ПОЛЕ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ljlvMmRuIQ9UJuQ84hDsw0VloEL8ZIH3w"
   }
 ]
