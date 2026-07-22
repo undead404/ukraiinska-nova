@@ -856,5 +856,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_liPZSYdXYwhlXu6pwxCaggv-r6zD-z8d0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-22T04:55:02.083Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SKYLERR"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/maLmcUHrUWg4yc_aQysWpWKcZy1GWtDJl_IvKLZDKWfbgk-LHYViSSbnquO9lpuqHec5uY-WabazQ-Zf=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Горлиці",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kpgRK83lgt6P6cEjJAR2oBNqbzU6jYfRU"
   }
 ]
