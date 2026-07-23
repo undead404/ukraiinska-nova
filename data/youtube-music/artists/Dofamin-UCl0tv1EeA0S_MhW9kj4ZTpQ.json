@@ -250,5 +250,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kJAYfn78xvOHpnwUJzTu8UFqZsHTEE_2w"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-23T04:00:04.906Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Dofamin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/mmE9sH1cXjx03GK-yL0YvGeWtyYxKSM6o2Adkw7242zeiK3iYjCFh-sU8hUIwz3rcDfEN4VjbJXEYig=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "LEMBERGMAN 2",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k3k4vdBrj5mrWiV2Q3mbpDJefEMOvgQoo"
   }
 ]

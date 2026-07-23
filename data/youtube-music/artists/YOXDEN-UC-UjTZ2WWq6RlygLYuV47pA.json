@@ -1706,5 +1706,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lEnPyI8wgkhdDzpK7U7fOeXYAYAWDCjUg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-23T04:02:18.314Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yoxden"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/KOWg8OJYOrqT1n0Yo2bmEsO4q0SlYuWCn_vCTDAoiQxQ4Mxqm0geqeqNgs7UdYOsNq1MDXoqKs6rQEkVgw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "dance",
+      "electronic"
+    ],
+    "title": "КАБЛУЧОК",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nhHYWuWdYB-E-pnP7vm5mKIQU8dYKaSBM"
   }
 ]

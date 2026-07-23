@@ -264,5 +264,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mUODwR5cCSPm6swy-pNgmytG_ehIbO21c"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-23T04:01:25.490Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "REZUS"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/nOtDVq2NyNgA9pjw7rG-IexD3IxC1PpWvD6VqWmam8tZ2TX3te7E2NWhUzljnrrecAz2JeG9lwcPyt4d=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "You Said",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kAqtBLRnEywnkuuQ3AIqETLTVid1e6kUo"
   }
 ]

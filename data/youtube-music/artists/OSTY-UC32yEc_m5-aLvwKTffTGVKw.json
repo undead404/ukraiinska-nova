@@ -426,5 +426,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mxsGKeXm9fUkGa7OsK8LrpOUdnDrzxPMo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-23T04:01:01.640Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "OSTY"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/jtcOmGUjPa1j6_0snY5cnBVyCL1l70_9BbaxPm96YXqOIczKhq6JJiM-Ll_-Sph2RLa-FwWDW9B794A=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "RESTART",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lmDVRsCwzV6fLDysaQA2V9pps8oN0Mh_Q"
   }
 ]

@@ -520,5 +520,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mGu8J71SBcRxgM0Iqt1-LZshupX8ujEFw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-23T04:01:08.940Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "OXANA TRACH"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/S583pzi920NrV-N4PxhYiJPOGA_Td8d2PdaDH4IvJzm_00v5iP1wk0gmJOVjRWlnhgT5RuRfHRtscDYg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "8 чудо світу",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nXR6D40RoWv2tdpsj_nfQby2duww-HVlo"
   }
 ]
