@@ -2531,6 +2531,10 @@
       {
         "time": "2026-04-16T17:12:10.906Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-07-23T17:05:43.346Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -3260,5 +3264,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nQ8DMy-WkMc_Ky63l46eaJV9--8kTE9yY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-23T17:05:43.347Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Eric Deray"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/Fp_Xqkx3RvgBWljvs5nx6fP49tkcHhLONkbtr53XG4Reh0DIdO1m5e8qNDiCRyi8CPVaykyhLgfpqiM=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Somebody That I Used To Know",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lHEsLTZQRGxXhJkCPyX8UU0ghs6WSBCM8"
   }
 ]
