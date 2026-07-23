@@ -778,5 +778,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mJZ0HwcmlTU9VZFiIrqKAh5EPhUUAjuK8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-23T20:46:19.509Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VLADA K"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/1wsaoKuP1Ts84WRYBnlb7EBKaX372_DSgOttAeH5xw6W1-bM9nZxvqs2TDQCxDD_nNo11Cc3W0tJe_c=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "ТАМ, ДЕ МУЗИКА",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kGTHjK7ZkfYdo-Pezm3_zVcM7i3w42NC8"
   }
 ]
