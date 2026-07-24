@@ -1377,5 +1377,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kutnB8j1mqRDcHr5PTP4nzL_RhbMGrbWI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-24T07:59:16.035Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Фрай"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/kMhDdWNRQH9UlzRMSHaENFPEZd-6PXLAgKBWDCT4KHAThCpVMSJOfBoK2CX1MMI2X_p0gGAMS5dL90T8=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "blues"
+    ],
+    "title": "Another Life",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lPdXNWjQdWIjhr6hm2g4NnNmwotA8-pIs"
   }
 ]

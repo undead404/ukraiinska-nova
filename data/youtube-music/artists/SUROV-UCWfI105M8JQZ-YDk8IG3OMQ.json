@@ -557,5 +557,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ksI0xyt0MTXsDjP4_co-GAcREb1Paz-6E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-24T08:01:00.354Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SUROV"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/1yxepMwDLLqBqQ7-toD-tTG-xc-IHyLm8pmRrBL2_JT3uLstMFfw4OTE5qv_66ZTHtePGxFeItvulDt6=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Подаруй",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nwixaAnbgjBAhdiDB26lONqh4M7eh8kQ8"
   }
 ]
