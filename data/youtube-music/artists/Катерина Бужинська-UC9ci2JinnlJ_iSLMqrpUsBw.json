@@ -1253,5 +1253,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l5gK-6BPsmOX_mHappk5IuyWEl5T-44Mc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-24T10:48:43.769Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KATERYNA BUZHYNSKA"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/wAfZip9McXLKd-V_3YY5_GmuFD9jg_9AtinV4BUGf6VHYy6zd-kgAo5vjRCgkgQBk30hY3fT3IRmha0=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Заборонене кохання",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nvK9nd-yBe-6vPD89mgW8CKxRuXrPN4zE"
   }
 ]
