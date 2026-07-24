@@ -271,5 +271,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_my4NMnXQ_TarGVOy5vh_dEKR3rWQ5wu3g"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-24T22:44:56.366Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NEVIRIMØ"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/cVAz6zVJgI-SIAkZrjHQzOYiadSOXwll5SVBst6sLuy-glN5bFL8CYY3xzMtm_58JkiiafWDKwVk9Fda=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Без Тебя",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mfaw0xxFMZQqXcB0txpgumZDYXZ5aKKmQ"
   }
 ]
