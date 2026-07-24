@@ -1231,5 +1231,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_luJUdpbIhUW_dXUmzMyVi9Uemt9YzirSA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-24T04:56:37.677Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SHNAPS"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/ZiWdXd9gtLbRz97wBD6_05l7io2peKHPCE1oBNKDo8N8ddxNp1BmnZep1qsCdObSmuJQWNj2bz0T5ZR2Vw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Bu Gece Benimle",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mZFwXcDEl32dE6eA4w0GfJIbF2wL-eVFw"
   }
 ]

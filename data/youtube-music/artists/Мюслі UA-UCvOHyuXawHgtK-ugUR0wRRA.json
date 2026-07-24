@@ -781,5 +781,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mynZ2UjFBGgxKRBmMH1Q2ZtlGkomzcUck"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-24T04:54:20.097Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Мюслі UA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/TMvPVv-jFsy4Mfj_6WjSz3ydbC1cw2pCRjdSUndapY5w58-LbS6s0b1lKgt4uuh4fvMqHHKK0GrgT8wW=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "dance"
+    ],
+    "title": "ВІЛЬНИЙ НАРОД (feat. Misha Scorpion)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kIh8H4w9oVA2zwW6vsKb0nhgTKavA4Gzg"
   }
 ]
