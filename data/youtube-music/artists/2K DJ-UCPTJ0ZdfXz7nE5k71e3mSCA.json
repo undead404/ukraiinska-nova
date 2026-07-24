@@ -477,5 +477,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nY-oVfcLZTIl5eUCPa5teNsF_E6yYhVzQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-24T20:49:46.208Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "2K DJ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/uSiB0UGqVZRCvFMM4T4IsANnld-79TJLepeBIgJqj9IM656PiIG7Gco9C0_drna9DA8hCbqWrYgK2EFZ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "It's a Game!",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k71d09r0k2MZBpVxHeqgUh0LkOYEPc1RI"
   }
 ]
