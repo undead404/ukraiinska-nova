@@ -658,5 +658,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nymUYXP2m9B42bDorEx1gZT-8pCSykvZQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-24T13:06:58.093Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Пан Парасоля"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/ocwYAgJnrIa-OK4VTAktn1zl2YbCm6JLcjyJuxLIMrqGa_n6i2HFekv0Sx5XfQUwvZUsZBzU59bpqwbi=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Ти варта",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mfk8FbxJAP5wKdmcLSUzKMMPwIFs72flU"
   }
 ]
