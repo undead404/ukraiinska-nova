@@ -4072,6 +4072,10 @@
       {
         "time": "2026-06-25T21:20:44.046Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-07-25T21:40:09.393Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -7579,5 +7583,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k-at4gLlBKVWOVVSKoALOe7RUZ68vtQ4I"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-25T21:40:09.394Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/EcWNdOYr_UGPEJkGWxqu86cYoGG-A_zBYNJ-eQBrRW7Oj0ZQLL6GipETnRI5_mZT_aPZsucd1L0BwOoy=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "I could be your dream",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lFmYROLwUtVrJZdrtl7ofPboygpfSjBoQ"
   }
 ]

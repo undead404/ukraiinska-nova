@@ -1852,5 +1852,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kE55y-uENbGnjhs-_xctPJsrL13ZScRo8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-25T21:37:33.833Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Інна Главацька"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/tGJdWWtM8gkayU2RSPKDFIJw6yj9Dv6oFZgXYMy7DFe-Lc420hdllSfJHoMuZvDJZViv-1h7rnyyJoyI8g=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "folk pop"
+    ],
+    "title": "СЕРЦЕ БʼЄТЬСЯ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k3aRWVUk1G8wrS0l7e4snb6Kfym8xJncA"
   }
 ]
