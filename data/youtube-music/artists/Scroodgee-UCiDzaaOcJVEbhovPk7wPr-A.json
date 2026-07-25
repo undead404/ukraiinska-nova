@@ -664,5 +664,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n2uFDWrNW4bJII_R_s0kwqlJRCghjVri8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-25T16:38:16.416Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Scroodgee"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/jDCUdD4VPq65EGeJaXOFYRorQPWY_KU7M3qyIHymbI3lUVY3K9yG0B9fuAD8zH3yabSHRFAZs-kUF5gX=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "Hip-Hop",
+      "rap"
+    ],
+    "title": "БАВОВНА",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lfDb_QP7cEcpO9EZ22eVKMTIglgWCCbRA"
   }
 ]
