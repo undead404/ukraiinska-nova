@@ -1107,5 +1107,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_njgG9To05Tx_QMXmaS4J4dlZh31DJH3a8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-25T18:43:26.492Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DELAMER"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/9bI3VY_ma82V0y-f5a80IJX8pRNeQMQmAR97QQOz9bbtmbUFh2wtv0ch8-4zeiqXnx3A4AoXXfXBOeo=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Проблеми Бай-Бай",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lDBvC-P4iCwsDTOiAmeyqMhlHELrnNayc"
   }
 ]
