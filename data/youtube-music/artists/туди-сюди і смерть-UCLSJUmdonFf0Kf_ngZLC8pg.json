@@ -501,5 +501,28 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nslSSUZ09o3_Hqw_OrAdTQldXeRvIXFU4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-25T14:50:01.915Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "туди-сюди і смерть"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/U4-xAqHgLsudKLzEkFh1trU0gYcSJuZyigvREhexfVdPfMoUs37l8-B-5WGzeSGazvLDsiSkO7xGmB0x=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "Garage Rock",
+      "indie rock",
+      "punk rock"
+    ],
+    "title": "ДОНТ СТАП!",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nFkPzcKID6dk86xh6z8ytA-_lz7yvTgkY"
   }
 ]
