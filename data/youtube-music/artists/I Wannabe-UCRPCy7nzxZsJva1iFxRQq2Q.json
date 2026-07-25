@@ -1226,5 +1226,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l60NPf-NlT7y_ezwAPDKtlyN-d5qKyQRQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-25T09:23:11.067Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "I Wannabe"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/S5hisyD-Z85VsX9PXYZP0par94RXTXG1XIyPdktYAi6MxBbhcHVjXHvYtSHsAZoXDKogw5VfKXvcwTxD=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "dubstep",
+      "Drum and bass"
+    ],
+    "title": "Afteglow Signal",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nJCw9aHYwWBBv55keKb_aB6p6T3L0m6es"
   }
 ]
