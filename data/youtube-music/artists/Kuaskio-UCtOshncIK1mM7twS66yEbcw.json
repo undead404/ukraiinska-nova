@@ -514,5 +514,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kenSFCes7gLdStHcXkphnsEdf-Aa4Ox8E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-26T11:49:48.632Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kuaskio"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/McD2Un6AYRO1_J4vZ1znSlxP7DayY3EogzIkVJrrVzllk9_H6eXLZlJfMF4wb14200Vox9zzH3lDrIc=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "не в змозі",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kGwIDhdYMgDcn1Embmva7vcM_okOy49L4"
   }
 ]
