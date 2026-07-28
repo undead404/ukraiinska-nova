@@ -3351,6 +3351,10 @@
       {
         "time": "2026-07-01T15:42:59.435Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-07-28T15:08:29.547Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -4659,5 +4663,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mawncpbGBogtjrbt8nu_RLrL-L6FKlGBs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-28T15:08:29.549Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/d9LRagG2lv2uu4hqlVOSmtdxMvE3hQKnmNUbESOYQz-V5x0-iUeBYD6ml7YyNyzIj7yyfKRYIhgISjrG3w=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Crossroads",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lcPJob_MkQJWjxutZXdRH7NcVHdD8CH7k"
   }
 ]
