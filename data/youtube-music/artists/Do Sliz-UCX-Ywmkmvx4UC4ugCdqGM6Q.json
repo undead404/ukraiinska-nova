@@ -396,5 +396,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lLWA4S9H1MefNn_bpht87bi5XGcGTICO0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-28T22:43:42.187Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Do Sliz"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/CDQYc4Sqzyt665906CuDqzHgnL9-QjZU4RYoVVYuLp9g-IBtMh1cCyx_mejVcXwK8HQ_jR405PRehw44=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Стань моїм вбивцею",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mKYD5xfzDJepoYDcCIrqD8lCWF4EmqWtw"
   }
 ]
