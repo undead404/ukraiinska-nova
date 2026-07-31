@@ -1057,5 +1057,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mYXBg633GuI594jaMjZDJj5YaGaUPD_t0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-31T18:12:45.117Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YampolSky"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/K6KCUeClCXFtwvT3ElBUCu8HoA8ZB1iGg0EO-aeeOk6xk9on3ZY1exMljjjESVxWTKUS7n-s1pc55urqmQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "No More",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mG0nyyxN-7yUv1J3xLCodBAVkZhggLsts"
   }
 ]
