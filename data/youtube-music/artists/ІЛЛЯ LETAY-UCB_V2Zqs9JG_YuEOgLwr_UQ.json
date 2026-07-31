@@ -532,5 +532,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lgdIc-u3Mtox2yubqx2CXvbcpSWIHmG20"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-31T01:14:49.523Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ІЛЛЯ LETAY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/DkC8G6wk5GeCryMI6ZTrq9Hz7o3WXTgGU75auW0whLwW4cHKXwPTySDYs_HUKcmTL1fE4Twr3fjYNJKh=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Додому додому",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lP2i5o-JoTpYBjnVAoSYwud7qoU9wxsc8"
   }
 ]
