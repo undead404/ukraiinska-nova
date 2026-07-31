@@ -1263,5 +1263,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lHDjjOoqemThtBHdZzW0a6SJRc0EoJ0Xs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-31T05:18:56.864Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "FIЇNKA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/1wsaoKuP1Ts84WRYBnlb7EBKaX372_DSgOttAeH5xw6W1-bM9nZxvqs2TDQCxDD_nNo11Cc3W0tJe_c=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "ТАМ, ДЕ МУЗИКА",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kGTHjK7ZkfYdo-Pezm3_zVcM7i3w42NC8"
   }
 ]

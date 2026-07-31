@@ -271,5 +271,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nEQ4VOsKtDb2n8esESKwVdGw5zXhxLrzc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-31T05:17:58.586Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "гліб співає"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/3O9JESEXwvNsnILztdHDbWNn6H2GrqD6lDlpytxpjxbh7Xp6L_sliFOMjXe7biSGXdj4WgGUYHZg0-Lq=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "bedroom pop"
+    ],
+    "title": "звичайні люди",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nz9vTNJZsl0Lictd7aJhGy8hCpOYOd7SY"
   }
 ]
