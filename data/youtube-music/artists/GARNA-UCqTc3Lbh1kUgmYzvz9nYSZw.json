@@ -1573,5 +1573,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ldHpJHI6wNpDe5Geuo_spwxDM6cJwajAI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-31T23:44:24.981Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "GARNA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/qHll_XO0t7pjezhkDVhZb4-51B9Z-dleGHNyGWwvn91vvfQqvCSpFzT7pT2abkdsgmqWUnREUj0gVZ_M=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop",
+      "electronic"
+    ],
+    "title": "Там де ти",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k900uKCbXdWTQiHcgf_ym2NvOIrs61dt4"
   }
 ]
