@@ -3300,6 +3300,10 @@
       {
         "time": "2026-07-01T15:42:59.435Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-07-31T15:51:32.210Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -4685,5 +4689,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lcPJob_MkQJWjxutZXdRH7NcVHdD8CH7k"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-31T15:51:32.212Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/lXZ4fWxiF9mK-H0nJWxeJHR2VAhsfTomUm0hK_F0C9wPcjYwyZ9ucIUz89BS6xBCgkLDAAWAwpl_5zU=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Arcane Horizon",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nqqmhqGveH2kbEz0QfpL6I-PgtoPKlhsE"
   }
 ]

@@ -993,5 +993,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lCQF2HXFZvtrfZO0rJnznjQAcWd3B-W7Y"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-31T15:49:43.259Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CHOOB"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/-fMSRPI_mZb38nHaGDCeF3OABXVoO2em0nkS7eA_FVqwvVbZ60bL2cOt7vBMwl8yigFkov3VKLV1nwmQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "В казках",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k_uHfEhIx4A8-2VzoFCF0vZ5cTUHCpMB0"
   }
 ]
