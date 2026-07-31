@@ -497,5 +497,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_liVLC-HYHrknb2uWuY92T_1RZRuVAPDKM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-07-31T11:12:25.393Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ХудийJointt"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/F8XC261lgBks8yHyPScPEdWczf0uyQe9ayMKOD8cznhbMYksrhclRquDGJMOUZF7PUCfqKXbNWupaU-Z=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Не Ний",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lKh_QxIW9alyli-PzFtPHO0rZKfnvafpo"
   }
 ]
