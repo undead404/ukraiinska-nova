@@ -962,5 +962,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nzya10E3eaRd8d0geBxwDDelwzVaZV0Qs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-01T01:20:12.406Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "LOVERA BREAUX"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/oapr3x2dDdLJSzEKEsRdX9d2pSOqcTE4thoexAFW9n97Me_JHJGcR_DhQfATwfGFRKOziNtBclMoChEN=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "цим літом",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m58GoJltXvYhRsvIpjrC4ZhGH4sIgXxxs"
   }
 ]
