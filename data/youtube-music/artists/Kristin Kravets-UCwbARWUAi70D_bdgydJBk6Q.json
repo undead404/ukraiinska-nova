@@ -306,5 +306,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lBBAKlHGrbTL5We-GnyPTex0v_ynaRWnY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-01T05:01:43.230Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kristin Kravets"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/xn0WgfF6q1h-HBXdkDYlsaL94jswB_kRnqm7tvwPEadSf00x367PAbGhDBYR7MeS-Q321LfWzA2nOyHPTg=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "А я така собі файна",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_naiBDOqmTpC0-yaxpcpS0AP9W5Oxm6z1k"
   }
 ]
