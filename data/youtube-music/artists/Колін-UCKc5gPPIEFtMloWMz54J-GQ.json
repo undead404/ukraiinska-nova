@@ -2107,5 +2107,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lAGEG1le4IQV7Th6dJAME4EdVq5Ols6g0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-01T17:44:13.575Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Колін"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/V_8LTA5nHKg8ljyAQD2pi1yptU5x6t8UcKdS9TRKxYJOLfYXqcpQLaDm1FO2WSQxpNuAsE2t89TBxTgKSg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Фая",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n2zUCfD89qX5gVO-9oWIvqUQA0U9eS1Yc"
   }
 ]
