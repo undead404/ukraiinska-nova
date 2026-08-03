@@ -777,5 +777,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n2dE8Bb4Wyz-3LGacUwJeaJdEwqp_dm9U"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-03T08:52:32.758Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Skydan"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/1TureEBz2AqcCuqyJeb0xjxU9gGbop92b-IpCI_-qluFKFxWxV6CQ5aBF4iSKfnGLgwgxxmD90Mo5233=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Looking For You",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kRLXf63Bu3Us8M8e7VkLbDE85DuKKDKfU"
   }
 ]

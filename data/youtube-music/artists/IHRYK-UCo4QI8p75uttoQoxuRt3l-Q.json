@@ -32,6 +32,10 @@
       {
         "time": "2026-05-08T08:15:41.720Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-08-03T08:51:38.096Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -82,6 +86,10 @@
       {
         "time": "2026-05-08T08:15:41.720Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-08-03T08:51:38.096Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -132,6 +140,10 @@
       {
         "time": "2026-05-08T08:15:41.720Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-08-03T08:51:38.096Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -182,6 +194,10 @@
       {
         "time": "2026-05-08T08:15:41.720Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-08-03T08:51:38.096Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -232,6 +248,10 @@
       {
         "time": "2026-05-08T08:15:41.720Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-08-03T08:51:38.096Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -282,6 +302,10 @@
       {
         "time": "2026-05-08T08:15:41.720Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-08-03T08:51:38.096Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -332,6 +356,10 @@
       {
         "time": "2026-05-08T08:15:41.720Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-08-03T08:51:38.096Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -382,6 +410,10 @@
       {
         "time": "2026-05-08T08:15:41.720Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-08-03T08:51:38.096Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -432,6 +464,10 @@
       {
         "time": "2026-05-08T08:15:41.720Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-08-03T08:51:38.096Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -482,6 +518,10 @@
       {
         "time": "2026-05-08T08:15:41.720Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-08-03T08:51:38.096Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -532,6 +572,10 @@
       {
         "time": "2026-05-08T08:15:41.720Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-08-03T08:51:38.096Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -604,6 +648,10 @@
       {
         "time": "2026-05-08T08:15:41.720Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-08-03T08:51:38.096Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -629,6 +677,10 @@
       {
         "time": "2026-05-08T08:15:41.720Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-08-03T08:51:38.096Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1206,5 +1258,89 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lnEnOQbIc08CJHiEziM2N5EgN_ADc8LbY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-03T08:51:38.096Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "IHRYK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/_TWm206nFH-RYU2yWk8C7gSUCFSuy0flze5k86nlvo81ULcMiXwNTLwf2Q01m7VmlAlJ9L889LMvA3Q=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Гордий",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n-NX69xMy3CcBOWu8t5fWsS9BfRCNuI0U"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-03T08:51:38.096Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "IHRYK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/37P8cE0u_pW7KUuaIqi8ewqfaT7ec6PPLcRHxAxy9L520i9sguG3M4wb2ePYPc6bQ7B-THdCopKCnUDk=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Світ навиворіт",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nf6AZsESIY4J9GFuolctXJLA5rjDqpmGU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-03T08:51:38.096Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "IHRYK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/w3qN8-q-QcNDxw4wFnM8pOOcuMz22OM7tO45GST9khVYIGvMhSieeinEw6itY_cXBIUg_-Nham61zDtQ=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Псятшість",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lnEnOQbIc08CJHiEziM2N5EgN_ADc8LbY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-03T08:51:38.096Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "IHRYK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/XJPQ24PtllUEx-gW9NpLKXB1RTRUwQrMdKB_x9-wyNJnW1x-a9hvuB9Q76-sBElJGp7QGehc1lm92L3a=w544-h544-l90-rj",
+    "releaseDate": "2020",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Полеміст",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mFcWnxILt3yEzODcHcCR0qKr4LEy0vNL0"
   }
 ]
