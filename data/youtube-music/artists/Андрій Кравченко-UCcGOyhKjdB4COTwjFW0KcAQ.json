@@ -648,5 +648,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kBf2qh3RdoFQkrnLVL_zOp7hNMOib6dZM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-04T07:25:02.282Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Андрій Кравченко"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/ZtqNWPqetdyI6-HZ7vwsOaGqwZPOH5Y8SmMQaNszPJIDFr_B5gU58L-l-VEGjfi8jIZ7x0OvBjnMBHJG=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Україна",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kYFYLrWLfhTb1KqPvdzOVnpwR1E2XztII"
   }
 ]
