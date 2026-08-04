@@ -1673,5 +1673,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mqMGlEVMakznPYBiZ5wz5HAn0FEulXvMg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-04T20:59:51.052Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yaroslav Tretiak"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/Yw7g1QjNeuTU6WxWL4z15wtmQPGUa2CezkUuu84ZlGjVm1kKt6PDCpxluI_vjzkavZAuvzy1yFzqU88t=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Psychora",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mBgulwac-4L8M9okLwzkWkpfoPoNGF0XU"
   }
 ]
