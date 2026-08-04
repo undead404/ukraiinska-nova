@@ -497,5 +497,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kC-1nSJf08XlfXiTFPwb3-uoKtXJq1Vu8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-04T12:29:58.482Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Настя Балог"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/cPqPLKGCrXGApoTTAfpFkuiRRlMqBWzNGR9Un_5f1VG9zM_iyDVRbP6nFuZlNY_AEbKROx0OazHTXC3d8w=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Чорне море",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mYWD9Gz75Nl4QtAFH5ZuBGsx9chx_Ys7Q"
   }
 ]
