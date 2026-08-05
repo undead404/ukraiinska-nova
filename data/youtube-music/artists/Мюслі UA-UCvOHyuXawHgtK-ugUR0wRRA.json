@@ -244,6 +244,10 @@
       {
         "time": "2026-01-06T04:03:43.081Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-08-05T04:48:38.931Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -802,5 +806,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kIh8H4w9oVA2zwW6vsKb0nhgTKavA4Gzg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-05T04:48:38.931Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Мюслі UA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/3mt9dySCqlgl8-FdPd3-TSgQryMCOKgxJTIEAG3m7-LIw9_mV2lEuu-RFkcsog10DWierDo7DUiFkq_k=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "dance"
+    ],
+    "title": "Скоро вже буде свято (feat. Матвій Брус)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mtU8HuX9gcgb9PqqSstkVAjRcr9hoTJUI"
   }
 ]
