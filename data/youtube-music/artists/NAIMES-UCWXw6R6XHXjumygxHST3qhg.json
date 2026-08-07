@@ -475,5 +475,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lL-ah8TqGjXIGb9MSXUmXFQ_X_rCkp-G8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-07T09:44:44.358Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NAIMES"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/Wvxdu1Qq1zFKnvUb-2mWeWvQVeuQwxRye2OVm2sTMWlaqBPG9QfxAAYDcqVOy7qGeyVF0AHZGPlsOuAufg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "снишся",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l21c6o5ONV6iXfeb2tIKSPB8t8YldU-jc"
   }
 ]
