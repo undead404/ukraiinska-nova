@@ -464,5 +464,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mumsqY_VyF7wl1krzpoWe69FPxbCgh13I"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-07T12:30:07.664Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Luna Rozza"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/STs46zYYBYqLu_spRl-0s0NuCu3QJpafJWh4nQOHqadop7PqBJRZYNbj_oefA2CPE8BBd8DshPhsgpRT=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Розкажи мені про біль",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lgO0safb10UdXUvrVCIyTXpgo3VIFux8k"
   }
 ]
