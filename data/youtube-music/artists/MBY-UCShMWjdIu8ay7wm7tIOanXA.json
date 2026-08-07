@@ -778,5 +778,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kDGSXPq-f-0WUxXGPh_zpCsP43mC4DPg4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-07T00:33:24.385Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MBY"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/uyX2uJ6K9Ez7uDzBUCPipkqQEhvqReP4-fOFJjR0etfNYjKRiHpFwt-TD0HVYwhQwiV-8rjgN6zIo1kkPw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap",
+      "electronic"
+    ],
+    "title": "Будь",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mS-BM8wB71nwMeQx-DH10hn4S0jYTvv4Q"
   }
 ]

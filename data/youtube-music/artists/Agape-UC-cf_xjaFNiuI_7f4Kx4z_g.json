@@ -8,6 +8,10 @@
       {
         "time": "2026-04-21T00:01:27.842Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-08-07T00:31:59.485Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -34,6 +38,10 @@
       {
         "time": "2026-04-21T00:01:27.842Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-08-07T00:31:59.485Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -250,6 +258,10 @@
       {
         "time": "2026-04-21T00:01:27.842Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-08-07T00:31:59.485Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -276,6 +288,10 @@
       {
         "time": "2026-04-21T00:01:27.842Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-08-07T00:31:59.485Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -416,6 +432,10 @@
       {
         "time": "2026-04-21T00:01:27.842Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-08-07T00:31:59.485Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -480,6 +500,10 @@
       {
         "time": "2026-04-21T00:01:27.842Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-08-07T00:31:59.485Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -540,6 +564,10 @@
       {
         "time": "2026-04-21T00:01:27.842Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-08-07T00:31:59.485Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1492,5 +1520,51 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mF-sujgTG_Idba8jowZYsfi7gS9lvGWFg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-07T00:31:59.486Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Agape"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/YFvxi_fMp1J4X25EZzphlFLMytK0eP-x5ZSbLMzE0gFxqxsOFjL_RHYd0I1tgc3KzsXsq8B-i2ypiw4=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "electronic",
+      "rock",
+      "christian rock"
+    ],
+    "title": "Заплакана цариця",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n5iDnUDxyNks4RLugVBku_tr6OiUYrMi8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-07T00:31:59.486Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Agape"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/RD-GSYfKtbpQ-0vVKQh_fKcUKihpMXHfV_gdVtuaoTdpKSZvmwLPavnQAb-3Eq5nZC3EvfiugaL2Qo5G=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic",
+      "rock",
+      "christian rock"
+    ],
+    "title": "НЕ ТІ ДОРОГИ (KARMV REMIX)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lNqZuS8zxZnya1dwMaePdmh2jEBDDaigQ"
   }
 ]

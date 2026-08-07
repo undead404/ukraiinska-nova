@@ -502,5 +502,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nfYRVetpKQpw7A8mydnvw6yvFmqd1pgLQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-07T00:33:57.429Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Surface Tension"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/UrtadMUNPJlCReGvSKIwpsFOO38sQnacXjYKyYSNin4n0GDAww1oCJCTAZYZVr4imfbPOyvmX2xWv9I=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "death metal"
+    ],
+    "title": "Ouverture",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lT7YGZbFyyApRXiL9HyXo8KKdxcOwZxM0"
   }
 ]

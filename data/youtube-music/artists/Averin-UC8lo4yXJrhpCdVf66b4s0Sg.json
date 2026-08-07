@@ -862,5 +862,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n9KsGb4A4MN1TxFSGPjmQenEFviKsyg9U"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-07T00:32:17.370Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Averin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/JHU4BbomfI2lN2Gi6WAIV-iuWtgsMXeRekNfsHPcVbDi3pnUd7i7pb6SuEZnIn9HSmv28snvn5x4NpvG=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Ти в моєму серці",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m9-QZgC7xB74YqP2op_KFYm4MMzLUs0t4"
   }
 ]
