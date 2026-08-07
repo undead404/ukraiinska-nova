@@ -768,5 +768,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nixDn28yKrd2N0TS-LNwTr8cEXgHiucng"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-07T06:53:42.716Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Саша Чемеров"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/hmf-aH9hmznXdFTA9hRpNaLjoTPX7eH5tLjqe5DQTF4TQsqHvvVCnGHgqQdSH8muovmyJ0TBYsBoCf0=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop rock",
+      "rock"
+    ],
+    "title": "Понад Хмарами",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n82psBUe9CozMGgceOoE_EhXNj4Avb_-Y"
   }
 ]
