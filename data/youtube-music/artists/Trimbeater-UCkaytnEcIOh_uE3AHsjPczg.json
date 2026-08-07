@@ -1122,5 +1122,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ljlvMmRuIQ9UJuQ84hDsw0VloEL8ZIH3w"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-07T05:27:30.852Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Trimbeater"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/vMx3_JIwcvZf7rbuwnmye947cw3OnwDaT8So1_Wcw4EF_eLOLmm7lOV744IZrCZm-YESBmLUyLuIIo05=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Є близько",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k_zztHShgtmrkd5fa2wnK9NlSB0BNS_QA"
   }
 ]
