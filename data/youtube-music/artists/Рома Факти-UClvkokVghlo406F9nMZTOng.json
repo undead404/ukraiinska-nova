@@ -481,5 +481,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k5VqJIbuokhavBSYChA1WqdpsNfRe0_Eo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-07T10:38:18.339Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Рома Факти"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/M_j9Y0y-beew5ofAJcKEjDuN-IM8V9dK5S7ApT01J_kLUOSxtpvrf6i0Oidj8zPV-xjtjGLpstQfDJ2MdQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "МЕНІ ХОЛОДНО",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lx94E4rPDWWadj3d2eYeqT3dqyGBFgIN4"
   }
 ]
