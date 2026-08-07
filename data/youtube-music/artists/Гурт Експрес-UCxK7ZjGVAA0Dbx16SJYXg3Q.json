@@ -2369,5 +2369,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lgo-VDUg_jofHZ2kxXgq9kXTN70O7kYfc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-07T21:22:33.396Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гурт Експрес"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/Ixt9eEVxJzSGq7vWF-UPWZkKQ0LC-naeDthZgqvDw12OR9aNT8O1zNKB4wq8CSgjFoZquOerREXNLIA=w544-h544-l90-rj",
+    "releaseDate": "2020",
+    "tags": [
+      "pop"
+    ],
+    "title": "Танцевальный суперхит",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nD_VxUpY7Noi9cZyI3o_RFuWXI4gSNqpE"
   }
 ]

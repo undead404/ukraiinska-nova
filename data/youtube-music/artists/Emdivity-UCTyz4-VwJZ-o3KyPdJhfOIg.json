@@ -271,5 +271,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_me8cVQGPf8A37nBD4qAY7Y5GQjKB6aft8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-07T21:23:51.308Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Emdivity"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/yO2qpE1YBHJ3WZtbe_hqu0sTbDBDci8AWQ5pKtK_OQJXM9j5UIa9wCnV-FYUEHsMkJVrXK-25IkyanSh1A=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Rise Up",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_liNbKgjuJfqlWQpiuTsiH6vzGemhnr3QM"
   }
 ]
