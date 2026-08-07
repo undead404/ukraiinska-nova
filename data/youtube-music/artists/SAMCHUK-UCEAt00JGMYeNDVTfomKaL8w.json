@@ -1226,5 +1226,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lssNVNM0L1BpAnQveyFeEmeGlRlgoGUVk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-07T16:37:22.149Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SAMCHUK"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/YQHvJDEypgUYmwEdJOpzl-IUKWZLFyMBdIUJyTtcyTwoY8b-oz3pMkP84JTjh_sSfksYA0qILYt34oq6=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Характер вогонь",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lbUTb4JeZHtBeGkb698fpjmwk33JxVmJ0"
   }
 ]
