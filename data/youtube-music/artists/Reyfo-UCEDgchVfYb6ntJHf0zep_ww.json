@@ -838,5 +838,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kXnRMrOKCmSGS7ol_Ko8kajijnyW2p6CA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-07T03:41:16.095Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Reyfo"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/REQIi_5lqAammgRnW7Nm0jxSU3UhPte7jRj-nJA-uqC_a2xYU0quqZU4FWL6zRa0NWvHTvDtbwODaJiw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Моя",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mtWkFXw53WKmYyQgF-nGVTHMjLBngZvmg"
   }
 ]
