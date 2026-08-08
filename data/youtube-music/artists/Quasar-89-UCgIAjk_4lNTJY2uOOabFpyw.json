@@ -3739,6 +3739,10 @@
       {
         "time": "2026-07-01T15:42:59.435Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-08-08T15:07:38.854Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -4737,5 +4741,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ns0DywCwPQRIk4J5pdcZw5dIcHULOxz-w"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-08T15:07:38.856Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/V2LT8As-gaVueiShc3_jc3y-A9gefnnFegpXrNva4cSwaiSA29qY3N_6G69gSJk6YEUw_o9Tc31msGY=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Не ходи (Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n4xnA6M8CJ1CFhPev07KhPUetvAQ-N9ek"
   }
 ]
