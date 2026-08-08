@@ -748,5 +748,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lLjG5JVbheZ2X2s_z2YvvbL-Jpx6Hw1Qw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-08T02:36:32.054Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CRUSHGLAD"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/odsqJTsdpjoOSCmz9g21qmM1Iq9EL9MPKPbSrNiYlg-5WQfGZt_QJTxqaK4M9-yluvjKczzBI4MEyCDe=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "Забирай своє плаття",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mbJDAaSAgO-BeumPNLHIIFTb2XZ4-pf6E"
   }
 ]

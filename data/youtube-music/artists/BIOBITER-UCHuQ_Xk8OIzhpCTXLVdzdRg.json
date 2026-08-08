@@ -359,5 +359,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lP-zpSaOhOKv0wEBP2yEI8IlqaM4-KTx0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-08T02:36:27.195Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BIOBITER"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/52L6nOffSknWH6TkXTCZYui070sFOuLfeC7aoY92APaisFmvgg31RdF1TLx2WRm1nN_sqy9Et4FgPT3O=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Тільки мій",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l36Zlsk64Y8tecoyfrTAQ5nRRK3M4ZZU0"
   }
 ]

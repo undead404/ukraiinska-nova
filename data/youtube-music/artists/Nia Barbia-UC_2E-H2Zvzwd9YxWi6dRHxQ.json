@@ -853,5 +853,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mElGBa4XNBbhzIXge4-D9J-U31u2byHCE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-08T02:37:44.689Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Nia Barbia"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/Q6Ec8m3jrRDGLjkc9WZWw-RzTT9IoB5n53H9fAY0-PH2QVoQD2BRNAittAyz4wh8FmnTEXcP_sdWthhAFA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Чіґа-Біґа-Барбія!",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kOspLW30T9uqOtKf-3OJYi0xJrvfEPURQ"
   }
 ]

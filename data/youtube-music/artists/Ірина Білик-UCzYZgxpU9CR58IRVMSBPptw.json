@@ -12,6 +12,10 @@
       {
         "time": "2026-05-07T02:39:57.691Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-08-08T02:35:43.801Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -39,6 +43,10 @@
       {
         "time": "2026-05-07T02:39:57.691Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-08-08T02:35:43.801Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -66,6 +74,10 @@
       {
         "time": "2026-05-07T02:39:57.691Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-08-08T02:35:43.801Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -93,6 +105,10 @@
       {
         "time": "2026-05-07T02:39:57.691Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-08-08T02:35:43.801Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -120,6 +136,10 @@
       {
         "time": "2026-05-07T02:39:57.691Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-08-08T02:35:43.801Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -147,6 +167,10 @@
       {
         "time": "2026-05-07T02:39:57.691Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-08-08T02:35:43.801Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -174,6 +198,10 @@
       {
         "time": "2026-05-07T02:39:57.691Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-08-08T02:35:43.801Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -201,6 +229,10 @@
       {
         "time": "2026-05-07T02:39:57.691Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-08-08T02:35:43.801Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -228,6 +260,10 @@
       {
         "time": "2026-05-07T02:39:57.691Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-08-08T02:35:43.801Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -255,6 +291,10 @@
       {
         "time": "2026-05-07T02:39:57.691Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-08-08T02:35:43.801Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -282,6 +322,10 @@
       {
         "time": "2026-05-07T02:39:57.691Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-08-08T02:35:43.801Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -309,6 +353,10 @@
       {
         "time": "2026-05-07T02:39:57.691Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-08-08T02:35:43.801Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -345,5 +393,257 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kbcDzrxc_vYu3H8i0GcDXLynM2gBRCelY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-08T02:35:43.801Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ірина Білик"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/3o31HJbW4KaDIoqf1uXvfwpxVIrAqUnrPxQeZ49eeEL8_xnLbEcdbWPpVxJFzvCgEOvOlE4udspFijRv=w544-h544-l90-rj",
+    "releaseDate": "2020",
+    "tags": [
+      "pop"
+    ],
+    "title": "50 (Юбилейный альбом, 50 лучших песен)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kSSS9e5wnYuivguDFlPMKIIOLvetRzSsU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-08T02:35:43.801Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ірина Білик"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/XgOlDDObWHYlSW6F21F6jd9PdlwmcQyzB18Ij8j7ItIMmZYeXzgREwwkOCrufytBU-uoh2ADS2WT2OED=w544-h544-l90-rj",
+    "releaseDate": "2017",
+    "tags": [
+      "pop"
+    ],
+    "title": "Без грима",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lOnTICdJd89PDvNZVTLV1sDbNGrkQzdJg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-08T02:35:43.801Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ірина Білик"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/TsGGIMFdWmBlK6jvrgaZpzhNFEZIR6G5k7XxV4fB4h4zenrJGHQl6yI9zItcn-3-CiFCp3cLpFDWHrAT=w544-h544-l90-rj",
+    "releaseDate": "2014",
+    "tags": [
+      "pop"
+    ],
+    "title": "Рассвет",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nhoSxsS6We-k5cvqqczbwN3YBvkq-oMkA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-08T02:35:43.801Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ірина Білик"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/ENMQsOYupPsUYIC02fqgqUPddNSRhXrLMMXITcSL7FWeeYP_JTxd32J7xnMVRSPYI1xVm-M-Ixrn2Bbmig=w544-h544-l90-rj",
+    "releaseDate": "2013",
+    "tags": [
+      "pop"
+    ],
+    "title": "Na Bis",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k_ImjIgEW3ILPdsK28yreztoTmsuwd8-U"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-08T02:35:43.801Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ірина Білик"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/wcrB6cILEI8tJ1fxyncF3NNN3VziNpRUikgRx-6Y_w9pFworxXk60-BYthf8wsusH7ijcM9iq7I0qoc=w544-h544-l90-rj",
+    "releaseDate": "2004",
+    "tags": [
+      "pop"
+    ],
+    "title": "Любовь. Яд",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nli_iIewq02EQUG5VjCfkuoE0TJqGFVp4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-08T02:35:43.801Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ірина Білик"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/YwiZVWgLIRkPsvc-G4vsWke9UgwPDJpomHQ0c2WuGcth2LUczY7i4MVb_5YaeF31NwYZrE3frXXEShg3=w544-h544-l90-rj",
+    "releaseDate": "2002",
+    "tags": [
+      "pop"
+    ],
+    "title": "Bilyk",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mKqf7BnjiMsxffiDl7K5uZbwEHtod-sdM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-08T02:35:43.801Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ірина Білик"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/SdDo-dbUcWI7hx1_pC3QysLXuC2_Yb7-DPAW0uglntnKfN6eBLQqxnwM1v-40hhiw8wdeI7eer-mH3-B=w544-h544-l90-rj",
+    "releaseDate": "2000",
+    "tags": [
+      "pop"
+    ],
+    "title": "Ома",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mlr7pgRnIR_DCQuLJGhGOFhyi27RWJwHM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-08T02:35:43.801Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ірина Білик"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/TEEELqPBy1xJ4wldyUVkEmeEoNE31EZDgqZbUGrurZBb72-7elBGM-vAhikDFvBuJ1FU4pwKYKrzREQ=w544-h544-l90-rj",
+    "releaseDate": "1997",
+    "tags": [
+      "pop"
+    ],
+    "title": "Фарби",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kZRWwrYAiprhf6-6eU8Qg9Onv3EOZzSVQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-08T02:35:43.801Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ірина Білик"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/nkIOpUXkOJL_jz1PjVXQeOcchIYFJF28Yd85xUDq2JoUdxg5ZkWDdq1DowD0VtUfmMDZcdqngc7aGWU=w544-h544-l90-rj",
+    "releaseDate": "1996",
+    "tags": [
+      "pop"
+    ],
+    "title": "Так просто",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kTj3vkKAUPyToy7DTLSWVx-RJX6R7QXHg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-08T02:35:43.801Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ірина Білик"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/RnnH8eI5qNr7_jMZcWZL_SIbhfxrA0gjm5DhRAbMYUNqt9K5D2K-S1KTaQQFfXIoVc114NqNNSb50gvU=w544-h544-l90-rj",
+    "releaseDate": "1995",
+    "tags": [
+      "pop"
+    ],
+    "title": "Нова",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lOA_w5KUoieelMFLxe16RVSsJPRHphCzM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-08T02:35:43.801Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ірина Білик"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/UTdwa34vTn_uDZeSa4MEav6PO_7y5DLv7LtwYoqcAL5wvyCC_I4uFUQZfOCLmtKkVuDYYJy8ngwVzUo=w544-h544-l90-rj",
+    "releaseDate": "1994",
+    "tags": [
+      "pop"
+    ],
+    "title": "Я розкажу",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nYePmmK3qKfDkioma5ox9gj4A8Vcilpqo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-08T02:35:43.801Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ірина Білик"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/CFe11O4kfrsgegJtS3wcU3WeTShS9lmu8XbZldCbYvJJiDPkGY3anZGj5VRdSY9P6bwJlWhvsylumuz7=w544-h544-l90-rj",
+    "releaseDate": "1990",
+    "tags": [
+      "pop"
+    ],
+    "title": "Кувала зозуля",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lFS2-_beS2v_AUWbudTgeYj_C8sDxGcRQ"
   }
 ]
