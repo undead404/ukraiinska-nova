@@ -250,5 +250,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mYYoklQFT_g9qVpDCwZdI6AK3Qb-52HPQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-08T14:19:41.234Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "GRATY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/feO4Td3smc8HudwxROiGQFZOSgMyv-8Q6wHHkBigQurjwMidqS5pWdsWR22JdiJhcmZxeJvhaqNClrNGEQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rock"
+    ],
+    "title": "Не дивитися назад",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_no1jVZAT0q8LpIyY96MKg3gQ9o0hkAdsI"
   }
 ]
