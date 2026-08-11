@@ -1288,5 +1288,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mCcxDMXf0nz7i0P82g051EKsnlwgDWhIg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-11T21:32:01.048Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Pospelov"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/4g32ESLZCAtA1vVEAtiZRhf4ZhZygZcFYaSmOsNX4Y27jIbLbbBZsnTj43BHRrpWgWAMSPKhU13MREI=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Квіти",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l2CtvnfDCd-WByiyBy1ny8Q5asznfUMMM"
   }
 ]
