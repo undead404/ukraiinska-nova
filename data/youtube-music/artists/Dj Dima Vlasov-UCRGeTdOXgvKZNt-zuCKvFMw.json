@@ -302,5 +302,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l-FLz7YSFCmaffQYC8Ri6Y-xqHUgMGYEE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-11T02:54:20.242Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Dj Dima Vlasov"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/5QRXsrTpcD4Y9wYaKPKvrGamg2i5ZNJPg7rOK8dXR4vA-huOfkJCnXW5OB-CrQBU3GHXvFeVvX3XQ_Rz=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Momento",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lalJKMrpkF6ki5tFGRx7b05TIEfzTVdA8"
   }
 ]
