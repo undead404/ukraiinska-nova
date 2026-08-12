@@ -793,5 +793,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mJPeEv1Ny0ejKM62MDTWmG4HY8lOu4UhI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-12T15:42:20.504Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ruslana"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://yt3.googleusercontent.com/0HxjIPz7-QqGIYNLo3Yb8CxY3a5J5WWvIC2dRwyhICx5LRI0xqFXwgHW1kl3V6liaR5p7HxlS1IkS9jlmg=w544-h544-l90-rj",
+    "releaseDate": "1998",
+    "tags": [
+      "pop"
+    ],
+    "title": "ÌÈÒÜ ÂÅÑÍÈ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lHq6bQa5CWmDRpc0ZSq4d2Rj092ye5D4g"
   }
 ]
