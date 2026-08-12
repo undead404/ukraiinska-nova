@@ -1081,5 +1081,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nUjoAFwlcXJP0jBZppCTojqBJNI-IH5Fg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-12T22:24:31.438Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ДІЛЯ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/04T0hXOek2IB4xAWNqIwGNWY7B0xUStL_1pgwj4U4U8HZWZ6XaxB9DG-0-oh8Li1rn8zHiI9LKz5B58=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Deep Ocean",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n3-G_jsZZryLzaR8yq2nduas_sK8GJT0Q"
   }
 ]
