@@ -106,5 +106,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ncqlpUpeZYTpr0HHXhdVwfwx-8T4rrH9E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-13T14:10:51.768Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROMA TUZ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/KqyizuDtagw9AyCis2922xtlo59dGZjWxx3_FZVr7hWiU1_MCZI2W69Wug7XetsdiXqP7WysGQt1nHju_Q=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "ЩЕ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mJzU5YECYDa8Xtupnj6W2Flw8zmQ9xyeE"
   }
 ]
