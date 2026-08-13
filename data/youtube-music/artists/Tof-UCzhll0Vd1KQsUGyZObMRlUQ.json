@@ -3252,5 +3252,51 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nAKFiISqLGPoNHWC3I3HoXkpC9eVgL4tI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-13T15:42:07.894Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TOF"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/VQKblTIaAYFY8h00y93KpuRgInUM4CiE766uLhPwF_R_Wkf-bUNdzKMfvh9RR0obrglVWzbSnVjuxRWU8A=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap",
+      "dance",
+      "Hip-Hop"
+    ],
+    "title": "TRONCHES DE VIE VIE EN TRANCHES 36 STOP FaUCK NEWS",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kjcIECjytoJcX9ZBameB7TEo5FiBc-tNs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-13T15:42:07.894Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TOF"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/w9RhIMtxVw5H5oHUglpcEJPzl0JxQxcn5ee0rgd1M11Uon9K9r73lnCmlC941p-2UHrlkmE-TFtVuINx=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap",
+      "dance",
+      "Hip-Hop"
+    ],
+    "title": "TRONCHES DE VIE VIE EN TRANCHES 35 STOP à LA 100 sûre",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nnCpJyU9adLnNOw2e4YmtH8nIck3FAGzQ"
   }
 ]

@@ -551,5 +551,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_klWh4-MRpfVmDNlWVPkPokVn8TT7Zit6w"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-13T15:40:53.225Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lady Aphina"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/GfFQon_R6kXD0g_Bi2AjC5v6d7iDa2o0Gq2cR_-HJJqVkgiFohiLDttY5MxZhZIiTLRhYp97f1FLFtrv=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "Туга - Нью-Йорк",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lguTL3X6aaVwLXxI_PrwulX2cKRCeBBN8"
   }
 ]
