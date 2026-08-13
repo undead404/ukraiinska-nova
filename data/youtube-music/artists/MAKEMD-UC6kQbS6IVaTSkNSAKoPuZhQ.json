@@ -2500,5 +2500,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_liAJ6bt15qWZNEgBpEpcVVDnx9n3WMa9Q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-13T23:27:01.423Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MakeMD"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/he5gHQKBe-eQZfVn_ifat0xNsejkHNxyruEVM9C_NcP4SzFk6vXqCj7h-lAzTQnOJ0XE9EM89yrzJMs=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "techno"
+    ],
+    "title": "No Batidão (Slowed Melodic Techno Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k97GGTwM-9fLG9ixzVwuCo7lHtV7pqDeQ"
   }
 ]
