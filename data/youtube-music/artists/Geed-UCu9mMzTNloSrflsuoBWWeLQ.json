@@ -334,5 +334,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lKrF5E3_vTLaPdoYhKw2ss1B_0gWySsjo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-13T00:45:52.751Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Geed"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/YCGgTNMVg1mI2JVLH186rGdxPXoQpP3NBWmij1lSK31UlA5x7KvnTVzZOSPHI3y8j8RzSoGbZReGpwmb=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Ой верше",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mtqD4XfJkwe_AJ7IArlTBOmXnVCQmA8oU"
   }
 ]
