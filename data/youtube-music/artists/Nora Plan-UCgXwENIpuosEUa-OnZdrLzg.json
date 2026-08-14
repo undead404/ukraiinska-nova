@@ -405,5 +405,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_meqdZrNXXdoH2wX6Y8CKWgCe8bJ3OQqx0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-14T10:42:24.861Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Nora Plan"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/T86vsv3BPl7ZzNNDOyLp1pp81Nb4Z28AgVQ8lFXk4ns6lRyseVDOzSn2B7v44CgSGNdNFarLSC3k7A1t=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "metal"
+    ],
+    "title": "Wirebaund",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kss53QjskCishze_PdTlrJAA5gpfMSy0U"
   }
 ]
