@@ -1245,5 +1245,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lbUTb4JeZHtBeGkb698fpjmwk33JxVmJ0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-14T16:36:03.181Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SAMCHUK"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/mqk7zFuGWw4u70Dz-Q_AB1urhVX3dvj4eTCFb0lMfRprzeVf7z_J-Ix-eh6-7KO_l_jW7cdA4o8_VOA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Балаган",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_meJmoZBQb_CRJZhduuRel37_swUJGmeEw"
   }
 ]
