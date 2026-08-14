@@ -3298,5 +3298,28 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nnCpJyU9adLnNOw2e4YmtH8nIck3FAGzQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-14T15:36:41.221Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TOF"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/XXiU3oCkGKZUn_HN7fSJmd7LOfRPj_M7IJbIYBk5_oyczbZtleh3n_M5N8Ci_CP5U2KZRFsAH4nozH0=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap",
+      "dance",
+      "Hip-Hop"
+    ],
+    "title": "Tronches de Vie Vie en Tranches 34 FACHOSPHERE",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n8w3VaJ09UKpd9JgiF3-K8UPSsP5-eKKM"
   }
 ]
