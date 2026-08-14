@@ -797,5 +797,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kGTHjK7ZkfYdo-Pezm3_zVcM7i3w42NC8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-14T20:18:30.789Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VLADA K"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/k7s92YSawfb1C5yl67vHrNN2Zqq9_ztgnyVX4BK3ilQRHOUm1UzeoriTsN8wi3arF7JxrLCj8YG8JkpcsA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "АРОМАТИ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_luEegsfyMNyw_82kbllRK4uftJkIqTgnk"
   }
 ]

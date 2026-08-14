@@ -661,5 +661,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m-9p2-V1iWl23fuf2UJkOcMNndoBvsgz4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-14T20:17:43.802Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KRYLATA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/3-j4HyA2A66jR0oDDRrGNFEW6ZpFS5G9BqjDoEdMDwKrXKkz4pwgadwRcrZYnpzfOCsEh1DpWiSSnr9H=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Море",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m7VTMoGYK1ZDcE7aHduXC_WRCLI2tOVZI"
   }
 ]
