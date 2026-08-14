@@ -1624,5 +1624,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nisxqz4piOiUX5qyXCOyIPJusbLxHnS5k"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-14T21:04:04.805Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BaWN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/3l84z8d_84Fj_xOtOtvlsPyZtAk0ggmQzw6ViAiX2oFp4c6FTdZlOfCYrnGMb3PfDiPqMTZart-DIua6=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Панельний інтерʼєр",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nYC9EK-Awm4r0GlpakV416V_utzb6NAC4"
   }
 ]
