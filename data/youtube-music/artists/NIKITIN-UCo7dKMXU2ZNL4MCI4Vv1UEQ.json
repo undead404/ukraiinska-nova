@@ -705,5 +705,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kvOYa-7LXTOaIlAGM1RAvyDGdYffoY8HY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-14T14:05:19.780Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NIKITIN"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/gbVJU3Rs4A9CgLFsz_hgLuv9rl4l43t968z3OQXiCKrwHBBX5bTZFLidkBkkGEl4zkVR7LYNnZ4uBvQI=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "dance"
+    ],
+    "title": "Я буду носити тебе на руках",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kxBtqVrlKQRaxw5vnwOci0NJmTgKo7hX8"
   }
 ]
