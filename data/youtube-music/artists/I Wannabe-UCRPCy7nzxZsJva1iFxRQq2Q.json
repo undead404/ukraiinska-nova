@@ -1248,5 +1248,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nJCw9aHYwWBBv55keKb_aB6p6T3L0m6es"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-15T09:03:57.829Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "I Wannabe"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/nNF8yuhPEH4ZpfQ2iGFWcGWiwFmJjhCmIzN0RnqeGwm5ez_ICzrsJ9wqZghxIuKGs-TYkjQ8eCrLcI6F=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "dubstep",
+      "Drum and bass"
+    ],
+    "title": "Dragon's Energy",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ngdp5yMwK5sd29XqpAqHmRr33dcJEhhM8"
   }
 ]

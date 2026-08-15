@@ -1334,5 +1334,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nFTyalhgTnqDSV_czMy8HI4dq-9OATiLQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-15T09:03:21.046Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DOVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/fIaMZ7lnqFkV1vScSkIMqds9lA3j5BvHsPedk9DVIbKKRsssOx098c_cdbRh3OMFNVd1VMkiks_5Iwg0EA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "dream pop"
+    ],
+    "title": "Сеньйоріта",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lVfDxQU4Smez9DLCJUzc0OVjQdaJxo1L4"
   }
 ]
