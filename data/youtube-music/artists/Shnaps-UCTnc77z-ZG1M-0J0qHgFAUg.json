@@ -64,6 +64,10 @@
       {
         "time": "2026-08-06T04:51:44.101Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-08-15T04:17:02.095Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -143,6 +147,10 @@
       {
         "time": "2026-08-06T04:51:44.101Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-08-15T04:17:02.095Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -222,6 +230,10 @@
       {
         "time": "2026-08-06T04:51:44.101Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-08-15T04:17:02.095Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -301,6 +313,10 @@
       {
         "time": "2026-08-06T04:51:44.101Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-08-15T04:17:02.095Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -380,6 +396,10 @@
       {
         "time": "2026-08-06T04:51:44.101Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-08-15T04:17:02.095Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -459,6 +479,10 @@
       {
         "time": "2026-08-06T04:51:44.101Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-08-15T04:17:02.095Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -538,6 +562,10 @@
       {
         "time": "2026-08-06T04:51:44.101Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-08-15T04:17:02.095Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -617,6 +645,10 @@
       {
         "time": "2026-08-06T04:51:44.101Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-08-15T04:17:02.095Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -696,6 +728,10 @@
       {
         "time": "2026-08-06T04:51:44.101Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-08-15T04:17:02.095Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -775,6 +811,10 @@
       {
         "time": "2026-08-06T04:51:44.101Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-08-15T04:17:02.095Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -854,6 +894,10 @@
       {
         "time": "2026-08-06T04:51:44.101Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-08-15T04:17:02.095Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -933,6 +977,10 @@
       {
         "time": "2026-08-06T04:51:44.101Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-08-15T04:17:02.095Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1012,6 +1060,10 @@
       {
         "time": "2026-08-06T04:51:44.101Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-08-15T04:17:02.095Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1083,6 +1135,10 @@
       {
         "time": "2026-08-06T04:51:44.101Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-08-15T04:17:02.095Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1261,6 +1317,10 @@
       {
         "time": "2026-08-06T04:51:44.101Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-08-15T04:17:02.095Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1324,6 +1384,10 @@
       {
         "time": "2026-08-06T04:51:44.101Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-08-15T04:17:02.095Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1387,6 +1451,10 @@
       {
         "time": "2026-08-06T04:51:44.101Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-08-15T04:17:02.095Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1434,6 +1502,10 @@
       {
         "time": "2026-08-06T04:51:44.101Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-08-15T04:17:02.095Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1465,6 +1537,10 @@
       {
         "time": "2026-08-06T04:51:44.101Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-08-15T04:17:02.095Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1478,5 +1554,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mZFwXcDEl32dE6eA4w0GfJIbF2wL-eVFw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-15T04:17:02.095Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Shnaps"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/ruGX_tWkDdMUJC7FSOCAUSPDgMXNbEPwXpm6I0Z6k0AmOJCEstJxhrLc2tePJAR_7XQAEfwqB1AYfCWF=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Stay With Me",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lT3SDz5V1P-ZyPRWr0uM-UmqmcupIKZ2U"
   }
 ]
