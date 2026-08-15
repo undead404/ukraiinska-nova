@@ -1052,5 +1052,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_knDkN4D1QZHunxNU6EH-e60sWRjs1zwng"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-15T13:18:45.986Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Balsam"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/YO4UIJjfz9uxtRSJlgi380QoD_grCFORRQHgHYT1wqlDBRpinYA1kLjo6nOlGwMr51CO9akp6V3iDLjc=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "ambient"
+    ],
+    "title": "тільки я і ти",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m-IN-YYAY5P1YfwSatpqyE8X6k5xtuU14"
   }
 ]
