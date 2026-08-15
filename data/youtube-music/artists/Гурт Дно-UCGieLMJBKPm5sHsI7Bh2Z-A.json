@@ -3012,5 +3012,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m5RyYm6PsZNOz0LmZWtJZMEtCJbmLUjYE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-15T07:16:55.490Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гурт Дно"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/dooIKFHJvzg3f3dxlbJweWnleR5vntVwKpd7BM_9Cs96YaK71YjSPkNkfiKLwkU8xySTZX15utME3re90Q=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "Last Night",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m7kip1TKYhGbCoFU0X_vK1IvoRmk7s51g"
   }
 ]

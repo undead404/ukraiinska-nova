@@ -357,5 +357,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n1sV2g09N-cob1WVLcfTCh9uxToKmDCPo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-15T07:19:54.322Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TOY MAYK"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://yt3.googleusercontent.com/vdpCSD-XKPQwbwtcNMmDjicUn2nMk-AbIh5ixfDXyieuQbuyebUbJ3SBR8ZmTWt1Pcn3EohNImAzHPo=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Ми серед степу",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n3QUJqifqL0aqb8JNtf_ADigIG7SXlzI0"
   }
 ]
