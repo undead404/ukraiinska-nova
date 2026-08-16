@@ -672,5 +672,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_npxTz8scE_8pK_HMMh-QdBW6mUeBr3jjg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-16T21:57:30.413Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Юрий Вольф-Вурдалак"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/_-PpdIUXl35VhyRh8s1p1ISW7DJW7kQBwWTNnMs8vXIeg6vmF_7en6-knoFjMpneYy4PXKdPBXYallg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rock",
+      "punk rock"
+    ],
+    "title": "Punk’s Not Dead",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n067IDybeB35II_rYsEvm0f2TYKbaUixs"
   }
 ]
