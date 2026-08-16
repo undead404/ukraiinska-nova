@@ -490,5 +490,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kuQy9PV46t0-suWJLENqXOOD61TgkRZlI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-16T06:02:54.488Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "EMIGRANT"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/uwJm4lS8zQ3FEb-J_-b46CFBO7klA9w3SedRrJ6mc6hKHCF4-krQqUhOZvE7TFA4rdx8oCkAKPEo-vY8Vw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie pop",
+      "indie rock"
+    ],
+    "title": "Mas Alto",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m92YPgAYnBY9n4Fkjb-GkEpVHh4N9YaxE"
   }
 ]
