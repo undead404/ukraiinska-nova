@@ -512,5 +512,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m92YPgAYnBY9n4Fkjb-GkEpVHh4N9YaxE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-18T06:03:43.548Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "EMIGRANT"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/x6gfD_wb7vIt2Y4u42kXr2w6B_N_PJty8bFLO7rVqMu9GTRXpRZFQUrsLBKxVoUntkjGrPf_-VTFHJ-t=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie pop",
+      "indie rock"
+    ],
+    "title": "Fuego Lento",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lIClZYsJ0tlLjaESDIEnLCI45I3Txa_sQ"
   }
 ]
