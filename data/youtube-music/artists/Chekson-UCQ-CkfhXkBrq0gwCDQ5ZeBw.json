@@ -334,5 +334,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kRzP3hySNzSN6YQWlXjbHOr7xGxLLa5kA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-20T05:16:13.825Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Chekson"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/E9CTIKl1ta2YMefrlTJ-ssafkQYbR94rbrhRKU1p4XQtAGHXy2UBWtIeqH6yTzz_UiIBak0gbPZB4APq=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Кілер 1 (Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lMmnT3naITdh5DJvF-r6Q4HFC823QVvy0"
   }
 ]
