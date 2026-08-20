@@ -31,6 +31,10 @@
       {
         "time": "2026-07-29T12:33:59.581Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-08-20T12:02:53.109Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -54,6 +58,10 @@
       {
         "time": "2026-07-29T12:33:59.581Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-08-20T12:02:53.109Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -77,6 +85,10 @@
       {
         "time": "2026-07-29T12:33:59.581Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-08-20T12:02:53.109Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -100,6 +112,10 @@
       {
         "time": "2026-07-29T12:33:59.581Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-08-20T12:02:53.109Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -123,6 +139,10 @@
       {
         "time": "2026-07-29T12:33:59.581Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-08-20T12:02:53.109Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -146,6 +166,10 @@
       {
         "time": "2026-07-29T12:33:59.581Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-08-20T12:02:53.109Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -169,6 +193,10 @@
       {
         "time": "2026-07-29T12:33:59.581Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-08-20T12:02:53.109Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -192,6 +220,10 @@
       {
         "time": "2026-07-29T12:33:59.581Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-08-20T12:02:53.109Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -215,6 +247,10 @@
       {
         "time": "2026-07-29T12:33:59.581Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-08-20T12:02:53.109Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -238,6 +274,10 @@
       {
         "time": "2026-07-29T12:33:59.581Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-08-20T12:02:53.109Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -261,6 +301,10 @@
       {
         "time": "2026-07-29T12:33:59.581Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-08-20T12:02:53.109Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -284,6 +328,10 @@
       {
         "time": "2026-07-29T12:33:59.581Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-08-20T12:02:53.109Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -307,6 +355,10 @@
       {
         "time": "2026-07-29T12:33:59.581Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-08-20T12:02:53.109Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -330,6 +382,10 @@
       {
         "time": "2026-07-29T12:33:59.581Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-08-20T12:02:53.109Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -353,6 +409,10 @@
       {
         "time": "2026-07-29T12:33:59.581Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-08-20T12:02:53.109Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -366,6 +426,291 @@
       "rock",
       "ukrainian rock"
     ],
+    "title": "Я передумав",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nj2Y-s-gUaZz-i8RddJe9ma6catrsNORQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-20T12:02:53.109Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "МОВА"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/lAQQxPVGY2SoASQ5W67DEe47lXd6G6NQtUI2VjldMk0oxUiUhLyQl2HOhn70344k0GmI9zNFUUZRfeg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Ніч над Карпатами",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lsyXQnJ9TUxEl8xawc5zjDWRZ7RUjD2hg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-20T12:02:53.109Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "МОВА"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/kfM_4VvLRu3-DtN3_iDgqYiU7_zZGTHNAl9QyZ-NVFqDCFupyHhGhl9a1Y5QyqVIiK-khL1rJZJeNPmwjg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Києве мій",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nXWPtzHlER8ItOrtl6cOyWcyEg-U-R9k4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-20T12:02:53.109Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "МОВА"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/nbkc0g3Iv_PbmtEPPsNeBh6CjWLxCJ8LOLScODway6v92U09la3_RgGSD5KUrSrXSNQANvwCEovae2B4zQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Каштани падають на брук",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n9K4Em1YaIQamjqdtDP_tJFk54fD6VY9o"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-20T12:02:53.109Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "МОВА"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/h0Ux59TS6U_AB2ojG29L4VHRETI7WEuWgfRSs5nvCRnjsZ1BmiRpJd7FCZDsmLm3EmHfo32gM_uvJQU2=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Козачка",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mI6uNwQ9DFTr0_q_uaI2f45zyiuLz6nYM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-20T12:02:53.109Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "МОВА"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/XOkNRLwTesD159DlavwNNbbl9LhzsS8pFUtKK9V-xYKX1gQHIG2_regXhgaDpZ3ZQ_C8KSMBHurnLRAX=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Ой у лісі під ялинов",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mgzYCX6C90uw2Hxt5kMR7aFi6_5uamH5w"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-20T12:02:53.109Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "МОВА"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/JEY4VYHecwt2VpGnqH3XACk1mOJdmwRXn7m4phTVWj-v1tZpxvFq58jMKTKPPSrsBYktOLy68r61a1XK=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Полум'я (Acoustic)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lgT_JjfUvK1SxjtFKDMQOUg3Qpd2DjvyM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-20T12:02:53.109Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "МОВА"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/uXTtipR-oO7iAjKi-pd6dV-gk9TGBDnsXx03d_orUxPNmmKX0YmSiEtgI6CEQHuuQxU-IBIzIy8sKhA=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Щедрик",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mJ9PIxii5rMOdf7ewXYzFUBeZVOQ6ZByg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-20T12:02:53.109Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "МОВА"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/hs30CzB-0GOZ5ODdqrz8hH7EdwsXbr3BBniqsw1MGOE2YD53BS7hMZgoCMXHHd0aAh4UNad3SkdPBKA=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Полум'я",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m96AwbCwK27uD-n12bnoyBpTgebT14sMk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-20T12:02:53.109Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "МОВА"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/hPkfjdmSM84Lq7Koy9VzI_4Nq-XrH02NYoaECL3KgmhuGMIYDur-Toe9e8fNbzwbx4HZ6sZPElymttk=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Турист",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nhQuqvbokm88DJgR3fArmnINcydELu2sI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-20T12:02:53.109Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "МОВА"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/WAecIC3ytPVLMisyktsPuNkJRu4diFQBXBsdU1YnKXIGs32lCvE6ixYNyqXnpn-AT-_yeWWe-B6uyTYV=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "DEBUT",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nlPN65Yc-21B8_i9gTvYDSL_mTBCjUZLo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-20T12:02:53.109Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "МОВА"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/t_YkOaiz9V9cox3_y55zfRSWbSRwmz1gbitt9bqhv54I27IwcWLTfXMCjw87gqdNgeTgA9CtOT7oXdFC=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Помилка",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nKShKt-LqBJTcVhKddgHNcdzXLgvYdOtQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-20T12:02:53.109Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "МОВА"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/tGfuA1qfEBWfl2ibaynLukJsdPnyzTDtLcpm4aDZxfMFNIpjCzhZRqsONw0whAKIFRXhBRvt7q7Pkd50=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [],
+    "title": "Нестерпна легкість буття",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lMLfbKqQkcr1kbUxKZkzh0KZhvYOPLjtM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-20T12:02:53.109Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "МОВА"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/dG1OAH3TE99jkfrlTTRQ65njvB4X_6eEQsrbHHfNSUUHXOBbrPUtftrHI_NLDUdc1D0Lh8RSjJGNkkw=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [],
+    "title": "Прощавай, печаль",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mpD7BDddidBw03omwjGyhjlLFbio4TnTY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-20T12:02:53.109Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "МОВА"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/noAL07KME3IU-zGWgzPiHcy7rvFBVTousAH_VO2qvnSwZbJ5JHlvY9zDqjUxRC2S05hs92WkgsjhykT-=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [],
+    "title": "Мертве Море",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nQC1CfNnSiQIe22ibPD4Omh5z-vYR4Q-4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-20T12:02:53.109Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "МОВА"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/4xA3pvqCAtswp_uFy8wRYh3OyXiJ8BROXRtakLnlGM4FvywGvYBS7Qvm6T44tbhjNmTLBhFgqJYpfWg=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [],
     "title": "Я передумав",
     "totalTracks": null,
     "type": "album",

@@ -1208,5 +1208,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lB2HGg-BPbNSPUAokY-HU7sCluojJQdn4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-20T12:03:42.581Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alena Omargalieva"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/aZ2METnKdgdjHA90-Azy21zpDeXbKeTCs2xaqxmCdhRs1jvoQXysl6nOI2dV6_W83MzJJ8EzoCOsWLY=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Музико",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mfgkgdTtDW-_oKjN2m73BgmkK8ySmlw3A"
   }
 ]
