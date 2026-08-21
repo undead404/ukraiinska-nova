@@ -3938,6 +3938,10 @@
       {
         "time": "2026-06-25T21:20:44.046Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-08-21T21:04:18.048Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -7625,5 +7629,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ndL87WSeutv6rXDzqxH0ZUJ2wVAMVcXTU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-21T21:04:18.049Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/b1G0cJ6RGyHVYqQauhg3al_CX6FMKs8DclzEewuRlLZ-MNvenfrDGwyV6OE8u6C4H7zT6spo307Kv8xG=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "No delay",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nAbeqEF1xWVsYUEFdDf_1ydB9WfUGYpmU"
   }
 ]
