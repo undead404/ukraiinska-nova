@@ -493,5 +493,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lA9sd_0HWO1FWpacIT8_v9F2A0QnSgBV0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-21T02:13:29.036Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Уляна Шуба"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/ag7hIUSoFrRmE38F2-6SqqYm3NSXsh7I8GkIDkPqy2R90zWsyIQqPaW17BdpkVAzg8jpyOroEQn2C-E=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Ой, мам",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nOdCISqZXy_Ch7CK98G1buVibcGrWMOgA"
   }
 ]
