@@ -1120,5 +1120,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k_uHfEhIx4A8-2VzoFCF0vZ5cTUHCpMB0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-21T15:15:33.275Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CHOOB"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/o0qLyzYMLBzRVAzWQXFJ7zeuxJ-QQdbrFN2ud1ah8pKtqnIwefGkCuVMc6YoROE4VhnzPUfqm6Ew2VVn=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Літо",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nO25O7c87iDXVAFYZm2e2dFgijiFje0t0"
   }
 ]

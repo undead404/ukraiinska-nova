@@ -2501,5 +2501,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lVPod4-JttKb87dKBHIqKESAYbQnNxU6o"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-21T15:18:08.333Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Volkanov"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/IweylE81sL-2wunTadGdg6GCB2uaqwl6wo2N6mqd__G606NNFwwJJ-qr4-udyWCpFAQmHixFZO5yzU_K8Q=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Родичі",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l2w2HwD_ryOFQ8Fbsl1m72Vsfy0LZJHkg"
   }
 ]
