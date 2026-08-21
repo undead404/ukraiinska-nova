@@ -794,5 +794,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n82psBUe9CozMGgceOoE_EhXNj4Avb_-Y"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-21T06:05:29.983Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Саша Чемеров"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/vUkDVsbb5He5LQmmy2lXXHsXGSFAOc-Mh93imhWXTMGODoCM3c16EONN4uRujtDYNyOngVnjM3mKjYYiwQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop rock",
+      "rock"
+    ],
+    "title": "Все Це Колись Мине",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nDCIhNL13baMVIjI-9KtdUNW1cxxpPXmQ"
   }
 ]
