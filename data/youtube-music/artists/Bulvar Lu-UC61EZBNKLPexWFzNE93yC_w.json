@@ -375,5 +375,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m-rlDlbPlnbw8UV50T_ired9o8cpyx6Z8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-21T10:13:20.213Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Bulvar Lu"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/oWPuqL_ycu7Dc04zv_o9BbXQP2Hevp02wDTDWR4OEEwVJyl79A1ClA8wP8J_ZbUChKwBMoU_qlCOTrcytg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Помада",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m67g5sSEv-278Fnpeh8U117QhNtzOLBwo"
   }
 ]
