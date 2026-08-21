@@ -1104,5 +1104,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mK_mWS1iBvPP8LrOBrgslWQ_U3FeGfoIQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-21T18:04:06.183Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Друга Ріка"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/30yBQFWzj6Qt0avO57rjvUScdrbX4uiaEryYMDSDNRSxgdqFTU0UsopemWhDtjm0pvBbyj1B2dRqqnzUNw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rock",
+      "ukrainian rock"
+    ],
+    "title": "Я Є! 30 років (Live in Kyiv, 2026)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m9YTzig6sFD9uMZ8mko-ZAc4-BkWJp_9w"
   }
 ]
