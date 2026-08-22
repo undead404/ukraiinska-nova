@@ -772,5 +772,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m8fZL8e18A0uTH3v81qaY1GwL6Lb6LaCg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-22T07:21:00.076Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Baryk"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/Ft5lT5lfuLEf5-QeTv8jcF2hjMIt9C-Mw8mtOMP_z0Dood8aouaA3l2csgREzTaTCgcapRWagOnDn40=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop rock",
+      "ukrainian rock"
+    ],
+    "title": "Розділяю",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n0xfZzQCE70o750ZuQD-J2zIxU7CH_a88"
   }
 ]
