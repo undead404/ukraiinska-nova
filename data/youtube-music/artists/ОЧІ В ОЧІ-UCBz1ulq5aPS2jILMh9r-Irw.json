@@ -588,5 +588,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n2L2-gPjesidgTy0LEydoMHN7G91g9FoA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-22T03:26:03.229Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ОЧІ В ОЧІ"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/6gOKN377LuC5sq8USJhzGCwZkCm4WsFXKC916CWLE411CRQMxOk5ywPU879r5786daXRwy148VTULKYi7w=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Нікотин",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kQvgx247yAcyO_yV2wTVW0a3Kh6do9nPE"
   }
 ]
