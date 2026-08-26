@@ -207,5 +207,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n4Cd4cPAsjsNCSpPTfIaMhWi48CCXeEF4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-26T04:28:16.278Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TIM PACHE"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/VFsPzK37bizCgZbXMIzx8RNSDmp_75w8DJH31s2vkf7x7pdNMDiDXta_povECkgRvywvXU25tN3noy0=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Літній",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lTgjjkr44aDemIEfIYZTnV7bKQTpn7ri8"
   }
 ]
