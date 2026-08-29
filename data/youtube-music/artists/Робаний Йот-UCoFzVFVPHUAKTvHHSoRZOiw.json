@@ -711,5 +711,28 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mQkQHdErT1-GKJf_lasZlI1zgZjKWKCkA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-29T17:56:46.019Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Робаний Йот"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/VUdovMoMvdUTzX89pfbry9ytlp5i25WOjQKui5tGdilYPEI_37a2BzZG83Hu-VCmOdYHkcTrMCJsNycH1g=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "Garage Punk",
+      "alternative rock",
+      "indie pop"
+    ],
+    "title": "Цей день",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kdnmve0rMpY8n31ZkX_NNVtBQnxT8D0XU"
   }
 ]
