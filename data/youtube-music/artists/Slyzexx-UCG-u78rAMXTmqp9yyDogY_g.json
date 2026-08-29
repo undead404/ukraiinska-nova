@@ -3871,6 +3871,10 @@
       {
         "time": "2026-06-25T21:20:44.046Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-08-29T21:19:50.215Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -7648,5 +7652,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nAbeqEF1xWVsYUEFdDf_1ydB9WfUGYpmU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-29T21:19:50.216Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/sODoEgxzezHWes6McR6DDXF0jKFxRURtP5e945RNQ6uA0PQOeyvOfOyq2SsYC8mqh_WjobMSsRV5_Ac=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Walking in a place",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mjBLXYdjnDOv-19rq8aYxiWpXqEkcY4O0"
   }
 ]

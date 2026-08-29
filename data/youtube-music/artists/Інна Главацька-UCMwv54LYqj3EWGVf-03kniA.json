@@ -1873,5 +1873,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k3aRWVUk1G8wrS0l7e4snb6Kfym8xJncA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-29T21:17:06.461Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Інна Главацька"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/YSG5Av-FXk2x4dWuHBPoEgPsxSEnKINjfnVaXBPCp9IBvWG5WTptUonb8-a4zRFMe2ngFJ7QI8gGIQSI=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "folk pop"
+    ],
+    "title": "ДІВКА ФАЙНА",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m-581BpVZwgjiNZPjIWssVCwVqCbdLyok"
   }
 ]
