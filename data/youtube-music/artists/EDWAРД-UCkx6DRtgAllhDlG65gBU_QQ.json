@@ -882,5 +882,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l2dS1odS6Vmst28JBVT8nh1UCGSphYRYY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-29T23:37:57.300Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "EDWAРД"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/fcZuDTvLsl3npnCc0OR-s-FS9LtsH1mLFAZG1P2Q-5D2lxnyIGbgpWoXmnIibikM0vaGk82rdUrGOKk=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop rap"
+    ],
+    "title": "SEX 2.0",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lyVHGte-CsSj6AzOTwRX4E97PQi8EdubM"
   }
 ]
