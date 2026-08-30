@@ -654,5 +654,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lrlBsBCpEApX5_ULPKXBeoB_TYKUlb_iM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-30T01:43:59.954Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YOGEN"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/4Xj2nrqq6O6iYPSyT0yyVS6Zs810439WAXnSj06tjiahCmVH4Igx118NL3NkviSzB5uBM2DTY0X8OoY=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "shoegaze",
+      "space rock"
+    ],
+    "title": "Магнітом",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kRSD6dpKGuqx-3xBqXmsWPluzXHii4vUM"
   }
 ]

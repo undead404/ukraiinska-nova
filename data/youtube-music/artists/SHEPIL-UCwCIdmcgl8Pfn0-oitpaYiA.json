@@ -376,5 +376,43 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n-a3lRLntWM30rTnRoPT_z2y19c7DJCXI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-30T01:43:24.531Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SHEPIL"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/JXv4xzFq1oCkr3boilBUcQPNFtNAckjLyaL9K71Qd9oHdd70YoKDilQAHomz2Z0bv761vcGYZLzXLyv-ug=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Бал принцес",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kK1SB7FXkkUliUAYLlWhecMsmAGgU4odU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-30T01:43:24.531Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SHEPIL"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/X10t3zA0VvjZ0RQIo5lY2RYrn-B9GsXeqkp3jj_85HOa2mM4rSQcIffd1UReNoGoRYpuH3N1C5aGbOBi=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Алло Алло",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mGeHusdmzhMaQvUpcZplWlKp5NyEOtWHw"
   }
 ]

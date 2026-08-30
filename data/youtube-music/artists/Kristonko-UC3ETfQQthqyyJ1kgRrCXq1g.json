@@ -1297,5 +1297,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lgZYSaTIanlN9G1zRUv8Rcf_jNsY1PDNM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-30T01:43:01.776Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kristonko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/Qu8z3rOeOzHhRNK9YtCt3een96zKzL6anHCgO5_xgDTDaM1acHapzYPlPIGZxqf_ZXteZ_YZCVVrFWXOlQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Просто би хотіла",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mLDvIOwcIlvgzshj2Sv7DBkMNc9cEyhTg"
   }
 ]
