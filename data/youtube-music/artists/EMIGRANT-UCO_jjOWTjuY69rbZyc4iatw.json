@@ -534,5 +534,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lIClZYsJ0tlLjaESDIEnLCI45I3Txa_sQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-31T06:15:58.328Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "EMIGRANT"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/jfvsrABwlhy-zsxKwzPOsJa5P551GAReNa0hHGI8Tm44R6F99-Tin1WAPvxc9D8C-4r5K8vvhpSF_SoD=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie pop",
+      "indie rock"
+    ],
+    "title": "Alma Latina",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lyDfdWLR0K93JrzvRcSJ1kNlrerdnt1LI"
   }
 ]
