@@ -1299,5 +1299,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mtvgKmmLebxkyW0RYEZxLqS3rS4BC7mco"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-08-31T20:25:26.366Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ЧАКІР"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/N6G_zZnxoL2sScZtUFGgJytM9lFY1TK7TDfxZbpmJUErY1mXD4v7V7CW0jXUk0_7bB82PSsI2j6gYqZx=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "донтстап",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lmMvAP7dDHWww0iw1NV467Il4_OKfbdU0"
   }
 ]
