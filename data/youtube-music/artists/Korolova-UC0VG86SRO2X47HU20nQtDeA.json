@@ -2074,5 +2074,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lBB0bkI943z0BC8oJzfV1qTICVcwS88LI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-01T18:52:32.971Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Korolova"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/IATmjWLE6RvqQu14OJ0cIVDF5GT5ZOxKnVvAbjpVf7ffU5BV6-W06FWJLTgKTYkb1Q4jlu3YwvqDVGU=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "Melodic House",
+      "House"
+    ],
+    "title": "Waiting For You",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kb3jHMWKFFZptE-U90NoNulcBQTdHCOws"
   }
 ]
