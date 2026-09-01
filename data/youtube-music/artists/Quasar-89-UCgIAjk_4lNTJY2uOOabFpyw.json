@@ -4659,6 +4659,10 @@
       {
         "time": "2026-07-11T15:40:12.260Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-09-01T15:15:02.709Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -4763,5 +4767,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n4xnA6M8CJ1CFhPev07KhPUetvAQ-N9ek"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-01T15:15:02.710Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/KSc9UqlFrKgLrG2c7Y5OzvllWce20A2GuucIDiy_jdg26snn1PER47MIMiZlLQivKNUkySGnpxhDtZY=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Rising Ashes",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_le3z__RZnaHwQeov0JvJZ8e2B0csRlrfg"
   }
 ]
