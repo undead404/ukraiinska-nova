@@ -504,5 +504,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kdTqGka6faoG3paNah9hthaslv0qvoxTg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-01T05:41:34.555Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АЗІЗА"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/f-wblWTwHvkBhw8sB-XToQmq0Ks6TdDpMl1UKDhx1K0Mi7oX9itD9QMybAuJaFZX0R1s5xYX0_IgH0Yo=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Забирай",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m3twSkeLqz5TB7gvrcwLDvRguCc_qDFu4"
   }
 ]

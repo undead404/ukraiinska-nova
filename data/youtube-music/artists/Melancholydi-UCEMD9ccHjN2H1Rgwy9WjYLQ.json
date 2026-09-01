@@ -230,5 +230,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_krtwsIgk8m3TSoHBANo3FfzIxJtmmWbVo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-01T05:43:46.313Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Melancholydi"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/fIurOMIYanAM34lF4g1W98YVPXDvFPCy52mw0xcMhATINsxat6GYsB9twEuVxk1eGj3yKhYmdd6mM8uJ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Місто в вогні",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mCJ4AwtBHke088LGgARQq2zKqGWzc_B-4"
   }
 ]
