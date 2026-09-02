@@ -1307,5 +1307,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l2CtvnfDCd-WByiyBy1ny8Q5asznfUMMM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-02T21:22:30.741Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Pospelov"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/143GZ7YQcrd_y-lfsWbhg2mOaZWP7rH5KMriAHyniMN1uVPByBjAFxObckbgdTSVzj_CvpA_yac0_Pzs=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Лелеять (feat. Mr.M)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lV5by0RV-uY6rtOuCjCQUjPTsiL7XhPAE"
   }
 ]
