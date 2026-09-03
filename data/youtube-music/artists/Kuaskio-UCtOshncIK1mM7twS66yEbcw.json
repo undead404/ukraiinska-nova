@@ -535,5 +535,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kGwIDhdYMgDcn1Embmva7vcM_okOy49L4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-03T11:45:39.833Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kuaskio"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/m4vrqfF0tgnftJ4iMY1K7MGJKmT84fulR1p6bjFs3fvy-yUFfhrLU82WuEImTj4UoyCSq9UumbjJ1g6e=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "знайти своє щастя",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lZe3TB5FZIB4mrtbyGmK4oP-syU0l9ObM"
   }
 ]
