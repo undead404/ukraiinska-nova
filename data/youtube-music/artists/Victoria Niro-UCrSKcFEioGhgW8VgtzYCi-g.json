@@ -673,5 +673,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mZ6Su6Po51hTWo4hIGs_LRmTk0UnJwdkE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-03T19:30:57.796Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Victoria Niro"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/1pzlaEgr8VQmFVZP8BBRe-wrHrBs92-BcZTErF6fY2mxjKpQ3iz7WHU1uwjHnWXV6MuJp10-MxBf6ozd=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Поворот не туди",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nOGSdmI57u5Unin3O-S0y3_BwlQZJLBSY"
   }
 ]
