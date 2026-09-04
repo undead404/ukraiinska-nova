@@ -2467,5 +2467,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mV90zEJWMA9BpIsTz-epjy-7lksSc7UXI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-04T23:23:53.395Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MOLODYY"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/PazSryWELXo4ZHUnlbd8w9gquiwIdRi4Vmp0RWXWMJ3aJ0PyEs_GIUsmNzGHwlU9Gmdv6-AIBXGl8xHJ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Нуар",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lFiDIaG7F9iX2gZP5QqHgKh01Md_4HaUw"
   }
 ]
