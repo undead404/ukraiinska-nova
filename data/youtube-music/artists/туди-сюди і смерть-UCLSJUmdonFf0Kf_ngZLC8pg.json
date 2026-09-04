@@ -524,5 +524,28 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nFkPzcKID6dk86xh6z8ytA-_lz7yvTgkY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-04T14:34:19.750Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "туди-сюди і смерть"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/IpLj2z3ffB3-k964U1be5jl0xp31r4isHRmLtgo3_tVe0_QX-nfOScJTU2xhSpwVhxyDRZg8279LsXUXIQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "Garage Rock",
+      "indie rock",
+      "punk rock"
+    ],
+    "title": "Вдавай що не розумієш",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lj-ZQvCIziaL_n4I7DPir0121bnbYIQsY"
   }
 ]

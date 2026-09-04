@@ -2132,5 +2132,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k6I7yLJa7YhkoUdPhL3JLNhYueMDDA3zc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-04T14:36:12.834Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROMARO"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/oXa1UBMpGx-vSZBWhSd6clx1AsqbJOScSQDyTdmoIBusiaDhJACjZ--ie8bzoCh894mwWAOtOy4lgr4=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "Hip-Hop",
+      "pop rap"
+    ],
+    "title": "Час іти вперед",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nCEQYdCKMz_HhV7iPtKsT0o_k-NsEW6TQ"
   }
 ]

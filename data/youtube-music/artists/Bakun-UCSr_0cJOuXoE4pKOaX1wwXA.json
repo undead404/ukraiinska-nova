@@ -508,5 +508,28 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_naq679bnkPbq-688p9JcFY_G5xr_w_C98"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-04T14:34:48.839Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Bakun"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/Xf_xX1n0R48j3PM1D01DAftN0_WiCRKzDCX92K_yt3xACLuncUAQYMq7wwk8Jn0_oNLbPyoXxaYSyqtVAw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap",
+      "electronic",
+      "trap"
+    ],
+    "title": "Зможу",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_khcVgU6zuur3EGdDsAyHB-ZLz6E1M8Bs8"
   }
 ]
