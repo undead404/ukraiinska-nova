@@ -1063,5 +1063,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lyhDNmGoMTUngoPtL-KxqXdeV7wBS6GdA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-04T21:05:34.848Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Mon@rch"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/GwQFaSFPlubdtilWI8c0ji9QD0mJdLNhFddjt7UkWWBhWPpP_06lhMjuVhkV8LuNMVwdmqdjuGk41gg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Ти мій рай",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lJTTjZmtwglGl6r4Nd-VMx7qW28w14nwI"
   }
 ]

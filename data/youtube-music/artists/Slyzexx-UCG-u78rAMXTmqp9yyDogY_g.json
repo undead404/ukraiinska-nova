@@ -3804,6 +3804,10 @@
       {
         "time": "2026-06-25T21:20:44.046Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-09-04T21:06:31.444Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -7671,5 +7675,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mjBLXYdjnDOv-19rq8aYxiWpXqEkcY4O0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-04T21:06:31.445Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/fUr9gMd3Va8dE2fbK0yXPaRSWWq8-5aFKYvVAJgpZ1j8Cv9LshIluoShSTHteSYfcVjlrxhCsC0nJ8mI=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Hypnotize",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lDkPQ6-PstL_KjHWyjgHFPobO4GRTcsPQ"
   }
 ]
