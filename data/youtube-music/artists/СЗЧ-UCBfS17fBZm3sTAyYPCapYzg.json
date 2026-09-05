@@ -12,6 +12,10 @@
       {
         "time": "2026-08-02T01:18:06.641Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-09-05T01:26:43.068Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -41,6 +45,10 @@
       {
         "time": "2026-08-02T01:18:06.641Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-09-05T01:26:43.068Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -70,6 +78,10 @@
       {
         "time": "2026-08-02T01:18:06.641Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-09-05T01:26:43.068Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -99,6 +111,10 @@
       {
         "time": "2026-08-02T01:18:06.641Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-09-05T01:26:43.068Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -128,6 +144,10 @@
       {
         "time": "2026-08-02T01:18:06.641Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-09-05T01:26:43.068Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -157,6 +177,10 @@
       {
         "time": "2026-08-02T01:18:06.641Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-09-05T01:26:43.068Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -186,6 +210,10 @@
       {
         "time": "2026-08-02T01:18:06.641Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-09-05T01:26:43.068Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -215,6 +243,10 @@
       {
         "time": "2026-08-02T01:18:06.641Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-09-05T01:26:43.068Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -244,6 +276,10 @@
       {
         "time": "2026-08-02T01:18:06.641Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-09-05T01:26:43.068Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -273,6 +309,10 @@
       {
         "time": "2026-08-02T01:18:06.641Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-09-05T01:26:43.068Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -302,6 +342,10 @@
       {
         "time": "2026-08-02T01:18:06.641Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-09-05T01:26:43.068Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -317,5 +361,43 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mkp3M50ObrnFarkjuu4HBdsaG-4p4ynR4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-05T01:26:43.069Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Singles & EPs"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/y_5Ke0PZVAmdgR7ZcmcBn-bIEPU79IEckz98YiG1t8cATLgdg3XMHbd9dY3wHjveoOR3Vcq3nIaw5WE=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Пил доріг (Для фільму) (Remastered 2026)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lUpKC0EMlJxWP6CE-1CSJau0Ne6mleAYc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-05T01:26:43.069Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Singles & EPs"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/XeYrTUFxoY48W_u7KPnJkNRXlAyNKoz8JKkDEDOda8IXL1tyBxEyqJAbXTzv04ppt4wMEwwDII6qQL4=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Хто",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kr69NzRCJuPiaWxtbnsS7cXhuexP71-Lk"
   }
 ]
