@@ -506,5 +506,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kmEnaDh0LoFrG3OKWcXku86wB96hrPVnM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-06T11:24:45.852Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "THE ARMO"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/cEOEHa2mz0FzO6J7jEJk5k6IvmNzfD8Ft3sdafXj_n0X9rak_7NiM39Mc_T_z87asqjnako4TjxjMta3=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop rock"
+    ],
+    "title": "Дура",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mb1uZ13jkgL80K-nvdEPkQnBxElcz1ejw"
   }
 ]

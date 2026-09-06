@@ -7195,5 +7195,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ndQrBqwhR7XlhvalUIDPxOVr-2Lr58DxA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-06T11:25:17.491Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yan Zapolsky"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/Sh4BgFDKJnb-SrsxXOy-FH_CT42cdC3l2Uz6TJDkdZHgp8rEKYjgawb2VtgP_T9Unt8aSBkBNAZ4LLK7=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Galaxies",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nZkfdvSXdVDSXxp59SUmshSuMbTOqk3JQ"
   }
 ]
