@@ -1462,5 +1462,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_meuxVJeRArc5wIrnCz6SgVX2yxGOYu9uQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-06T14:28:05.919Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sudno"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/ah41ka9BN8m6mjPdwawPNXjsOZjgKK1huQ2DYG08bGICY43Sx_9bENI5g75jozX65IWlghTk3z4s6RUF=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Відпускай",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lhI4LPpFe_ZmW6Kr9Rl-uwPEeA3VOf8fs"
   }
 ]
