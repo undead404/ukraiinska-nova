@@ -1577,5 +1577,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_njqGbsWq1DVQDe8Ejc50dQgsrJ51M9cB4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-07T23:00:22.473Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "100лиця"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/PGxaJp0bpr__b8WkyoVhDXVXd8xoVRJ4gTGt11N57iymfAnGwAfRz5hY6tr0HA5PXcDz4rykhfKsB1f7Ng=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "pop"
+    ],
+    "title": "Маруся",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nZaosxNQGN7-eaEo_TW85Pe6cIQ_AM1nU"
   }
 ]
