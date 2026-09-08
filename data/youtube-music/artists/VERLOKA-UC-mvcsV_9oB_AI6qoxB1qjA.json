@@ -565,5 +565,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lNOIblJu3fJ6DYo-hDfi7FA3rufxJxqQk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-08T23:02:20.512Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VERLOKA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/js5I-V9QK0sHQpHz3ccW2sj9CNV8habHdTQL8Bw3z3U3uwJ10upJcapwNtF06lb0DlJ-WUUM5tob7yRusQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Стати тобою",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n4LZCcODFCyoZdhlPyBlbepo1mdcCUBg0"
   }
 ]
