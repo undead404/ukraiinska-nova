@@ -1326,5 +1326,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lV5by0RV-uY6rtOuCjCQUjPTsiL7XhPAE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-10T21:57:43.313Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Pospelov"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/SvfvqS_IXE_KyxbVYli-PPlDLt4wdP00A6bmVtJt1qjPjnLCdSRnS3B-s9qtkgYPGo5q7UdeWYLYAzxm=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Яблоки на снегу",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k_cRnF90lrSeKiVEj0LbG2kdfMS3sHSlo"
   }
 ]
