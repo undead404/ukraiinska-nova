@@ -1865,5 +1865,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nNfb7yqO-GoMj8BaFMyxWWB4xxBDBch48"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-10T16:41:50.399Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Анна Трінчер"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/ZaI7Bg5Ecg3H9p670hqdmRwVo1t0VQ_H_xF8LKA9m4BbUircv183d58l35_rHFcv-36RVGGE6HJXJEJOWQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "О, Господи!",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nm22zDgzjzHqogqeE5B8mbbNWSDKmp59c"
   }
 ]
