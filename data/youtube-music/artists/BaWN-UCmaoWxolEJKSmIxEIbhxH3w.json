@@ -1949,5 +1949,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nYC9EK-Awm4r0GlpakV416V_utzb6NAC4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-11T21:21:52.394Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BaWN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/VLBM6G6QxQNLEaKrnsaPYfKVmA0uj2lXZiICypSm8axpYOtgG8MywKWiqfx-ZnET4ng7OUHM7GQuMz8=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Прожитковий мінімум",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m6HtHnSYFB7L5hLhWl69-Ar9-ojZWxSeE"
   }
 ]

@@ -3737,6 +3737,10 @@
       {
         "time": "2026-06-25T21:20:44.046Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-09-11T21:23:45.465Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -7694,5 +7698,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lDkPQ6-PstL_KjHWyjgHFPobO4GRTcsPQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-11T21:23:45.466Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/5F1sYATbIYMRPaeGUNwN4VCNLImqLJYp2fLyZbq64CAqfkMYM4F0DeTzE7rEeIBcz2YOn3EbGA3IU3bY=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Lovers",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l8a4XqPNm8JlxkoROXZm1vyIjiLAE6gFc"
   }
 ]
