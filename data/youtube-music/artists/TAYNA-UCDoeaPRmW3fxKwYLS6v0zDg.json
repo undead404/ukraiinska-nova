@@ -897,5 +897,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nPj2rJJP5Hul6-JpXoOxIENFcX96cMZOk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-11T17:59:18.863Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TAYNA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/lC-dH71MrTJE5tMl6iOk-kqHIyDKfxLmUKZD149x4lIn2NBq5pCx1DHo_jQ0MvnXd5F2kSyr37e8iRUf=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Спалахну",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kljqI27bXUagB-MYY4kNz9kWWTgBwdg5g"
   }
 ]

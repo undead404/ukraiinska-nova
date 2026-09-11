@@ -2496,6 +2496,10 @@
       {
         "time": "2026-03-15T17:55:57.575Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-09-11T17:57:51.571Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -3283,5 +3287,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lHEsLTZQRGxXhJkCPyX8UU0ghs6WSBCM8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-11T17:57:51.572Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Eric Deray"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/N4H3NlZOEqnrOrp54bEqWWWiQOiYqeaVQkgNJTj5_YPsB-GrL5sV3QPlXMU18tRibUhU_nkvHHsjk8n9=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Dancin",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l9hvs-ZKk3bQH5sWh1HM39CaYkJTbiX3w"
   }
 ]
