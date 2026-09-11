@@ -292,5 +292,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nz9vTNJZsl0Lictd7aJhGy8hCpOYOd7SY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-11T05:17:53.027Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "гліб співає"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/vDTWTdxLbFAd6tcve94GOQLJUOkJjKx808EOUL-caV8FXewa2tZNkpsyYJrCQLUhsFsNi9JPOjpqLEEY1w=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "bedroom pop"
+    ],
+    "title": "про щось актуальне",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ndHpOMPWaQNTfbcRvDoEvMxig61tPVv4k"
   }
 ]
