@@ -625,5 +625,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lhamXwnk9RkKp5Qy6VrJd8SwpeYwvTkDo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-13T22:41:24.397Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VLAD BELOUS"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/xHJCego7pBKdsX617FbkNUBqTbyB1Zzn_15rhBjESgLWU8-8oUnOBjUg_Js0WDDa_FsY5KHG3HYzM-Lr=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Зорі без неба",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n9bYg2JP6FMMsMKOC3v96FnPPErUYECBM"
   }
 ]
