@@ -956,5 +956,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kt5lGzNs5RN4rXlSASIKAQC8Jm_DTIgYA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-13T12:52:34.634Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "хейтспіч"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/FRvq3mouCmG7g8Cr3olmwRithevtqXncId7HnlF8bx0PIkbqX6B4cCDJ-GoXoPwaqMh2y3uX38QiOzMV=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "dance-punk",
+      "punk rock"
+    ],
+    "title": "День мій ворог",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nnu9YGW5kIl2GMpsSJ6CRNTs67GAxKI9U"
   }
 ]

@@ -229,5 +229,47 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nNhYF8zS7QuOhYCd-JyZ3oqWG33xoZcok"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-13T12:52:19.206Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "сліпток"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/0iKpJIIKHMPLi_zDkbJMiqcgBRiBWq0XjQqtncHFZ35jOiE31prvzpHf2uG4YLikdQDFxKv0GpFQ5_k=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "Бардак",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mFR6NC6IY7tWr3NLue0D9rZ3Bpq9xjYLQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-13T12:52:19.206Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "сліпток"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/6J7pagvnZin7t9HXU7wmfyAnh-j4BWc0MCWVJDazdTiBrfTb76gJWniesaXMR69VjivzLDsqv2kg6tM=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "здатність бути тут",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nJtsEGpgHAdK1QbHKdIDhqZtzdStK9kH8"
   }
 ]

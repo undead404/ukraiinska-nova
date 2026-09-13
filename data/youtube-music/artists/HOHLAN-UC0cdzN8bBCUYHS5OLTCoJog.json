@@ -473,5 +473,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lq1ngYUGmFuUiDSzqR3mzZzbvYznLyLFI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-13T12:53:25.970Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "HOHLAN"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/v0rxvsB5V5OoJu-by5C0v2DsxjV-J1lPerE7wLhXRgX8cvtxK1AzRRCSWxHxbyAvJxuWdZyQfrT6WDPoRw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "зустрінемось в наступному?",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mSfW4NYbZDqWcmDlBAldEQMJXUNC6O6os"
   }
 ]
