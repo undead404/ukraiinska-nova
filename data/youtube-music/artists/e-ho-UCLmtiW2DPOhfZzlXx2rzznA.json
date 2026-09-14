@@ -92,6 +92,10 @@
       {
         "time": "2025-09-22T10:48:00.992Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-09-14T11:00:41.476Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -369,5 +373,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mBiRxs7G4U6ACV0BIgqezI8b8btnff-bE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-14T11:00:41.477Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "e-ho"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/fmhDzsPdDKRBpV5d9kKiqcCLUs8pCDJ5xWgnr9bD7YRFfjAAHPy5WeMz32UmA1J73kQLFb9ZJvIpMKTF=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rock"
+    ],
+    "title": "З відрами любові",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kZbQCjJWYpHNbTbKPuEOlxD44F7eDld4I"
   }
 ]
