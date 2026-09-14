@@ -900,5 +900,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kTm8rj67hWzdIL7IoXJ5K8VwsK4M9Bsh8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-14T00:29:35.181Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Averin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/YLyhxyyJ4nDn78PDV_woP8_h-8WiZiLRctOu0XK5KdlXIULw1fWVOuvva6QWTg_8MOVIuhrFrLTJF9wO=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Там де ти",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_miTwQByt45vxahmiz1XWLlB2fqg2L3pX0"
   }
 ]
