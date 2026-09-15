@@ -2226,5 +2226,43 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kpZkOCMKTZm4xwc2S7Mg-Sz4RxEQxQ-xE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-15T00:03:24.021Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ruslan Nota"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/N9bl3Hy53JZAZcEUNjTmHDKtVbcvl9sCITIhWpaUcdlWpAEVWiWgbd3uz2KiaXQd7p-pMOy9_sqp9Fg1=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Нескорений пиздець",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kNLqsvyUf1YTvpckJIaYJS_fhwuKidtWM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-15T00:03:24.021Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ruslan Nota"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/bHcg_GmG6LBHoAwT5WN2O3ixB5DMzsW4iYfmR4loZ9W5rkvOYwxfpOYvxFUj2BE_ZuV_OWTzfaZ9Td4=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Нескоренний пиздець",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mna1EnY4z1QSxMhSydtbX-ozIqwNCf2k4"
   }
 ]
