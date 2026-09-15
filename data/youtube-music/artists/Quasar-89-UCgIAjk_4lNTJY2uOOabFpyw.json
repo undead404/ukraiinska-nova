@@ -3198,6 +3198,10 @@
       {
         "time": "2026-07-01T15:42:59.435Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-09-15T15:19:46.561Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -4751,6 +4755,10 @@
       {
         "time": "2026-08-08T15:07:38.856Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-09-15T15:19:46.561Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -4789,5 +4797,49 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_le3z__RZnaHwQeov0JvJZ8e2B0csRlrfg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-15T15:19:46.562Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/gCHcnw7Zm8OHQxlwZlxGLHHM04vUfGsXYNtIktSEJ61ybbEOMx9U1V3cByoeMt7QTaC5depQ7gJWBhyK=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "No Limit",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l0L4fP3SJ9bw63owUwi53blXIpawVMpzE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-15T15:19:46.562Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Quasar-89"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/Lq9gZXVRQFMgcHTVWa-iyCAO2_UFzMl0YO9GJJSHBubbzsO8yf41ODIHj-4YNxFLM139vm7lVtW1_W71=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Еndless Night",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mvLZSvukduREDZSPlqz95AQ93NxwogY2Y"
   }
 ]

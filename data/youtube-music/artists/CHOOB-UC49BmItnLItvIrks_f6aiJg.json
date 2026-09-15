@@ -1139,5 +1139,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nO25O7c87iDXVAFYZm2e2dFgijiFje0t0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-15T15:17:56.538Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CHOOB"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/5A3c3leYc8i3foLqTPEd7a22FvQourZJVQhgTCP3FHzbJbo2bvfOX6yer8Fab7R_11CfyfMCxW7xEht3hA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Своя межа",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k9T25gW-Ubv-zCxDW91r2G83SKU3C6smg"
   }
 ]
