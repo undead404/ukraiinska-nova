@@ -1772,5 +1772,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mBgulwac-4L8M9okLwzkWkpfoPoNGF0XU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-17T20:37:36.667Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yaroslav Tretiak"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/uI6HaDAY5zc0JnSzn7leU05rveb1cPdagE0r4bLpoKvTXWiwmEWnKFmK8617CbSKQ0sDxPQE4jZDl1Y=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "God Willing",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nMXWGb-ONtz1NAfaXawd34faMSexvrfpc"
   }
 ]
