@@ -2276,5 +2276,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nz2zX0NAneaqWIZZKz-IsdoPa7yioHNUw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-18T16:47:26.356Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "STASYA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/_BHEtP0YALKmR8Yf6fO9S4hhlNeE65HP4aZF3iltVc3-ktlgYGJ5Mho0ADFANUR0JiRuI8Sl9NRT83CH=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "folk"
+    ],
+    "title": "Мама говорила",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lTa3wSngzENkREtv6-oNJ2pfTNlYvJyl0"
   }
 ]

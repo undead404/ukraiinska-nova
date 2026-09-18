@@ -592,5 +592,43 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m2t2XcRW5sDxgSOvTimYzIp_3hnpgCVCQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-18T16:46:20.390Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Makarenko"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/9IOfr3Jrus7FnuBx4GADFRxaiPNWVGdVmzmm3sBUJDnsW3wLyOMJ_pWjOckPMjHC5YfZqJZfjYBD1R1WWw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Чорний пассат",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kN_Pq3AMozZRFeEC1Am-yB1mVGiAaUcTk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-18T16:46:20.390Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Makarenko"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/zXA0acf5_CaxpzerpHF6QlAzVlFP2vNIW3xhiMgehF5nZ2vKNv0blONFr1uPxOY5BFxQxP8MU1zoe5Gx=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Пігулка",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nzRw5U-Nq7DwnCdoxuWk4VkqnSDN3meE0"
   }
 ]
