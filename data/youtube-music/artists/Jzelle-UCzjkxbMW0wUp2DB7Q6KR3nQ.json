@@ -786,5 +786,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k0RoXQFajvEFCjBshGPbHw55kIjgDS9xI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-19T21:05:24.179Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Jzelle"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/-Z0bdPSdjDTYNMyVJ8QgGIeu_Xn62zP5WJGmVK6UKW9lW0b23ZYMmcLtmUsFWMqCHckSYCKvtvgxwEXW=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Почерк",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lmnZirbTbyoFP_GOFkBiGsjr365LES56c"
   }
 ]
