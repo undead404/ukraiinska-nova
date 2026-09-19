@@ -434,5 +434,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nWISrHLfFKp29R9DwPxfkEwOArLuNEe5Y"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-19T01:38:46.942Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "сдвг"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/dCxhGdhQ6NRMNElzBTe4MnhRw40LffIOGTQM14lA6ZUwpgw6Po8guDpT4KCCt3KXgKFzM_lQIpDESXEZkQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "synth punk"
+    ],
+    "title": "Колесо Обозрения",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nI3OaGobbF9v-svM3ORO18bBfVockFU3I"
   }
 ]
