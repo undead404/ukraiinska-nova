@@ -864,5 +864,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n6FfceRr1RXGDGN4v6KO3lZ_Q2FE3Vyls"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-19T18:13:57.233Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CKAYA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/mYSbEdEx9XdItEt4DEXrd4k5zv7lihV7hqgbG4QJIQIoBdDt7-zpGgbHskbcZ0OQfHddKMi0ZeFi4sB2Ug=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Дорога додому",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k4BCRhi_zBQem5MHiB39lgVCxXRFwqZsw"
   }
 ]

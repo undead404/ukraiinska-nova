@@ -1530,5 +1530,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k4NjDmNBsQjcoC13Yv1niWAfkOZF7Efe0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-19T18:15:02.732Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "PELYUH"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/EpQFFkarIYMdYDWB65N4zFzpZxS7dnY5DvI-pXr4ZJi2iihAEvrcv_GX71HOQ8uVT8dsIoL31bMNoxK3=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Midnight",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_naKzRJJLqvX3sre0_AJchRy1dUILrOJCU"
   }
 ]
