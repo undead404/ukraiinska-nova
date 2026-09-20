@@ -376,5 +376,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n3QUJqifqL0aqb8JNtf_ADigIG7SXlzI0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-20T07:08:14.415Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TOY MAYK"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://yt3.googleusercontent.com/DgE_o0E9AFerkINfcSvoRBte0G1Ek0Bm1dNaCuUAEBmUR8ZzBNIiVCxH6qth14sz7ZghXDfRAU58S78M=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Наше тут",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mhP8RjkTfeq3h1chbah9MZQynHRe0h-AQ"
   }
 ]

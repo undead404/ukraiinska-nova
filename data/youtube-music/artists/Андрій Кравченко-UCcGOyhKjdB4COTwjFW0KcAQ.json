@@ -667,5 +667,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kYFYLrWLfhTb1KqPvdzOVnpwR1E2XztII"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-20T07:04:50.306Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Андрій Кравченко"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/0P7tVmQc_NM--VnNdQs9NG83aWnvWwu4b6w7t36W8eJUdlBEwwGE3_y5chYvVkf72JQBlanGNh5G68R3=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Жіноча доля",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ktfzXVRAaRoqcWcErlenteIYf3r6uUjdM"
   }
 ]

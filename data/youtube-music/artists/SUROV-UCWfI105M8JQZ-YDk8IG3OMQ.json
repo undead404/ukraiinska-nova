@@ -592,5 +592,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nwixaAnbgjBAhdiDB26lONqh4M7eh8kQ8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-20T07:07:49.336Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SUROV"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/VtKgzBwHPzgNs3085E7kEdvQWxQGZcLI3fKRIbHdr5ip8agZNl8xiyUMMSxybdhpniNBErfw-7N9X_VI=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Одна душа на двох",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mZ2-X4atJ_OcVXPVw4sxp4gdY6LIkGVFA"
   }
 ]

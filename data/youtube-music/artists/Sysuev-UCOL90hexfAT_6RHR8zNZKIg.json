@@ -5190,5 +5190,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mb9MnAb_whdOVLiUl8zIXRZwMxtg6EdJQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-20T07:08:04.090Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sysuev"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/sk4QcmSPuc9AHbT5uBm-g-54W7FxhC1E3onLM43JXN206Sw_D-IcAhXvZ6_nZHKxarUMLb_3cmv4YIo=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Осінь між нами",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lWd4xTAV6ZiZLP4_fivL9iF0y-Raws-DM"
   }
 ]

@@ -3033,5 +3033,47 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m7kip1TKYhGbCoFU0X_vK1IvoRmk7s51g"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-20T07:05:15.510Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гурт Дно"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/xvwSg8wbBXrrcTVRM5sI2OdjmmmcDSI3DwKTYrw4w7p67fTVd0BjRBtIuOeVnSzryi1LMsl3Q2lqHl0Orw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "НІЧОГО НЕ МАЄ СЕНСУ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nNG5atGvHWuJzg8YWuDxL8qgMF4n1iqW8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-20T07:05:15.510Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гурт Дно"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/YjQ10gm5c5zrW4m7qS99o-9GRtwv6KgK73ntENtvhd4V_55D1WoC726YzJTue-R0G6l-xwC5D7zlQnjV=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "пенальті долі",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mB7n0tNZkIjm-UsLTNQGQHxXgj59ba9wU"
   }
 ]
