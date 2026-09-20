@@ -485,5 +485,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lgO0safb10UdXUvrVCIyTXpgo3VIFux8k"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-20T12:40:09.391Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Luna Rozza"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/jkLMTzsbAh0zHtMLSkavqOxN4zk6OCjbipvm27NBo7TITDvwOphtvBxkPri0s8GKMvDqyvPmFbIH0CAARw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "не хочу чути себе",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lzQbeTraPnhux_j6pRipiik6Rf3sg4TVY"
   }
 ]
