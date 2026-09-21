@@ -2793,5 +2793,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l-mK4NkO7gL9zcxeskAEqQ8axkl-35VeE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-21T17:12:52.852Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Колін"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/3VSQi2CB5mcOSFi3G1e5VoG_B9ZLSB9X8mCPVUhT2fsCQfnHgeD1nbg-Hc4ZHSN9lobjcH93xUbAOy4=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Синевир",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nRNG4dsh0QwrvwUB_GFZDfU4t2UlTUW60"
   }
 ]
