@@ -2955,5 +2955,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kJnl_LMdg6ZyZj4BSajELPTQQKZRfIMPA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-21T05:33:14.860Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "keeroo"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/otI2qOYI_ycIVg-gy0Kyf1fGzn1F2JAhtDzw5z9_d6QAmgecQ4QWe39cJa4ncsfamJ9fzj07crCXhWYq6A=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Ей, Сірі!",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lj5HDxHPADWsOyUvmVHkbfi-MgGeeUmus"
   }
 ]

@@ -245,5 +245,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_njonmuIJl1sOeo-bPlK7SstRckOmTR8vw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-21T05:33:48.740Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NOSIK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/pPh1d-y-SymKA7YtcUtx1SDwW0jkhetW7HTY1HLOZwmxSogZLIWmOkS3vJDMmyQ_RG-7HCF-GA5HOKya=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "ФРУСТРАЦІЯ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n9qq6RjDW5bUZ9Os3FbBBs3RqsNqhYmNE"
   }
 ]

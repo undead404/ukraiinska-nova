@@ -1160,5 +1160,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kNfd7N5UnaIW6VRrgOZJLTz9qToEYCR-A"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-21T05:34:42.977Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Trimbeater"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/AdIN2dIHWI5mAQjjDNdY0-Gow8YXxnVsZdTctpP62lqbsZH-nFCUEU8B7UEqJKKN3CYRCqsqI4KbZ7z6Tw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "БАС У ГРУДЯХ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kKf74uy1DlIDl7ij51DQMSjxcVjrFbbDU"
   }
 ]
