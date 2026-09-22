@@ -271,5 +271,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lgcw6PZGi4nqBt34HS0X4JMu2jkgQxOgI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-22T10:22:07.440Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ТНМК"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/LOzi_AxchP1B5aw1QkSmlKs1rWDS0cL2mFkV81sk3iQ5oByXtAbcjmWIwxk5uXGvVCt20chRl20oHgSwig=w544-h544-l90-rj",
+    "releaseDate": "2004",
+    "tags": [
+      "Hip-Hop"
+    ],
+    "title": "Пожежі міста Вавілон",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kFCJU_BGEoBIOuiv9HxJJejr6Epfck2vg"
   }
 ]
