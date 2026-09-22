@@ -2975,5 +2975,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lS5szBTHIKZ5p-ZXVGkMMXQQtCJqYzX3Q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-22T15:11:34.073Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Шугар"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/ZwAr9b8fDTjJI0yv7GtK6gBvdiD69i-cZhwZyIq74aDdioyPrcGYsNSDQ_vlJJnWs7ToChsWBf65hBo=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Німесил",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k7Hkm46l1x6Wk-QdIQN9XXIESTW8-LvzY"
   }
 ]
