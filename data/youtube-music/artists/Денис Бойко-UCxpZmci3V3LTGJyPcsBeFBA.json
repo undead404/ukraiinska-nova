@@ -674,5 +674,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_msWJI1cD-NiN10SW8izVXfGM-HgKkCR-8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-24T17:58:32.315Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Денис Бойко"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/yxZSfd_D3ZpKnvs4AlmUS_c6ktvuiY9UkEOLc9lTAKMEt76hV2NdcHQpoKW0ONsQ_xnlb13XWlzpuvEc=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "шипи",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mCh2wUsBHL4EV8tuR8wQXqNcArcCU3o6I"
   }
 ]
