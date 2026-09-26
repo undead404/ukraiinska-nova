@@ -238,5 +238,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nhTzlhhFcg67IFqsB-CZMfv2jX1rfbTh8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-26T10:19:49.925Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Max Triss"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/Njdytckw7K5mZlBSbmKHLs-IuSKHlvlkTQwzWttsv72bpGYUUnRe1lAqnM93W1lS-i7baIuLKiYEdZcW=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Коли між нами все так (Afro soul cover)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m9-T8jyaNvz97B22o1glnQ6JTgigk3rnM"
   }
 ]
