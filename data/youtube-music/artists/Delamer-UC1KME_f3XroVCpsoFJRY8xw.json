@@ -1136,5 +1136,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lDBvC-P4iCwsDTOiAmeyqMhlHELrnNayc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-26T18:44:40.984Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DELAMER"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/qQL1b3v1zOfnFEjhlMz8KjiAsP8S6-D8p8LUM6PuRpud_gDosfuKWY43RWspMYH5jz2n4K6CITPELeK1=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Ідеальна",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mAsgULRGVJCqHWvMkLTDITCty-W_A4mWY"
   }
 ]
