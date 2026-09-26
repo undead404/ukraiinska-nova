@@ -919,5 +919,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_miTwQByt45vxahmiz1XWLlB2fqg2L3pX0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-26T00:11:22.130Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Averin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/uECGcLaW-mwg36j2Eja2wr_8d9HK-1rK5TxKTqh9-TbPN6cr5OYul-Bidr4gYDe2KQ4E4m6PzjgdrC1U=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Міражі",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lAGnD1RxbTB4To22JXa5oG2a9S4DRhX5E"
   }
 ]
