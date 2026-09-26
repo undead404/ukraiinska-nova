@@ -1676,5 +1676,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lF8siiGiXoTr0DG5185bHnWnOsUzl5WYk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-26T22:12:49.557Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гошуля"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/oSO4wtQ2NTT9BqpWsNZYWt4GdmQDiKMkCW-MCfAhWXtHmDs0bGo3M-qAHxZbgqctGbmeZe1uNwTrOLvLoA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Voo Doo",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nNKwpJLzr4nnMXYqilXBg_8-ENobKju1w"
   }
 ]
