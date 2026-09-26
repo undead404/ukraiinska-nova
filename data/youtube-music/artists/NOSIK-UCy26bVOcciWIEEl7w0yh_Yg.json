@@ -264,5 +264,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n9qq6RjDW5bUZ9Os3FbBBs3RqsNqhYmNE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-26T05:34:10.893Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NOSIK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/qauzQKqFjVlbXhbiVfshT7FQjkwdQCk30gEIwGDzZFHnWINTlf3uJcwxlAsII7zUDQ25yF_7OjWkEy2R=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "ЩЕ Є ЧАС",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nEKqdvc41Y5mx6nadYqcHM0ntH5snN_Og"
   }
 ]

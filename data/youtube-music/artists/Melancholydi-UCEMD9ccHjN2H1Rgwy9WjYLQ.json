@@ -249,5 +249,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mCJ4AwtBHke088LGgARQq2zKqGWzc_B-4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-26T05:33:59.450Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Melancholydi"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/hj1Yw10Dkqq4rOg3NwvTFGUL5WzI6-t-XevlgnoXTyx-EX1LD034Oo5l61-s62TXOl-rA73GbLnXVmF5=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Ветивер",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lJ-PmFHhf_H4q0PgW877LxHWxsWcUQSBI"
   }
 ]
