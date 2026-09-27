@@ -658,5 +658,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kldcJZ6pi0_PyDWxaGLHTtgm7ibhsfNOk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-27T13:22:37.558Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VARASH"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/hdPh0ckjcqQQ5sqJZ0G7ayPWMOWl2KIF3a-Exkpvjd2ln2nF448QVz9iJNQvtBLCgT_XNZ-H8o0i2mgzmg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "НА РАЙОНІ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l8nSerHA6hUVuez2jpLkNayo1awaLkccg"
   }
 ]
