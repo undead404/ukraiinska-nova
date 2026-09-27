@@ -723,5 +723,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lT7YGZbFyyApRXiL9HyXo8KKdxcOwZxM0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-27T00:57:07.727Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Surface Tension"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/JZeWdeElT9AXryMXM-6namB3Cpy-y6GNRXhEEfOiMbLnipD7HmCBxXztdhs74oiPADBNM8TkbvYfG9M=w544-h544-l90-rj",
+    "releaseDate": "2019",
+    "tags": [
+      "metal",
+      "death metal"
+    ],
+    "title": "Self-Titled",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lzP15pdjLCTvE8oHnYTAnIochz7uVJjbY"
   }
 ]
