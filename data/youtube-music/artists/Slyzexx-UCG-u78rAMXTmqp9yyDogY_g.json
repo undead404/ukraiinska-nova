@@ -3686,6 +3686,10 @@
       {
         "time": "2026-06-25T21:20:44.046Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-09-27T21:41:49.988Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -7733,5 +7737,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l8a4XqPNm8JlxkoROXZm1vyIjiLAE6gFc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-27T21:41:49.989Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/xmXUPflm4LDrP5ELrGtphnkcxCzkO7WRCMDcmZCNIk-tpGakSdBRYrjcc-JRy3kf2Qam9OKxkeC7hcPE=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Берегиня",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l3viwGbMngLf2gsNU8klYul4cAVaJhe98"
   }
 ]
