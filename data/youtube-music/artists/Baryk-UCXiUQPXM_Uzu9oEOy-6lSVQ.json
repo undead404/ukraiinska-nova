@@ -798,5 +798,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n0xfZzQCE70o750ZuQD-J2zIxU7CH_a88"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-27T07:07:45.279Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Baryk"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/i4yt9e5drc-j1a9QufI-fFNK9heF89opf_wvSMUBuruYlmIOgeHjBfDnNbi5CegufCxy8918LBntJFl9=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop rock",
+      "ukrainian rock"
+    ],
+    "title": "Все про тебе",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ljvYUe8IBLsYHbMXcy3Y0ygDFJL37jUhY"
   }
 ]

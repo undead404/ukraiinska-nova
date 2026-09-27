@@ -2860,6 +2860,10 @@
       {
         "time": "2026-06-04T07:12:13.944Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-09-27T07:06:29.677Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -3075,5 +3079,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mB7n0tNZkIjm-UsLTNQGQHxXgj59ba9wU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-27T07:06:29.678Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гурт Дно"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/4yewI8Tkhew8ASOHhbrATkdoePVmV_UhKk68H5Lh6-g2lcHxN2On1EHBuTBMtln1lV1pgOf7_7Kzyg4I=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "мені набридли",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kZ1FbYmODMojWopvG7w2_tLyKxVlo6Css"
   }
 ]
