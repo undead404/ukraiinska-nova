@@ -530,5 +530,43 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n-YpPBy0Xedc36JFKTd3bTbCW7X2KLTeE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-30T09:01:40.138Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Art-In"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/fT8T9ROAXB8uHOE3IRKvGVTpchYj3RMsJLUq6fTZmpYFefESMCAHk5wNODXRxBoFzSIPjvRV8r7hSVE=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Falling Fluff",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l5BAdt9ZIB8X6uqRl7cLeEgksMOhsyrt0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-30T09:01:40.138Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Art-In"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/rfU2Rhu3g8c2SOd_S4EaGhiKHVl5fCXPErvw8Vg1cYipl2HE1nBxbnSF9uszK4hbgaR_AAqKe2RtJr4s=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Galaxia",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l0S7MXGS0ILMF3bnAMBlUyJ_lB4NQa66I"
   }
 ]
