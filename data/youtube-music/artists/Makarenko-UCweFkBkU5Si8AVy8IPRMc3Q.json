@@ -630,5 +630,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nzRw5U-Nq7DwnCdoxuWk4VkqnSDN3meE0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-30T16:07:57.518Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Makarenko"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/tYi6-xiMgYQ3n-ibaAsLcmW49YC6dkhe_KxpeyxQ8A0HjvQKIyZmj96gjxdRzfnpEht_cWVhHeYe1PSe=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Виногради",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kE7fD8SayP5F_up6TK470xX3GPM_IriZg"
   }
 ]
