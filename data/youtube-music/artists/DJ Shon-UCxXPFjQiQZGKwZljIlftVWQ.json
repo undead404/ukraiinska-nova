@@ -250,5 +250,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l_VtPg9Rs7WCLBUfT2U2QyLhso3iZ3LG4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-30T02:26:02.102Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DJ Shon"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/Y8UxJ1n_bXy34Dk7QXjUOqM_i9cT9xY5mUX7ja7sjuxu1ah1os7fB13lKLhSCAF-9Bm4IHub83L0hus=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "instrumental hip-hop"
+    ],
+    "title": "The Other Side Of Sequence",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mcEFXJ84bVyk9bU0YydidmS6dn01lrYhQ"
   }
 ]

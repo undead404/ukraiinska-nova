@@ -378,5 +378,43 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l36Zlsk64Y8tecoyfrTAQ5nRRK3M4ZZU0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-30T02:25:36.548Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BIOBITER"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/QHYdmuNq98XkK4SHU98RPB55QdJtai55feHbxeXFyqhUYBq4QTE7PKrUsRKEyUZsnSqkne9F-N3O3oSY=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Дурман",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mcQOy8zydAeSsKvrQam-yMCJGeYYkDDwE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-09-30T02:25:36.548Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BIOBITER"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/OWZPKysekfMQCs_2tIYPBSjXzKnFNvg_qYZH8KfvKucxJr9Z_iOwOZmlhCw6O5iIzWXZ8qnVrm6HZaza=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Чому ти не сміливий",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kH_IXq1PcUhD-CpWBdtqzbv3OOHX0u_QA"
   }
 ]
