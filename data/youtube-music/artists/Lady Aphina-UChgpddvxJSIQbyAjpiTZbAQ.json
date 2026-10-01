@@ -572,5 +572,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lguTL3X6aaVwLXxI_PrwulX2cKRCeBBN8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-01T15:43:31.879Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lady Aphina"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/62EqOX4OwD5-XiCJn2pHd38dW9hJU9_R73olQ8zgOUK3VjbuLZfp9BS-r9eJMGLcHM-pC8TEkhrBsJw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "Живи",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l3V83aO2dcZjmB9ygOzIO9p9GeHXVn6gE"
   }
 ]
