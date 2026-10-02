@@ -1695,5 +1695,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nNKwpJLzr4nnMXYqilXBg_8-ENobKju1w"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-02T22:36:34.954Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гошуля"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/tdLGZ_QEhgVpn1uI8fPTNSnda80JfaKmNLAgjinICt5RROKqv3f2lyABCEOYUyFtYTPLOgmYvRxnZzgX=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Стоун",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mouxn97cKnk05DpA-r64uPhxLR3Rrgvfo"
   }
 ]
