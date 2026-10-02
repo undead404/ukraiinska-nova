@@ -556,5 +556,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lyDfdWLR0K93JrzvRcSJ1kNlrerdnt1LI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-02T06:16:41.664Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "EMIGRANT"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/rWrCuqNjd72yOj4i45hZZVoerVE3OAIl1xGjipcg2pzJSoKFl2X5jQV22OqZxO7T_oECGwDVTUP70chv=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie pop",
+      "indie rock"
+    ],
+    "title": "Birthday Cake",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kqN3lmhCjzEDVMDYhKo64be0oa9mJV9vo"
   }
 ]
