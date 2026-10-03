@@ -681,5 +681,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mUNlqw9pE_7nkyECtkhPX2GNzVhoQBeqg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-03T07:07:21.824Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "032nimble"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/u-qBZEFc15540m_n1mNYQyEgGzodW4ZIKTwj_XumdXBO2qNuWyxz-c_ZTDmDv2vn3L3hdE0lizkx_qwY=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Чудокраїна",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nyfaKSB1nMT9BVav2mtflKFcZsbxzFIJ8"
   }
 ]
