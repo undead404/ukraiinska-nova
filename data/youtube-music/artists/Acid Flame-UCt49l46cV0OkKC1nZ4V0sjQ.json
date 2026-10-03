@@ -401,5 +401,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nCfOar18oCeSd7cgAMQDSGXyqBZz8W96E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-03T17:39:27.588Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Acid Flame"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/t33w0A89c9R71Nkfu0AcmmCvMIEVkb31o8imMnuNvnv8SxKE5ycn9snoGGOt4sRhpjunIuulbBgO7qY=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "SPOVID",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nbaBkTPCNQcy4Om6aoBo508-_FPYs_jZ0"
   }
 ]

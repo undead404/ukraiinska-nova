@@ -2812,5 +2812,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nRNG4dsh0QwrvwUB_GFZDfU4t2UlTUW60"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-03T17:38:53.357Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Колін"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/ISxV0HckNBHACScKNaOuoWW7k9iK4rTpKjNhv7gHGPj8XWhKtqgE-RzfiD_1WkmDozpqTG1EIjxGGAE=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Осінь",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lmcOERNAXpWe6pm1Q004cS_VLrniRLl50"
   }
 ]
