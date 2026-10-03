@@ -451,5 +451,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kr69NzRCJuPiaWxtbnsS7cXhuexP71-Lk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-03T01:29:13.988Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "СЗЧ"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/qTVnrWgvZmvx2NJQ4wKIYmClZBOx1hvyMzu_bBZ4veeNNo3bWjlecrwqx3sffg1XVgGJ83W2QbucvLr1=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "punk rock"
+    ],
+    "title": "Нюдс",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ljVcdIrUwUTkGdBrP2B8mf7rS1qWbB56I"
   }
 ]
