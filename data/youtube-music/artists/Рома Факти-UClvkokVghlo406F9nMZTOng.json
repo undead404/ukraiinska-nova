@@ -502,5 +502,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lx94E4rPDWWadj3d2eYeqT3dqyGBFgIN4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-04T10:10:41.890Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Рома Факти"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/3BAIZIVwVGARR_Y5tmvNkyvAfzWFnr4A2AwHdvG3ngltBvE2Qp26ud6ts4OsbckUpjtF7_5Xjm-_kcg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "НАВКОЛО ШУМ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mnxLV1maDEaK9jAL6kaxzGPEe4JJUD9KY"
   }
 ]
