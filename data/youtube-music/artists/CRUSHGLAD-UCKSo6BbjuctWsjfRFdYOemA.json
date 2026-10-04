@@ -56,6 +56,10 @@
       {
         "time": "2026-09-30T02:25:37.822Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-10-04T02:53:42.175Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -129,6 +133,10 @@
       {
         "time": "2026-09-30T02:25:37.822Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-10-04T02:53:42.175Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -202,6 +210,10 @@
       {
         "time": "2026-09-30T02:25:37.822Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-10-04T02:53:42.175Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -275,6 +287,10 @@
       {
         "time": "2026-09-30T02:25:37.822Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-10-04T02:53:42.175Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -348,6 +364,10 @@
       {
         "time": "2026-09-30T02:25:37.822Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-10-04T02:53:42.175Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -421,6 +441,10 @@
       {
         "time": "2026-09-30T02:25:37.822Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-10-04T02:53:42.175Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -494,6 +518,10 @@
       {
         "time": "2026-09-30T02:25:37.822Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-10-04T02:53:42.175Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -567,6 +595,10 @@
       {
         "time": "2026-09-30T02:25:37.822Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-10-04T02:53:42.175Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -640,6 +672,10 @@
       {
         "time": "2026-09-30T02:25:37.822Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-10-04T02:53:42.175Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -713,6 +749,10 @@
       {
         "time": "2026-09-30T02:25:37.822Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-10-04T02:53:42.175Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -786,6 +826,10 @@
       {
         "time": "2026-09-30T02:25:37.822Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-10-04T02:53:42.175Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -859,6 +903,10 @@
       {
         "time": "2026-09-30T02:25:37.822Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-10-04T02:53:42.175Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -924,6 +972,10 @@
       {
         "time": "2026-09-30T02:25:37.822Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-10-04T02:53:42.175Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -989,6 +1041,10 @@
       {
         "time": "2026-09-30T02:25:37.822Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-10-04T02:53:42.175Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1153,6 +1209,10 @@
       {
         "time": "2026-09-30T02:25:37.822Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-10-04T02:53:42.175Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1202,6 +1262,10 @@
       {
         "time": "2026-09-30T02:25:37.822Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-10-04T02:53:42.175Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1217,5 +1281,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mbJDAaSAgO-BeumPNLHIIFTb2XZ4-pf6E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-04T02:53:42.175Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "CRUSHGLAD"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/SR8-SDdJP0C2J9_dhCeQhMl21ZU0N0wK582Pg59iluxJL9L-VDHRVBL4rtkDgCWQsv5KR31N6VashKAuog=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "Першому кращому",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ldPuILUjb_ZVlYr0nxAQEa9H-xyA7HJGU"
   }
 ]
