@@ -649,5 +649,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kE7fD8SayP5F_up6TK470xX3GPM_IriZg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-05T16:28:09.593Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Makarenko"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/zNxC4USYRZ041BipLABFAqesLl_UpMCzW7SKFZ3YzOcpFrF_4wJd4A0ws_Kz7VhKPAWvkiPwaARiOKs-=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Папіроса",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lLqhSpHfP4-5wh2-MAnkustEX5_d3erkk"
   }
 ]
