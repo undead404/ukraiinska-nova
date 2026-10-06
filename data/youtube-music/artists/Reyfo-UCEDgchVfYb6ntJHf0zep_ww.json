@@ -857,5 +857,43 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mtWkFXw53WKmYyQgF-nGVTHMjLBngZvmg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-06T03:23:32.906Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Reyfo"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/hZ3baRW2UiOKo3CATuEdvy_VTfz8ffvlOQI8RZFkC0UqiqOz_5mcYX9BuYnUBB0z2V5r7GXwtrUqUFgF=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "А Може Ні (feat. Kelavra)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m_jbomnKlcZmj3P5tPjmsEJsj6Z88_iDY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-06T03:23:32.906Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Reyfo"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/XSqd7F4Zde1yeff22U_gcnr_5QkIQgRzYacPMWJ0C8kxamxA73gdDYcZdPEPoeqo4Lj3kqRtazqc2XWs=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Love",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_keDdpHnm5fgRyFto9m0l01k1VwkkzNMA4"
   }
 ]

@@ -881,5 +881,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kR8GeioKOPRRtHbHq4sTBxw2iKdij9XIY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-06T03:23:04.155Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ostrovskyi"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/Quu72Iet394R6-zlp_bzw4-oKykQQWtds_5p3KF_1rji1MMlR8elPl7fxSHu6sksege-_p1I_kONdfBi=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Океан",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k_QL97SN-uu9UA0Xtcl2_jlszDJmzPACw"
   }
 ]

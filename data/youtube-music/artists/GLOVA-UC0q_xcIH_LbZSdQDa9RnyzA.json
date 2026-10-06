@@ -268,5 +268,43 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mzdUBthmh9vF8Sk0VbmGJZYJYJ_gZKpWQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-06T03:22:22.908Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "GLOVA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/pUqTGUIeWjGcIo567b7Le-URN6SEFBCKavloeaD4f_JcmugMEW4hHlA34QBzNg-R5ZKjKCs7aC18Zn8=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Mango",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kSvjv06D9rNrQ0yo7XqJGTvywb7mUo0DA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-06T03:22:22.908Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "GLOVA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/jTdKC6M64xKdE5Ggdhfwmsq_k0VmCTncz6YXy06vxqrZzKhWMwnw4uHflJ_6xwFaNSzkVYG4_c9vmJ_y=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "MA POCHE",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l0Mc_OO1NSOC2tX8JV-T1JjUOcj1hN7Tk"
   }
 ]

@@ -338,5 +338,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mzR-twepbOxXaanuP63WnjUwLWg0deqI8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-06T03:22:28.711Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Jalsomino"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/tEiaIB2mPvjjrD5gBdDPCoS0I4fUk42xjMnXcfS7c2QnWbz0n13X_9Q4vhz1AYNqQJnt5cT6JmB8G6Zw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "dubstep"
+    ],
+    "title": "Вішаки",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kcDghLEd7G07DwzbHTAPeVbgIhiIK8z3A"
   }
 ]
