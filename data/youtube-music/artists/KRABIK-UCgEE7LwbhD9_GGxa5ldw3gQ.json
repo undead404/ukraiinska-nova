@@ -1461,5 +1461,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nFoDKVQditeyVLNbWq2YAyGp8N7kH48qs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-06T21:56:22.307Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "KRABIK"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/HY0vrdBW-GQAdDAJb3T0Sc9-2C0N559T3bL7ezho1QTj8DdhWHq4USmvAYGI9KlrrYjf-jzar1iG0XkK=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Плакала гітара",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lgYse2zrJi4LNCP1SlW_8tZrd9dPoLTzk"
   }
 ]
