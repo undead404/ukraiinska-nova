@@ -3552,6 +3552,10 @@
       {
         "time": "2026-06-25T21:20:44.046Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-10-09T21:22:35.030Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -7779,5 +7783,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l9KP9iRNLNeEyhsTWquw8ElN-Ep9ij7hQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-09T21:22:35.032Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/wF21pDI47yWeaSJGfrPZnn-ydP0ve3ti2VSiGC5XvFhpPnLg6tb0_e3Gq7nb161Zup3dUGlmv1Sf7EDn=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Намисто",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kOW8bJuu4FZORUQ9yZQPIMwLMoWCgkSYs"
   }
 ]
