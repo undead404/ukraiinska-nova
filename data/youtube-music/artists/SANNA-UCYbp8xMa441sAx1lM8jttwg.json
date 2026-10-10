@@ -647,5 +647,51 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ma615qH9EAxx8Qu_avro-usZ4aCX56urI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-10T23:00:23.655Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SANNA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/qQNfDubWfMgcH2cEtBz2lpAlZ4JVoPoO1Eg3dDPrhMvgoclHPFGTiym8KZfNuhz7KofmBXUaDQJQczs=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "folk",
+      "pop",
+      "singer-songwriter"
+    ],
+    "title": "Галка",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nihnGDQQG8Vao3u6BchtY8szZiixi18qA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-10T23:00:23.655Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SANNA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/NPMK1uFTs2gMJGX2SxAjEiVHt1Wz_h0FAWme7OHw38jjBJKvyPm3HYKeROFC_4rfJXCkpm_xLul1Yud3=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "folk",
+      "pop",
+      "singer-songwriter"
+    ],
+    "title": "Козацькому роду нема переводу",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mOeSCfQMYRs8pgd3R243hrGhWvCO6tSpM"
   }
 ]
