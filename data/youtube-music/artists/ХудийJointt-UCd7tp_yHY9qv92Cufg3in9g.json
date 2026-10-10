@@ -2771,5 +2771,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mLyrveFiv5tKvCr1KwLS1zZKaaGd6Mch4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-10T07:47:02.513Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ХудийJointt"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/KV_dO3rgdJ9TKuX-QkVHnAZ8tYShYXipBVFLd0n9gvSED1kDkra1NrmJs-VL08l_JwP64uKrOW6FLlQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "АРКАН",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lZTxmGCB_drXQ0ZEnE4lldGNzAWdHbGT8"
   }
 ]

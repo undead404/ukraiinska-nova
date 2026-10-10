@@ -686,5 +686,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ktfzXVRAaRoqcWcErlenteIYf3r6uUjdM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-10T07:45:41.014Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Андрій Кравченко"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/EOdrMwyx73jzvZ9nZKUlRCMrLAJPowfMQGOCiod3apwbHdZgWJtJYcseI6_8vQnViiVZVwi2WfrqWXE=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Мої літа",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mzvvEgu6lUgUmBC-cwrHkRCumCjg3m-Ro"
   }
 ]
