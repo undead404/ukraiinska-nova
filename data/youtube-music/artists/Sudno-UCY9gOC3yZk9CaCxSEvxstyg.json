@@ -1483,5 +1483,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lhI4LPpFe_ZmW6Kr9Rl-uwPEeA3VOf8fs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-10T14:49:09.304Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sudno"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/Jb_yjaeZlQjoqC8OXeFmJwOUf4oQmTqBMhz-aUk0i5aTVcz9xTgGiNF4iF7dBhlm5IE5OgKU8K2yBvST=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Акустичний 2",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lw2gI5KumqEC8EDpQS3dkZ3Mg7BRb0KxI"
   }
 ]

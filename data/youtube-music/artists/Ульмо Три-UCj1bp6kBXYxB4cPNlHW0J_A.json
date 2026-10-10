@@ -682,5 +682,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kiZZ1z08J3POhsy2J0ozjryXHnyZvkM2c"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-10T14:46:56.257Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ульмо Три"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/qdrfkYpXXTunoc-YqtQt26jeCEvtCO0WxPu6OzszeQ-nxApIt2-p352td0LFGC_Vbp6YvEGzAGD84Db_=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Насолода назавжди",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mnMyhpJJcF6PZJXEqDOZJYOCpoCBPBUIg"
   }
 ]

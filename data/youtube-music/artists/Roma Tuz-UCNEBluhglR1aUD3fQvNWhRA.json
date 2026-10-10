@@ -171,5 +171,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mJzU5YECYDa8Xtupnj6W2Flw8zmQ9xyeE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-10T14:48:37.820Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROMA TUZ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/my5teT8W2YbV0_Wo6xN_bYyxNedz3KRZ_61e8pEtOM9tngB44RJ1DtktNLlydzL4sZwt1q573EBkDdU=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Ображена",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lSV1TIMQlp4NS5Is_IBpLAKGoK0UP5uB0"
   }
 ]

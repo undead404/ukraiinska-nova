@@ -353,5 +353,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m3i-PKRgR5DvYcfdzLqNeLQzDUJ7Odccs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-10T14:46:31.328Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ОТЕЦЬ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/7wngduayyQQJwoQmduLygXdbn5i3lb5I3P0FuIJVs2WjntS_cZtO5p_DX1V8jgK6xtrMmOf7_3F85dD-7A=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "metal"
+    ],
+    "title": "Неправильно Підібрані Слова",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kJGvrYKR0VTNdPuYd8JY-lMJRU4ypzyHw"
   }
 ]
