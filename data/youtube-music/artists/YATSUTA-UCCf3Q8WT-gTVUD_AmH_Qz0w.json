@@ -840,5 +840,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lgzBQvHBQOaw-y5SzipQwGwgITnvNT68c"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-11T20:39:11.419Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YATSUTA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/XvVttZW23aovMmzgTA6gEE7vqK9F8oHu3y_7JnrpUfg8ybtDpxkahLBaLg8fyVWcaMJVIbGIFgT2e6o=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Келих",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mxCHEwZoXfn41NgYMXiotmriOIVgCXFnA"
   }
 ]

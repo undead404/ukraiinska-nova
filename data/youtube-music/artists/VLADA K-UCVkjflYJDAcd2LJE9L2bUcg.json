@@ -816,5 +816,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_luEegsfyMNyw_82kbllRK4uftJkIqTgnk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-11T20:38:43.243Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VLADA K"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/zaHW8u_iaEAa53T0tR5-fZvk1pAK3VIVFggFg5LLYswxL8-_FK5Sou0bMSecxhBT07FNhKajrLzTWio=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "ПРОСТО ДРУЗІ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mEunAO9q5COmNqVRirGcKMJmYCe8XcL3Y"
   }
 ]
