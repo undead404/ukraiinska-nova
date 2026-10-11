@@ -2522,5 +2522,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l2w2HwD_ryOFQ8Fbsl1m72Vsfy0LZJHkg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-11T16:01:53.331Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Volkanov"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/LIXSAOy-DzNLW39dSifGwWiyMkxpiHxg-kTKYDfX_3uYSvqyGcn7nH3GkiMwvY8dHPTq6wwBzSsGFkWL=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Посварились",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lHyHuBBedtanI7mtI-8ZZyJgHf-GQ5W7w"
   }
 ]
