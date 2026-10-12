@@ -586,5 +586,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m7VTMoGYK1ZDcE7aHduXC_WRCLI2tOVZI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-12T00:02:08.702Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Gorim!"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/2hkej3j8MC3fo87J0IixXupwwAjGPiJ8euiyS-z9C6sqkLolIaosou25caPCu17Nd5gaarYUDfLO3KgT=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "metal"
+    ],
+    "title": "Невагомість",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nhkAQnVpvY2O4c_6SF1XxGXGs2QjOW0A0"
   }
 ]

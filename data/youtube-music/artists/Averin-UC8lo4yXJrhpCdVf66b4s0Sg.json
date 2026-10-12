@@ -938,5 +938,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lAGnD1RxbTB4To22JXa5oG2a9S4DRhX5E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-12T00:01:38.312Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Averin"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/mzoKr9WRaaObIteshIGtOKQiXxb-mkn2Nwa0kJgA97-ktuXeRsBLO1rVuKLzcus_lKaMgFlvnUMiMhv5Kw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "101 троянда",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lSCOm3MEwiyxJB4-KSqKFEUanok-YD5e0"
   }
 ]
