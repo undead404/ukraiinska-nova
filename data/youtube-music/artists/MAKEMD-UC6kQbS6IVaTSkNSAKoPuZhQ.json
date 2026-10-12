@@ -2525,5 +2525,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k97GGTwM-9fLG9ixzVwuCo7lHtV7pqDeQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-12T23:17:22.079Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MakeMD"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/i1JBFFZNM_WOq_yFqYMFnoM3T1FJCGcfQF7ydqdKpFh_bFpfftjmj4d9kuHb0OO8yC-4wVHB4CQ37uesxQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "techno"
+    ],
+    "title": "You Still Light",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nxFm8Bus-Se36jZmUSTlOibmyY5SOqeXA"
   }
 ]
