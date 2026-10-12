@@ -240,5 +240,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lCctm0QVZF02NMlWHzX0hU0ipJulhS8Yo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-12T06:36:07.953Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Jamala"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/evDfcwbXaCD3yx8Dpcivwtp7DS8oj4eZXGSl-Owl8-YVd197GktFKsumEugl2DIR-5ET63nngKZc9JY=w544-h544-l90-rj",
+    "releaseDate": "2019",
+    "tags": [
+      "jazz",
+      "soul"
+    ],
+    "title": "Solo",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nAr95kMoCR-7XmaHFh1SlzoO6OanaLcuI"
   }
 ]
