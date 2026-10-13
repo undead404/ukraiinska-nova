@@ -537,5 +537,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lt-gPLYwf1aqoJGKmJibkG3E_uUh18a_I"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-13T19:35:01.973Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Vallhard"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/hZNqdMYj26pHBrIg86W7R8CsQ41gYrqg9EN9CfNnYUUnnwJ3lhQZmdOWPxe17niCjN9ji9tzIZHXcTY=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Gusi",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lUchdSDsU8OC90UXK8lgctt8Ii35rElxY"
   }
 ]
