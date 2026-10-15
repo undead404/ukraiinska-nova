@@ -3141,6 +3141,10 @@
       {
         "time": "2026-09-14T17:05:09.942Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-10-15T17:24:17.555Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -4106,5 +4110,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l9hvs-ZKk3bQH5sWh1HM39CaYkJTbiX3w"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-15T17:24:17.556Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Eric Deray"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/6fHAbUTVflPcLeXDiVEc_sZnIjKE0YpVsyipV0D8MQ0mcA5akIgd6gMM_L5m626kD6LLsC34iLhvt6Nq=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Another Day in Paradise",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nISs39uzKy6AwCeOJh8oWTz9WntuLE9bA"
   }
 ]
