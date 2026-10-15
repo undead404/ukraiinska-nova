@@ -1791,5 +1791,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nMXWGb-ONtz1NAfaXawd34faMSexvrfpc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-15T20:35:58.556Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yaroslav Tretiak"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/ZwicHjwHrB_pEwEc7MaMrAb75OPqpZXH14NUD4Rexf4JnZaHMdS5qjzpdSe2oujwbauUqW80gax2B3Yaww=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Senvora",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mEHs9rFAkKMdFOJzwRdnkif6HjD3-a3tA"
   }
 ]
