@@ -603,5 +603,47 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nDLP_byFaF-Z89v31AG-9xeR0QzBsaS-g"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-16T01:42:42.077Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SKOFKA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/8q1a4jZx9JN_aCVfhtMGbG4H99q6zYVeVO8ZlZJ_tlpk37KqGKXxJfgUJ-MgULywZlQ2S1sM1eawjbmC7Q=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Терпи",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nTIhLPBNXd9X-fQPhsbJzquIrDzDw4R_Y"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-16T01:42:42.077Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SKOFKA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/uX8GYLnwgydcQR3ZNJUq56XyckYkc2ymnqmsgHcORbq8qx2NQjm5XaesM0EY-Zihs6v3R3iXRG56bcHt=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Номер на памʼять",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lS8B_Bar3kmUk6iFE6LYTVyFJvxRoLE5M"
   }
 ]
