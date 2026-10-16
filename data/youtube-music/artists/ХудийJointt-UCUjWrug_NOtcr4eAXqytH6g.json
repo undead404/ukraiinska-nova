@@ -518,5 +518,47 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lKh_QxIW9alyli-PzFtPHO0rZKfnvafpo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-16T11:56:37.264Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ХудийJointt"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/KV_dO3rgdJ9TKuX-QkVHnAZ8tYShYXipBVFLd0n9gvSED1kDkra1NrmJs-VL08l_JwP64uKrOW6FLlQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "АРКАН",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lZTxmGCB_drXQ0ZEnE4lldGNzAWdHbGT8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-16T11:56:37.264Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ХудийJointt"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/AIjfJOB2k8lOVI3RyVpJI75Vm4pw0foPOiEHy-ibu3B209pF4iT3xz8OGbZwJ7ZynuVoMlCfxj7NXTKX=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Вкрасти і з'їсти",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mLyrveFiv5tKvCr1KwLS1zZKaaGd6Mch4"
   }
 ]
