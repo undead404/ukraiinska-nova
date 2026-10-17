@@ -1318,5 +1318,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mLDvIOwcIlvgzshj2Sv7DBkMNc9cEyhTg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-17T01:35:47.050Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kristonko"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/QhmJDSos_Luoewmi0qIR5QIzLNgA121a4HkDjgjJocRYqP3JnYsoGrwe3piZdfDo1xHG-tU3u1Dl-EIn=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Дефіцит",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mkFnJ-NFhHaFHDWiHeN73b4XXTIHGVpdU"
   }
 ]
