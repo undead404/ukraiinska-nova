@@ -193,6 +193,10 @@
       {
         "time": "2025-09-24T06:50:12.171Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-10-17T06:15:13.073Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -439,5 +443,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_khlIFDHcO_GCOIzpj5PcmU95XN-PNduvw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-17T06:15:13.073Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "elarm"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/4mDAbw_nyOqqpa5RwQNqJSAgL7z9JwTlQJLq9rSxB3JtWKQAgByx2NPNmrxgZAR-zdG1d1vaG3TjSMb7=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "rap"
+    ],
+    "title": "PIGULKA (feat. Яків)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mHEiPSZ0vPVzdYd26dpit4aRIlim9-0Vw"
   }
 ]
