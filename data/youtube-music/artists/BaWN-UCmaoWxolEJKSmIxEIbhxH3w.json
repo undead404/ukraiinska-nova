@@ -1970,5 +1970,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m6HtHnSYFB7L5hLhWl69-Ar9-ojZWxSeE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-17T21:47:57.795Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "BaWN"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/983GIvMKFj9gVWmHNEOx3TrnuI9TstBIshhuy-_E-ggVomy6ZzETSm6pMTlEvKeoqidDYTAaaFFZsSfE=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "post-punk"
+    ],
+    "title": "Бакалавр",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lRQMxPSDOFE0uT4fvA6a0akU9DbI-DHSY"
   }
 ]

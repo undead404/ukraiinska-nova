@@ -1042,6 +1042,10 @@
       {
         "time": "2026-05-18T21:10:22.260Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-10-17T21:47:17.726Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1202,6 +1206,10 @@
       {
         "time": "2026-05-18T21:10:22.260Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-10-17T21:47:17.726Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1735,5 +1743,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nHzizB3HnT3BUHga4L0qz90tJ8V5Zss5k"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-17T21:47:17.726Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "КозачоК"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/gdMNh61kILcNxmWgtsxc9ZldcwwqngWjKNpfiTQ1mbGWAz8YvoSQDNdOecVtkQC5UgXycAvvqVdwLGA=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [
+      "rap"
+    ],
+    "title": "Пиво (feat. Pultickus)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lk413LPH4onfRLipOHZKZQKKGbQtAUUJI"
   }
 ]

@@ -3485,6 +3485,10 @@
       {
         "time": "2026-06-25T21:20:44.046Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-10-17T21:49:54.924Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -7802,5 +7806,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kOW8bJuu4FZORUQ9yZQPIMwLMoWCgkSYs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-17T21:49:54.925Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/6eac_vSK_r-ieN6NM7WkafH18XDk27p-RxdWwEW6KLpyjWl4Xc-adUltCTn57sXhlwYX2p-ARRnKyCh8=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Pousou",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lS-3sgOGY_l0yQPQpVfmL9fXh2nFh-ibw"
   }
 ]
