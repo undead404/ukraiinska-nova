@@ -632,5 +632,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mCnRihT6OWdEbbTvsst86VngaEtZqjowk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-17T17:35:09.344Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Kinoteatr Cosmos"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/FQ8H-y0RCMfacylNsJ0vXeOkVghRjj3ab9YPtfuB-xupUrnigifEnWXLQGFdfZDmbBel_23pkRptHM7baA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rock",
+      "ukrainian rock"
+    ],
+    "title": "Алло",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lMgzDLCmjGlegBBKOKhfKPcOGMawPatD4"
   }
 ]
