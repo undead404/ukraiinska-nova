@@ -271,5 +271,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_no1jVZAT0q8LpIyY96MKg3gQ9o0hkAdsI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-18T14:11:27.912Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "GRATY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/pNlIVKN8pPaL5yKfpUW2KvSne7n6RGBZGeu8eAbk1a7NdzEL7DDl72R7kCwwdTx2KXoKAReVA4n5hBJI=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rock"
+    ],
+    "title": "Magenta, Maria",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mjuom4GwLHN_UvMCVS2M8fCXaCHyAVNa0"
   }
 ]
