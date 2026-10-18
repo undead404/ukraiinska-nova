@@ -1179,5 +1179,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kKf74uy1DlIDl7ij51DQMSjxcVjrFbbDU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-18T05:14:03.037Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Trimbeater"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/zzTswp1AuBhKr3qmkBtR0Lueg6VKp5YiH6IcaU3lzgO8UYhA0sfc-WtvANQ9nPpIWERnJNLlvQjUpbOu=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "ПІКСЕЛЬНА КОРОНА",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mxLp1uRoE5r_TuFRPxjlxgTk_bxTkCntI"
   }
 ]

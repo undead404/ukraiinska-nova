@@ -525,5 +525,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m3twSkeLqz5TB7gvrcwLDvRguCc_qDFu4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-18T05:10:36.459Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "АЗІЗА"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/UST4XNS8Uiu17SkF7sHyX56gehijov03bcG4tU6LAWcZRFZSz2-81IcaXtEGwkZBqabAcdej1-COqPEp=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Може ми",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nyNTsgMa9gq7NclWb-uxiLjfwNpkZuZow"
   }
 ]

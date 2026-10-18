@@ -283,5 +283,62 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nEKqdvc41Y5mx6nadYqcHM0ntH5snN_Og"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-18T05:13:05.136Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NOSIK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/ybm3ESfbK48HZiRfYjIDg5IFkVafmtQTSqPU8nK9akIp7QQhNhJbJXVUfHOqwwJeWXwtIk-eYHG5CwXB=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "СЕРЦЕ ПОМИРАЄ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nnuWWmTXmgJ6Cb11G8lNaIjbW6uGzIu4c"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-18T05:13:05.136Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NOSIK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/uAWnBWNwQG_pNuJN6o1LD-0BS8OLIyx3BY-tW_xID0-tZUgjga8SZrD33K_MkVdeIix16MwXjlEZEV_5=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "гірко-солодкі сутінки",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mF4bUvJwM69e9rf9ja0XaufSPYq36ZUQs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-18T05:13:05.136Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NOSIK"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/xMXPJgixokfnhx7dnqqvr-WNTm7lPpdhaF6JGeaqkB7DXQXtYkYiVNj5PEoHQNm9mjZtyp6RjVkaigkf=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "МІЙ КИСЕНЬ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m_LgLr6JQKLTJ0WJ6-DrmmixL_gX7KoFY"
   }
 ]

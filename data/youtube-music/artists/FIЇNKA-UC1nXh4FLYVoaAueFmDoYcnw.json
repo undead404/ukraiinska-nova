@@ -1284,5 +1284,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kGTHjK7ZkfYdo-Pezm3_zVcM7i3w42NC8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-18T05:11:53.506Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "FIЇNKA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/N8N5pCUPhy1peJJq76e7cN7gMepjSjq8nZih5-Sh_vcPo_pvxkamn5Z7Z5_gFPz0YjOGBWunkl9gGA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Буревій",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nE93rVZeARbCOgSeCK-EayHBPfZ9_LuBs"
   }
 ]
