@@ -1355,5 +1355,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lVfDxQU4Smez9DLCJUzc0OVjQdaJxo1L4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-18T09:55:19.035Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DOVI"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/ESiXYWDkq_tK8WaJmUMkQMVEHt-lMr7nQWKpppHN1eA7rhSzbFZJ6uocxmPgqQf3C5ju6uHjNxgS_Q0=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "dream pop"
+    ],
+    "title": "Вона танцює",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mGjOu6bIeq-yK9AylLfElLr9yMya8UCFY"
   }
 ]

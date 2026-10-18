@@ -1292,5 +1292,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_neF7x6brq8KaVYR9cVhgnko7WUlkGlRBA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-18T09:55:56.360Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "I Wannabe"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/w7Tb4cPzkwxggohWbXWwNH9ilZtK0vnd1pN_Rjs970x023zNoI0vnkrDWELb3n9a6XmajAFZidN5cUI=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "dubstep",
+      "Drum and bass"
+    ],
+    "title": "Kinda Nice",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mSXWApTx2S5x7FSaK3oPaijd8i6h55mT4"
   }
 ]
