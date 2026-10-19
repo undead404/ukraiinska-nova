@@ -1733,5 +1733,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l5mCo3Z9_2O3_GWQI7SIS6IqR_jbQ4fPk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-19T22:38:52.960Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гошуля"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/P4Hl1c5ubFb8uJMPldjyleFeyXdh8wDwRqZS8S1r60LMoJan5FVCMtNkBwIg1dEzz7NXhuA0reonoKcc=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Фільми до ночі",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lvCyyk5tDxKKBfr8-SITxMPNB2RBAjk6Y"
   }
 ]
