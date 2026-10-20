@@ -226,5 +226,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_myyQ6MEDTufBxMvh6p9UQbJOC05NlXOrw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-20T06:41:13.653Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Smile (UA)"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://yt3.googleusercontent.com/Fci1AdeXeFFC918P0Kok2FwIZ99PdMDV5_7GZ9QOdmvMGWOlAs3gr7z141mYZsdGfQiPcDuEmNiy6nTg=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Lagnire",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mY8iZEnqljHujKdoqwBBysMmqVa0YbPFk"
   }
 ]
