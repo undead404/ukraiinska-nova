@@ -1592,5 +1592,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kaDkaeKdOunWjHMS1s7bUk28_0n367sBw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-20T20:55:00.744Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Adam"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/YLaN3SoGkNCFjjFWidLzQ5q6sVHRNMWdnmS3VHv8xixyNHzlIvhj_3FkUvgbKPmptg3Oc30coFX4ezg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "dark electro",
+      "ebm"
+    ],
+    "title": "Kalbim",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nmKfFWXFa8NyQI0VpuBHYYgwpEd-SSA0s"
   }
 ]
