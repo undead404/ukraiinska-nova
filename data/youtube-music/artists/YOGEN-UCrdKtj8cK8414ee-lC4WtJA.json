@@ -676,5 +676,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kRSD6dpKGuqx-3xBqXmsWPluzXHii4vUM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-22T01:55:45.207Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YOGEN"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/TPHvFTrmu89Uqki2F0eIE2jNb9X7vdrBuNe7vquzKONf1lX965nKEXl13a8DNDqbFJYtrx5yqobxPIk5=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "shoegaze",
+      "space rock"
+    ],
+    "title": "Метелики",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_llE2iXMjpFVUoUgT-qPLcV0lBXbGWj3SI"
   }
 ]
