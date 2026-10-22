@@ -1752,5 +1752,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lvCyyk5tDxKKBfr8-SITxMPNB2RBAjk6Y"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-22T22:46:45.271Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гошуля"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/hO8h0ndiiOK00bKSWqMyWWJJ2Hei0lbAOqjepIdTgxtqlyC6-wExQ_Hm5dnbg6PnJJPYWGo7sN1TX9Jl=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Здобичі дивляться в очі",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kdGPJeEbYp9pzotDutobvd4-BlZittSFo"
   }
 ]
