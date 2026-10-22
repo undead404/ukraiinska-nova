@@ -2829,6 +2829,10 @@
       {
         "time": "2026-06-04T07:12:13.944Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-10-22T07:58:47.939Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -3100,5 +3104,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kZ1FbYmODMojWopvG7w2_tLyKxVlo6Css"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-22T07:58:47.940Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гурт Дно"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/0gE9iM6wXuBv23PGPz9sEIaLTSPTCS5GszZzDIkNmacjixl0wtowA53HgqwwvCHmI09A8623EfswKlED=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "дві пісні з полєй і дусьє (feat. Дусік)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n0vnp3-Wzr1XovHU9iUBodjcJRC6Ghr74"
   }
 ]

@@ -1398,5 +1398,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lPdXNWjQdWIjhr6hm2g4NnNmwotA8-pIs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-22T07:59:37.059Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Фрай"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/mxvYQUUjL-5mwsQwIASnaeRLO2BscCZ2qd3f-Qejb3zjD0Ad0PS_in_jBWkoZrd50gO6vR9j1t7Bgefp=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "blues"
+    ],
+    "title": "ту лейт",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kVwPLkqd6D_jWezpDzJ944ucQxvjww3PA"
   }
 ]
