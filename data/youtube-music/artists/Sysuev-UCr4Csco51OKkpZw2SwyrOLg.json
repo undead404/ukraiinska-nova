@@ -3162,5 +3162,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lWd4xTAV6ZiZLP4_fivL9iF0y-Raws-DM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-23T13:52:28.882Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sysuev"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/-V7X4k1IV1Q7_ScY6oxZebKAdeGPfBLy2SmQRkF19g-YO2mXmsG-LPB-UGmtAw2NoqhwLU2Cu8ZVxJOZ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Поруч ти",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kBUrRnQgWwHWYy-cR-h0lab-FUDdC0iIQ"
   }
 ]
