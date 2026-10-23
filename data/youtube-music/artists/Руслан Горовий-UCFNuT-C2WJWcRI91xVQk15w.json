@@ -425,5 +425,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mva-xQRMKh1PvaM3InVkz19z55fJNBYWc"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-23T18:44:46.468Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Руслан Горовий"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/Wnv81d2rcYgshGF8-ISR_ZRyWvcKSs7I-NvHRXRCAxQuUaGWqEru2m4iEonoqm0WFSx6ZB1-UlTHxqE=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "neofolk"
+    ],
+    "title": "ДЯКУЮ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mmDt3x6p1w4C9PtsRwG67YUsgenw_0W-g"
   }
 ]

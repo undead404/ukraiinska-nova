@@ -2100,5 +2100,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kb3jHMWKFFZptE-U90NoNulcBQTdHCOws"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-23T18:45:40.433Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Korolova"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/ej1VOqmCA3xTK_Ty72cBIr1hdfLkeSlBR32skHmViIabcqDC4KQF8B0Q3z8dRAvg_3zl8EC816mL6Aox=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "Melodic House",
+      "House"
+    ],
+    "title": "Hi Hello",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nOn3Vq5oIbCLyThEtsFzX2RNTEse1fWRI"
   }
 ]
