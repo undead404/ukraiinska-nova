@@ -1694,5 +1694,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mGawnvGMnEGz6MsonhNq7mLPiaonLEUSY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-23T22:42:28.892Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Tricky Nicki"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/juIIJaIp-pREEsDV_cVXejqukHyshDaprqCNJ3YvGKCkdloFsEYSnRl5cuLffRCVolwvE6azqT3O2T21=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap",
+      "Hip-Hop"
+    ],
+    "title": "POP SONG",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n4T6qVfD4LduiaRfSnsO3eunCNi3dviUg"
   }
 ]
