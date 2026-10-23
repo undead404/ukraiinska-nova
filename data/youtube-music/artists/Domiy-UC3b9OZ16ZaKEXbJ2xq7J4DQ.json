@@ -1151,5 +1151,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nXMHJqQ5XQz3ttG9sPEQ0qEmx9zSGfDHw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-23T07:59:18.445Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Domiy"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/nfC-SMSO85FG86bmFvBsfCutMY_hr17F_hAbnkJvYy3xWRv6GqNk8lOCebnIddX3MpCpqsoTPkHIyQdEGA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Чарівно",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mlo7mts5gFyascyHI_Dvq_o0Eqo-GCbIU"
   }
 ]
