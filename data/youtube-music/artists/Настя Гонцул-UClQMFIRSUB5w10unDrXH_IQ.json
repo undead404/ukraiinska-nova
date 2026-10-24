@@ -394,5 +394,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lg5F7rTb-X5E46y9OHFcc5Ml6L3RERMMk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-24T01:09:05.550Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Настя Гонцул"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/v5SEIYh8jUNwcWPl0EwtLPDQ4xj6av3oJa2uRl7kdDpJkIy_BQZYYY296PukjbwgBeG7WKy8yYyCcVU=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "забудь мене",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k8xePgZrL5Mhz0rj3X6yFy6lQ7d9SA39w"
   }
 ]

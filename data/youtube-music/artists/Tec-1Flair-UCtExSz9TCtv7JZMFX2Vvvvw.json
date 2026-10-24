@@ -322,5 +322,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l0ylLD2AXKTgfi5Z08ho730VxUg2Psyv4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-24T01:11:00.140Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Tec-1Flair"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/owtoQtOlGmqFWqd56uuU1q9GYJ5Nim-aWWqztlM75A0MjWV7isT_AlRo6PiNjyyUKXMOhU6sbMudsyWK=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Ніким для двох",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lRTsclYL_tg8fHU0wMYsigupoXO7NG4rk"
   }
 ]
