@@ -3418,6 +3418,10 @@
       {
         "time": "2026-06-25T21:20:44.046Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-10-24T21:15:34.258Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -7825,5 +7829,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lS-3sgOGY_l0yQPQpVfmL9fXh2nFh-ibw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-24T21:15:34.259Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/70SfLSuq1GWPRAIkSEOsXFkH2wQOOoIF7Hl7cJ94kIhBtWY-hqKqY_RiMt9rShm8r4ULPKXXxQE8Eomf=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Run",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m76rvA4_2FpKZ5HEOGYY4j1HqWDRan41Q"
   }
 ]
