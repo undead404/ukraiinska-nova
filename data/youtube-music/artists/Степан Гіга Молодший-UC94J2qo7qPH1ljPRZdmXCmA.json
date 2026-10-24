@@ -445,5 +445,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nja0eoWH5nWkIVavxkaisDzGvWOFLUZa4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-24T23:45:38.824Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Steve G"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/ioox-e56yHfrgQYKCjLmJR-4ByW4-X9luoJsMAucQiW5emdNenoJD_FRRUegDil3Nqb3toNO3EC_YbxySw=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [],
+    "title": "Хай Ісус мале дитя",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nAHnXWYedpsycJ-sU2Jtp22SGoudTS11o"
   }
 ]

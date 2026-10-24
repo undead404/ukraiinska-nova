@@ -1598,5 +1598,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nZaosxNQGN7-eaEo_TW85Pe6cIQ_AM1nU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-24T23:45:03.321Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "100лиця"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/pCgHlm6SnmKNbubDjuCUcI8b1r3myYyexZNNvt16AUfoO18MU6oDOLUle0huH4agyY5v-H_4Ja403f9E=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Плачуть небеса",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mWGuAwccjFLfwutB3qk95mjjYfP7hUM9g"
   }
 ]
