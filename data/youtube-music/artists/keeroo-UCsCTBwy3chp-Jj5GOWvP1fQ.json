@@ -2974,5 +2974,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lj5HDxHPADWsOyUvmVHkbfi-MgGeeUmus"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-25T05:23:01.642Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "keeroo"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/lT1nZXIvlcjO2bzip2eoIKbYmgFqqaK_0Ip_PIMxI2_U_PCYCBQxO2nXpeRVZJZ16PPol0GmjN2Bz3v5vA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Стіни",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nzHBp0sXAWKtPggxx4FVaLGOk40yHVEvQ"
   }
 ]
