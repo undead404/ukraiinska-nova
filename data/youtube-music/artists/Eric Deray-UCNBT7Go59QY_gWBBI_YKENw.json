@@ -1505,6 +1505,10 @@
       {
         "time": "2026-09-14T17:05:09.942Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-10-25T17:54:30.314Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -4129,5 +4133,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nISs39uzKy6AwCeOJh8oWTz9WntuLE9bA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-25T17:54:30.315Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Eric Deray"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/lMCg4rNEoDIBntGbe6R783UqpC5kZ05EgUrx8nXI3SiBPOMmHcA7ozwGNjNyo4xJ00KTTqLdk4sWbwVaVg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Please Don't Stop the Music",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_keUJ9wvlTvNe_t8WaUnM9SvyNQ7SK9Lnk"
   }
 ]

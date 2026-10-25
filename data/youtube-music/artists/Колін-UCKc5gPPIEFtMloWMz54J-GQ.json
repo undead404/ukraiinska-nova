@@ -2831,5 +2831,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lmcOERNAXpWe6pm1Q004cS_VLrniRLl50"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-25T17:53:20.081Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Колін"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/iVgWSQsMlOUJY3F1cQgQfMPZo-6nPg3l4BiEKxoQVPX4JUtNOGTRTYuDBqkf1zXfiY7WyG4mk7IpRY0=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Дівчинка Кайф",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nldRFEQyzod8CJhQ7qhvrwp6rhFysjXgs"
   }
 ]
