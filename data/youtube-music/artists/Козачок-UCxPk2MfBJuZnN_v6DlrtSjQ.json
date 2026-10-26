@@ -3572,5 +3572,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lk413LPH4onfRLipOHZKZQKKGbQtAUUJI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-26T15:29:26.420Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Козачок"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/M9TclTfME9IZYIhIEL98aHJPaFPUXsAxms46MbiFIvGT9nKgAci3485i3jzE8x_nbH4NX6Ur63R3lHxo=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "ТАТО УБД",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_niT1GGZjusvbTdTnTbANKgscrYJGcczRA"
   }
 ]
