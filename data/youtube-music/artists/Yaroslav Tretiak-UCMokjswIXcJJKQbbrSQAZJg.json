@@ -1810,5 +1810,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mEHs9rFAkKMdFOJzwRdnkif6HjD3-a3tA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-26T20:49:21.961Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yaroslav Tretiak"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/m4vsLrF3xz5nqTxQQ3HWxwH_emoB-gM5bZ64KvLn5-TCkOA4nsvv_haFIOmFaI7LuVwvz5RWgGxslXza=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Підміна",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ln6aRD2dUzPwnZjVwZfKyvOwc-dNu654Y"
   }
 ]
