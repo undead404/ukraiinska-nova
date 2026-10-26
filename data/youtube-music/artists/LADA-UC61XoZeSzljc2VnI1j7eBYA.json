@@ -56,6 +56,10 @@
       {
         "time": "2026-08-26T08:25:08.166Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-10-26T08:09:29.439Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -129,6 +133,10 @@
       {
         "time": "2026-08-26T08:25:08.166Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-10-26T08:09:29.439Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -202,6 +210,10 @@
       {
         "time": "2026-08-26T08:25:08.166Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-10-26T08:09:29.439Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -275,6 +287,10 @@
       {
         "time": "2026-08-26T08:25:08.166Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-10-26T08:09:29.439Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -348,6 +364,10 @@
       {
         "time": "2026-08-26T08:25:08.166Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-10-26T08:09:29.439Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -421,6 +441,10 @@
       {
         "time": "2026-08-26T08:25:08.166Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-10-26T08:09:29.439Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -494,6 +518,10 @@
       {
         "time": "2026-08-26T08:25:08.166Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-10-26T08:09:29.439Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -567,6 +595,10 @@
       {
         "time": "2026-08-26T08:25:08.166Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-10-26T08:09:29.439Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -640,6 +672,10 @@
       {
         "time": "2026-08-26T08:25:08.166Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-10-26T08:09:29.439Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -713,6 +749,10 @@
       {
         "time": "2026-08-26T08:25:08.166Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-10-26T08:09:29.439Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -786,6 +826,10 @@
       {
         "time": "2026-08-26T08:25:08.166Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-10-26T08:09:29.439Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -859,6 +903,10 @@
       {
         "time": "2026-08-26T08:25:08.166Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-10-26T08:09:29.439Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -932,6 +980,10 @@
       {
         "time": "2026-08-26T08:25:08.166Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-10-26T08:09:29.439Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1005,6 +1057,10 @@
       {
         "time": "2026-08-26T08:25:08.166Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-10-26T08:09:29.439Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1020,5 +1076,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n-OdTjMiLdG_mklqLjrrDtVzlT1fSF-Dk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-26T08:09:29.440Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "LADA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/9ShZTdl_8HrP9RWnUVA8iQATr_hAwdM8xeQr8fpOc4pGa7lWBa27iEsXkcHhktOJCzr6ERnywUCpR2s6=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "techno"
+    ],
+    "title": "Дивись",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kJqPSOWylu82kNe8gFYIKkFh4z5ilAa1s"
   }
 ]
