@@ -245,5 +245,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mY8iZEnqljHujKdoqwBBysMmqVa0YbPFk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-27T06:53:32.638Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Smile (UA)"
+    ],
+    "artistsPopularity": 0,
+    "imageUrl": "https://yt3.googleusercontent.com/RoFV7fOGKp3uF_tenUYEVjUi-Kx8w8Dhi0Knfd8iBAvYgM81kEpQGzZvGN_FB-jJoDSvx7VmItGp7cqbEg=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Alma",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nOrvohdZwUvC012Yog0PBmmYtNzKiV_WY"
   }
 ]
