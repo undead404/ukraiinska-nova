@@ -1894,5 +1894,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m-581BpVZwgjiNZPjIWssVCwVqCbdLyok"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-28T21:21:14.631Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Інна Главацька"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/rQ2zp16riVjDgfuQ3t_wEtUh4ynTI6ZHb05ZyC5LlL9UOiGUMVVFgZaQtA7S8NkRCCBtKwDFMCFUEVkg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "folk pop"
+    ],
+    "title": "Зорями до тебе",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mLboSBQinEqQ3pPNnvpgVQgDq8jTU9iUk"
   }
 ]
