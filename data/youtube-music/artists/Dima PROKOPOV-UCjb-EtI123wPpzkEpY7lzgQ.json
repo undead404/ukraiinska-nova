@@ -1072,5 +1072,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k3q_3MpVsrtfbVCMnvQqfZaO1qythsqp4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-28T02:36:42.474Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Dima PROKOPOV"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/pWOc8xmXMrYFcz9ajo-pZfcibK42mzgoseRhKpWQvzjEZLizXZtyc9TSq1wJCdsFar8UVWy7u7bE-OCD=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Квіточка",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lI3o7viOAvBD0dXvUWGY8wA6XgSgBuW0g"
   }
 ]

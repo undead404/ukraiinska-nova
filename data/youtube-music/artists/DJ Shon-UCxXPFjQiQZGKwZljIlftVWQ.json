@@ -271,5 +271,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mcEFXJ84bVyk9bU0YydidmS6dn01lrYhQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-28T02:36:54.243Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DJ Shon"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/66HGKUFTVpTsEJd_oKMxnCnMAD04e7ND8r_JlsDtePir4rDYrO94JNED_ONGtJ2Hq_KQ2RFf6MCvXyZI=w544-h544-l90-rj",
+    "releaseDate": "2017",
+    "tags": [
+      "instrumental hip-hop"
+    ],
+    "title": "Still Sweepin'",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l_P8s2ndonCd8qUte_W4tuABwQ-82AAvs"
   }
 ]
