@@ -323,6 +323,10 @@
       {
         "time": "2026-07-21T07:59:26.672Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-10-29T07:42:06.845Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -338,5 +342,110 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nXLFqY30gClu4_Sra8rE_nrFU2PyvpKTE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-29T07:42:06.845Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Юлія Рай"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/SRJhohDxYBsaBFX6ZX34Ap7jwnx2QEAohf0K1aFf8ggflR-uQviQHEPdY3ejRIUmkowCoeFVsFGAlr9f=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "ХОРО",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kyLUKNzt1qCkdVpi6LaJw3llidR-dFE7A"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-29T07:42:06.845Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Юлія Рай"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/EOoMgdC3hqMhBkp-V0F1PW1C1Hh3Si52Trnvcz-ecE9veOljFHPG9nFExPexEpriGi_jA3bpbeDsriY=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Мила мала",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kYA0rWbsD0kq7KZthl67D5mFjLbepKUUU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-29T07:42:06.845Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Юлія Рай"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/XMHz046ie3OC1U5yolRlWg3lXjbv2FJR77oHRlffGcnTr5XGnnfOFfrBwczLuxAOMNRoyMVRj9gtTAc=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "pop"
+    ],
+    "title": "Мотивація",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nn-DKlez_Qa8Et7Evyd0BSHAurn0dftP0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-29T07:42:06.845Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Юлія Рай"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/_NlH2Mf0ikWA0NACzLNAWBIGQeAAt0hPyhGFaSUaqfixN1CyHg735pRDx-vW-ersVwnXH3a6aKH4C_c=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "pop"
+    ],
+    "title": "Закохав",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lGNDMv0KoAcY8mgaJdMLuX8eukRQ4s5rE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-29T07:42:06.845Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Юлія Рай"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/CpOEwJzTyVvpnVd_9NP_8v-gJutQs10py7GS9VXN9Q39D6lPlVRxAubHB4EVoDTgox9CUfs8-lrCWP2H=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "pop"
+    ],
+    "title": "Говори",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lc8QnfRe1iYyJ7j-H8qwf8zg3p7kDsXK4"
   }
 ]
