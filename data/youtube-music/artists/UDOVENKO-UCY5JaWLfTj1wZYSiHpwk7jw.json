@@ -1262,5 +1262,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mhLeNgj3ZNP6D9NeMFZuKljniHKrUld3s"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-30T18:55:14.073Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "UDOVENKO"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/JOeOBYaJnTBbbnpc_qWlTH240q-rbxAgXi9xFveCnR3HBJ9A99alI3KyKfvF5O2smHaXIfJHKOGnoLsiOw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Кава з дощем",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mcKVOImEH52uMbCWdk1j1g6egmdzftI2Q"
   }
 ]
