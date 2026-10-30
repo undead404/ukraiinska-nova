@@ -407,5 +407,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kZyVDJsgmaFXWsdXaJ95NQ0BVZ9-8-qBk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-30T23:19:01.546Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "REDENGY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/3bayGoNS_8BsiyP4IfIlevL2OTaXclCneLhrDdbioCxSX7kpBGpZwX-MzIQR_ljMMcxsqONdt0WEmiOf=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop rock"
+    ],
+    "title": "Орфей та Еврідіка",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_na9aYJAhV-2zkw2tPQqjE_FjQe-aVSgNs"
   }
 ]
