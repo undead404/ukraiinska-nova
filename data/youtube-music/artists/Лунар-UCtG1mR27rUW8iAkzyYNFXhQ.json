@@ -495,5 +495,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lRrgKQWySfuoQSnpvTXSl_pwyrwhnwO-g"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-10-31T02:44:30.438Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Лунар"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/P1KEmDZaKlvqGDtkCWzFS1zE_6vtboYPg1blpf7uHbJXnl_foE8clCwM46S93L1xHR3PZ6OJ5vI0Sg0=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "dream pop"
+    ],
+    "title": "Халепа",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mUwtUfwqf1QC8j8hoyOb933Bsh9v8_OSQ"
   }
 ]
