@@ -2019,5 +2019,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kss53QjskCishze_PdTlrJAA5gpfMSy0U"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-01T19:14:43.058Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Nora Plan"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/yOQJYDIAQosboDVRujeWLhu_eACKn3Mh8uFsCsK0EWXfMFcmcaA0yNQAulWP-x9PtQvm_3ZYOHyPpFnu=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "metal"
+    ],
+    "title": "Пульс мільйонів",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n_-343cucuA4wpFe8Dpw5I9zeVzhdGZQw"
   }
 ]
