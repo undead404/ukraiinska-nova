@@ -529,5 +529,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lJN33wGJxfvLPPoe5lSovJgPyPDSdGxcQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-02T11:43:18.491Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "bulovinova"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/lKCDtZOiytI4EhMQh7-wGzoHaHnluscjW4i_UJNgoh9EhOVncQk5QvBGZcTyAaxGTwrM4_bGYH4mUbE=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Де ти був",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lXCmyQ-XbMcZp5alJyMnv9JgdrjuU0sl8"
   }
 ]
