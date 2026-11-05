@@ -149,6 +149,10 @@
       {
         "time": "2026-10-31T15:57:15.501Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-11-05T15:53:14.704Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -278,6 +282,10 @@
       {
         "time": "2026-10-31T15:57:15.501Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-11-05T15:53:14.704Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -393,5 +401,47 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lQKRHc0ElGU17xqyvncg95EMm4-LmV_ZI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-05T15:53:14.705Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yevhenii Dubovyk"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/-KQkeM90uYzcmDuCUuYSyP1dS-1OyvX6NBP7Vd0aEd41uGaUDm5Tb1rwEPh9r7oZIPb0QMc5qZQ7ubY=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "jazz"
+    ],
+    "title": "Motion (feat. Kyryllch, Andrii Frolov, Ivan Korniienko & Stanislav Diachenko)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l0Fita9eh7gaZ6kUr5EMxI3bdHRSycj1k"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-05T15:53:14.705Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yevhenii Dubovyk"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/mKu4NVB7xUV5S8eAeMpF-bkLasB5VoXOpTpWbbEA6eRrHWZieXxFb-qAawnTyzAo5CgD1DSUVUAvXPM=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "jazz"
+    ],
+    "title": "Norway (Live at SoundPlant) (feat. Kyryllch, Dmytro Markov, Ivan Korniienko & Stanislav Diachenko)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ldVZIN90qWN5XqfdAd3MS-QvFXnYdJ9R0"
   }
 ]
