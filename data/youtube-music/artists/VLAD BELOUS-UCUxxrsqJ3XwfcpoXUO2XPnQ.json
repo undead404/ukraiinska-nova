@@ -644,5 +644,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n9bYg2JP6FMMsMKOC3v96FnPPErUYECBM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-05T22:22:56.152Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "VLAD BELOUS"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/5IrApShsYolFViacXT47iVVGvZerKEBYCacS1z8tiqxIrc7vvgwjQsrO3LNUT0qXNQnnXaCiAPDYtwmaFw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Ты мне да, ты мне нет",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m2OTtjBnWKimglNgFdyLxqMLKmKouC4BU"
   }
 ]

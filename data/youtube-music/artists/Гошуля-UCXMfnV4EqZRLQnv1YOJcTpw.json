@@ -1771,5 +1771,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kdGPJeEbYp9pzotDutobvd4-BlZittSFo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-05T22:19:15.635Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гошуля"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/sEhnlRAcKA2DtY34rnRIiZTwGrSJpBSl4XvQEjGqyovPCsv0QA84pLhcUEgLTHloss1RsnOYGnwbLPg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Каламбур",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nutzDoBtib0pRATEurSJm_lG9FRb_wRxE"
   }
 ]
