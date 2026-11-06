@@ -466,5 +466,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k0gXBgZ1LwY9t-dGXx_cwawMDzOQxSjuw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-06T11:33:55.027Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lida Lee"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/3vl56XOvQDuScIaZdc5MiHbnnatWkNp9eoE2wYd2vp3eKXKfhb6VOD52D4P-ZYlYPU29d6KszR6z32Ki8Q=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rnb"
+    ],
+    "title": "БУЛАLOVE",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m-e6lF5PIpjCH_M-v4kWq2kT3iGgTe3hc"
   }
 ]
