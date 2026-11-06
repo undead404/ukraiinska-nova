@@ -1157,5 +1157,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mAsgULRGVJCqHWvMkLTDITCty-W_A4mWY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-06T18:31:15.133Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DELAMER"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/ax4faO5-v-cFMNd8lQQOBhY4xwoBObBbAFGvj7UXfguMyXkQWphqLp09Yi3qlknUkr2j9KiPPuv_Zwpg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Тримай удар",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lINyegMq55iyHGmhXmeBLwylKjER7ffyM"
   }
 ]
