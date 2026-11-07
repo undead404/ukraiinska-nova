@@ -207,5 +207,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mJFIncR4hN6dNULEQZvc5lDRLST6Z_nws"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-07T10:44:16.179Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MARATTI"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/NJR4CC3aVLS5SElefgZTGQ3px2L7Gr1Vjfvy_uwKsf4AzZNovf3ejvQZxi33Ol3VBi0vEI4rlk8vW4rx=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "DXM MIXXX",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kYtJSau-_m74hn2-5d84nsdZsoCFG6jaY"
   }
 ]

@@ -523,5 +523,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mnxLV1maDEaK9jAL6kaxzGPEe4JJUD9KY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-07T10:42:55.342Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Рома Факти"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/gMuZdK_YK_8AkbUNZP0EVTPHQGf2z-sNBkzv_gIPi2B-0xW8zKXr7yH0BOBkg1sXvR55-vvW6tezWOQy=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "ПЕРШИЙ РАУНД",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mILJfNoYLzNUUQbn9iw-dhOOWjiHwUidw"
   }
 ]

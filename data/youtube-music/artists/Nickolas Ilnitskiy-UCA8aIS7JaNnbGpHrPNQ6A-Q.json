@@ -525,5 +525,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mHO4iOneFIYPjSWeo1D9-wo8JJVdHhPfw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-07T10:44:38.610Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Nickolas Ilnitskiy"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/8NQVJO0gNol7lekBrBni_RzySJ1C5sfBRWDnwjT1LxVAhIXndqry92e6u-v3Dm0UYFEkwl04qppToxZB=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [],
+    "title": "Розкажи",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ngSkxN7YS32SRh2PqQq3m_e0dHJzUVcQQ"
   }
 ]
