@@ -295,5 +295,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mzFQolpO7CWtvJXMSqY7S8wHMrFqMD-vw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-07T16:40:55.620Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lil Wei$$"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/_KQ8Et1YwccuoZyXYoyFA05xp5L1_DTJEGVNLFoVYEhLC2eFMbAzlJaSMMx_V1fQ1oohMrRwATtzeWh_=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [],
+    "title": "Надія",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lU92h2gcEzimORdkMIeI3vF0WoM8px_yY"
   }
 ]

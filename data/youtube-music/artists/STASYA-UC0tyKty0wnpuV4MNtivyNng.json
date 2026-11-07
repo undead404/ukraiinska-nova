@@ -2322,5 +2322,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lTa3wSngzENkREtv6-oNJ2pfTNlYvJyl0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-07T16:42:13.136Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "STASYA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/og8sSGnoc0Pa-cMCPQyP0KnxmtjBSRlZXvfWdcCIpU4IWff2N7KvY1xfp-xGiHCNnWnBD56CXmCH4No8=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "folk"
+    ],
+    "title": "Тільки не закохуйся",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lh3fUgty2fgi_cQqP0D8yEjEMRuqO1D4Q"
   }
 ]
