@@ -1750,5 +1750,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nD715WUFGDYm0uu3CG6YGFWFHogBuPFiM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-07T03:16:45.433Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YOXDEN"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/Th7bydtpIe3KC2SYtqXXasKlloRrYeu_z8VQFHjWsnIyUsyFQ4MqkCE_Rn2pTJnvFiCu49vr-ly_3WW2=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "dance",
+      "electronic"
+    ],
+    "title": "ТРАБЛИ З ГОЛОВОЙ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nrOcl8-OLI1t9FfnrcE-5GzuPxcaO3VoY"
   }
 ]
