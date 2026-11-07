@@ -715,5 +715,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kJaCfPoxaYkAwXdoibaXrSgkrxIEzXvYs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-07T20:31:36.561Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Дивний Простір"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/qOMaXWs4YURJPQ4yxCsxExZqD1YP__IdxtHqiZEyPEKxGhKCk1ViFrWOZNHFcm_GmILtov6lBbEKEAZTTA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Хвилями",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n8XCvBZTNyYzpOfUVqzsU53l-Iqm8kkd8"
   }
 ]
