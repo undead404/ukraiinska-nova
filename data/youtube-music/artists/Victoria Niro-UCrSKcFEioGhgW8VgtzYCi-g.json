@@ -692,5 +692,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nOGSdmI57u5Unin3O-S0y3_BwlQZJLBSY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-08T19:12:33.496Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Victoria Niro"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/qRkjInmydMJPrIkFFPiUsGT2nGG8bHF1DAFBqBll_V0BRLNFuY6KQwKhMw3k-yIZliQ3CuvInWdZJkg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Палачанте",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ni6kVJu8COUVkukDtPRVKzJppgf5y9Fg0"
   }
 ]
