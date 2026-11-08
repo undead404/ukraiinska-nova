@@ -192,5 +192,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lSV1TIMQlp4NS5Is_IBpLAKGoK0UP5uB0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-08T14:34:58.749Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ROMA TUZ"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/mRI_9EsiHzgJwWZti2Hd6uQH47_RWTTrZPZgUUZ4s1fGfkCu4pZMhgLqWJzv8FxJntnYp_l-3AoJbkuZ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Вила мала",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kVHcpxmq7fc9BgSNlVSa95OlwepoQ_BgU"
   }
 ]
