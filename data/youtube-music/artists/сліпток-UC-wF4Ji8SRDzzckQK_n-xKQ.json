@@ -271,5 +271,47 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nJtsEGpgHAdK1QbHKdIDhqZtzdStK9kH8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-09T12:10:29.104Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "сліпток"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/DBtxVE5yiddXp79E4sLHvk_sYCzJJPQX1Zf_UZhmRNIbOD1B8kuTLkWKuIFFbNH2fAqLuHj3qC5gNPBm=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "все не так",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k1Vg040-vDuikWxGgcKUWqB2cjSaZwdIQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-09T12:10:29.104Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "сліпток"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/y-S9kEBH6sTsW4RqPHAjy6mhk604UjTZ9XoNLAXJ6_rcjPmP9aVKPd9Zu3IJbc0lrd40hcBmV1NIAY79zg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie rock"
+    ],
+    "title": "криза",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kP_soOXI8Ifg9pMU9NX-Cmkjz4shUPCoQ"
   }
 ]

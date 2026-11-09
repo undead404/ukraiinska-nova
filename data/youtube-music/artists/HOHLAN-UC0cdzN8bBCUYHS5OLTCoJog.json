@@ -492,5 +492,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mSfW4NYbZDqWcmDlBAldEQMJXUNC6O6os"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-09T12:11:46.384Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "HOHLAN"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/D1Rgu922-ZwcQ8OcUVr8X9iWBtw3XvTeOC9vHkCR36MYjHjoCyauLeYHGAZR8w1kgxwLd7YmLRlrtWE=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "кричу",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nv8ZU1FNNrzYVa9h-BhF-xh0lAmNGil2U"
   }
 ]

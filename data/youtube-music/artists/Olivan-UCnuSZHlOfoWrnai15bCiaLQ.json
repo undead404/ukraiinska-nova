@@ -64,6 +64,10 @@
       {
         "time": "2026-10-20T12:17:39.402Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-09T12:12:50.288Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -143,6 +147,10 @@
       {
         "time": "2026-10-20T12:17:39.402Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-09T12:12:50.288Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -222,6 +230,10 @@
       {
         "time": "2026-10-20T12:17:39.402Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-09T12:12:50.288Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -301,6 +313,10 @@
       {
         "time": "2026-10-20T12:17:39.402Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-09T12:12:50.288Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -419,6 +435,10 @@
       {
         "time": "2026-10-20T12:17:39.402Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-09T12:12:50.288Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -498,6 +518,10 @@
       {
         "time": "2026-10-20T12:17:39.402Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-09T12:12:50.288Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -577,6 +601,10 @@
       {
         "time": "2026-10-20T12:17:39.402Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-09T12:12:50.288Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -656,6 +684,10 @@
       {
         "time": "2026-10-20T12:17:39.402Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-09T12:12:50.288Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -735,6 +767,10 @@
       {
         "time": "2026-10-20T12:17:39.402Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-09T12:12:50.288Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -814,6 +850,10 @@
       {
         "time": "2026-10-20T12:17:39.402Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-09T12:12:50.288Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -893,6 +933,10 @@
       {
         "time": "2026-10-20T12:17:39.402Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-09T12:12:50.288Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -972,6 +1016,10 @@
       {
         "time": "2026-10-20T12:17:39.402Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-09T12:12:50.288Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1051,6 +1099,10 @@
       {
         "time": "2026-10-20T12:17:39.402Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-09T12:12:50.288Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1130,6 +1182,10 @@
       {
         "time": "2026-10-20T12:17:39.402Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-09T12:12:50.288Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1209,6 +1265,10 @@
       {
         "time": "2026-10-20T12:17:39.402Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-09T12:12:50.288Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1288,6 +1348,10 @@
       {
         "time": "2026-10-20T12:17:39.402Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-09T12:12:50.288Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1367,6 +1431,10 @@
       {
         "time": "2026-10-20T12:17:39.402Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-09T12:12:50.288Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -1419,5 +1487,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kTVy--vYQJv2lw_7Cq3XjG0auAK1aE7r4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-09T12:12:50.289Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Olivan"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/xy9g8pWS6LAMskiNCQESxh6qXCunbkEFFZoYonERi9Vt753ScyMyC_iGG4xS1fxi8VP9_iLubvrO91M=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "ПЛАТТЯ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kt4PSuDgk_L6XvX04zu5lB1AMMmZBZ8M0"
   }
 ]
