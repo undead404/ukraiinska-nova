@@ -226,5 +226,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lTgjjkr44aDemIEfIYZTnV7bKQTpn7ri8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-10T04:24:57.297Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "TIM PACHE"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/OmyKjCevnWk8lKxLhy1zCvjd7EnyG-Q0E7vmVAl8zTU6fVG2VA7OrlMmZTNkOVTSWoBDDFk1hMRzhOV2yQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Проданий сміх",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lw5PZG7d-vxUkIC7ZerR_YLfNGSmbjW24"
   }
 ]

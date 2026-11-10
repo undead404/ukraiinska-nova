@@ -544,5 +544,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kROkQr2i_CjezH6CgN0C4Q8nmvUqYd60Y"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-10T04:21:55.817Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Мія Рамарі"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/iSCao10ifr2nZOSac7Dj87Bfdt0vflQryMH1ULrVaGFZn9cK3gxsUynznSeplFZEOkKpEN7Vsx-xp-3U=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "Не важливо",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lGcI1w_nIxNBY-iXCFcxXbhzF9TPZ-BH0"
   }
 ]

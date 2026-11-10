@@ -556,5 +556,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kLtGQQaEHx6UQ2QA00wZeFWDT0IqqRkkY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-10T04:23:50.921Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "NEYROBIKA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/EWk9rN6mWofI03-DZOORykYGKBEnhVsG6KRbVwDlhvso1TgZfSFpcbY28W16UMWx1ArNd2zG7LKaaEqd=w544-h544-l90-rj",
+    "releaseDate": "2024",
+    "tags": [
+      "pop"
+    ],
+    "title": "Пропущений виклик",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_niXO2SWtyK7JSwJEZckC0h1CkAUOy3Stc"
   }
 ]

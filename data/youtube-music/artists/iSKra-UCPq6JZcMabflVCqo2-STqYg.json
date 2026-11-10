@@ -8,6 +8,10 @@
       {
         "time": "2026-06-06T04:11:27.776Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-10T04:23:04.988Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -62,6 +66,10 @@
       {
         "time": "2026-06-06T04:11:27.776Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-10T04:23:04.988Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -89,6 +97,10 @@
       {
         "time": "2026-06-06T04:11:27.776Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-10T04:23:04.988Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -116,6 +128,10 @@
       {
         "time": "2026-06-06T04:11:27.776Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-10T04:23:04.988Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -143,6 +159,10 @@
       {
         "time": "2026-06-06T04:11:27.776Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-10T04:23:04.988Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -170,6 +190,10 @@
       {
         "time": "2026-06-06T04:11:27.776Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-10T04:23:04.988Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -197,6 +221,10 @@
       {
         "time": "2026-06-06T04:11:27.776Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-10T04:23:04.988Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -224,6 +252,10 @@
       {
         "time": "2026-06-06T04:11:27.776Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-10T04:23:04.988Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -251,6 +283,10 @@
       {
         "time": "2026-06-06T04:11:27.776Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-10T04:23:04.988Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -278,6 +314,10 @@
       {
         "time": "2026-06-06T04:11:27.776Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-10T04:23:04.988Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -295,5 +335,51 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nggvf1tHUs-7aPC0uztGhCijQcCkhqH0Q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-10T04:23:04.988Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "iSKra"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/lyhzHLkj2fs0EhoiueMul6yzLgF2TcVkNSNqe_-VNSt2lOsmA8UJnh9CH98CZljUw7m3RyPbW8pF8lnRUQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "Crust",
+      "blackened crust",
+      "black metal"
+    ],
+    "title": "Холодна принцеса",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l4oQc4RTnNhiSzbvTfyzrDs7I-_xbJjwI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-10T04:23:04.988Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "iSKra"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/0sN1PvR0mvQHIfJxEeRj88vpR0tjqMgHHuPJFZDhvIlyI0XVlYnGJKRXOgaUXNTebs_gcRzN_y7rDoqXbQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "Crust",
+      "blackened crust",
+      "black metal"
+    ],
+    "title": "Ця дівчина",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lhFVrkgIOzx_PCiYKtq9JImOhalSt1KWw"
   }
 ]

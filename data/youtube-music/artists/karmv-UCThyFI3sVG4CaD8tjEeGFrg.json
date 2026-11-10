@@ -16,6 +16,10 @@
       {
         "time": "2026-05-03T04:08:25.476Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-10T04:23:15.441Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -78,6 +82,10 @@
       {
         "time": "2026-05-03T04:08:25.476Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-10T04:23:15.441Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -109,6 +117,10 @@
       {
         "time": "2026-05-03T04:08:25.476Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-10T04:23:15.441Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -140,6 +152,10 @@
       {
         "time": "2026-05-03T04:08:25.476Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-10T04:23:15.441Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -171,6 +187,10 @@
       {
         "time": "2026-05-03T04:08:25.476Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-10T04:23:15.441Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -202,6 +222,10 @@
       {
         "time": "2026-05-03T04:08:25.476Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-10T04:23:15.441Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -233,6 +257,10 @@
       {
         "time": "2026-05-03T04:08:25.476Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-10T04:23:15.441Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -264,6 +292,10 @@
       {
         "time": "2026-05-03T04:08:25.476Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-10T04:23:15.441Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -295,6 +327,10 @@
       {
         "time": "2026-05-03T04:08:25.476Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-10T04:23:15.441Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -388,6 +424,10 @@
       {
         "time": "2026-05-03T04:08:25.476Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-10T04:23:15.441Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -450,6 +490,10 @@
       {
         "time": "2026-05-03T04:08:25.476Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-10T04:23:15.441Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -481,6 +525,10 @@
       {
         "time": "2026-05-03T04:08:25.476Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-10T04:23:15.441Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -512,6 +560,10 @@
       {
         "time": "2026-05-03T04:08:25.476Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-10T04:23:15.441Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -543,6 +595,10 @@
       {
         "time": "2026-05-03T04:08:25.476Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-10T04:23:15.441Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -577,6 +633,10 @@
       {
         "time": "2026-05-03T04:08:25.476Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-10T04:23:15.441Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -637,6 +697,10 @@
       {
         "time": "2026-05-03T04:08:25.476Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-10T04:23:15.441Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -663,6 +727,10 @@
       {
         "time": "2026-05-03T04:08:25.476Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-10T04:23:15.441Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -689,6 +757,10 @@
       {
         "time": "2026-05-03T04:08:25.476Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-10T04:23:15.441Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -731,5 +803,49 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lm6la7v1rby-2Ob9sZF5sX9p5HrDzU1ok"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-10T04:23:15.441Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "karmv"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/N9iR0FVd8lQR2iKttfnuzBN1hQz9V8gd90xRytCugP4jbEdKPNzerCcqpmiaQZV5TZFBIECWZA9Ek1U=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Persona non grata",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_meb5BLxNQ5ACIF5ceS-rgSHrMLiVlQt8M"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-10T04:23:15.441Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "karmv"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/-0Rwqp9z6gB1eo-nu7rP_ZZp-wc1SjCorZctT3fhQDWo94kSvunYz-kfsvXv-2OENxaGF9DF9jRqF60=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "electronic",
+      "techno"
+    ],
+    "title": "Мій дім (karmv rmx)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lu42a6uiT6hWBku8l8dZztp7kXTudpyKY"
   }
 ]

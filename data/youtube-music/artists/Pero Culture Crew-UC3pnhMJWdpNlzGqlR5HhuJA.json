@@ -544,5 +544,47 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l7RpZY4h0iEke98RPyLb3tdv3Ma_P7FbU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-10T04:24:05.139Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Pero Culture Crew"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/YoGxO78ScfsEY8d1yLpJpQihNIK1AI7pxKFnbvVRb3Kqwzg-wHb1ilNbdbqFZi5pbuSWLvGjTJddE1Qy=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Фанати стилю",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nPSZDVZLXlkeNevdbOgSADfwu1wyVyvbU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-10T04:24:05.139Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Pero Culture Crew"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/v2OKuSYe1mX83e6o3yQBAB5id_VMR8Romx_pGK0CIWqQFKx87ZJguOUccviWO1z4Q5sYv4jI2PJ_oqV0=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Мрій про",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nLqIe5UWh8rlxWeZFqd21MxknavZ6CZI4"
   }
 ]

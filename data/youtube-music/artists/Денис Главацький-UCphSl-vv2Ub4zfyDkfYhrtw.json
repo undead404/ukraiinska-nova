@@ -245,5 +245,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kO12Wlz8t8p66J5im1e61pIamZ4ovnVkQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-10T04:21:36.471Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Денис Главацький"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/JXb2K66gMBm2Zln-s8by_fJ8dQLGtbDc97CjOH1CavOkDPHMvGN__BS190KTME4cex67UIv-2ZkQ1Ylr=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Зорями до тебе",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mLboSBQinEqQ3pPNnvpgVQgDq8jTU9iUk"
   }
 ]
