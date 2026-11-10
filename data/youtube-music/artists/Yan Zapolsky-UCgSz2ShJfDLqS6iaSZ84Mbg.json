@@ -2294,5 +2294,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nZkfdvSXdVDSXxp59SUmshSuMbTOqk3JQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-10T13:03:39.500Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yan Zapolsky"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/LooNq1AjPD7Ew7TNbawE9je7BVLgYInYk2ooHbz-GUwxlH8Ud9chfIXBIbsHeOPR43Ll_sFbUtNL6oOY=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Papaoutai",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nRKGoSRNYSlqQcDkFGzY4bg8mMhdlfzoI"
   }
 ]
