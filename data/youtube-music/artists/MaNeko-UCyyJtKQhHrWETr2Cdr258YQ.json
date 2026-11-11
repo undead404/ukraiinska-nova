@@ -302,5 +302,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lRQP0ENC3hw7jBnmlKh9RizV4gUoTqt2g"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-11T16:39:16.332Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MaNeko"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/pw6Z7L-Gj0K73Ez9J0qMFXffuYoH4xCqBMibs2uw8xxSjKK-8hO99bFzrasAMODSv__YmI9jRbnS1bJU=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [],
+    "title": "Україна",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n7pXQVvdi3OBCbkNPiqGmXd2Brq661zS4"
   }
 ]
