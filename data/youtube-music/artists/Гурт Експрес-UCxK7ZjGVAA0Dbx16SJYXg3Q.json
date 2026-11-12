@@ -2474,5 +2474,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nD_VxUpY7Noi9cZyI3o_RFuWXI4gSNqpE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-12T21:07:14.090Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гурт Експрес"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/iCM41TmWDv638SWqQL07fabZ3yDBff3ADMBdSihyv0iWwr_5Z2bxXfM6pClYEzTastHqSxdD9JCaYEA=w544-h544-l90-rj",
+    "releaseDate": "2019",
+    "tags": [
+      "pop"
+    ],
+    "title": "Перепетуля",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mTHqQmjk2C-P6JzIM84yISZ01zkWMOJ8U"
   }
 ]

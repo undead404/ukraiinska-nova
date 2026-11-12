@@ -3284,6 +3284,10 @@
       {
         "time": "2026-06-25T21:20:44.046Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-11-12T21:10:24.386Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -3351,6 +3355,10 @@
       {
         "time": "2026-06-25T21:20:44.046Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-11-12T21:10:24.386Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -7848,5 +7856,43 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m76rvA4_2FpKZ5HEOGYY4j1HqWDRan41Q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-12T21:10:24.387Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/neT7ALqeF4uz-3ntwoND9X72Ljf0H8ndfIMYU3WsnFrP6Q55df_9mCsSmPCThZF_2nVRWGQqcAhRNIg=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Vibe style",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mz-QRT2pgirz6eE6zfA88FWNwKTk_2GSI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-12T21:10:24.387Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/1AsbgE_AXbDQMxaQYwjexpUMUIW0vbZWsEYUURCC1IBGWiRQr1_E2NLfusW_EPE1XmrW9p40Nhz2osff=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Never love",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k27Zoi-shAFeUfpfIsJP6O8iZmYrP7_Pg"
   }
 ]
