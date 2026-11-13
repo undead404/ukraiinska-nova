@@ -2486,5 +2486,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lFiDIaG7F9iX2gZP5QqHgKh01Md_4HaUw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-13T23:56:11.781Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MOLODYY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/jeycvaou6y1_1sfqPVcJM0lpdUklvtQrIfZf_QqsXA4f2p2lKE8iABumdSbuFDXl1206Un95yptvY1o=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Бажання",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kY57LdOwfD4JXZsBWLUaKnvuH0xHF0JBw"
   }
 ]
