@@ -1148,5 +1148,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ljvYUe8IBLsYHbMXcy3Y0ygDFJL37jUhY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-14T07:04:55.528Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Baryk"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/bAcbfKwzuuK8nXDkvpJQ3LuweO_H0kU1ZJJ_0jE7ha6ViOnuWBD6-kZPbf-KPMK5EnvJG5sEkBy6lF2x=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop rock",
+      "ukrainian rock"
+    ],
+    "title": "Чому",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lZwT9bWGexUlPOB_VMr_T3w_Ok28Dc7dQ"
   }
 ]

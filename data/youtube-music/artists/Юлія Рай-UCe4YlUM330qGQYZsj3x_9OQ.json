@@ -471,5 +471,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lc8QnfRe1iYyJ7j-H8qwf8zg3p7kDsXK4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-14T07:04:34.486Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Юлія Рай"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/dCLt3-HqTxpDmwj8S7WP5sJGuQoiJoJIu0vNAOhLWM52GL9B21Eaat5U_7jMgrvqrzJSsnm1QBEaAbY=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Не мама",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kOanphWJSRrjTiKBIAvjjGqVp-faj6SKI"
   }
 ]
