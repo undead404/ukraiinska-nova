@@ -306,5 +306,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l0Mc_OO1NSOC2tX8JV-T1JjUOcj1hN7Tk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-15T03:08:10.367Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "GLOVA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/GNJxapr6Jf0_v24en0-o7wAOE7NJ5mYH353BSQ5HfiV4jsn31F3lJ5K62kdzk6PdDmCbyM_M7Egm2GWfZw=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Місто не спить",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mDlfYRuJNrTpwEtavjlMFchV32dMP6PB8"
   }
 ]

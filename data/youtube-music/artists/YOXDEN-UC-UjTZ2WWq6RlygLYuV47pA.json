@@ -1772,5 +1772,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nrOcl8-OLI1t9FfnrcE-5GzuPxcaO3VoY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-15T03:10:12.377Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "YOXDEN"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/vDbg229LEN7HOFr0bWgVeL91QZfbMJ6zQsV4IgqbQi4MmX0ZJYeVVo1EqXWOx_2Kfz6QSkCFVAAP9NE=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [
+      "dance",
+      "electronic"
+    ],
+    "title": "ПРОПАДУУ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lb-s4lL-99ta0fxESjbr3lco8Q-XSjG7A"
   }
 ]
