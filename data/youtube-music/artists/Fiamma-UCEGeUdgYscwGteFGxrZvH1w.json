@@ -24,6 +24,10 @@
       {
         "time": "2026-04-17T17:06:26.849Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-15T18:01:40.695Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -66,6 +70,10 @@
       {
         "time": "2026-04-17T17:06:26.849Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-15T18:01:40.695Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -108,6 +116,10 @@
       {
         "time": "2026-04-17T17:06:26.849Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-15T18:01:40.695Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -150,6 +162,10 @@
       {
         "time": "2026-04-17T17:06:26.849Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-15T18:01:40.695Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -192,6 +208,10 @@
       {
         "time": "2026-04-17T17:06:26.849Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-15T18:01:40.695Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -234,6 +254,10 @@
       {
         "time": "2026-04-17T17:06:26.849Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-15T18:01:40.695Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -276,6 +300,10 @@
       {
         "time": "2026-04-17T17:06:26.849Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-15T18:01:40.695Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -326,6 +354,10 @@
       {
         "time": "2026-04-17T17:06:26.849Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-15T18:01:40.695Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -368,6 +400,10 @@
       {
         "time": "2026-04-17T17:06:26.849Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-15T18:01:40.695Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -410,6 +446,10 @@
       {
         "time": "2026-04-17T17:06:26.849Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-15T18:01:40.695Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -452,6 +492,10 @@
       {
         "time": "2026-04-17T17:06:26.849Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-15T18:01:40.695Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -494,6 +538,10 @@
       {
         "time": "2026-04-17T17:06:26.849Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-15T18:01:40.695Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -536,6 +584,10 @@
       {
         "time": "2026-04-17T17:06:26.849Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-15T18:01:40.695Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -570,6 +622,10 @@
       {
         "time": "2026-04-17T17:06:26.849Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-15T18:01:40.695Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -586,5 +642,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nVJcygnUxzuG4TKYz5tf8guifex6miNH4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-15T18:01:40.695Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Fiamma"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/mZuIvmKN5yZQ3p6LabQL-lMSzmrzOycIZ5P7CsDKrVru_2ebnPKDQGFF_1-SU6na_BRPnnfnpNM_xAwR=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "Gabber",
+      "hardcore techno"
+    ],
+    "title": "Ти така Crazy (feat. Verbik)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nEDB_wD87KxFkQWsCbj_IecufKLQZem-M"
   }
 ]

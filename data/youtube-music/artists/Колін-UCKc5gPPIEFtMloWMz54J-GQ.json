@@ -2850,5 +2850,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nldRFEQyzod8CJhQ7qhvrwp6rhFysjXgs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-15T18:00:22.713Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Колін"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/pvP5tp35fPuAiTicWlidtHKT3_33h2XC38unVK42htcv00_WtcExeI8O9pzrEKVYd3gZfwma-khGAPXx=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Карі",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_loo8Wdc4zfLQYf2MH5EMaivCwjh_1mNG0"
   }
 ]
