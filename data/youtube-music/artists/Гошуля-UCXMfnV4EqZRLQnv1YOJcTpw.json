@@ -1790,5 +1790,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nutzDoBtib0pRATEurSJm_lG9FRb_wRxE"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-16T22:31:59.498Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гошуля"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/X960HQPN8JztsrozHZNvgPOmBpcyD1z4iHKbYvyNLScQ9GBxMMcgT3TMogUC410cu9ILciKWhg-O-hbB=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Его",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lBrzXGSlpcljfBOcC5Ckosax90N7OMRsA"
   }
 ]

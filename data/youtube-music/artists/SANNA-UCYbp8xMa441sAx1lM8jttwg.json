@@ -300,6 +300,10 @@
       {
         "time": "2026-05-05T22:10:18.175Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-11-16T22:34:29.391Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -693,5 +697,120 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mOeSCfQMYRs8pgd3R243hrGhWvCO6tSpM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-16T22:34:29.391Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SANNA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/ca_g-4nkgMSOsg1XvVPEirisO54EapKSEJZFkNvTbsc-BReQ7Br5Eaw3KQ8jSnDBtj5Ssk7teP7sFEGPug=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "folk",
+      "pop",
+      "singer-songwriter"
+    ],
+    "title": "Хмелю",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lAUjG3IJRMzfcqClBk28_Z7JycT-zFWJI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-16T22:34:29.391Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SANNA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/MVIsfatg0TH32J-gKZPg9ThRFQmYzak1qjvgF7ALKTUIx1aeTtK8AMk6Bx5bxLMiM2Ehb7e0jysyJwpGlg=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "folk",
+      "pop",
+      "singer-songwriter"
+    ],
+    "title": "Свій шлях",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mqZHLFsc4PkhOb_N73bjGQ8fdDlx-LJZg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-16T22:34:29.391Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SANNA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/_9vCP90VCybbPdsZd32YTkMQy1v0jKauW8q3kKZnhfQbpLVelFHncgbIG1c8K2Ee85F2QaySzwYiEB0=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "folk",
+      "pop",
+      "singer-songwriter"
+    ],
+    "title": "Не тримай (Radio Edit)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lMNTiX-8LR2kaFVNLV_TtEvOXWm5yK75E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-16T22:34:29.391Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SANNA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/buP43EZ-_FMZ5w-Ir8KmpfrIQmJ_YUe811C2dyEfRaivpLFb9YHmdYvEBG4BCVs3RWE7yz2iZy70GcQ=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "folk",
+      "pop",
+      "singer-songwriter"
+    ],
+    "title": "Там, де мій дім",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n9--acGhYthP679-aG2j8B7aNMSBgQaT4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-16T22:34:29.391Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SANNA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/2y2ikDEyXGh0a08zqSHDE-OG3aaDvnaG08VIfSOTd6d7TDC4Vd4UJpeguEQsd00yfgADSgkZPcwukP7k=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [
+      "folk",
+      "pop",
+      "singer-songwriter"
+    ],
+    "title": "Синочки, повертайтеся живими! (Acoustic)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mxaqE4S_vRm2wZAAelc6xhx3GXouUEGrM"
   }
 ]
