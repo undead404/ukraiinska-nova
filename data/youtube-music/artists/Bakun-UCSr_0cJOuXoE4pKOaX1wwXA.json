@@ -316,6 +316,10 @@
       {
         "time": "2026-04-16T14:24:02.736Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-11-17T14:56:11.397Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -535,5 +539,28 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_khcVgU6zuur3EGdDsAyHB-ZLz6E1M8Bs8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-17T14:56:11.398Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Bakun"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/bdhMr-8N6LmEW2X-LoDZbnMmpC7NEYSw_Br1gp3_btq2xnjW0UqSxOS3VfE4fWCZBO9OCBQPwhY-HPRv=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [
+      "rap",
+      "electronic",
+      "trap"
+    ],
+    "title": "Out Of My Head",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_km-GheQYooc38TyUtFDd3JB_KEeqfBi2I"
   }
 ]
