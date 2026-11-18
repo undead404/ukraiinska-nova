@@ -16,6 +16,10 @@
       {
         "time": "2026-11-10T04:24:06.921Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-18T04:45:55.129Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -49,6 +53,10 @@
       {
         "time": "2026-11-10T04:24:06.921Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-18T04:45:55.129Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -82,6 +90,10 @@
       {
         "time": "2026-11-10T04:24:06.921Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-18T04:45:55.129Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -115,6 +127,10 @@
       {
         "time": "2026-11-10T04:24:06.921Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-18T04:45:55.129Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -148,6 +164,10 @@
       {
         "time": "2026-11-10T04:24:06.921Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-18T04:45:55.129Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -181,6 +201,10 @@
       {
         "time": "2026-11-10T04:24:06.921Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-18T04:45:55.129Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -214,6 +238,10 @@
       {
         "time": "2026-11-10T04:24:06.921Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-18T04:45:55.129Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -247,6 +275,10 @@
       {
         "time": "2026-11-10T04:24:06.921Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-18T04:45:55.129Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -288,6 +320,10 @@
       {
         "time": "2026-11-10T04:24:06.921Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-18T04:45:55.129Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -321,6 +357,10 @@
       {
         "time": "2026-11-10T04:24:06.921Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-18T04:45:55.129Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -354,6 +394,10 @@
       {
         "time": "2026-11-10T04:24:06.921Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-18T04:45:55.129Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -387,6 +431,10 @@
       {
         "time": "2026-11-10T04:24:06.921Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-18T04:45:55.129Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -420,6 +468,10 @@
       {
         "time": "2026-11-10T04:24:06.921Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-18T04:45:55.129Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -453,6 +505,10 @@
       {
         "time": "2026-11-10T04:24:06.921Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-18T04:45:55.129Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -478,6 +534,10 @@
       {
         "time": "2026-11-10T04:24:06.921Z",
         "type": "LOST"
+      },
+      {
+        "time": "2026-11-18T04:45:55.129Z",
+        "type": "FOUND"
       }
     ],
     "artists": [
@@ -493,5 +553,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k4XtMGOyZuYGGqXMnnD2IRokjamLEnaPs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-18T04:45:55.129Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "POLINA DASHKOVA"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/0RB0E460aakkkIYQN3vQUi38ZM-XuD2aA-9vhqr_qt78CBuTp7gGRNbgjbA87RYwbapAR2N6XBkObdhQ_g=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "EDM"
+    ],
+    "title": "У наших руках",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kxToaEXP7n_7QuddfJrfoy5iZHhJ_-NVg"
   }
 ]
