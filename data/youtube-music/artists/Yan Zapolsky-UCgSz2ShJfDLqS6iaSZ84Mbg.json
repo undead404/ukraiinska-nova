@@ -2313,5 +2313,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nRKGoSRNYSlqQcDkFGzY4bg8mMhdlfzoI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-18T13:33:21.182Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Yan Zapolsky"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/IT2-3fhVUkTym5qC7mzEbfLmGWKVFk_lc0DAg409qOj7oO15ccC3GD3IlFjP4-U64Qjk3IzGdGxg08w9=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Ederlezi",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k2DMz-ZuG7zCtafnjletL3yZcO3W4OsE4"
   }
 ]

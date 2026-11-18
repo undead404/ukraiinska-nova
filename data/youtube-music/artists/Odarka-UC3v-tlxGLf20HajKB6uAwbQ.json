@@ -677,5 +677,43 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kK0XyDJRtVok2jCHodg8KyKARX11SxIuQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-18T13:32:19.058Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Odarka"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/1OkpsVdxee2lmXQKw8_jg3wiVM9rBSrRYSbK24JX95YXCSBOWo36YftDreid1hgG8gW5_0V4Oj8iltIt=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Moonlight",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nuqe62vHrMeYxzGxb2JKXc0S8j7KBlYmA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-18T13:32:19.058Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Odarka"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/LsTW6Qo2ZtXsaWG3l8Wz6WwP9lhpWJam-lc2pljDhJSZrJl0FiVUBeJ1KRLyw-SJkivAjRJEU463o08=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Templess Light",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lkhTt3gt4z7_1_IMEekiAzRx6tqIbUP2U"
   }
 ]
