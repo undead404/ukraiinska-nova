@@ -3217,6 +3217,10 @@
       {
         "time": "2026-06-25T21:20:44.046Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-11-18T21:40:09.740Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -7894,5 +7898,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k27Zoi-shAFeUfpfIsJP6O8iZmYrP7_Pg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-18T21:40:09.742Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Slyzexx"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/O6iz7xdnAUtIluhY7RvSWYA-2FEbAxWOEtJBHz4Mm2dV3N4NQENlpePHD43gkJzcGETkGJ3CfKMXpql4qw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Into the wrong",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kE1X2IIZq3Q0wh2Tx0Dh9hypw1J6Aj9KU"
   }
 ]

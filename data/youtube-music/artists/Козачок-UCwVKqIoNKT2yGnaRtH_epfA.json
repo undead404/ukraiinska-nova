@@ -1248,6 +1248,10 @@
       {
         "time": "2026-05-18T21:10:22.260Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-11-18T21:37:22.095Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1785,5 +1789,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_niT1GGZjusvbTdTnTbANKgscrYJGcczRA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-18T21:37:22.096Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Козачок"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/VhsLtJ0EtUTK7-vt2aREE03YrnQyDPjBFxTf2SOklnY3MgLF2PlQSbvqN0UgGmhzvsnjg4DRarmKQCdG=w544-h544-l90-rj",
+    "releaseDate": "2020",
+    "tags": [
+      "rap"
+    ],
+    "title": "Степан Бандера",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m5kWY5K9BoCf8djaBIE_XbZdHuM8KrmYc"
   }
 ]

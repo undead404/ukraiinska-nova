@@ -2204,6 +2204,10 @@
       {
         "time": "2026-08-25T21:04:08.310Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-11-18T21:36:53.141Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2267,6 +2271,10 @@
       {
         "time": "2026-07-31T21:46:54.476Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-11-18T21:36:53.141Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2296,6 +2304,10 @@
       {
         "time": "2026-08-25T21:04:08.310Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-11-18T21:36:53.141Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -2495,5 +2507,68 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mTHqQmjk2C-P6JzIM84yISZ01zkWMOJ8U"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-18T21:36:53.142Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гурт Експрес"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/058q1Gx-97_uL9cQAbo2UCqRYKyVNUhyOE4CrhgbpnU0lxNRJ-r9G3t-hT0v5BBV8OoIR8hIWDcFv7VS=w544-h544-l90-rj",
+    "releaseDate": "2020",
+    "tags": [
+      "pop"
+    ],
+    "title": "Застольные песни",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nzItU6ng_g0mIKYE9Wv-xnRu7Ik6pdofk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-18T21:36:53.142Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гурт Експрес"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/IEfwsrgW9tXHsKhyDblyTizxkNP6I8rYochRGy4hqLDRFHJkXRYSX_5KQ-p1ewGSc0SpxTqLpCCGFYeA=w544-h544-l90-rj",
+    "releaseDate": "2020",
+    "tags": [
+      "pop"
+    ],
+    "title": "Лучшие песни",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nntSLPKrWT7oBSRPnJQ2pI34kapTfuuHo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-18T21:36:53.142Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Гурт Експрес"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/yhWfXoKcRypie8LCNxEBe-6O5h-XF2DWz7Ek31eExH3l4mLpMFp3NYxbWWOWUd4Dbu_ZT19kMhFxTOI=w544-h544-l90-rj",
+    "releaseDate": "2003",
+    "tags": [
+      "pop"
+    ],
+    "title": "Ромашка белая",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kZff6OvR4ZtOBK78XaFXKHg_TD4BKIrhY"
   }
 ]
