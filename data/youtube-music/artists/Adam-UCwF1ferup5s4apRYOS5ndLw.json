@@ -1626,5 +1626,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nmKfFWXFa8NyQI0VpuBHYYgwpEd-SSA0s"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-19T21:01:04.005Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "AdaM"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/3zQH_9Xy-vwNRnQJM8AfdIK5a-1HFiIX28JxTyllci0lbiehXdPuWlXozKkoJYRLsRGIXiVbAzsqO2w=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "dark electro",
+      "ebm"
+    ],
+    "title": "Анашым",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kuEhWo3BPWTPQQDNmmCiZOKEBEX3bGcM0"
   }
 ]
