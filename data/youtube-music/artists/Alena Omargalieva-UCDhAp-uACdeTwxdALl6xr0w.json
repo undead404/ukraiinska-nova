@@ -1229,5 +1229,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mfgkgdTtDW-_oKjN2m73BgmkK8ySmlw3A"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-19T12:11:51.530Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Alena Omargalieva"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/gOGiW5gTQ-QbVzn3CZaNPzxPyAknKRKD04PJ1h7fEwUCQu7loCi0dCEACYciwllIZR6BNKjs9V5rsOimHA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Я не хочу бути зайвою",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mcDl1Dyuh_0M4_wVk8rt1H3DHerSreLZA"
   }
 ]
