@@ -371,5 +371,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mSlBm2BoGHZqCWXk_SNvblH8jQVaHD8CM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-19T02:51:21.943Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "hurtom"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/p0ZNR0CvWYxGg_EpunWVF3tFjyeoxBMDfyYNEL5W2pC6Zl4yWBWYUTVVp5TNHzUEzz1fyYY5w5KWEO3NuA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rock"
+    ],
+    "title": "Олівці",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m5j7yLpeH3lRPTaSNHstEDLSDrmO7R5cE"
   }
 ]
