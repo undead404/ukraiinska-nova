@@ -432,5 +432,28 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_l3C2qveOB4J4lMOS2BSzfRWq61f5nOZ-U"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-20T10:32:41.037Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Один День Потому"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/uOGXmf67Eky0wE3djvHJT1fFChfzwRXOEcdeFvzg_icx8BtEsvmd4pbCqfXgtCb1N1oMk_MVS6ghCJ78=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "Garage Rock",
+      "punk rock",
+      "pop rock"
+    ],
+    "title": "Неважливо",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mrlvgrX5N1l6d3PWtdxw5YICk19Ije3t8"
   }
 ]

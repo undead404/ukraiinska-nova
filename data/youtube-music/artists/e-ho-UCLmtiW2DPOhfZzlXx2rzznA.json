@@ -394,5 +394,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kZbQCjJWYpHNbTbKPuEOlxD44F7eDld4I"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-20T10:33:42.996Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "e-ho"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/aZt_C3cZtRXxHgT8TuiXim7vVsbEzvdjwkpOxB_08RHMcB6RxGqbLGrifzRuZgkVtP94qXYXrZEK6HTu=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rock"
+    ],
+    "title": "Продам всі свої речі",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ntU03v8tLSVergjS6ia6bsIztVLfyyb7Q"
   }
 ]
