@@ -815,6 +815,10 @@
       {
         "time": "2026-04-14T16:12:24.141Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-11-21T16:58:55.993Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -850,6 +854,10 @@
       {
         "time": "2026-04-14T16:12:24.141Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-11-21T16:58:55.993Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -987,5 +995,62 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_krb_0Hv2uPwI75EZlZjQnV5evN-GVo6rY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-21T16:58:55.993Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Julik"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/842v6RQvDQzkmgFeJ7BbtOmrm9wtl_IAKkX0tI7Ny8O_9OU7CbYJ9RKhgZCJduvUBuMLZXamdumAlOY=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Закоханий",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n1JFWbmMIdle3Oxs9Em-aAfDHCkXD-yLY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-21T16:58:55.993Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Julik"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/LC9gcqY-Pkm7F-PoeSUiNfW6H2X5iQDuNePqfgEPdo3O0N6RQPrrFGXwqBz5Es_8WVKBC6_Kil34CkXq=w544-h544-l90-rj",
+    "releaseDate": "2020",
+    "tags": [],
+    "title": "Так тихо падає дощ (Julik Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nIHAzewoW8uyumvBJpaw85xbru-ojaLPk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-21T16:58:55.993Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Julik"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/Sak_TZ7erOhuBbeKDXAul-iNbuNKxZ99RuIboUSdnJylCjZRPWA9UIpaVhpf58i9azOgGLDiXY_z0NCd=w544-h544-l90-rj",
+    "releaseDate": "2018",
+    "tags": [],
+    "title": "Катерино (Julik Official Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k3jeVHnkrxum_8t0eQoWteT8Mq8v9wnhY"
   }
 ]

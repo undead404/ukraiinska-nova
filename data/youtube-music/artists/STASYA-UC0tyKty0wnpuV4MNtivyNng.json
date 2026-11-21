@@ -2343,5 +2343,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lh3fUgty2fgi_cQqP0D8yEjEMRuqO1D4Q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-21T17:00:24.224Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "STASYA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/3SM6WqeO5w8INhRurujvJUIvPv8so-3IsJGLH1VgLOpUnh7tkoNlbbGCUjqY9hjPlvdv90zrZz4PD2r8=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "folk"
+    ],
+    "title": "Поети",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_knpUp2w9uPb-qC1lwR3-c1Y9gJY8HEhbs"
   }
 ]

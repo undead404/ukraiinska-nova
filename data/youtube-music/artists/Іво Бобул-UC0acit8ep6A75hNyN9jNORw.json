@@ -1255,6 +1255,10 @@
       {
         "time": "2026-08-03T16:08:25.290Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-11-21T16:57:58.739Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1318,6 +1322,10 @@
       {
         "time": "2026-08-03T16:08:25.290Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-11-21T16:57:58.739Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1339,6 +1347,10 @@
       {
         "time": "2026-08-03T16:08:25.290Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-11-21T16:57:58.739Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1360,6 +1372,10 @@
       {
         "time": "2026-08-03T16:08:25.290Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-11-21T16:57:58.739Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1396,5 +1412,89 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lrzYNl4oLLhK16SdfEhdt_TtUCL1Ox8yo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-21T16:57:58.740Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Іво Бобул"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/EceKABptgKew3srM6DDB941GsbSK6B_NeOIMBdDlGNUvUCsEiau8HWF3V7RZfrMGb1991QivGnxxs7qI=w544-h544-l90-rj",
+    "releaseDate": "2006",
+    "tags": [
+      "pop"
+    ],
+    "title": "Ты мой сон",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lwtEH1sgMdosbzRsQOq3f7c6D0xOkxTVk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-21T16:57:58.740Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Іво Бобул"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/1_6zdTd9uLFXkyfAd8P3WZAYjuPoVYzHSQ8QMxcO-yukB0T_NL-eLKeri4MWDj4Yc9n_QHMqggzSTtocpA=w544-h544-l90-rj",
+    "releaseDate": "2004",
+    "tags": [
+      "pop"
+    ],
+    "title": "Ріка життя",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l-K3T7XMhBBEER08HrWDOLIk6tFQ2xgTo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-21T16:57:58.740Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Іво Бобул"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/_NZ7oZ7vJyOTYzXwoYVOyid0bLVtFC8sC85GF3JglbHXykCn9XEi1qflLU_ocquw84yHfdQIAXoVCYg=w544-h544-l90-rj",
+    "releaseDate": "2004",
+    "tags": [
+      "pop"
+    ],
+    "title": "Песни для тебя",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nadMNstc2t119E4gZi1O2Z-PL2YaUdfCw"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-21T16:57:58.740Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Іво Бобул"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/7s-FCUpI0gAsno7t-ax8sy4eIIJvZaaj3s3o5PweHTOjoxAgLBqewkREVfXch0st62U-tdK8Md6zrrLJ=w544-h544-l90-rj",
+    "releaseDate": "2002",
+    "tags": [
+      "pop"
+    ],
+    "title": "Тополина любов",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ns-hsigCq5Vny8jBZKenockWqJO6Q_GzM"
   }
 ]

@@ -240,5 +240,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kbd6hxUXx-jT8ucCzTkPhgMA76zE1DVlA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-21T16:58:42.341Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DJ Nana"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/LQdJvbgGD6N1NOZC13VZLVCrD7EGvZ3s-Iqg7sfE4rRQ8kTPu0hdNgKDbxiildfTr0kzE8DQa0F-AeE6=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap",
+      "Hip-Hop"
+    ],
+    "title": "UP ON THANG (feat. D.V. Alias Khryst)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nkiHpxa4-XDIvGeOBD6J7SH89FAElSqQY"
   }
 ]
