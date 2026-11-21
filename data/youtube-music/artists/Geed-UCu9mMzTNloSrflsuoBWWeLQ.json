@@ -359,5 +359,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mtqD4XfJkwe_AJ7IArlTBOmXnVCQmA8oU"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-21T00:58:59.719Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Geed"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/7JhE-czUEVlAI8yHIcRWnoSyFh7O90Q2YGEleBGYfTkwzalxJ4emFY3e-fPFWAU3hL5Nk1d06fdexa5u=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Конвалія (Zavadskyi Radio Remix)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_keJYYzUx54P_cVKpiY-Q0xEHr3kDk8vd4"
   }
 ]
