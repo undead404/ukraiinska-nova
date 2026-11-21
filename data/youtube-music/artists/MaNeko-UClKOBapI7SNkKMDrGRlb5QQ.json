@@ -1089,5 +1089,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n7pXQVvdi3OBCbkNPiqGmXd2Brq661zS4"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-21T08:48:04.646Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "MaNeko"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/iYgie9UMhg6hDi7CGLM8bspRBNxCwwG7bqiOvESxjhF_6C3P4fiWsMirW8PRfI63Qekfi9ZDargNrsk=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Помста",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l6JCE37ME4Y1PeOfqS951lmsXtPG_NhF4"
   }
 ]

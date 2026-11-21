@@ -516,5 +516,27 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_k1BLXXMBo082keJm3g-b2WMUWnsnrskkI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-21T08:48:26.716Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "POSITIFF"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/d0xip4QrScPabi5gtwaWm4m0xx2ozlEV0MI5GWbd4EH0zE3XVahByx-9EFq78kDdfN4XqJBioSz19bJM=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop",
+      "pop rock"
+    ],
+    "title": "Різдвяно гуляй (до к/ф \"Скажене Різдво\")",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nF--Ig2_zhhsIUux3m7PnX9AepkXC9mTc"
   }
 ]
