@@ -1429,5 +1429,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kfQzsYfSsz_-oNgIDLV-Pxebl8v_wfaNQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-21T22:27:10.030Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DIBROVA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/vn9bbPhgIhGFcngZqioJnkT4tPGsdAwkxzGDwInjzEL-sUH63KBA3w2SpDf2BPKNu7JSVo70DfwtSDZvgQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Хочеш",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mD5sfvIj6kKhD1IR_JxyNh3i5VzhMzZn8"
   }
 ]

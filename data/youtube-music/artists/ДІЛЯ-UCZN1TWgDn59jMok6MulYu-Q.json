@@ -12,6 +12,10 @@
       {
         "time": "2026-05-05T22:07:59.975Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-11-21T22:26:09.014Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -39,6 +43,10 @@
       {
         "time": "2026-05-05T22:07:59.975Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-11-21T22:26:09.014Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -66,6 +74,10 @@
       {
         "time": "2026-05-05T22:07:59.975Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-11-21T22:26:09.014Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -93,6 +105,10 @@
       {
         "time": "2026-05-05T22:07:59.975Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-11-21T22:26:09.014Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -120,6 +136,10 @@
       {
         "time": "2026-05-05T22:07:59.975Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-11-21T22:26:09.014Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -147,6 +167,10 @@
       {
         "time": "2026-05-05T22:07:59.975Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-11-21T22:26:09.014Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -174,6 +198,10 @@
       {
         "time": "2026-05-05T22:07:59.975Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-11-21T22:26:09.014Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -201,6 +229,10 @@
       {
         "time": "2026-05-05T22:07:59.975Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-11-21T22:26:09.014Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -228,6 +260,10 @@
       {
         "time": "2026-05-05T22:07:59.975Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-11-21T22:26:09.014Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -255,6 +291,10 @@
       {
         "time": "2026-05-05T22:07:59.975Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-11-21T22:26:09.014Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -282,6 +322,10 @@
       {
         "time": "2026-05-05T22:07:59.975Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-11-21T22:26:09.014Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -309,6 +353,10 @@
       {
         "time": "2026-05-05T22:07:59.975Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-11-21T22:26:09.014Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -336,6 +384,10 @@
       {
         "time": "2026-05-05T22:07:59.975Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-11-21T22:26:09.014Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -363,6 +415,10 @@
       {
         "time": "2026-05-05T22:07:59.975Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-11-21T22:26:09.014Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1049,6 +1105,10 @@
       {
         "time": "2026-05-05T22:07:59.976Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-11-21T22:26:09.014Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1068,6 +1128,10 @@
       {
         "time": "2026-05-05T22:07:59.976Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-11-21T22:26:09.014Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1087,6 +1151,10 @@
       {
         "time": "2026-08-12T22:24:31.438Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-11-21T22:26:09.014Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1100,5 +1168,157 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_n3-G_jsZZryLzaR8yq2nduas_sK8GJT0Q"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-21T22:26:09.014Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Albums"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/lyf7UsAq6EsxNdCL1yZfZ_6ib9i3NO9x592_aQDjos0Yr0Esn6vKdtLVnwJbDvSmxfpTFWDSZTZpELSlLw=w544-h544-l90-rj",
+    "releaseDate": "2025",
+    "tags": [],
+    "title": "Промінь",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kH1wF-3VlJupzNZ0Jz_HTljXJBduFb0uo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-21T22:26:09.014Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Albums"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/XKiB9HYiw5se1ylC52X1pPQtHMWHFCLB-khjIPqacreD9h44fvqBCVsWCS3R_y1eI_sCcOeCRQR_mDCb=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [],
+    "title": "Кольори",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kxXrzr-UvUCuSpdGRYQqN8RliUD4C2rFo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-21T22:26:09.014Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Albums"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/-vijms3JC2G5NxyDvSsOvYTQnsqzN7Yy82jJlNixDlq9Cjn4-QEJ0WRiposKWpjNEpWIfhWWhnL0SOyb=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [],
+    "title": "Музика для сну",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mSWRBCLpO6o-woJvFcpU5AoZtSqQjlWGY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-21T22:26:09.014Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Albums"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/MiJcBqgwWWFwPD1DymTCVHR-3PyiuP-B-8RPPqZILzh5diWgJRPOCPTAYRymhGiMIMqIkTCHVapTL8U=w544-h544-l90-rj",
+    "releaseDate": "2021",
+    "tags": [],
+    "title": "LOUNGE, Pt. 2 (Музика до невідзнятого кіно)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m13OYOTQbhJgxVB1N-eSf5zxJC2RT5aSg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-21T22:26:09.014Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Albums"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/QOxmP-mzfVW-S1N8efbr-S3Yfnc8Z-Jr7YS6u1ef2JJn_0x5iYKfS7_arS-kZXgLQABDUao72K7K0rU=w544-h544-l90-rj",
+    "releaseDate": "2019",
+    "tags": [],
+    "title": "Genom",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kFUIba6AaX9a1MjgIIiR-WSHvve8Kpd5c"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-21T22:26:09.014Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Albums"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/i3hIJCLlaNKepwUeQ4261JDUEr51R6G_loESHoSqeMDs-TqQyvHyNngA-_JICJYWMQFAOcJfXoYIFXM=w544-h544-l90-rj",
+    "releaseDate": "2018",
+    "tags": [],
+    "title": "Новорічні пісні",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nUjoAFwlcXJP0jBZppCTojqBJNI-IH5Fg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-21T22:26:09.014Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Albums"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/BO_3agNQlu76GGW8Fyr5_NYmVAj8Cl1brqOMuyHJqTmFWHitkn_82pwJvhWYOX_kKCMZZHWRvwJihaqWgw=w544-h544-l90-rj",
+    "releaseDate": "2006",
+    "tags": [],
+    "title": "Трохи теплих слів",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mMe8fY91f1vPTNORPdXCenQx-pB8_DAhk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-21T22:26:09.014Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Albums"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/xwyFhygsKtn_tuYMe4TTHeiQNw95vOZh1Om3JeXcBXQlFGIac9hWkdNFuuXgsSrK53b9ShDd63d6pKw=w544-h544-l90-rj",
+    "releaseDate": "2004",
+    "tags": [],
+    "title": "НЕДІЛЯ",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nQXUR5M4VHVvd3cc8oQjCCbhoDH2mtGo0"
   }
 ]
