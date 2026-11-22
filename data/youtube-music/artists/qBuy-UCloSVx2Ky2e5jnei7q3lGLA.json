@@ -405,5 +405,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kNJ9pv5YkSrW0R6wko1tyt1hUER7Bu2Gk"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-22T02:42:32.411Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "qBuy"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/Hbwt4zSxHjQsYkkAG6STP-vlvKBns_VHdFNSpmU-bIfiOmTgV8m_6tL9A9IBtlGaKtNOVpXbLh_83aLE=w544-h544-l90-rj",
+    "releaseDate": "2023",
+    "tags": [
+      "rap"
+    ],
+    "title": "нудно",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kWwJRbX6ZvD0Z4Ec8HuaEsXCGy4ARr6vk"
   }
 ]

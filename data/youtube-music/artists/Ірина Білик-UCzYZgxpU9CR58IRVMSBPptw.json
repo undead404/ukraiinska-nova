@@ -588,6 +588,10 @@
       {
         "time": "2026-08-08T02:35:43.801Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-11-22T02:40:07.620Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -670,5 +674,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kbcDzrxc_vYu3H8i0GcDXLynM2gBRCelY"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-22T02:40:07.620Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ірина Білик"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/RnnH8eI5qNr7_jMZcWZL_SIbhfxrA0gjm5DhRAbMYUNqt9K5D2K-S1KTaQQFfXIoVc114NqNNSb50gvU=w544-h544-l90-rj",
+    "releaseDate": "2000",
+    "tags": [
+      "pop"
+    ],
+    "title": "Нова",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lOA_w5KUoieelMFLxe16RVSsJPRHphCzM"
   }
 ]
