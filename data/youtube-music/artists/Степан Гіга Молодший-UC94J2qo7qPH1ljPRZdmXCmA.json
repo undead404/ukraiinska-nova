@@ -226,6 +226,10 @@
       {
         "time": "2026-09-11T23:32:59.454Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-11-22T23:52:15.633Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -296,6 +300,10 @@
       {
         "time": "2026-09-11T23:32:59.454Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-11-22T23:52:15.633Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -464,5 +472,43 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nAHnXWYedpsycJ-sU2Jtp22SGoudTS11o"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-22T23:52:15.633Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Steve G"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/5zRjr_VELLMgKH3ONVqZPmem62XAg6OWEfbsVP2TeUEfAsVRQ4jL6UsjqWAuPQyJaWdXc6URkbm2ox_I=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [],
+    "title": "Ти кохана моя",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nULTDfpgIo-mpI1o0ZDWQleWrHAYHkPW0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-22T23:52:15.633Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Steve G"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/WeGO4voiChpkXELmHfqU9r1-9Ag4oUsT0WLew4B8XtsgYUcI-xqYo6QfnahhtA6zdSIWjSTk9UO8Fjs8=w544-h544-l90-rj",
+    "releaseDate": "2022",
+    "tags": [],
+    "title": "Поруч",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l8pY3zk17Yh-TX7k-LVpX-fWjZErzeS2I"
   }
 ]
