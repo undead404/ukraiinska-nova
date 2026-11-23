@@ -207,5 +207,62 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kwbTcAU0zpjAPlvnVxd0Li5Bl5543nI1o"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-23T20:36:37.676Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Damari"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/XG8bur4_VVJqmutHKhKlQHxO_mokB_pCuT2SOzlq_7Cqidlsc8oIUriHvgn6fFl5ofZiLQoL4SzJsR85=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "THE ONE",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_meE3WhLSEBq77-etanrKykQBcujx8VN_E"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-23T20:36:37.676Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Damari"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/ep0x2_DAREDxCV7OV8DW7plBaY2KjpZpWbhx-DCftbZonNvX9BBMAay6ub0F36uFEgYrXclHT3fllThf=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "AFTER HOURS",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kDoLwEOm4NaK-WaxuaA6Sjl6r4EOd9Ryo"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-23T20:36:37.676Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Damari"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/SZfSUJ0XJ7WMhLbNyk_O7-6enKf1WXap4c1xfsgLZhSrkfdClT44f9DcT2zysnIqBuALHojrle277BI=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Smoke Screen",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_m5grre2qT9DSG6lg9WlI-fV7PKuM4u2nA"
   }
 ]
