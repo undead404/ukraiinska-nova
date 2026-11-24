@@ -1223,5 +1223,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_niUCwPZbh1aM6R8mHZDtzBEqXeUT9QQC8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-24T05:02:57.946Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SKYLERR"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/8LKvH0VOkbuAPqfHpwSwg8ifwrbqY5SwzqfcZ5dEi0UquvYsBvLA2Z4aRLS_GThb8gQd2-HoWeG9nNF2MQ=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Червоний мак (karmv rmx)",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n6aSYZJcgW4lRzVBhUhZv0f9CX7vPr22Q"
   }
 ]
