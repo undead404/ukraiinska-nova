@@ -1213,6 +1213,10 @@
       {
         "time": "2026-08-03T16:08:25.290Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-11-24T16:28:32.731Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1496,5 +1500,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_ns-hsigCq5Vny8jBZKenockWqJO6Q_GzM"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-24T16:28:32.731Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Іво Бобул"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/e3wUVSNAFboQvcxaGXzaFQ-9YS95Xz-fo1nRBGyj-9F9_84YeUIEi8PiX3r_zV8YRPyERjcWEYUDZegR=w544-h544-l90-rj",
+    "releaseDate": "2002",
+    "tags": [
+      "pop"
+    ],
+    "title": "Небеса очей твоїх",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l1nbYN6P1jD0kvA5Tdmod-Ik-WnzM6XPw"
   }
 ]

@@ -1447,6 +1447,10 @@
       {
         "time": "2025-10-09T16:49:41.412Z",
         "type": "FOUND"
+      },
+      {
+        "time": "2026-11-24T16:28:15.075Z",
+        "type": "LOST"
       }
     ],
     "artists": [
@@ -1886,5 +1890,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nm22zDgzjzHqogqeE5B8mbbNWSDKmp59c"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-24T16:28:15.076Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Анна Трінчер"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/vbmjUZX5bbjWc8W3Kclj4njVDPrMc964nrdMruztJfXEMZ6dHsK7Lhu7F1r7kHxQhxL5-NmL4sfLTmpa=w544-h544-l90-rj",
+    "releaseDate": "2019",
+    "tags": [
+      "pop"
+    ],
+    "title": "Light up the Sky",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kbStGlcEgMVmJgNaq9eq1hGOR_Wi8Huio"
   }
 ]
