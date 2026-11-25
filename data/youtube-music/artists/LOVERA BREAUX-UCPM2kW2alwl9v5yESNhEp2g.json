@@ -983,5 +983,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_m58GoJltXvYhRsvIpjrC4ZhGH4sIgXxxs"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-25T01:07:38.962Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "LOVERA BREAUX"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/JONN86Fs4vkNzl6_ymyZjdT8ektBhTCPdqdnLlzI1idgiXmweHZmskOtaun2iubIln8rsKDlFBv5fdY9=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "indie pop"
+    ],
+    "title": "бачимося рідше",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_klQSVUQg20ZWL-dpH72DW28HgOnuHt9IM"
   }
 ]

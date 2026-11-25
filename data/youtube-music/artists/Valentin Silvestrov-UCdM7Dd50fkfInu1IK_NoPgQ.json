@@ -394,5 +394,71 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nlbqeKDyMYTyf-ShND1Lym_S3vWTY1PSA"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-25T01:08:31.719Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Valentin Silvestrov"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://yt3.googleusercontent.com/fY2qk-t7-wfS1UIcaPnZzpADKwZS9IgRpy-xYJ5Vi4V8OGG1tVjZ5FS-sgsYIJRhLjU3YFQ-d2pGcrOXdA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "contemporary classical",
+      "Classical"
+    ],
+    "title": "Solemn Classical",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mFdx-tALf1atCVzwQcq9Pz10-WlZOk608"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-25T01:08:31.719Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Valentin Silvestrov"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://yt3.googleusercontent.com/IvPCQWI919w8hPT6F8L3kUrU7Poh0LunopZwSRDEnQAJZu2TDvc_IpAolqeAZYJxgQfSCTKdwo-aDQLk4w=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "contemporary classical",
+      "Classical"
+    ],
+    "title": "Meditation And Reflection",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_moTVeqfy_23MDIqKuNMw7-FZQxqcI7B_k"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-25T01:08:31.719Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Valentin Silvestrov"
+    ],
+    "artistsPopularity": 5,
+    "imageUrl": "https://yt3.googleusercontent.com/ID_OSz4sQFlA5MnY7Inlkd_5QHBm0HWCuwyhONW9BDBkqSoh9Tc2sM03Vx-VVIiYlA5WU3OsdZfX6Ng=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "contemporary classical",
+      "Classical"
+    ],
+    "title": "Classical Morning",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lUiXz4FMQFBkUPLlULwVDwN2L7VqfLY44"
   }
 ]

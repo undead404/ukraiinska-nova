@@ -645,5 +645,47 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lS8B_Bar3kmUk6iFE6LYTVyFJvxRoLE5M"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-25T01:08:04.651Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SKOFKA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/GgfExpO04z_VfNlix72O6A_QLEtZ_LOXWZRif6mRk-emKZzuJcYJl5X-wrsmmDOsm4hvhCTkCwvCTZK8=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Танцюй",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mTcD4kU3N_2W-TuAZ4Vi-ps3yUInvy0_k"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-25T01:08:04.651Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SKOFKA"
+    ],
+    "artistsPopularity": 4,
+    "imageUrl": "https://yt3.googleusercontent.com/7o2ufAgPdQOJjumbD3kjjWYVqb-xytCTvYMyAGnGMo3TdjQ5Z5rQ8Mxm3whYNYvLvPQLSpCDQokKTzMF=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap"
+    ],
+    "title": "Hollywood",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_nfqdt206u9HEP1_G4f-gzUBYRzp3qq3yI"
   }
 ]

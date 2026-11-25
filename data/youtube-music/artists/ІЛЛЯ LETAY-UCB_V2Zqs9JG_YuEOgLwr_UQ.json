@@ -719,5 +719,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_lP2i5o-JoTpYBjnVAoSYwud7qoU9wxsc8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-25T01:06:08.301Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "ІЛЛЯ LETAY"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/H14q5u-PxpuahgZFnUhb2lAR1E3faiBsQS0DyiJrkJlMbEQaIw78hiEFR2u846P1HzZ2o0OO4C3tsQ-r=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Як раніше",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_n9Lh5f9dznMR1We5oU0AQ9rZB_-JN7bCs"
   }
 ]
