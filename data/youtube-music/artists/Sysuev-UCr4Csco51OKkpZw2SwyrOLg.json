@@ -3183,5 +3183,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kBUrRnQgWwHWYy-cR-h0lab-FUDdC0iIQ"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-26T13:14:11.685Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Sysuev"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/sFKRs5DNnOX3Acaj6dH1g1xFQKpTRt-dVWLE9qtixqn88B3xDnChe4jyGKZKDD84pw7IwoRJ_6I--XGYiA=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Параноя",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_ngtL1Leq1CVd8V8yx8i7xOgE9rrz51zws"
   }
 ]
