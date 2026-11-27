@@ -2590,5 +2590,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_nBXUlsAIfE-Ed3OO5krPihDkCGc7r0BQI"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-27T23:00:19.462Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Lussy Sky"
+    ],
+    "artistsPopularity": 1,
+    "imageUrl": "https://yt3.googleusercontent.com/c0UB5PyqFEmQUJqWd5NDZD4NmyXydXOr1D9HFsOB1SnAmqV2UhwOJUBUObnQuni88yF13s87ap96J34=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Buster",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_kimP7mEUQ-pACxNNt1FDQ9vwdr_Wxkszw"
   }
 ]

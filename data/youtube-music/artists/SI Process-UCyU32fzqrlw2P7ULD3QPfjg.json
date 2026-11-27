@@ -641,5 +641,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_kShFV9C48-QyuO9Pm6OWK07mGPe-4UT_0"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-27T23:01:07.575Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "SI Process"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/se81ngqXZt0TKjaVo37BRieyoH4dR7W5a4eDe11ol1iwP7_iEu5s4C9W5PlVy8EPbbIu0-hS2aED4lgx=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "electronic"
+    ],
+    "title": "Atonal Lullaby of Reality",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_lHfqO6h22Id7FPkppW91JYsNWHSE51soo"
   }
 ]

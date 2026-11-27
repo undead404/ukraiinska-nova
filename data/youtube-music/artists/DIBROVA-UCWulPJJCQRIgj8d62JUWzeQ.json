@@ -1450,5 +1450,26 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mD5sfvIj6kKhD1IR_JxyNh3i5VzhMzZn8"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-27T22:59:38.513Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "DIBROVA"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/LxX7ZbLWp5et8krXHv5kKl21zHoO2r2rzGmgWY8zs2B7zPzhSIW9kzVaSUPrhr3fdXI-Wyjaai7vs5nS=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "pop"
+    ],
+    "title": "Гарна вона",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_k-BVm9BSK261pEezq_g8_ONTMNj4yblSY"
   }
 ]
