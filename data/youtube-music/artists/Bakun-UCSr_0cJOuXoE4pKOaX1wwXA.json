@@ -562,5 +562,28 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_km-GheQYooc38TyUtFDd3JB_KEeqfBi2I"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-27T14:25:10.729Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Bakun"
+    ],
+    "artistsPopularity": 3,
+    "imageUrl": "https://yt3.googleusercontent.com/2X8W-oZYAIFOCK_4ztjgCQlfj7nvpEML3WKSnQ26JL98fgya6EKkRjueY6XKzUW5kLa7kDt35Ptm8KYj=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [
+      "rap",
+      "electronic",
+      "trap"
+    ],
+    "title": "Скоро Різдво",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_l5EPrrgBiw5kl8A59F-9WF4rypE5wb0P8"
   }
 ]

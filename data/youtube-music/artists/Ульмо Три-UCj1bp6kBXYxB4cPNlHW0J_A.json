@@ -701,5 +701,24 @@
     "totalTracks": null,
     "type": "album",
     "url": "https://music.youtube.com/playlist?list=OLAK5uy_mnMyhpJJcF6PZJXEqDOZJYOCpoCBPBUIg"
+  },
+  {
+    "appearanceLog": [
+      {
+        "time": "2026-11-27T14:24:44.536Z",
+        "type": "FOUND"
+      }
+    ],
+    "artists": [
+      "Ульмо Три"
+    ],
+    "artistsPopularity": 2,
+    "imageUrl": "https://yt3.googleusercontent.com/17rJVb_3XUu3AvbXIYGAV3lMIAhFZCNsaye54aEBnhb_T5k-C3x8XUVkkIyUBbnjY-rLxwhe1wJ63Lw=w544-h544-l90-rj",
+    "releaseDate": "2026",
+    "tags": [],
+    "title": "Пальне",
+    "totalTracks": null,
+    "type": "album",
+    "url": "https://music.youtube.com/playlist?list=OLAK5uy_mqL2q9pXSqklHbGvp3uNzWyPXH3jNyhYc"
   }
 ]
